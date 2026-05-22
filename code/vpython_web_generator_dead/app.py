@@ -9,6 +9,8 @@ Run:
 
 Then open:
     http://127.0.0.1:5000
+
+This version explicitly registers /, /index, and /index.html for the generator page.
 """
 
 from __future__ import annotations
@@ -30,8 +32,11 @@ from openai import OpenAI
 BASE_DIR = Path(__file__).resolve().parent
 OUTPUT_DIR = BASE_DIR / "outputs"
 RUN_LOG_DIR = OUTPUT_DIR / "run_logs"
+METADATA_DIR = OUTPUT_DIR / "metadata"
+LINK_INDEX_PATH = METADATA_DIR / "seed_script_links.json"
 OUTPUT_DIR.mkdir(exist_ok=True)
 RUN_LOG_DIR.mkdir(exist_ok=True)
+METADATA_DIR.mkdir(exist_ok=True)
 
 app = Flask(__name__)
 
@@ -252,6 +257,111 @@ def save_text(text: str, filename_stem: str, suffix: str) -> str:
 
 
 
+def load_link_index() -> dict[str, Any]:
+    """Load seed-to-script links stored outside the visible output library."""
+    if not LINK_INDEX_PATH.exists():
+        return {"links": []}
+    try:
+        data = json.loads(LINK_INDEX_PATH.read_text(encoding="utf-8"))
+        if isinstance(data, dict) and isinstance(data.get("links"), list):
+            return data
+    except Exception:
+        pass
+    return {"links": []}
+
+
+def save_link_index(data: dict[str, Any]) -> None:
+    LINK_INDEX_PATH.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
+
+
+def seed_identity(seed_source_file: str, seed_number: str, seed_text: str) -> str:
+    """Stable identity for one seed entry inside one saved seed JSON file."""
+    source = str(seed_source_file or "").strip()
+    number = str(seed_number or "").strip()
+    normalized_text = " ".join(str(seed_text or "").split()).lower()
+    return f"{source}::{number}::{slugify(normalized_text, fallback='seed')}"
+
+
+def record_seed_script_link(
+    *,
+    seed_source_file: str,
+    seed_number: str,
+    seed_title: str,
+    seed_text: str,
+    script_filename: str,
+) -> None:
+    """Remember that a saved seed entry produced a specific Python script."""
+    if not seed_source_file or not script_filename:
+        return
+
+    data = load_link_index()
+    identity = seed_identity(seed_source_file, seed_number, seed_text)
+    link = {
+        "seed_id": identity,
+        "seed_source_file": seed_source_file,
+        "seed_number": str(seed_number or ""),
+        "seed_title": seed_title,
+        "seed_text": seed_text,
+        "script_filename": script_filename,
+        "created_at": datetime.now().isoformat(timespec="seconds"),
+    }
+
+    links = [
+        item for item in data.get("links", [])
+        if not (
+            item.get("seed_id") == identity
+            and item.get("script_filename") == script_filename
+        )
+    ]
+    links.append(link)
+    data["links"] = links
+    save_link_index(data)
+
+
+def filename_inference_matches(seed_text: str, script_filename: str) -> bool:
+    """Best-effort matching for scripts created before explicit links existed."""
+    filename_stem = Path(script_filename).stem.lower()
+    seed_slug = slugify(seed_text, fallback="seed").lower()
+    if not seed_slug:
+        return False
+    return seed_slug[:40] in filename_stem or filename_stem in seed_slug
+
+
+def linked_scripts_for_seed(seed_source_file: str, seed: dict[str, Any]) -> list[dict[str, str]]:
+    """Return saved Python scripts linked to a seed entry."""
+    seed_text = seed.get("full_text") or f"{seed.get('title', '')}: {seed.get('description', '')}"
+    identity = seed_identity(seed_source_file, seed.get("number", ""), seed_text)
+    data = load_link_index()
+    linked: dict[str, dict[str, str]] = {}
+
+    for item in data.get("links", []):
+        script_filename = item.get("script_filename")
+        if item.get("seed_id") == identity and script_filename:
+            script_path = OUTPUT_DIR / script_filename
+            if script_path.exists() and script_path.suffix.lower() == ".py":
+                linked[script_filename] = {
+                    "filename": script_filename,
+                    "run_url": f"/run/{script_filename}",
+                    "created_at": item.get("created_at", ""),
+                    "source": "linked",
+                }
+
+    # Also detect older scripts by filename when no explicit link exists.
+    for script_path in OUTPUT_DIR.glob("*.py"):
+        if filename_inference_matches(seed_text, script_path.name):
+            linked.setdefault(
+                script_path.name,
+                {
+                    "filename": script_path.name,
+                    "run_url": f"/run/{script_path.name}",
+                    "created_at": datetime.fromtimestamp(script_path.stat().st_mtime).isoformat(timespec="seconds"),
+                    "source": "filename match",
+                },
+            )
+
+    return sorted(linked.values(), key=lambda item: item.get("created_at", ""), reverse=True)
+
+
 def safe_output_path(filename: str, allowed_suffixes: tuple[str, ...] = (".json", ".py")) -> Path:
     """Return a safe path inside outputs/ for a saved output file."""
     if not filename or Path(filename).name != filename:
@@ -341,27 +451,35 @@ def handle_error(exc: Exception):
     return jsonify({"error": message}), status
 
 
-@app.get("/")
+@app.route("/", methods=["GET"])
+@app.route("/index", methods=["GET"])
+@app.route("/index.html", methods=["GET"])
 def index():
     return render_template("index.html")
 
 
-@app.get("/previous")
+@app.route("/previous", methods=["GET"])
 def previous_outputs():
     return render_template("previous.html")
 
 
-@app.get("/outputs/<path:filename>")
+@app.route("/script-editor/<path:filename>", methods=["GET"])
+def script_editor(filename: str):
+    safe_output_python_path(filename)
+    return render_template("script_editor.html", filename=filename)
+
+
+@app.route("/outputs/<path:filename>", methods=["GET"])
 def output_file(filename: str):
     return send_from_directory(OUTPUT_DIR, filename, as_attachment=True)
 
 
-@app.get("/api/previous")
+@app.route("/api/previous", methods=["GET"])
 def api_previous_outputs():
     return jsonify({"items": list_previous_outputs()})
 
 
-@app.get("/api/previous/<path:filename>")
+@app.route("/api/previous/<path:filename>", methods=["GET"])
 def api_previous_output_detail(filename: str):
     path = safe_output_path(filename)
     metadata = file_metadata(path)
@@ -371,19 +489,79 @@ def api_previous_output_detail(filename: str):
             data = json.loads(path.read_text(encoding="utf-8"))
         except json.JSONDecodeError:
             data = {"raw_text": path.read_text(encoding="utf-8"), "seeds": []}
+
+        seeds = data.get("seeds", []) or []
+        if isinstance(seeds, list):
+            enriched_seeds = []
+            for seed in seeds:
+                if isinstance(seed, dict):
+                    enriched = dict(seed)
+                    enriched["linked_scripts"] = linked_scripts_for_seed(path.name, enriched)
+                    enriched_seeds.append(enriched)
+                else:
+                    enriched_seeds.append(seed)
+            data["seeds"] = enriched_seeds
+
         return jsonify({"metadata": metadata, "data": data})
 
     source = path.read_text(encoding="utf-8")
     return jsonify({"metadata": metadata, "source": source, "run_url": f"/run/{path.name}"})
 
 
-@app.get("/run/<path:filename>")
+@app.route("/api/script/<path:filename>", methods=["GET"])
+def api_script_detail(filename: str):
+    path = safe_output_python_path(filename)
+    metadata = file_metadata(path)
+    return jsonify({
+        "metadata": metadata,
+        "source": path.read_text(encoding="utf-8"),
+        "run_url": f"/run/{path.name}",
+        "edit_url": f"/script-editor/{path.name}",
+    })
+
+
+@app.route("/api/script/<path:filename>", methods=["POST"])
+def api_save_script(filename: str):
+    path = safe_output_python_path(filename)
+    payload = request.get_json(force=True)
+    source = str(payload.get("source", ""))
+    save_as_copy = bool(payload.get("save_as_copy", False))
+
+    if not source.strip():
+        raise ValueError("Script source cannot be empty.")
+
+    if save_as_copy:
+        new_filename = save_text(source.strip() + "\n", f"edited-{path.stem}", ".py")
+        new_path = OUTPUT_DIR / new_filename
+        metadata = file_metadata(new_path)
+        return jsonify({
+            "message": "Saved edited copy.",
+            "filename": new_filename,
+            "metadata": metadata,
+            "run_url": f"/run/{new_filename}",
+            "edit_url": f"/script-editor/{new_filename}",
+            "download": new_filename,
+        })
+
+    path.write_text(source.strip() + "\n", encoding="utf-8")
+    metadata = file_metadata(path)
+    return jsonify({
+        "message": "Saved script changes.",
+        "filename": path.name,
+        "metadata": metadata,
+        "run_url": f"/run/{path.name}",
+        "edit_url": f"/script-editor/{path.name}",
+        "download": path.name,
+    })
+
+
+@app.route("/run/<path:filename>", methods=["GET"])
 def run_simulation(filename: str):
     run_info = launch_vpython_script(filename)
     return render_template("run.html", **run_info)
 
 
-@app.post("/api/seeds")
+@app.route("/api/seeds", methods=["POST"])
 def api_generate_seeds():
     payload = request.get_json(force=True)
     phrase = str(payload.get("phrase", "")).strip()
@@ -412,13 +590,16 @@ def api_generate_seeds():
     return jsonify({"raw_text": raw_text, "seeds": seeds, "download": download})
 
 
-@app.post("/api/simulation")
+@app.route("/api/simulation", methods=["POST"])
 def api_generate_simulation():
     payload = request.get_json(force=True)
     seed = str(payload.get("seed", "")).strip()
     model = str(payload.get("model") or SIMULATION_MODEL_DEFAULT).strip()
     temperature_value = payload.get("temperature", None)
     save_output = bool(payload.get("save", True))
+    seed_source_file = str(payload.get("seed_source_file", "")).strip()
+    seed_number = str(payload.get("seed_number", "")).strip()
+    seed_title = str(payload.get("seed_title", "")).strip()
 
     temperature = None if temperature_value in (None, "") else float(temperature_value)
     raw_text = call_llm(build_simulation_prompt(seed), model=model, temperature=temperature)
@@ -427,26 +608,54 @@ def api_generate_simulation():
     # Always save a runnable copy so the page can create an "Open and run" link.
     run_file = save_text(source, f"vpython-simulation-{seed}", ".py")
 
+    if seed_source_file:
+        record_seed_script_link(
+            seed_source_file=seed_source_file,
+            seed_number=seed_number,
+            seed_title=seed_title,
+            seed_text=seed,
+            script_filename=run_file,
+        )
+
     download = run_file if save_output else None
     run_url = f"/run/{run_file}"
 
-    return jsonify({"source": source, "download": download, "run_url": run_url})
+    return jsonify({"source": source, "download": download, "run_url": run_url, "script_filename": run_file})
 
 
-@app.post("/api/batch")
+@app.route("/api/batch", methods=["POST"])
 def api_batch_generate():
-    """Process multiple seed/code generation requests in order.
+    """Process two explicit queues in order.
 
-    Each request can provide either:
-    - phrase: generate seed ideas first, then optionally generate code from one parsed seed
-    - seed: skip seed generation and generate code directly from this simulation seed
+    Queue 1: seed_requests contains short words/phrases. Each line generates and saves
+    a seed JSON file.
 
-    The loop is intentionally synchronous and ordered so only one LLM call runs at a time.
+    Queue 2: code_requests contains full simulation seed/scene descriptions. Each line
+    generates and saves a runnable VPython script.
+
+    The function is intentionally synchronous and ordered, so only one LLM call starts
+    after the previous LLM call has finished.
     """
     payload = request.get_json(force=True)
-    raw_requests = payload.get("requests", [])
-    if not isinstance(raw_requests, list) or not raw_requests:
-        raise ValueError("Add at least one batch request.")
+    seed_requests = payload.get("seed_requests", [])
+    code_requests = payload.get("code_requests", [])
+
+    # Backward compatibility with the earlier single batch box format.
+    legacy_requests = payload.get("requests", [])
+    if legacy_requests and not seed_requests and not code_requests:
+        seed_requests = [str(item.get("phrase", "")).strip() for item in legacy_requests if isinstance(item, dict) and item.get("phrase")]
+        code_requests = [str(item.get("seed", "")).strip() for item in legacy_requests if isinstance(item, dict) and item.get("seed")]
+
+    if not isinstance(seed_requests, list):
+        raise ValueError("seed_requests must be a list.")
+    if not isinstance(code_requests, list):
+        raise ValueError("code_requests must be a list.")
+
+    seed_requests = [str(item).strip() for item in seed_requests if str(item).strip()]
+    code_requests = [str(item).strip() for item in code_requests if str(item).strip()]
+
+    if not seed_requests and not code_requests:
+        raise ValueError("Add at least one seed request or code request.")
 
     seed_model = str(payload.get("seed_model") or SEED_MODEL_DEFAULT).strip()
     simulation_model = str(payload.get("simulation_model") or SIMULATION_MODEL_DEFAULT).strip()
@@ -454,8 +663,6 @@ def api_batch_generate():
     simulation_temperature_value = payload.get("simulation_temperature", None)
     save_seeds = bool(payload.get("save_seeds", True))
     save_simulations = bool(payload.get("save_simulations", True))
-    generate_code = bool(payload.get("generate_code", True))
-    selected_seed_index = int(payload.get("selected_seed_index", 1) or 1)
 
     seed_temperature = (
         SEED_TEMPERATURE_DEFAULT
@@ -469,78 +676,77 @@ def api_batch_generate():
     )
 
     results: list[dict[str, Any]] = []
+    index = 0
 
-    for index, item in enumerate(raw_requests, start=1):
-        if not isinstance(item, dict):
-            results.append({"index": index, "status": "error", "error": "Invalid request item."})
-            continue
-
-        phrase = str(item.get("phrase", "")).strip()
-        direct_seed = str(item.get("seed", "")).strip()
-        label = phrase or direct_seed or f"request-{index}"
+    for phrase in seed_requests:
+        index += 1
         result: dict[str, Any] = {
             "index": index,
-            "label": label,
+            "queue": "seeds",
+            "label": phrase,
             "status": "started",
             "seed_download": None,
             "script_download": None,
             "run_url": None,
             "seed_count": 0,
-            "selected_seed": None,
         }
-
         try:
-            selected_seed_for_code = direct_seed
+            raw_seed_text = call_llm(
+                build_seed_prompt(phrase),
+                model=seed_model,
+                temperature=seed_temperature,
+            )
+            seeds = parse_seed_ideas(raw_seed_text)
+            result["seed_count"] = len(seeds)
+            result["raw_seed_text"] = raw_seed_text
+            result["seeds"] = seeds
 
-            if phrase:
-                raw_seed_text = call_llm(
-                    build_seed_prompt(phrase),
-                    model=seed_model,
-                    temperature=seed_temperature,
+            if save_seeds:
+                result["seed_download"] = save_json(
+                    {
+                        "created_at": datetime.now().isoformat(timespec="seconds"),
+                        "batch_index": index,
+                        "queue": "seeds",
+                        "phrase": phrase,
+                        "model": seed_model,
+                        "temperature": seed_temperature,
+                        "raw_text": raw_seed_text,
+                        "seeds": seeds,
+                    },
+                    f"batch-seeds-{index}-{phrase}-simulation-seeds",
                 )
-                seeds = parse_seed_ideas(raw_seed_text)
-                result["seed_count"] = len(seeds)
-                result["raw_seed_text"] = raw_seed_text
-                result["seeds"] = seeds
 
-                if save_seeds:
-                    result["seed_download"] = save_json(
-                        {
-                            "created_at": datetime.now().isoformat(timespec="seconds"),
-                            "batch_index": index,
-                            "phrase": phrase,
-                            "model": seed_model,
-                            "temperature": seed_temperature,
-                            "raw_text": raw_seed_text,
-                            "seeds": seeds,
-                        },
-                        f"batch-{index}-{phrase}-simulation-seeds",
-                    )
+            result["status"] = "complete"
+        except Exception as exc:
+            result["status"] = "error"
+            result["error"] = str(exc)
 
-                if not direct_seed:
-                    if seeds:
-                        safe_index = max(1, min(selected_seed_index, len(seeds))) - 1
-                        selected_seed_for_code = seeds[safe_index]["full_text"]
-                    else:
-                        selected_seed_for_code = raw_seed_text.strip()
+        results.append(result)
 
-            if generate_code:
-                if not selected_seed_for_code:
-                    raise ValueError("Request needs a phrase or a direct simulation seed.")
-
-                result["selected_seed"] = selected_seed_for_code
-                raw_simulation_text = call_llm(
-                    build_simulation_prompt(selected_seed_for_code),
-                    model=simulation_model,
-                    temperature=simulation_temperature,
-                )
-                source = extract_python_source(raw_simulation_text)
-                run_file = save_text(source, f"batch-{index}-vpython-simulation-{selected_seed_for_code}", ".py")
-                result["script_download"] = run_file if save_simulations else None
-                result["run_url"] = f"/run/{run_file}"
-                result["source_preview"] = source[:4000]
-                result["source_length"] = len(source)
-
+    for seed in code_requests:
+        index += 1
+        result = {
+            "index": index,
+            "queue": "code",
+            "label": seed,
+            "status": "started",
+            "seed_download": None,
+            "script_download": None,
+            "run_url": None,
+            "seed_count": 0,
+        }
+        try:
+            raw_simulation_text = call_llm(
+                build_simulation_prompt(seed),
+                model=simulation_model,
+                temperature=simulation_temperature,
+            )
+            source = extract_python_source(raw_simulation_text)
+            run_file = save_text(source, f"batch-code-{index}-vpython-simulation-{seed}", ".py")
+            result["script_download"] = run_file if save_simulations else None
+            result["run_url"] = f"/run/{run_file}"
+            result["source_preview"] = source[:4000]
+            result["source_length"] = len(source)
             result["status"] = "complete"
         except Exception as exc:
             result["status"] = "error"

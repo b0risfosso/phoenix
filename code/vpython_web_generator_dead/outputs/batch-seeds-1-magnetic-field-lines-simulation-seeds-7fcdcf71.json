@@ -1,0 +1,161 @@
+{
+  "created_at": "2026-05-22T03:01:56",
+  "batch_index": 1,
+  "queue": "seeds",
+  "phrase": "magnetic field lines",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "raw_text": "Here are strong **magnetic field lines simulation inputs** you can plug into your prompt:\n\n1. **Bar Magnet With Iron Filings Field Lines**\n   A central 3D bar magnet creates animated magnetic field lines drawn as curved glowing tubes while hundreds of tiny iron-filing rods float, rotate, and then align and cluster along the lines, with a light background and color-coded poles.\n\n2. **Dipole Earth Magnetic Field and Solar Wind**\n   A textured Earth sphere with a tilted magnetic dipole generates looping field lines while a stream of charged-particle spheres (“solar wind”) flows in, gets deflected, trapped, or funneled along the lines, forming glowing auroral curtains at the poles.\n\n3. **Two Moving Bar Magnets With Dynamic Field Lines**\n   Two bar magnets on frictionless tracks can be dragged by the mouse, with their 3D field lines recalculating and smoothly morphing, showing attraction/repulsion as lines merge, bulge, and pinch, with color gradients indicating field strength.\n\n4. **Current-Carrying Wire and Circular Field Lines**\n   A long vertical wire with animated current arrows creates concentric circular magnetic field lines drawn as rotating rings; test charges orbit or spiral along these rings, leaving fading trails that show their curved paths.\n\n5. **Magnetic Field of a Circular Loop Coil**\n   A horizontal current loop (or solenoid segment) generates donut-shaped and arching field lines; floating compass needles (short arrows) drift, rotate, and then lock onto the local field direction, with labels and field strength color bars.\n\n6. **MRI-Style Strong Magnet With Human-Body Phantom**\n   A large cylindrical magnet creates a nearly uniform interior field drawn as parallel semi-transparent tubes passing through a simple human-body phantom, while labeled “spins” (tiny arrows) precess and gradually align with the field, emitting brief glowing pulses.\n\n7. **Magnetic Field Lines in a Tokamak Fusion Ring**\n   A toroidal chamber with a bright plasma ring shows helical magnetic field lines wrapping around the torus; charged particles spiral along those lines, collide softly with virtual “wall” detectors, and trigger brief flashes where they touch.\n\n8. **Ferrofluid Spikes Around a Magnet**\n   A bar magnet under a flat, shallow, transparent dish of ferrofluid particles causes the surface to grow spiky, cone-like structures along simulated field lines; particles climb, merge into spikes, then relax and spread when the magnet is moved away.\n\n9. **Magnet Falling Through a Conductive Tube (Eddy Currents)**\n   A cylindrical tube with a falling magnet inside shows induced circular eddy-current loops as glowing bands whose intensity and direction change over time, while curved magnetic field lines compress and expand around the falling magnet.\n\n10. **Domain Alignment in a Magnetizing Iron Rod**\n    A long iron rod is filled with small, randomly oriented magnetic domain arrows that gradually rotate and grow as an external magnet sweeps by, showing internal field lines straightening and strengthening while some domains detach and flip.\n\n11. **Magnetic Field Lines Around a Dipole Antenna**\n    A vertical dipole antenna emits time-varying fields visualized as pulsing, expanding 3D loops of magnetic field lines orthogonal to electric-field arrows, with color cycling to indicate phase and a semi-transparent ground plane.\n\n12. **Magnetic Trapping of Cold Atoms**\n    A quadrupole magnet arrangement creates a bowl-shaped magnetic field landscape represented by curved, nested field lines; glowing particle “atoms” bounce, slow, and condense near the minimum, with trajectories colored by kinetic energy.\n\n13. **Electromagnet With Adjustable Current Slider**\n    A cylindrical coil wrapped around an iron core shows field lines that strengthen, thicken, and extend as a user-controlled slider increases current, while a suspended iron ball swings, attaches, and detaches based on the changing magnetic pull.\n\n14. **Magnetic Field Lines in a Simple Electric Motor**\n    A rectangular wire loop in a uniform field rotates as current switches direction, with 3D field lines from the stator magnets interacting with the loop’s own field, showing regions where lines crowd, twist, and momentarily cancel.\n\n15. **Magnetic Field Mapping With Moving Probe**\n    A small robot sphere carrying a 3D arrow “probe” moves on a grid around a fixed bar magnet, sampling and leaving tiny arrow markers that gradually build a full field-line map while a trailing line records its scanning path.\n\n16. **Magnetosphere Compression by Solar Storm**\n    An Earth dipole field is gradually compressed on the sunward side as a denser stream of particle spheres slams into it; field lines on the dayside get pushed in and reconnect on the nightside, flinging particle bursts along newly formed lines.\n\n17. **3D Lattice of Magnets and Frustrated Field Lines**\n    A cubic lattice of small bar magnets can be toggled on or off, with their combined field lines weaving, cancelling, and forming complex knots; user clicks flip individual magnets, instantly reshaping the tangled 3D line structure.\n\n18. **Magnetic Levitation of a Superconductor Over a Track**\n    A superconducting puck hovers above a magnetic track, with field lines shown bending and being expelled from its interior (Meissner-like), while the puck glides, tilts, and recenters itself as the track shape curves and splits.\n\n19. **Magnetic Field Lines of a Binary Star System**\n    Two magnetized stars orbit each other, each with colorful magnetic field lines that stretch, merge, and reconnect between them; plasma particles spiral along connecting lines, occasionally slingshotting away as jets.\n\n20. **Magnetic Field Lines in a Particle Accelerator Bend**\n    A curved dipole magnet segment bends a fast-moving charged particle beam, with field lines forming a uniform, color-coded region; individual particles leave glowing trails that arc precisely through the field and collide with a detector plate.\n\n21. **Magnetic Field Lines Visualized as Elastic Bands**\n    A set of semi-transparent elastic loops snaps into place around a movable magnet like stretched rubber bands; as the magnet is dragged or rotated, the loops stretch, twist, merge, and occasionally “reconnect” with a brief glow.\n\n22. **Magnetic Field Lines in a Galaxy’s Spiral Arms**\n    A rotating spiral galaxy with stars as particles includes large-scale magnetic field lines arcing between spiral arms; charged dust grains drift inward and then align and stream along these lines, creating subtle glowing filaments.\n\n23. **Magnet-Driven Particle Sorting Conveyor**\n    A conveyor belt drops mixed metallic and non-magnetic spheres near a strong magnet; field lines emanate and wrap around the magnet while only magnetic spheres are pulled off the belt, following curved paths that hug the lines into a separate bin.\n\n24. **Interactive Compass Swarm Around a Magnet**\n    Hundreds of tiny compass-needle arrows float in 3D around a central magnet, initially jiggling with random motion, then gradually aligning with local field lines, forming visible shells and arches that shift as the magnet is rotated.\n\n25. **Magnetic Field Lines Sculpting Plasma Fountain**\n    A vertical magnetic dipole at the base drives a glowing plasma fountain: charged particle streams rise, split, and then arc back down along looping field lines, leaving fading trails that trace the 3D structure of the field.",
+  "seeds": [
+    {
+      "number": "1",
+      "title": "Bar Magnet With Iron Filings Field Lines",
+      "description": "A central 3D bar magnet creates animated magnetic field lines drawn as curved glowing tubes while hundreds of tiny iron-filing rods float, rotate, and then align and cluster along the lines, with a light background and color-coded poles.",
+      "full_text": "Bar Magnet With Iron Filings Field Lines: A central 3D bar magnet creates animated magnetic field lines drawn as curved glowing tubes while hundreds of tiny iron-filing rods float, rotate, and then align and cluster along the lines, with a light background and color-coded poles."
+    },
+    {
+      "number": "2",
+      "title": "Dipole Earth Magnetic Field and Solar Wind",
+      "description": "A textured Earth sphere with a tilted magnetic dipole generates looping field lines while a stream of charged-particle spheres (“solar wind”) flows in, gets deflected, trapped, or funneled along the lines, forming glowing auroral curtains at the poles.",
+      "full_text": "Dipole Earth Magnetic Field and Solar Wind: A textured Earth sphere with a tilted magnetic dipole generates looping field lines while a stream of charged-particle spheres (“solar wind”) flows in, gets deflected, trapped, or funneled along the lines, forming glowing auroral curtains at the poles."
+    },
+    {
+      "number": "3",
+      "title": "Two Moving Bar Magnets With Dynamic Field Lines",
+      "description": "Two bar magnets on frictionless tracks can be dragged by the mouse, with their 3D field lines recalculating and smoothly morphing, showing attraction/repulsion as lines merge, bulge, and pinch, with color gradients indicating field strength.",
+      "full_text": "Two Moving Bar Magnets With Dynamic Field Lines: Two bar magnets on frictionless tracks can be dragged by the mouse, with their 3D field lines recalculating and smoothly morphing, showing attraction/repulsion as lines merge, bulge, and pinch, with color gradients indicating field strength."
+    },
+    {
+      "number": "4",
+      "title": "Current-Carrying Wire and Circular Field Lines",
+      "description": "A long vertical wire with animated current arrows creates concentric circular magnetic field lines drawn as rotating rings; test charges orbit or spiral along these rings, leaving fading trails that show their curved paths.",
+      "full_text": "Current-Carrying Wire and Circular Field Lines: A long vertical wire with animated current arrows creates concentric circular magnetic field lines drawn as rotating rings; test charges orbit or spiral along these rings, leaving fading trails that show their curved paths."
+    },
+    {
+      "number": "5",
+      "title": "Magnetic Field of a Circular Loop Coil",
+      "description": "A horizontal current loop (or solenoid segment) generates donut-shaped and arching field lines; floating compass needles (short arrows) drift, rotate, and then lock onto the local field direction, with labels and field strength color bars.",
+      "full_text": "Magnetic Field of a Circular Loop Coil: A horizontal current loop (or solenoid segment) generates donut-shaped and arching field lines; floating compass needles (short arrows) drift, rotate, and then lock onto the local field direction, with labels and field strength color bars."
+    },
+    {
+      "number": "6",
+      "title": "MRI-Style Strong Magnet With Human-Body Phantom",
+      "description": "A large cylindrical magnet creates a nearly uniform interior field drawn as parallel semi-transparent tubes passing through a simple human-body phantom, while labeled “spins” (tiny arrows) precess and gradually align with the field, emitting brief glowing pulses.",
+      "full_text": "MRI-Style Strong Magnet With Human-Body Phantom: A large cylindrical magnet creates a nearly uniform interior field drawn as parallel semi-transparent tubes passing through a simple human-body phantom, while labeled “spins” (tiny arrows) precess and gradually align with the field, emitting brief glowing pulses."
+    },
+    {
+      "number": "7",
+      "title": "Magnetic Field Lines in a Tokamak Fusion Ring",
+      "description": "A toroidal chamber with a bright plasma ring shows helical magnetic field lines wrapping around the torus; charged particles spiral along those lines, collide softly with virtual “wall” detectors, and trigger brief flashes where they touch.",
+      "full_text": "Magnetic Field Lines in a Tokamak Fusion Ring: A toroidal chamber with a bright plasma ring shows helical magnetic field lines wrapping around the torus; charged particles spiral along those lines, collide softly with virtual “wall” detectors, and trigger brief flashes where they touch."
+    },
+    {
+      "number": "8",
+      "title": "Ferrofluid Spikes Around a Magnet",
+      "description": "A bar magnet under a flat, shallow, transparent dish of ferrofluid particles causes the surface to grow spiky, cone-like structures along simulated field lines; particles climb, merge into spikes, then relax and spread when the magnet is moved away.",
+      "full_text": "Ferrofluid Spikes Around a Magnet: A bar magnet under a flat, shallow, transparent dish of ferrofluid particles causes the surface to grow spiky, cone-like structures along simulated field lines; particles climb, merge into spikes, then relax and spread when the magnet is moved away."
+    },
+    {
+      "number": "9",
+      "title": "Magnet Falling Through a Conductive Tube (Eddy Currents)",
+      "description": "A cylindrical tube with a falling magnet inside shows induced circular eddy-current loops as glowing bands whose intensity and direction change over time, while curved magnetic field lines compress and expand around the falling magnet.",
+      "full_text": "Magnet Falling Through a Conductive Tube (Eddy Currents): A cylindrical tube with a falling magnet inside shows induced circular eddy-current loops as glowing bands whose intensity and direction change over time, while curved magnetic field lines compress and expand around the falling magnet."
+    },
+    {
+      "number": "10",
+      "title": "Domain Alignment in a Magnetizing Iron Rod",
+      "description": "A long iron rod is filled with small, randomly oriented magnetic domain arrows that gradually rotate and grow as an external magnet sweeps by, showing internal field lines straightening and strengthening while some domains detach and flip.",
+      "full_text": "Domain Alignment in a Magnetizing Iron Rod: A long iron rod is filled with small, randomly oriented magnetic domain arrows that gradually rotate and grow as an external magnet sweeps by, showing internal field lines straightening and strengthening while some domains detach and flip."
+    },
+    {
+      "number": "11",
+      "title": "Magnetic Field Lines Around a Dipole Antenna",
+      "description": "A vertical dipole antenna emits time-varying fields visualized as pulsing, expanding 3D loops of magnetic field lines orthogonal to electric-field arrows, with color cycling to indicate phase and a semi-transparent ground plane.",
+      "full_text": "Magnetic Field Lines Around a Dipole Antenna: A vertical dipole antenna emits time-varying fields visualized as pulsing, expanding 3D loops of magnetic field lines orthogonal to electric-field arrows, with color cycling to indicate phase and a semi-transparent ground plane."
+    },
+    {
+      "number": "12",
+      "title": "Magnetic Trapping of Cold Atoms",
+      "description": "A quadrupole magnet arrangement creates a bowl-shaped magnetic field landscape represented by curved, nested field lines; glowing particle “atoms” bounce, slow, and condense near the minimum, with trajectories colored by kinetic energy.",
+      "full_text": "Magnetic Trapping of Cold Atoms: A quadrupole magnet arrangement creates a bowl-shaped magnetic field landscape represented by curved, nested field lines; glowing particle “atoms” bounce, slow, and condense near the minimum, with trajectories colored by kinetic energy."
+    },
+    {
+      "number": "13",
+      "title": "Electromagnet With Adjustable Current Slider",
+      "description": "A cylindrical coil wrapped around an iron core shows field lines that strengthen, thicken, and extend as a user-controlled slider increases current, while a suspended iron ball swings, attaches, and detaches based on the changing magnetic pull.",
+      "full_text": "Electromagnet With Adjustable Current Slider: A cylindrical coil wrapped around an iron core shows field lines that strengthen, thicken, and extend as a user-controlled slider increases current, while a suspended iron ball swings, attaches, and detaches based on the changing magnetic pull."
+    },
+    {
+      "number": "14",
+      "title": "Magnetic Field Lines in a Simple Electric Motor",
+      "description": "A rectangular wire loop in a uniform field rotates as current switches direction, with 3D field lines from the stator magnets interacting with the loop’s own field, showing regions where lines crowd, twist, and momentarily cancel.",
+      "full_text": "Magnetic Field Lines in a Simple Electric Motor: A rectangular wire loop in a uniform field rotates as current switches direction, with 3D field lines from the stator magnets interacting with the loop’s own field, showing regions where lines crowd, twist, and momentarily cancel."
+    },
+    {
+      "number": "15",
+      "title": "Magnetic Field Mapping With Moving Probe",
+      "description": "A small robot sphere carrying a 3D arrow “probe” moves on a grid around a fixed bar magnet, sampling and leaving tiny arrow markers that gradually build a full field-line map while a trailing line records its scanning path.",
+      "full_text": "Magnetic Field Mapping With Moving Probe: A small robot sphere carrying a 3D arrow “probe” moves on a grid around a fixed bar magnet, sampling and leaving tiny arrow markers that gradually build a full field-line map while a trailing line records its scanning path."
+    },
+    {
+      "number": "16",
+      "title": "Magnetosphere Compression by Solar Storm",
+      "description": "An Earth dipole field is gradually compressed on the sunward side as a denser stream of particle spheres slams into it; field lines on the dayside get pushed in and reconnect on the nightside, flinging particle bursts along newly formed lines.",
+      "full_text": "Magnetosphere Compression by Solar Storm: An Earth dipole field is gradually compressed on the sunward side as a denser stream of particle spheres slams into it; field lines on the dayside get pushed in and reconnect on the nightside, flinging particle bursts along newly formed lines."
+    },
+    {
+      "number": "17",
+      "title": "3D Lattice of Magnets and Frustrated Field Lines",
+      "description": "A cubic lattice of small bar magnets can be toggled on or off, with their combined field lines weaving, cancelling, and forming complex knots; user clicks flip individual magnets, instantly reshaping the tangled 3D line structure.",
+      "full_text": "3D Lattice of Magnets and Frustrated Field Lines: A cubic lattice of small bar magnets can be toggled on or off, with their combined field lines weaving, cancelling, and forming complex knots; user clicks flip individual magnets, instantly reshaping the tangled 3D line structure."
+    },
+    {
+      "number": "18",
+      "title": "Magnetic Levitation of a Superconductor Over a Track",
+      "description": "A superconducting puck hovers above a magnetic track, with field lines shown bending and being expelled from its interior (Meissner-like), while the puck glides, tilts, and recenters itself as the track shape curves and splits.",
+      "full_text": "Magnetic Levitation of a Superconductor Over a Track: A superconducting puck hovers above a magnetic track, with field lines shown bending and being expelled from its interior (Meissner-like), while the puck glides, tilts, and recenters itself as the track shape curves and splits."
+    },
+    {
+      "number": "19",
+      "title": "Magnetic Field Lines of a Binary Star System",
+      "description": "Two magnetized stars orbit each other, each with colorful magnetic field lines that stretch, merge, and reconnect between them; plasma particles spiral along connecting lines, occasionally slingshotting away as jets.",
+      "full_text": "Magnetic Field Lines of a Binary Star System: Two magnetized stars orbit each other, each with colorful magnetic field lines that stretch, merge, and reconnect between them; plasma particles spiral along connecting lines, occasionally slingshotting away as jets."
+    },
+    {
+      "number": "20",
+      "title": "Magnetic Field Lines in a Particle Accelerator Bend",
+      "description": "A curved dipole magnet segment bends a fast-moving charged particle beam, with field lines forming a uniform, color-coded region; individual particles leave glowing trails that arc precisely through the field and collide with a detector plate.",
+      "full_text": "Magnetic Field Lines in a Particle Accelerator Bend: A curved dipole magnet segment bends a fast-moving charged particle beam, with field lines forming a uniform, color-coded region; individual particles leave glowing trails that arc precisely through the field and collide with a detector plate."
+    },
+    {
+      "number": "21",
+      "title": "Magnetic Field Lines Visualized as Elastic Bands",
+      "description": "A set of semi-transparent elastic loops snaps into place around a movable magnet like stretched rubber bands; as the magnet is dragged or rotated, the loops stretch, twist, merge, and occasionally “reconnect” with a brief glow.",
+      "full_text": "Magnetic Field Lines Visualized as Elastic Bands: A set of semi-transparent elastic loops snaps into place around a movable magnet like stretched rubber bands; as the magnet is dragged or rotated, the loops stretch, twist, merge, and occasionally “reconnect” with a brief glow."
+    },
+    {
+      "number": "22",
+      "title": "Magnetic Field Lines in a Galaxy’s Spiral Arms",
+      "description": "A rotating spiral galaxy with stars as particles includes large-scale magnetic field lines arcing between spiral arms; charged dust grains drift inward and then align and stream along these lines, creating subtle glowing filaments.",
+      "full_text": "Magnetic Field Lines in a Galaxy’s Spiral Arms: A rotating spiral galaxy with stars as particles includes large-scale magnetic field lines arcing between spiral arms; charged dust grains drift inward and then align and stream along these lines, creating subtle glowing filaments."
+    },
+    {
+      "number": "23",
+      "title": "Magnet-Driven Particle Sorting Conveyor",
+      "description": "A conveyor belt drops mixed metallic and non-magnetic spheres near a strong magnet; field lines emanate and wrap around the magnet while only magnetic spheres are pulled off the belt, following curved paths that hug the lines into a separate bin.",
+      "full_text": "Magnet-Driven Particle Sorting Conveyor: A conveyor belt drops mixed metallic and non-magnetic spheres near a strong magnet; field lines emanate and wrap around the magnet while only magnetic spheres are pulled off the belt, following curved paths that hug the lines into a separate bin."
+    },
+    {
+      "number": "24",
+      "title": "Interactive Compass Swarm Around a Magnet",
+      "description": "Hundreds of tiny compass-needle arrows float in 3D around a central magnet, initially jiggling with random motion, then gradually aligning with local field lines, forming visible shells and arches that shift as the magnet is rotated.",
+      "full_text": "Interactive Compass Swarm Around a Magnet: Hundreds of tiny compass-needle arrows float in 3D around a central magnet, initially jiggling with random motion, then gradually aligning with local field lines, forming visible shells and arches that shift as the magnet is rotated."
+    },
+    {
+      "number": "25",
+      "title": "Magnetic Field Lines Sculpting Plasma Fountain",
+      "description": "A vertical magnetic dipole at the base drives a glowing plasma fountain: charged particle streams rise, split, and then arc back down along looping field lines, leaving fading trails that trace the 3D structure of the field.",
+      "full_text": "Magnetic Field Lines Sculpting Plasma Fountain: A vertical magnetic dipole at the base drives a glowing plasma fountain: charged particle streams rise, split, and then arc back down along looping field lines, leaving fading trails that trace the 3D structure of the field."
+    }
+  ]
+}

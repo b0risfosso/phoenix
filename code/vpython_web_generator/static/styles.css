@@ -482,3 +482,126 @@ code { background: #edf2f7; color: var(--ink); padding: 2px 6px; border-radius: 
     grid-template-columns: 1fr;
   }
 }
+
+.linked-seed-card {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.linked-scripts {
+  border-top: 1px solid var(--line);
+  padding-top: 10px;
+  display: grid;
+  gap: 8px;
+  font-size: 0.9rem;
+}
+
+.linked-script-row {
+  display: grid;
+  gap: 4px;
+  padding: 8px;
+  border-radius: 12px;
+  background: #f8fafc;
+}
+
+.inline-link {
+  appearance: none;
+  border: 0;
+  background: transparent;
+  color: var(--accent);
+  font: inherit;
+  font-weight: 800;
+  padding: 0;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.seed-card-actions {
+  margin-top: auto;
+}
+
+.previous-generation-settings {
+  margin: 16px 0;
+}
+
+
+.wide-shell {
+  max-width: 1280px;
+}
+
+.editor-panel {
+  min-height: 75vh;
+}
+
+.wrap-row {
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.python-editor {
+  width: 100%;
+  min-height: 72vh;
+  resize: vertical;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-size: 0.92rem;
+  line-height: 1.45;
+  padding: 1rem;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background: #fbfcff;
+  color: #1d2433;
+  tab-size: 4;
+}
+
+.python-editor:focus {
+  outline: 2px solid rgba(54, 112, 255, 0.22);
+  border-color: rgba(54, 112, 255, 0.65);
+}
+
+.original-codebox {
+  max-height: 520px;
+}
+
+.wrap-row-left {
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.manual-variation-block {
+  margin-top: 18px;
+}
+
+.compact-editor {
+  min-height: 360px;
+  margin-bottom: 12px;
+}
+
+.variation-list {
+  display: grid;
+  gap: 14px;
+}
+
+.variation-card {
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 20px;
+  padding: 18px;
+}
+
+.variation-card p {
+  color: var(--muted);
+  line-height: 1.5;
+}
+
+.variation-actions {
+  text-align: right;
+  min-width: 260px;
+}
+
+@media (max-width: 900px) {
+  .variation-actions {
+    text-align: left;
+    min-width: 0;
+  }
+}

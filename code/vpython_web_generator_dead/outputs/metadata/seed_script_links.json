@@ -1,0 +1,58 @@
+{
+  "links": [
+    {
+      "seed_id": "batch-seeds-1-magnetic-field-lines-simulation-seeds-7fcdcf71.json::2::dipole-earth-magnetic-field-and-solar-wind-a-textured-earth-sphere-with-a-tilted",
+      "seed_source_file": "batch-seeds-1-magnetic-field-lines-simulation-seeds-7fcdcf71.json",
+      "seed_number": "2",
+      "seed_title": "Dipole Earth Magnetic Field and Solar Wind",
+      "seed_text": "Dipole Earth Magnetic Field and Solar Wind: A textured Earth sphere with a tilted magnetic dipole generates looping field lines while a stream of charged-particle spheres (“solar wind”) flows in, gets deflected, trapped, or funneled along the lines, forming glowing auroral curtains at the poles.",
+      "script_filename": "vpython-simulation-dipole-earth-magnetic-field-and-solar-wind-a-textured-earth-s-b02dc4da.py",
+      "created_at": "2026-05-22T03:05:36"
+    },
+    {
+      "seed_id": "batch-seeds-1-magnetic-field-lines-simulation-seeds-7fcdcf71.json::6::mri-style-strong-magnet-with-human-body-phantom-a-large-cylindrical-magnet-creat",
+      "seed_source_file": "batch-seeds-1-magnetic-field-lines-simulation-seeds-7fcdcf71.json",
+      "seed_number": "6",
+      "seed_title": "MRI-Style Strong Magnet With Human-Body Phantom",
+      "seed_text": "MRI-Style Strong Magnet With Human-Body Phantom: A large cylindrical magnet creates a nearly uniform interior field drawn as parallel semi-transparent tubes passing through a simple human-body phantom, while labeled “spins” (tiny arrows) precess and gradually align with the field, emitting brief glowing pulses.",
+      "script_filename": "vpython-simulation-mri-style-strong-magnet-with-human-body-phantom-a-large-cylin-f95b92ec.py",
+      "created_at": "2026-05-22T03:05:41"
+    },
+    {
+      "seed_id": "batch-seeds-1-magnetic-field-lines-simulation-seeds-7fcdcf71.json::3::two-moving-bar-magnets-with-dynamic-field-lines-two-bar-magnets-on-frictionless-",
+      "seed_source_file": "batch-seeds-1-magnetic-field-lines-simulation-seeds-7fcdcf71.json",
+      "seed_number": "3",
+      "seed_title": "Two Moving Bar Magnets With Dynamic Field Lines",
+      "seed_text": "Two Moving Bar Magnets With Dynamic Field Lines: Two bar magnets on frictionless tracks can be dragged by the mouse, with their 3D field lines recalculating and smoothly morphing, showing attraction/repulsion as lines merge, bulge, and pinch, with color gradients indicating field strength.",
+      "script_filename": "vpython-simulation-two-moving-bar-magnets-with-dynamic-field-lines-two-bar-magne-b70afb35.py",
+      "created_at": "2026-05-22T03:05:50"
+    },
+    {
+      "seed_id": "batch-seeds-1-magnetic-field-lines-simulation-seeds-7fcdcf71.json::1::bar-magnet-with-iron-filings-field-lines-a-central-3d-bar-magnet-creates-animate",
+      "seed_source_file": "batch-seeds-1-magnetic-field-lines-simulation-seeds-7fcdcf71.json",
+      "seed_number": "1",
+      "seed_title": "Bar Magnet With Iron Filings Field Lines",
+      "seed_text": "Bar Magnet With Iron Filings Field Lines: A central 3D bar magnet creates animated magnetic field lines drawn as curved glowing tubes while hundreds of tiny iron-filing rods float, rotate, and then align and cluster along the lines, with a light background and color-coded poles.",
+      "script_filename": "vpython-simulation-bar-magnet-with-iron-filings-field-lines-a-central-3d-bar-mag-3975290e.py",
+      "created_at": "2026-05-22T03:05:58"
+    },
+    {
+      "seed_id": "batch-seeds-1-magnetic-field-lines-simulation-seeds-7fcdcf71.json::4::current-carrying-wire-and-circular-field-lines-a-long-vertical-wire-with-animate",
+      "seed_source_file": "batch-seeds-1-magnetic-field-lines-simulation-seeds-7fcdcf71.json",
+      "seed_number": "4",
+      "seed_title": "Current-Carrying Wire and Circular Field Lines",
+      "seed_text": "Current-Carrying Wire and Circular Field Lines: A long vertical wire with animated current arrows creates concentric circular magnetic field lines drawn as rotating rings; test charges orbit or spiral along these rings, leaving fading trails that show their curved paths.",
+      "script_filename": "vpython-simulation-current-carrying-wire-and-circular-field-lines-a-long-vertica-7ec45668.py",
+      "created_at": "2026-05-22T03:06:38"
+    },
+    {
+      "seed_id": "batch-seeds-1-magnetic-field-lines-simulation-seeds-7fcdcf71.json::5::magnetic-field-of-a-circular-loop-coil-a-horizontal-current-loop-or-solenoid-seg",
+      "seed_source_file": "batch-seeds-1-magnetic-field-lines-simulation-seeds-7fcdcf71.json",
+      "seed_number": "5",
+      "seed_title": "Magnetic Field of a Circular Loop Coil",
+      "seed_text": "Magnetic Field of a Circular Loop Coil: A horizontal current loop (or solenoid segment) generates donut-shaped and arching field lines; floating compass needles (short arrows) drift, rotate, and then lock onto the local field direction, with labels and field strength color bars.",
+      "script_filename": "vpython-simulation-magnetic-field-of-a-circular-loop-coil-a-horizontal-current-l-15e6e1eb.py",
+      "created_at": "2026-05-22T03:06:56"
+    }
+  ]
+}

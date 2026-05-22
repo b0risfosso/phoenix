@@ -464,3 +464,97 @@ code { background: #edf2f7; color: var(--ink); padding: 2px 6px; border-radius: 
   padding: 14px;
   line-height: 1.45;
 }
+
+.two-column-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+  margin: 18px 0 8px;
+}
+
+.helper-text.small {
+  font-size: 0.86rem;
+  margin-top: 8px;
+}
+
+@media (max-width: 900px) {
+  .two-column-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.linked-seed-card {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.linked-scripts {
+  border-top: 1px solid var(--line);
+  padding-top: 10px;
+  display: grid;
+  gap: 8px;
+  font-size: 0.9rem;
+}
+
+.linked-script-row {
+  display: grid;
+  gap: 4px;
+  padding: 8px;
+  border-radius: 12px;
+  background: #f8fafc;
+}
+
+.inline-link {
+  appearance: none;
+  border: 0;
+  background: transparent;
+  color: var(--accent);
+  font: inherit;
+  font-weight: 800;
+  padding: 0;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.seed-card-actions {
+  margin-top: auto;
+}
+
+.previous-generation-settings {
+  margin: 16px 0;
+}
+
+
+.wide-shell {
+  max-width: 1280px;
+}
+
+.editor-panel {
+  min-height: 75vh;
+}
+
+.wrap-row {
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.python-editor {
+  width: 100%;
+  min-height: 72vh;
+  resize: vertical;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-size: 0.92rem;
+  line-height: 1.45;
+  padding: 1rem;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background: #fbfcff;
+  color: #1d2433;
+  tab-size: 4;
+}
+
+.python-editor:focus {
+  outline: 2px solid rgba(54, 112, 255, 0.22);
+  border-color: rgba(54, 112, 255, 0.65);
+}

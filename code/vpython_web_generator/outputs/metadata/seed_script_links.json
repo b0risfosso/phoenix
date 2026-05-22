@@ -1,0 +1,13 @@
+{
+  "links": [
+    {
+      "seed_id": "magnetic-field-lines-simulation-seeds-1b79abc6.json::1::bar-magnet-with-iron-filings-in-3d-a-central-bar-magnet-with-visible-north-south",
+      "seed_source_file": "magnetic-field-lines-simulation-seeds-1b79abc6.json",
+      "seed_number": "1",
+      "seed_title": "Bar Magnet With Iron Filings in 3D",
+      "seed_text": "Bar Magnet With Iron Filings in 3D: A central bar magnet with visible north/south pole caps emits curved, glowing field line tubes through a cloud of small metallic particles that align, rotate, and clump along the lines, with labels and faint trails showing how particles move when the magnet is rotated.",
+      "script_filename": "vpython-simulation-bar-magnet-with-iron-filings-in-3d-a-central-bar-magnet-with--30aabcfa.py",
+      "created_at": "2026-05-22T03:37:53"
+    }
+  ]
+}

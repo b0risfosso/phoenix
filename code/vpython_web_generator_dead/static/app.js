@@ -33,6 +33,11 @@ function makeRunLink(runUrl) {
   return `<a href="${runUrl}" target="_blank" rel="noopener">Open and run simulation</a>`;
 }
 
+function makeEditLink(filename) {
+  if (!filename) return "";
+  return `<a href="/script-editor/${encodeURIComponent(filename)}" target="_blank" rel="noopener">Edit script</a>`;
+}
+
 function joinLinks(...links) {
   return links.filter(Boolean).join('<span class="link-separator">•</span>');
 }
@@ -142,7 +147,8 @@ generateSimulationButton.addEventListener("click", async () => {
     setStatus(simulationStatus, "Generated VPython script.", "success");
     simulationDownloads.innerHTML = joinLinks(
       makeDownloadLink(data.download, "Download Python script"),
-      makeRunLink(data.run_url)
+      makeRunLink(data.run_url),
+      makeEditLink(data.script_filename || data.download)
     );
   } catch (error) {
     setStatus(simulationStatus, error.message, "error");
@@ -161,13 +167,12 @@ copyCodeButton.addEventListener("click", async () => {
   setStatus(simulationStatus, "Copied code to clipboard.", "success");
 });
 
-const batchRequestsInput = document.getElementById("batchRequests");
+const batchSeedRequestsInput = document.getElementById("batchSeedRequests");
+const batchCodeRequestsInput = document.getElementById("batchCodeRequests");
 const batchSeedModelInput = document.getElementById("batchSeedModel");
 const batchSeedTemperatureInput = document.getElementById("batchSeedTemperature");
 const batchSimulationModelInput = document.getElementById("batchSimulationModel");
 const batchSimulationTemperatureInput = document.getElementById("batchSimulationTemperature");
-const batchSelectedSeedIndexInput = document.getElementById("batchSelectedSeedIndex");
-const batchGenerateCodeInput = document.getElementById("batchGenerateCode");
 const batchSaveSeedsInput = document.getElementById("batchSaveSeeds");
 const batchSaveSimulationsInput = document.getElementById("batchSaveSimulations");
 const runBatchButton = document.getElementById("runBatchButton");
@@ -175,21 +180,11 @@ const clearBatchButton = document.getElementById("clearBatchButton");
 const batchStatus = document.getElementById("batchStatus");
 const batchResults = document.getElementById("batchResults");
 
-function requestKindFromLine(line) {
-  const trimmed = line.trim();
-  const wordCount = trimmed.split(/\s+/).filter(Boolean).length;
-  if (wordCount > 8 || /[.,:;]/.test(trimmed)) {
-    return { seed: trimmed };
-  }
-  return { phrase: trimmed };
-}
-
-function parseBatchRequests() {
-  return batchRequestsInput.value
+function parseLines(textarea) {
+  return textarea.value
     .split("\n")
     .map(line => line.trim())
-    .filter(Boolean)
-    .map(requestKindFromLine);
+    .filter(Boolean);
 }
 
 function renderBatchResults(results) {
@@ -207,15 +202,16 @@ function renderBatchResults(results) {
     const links = joinLinks(
       makeDownloadLink(item.seed_download, "Download seeds JSON"),
       makeDownloadLink(item.script_download, "Download Python script"),
-      makeRunLink(item.run_url)
+      makeRunLink(item.run_url),
+      makeEditLink(item.script_download)
     );
 
     const preview = item.source_preview
       ? `<details class="source-preview"><summary>Python preview (${item.source_length || item.source_preview.length} characters)</summary><pre>${escapeHTML(item.source_preview)}</pre></details>`
       : "";
 
-    const seedText = item.selected_seed
-      ? `<p><strong>Selected seed:</strong> ${escapeHTML(item.selected_seed)}</p>`
+    const seedCountText = item.seed_count
+      ? `<p>${item.seed_count} seed ideas generated.</p>`
       : "";
 
     const errorText = item.error
@@ -225,10 +221,9 @@ function renderBatchResults(results) {
     card.innerHTML = `
       <div class="batch-card-header">
         <h3>${item.index}. ${escapeHTML(item.label || "Untitled request")}</h3>
-        <span class="batch-badge ${item.status}">${escapeHTML(item.status || "unknown")}</span>
+        <span class="batch-badge ${item.status}">${escapeHTML(item.queue || "batch")}: ${escapeHTML(item.status || "unknown")}</span>
       </div>
-      <p>${item.seed_count ? `${item.seed_count} seed ideas generated.` : ""}</p>
-      ${seedText}
+      ${seedCountText}
       ${errorText}
       <div class="downloads">${links}</div>
       ${preview}
@@ -238,25 +233,27 @@ function renderBatchResults(results) {
 }
 
 runBatchButton.addEventListener("click", async () => {
-  const requests = parseBatchRequests();
-  if (!requests.length) {
-    setStatus(batchStatus, "Add at least one request line first.", "error");
+  const seedRequests = parseLines(batchSeedRequestsInput);
+  const codeRequests = parseLines(batchCodeRequestsInput);
+  const totalRequests = seedRequests.length + codeRequests.length;
+
+  if (!totalRequests) {
+    setStatus(batchStatus, "Add at least one seed request or code request first.", "error");
     return;
   }
 
   runBatchButton.disabled = true;
-  setStatus(batchStatus, `Processing ${requests.length} request${requests.length === 1 ? "" : "s"} sequentially...`);
+  setStatus(batchStatus, `Processing ${totalRequests} request${totalRequests === 1 ? "" : "s"} sequentially...`);
   batchResults.innerHTML = "";
 
   try {
     const data = await postJSON("/api/batch", {
-      requests,
+      seed_requests: seedRequests,
+      code_requests: codeRequests,
       seed_model: batchSeedModelInput.value.trim(),
       seed_temperature: batchSeedTemperatureInput.value,
       simulation_model: batchSimulationModelInput.value.trim(),
       simulation_temperature: batchSimulationTemperatureInput.value,
-      selected_seed_index: batchSelectedSeedIndexInput.value,
-      generate_code: batchGenerateCodeInput.checked,
       save_seeds: batchSaveSeedsInput.checked,
       save_simulations: batchSaveSimulationsInput.checked,
     });

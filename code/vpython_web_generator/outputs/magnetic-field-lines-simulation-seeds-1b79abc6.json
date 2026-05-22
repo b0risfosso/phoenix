@@ -1,0 +1,159 @@
+{
+  "created_at": "2026-05-22T03:33:55",
+  "phrase": "magnetic field lines",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "raw_text": "Here are strong **magnetic field lines simulation inputs** you can plug into your prompt:\n\n1. **Bar Magnet With Iron Filings in 3D**\n   A central bar magnet with visible north/south pole caps emits curved, glowing field line tubes through a cloud of small metallic particles that align, rotate, and clump along the lines, with labels and faint trails showing how particles move when the magnet is rotated.\n\n2. **Interacting Dipole Magnets**\n   Two or three cylindrical magnets float on a plane and can be dragged with the mouse while their semi-transparent field line arcs dynamically repel, merge, and reroute, with color-coded lines (blue entering south, red leaving north) and small tracer particles sliding along the lines.\n\n3. **Earth’s Magnetic Field and Solar Wind**\n   A textured Earth sphere with an inclined dipole generates large arching field lines while a stream of solar wind particles flows in from one side, being deflected, trapped in radiation belt-like loops, or colliding with a glowing aurora dome near the poles.\n\n4. **Magnetic Field of a Current-Carrying Loop**\n   A circular current loop (thick wire ring) sits in the center with animated current arrows, and 3D field lines wrap around it in donut-shaped patterns, while magnetic compass needles at grid points rotate to align with the local field as the current magnitude slider is changed.\n\n5. **Helmholtz Coils and Uniform Field Region**\n   Two parallel circular coils face each other with adjustable separation and current direction, generating near-uniform field lines in the central region where a test charged particle can be launched to show straight-line or curved motion, with field lines thickening where the field is strongest.\n\n6. **Magnetic Field of a Straight Long Wire**\n   A vertical wire in the center carries adjustable current, producing concentric circular field lines that rotate around it, with small test charges orbiting, colliding, or spiraling inward depending on their initial velocities and with a side meter showing field strength vs. radius.\n\n7. **Magnetic Dipole in a Uniform External Field**\n   A small bar magnet (dipole) is placed inside a larger uniform magnetic field volume, and as the bar magnet is allowed to rotate freely, its own local field lines distort and superpose with the external straight field lines, showing torque and eventual alignment with labels on torque direction.\n\n8. **Field Lines Around a Magnetic Domain Lattice**\n   A grid of tiny cube “domains” in a ferromagnetic material randomly oriented at first gradually align under an external field slider, causing their mini field lines to merge into larger coherent bundles that brighten and thicken as domains rotate and snap into alignment.\n\n9. **Magnetic Field Lines in a Tokamak-Style Toroid**\n   A toroidal chamber with internal current coils generates helical magnetic field lines wrapping around the ring, while glowing plasma particles follow these spiraling paths, occasionally colliding with the transparent chamber wall to show confinement breakdown when parameters are changed.\n\n10. **MRI-Style Strong Magnet and Moving Patient Bed**\n    A long cylindrical magnet with a strong uniform field inside shows dense straight field lines, while a rectangular “patient bed” with labeled body slices slides into the bore; magnetic moments (tiny arrows) in slices flip and realign, with a side panel graph showing field intensity along the axis.\n\n11. **Magnetic Field Mapping With a Moving Sensor Probe**\n    A handheld probe object moves through space around a bar magnet, leaving a color-coded trail that matches local field strength and orientation while a short “local field line” segment continuously reorients and grows from the probe tip, with numerical readout updating in real time.\n\n12. **Electromagnet With Iron Core and Attaching Metal Blocks**\n    A coiled wire wrapped around an iron core rod generates field lines concentrated in the core and looping out to its ends; nearby metal blocks are attracted, slide across the floor, attach and detach as the current is toggled, with the external field lines weakening and fading when blocks attach.\n\n13. **Magnetic Levitation Track**\n    A row of fixed magnets under a transparent track creates an alternating magnetic field, and a small magnetic sled above it hovers, bounces, and stabilizes while the 3D field lines under the track pulse and shift as the sled moves, with arrows showing lift and lateral force vectors.\n\n14. **Magnetic Stirrer in a Beaker**\n    A transparent beaker with a rotating magnetic bar at the bottom creates dynamic field lines that spin with it, while a separate small magnetic stir bar inside the liquid aligns with and chases the rotating field, stirring colored tracer particles into a vortex with trails.\n\n15. **Binary Star System With Magnetic Fields**\n    Two textured stars orbit a common center, each with its own magnetosphere represented by colored field lines; as they orbit, the fields stretch, reconnect, and occasionally snap, emitting particle jets along new field line paths that glow and fade over time.\n\n16. **Massive Solenoid With Inside and Outside Field**\n    A long solenoid coil occupies the scene, with densely packed, nearly parallel field lines inside and sparse looping lines outside; a small test magnet and compass can be dragged inside and outside the solenoid to see how the lines and local compass direction change.\n\n17. **Magnetic Field Lines Through a Moving Conductive Loop**\n    A rectangular metal loop moves and tilts through the field lines of a fixed bar magnet, with the number of lines “threading” the loop highlighted and counted, and induced current arrows and a torque vector appear on the loop as it rotates, causing it to spin or slow down.\n\n18. **Magnetic Field of a Dipole Swarm (School of “Field Fish”)**\n    A swarm of fish-shaped magnetic dipoles swim through water, each carrying a tiny set of field lines that warp and combine when they pass near each other; fish align head-to-tail forming chains where field lines merge into smooth bundles, then break apart and reconfigure.\n\n19. **Plasma Filament and Magnetic Pinch**\n    A glowing cylindrical plasma column carries current, generating an azimuthal magnetic field; as current increases, field lines tighten and thicken, causing the plasma radius to contract (pinch), with particles moving inward along spiral paths and occasionally escaping when the pinch relaxes.\n\n20. **Magnetic Field Lines in a Transformer Core**\n    Two coils wrapped around different limbs of a U-shaped iron core show primary and secondary windings, with animated field lines forming closed loops inside the core, pulsing with AC input and weakly leaking into the surrounding air, while induced current in the secondary is visualized as moving charges.\n\n21. **Magnetic Field Lines Guiding Charged Particle Beam**\n    A narrow charged particle beam enters a region with adjustable magnetic field lines (uniform or curved), and particles spiral, drift, or focus along the lines, leaving colored helical trails whose pitch changes with field strength and particle speed.\n\n22. **Magnetic Field Lines of a Fractal Magnet Shape**\n    A magnet shaped like a 3D fractal (e.g., a cube with cut-out sections) generates complex, branching field lines that warp around holes and edges; small tracer particles follow these paths, sometimes getting trapped in local loops and then escaping when the magnet is rotated.\n\n23. **Magnetic Field Lines in a Railgun Setup**\n    Two parallel rails with a sliding conductive armature carry current, and as the armature moves, strong magnetic field lines bulge between the rails and around the armature, with force vectors on the armature and particles showing how the field pushes it rapidly along the rails.\n\n24. **Magnetic Field Lines Encircling a Moving Vortex Ring**\n    A smoke-like vortex ring containing embedded current flows through space, dragging its circular magnetic field lines with it; as the ring stretches, tilts, and collides with a wall, the field lines deform, reconnect, and gradually dissipate while tracer particles reveal the evolving geometry.\n\n25. **Magnetic Field Lines as Social Influence Network**\n    A cluster of “people” nodes on a floor plane emit abstract magnetic field lines representing influence; as some nodes move, pair up, or break away, the influence lines between them thicken, fade, or reroute, and small opinion particles drift along these lines, clustering around strongly connected groups.",
+  "seeds": [
+    {
+      "number": "1",
+      "title": "Bar Magnet With Iron Filings in 3D",
+      "description": "A central bar magnet with visible north/south pole caps emits curved, glowing field line tubes through a cloud of small metallic particles that align, rotate, and clump along the lines, with labels and faint trails showing how particles move when the magnet is rotated.",
+      "full_text": "Bar Magnet With Iron Filings in 3D: A central bar magnet with visible north/south pole caps emits curved, glowing field line tubes through a cloud of small metallic particles that align, rotate, and clump along the lines, with labels and faint trails showing how particles move when the magnet is rotated."
+    },
+    {
+      "number": "2",
+      "title": "Interacting Dipole Magnets",
+      "description": "Two or three cylindrical magnets float on a plane and can be dragged with the mouse while their semi-transparent field line arcs dynamically repel, merge, and reroute, with color-coded lines (blue entering south, red leaving north) and small tracer particles sliding along the lines.",
+      "full_text": "Interacting Dipole Magnets: Two or three cylindrical magnets float on a plane and can be dragged with the mouse while their semi-transparent field line arcs dynamically repel, merge, and reroute, with color-coded lines (blue entering south, red leaving north) and small tracer particles sliding along the lines."
+    },
+    {
+      "number": "3",
+      "title": "Earth’s Magnetic Field and Solar Wind",
+      "description": "A textured Earth sphere with an inclined dipole generates large arching field lines while a stream of solar wind particles flows in from one side, being deflected, trapped in radiation belt-like loops, or colliding with a glowing aurora dome near the poles.",
+      "full_text": "Earth’s Magnetic Field and Solar Wind: A textured Earth sphere with an inclined dipole generates large arching field lines while a stream of solar wind particles flows in from one side, being deflected, trapped in radiation belt-like loops, or colliding with a glowing aurora dome near the poles."
+    },
+    {
+      "number": "4",
+      "title": "Magnetic Field of a Current-Carrying Loop",
+      "description": "A circular current loop (thick wire ring) sits in the center with animated current arrows, and 3D field lines wrap around it in donut-shaped patterns, while magnetic compass needles at grid points rotate to align with the local field as the current magnitude slider is changed.",
+      "full_text": "Magnetic Field of a Current-Carrying Loop: A circular current loop (thick wire ring) sits in the center with animated current arrows, and 3D field lines wrap around it in donut-shaped patterns, while magnetic compass needles at grid points rotate to align with the local field as the current magnitude slider is changed."
+    },
+    {
+      "number": "5",
+      "title": "Helmholtz Coils and Uniform Field Region",
+      "description": "Two parallel circular coils face each other with adjustable separation and current direction, generating near-uniform field lines in the central region where a test charged particle can be launched to show straight-line or curved motion, with field lines thickening where the field is strongest.",
+      "full_text": "Helmholtz Coils and Uniform Field Region: Two parallel circular coils face each other with adjustable separation and current direction, generating near-uniform field lines in the central region where a test charged particle can be launched to show straight-line or curved motion, with field lines thickening where the field is strongest."
+    },
+    {
+      "number": "6",
+      "title": "Magnetic Field of a Straight Long Wire",
+      "description": "A vertical wire in the center carries adjustable current, producing concentric circular field lines that rotate around it, with small test charges orbiting, colliding, or spiraling inward depending on their initial velocities and with a side meter showing field strength vs. radius.",
+      "full_text": "Magnetic Field of a Straight Long Wire: A vertical wire in the center carries adjustable current, producing concentric circular field lines that rotate around it, with small test charges orbiting, colliding, or spiraling inward depending on their initial velocities and with a side meter showing field strength vs. radius."
+    },
+    {
+      "number": "7",
+      "title": "Magnetic Dipole in a Uniform External Field",
+      "description": "A small bar magnet (dipole) is placed inside a larger uniform magnetic field volume, and as the bar magnet is allowed to rotate freely, its own local field lines distort and superpose with the external straight field lines, showing torque and eventual alignment with labels on torque direction.",
+      "full_text": "Magnetic Dipole in a Uniform External Field: A small bar magnet (dipole) is placed inside a larger uniform magnetic field volume, and as the bar magnet is allowed to rotate freely, its own local field lines distort and superpose with the external straight field lines, showing torque and eventual alignment with labels on torque direction."
+    },
+    {
+      "number": "8",
+      "title": "Field Lines Around a Magnetic Domain Lattice",
+      "description": "A grid of tiny cube “domains” in a ferromagnetic material randomly oriented at first gradually align under an external field slider, causing their mini field lines to merge into larger coherent bundles that brighten and thicken as domains rotate and snap into alignment.",
+      "full_text": "Field Lines Around a Magnetic Domain Lattice: A grid of tiny cube “domains” in a ferromagnetic material randomly oriented at first gradually align under an external field slider, causing their mini field lines to merge into larger coherent bundles that brighten and thicken as domains rotate and snap into alignment."
+    },
+    {
+      "number": "9",
+      "title": "Magnetic Field Lines in a Tokamak-Style Toroid",
+      "description": "A toroidal chamber with internal current coils generates helical magnetic field lines wrapping around the ring, while glowing plasma particles follow these spiraling paths, occasionally colliding with the transparent chamber wall to show confinement breakdown when parameters are changed.",
+      "full_text": "Magnetic Field Lines in a Tokamak-Style Toroid: A toroidal chamber with internal current coils generates helical magnetic field lines wrapping around the ring, while glowing plasma particles follow these spiraling paths, occasionally colliding with the transparent chamber wall to show confinement breakdown when parameters are changed."
+    },
+    {
+      "number": "10",
+      "title": "MRI-Style Strong Magnet and Moving Patient Bed",
+      "description": "A long cylindrical magnet with a strong uniform field inside shows dense straight field lines, while a rectangular “patient bed” with labeled body slices slides into the bore; magnetic moments (tiny arrows) in slices flip and realign, with a side panel graph showing field intensity along the axis.",
+      "full_text": "MRI-Style Strong Magnet and Moving Patient Bed: A long cylindrical magnet with a strong uniform field inside shows dense straight field lines, while a rectangular “patient bed” with labeled body slices slides into the bore; magnetic moments (tiny arrows) in slices flip and realign, with a side panel graph showing field intensity along the axis."
+    },
+    {
+      "number": "11",
+      "title": "Magnetic Field Mapping With a Moving Sensor Probe",
+      "description": "A handheld probe object moves through space around a bar magnet, leaving a color-coded trail that matches local field strength and orientation while a short “local field line” segment continuously reorients and grows from the probe tip, with numerical readout updating in real time.",
+      "full_text": "Magnetic Field Mapping With a Moving Sensor Probe: A handheld probe object moves through space around a bar magnet, leaving a color-coded trail that matches local field strength and orientation while a short “local field line” segment continuously reorients and grows from the probe tip, with numerical readout updating in real time."
+    },
+    {
+      "number": "12",
+      "title": "Electromagnet With Iron Core and Attaching Metal Blocks",
+      "description": "A coiled wire wrapped around an iron core rod generates field lines concentrated in the core and looping out to its ends; nearby metal blocks are attracted, slide across the floor, attach and detach as the current is toggled, with the external field lines weakening and fading when blocks attach.",
+      "full_text": "Electromagnet With Iron Core and Attaching Metal Blocks: A coiled wire wrapped around an iron core rod generates field lines concentrated in the core and looping out to its ends; nearby metal blocks are attracted, slide across the floor, attach and detach as the current is toggled, with the external field lines weakening and fading when blocks attach."
+    },
+    {
+      "number": "13",
+      "title": "Magnetic Levitation Track",
+      "description": "A row of fixed magnets under a transparent track creates an alternating magnetic field, and a small magnetic sled above it hovers, bounces, and stabilizes while the 3D field lines under the track pulse and shift as the sled moves, with arrows showing lift and lateral force vectors.",
+      "full_text": "Magnetic Levitation Track: A row of fixed magnets under a transparent track creates an alternating magnetic field, and a small magnetic sled above it hovers, bounces, and stabilizes while the 3D field lines under the track pulse and shift as the sled moves, with arrows showing lift and lateral force vectors."
+    },
+    {
+      "number": "14",
+      "title": "Magnetic Stirrer in a Beaker",
+      "description": "A transparent beaker with a rotating magnetic bar at the bottom creates dynamic field lines that spin with it, while a separate small magnetic stir bar inside the liquid aligns with and chases the rotating field, stirring colored tracer particles into a vortex with trails.",
+      "full_text": "Magnetic Stirrer in a Beaker: A transparent beaker with a rotating magnetic bar at the bottom creates dynamic field lines that spin with it, while a separate small magnetic stir bar inside the liquid aligns with and chases the rotating field, stirring colored tracer particles into a vortex with trails."
+    },
+    {
+      "number": "15",
+      "title": "Binary Star System With Magnetic Fields",
+      "description": "Two textured stars orbit a common center, each with its own magnetosphere represented by colored field lines; as they orbit, the fields stretch, reconnect, and occasionally snap, emitting particle jets along new field line paths that glow and fade over time.",
+      "full_text": "Binary Star System With Magnetic Fields: Two textured stars orbit a common center, each with its own magnetosphere represented by colored field lines; as they orbit, the fields stretch, reconnect, and occasionally snap, emitting particle jets along new field line paths that glow and fade over time."
+    },
+    {
+      "number": "16",
+      "title": "Massive Solenoid With Inside and Outside Field",
+      "description": "A long solenoid coil occupies the scene, with densely packed, nearly parallel field lines inside and sparse looping lines outside; a small test magnet and compass can be dragged inside and outside the solenoid to see how the lines and local compass direction change.",
+      "full_text": "Massive Solenoid With Inside and Outside Field: A long solenoid coil occupies the scene, with densely packed, nearly parallel field lines inside and sparse looping lines outside; a small test magnet and compass can be dragged inside and outside the solenoid to see how the lines and local compass direction change."
+    },
+    {
+      "number": "17",
+      "title": "Magnetic Field Lines Through a Moving Conductive Loop",
+      "description": "A rectangular metal loop moves and tilts through the field lines of a fixed bar magnet, with the number of lines “threading” the loop highlighted and counted, and induced current arrows and a torque vector appear on the loop as it rotates, causing it to spin or slow down.",
+      "full_text": "Magnetic Field Lines Through a Moving Conductive Loop: A rectangular metal loop moves and tilts through the field lines of a fixed bar magnet, with the number of lines “threading” the loop highlighted and counted, and induced current arrows and a torque vector appear on the loop as it rotates, causing it to spin or slow down."
+    },
+    {
+      "number": "18",
+      "title": "Magnetic Field of a Dipole Swarm (School of “Field Fish”)",
+      "description": "A swarm of fish-shaped magnetic dipoles swim through water, each carrying a tiny set of field lines that warp and combine when they pass near each other; fish align head-to-tail forming chains where field lines merge into smooth bundles, then break apart and reconfigure.",
+      "full_text": "Magnetic Field of a Dipole Swarm (School of “Field Fish”): A swarm of fish-shaped magnetic dipoles swim through water, each carrying a tiny set of field lines that warp and combine when they pass near each other; fish align head-to-tail forming chains where field lines merge into smooth bundles, then break apart and reconfigure."
+    },
+    {
+      "number": "19",
+      "title": "Plasma Filament and Magnetic Pinch",
+      "description": "A glowing cylindrical plasma column carries current, generating an azimuthal magnetic field; as current increases, field lines tighten and thicken, causing the plasma radius to contract (pinch), with particles moving inward along spiral paths and occasionally escaping when the pinch relaxes.",
+      "full_text": "Plasma Filament and Magnetic Pinch: A glowing cylindrical plasma column carries current, generating an azimuthal magnetic field; as current increases, field lines tighten and thicken, causing the plasma radius to contract (pinch), with particles moving inward along spiral paths and occasionally escaping when the pinch relaxes."
+    },
+    {
+      "number": "20",
+      "title": "Magnetic Field Lines in a Transformer Core",
+      "description": "Two coils wrapped around different limbs of a U-shaped iron core show primary and secondary windings, with animated field lines forming closed loops inside the core, pulsing with AC input and weakly leaking into the surrounding air, while induced current in the secondary is visualized as moving charges.",
+      "full_text": "Magnetic Field Lines in a Transformer Core: Two coils wrapped around different limbs of a U-shaped iron core show primary and secondary windings, with animated field lines forming closed loops inside the core, pulsing with AC input and weakly leaking into the surrounding air, while induced current in the secondary is visualized as moving charges."
+    },
+    {
+      "number": "21",
+      "title": "Magnetic Field Lines Guiding Charged Particle Beam",
+      "description": "A narrow charged particle beam enters a region with adjustable magnetic field lines (uniform or curved), and particles spiral, drift, or focus along the lines, leaving colored helical trails whose pitch changes with field strength and particle speed.",
+      "full_text": "Magnetic Field Lines Guiding Charged Particle Beam: A narrow charged particle beam enters a region with adjustable magnetic field lines (uniform or curved), and particles spiral, drift, or focus along the lines, leaving colored helical trails whose pitch changes with field strength and particle speed."
+    },
+    {
+      "number": "22",
+      "title": "Magnetic Field Lines of a Fractal Magnet Shape",
+      "description": "A magnet shaped like a 3D fractal (e.g., a cube with cut-out sections) generates complex, branching field lines that warp around holes and edges; small tracer particles follow these paths, sometimes getting trapped in local loops and then escaping when the magnet is rotated.",
+      "full_text": "Magnetic Field Lines of a Fractal Magnet Shape: A magnet shaped like a 3D fractal (e.g., a cube with cut-out sections) generates complex, branching field lines that warp around holes and edges; small tracer particles follow these paths, sometimes getting trapped in local loops and then escaping when the magnet is rotated."
+    },
+    {
+      "number": "23",
+      "title": "Magnetic Field Lines in a Railgun Setup",
+      "description": "Two parallel rails with a sliding conductive armature carry current, and as the armature moves, strong magnetic field lines bulge between the rails and around the armature, with force vectors on the armature and particles showing how the field pushes it rapidly along the rails.",
+      "full_text": "Magnetic Field Lines in a Railgun Setup: Two parallel rails with a sliding conductive armature carry current, and as the armature moves, strong magnetic field lines bulge between the rails and around the armature, with force vectors on the armature and particles showing how the field pushes it rapidly along the rails."
+    },
+    {
+      "number": "24",
+      "title": "Magnetic Field Lines Encircling a Moving Vortex Ring",
+      "description": "A smoke-like vortex ring containing embedded current flows through space, dragging its circular magnetic field lines with it; as the ring stretches, tilts, and collides with a wall, the field lines deform, reconnect, and gradually dissipate while tracer particles reveal the evolving geometry.",
+      "full_text": "Magnetic Field Lines Encircling a Moving Vortex Ring: A smoke-like vortex ring containing embedded current flows through space, dragging its circular magnetic field lines with it; as the ring stretches, tilts, and collides with a wall, the field lines deform, reconnect, and gradually dissipate while tracer particles reveal the evolving geometry."
+    },
+    {
+      "number": "25",
+      "title": "Magnetic Field Lines as Social Influence Network",
+      "description": "A cluster of “people” nodes on a floor plane emit abstract magnetic field lines representing influence; as some nodes move, pair up, or break away, the influence lines between them thicken, fade, or reroute, and small opinion particles drift along these lines, clustering around strongly connected groups.",
+      "full_text": "Magnetic Field Lines as Social Influence Network: A cluster of “people” nodes on a floor plane emit abstract magnetic field lines representing influence; as some nodes move, pair up, or break away, the influence lines between them thicken, fade, or reroute, and small opinion particles drift along these lines, clustering around strongly connected groups."
+    }
+  ]
+}

@@ -9,6 +9,8 @@ Run:
 
 Then open:
     http://127.0.0.1:5000
+
+This version explicitly registers /, /index, and /index.html for the generator page.
 """
 
 from __future__ import annotations
@@ -30,8 +32,12 @@ from openai import OpenAI
 BASE_DIR = Path(__file__).resolve().parent
 OUTPUT_DIR = BASE_DIR / "outputs"
 RUN_LOG_DIR = OUTPUT_DIR / "run_logs"
+METADATA_DIR = OUTPUT_DIR / "metadata"
+LINK_INDEX_PATH = METADATA_DIR / "seed_script_links.json"
+VARIATION_INDEX_PATH = METADATA_DIR / "script_variations.json"
 OUTPUT_DIR.mkdir(exist_ok=True)
 RUN_LOG_DIR.mkdir(exist_ok=True)
+METADATA_DIR.mkdir(exist_ok=True)
 
 app = Flask(__name__)
 
@@ -252,6 +258,222 @@ def save_text(text: str, filename_stem: str, suffix: str) -> str:
 
 
 
+def load_link_index() -> dict[str, Any]:
+    """Load seed-to-script links stored outside the visible output library."""
+    if not LINK_INDEX_PATH.exists():
+        return {"links": []}
+    try:
+        data = json.loads(LINK_INDEX_PATH.read_text(encoding="utf-8"))
+        if isinstance(data, dict) and isinstance(data.get("links"), list):
+            return data
+    except Exception:
+        pass
+    return {"links": []}
+
+
+def save_link_index(data: dict[str, Any]) -> None:
+    LINK_INDEX_PATH.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
+
+
+def seed_identity(seed_source_file: str, seed_number: str, seed_text: str) -> str:
+    """Stable identity for one seed entry inside one saved seed JSON file."""
+    source = str(seed_source_file or "").strip()
+    number = str(seed_number or "").strip()
+    normalized_text = " ".join(str(seed_text or "").split()).lower()
+    return f"{source}::{number}::{slugify(normalized_text, fallback='seed')}"
+
+
+def record_seed_script_link(
+    *,
+    seed_source_file: str,
+    seed_number: str,
+    seed_title: str,
+    seed_text: str,
+    script_filename: str,
+) -> None:
+    """Remember that a saved seed entry produced a specific Python script."""
+    if not seed_source_file or not script_filename:
+        return
+
+    data = load_link_index()
+    identity = seed_identity(seed_source_file, seed_number, seed_text)
+    link = {
+        "seed_id": identity,
+        "seed_source_file": seed_source_file,
+        "seed_number": str(seed_number or ""),
+        "seed_title": seed_title,
+        "seed_text": seed_text,
+        "script_filename": script_filename,
+        "created_at": datetime.now().isoformat(timespec="seconds"),
+    }
+
+    links = [
+        item for item in data.get("links", [])
+        if not (
+            item.get("seed_id") == identity
+            and item.get("script_filename") == script_filename
+        )
+    ]
+    links.append(link)
+    data["links"] = links
+    save_link_index(data)
+
+
+def filename_inference_matches(seed_text: str, script_filename: str) -> bool:
+    """Best-effort matching for scripts created before explicit links existed."""
+    filename_stem = Path(script_filename).stem.lower()
+    seed_slug = slugify(seed_text, fallback="seed").lower()
+    if not seed_slug:
+        return False
+    return seed_slug[:40] in filename_stem or filename_stem in seed_slug
+
+
+def linked_scripts_for_seed(seed_source_file: str, seed: dict[str, Any]) -> list[dict[str, str]]:
+    """Return saved Python scripts linked to a seed entry."""
+    seed_text = seed.get("full_text") or f"{seed.get('title', '')}: {seed.get('description', '')}"
+    identity = seed_identity(seed_source_file, seed.get("number", ""), seed_text)
+    data = load_link_index()
+    linked: dict[str, dict[str, str]] = {}
+
+    for item in data.get("links", []):
+        script_filename = item.get("script_filename")
+        if item.get("seed_id") == identity and script_filename:
+            script_path = OUTPUT_DIR / script_filename
+            if script_path.exists() and script_path.suffix.lower() == ".py":
+                linked[script_filename] = {
+                    "filename": script_filename,
+                    "run_url": f"/run/{script_filename}",
+                    "created_at": item.get("created_at", ""),
+                    "source": "linked",
+                }
+
+    # Also detect older scripts by filename when no explicit link exists.
+    for script_path in OUTPUT_DIR.glob("*.py"):
+        if filename_inference_matches(seed_text, script_path.name):
+            linked.setdefault(
+                script_path.name,
+                {
+                    "filename": script_path.name,
+                    "run_url": f"/run/{script_path.name}",
+                    "created_at": datetime.fromtimestamp(script_path.stat().st_mtime).isoformat(timespec="seconds"),
+                    "source": "filename match",
+                },
+            )
+
+    return sorted(linked.values(), key=lambda item: item.get("created_at", ""), reverse=True)
+
+
+
+def build_variation_prompt(original_filename: str, original_source: str, variation_request: str) -> str:
+    """Build a prompt that asks the model to create a full modified VPython script."""
+    request_text = variation_request.strip()
+    if not request_text:
+        raise ValueError("Variation request cannot be empty.")
+    if not original_source.strip():
+        raise ValueError("Original script source cannot be empty.")
+
+    return f"""You are modifying an existing VPython Python simulation.
+
+Original filename:
+{original_filename}
+
+Variation request:
+{request_text}
+
+Create a new complete Python source file that is a variation of the original script.
+
+Requirements:
+- Keep the script self-contained and runnable in Python using VPython.
+- Preserve working controls and core runnable structure where possible.
+- Apply the requested variation visibly and meaningfully.
+- Prefer light styling / colors / background over dark styling / colors / background.
+- Use ring(...) instead of torus(...) for VPython ring or torus-like objects.
+- Return only the final Python source code.
+- Do not wrap the code in Markdown fences.
+- Do not include explanations before or after the code.
+
+Original Python source:
+{original_source}
+"""
+
+
+def load_variation_index() -> dict[str, Any]:
+    """Load script-to-variation records."""
+    if not VARIATION_INDEX_PATH.exists():
+        return {"variations": []}
+    try:
+        data = json.loads(VARIATION_INDEX_PATH.read_text(encoding="utf-8"))
+        if isinstance(data, dict) and isinstance(data.get("variations"), list):
+            return data
+    except Exception:
+        pass
+    return {"variations": []}
+
+
+def save_variation_index(data: dict[str, Any]) -> None:
+    VARIATION_INDEX_PATH.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
+
+
+def record_script_variation(*, original_filename: str, variation_filename: str, request_text: str, model: str, source: str = "generated") -> None:
+    """Remember that one Python script is a variation of another Python script."""
+    if not original_filename or not variation_filename:
+        return
+
+    data = load_variation_index()
+    record = {
+        "original_filename": original_filename,
+        "variation_filename": variation_filename,
+        "request_text": request_text,
+        "model": model,
+        "source": source,
+        "created_at": datetime.now().isoformat(timespec="seconds"),
+    }
+
+    records = [
+        item for item in data.get("variations", [])
+        if not (
+            item.get("original_filename") == original_filename
+            and item.get("variation_filename") == variation_filename
+        )
+    ]
+    records.append(record)
+    data["variations"] = records
+    save_variation_index(data)
+
+
+def variations_for_script(original_filename: str) -> list[dict[str, Any]]:
+    """Return existing variation records for an original script."""
+    data = load_variation_index()
+    variations: list[dict[str, Any]] = []
+
+    for record in data.get("variations", []):
+        if record.get("original_filename") != original_filename:
+            continue
+        variation_filename = record.get("variation_filename", "")
+        try:
+            variation_path = safe_output_python_path(variation_filename)
+        except Exception:
+            continue
+        metadata = file_metadata(variation_path)
+        source = variation_path.read_text(encoding="utf-8")
+        variations.append({
+            "filename": variation_filename,
+            "metadata": metadata,
+            "request_text": record.get("request_text", ""),
+            "model": record.get("model", ""),
+            "created_at": record.get("created_at", metadata.get("created_at", "")),
+            "source": record.get("source", "generated"),
+            "source_preview": source[:4000],
+            "source_length": len(source),
+            "download": variation_filename,
+            "run_url": f"/run/{variation_filename}",
+            "edit_url": f"/script-editor/{variation_filename}",
+            "variations_url": f"/variations/{variation_filename}",
+        })
+
+    return sorted(variations, key=lambda item: item.get("created_at", ""), reverse=True)
+
+
 def safe_output_path(filename: str, allowed_suffixes: tuple[str, ...] = (".json", ".py")) -> Path:
     """Return a safe path inside outputs/ for a saved output file."""
     if not filename or Path(filename).name != filename:
@@ -341,27 +563,41 @@ def handle_error(exc: Exception):
     return jsonify({"error": message}), status
 
 
-@app.get("/")
+@app.route("/", methods=["GET"])
+@app.route("/index", methods=["GET"])
+@app.route("/index.html", methods=["GET"])
 def index():
     return render_template("index.html")
 
 
-@app.get("/previous")
+@app.route("/previous", methods=["GET"])
 def previous_outputs():
     return render_template("previous.html")
 
 
-@app.get("/outputs/<path:filename>")
+@app.route("/script-editor/<path:filename>", methods=["GET"])
+def script_editor(filename: str):
+    safe_output_python_path(filename)
+    return render_template("script_editor.html", filename=filename)
+
+
+@app.route("/variations/<path:filename>", methods=["GET"])
+def script_variations(filename: str):
+    safe_output_python_path(filename)
+    return render_template("variations.html", filename=filename)
+
+
+@app.route("/outputs/<path:filename>", methods=["GET"])
 def output_file(filename: str):
     return send_from_directory(OUTPUT_DIR, filename, as_attachment=True)
 
 
-@app.get("/api/previous")
+@app.route("/api/previous", methods=["GET"])
 def api_previous_outputs():
     return jsonify({"items": list_previous_outputs()})
 
 
-@app.get("/api/previous/<path:filename>")
+@app.route("/api/previous/<path:filename>", methods=["GET"])
 def api_previous_output_detail(filename: str):
     path = safe_output_path(filename)
     metadata = file_metadata(path)
@@ -371,19 +607,173 @@ def api_previous_output_detail(filename: str):
             data = json.loads(path.read_text(encoding="utf-8"))
         except json.JSONDecodeError:
             data = {"raw_text": path.read_text(encoding="utf-8"), "seeds": []}
+
+        seeds = data.get("seeds", []) or []
+        if isinstance(seeds, list):
+            enriched_seeds = []
+            for seed in seeds:
+                if isinstance(seed, dict):
+                    enriched = dict(seed)
+                    enriched["linked_scripts"] = linked_scripts_for_seed(path.name, enriched)
+                    enriched_seeds.append(enriched)
+                else:
+                    enriched_seeds.append(seed)
+            data["seeds"] = enriched_seeds
+
         return jsonify({"metadata": metadata, "data": data})
 
     source = path.read_text(encoding="utf-8")
     return jsonify({"metadata": metadata, "source": source, "run_url": f"/run/{path.name}"})
 
 
-@app.get("/run/<path:filename>")
+@app.route("/api/script/<path:filename>", methods=["GET"])
+def api_script_detail(filename: str):
+    path = safe_output_python_path(filename)
+    metadata = file_metadata(path)
+    return jsonify({
+        "metadata": metadata,
+        "source": path.read_text(encoding="utf-8"),
+        "run_url": f"/run/{path.name}",
+        "edit_url": f"/script-editor/{path.name}",
+    })
+
+
+@app.route("/api/script/<path:filename>", methods=["POST"])
+def api_save_script(filename: str):
+    path = safe_output_python_path(filename)
+    payload = request.get_json(force=True)
+    source = str(payload.get("source", ""))
+    save_as_copy = bool(payload.get("save_as_copy", False))
+
+    if not source.strip():
+        raise ValueError("Script source cannot be empty.")
+
+    if save_as_copy:
+        new_filename = save_text(source.strip() + "\n", f"edited-{path.stem}", ".py")
+        new_path = OUTPUT_DIR / new_filename
+        metadata = file_metadata(new_path)
+        return jsonify({
+            "message": "Saved edited copy.",
+            "filename": new_filename,
+            "metadata": metadata,
+            "run_url": f"/run/{new_filename}",
+            "edit_url": f"/script-editor/{new_filename}",
+            "download": new_filename,
+        })
+
+    path.write_text(source.strip() + "\n", encoding="utf-8")
+    metadata = file_metadata(path)
+    return jsonify({
+        "message": "Saved script changes.",
+        "filename": path.name,
+        "metadata": metadata,
+        "run_url": f"/run/{path.name}",
+        "edit_url": f"/script-editor/{path.name}",
+        "download": path.name,
+    })
+
+
+@app.route("/api/variations/<path:filename>", methods=["GET"])
+def api_variation_detail(filename: str):
+    original_path = safe_output_python_path(filename)
+    original_source = original_path.read_text(encoding="utf-8")
+    metadata = file_metadata(original_path)
+    return jsonify({
+        "original": {
+            "filename": original_path.name,
+            "metadata": metadata,
+            "source": original_source,
+            "download": original_path.name,
+            "run_url": f"/run/{original_path.name}",
+            "edit_url": f"/script-editor/{original_path.name}",
+        },
+        "variations": variations_for_script(original_path.name),
+    })
+
+
+@app.route("/api/variations/<path:filename>", methods=["POST"])
+def api_create_variation(filename: str):
+    original_path = safe_output_python_path(filename)
+    payload = request.get_json(force=True)
+    request_text = str(payload.get("request", "")).strip()
+    model = str(payload.get("model") or SIMULATION_MODEL_DEFAULT).strip()
+    temperature_value = payload.get("temperature", None)
+    temperature = None if temperature_value in (None, "") else float(temperature_value)
+
+    original_source = original_path.read_text(encoding="utf-8")
+    prompt = build_variation_prompt(original_path.name, original_source, request_text)
+    raw_text = call_llm(prompt, model=model, temperature=temperature)
+    source = extract_python_source(raw_text)
+    variation_filename = save_text(source, f"variation-of-{original_path.stem}-{request_text}", ".py")
+
+    record_script_variation(
+        original_filename=original_path.name,
+        variation_filename=variation_filename,
+        request_text=request_text,
+        model=model,
+        source="generated",
+    )
+
+    variation_path = OUTPUT_DIR / variation_filename
+    metadata = file_metadata(variation_path)
+    return jsonify({
+        "message": "Created variation script.",
+        "filename": variation_filename,
+        "metadata": metadata,
+        "source": source,
+        "source_preview": source[:4000],
+        "source_length": len(source),
+        "download": variation_filename,
+        "run_url": f"/run/{variation_filename}",
+        "edit_url": f"/script-editor/{variation_filename}",
+        "variations_url": f"/variations/{variation_filename}",
+        "variations": variations_for_script(original_path.name),
+    })
+
+
+@app.route("/api/variations/<path:filename>/manual", methods=["POST"])
+def api_save_manual_variation(filename: str):
+    original_path = safe_output_python_path(filename)
+    payload = request.get_json(force=True)
+    source = str(payload.get("source", "")).strip()
+    note = str(payload.get("note", "manual edited variation")).strip() or "manual edited variation"
+
+    if not source:
+        raise ValueError("Variation source cannot be empty.")
+
+    variation_filename = save_text(source + "\n", f"manual-variation-of-{original_path.stem}-{note}", ".py")
+    record_script_variation(
+        original_filename=original_path.name,
+        variation_filename=variation_filename,
+        request_text=note,
+        model="manual",
+        source="manual",
+    )
+
+    variation_path = OUTPUT_DIR / variation_filename
+    metadata = file_metadata(variation_path)
+    return jsonify({
+        "message": "Saved manual variation script.",
+        "filename": variation_filename,
+        "metadata": metadata,
+        "source": source + "\n",
+        "source_preview": source[:4000],
+        "source_length": len(source),
+        "download": variation_filename,
+        "run_url": f"/run/{variation_filename}",
+        "edit_url": f"/script-editor/{variation_filename}",
+        "variations_url": f"/variations/{variation_filename}",
+        "variations": variations_for_script(original_path.name),
+    })
+
+
+@app.route("/run/<path:filename>", methods=["GET"])
 def run_simulation(filename: str):
     run_info = launch_vpython_script(filename)
     return render_template("run.html", **run_info)
 
 
-@app.post("/api/seeds")
+@app.route("/api/seeds", methods=["POST"])
 def api_generate_seeds():
     payload = request.get_json(force=True)
     phrase = str(payload.get("phrase", "")).strip()
@@ -412,13 +802,16 @@ def api_generate_seeds():
     return jsonify({"raw_text": raw_text, "seeds": seeds, "download": download})
 
 
-@app.post("/api/simulation")
+@app.route("/api/simulation", methods=["POST"])
 def api_generate_simulation():
     payload = request.get_json(force=True)
     seed = str(payload.get("seed", "")).strip()
     model = str(payload.get("model") or SIMULATION_MODEL_DEFAULT).strip()
     temperature_value = payload.get("temperature", None)
     save_output = bool(payload.get("save", True))
+    seed_source_file = str(payload.get("seed_source_file", "")).strip()
+    seed_number = str(payload.get("seed_number", "")).strip()
+    seed_title = str(payload.get("seed_title", "")).strip()
 
     temperature = None if temperature_value in (None, "") else float(temperature_value)
     raw_text = call_llm(build_simulation_prompt(seed), model=model, temperature=temperature)
@@ -427,13 +820,22 @@ def api_generate_simulation():
     # Always save a runnable copy so the page can create an "Open and run" link.
     run_file = save_text(source, f"vpython-simulation-{seed}", ".py")
 
+    if seed_source_file:
+        record_seed_script_link(
+            seed_source_file=seed_source_file,
+            seed_number=seed_number,
+            seed_title=seed_title,
+            seed_text=seed,
+            script_filename=run_file,
+        )
+
     download = run_file if save_output else None
     run_url = f"/run/{run_file}"
 
-    return jsonify({"source": source, "download": download, "run_url": run_url})
+    return jsonify({"source": source, "download": download, "run_url": run_url, "script_filename": run_file})
 
 
-@app.post("/api/batch")
+@app.route("/api/batch", methods=["POST"])
 def api_batch_generate():
     """Process two explicit queues in order.
 

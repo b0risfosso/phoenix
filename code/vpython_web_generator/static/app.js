@@ -33,6 +33,16 @@ function makeRunLink(runUrl) {
   return `<a href="${runUrl}" target="_blank" rel="noopener">Open and run simulation</a>`;
 }
 
+function makeEditLink(filename) {
+  if (!filename) return "";
+  return `<a href="/script-editor/${encodeURIComponent(filename)}" target="_blank" rel="noopener">Edit script</a>`;
+}
+
+function makeVariationLink(filename) {
+  if (!filename) return "";
+  return `<a href="/variations/${encodeURIComponent(filename)}" target="_blank" rel="noopener">Build variations</a>`;
+}
+
 function joinLinks(...links) {
   return links.filter(Boolean).join('<span class="link-separator">•</span>');
 }
@@ -142,7 +152,9 @@ generateSimulationButton.addEventListener("click", async () => {
     setStatus(simulationStatus, "Generated VPython script.", "success");
     simulationDownloads.innerHTML = joinLinks(
       makeDownloadLink(data.download, "Download Python script"),
-      makeRunLink(data.run_url)
+      makeRunLink(data.run_url),
+      makeEditLink(data.script_filename || data.download),
+      makeVariationLink(data.script_filename || data.download)
     );
   } catch (error) {
     setStatus(simulationStatus, error.message, "error");
@@ -196,7 +208,9 @@ function renderBatchResults(results) {
     const links = joinLinks(
       makeDownloadLink(item.seed_download, "Download seeds JSON"),
       makeDownloadLink(item.script_download, "Download Python script"),
-      makeRunLink(item.run_url)
+      makeRunLink(item.run_url),
+      makeEditLink(item.script_download),
+      makeVariationLink(item.script_download)
     );
 
     const preview = item.source_preview
