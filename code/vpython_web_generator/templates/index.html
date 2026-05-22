@@ -81,15 +81,25 @@
     <section class="panel">
       <div class="panel-header">
         <div>
-          <p class="step">Batch queue</p>
-          <h2>Send multiple requests sequentially</h2>
+          <p class="step">Batch queues</p>
+          <h2>Send seed requests and code requests sequentially</h2>
         </div>
       </div>
 
-      <p class="helper-text">Enter one request per line. The backend processes them from top to bottom. Each line can be a word/phrase for seed generation, or a full simulation seed.</p>
+      <p class="helper-text">Use the two separate batch entries below. Seed requests generate saved simulation seed JSON files. Code requests generate saved Python scripts from complete simulation seed descriptions. The backend processes every line in order, one LLM call at a time.</p>
 
-      <label for="batchRequests">Batch requests</label>
-      <textarea id="batchRequests" rows="7" placeholder="water\ntraffic flow\ncoral reef particles attaching to and detaching from a transparent reef frame..."></textarea>
+      <div class="two-column-grid">
+        <div>
+          <label for="batchSeedRequests">Batch entry 1: generate simulation seeds</label>
+          <textarea id="batchSeedRequests" rows="8" placeholder="water\ntraffic flow\ncoral reef\nmemory palace"></textarea>
+          <p class="helper-text small">One word or phrase per line.</p>
+        </div>
+        <div>
+          <label for="batchCodeRequests">Batch entry 2: generate VPython code</label>
+          <textarea id="batchCodeRequests" rows="8" placeholder="Transparent water particles spill through gates and collect in labeled basins...\nTraffic pods merge, collide, and reroute around glowing lane markers..."></textarea>
+          <p class="helper-text small">One complete simulation seed or scene description per line.</p>
+        </div>
+      </div>
 
       <details class="settings" open>
         <summary>Batch settings</summary>
@@ -98,15 +108,13 @@
           <label>Seed temperature <input id="batchSeedTemperature" type="number" min="0" max="2" step="0.1" value="0.9" /></label>
           <label>Simulation model <input id="batchSimulationModel" value="gpt-5.5" /></label>
           <label>Simulation temperature <input id="batchSimulationTemperature" type="number" min="0" max="2" step="0.1" placeholder="model default" /></label>
-          <label>Seed number for code <input id="batchSelectedSeedIndex" type="number" min="1" max="25" step="1" value="1" /></label>
-          <label class="check"><input id="batchGenerateCode" type="checkbox" checked /> Generate code after seeds</label>
           <label class="check"><input id="batchSaveSeeds" type="checkbox" checked /> Save seed JSON files</label>
           <label class="check"><input id="batchSaveSimulations" type="checkbox" checked /> Save Python scripts</label>
         </div>
       </details>
 
       <div class="button-row">
-        <button id="runBatchButton">Run batch sequentially</button>
+        <button id="runBatchButton">Run both queues sequentially</button>
         <button id="clearBatchButton" class="secondary">Clear results</button>
       </div>
 

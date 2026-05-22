@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Previous VPython Outputs</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+  <main class="shell">
+    <header class="hero hero-row">
+      <div>
+        <p class="eyebrow">Saved output library</p>
+        <h1>Previous simulation seeds and Python scripts.</h1>
+        <p class="subhead">Browse files saved in the local <code>outputs/</code> folder, view seed JSON, view generated Python, download files, or run saved simulations.</p>
+      </div>
+      <nav class="top-nav">
+        <a href="/">Generator</a>
+        <a href="/previous" aria-current="page">Previous outputs</a>
+      </nav>
+    </header>
+
+    <section class="panel">
+      <div class="panel-header split-header">
+        <div>
+          <p class="step">Library</p>
+          <h2>Saved files</h2>
+        </div>
+        <button id="refreshPreviousButton" class="secondary">Refresh</button>
+      </div>
+
+      <div class="library-layout">
+        <aside class="library-list">
+          <div class="filter-row">
+            <button class="filter-pill active" data-filter="all">All</button>
+            <button class="filter-pill" data-filter="seeds">Seeds</button>
+            <button class="filter-pill" data-filter="script">Scripts</button>
+          </div>
+          <div id="previousStatus" class="status"></div>
+          <div id="previousItems" class="previous-items"></div>
+        </aside>
+
+        <section class="library-detail">
+          <div id="detailEmpty" class="empty-state">
+            Select a saved seed file or Python script to display it here.
+          </div>
+
+          <article id="seedDetail" class="detail-card hidden">
+            <div class="detail-header">
+              <div>
+                <p class="step">Saved seeds</p>
+                <h2 id="seedTitle"></h2>
+                <p id="seedMeta" class="detail-meta"></p>
+              </div>
+              <div id="seedActions" class="downloads"></div>
+            </div>
+            <div id="seedRawText" class="raw-output"></div>
+            <div id="seedCards" class="seed-grid compact"></div>
+          </article>
+
+          <article id="scriptDetail" class="detail-card hidden">
+            <div class="detail-header">
+              <div>
+                <p class="step">Saved script</p>
+                <h2 id="scriptTitle"></h2>
+                <p id="scriptMeta" class="detail-meta"></p>
+              </div>
+              <div id="scriptActions" class="downloads"></div>
+            </div>
+            <div class="button-row small-row">
+              <button id="copyPreviousCodeButton" class="secondary">Copy code</button>
+            </div>
+            <pre class="codebox"><code id="previousPythonCode"></code></pre>
+          </article>
+        </section>
+      </div>
+    </section>
+  </main>
+
+  <script src="/static/previous.js"></script>
+</body>
+</html>

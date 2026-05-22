@@ -9,7 +9,7 @@ This local Flask web app turns the two-script workflow into a webpage:
 5. Download the seed JSON or generated `.py` file.
 6. Open the generated simulation in a new tab and start it from the browser.
 7. Use the **Previous outputs** page to view saved seed JSON files and saved Python scripts.
-8. Use the **Batch queue** section to send multiple seed/code requests and process them sequentially.
+8. Use the **Batch queues** section to send separate seed-generation and code-generation batches sequentially.
 
 ## Setup
 
@@ -28,17 +28,20 @@ Open this URL in a browser:
 http://127.0.0.1:5000
 ```
 
-## Batch queue
+## Batch queues
 
-The generator page includes a **Batch queue** section. Enter one request per line, then click **Run batch sequentially**. The Flask backend processes the lines in order with a normal Python `for` loop, so only one seed-generation or code-generation call is made at a time.
+The generator page includes two separate batch entries:
+
+1. **Batch entry 1: generate simulation seeds** — enter one word or phrase per line.
+2. **Batch entry 2: generate VPython code** — enter one complete simulation seed or scene description per line.
+
+Click **Run both queues sequentially**. The Flask backend processes the seed queue first and the code queue second with normal Python `for` loops, so only one LLM call is made at a time.
 
 Batch behavior:
 
-- Short lines are treated as input words or phrases. The app generates seed ideas first.
-- Longer lines or lines with punctuation are treated as direct simulation seeds.
-- When **Generate code after seeds** is enabled, the app generates VPython code after each seed request.
-- The **Seed number for code** setting controls which parsed seed idea is used for code generation. For example, `1` uses the first generated seed.
-- Each completed item gets its own saved seed JSON file and/or Python script, plus an **Open and run simulation** link.
+- Seed lines generate saved JSON seed files when **Save seed JSON files** is enabled.
+- Code lines generate saved Python scripts when **Save Python scripts** is enabled.
+- Each generated Python script gets an **Open and run simulation** link.
 - If one item fails, later items still continue.
 
 ## Notes

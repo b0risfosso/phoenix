@@ -1,0 +1,160 @@
+{
+  "created_at": "2026-05-21T17:55:31",
+  "batch_index": 4,
+  "phrase": "dirt",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "raw_text": "Here are strong **dirt simulation inputs** you can plug into your prompt:\n\n1. **Eroding Dirt Hill with Rolling Marbles**\n   A tall brown dirt mound made of many small spheres slowly erodes as colored marbles roll down its slope, carving channels, colliding with dirt particles, and leaving faint trails that deepen into gullies over time.\n\n2. **Raindrops Compacting Soil**\n   A flat patch of granular dirt particles is struck by transparent blue raindrop spheres falling from above, which compact the soil, create small craters that fill with shallow puddles, and form ripples that spread and fade.\n\n3. **Growing Plant Roots in Layered Dirt**\n   A vertical slice of soil layers (topsoil, clay, rock) is shown as stacked semi-transparent boxes while a plant stem at the surface sends branching root tubes downward that push aside soil particles, wrap around stones, and color nearby dirt darker to show moisture transfer.\n\n4. **Ant Colony Tunneling in Dirt**\n   A large semi-transparent block of dirt is gradually tunneled by small moving ant spheres that dig, carry away dirt particles, pile them into a mound on the surface, and leave labeled chambers connected by smooth tunnels.\n\n5. **Landslide on a Dirt Slope**\n   A steep dirt slope made of many small spheres is destabilized when a heavy block appears at the top, causing a sliding wave of soil that accelerates downhill, collides with trees and rocks, and leaves behind a new, smoother terrain profile.\n\n6. **Footprints Pressed into Muddy Dirt**\n   A series of shoe-shaped blocks walk across a soft brown plane, pressing into the dirt to create 3D footprints that fill slowly with shallow murky water and gradually deform back toward a flatter surface.\n\n7. **Dust Devil Spinning over a Dirt Field**\n   A flat light-brown dirt ground emits tiny dust particles that get sucked into a rotating transparent vertical vortex, orbiting around its center, spiraling upward, and then dispersing as the dust devil moves across the field.\n\n8. **Microscopic Soil Particles Under a Falling Ball**\n   Zoomed-in dirt particles (sand, silt, clay) with different colors and sizes are compressed and rearranged when a larger heavy ball drops onto them, squeezing out blue water particles and showing changing porosity with a small meter.\n\n9. **Dirt Clods Breaking on Impact**\n   Several irregular dirt clods fall from different heights onto a hard surface, shattering into smaller pieces and dust particles that bounce, roll, and leave faint brown marks where they land.\n\n10. **Wheel Digging Ruts in a Dirt Road**\n    A spinning wheel with visible treads rolls along a long dirt strip, carving two deep ruts, throwing dirt clumps and dust particles to the sides, and gradually creating a bumpy, uneven road surface.\n\n11. **River Cutting Through Dirt Banks**\n    A flowing blue water ribbon curves between two raised dirt banks, eroding brown particles from the outer bend, depositing them as a lighter-colored bar on the inner bend, and slowly changing the river’s path frame by frame.\n\n12. **Mud Splash from a Jumping Object**\n    A character block jumps into a shallow mud patch, causing brown liquid-like particles to splash outward in arcs, stick to the character’s sides as darker spots, then drip back and merge with the mud pool.\n\n13. **Soil Layers Exposed by Excavator Bucket**\n    A moving excavator arm scoops a chunk out of a stratified soil block, lifting a mix of colored layers, shaking it so some particles fall back and others remain attached, with labels showing each soil horizon.\n\n14. **Dust Settling on a Clean Surface**\n    Tiny brown dust particles float gently in the air and slowly settle onto a white floor and a few stationary objects, building up a thin, slightly darker layer that can be partially blown off by a moving fan object.\n\n15. **Compost Pile Transforming Dirt and Waste**\n    A mound of dirt mixed with colored organic chunks slowly heats (shown by a color gradient), shrinks, and darkens as the pieces break down, emit small gas bubble particles, and merge into a uniform, richer soil.\n\n16. **Meteor Striking a Dirt Plain**\n    A glowing meteor sphere enters from above, leaving a bright trail, then slams into a flat dirt plane, ejecting a ring of flying dirt particles, carving a circular crater, and leaving hot, slowly cooling edges.\n\n17. **Soil Creep on a Hillside**\n    A gentle dirt slope with small rocks and fence posts slowly deforms as individual soil particles subtly move downhill, tilting the posts over time and leaving faint trails that visualize long-term soil creep.\n\n18. **Worm Burrowing Through Soil Cross-Section**\n    A flexible tube-shaped worm moves through a semi-transparent dirt block, pushing particles aside to open a tunnel, leaving behind a slightly darker, moister path that other tiny particles occasionally fall into.\n\n19. **Dirt-Stained Water Filtering Through Sand**\n    A cylinder of layered dirt and sand sits under a reservoir of murky brown water; as water seeps down, dirt particles get trapped at certain layers, the water below becomes clearer, and a meter shows turbidity changing over time.\n\n20. **Dust Footprint Trail in a Bright Room**\n    A figure made of simple blocks walks across a bright floor sprinkled with a thin layer of dust, leaving behind cleaner footprints while the kicked-up dust forms short-lived clouds that drift and then resettle.\n\n21. **Dirt Clinging to and Washing Off a Car**\n    A car-shaped block covered with brown dirt patches drives through a transparent blue car-wash tunnel where moving water jets and rotating brushes detach dirt particles that swirl briefly in the water and then settle into a drain.\n\n22. **Terraforming: Machines Turning Rock into Soil**\n    Several hovering machines move across a barren rocky surface, blasting the ground with beams that fracture rocks into smaller brown soil particles, which then spread, mix, and gradually build a thin, continuous dirt layer.\n\n23. **Sandcastle Eroding into Loose Dirt**\n    A detailed sandcastle made from packed tan particles sits on a beach; incoming waves repeatedly collide with its walls, causing sections to crumble into loose dirt that flows and flattens into a smooth wet surface.\n\n24. **Dirt Aggregates Forming from Loose Particles**\n    In a floating 3D box, individual soil particles drift randomly until they collide and stick to each other, slowly forming larger dirt aggregates whose size distribution is shown with a small live-updating histogram.\n\n25. **Construction Site: Dirt Piles and Dump Trucks**\n    Multiple dump trucks drive between a deep pit and a growing dirt pile, loading and unloading brown particle clouds that pour out of their beds, collide with the ground, bounce slightly, and settle into an evolving mound.",
+  "seeds": [
+    {
+      "number": "1",
+      "title": "Eroding Dirt Hill with Rolling Marbles",
+      "description": "A tall brown dirt mound made of many small spheres slowly erodes as colored marbles roll down its slope, carving channels, colliding with dirt particles, and leaving faint trails that deepen into gullies over time.",
+      "full_text": "Eroding Dirt Hill with Rolling Marbles: A tall brown dirt mound made of many small spheres slowly erodes as colored marbles roll down its slope, carving channels, colliding with dirt particles, and leaving faint trails that deepen into gullies over time."
+    },
+    {
+      "number": "2",
+      "title": "Raindrops Compacting Soil",
+      "description": "A flat patch of granular dirt particles is struck by transparent blue raindrop spheres falling from above, which compact the soil, create small craters that fill with shallow puddles, and form ripples that spread and fade.",
+      "full_text": "Raindrops Compacting Soil: A flat patch of granular dirt particles is struck by transparent blue raindrop spheres falling from above, which compact the soil, create small craters that fill with shallow puddles, and form ripples that spread and fade."
+    },
+    {
+      "number": "3",
+      "title": "Growing Plant Roots in Layered Dirt",
+      "description": "A vertical slice of soil layers (topsoil, clay, rock) is shown as stacked semi-transparent boxes while a plant stem at the surface sends branching root tubes downward that push aside soil particles, wrap around stones, and color nearby dirt darker to show moisture transfer.",
+      "full_text": "Growing Plant Roots in Layered Dirt: A vertical slice of soil layers (topsoil, clay, rock) is shown as stacked semi-transparent boxes while a plant stem at the surface sends branching root tubes downward that push aside soil particles, wrap around stones, and color nearby dirt darker to show moisture transfer."
+    },
+    {
+      "number": "4",
+      "title": "Ant Colony Tunneling in Dirt",
+      "description": "A large semi-transparent block of dirt is gradually tunneled by small moving ant spheres that dig, carry away dirt particles, pile them into a mound on the surface, and leave labeled chambers connected by smooth tunnels.",
+      "full_text": "Ant Colony Tunneling in Dirt: A large semi-transparent block of dirt is gradually tunneled by small moving ant spheres that dig, carry away dirt particles, pile them into a mound on the surface, and leave labeled chambers connected by smooth tunnels."
+    },
+    {
+      "number": "5",
+      "title": "Landslide on a Dirt Slope",
+      "description": "A steep dirt slope made of many small spheres is destabilized when a heavy block appears at the top, causing a sliding wave of soil that accelerates downhill, collides with trees and rocks, and leaves behind a new, smoother terrain profile.",
+      "full_text": "Landslide on a Dirt Slope: A steep dirt slope made of many small spheres is destabilized when a heavy block appears at the top, causing a sliding wave of soil that accelerates downhill, collides with trees and rocks, and leaves behind a new, smoother terrain profile."
+    },
+    {
+      "number": "6",
+      "title": "Footprints Pressed into Muddy Dirt",
+      "description": "A series of shoe-shaped blocks walk across a soft brown plane, pressing into the dirt to create 3D footprints that fill slowly with shallow murky water and gradually deform back toward a flatter surface.",
+      "full_text": "Footprints Pressed into Muddy Dirt: A series of shoe-shaped blocks walk across a soft brown plane, pressing into the dirt to create 3D footprints that fill slowly with shallow murky water and gradually deform back toward a flatter surface."
+    },
+    {
+      "number": "7",
+      "title": "Dust Devil Spinning over a Dirt Field",
+      "description": "A flat light-brown dirt ground emits tiny dust particles that get sucked into a rotating transparent vertical vortex, orbiting around its center, spiraling upward, and then dispersing as the dust devil moves across the field.",
+      "full_text": "Dust Devil Spinning over a Dirt Field: A flat light-brown dirt ground emits tiny dust particles that get sucked into a rotating transparent vertical vortex, orbiting around its center, spiraling upward, and then dispersing as the dust devil moves across the field."
+    },
+    {
+      "number": "8",
+      "title": "Microscopic Soil Particles Under a Falling Ball",
+      "description": "Zoomed-in dirt particles (sand, silt, clay) with different colors and sizes are compressed and rearranged when a larger heavy ball drops onto them, squeezing out blue water particles and showing changing porosity with a small meter.",
+      "full_text": "Microscopic Soil Particles Under a Falling Ball: Zoomed-in dirt particles (sand, silt, clay) with different colors and sizes are compressed and rearranged when a larger heavy ball drops onto them, squeezing out blue water particles and showing changing porosity with a small meter."
+    },
+    {
+      "number": "9",
+      "title": "Dirt Clods Breaking on Impact",
+      "description": "Several irregular dirt clods fall from different heights onto a hard surface, shattering into smaller pieces and dust particles that bounce, roll, and leave faint brown marks where they land.",
+      "full_text": "Dirt Clods Breaking on Impact: Several irregular dirt clods fall from different heights onto a hard surface, shattering into smaller pieces and dust particles that bounce, roll, and leave faint brown marks where they land."
+    },
+    {
+      "number": "10",
+      "title": "Wheel Digging Ruts in a Dirt Road",
+      "description": "A spinning wheel with visible treads rolls along a long dirt strip, carving two deep ruts, throwing dirt clumps and dust particles to the sides, and gradually creating a bumpy, uneven road surface.",
+      "full_text": "Wheel Digging Ruts in a Dirt Road: A spinning wheel with visible treads rolls along a long dirt strip, carving two deep ruts, throwing dirt clumps and dust particles to the sides, and gradually creating a bumpy, uneven road surface."
+    },
+    {
+      "number": "11",
+      "title": "River Cutting Through Dirt Banks",
+      "description": "A flowing blue water ribbon curves between two raised dirt banks, eroding brown particles from the outer bend, depositing them as a lighter-colored bar on the inner bend, and slowly changing the river’s path frame by frame.",
+      "full_text": "River Cutting Through Dirt Banks: A flowing blue water ribbon curves between two raised dirt banks, eroding brown particles from the outer bend, depositing them as a lighter-colored bar on the inner bend, and slowly changing the river’s path frame by frame."
+    },
+    {
+      "number": "12",
+      "title": "Mud Splash from a Jumping Object",
+      "description": "A character block jumps into a shallow mud patch, causing brown liquid-like particles to splash outward in arcs, stick to the character’s sides as darker spots, then drip back and merge with the mud pool.",
+      "full_text": "Mud Splash from a Jumping Object: A character block jumps into a shallow mud patch, causing brown liquid-like particles to splash outward in arcs, stick to the character’s sides as darker spots, then drip back and merge with the mud pool."
+    },
+    {
+      "number": "13",
+      "title": "Soil Layers Exposed by Excavator Bucket",
+      "description": "A moving excavator arm scoops a chunk out of a stratified soil block, lifting a mix of colored layers, shaking it so some particles fall back and others remain attached, with labels showing each soil horizon.",
+      "full_text": "Soil Layers Exposed by Excavator Bucket: A moving excavator arm scoops a chunk out of a stratified soil block, lifting a mix of colored layers, shaking it so some particles fall back and others remain attached, with labels showing each soil horizon."
+    },
+    {
+      "number": "14",
+      "title": "Dust Settling on a Clean Surface",
+      "description": "Tiny brown dust particles float gently in the air and slowly settle onto a white floor and a few stationary objects, building up a thin, slightly darker layer that can be partially blown off by a moving fan object.",
+      "full_text": "Dust Settling on a Clean Surface: Tiny brown dust particles float gently in the air and slowly settle onto a white floor and a few stationary objects, building up a thin, slightly darker layer that can be partially blown off by a moving fan object."
+    },
+    {
+      "number": "15",
+      "title": "Compost Pile Transforming Dirt and Waste",
+      "description": "A mound of dirt mixed with colored organic chunks slowly heats (shown by a color gradient), shrinks, and darkens as the pieces break down, emit small gas bubble particles, and merge into a uniform, richer soil.",
+      "full_text": "Compost Pile Transforming Dirt and Waste: A mound of dirt mixed with colored organic chunks slowly heats (shown by a color gradient), shrinks, and darkens as the pieces break down, emit small gas bubble particles, and merge into a uniform, richer soil."
+    },
+    {
+      "number": "16",
+      "title": "Meteor Striking a Dirt Plain",
+      "description": "A glowing meteor sphere enters from above, leaving a bright trail, then slams into a flat dirt plane, ejecting a ring of flying dirt particles, carving a circular crater, and leaving hot, slowly cooling edges.",
+      "full_text": "Meteor Striking a Dirt Plain: A glowing meteor sphere enters from above, leaving a bright trail, then slams into a flat dirt plane, ejecting a ring of flying dirt particles, carving a circular crater, and leaving hot, slowly cooling edges."
+    },
+    {
+      "number": "17",
+      "title": "Soil Creep on a Hillside",
+      "description": "A gentle dirt slope with small rocks and fence posts slowly deforms as individual soil particles subtly move downhill, tilting the posts over time and leaving faint trails that visualize long-term soil creep.",
+      "full_text": "Soil Creep on a Hillside: A gentle dirt slope with small rocks and fence posts slowly deforms as individual soil particles subtly move downhill, tilting the posts over time and leaving faint trails that visualize long-term soil creep."
+    },
+    {
+      "number": "18",
+      "title": "Worm Burrowing Through Soil Cross-Section",
+      "description": "A flexible tube-shaped worm moves through a semi-transparent dirt block, pushing particles aside to open a tunnel, leaving behind a slightly darker, moister path that other tiny particles occasionally fall into.",
+      "full_text": "Worm Burrowing Through Soil Cross-Section: A flexible tube-shaped worm moves through a semi-transparent dirt block, pushing particles aside to open a tunnel, leaving behind a slightly darker, moister path that other tiny particles occasionally fall into."
+    },
+    {
+      "number": "19",
+      "title": "Dirt-Stained Water Filtering Through Sand",
+      "description": "A cylinder of layered dirt and sand sits under a reservoir of murky brown water; as water seeps down, dirt particles get trapped at certain layers, the water below becomes clearer, and a meter shows turbidity changing over time.",
+      "full_text": "Dirt-Stained Water Filtering Through Sand: A cylinder of layered dirt and sand sits under a reservoir of murky brown water; as water seeps down, dirt particles get trapped at certain layers, the water below becomes clearer, and a meter shows turbidity changing over time."
+    },
+    {
+      "number": "20",
+      "title": "Dust Footprint Trail in a Bright Room",
+      "description": "A figure made of simple blocks walks across a bright floor sprinkled with a thin layer of dust, leaving behind cleaner footprints while the kicked-up dust forms short-lived clouds that drift and then resettle.",
+      "full_text": "Dust Footprint Trail in a Bright Room: A figure made of simple blocks walks across a bright floor sprinkled with a thin layer of dust, leaving behind cleaner footprints while the kicked-up dust forms short-lived clouds that drift and then resettle."
+    },
+    {
+      "number": "21",
+      "title": "Dirt Clinging to and Washing Off a Car",
+      "description": "A car-shaped block covered with brown dirt patches drives through a transparent blue car-wash tunnel where moving water jets and rotating brushes detach dirt particles that swirl briefly in the water and then settle into a drain.",
+      "full_text": "Dirt Clinging to and Washing Off a Car: A car-shaped block covered with brown dirt patches drives through a transparent blue car-wash tunnel where moving water jets and rotating brushes detach dirt particles that swirl briefly in the water and then settle into a drain."
+    },
+    {
+      "number": "22",
+      "title": "Terraforming: Machines Turning Rock into Soil",
+      "description": "Several hovering machines move across a barren rocky surface, blasting the ground with beams that fracture rocks into smaller brown soil particles, which then spread, mix, and gradually build a thin, continuous dirt layer.",
+      "full_text": "Terraforming: Machines Turning Rock into Soil: Several hovering machines move across a barren rocky surface, blasting the ground with beams that fracture rocks into smaller brown soil particles, which then spread, mix, and gradually build a thin, continuous dirt layer."
+    },
+    {
+      "number": "23",
+      "title": "Sandcastle Eroding into Loose Dirt",
+      "description": "A detailed sandcastle made from packed tan particles sits on a beach; incoming waves repeatedly collide with its walls, causing sections to crumble into loose dirt that flows and flattens into a smooth wet surface.",
+      "full_text": "Sandcastle Eroding into Loose Dirt: A detailed sandcastle made from packed tan particles sits on a beach; incoming waves repeatedly collide with its walls, causing sections to crumble into loose dirt that flows and flattens into a smooth wet surface."
+    },
+    {
+      "number": "24",
+      "title": "Dirt Aggregates Forming from Loose Particles",
+      "description": "In a floating 3D box, individual soil particles drift randomly until they collide and stick to each other, slowly forming larger dirt aggregates whose size distribution is shown with a small live-updating histogram.",
+      "full_text": "Dirt Aggregates Forming from Loose Particles: In a floating 3D box, individual soil particles drift randomly until they collide and stick to each other, slowly forming larger dirt aggregates whose size distribution is shown with a small live-updating histogram."
+    },
+    {
+      "number": "25",
+      "title": "Construction Site: Dirt Piles and Dump Trucks",
+      "description": "Multiple dump trucks drive between a deep pit and a growing dirt pile, loading and unloading brown particle clouds that pour out of their beds, collide with the ground, bounce slightly, and settle into an evolving mound.",
+      "full_text": "Construction Site: Dirt Piles and Dump Trucks: Multiple dump trucks drive between a deep pit and a growing dirt pile, loading and unloading brown particle clouds that pour out of their beds, collide with the ground, bounce slightly, and settle into an evolving mound."
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "created_at": "2026-05-21T17:55:05",
+  "batch_index": 3,
+  "phrase": "air",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "raw_text": "Here are strong **air simulation inputs** you can plug into your prompt:\n\n1. **Rising Hot Air Balloon Field**\n   A set of colorful semi-transparent balloons lift off from a grassy plane as heated air inside them expands, with ropes that can detach, wind gusts that push them, and faint trails showing their paths and altitude labels.\n\n2. **Airflow Around a Moving Car**\n   A solid car model drives through the scene while thousands of small colored particles show air velocity as they wrap, split, and rejoin around the car’s body, with streamlines leaving fading trails and pressure regions indicated by color.\n\n3. **Room Ventilation and Dust Particle Motion**\n   A simple room with an air vent, open window, and a rotating ceiling fan blows semi-transparent dust particles that bounce off walls, get sucked into the vent, and form swirling eddies visualized with trails and concentration meters.\n\n4. **Airplane Wing Lift Visualization**\n   A stationary airplane wing cross-section sits in a wind tunnel as air particles flow around it, speeding over the top surface, slowing under the bottom, with dynamic pressure labels, lift arrows, and streaklines that curve and detach at the wingtip.\n\n5. **Tornado Formation Over a Flat Plain**\n   Warm, moist air particles rise from a flat ground plane into a rotating column that condenses into a semi-transparent funnel cloud, pulling in debris spheres that orbit, collide, and get flung outward, with wind speed color-coded.\n\n6. **City Street Canyon Air Pollution Mixing**\n   A city block with tall building walls channels air flowing down the street while colored pollutant puffs emerge from cars and chimneys, mix, rise, and dilute, with concentration zones visualized by semi-transparent colored volumes and floating numeric labels.\n\n7. **Air Bubbles Rising Through Water**\n   A transparent water tank stands on a light background while air bubbles of different sizes detach from a nozzle, rise, merge, split on collision, and wobble, leaving short trails and deforming slightly as they approach the water surface.\n\n8. **Sound Wave Propagation in Air**\n   A speaker cone on one side of the scene vibrates, pushing a lattice of small air markers that pulse back and forth in place, forming expanding spherical pressure waves with alternating compressed and rarefied transparent shells.\n\n9. **Dandelion Seed Dispersal in Wind**\n   A dandelion head on the ground releases tiny tufted seeds that detach when gusts pass, float, rotate, and slowly descend, sometimes colliding with obstacles or attaching to a sticky vertical surface, with airflow drawn as curved arrowed lines.\n\n10. **Air Hockey Table Puck Motion**\n   A flat air hockey table blasts jets of air upward, causing a puck to hover and slide with low friction, bouncing off walls, colliding with simple paddles, and leaving faint motion trails while air jets are indicated by short vertical particle streams.\n\n11. **Airbag Inflation in a Car Crash**\n   A car interior cross-section shows an airbag module that suddenly releases compressed gas, rapidly inflating a semi-transparent cloth-like bag that expands, collides with a test dummy’s head, and then slowly leaks air as its surface shrinks.\n\n12. **Respiratory Airflow in Human Lungs**\n   A branching, semi-transparent lung tree fills with colored air as a chest wall moves, with inhaled air flowing down the trachea, splitting through bronchi, and filling tiny alveolar clusters where gas exchange zones gently pulse and change color.\n\n13. **Wind Turbine Farm Energy Capture**\n   Multiple tall wind turbines stand on a landscape while air particles stream past, slowing and curling as they pass through the spinning blades, with wake regions visualized by vortices that trail downstream and power meters over each turbine.\n\n14. **Paper Airplane Flight and Gliding Path**\n   A folded paper airplane is launched with adjustable initial speed and angle, gliding through a light sky while air flow lines wrap around its wings, lift and drag vectors update in real time, and the flight path leaves a curved trail.\n\n15. **Hot Air Rising From a Campfire**\n   A small campfire emits warm, glowing particles that rise and swirl, dragging semi-transparent air columns upward that bend with a side wind, carrying embers that fade, split, and occasionally collide with a horizontal heat-sensing plane above.\n\n16. **Weather Front: Cold Air Meets Warm Air**\n   Two large semi-transparent air masses, one blue (cold) and one red (warm), slide toward each other over a flat Earth segment, with the warm air forced to rise along a sloping front, condensing into cloud particles that grow, merge, and rain downward.\n\n17. **Air-Driven Newton’s Cradle of Balloons**\n   A row of light balloons hangs from strings while oscillating air jets push them, causing collisions that transfer momentum along the line, with gentle bouncing, twisting, and trails that show recent motion arcs.\n\n18. **Inflating and Deflating Air Mattress**\n   A flat, folded air mattress on the floor connects to a pump; as air flows in via a visible particle stream, compartments expand and raise a person-shaped object upward, then slowly deflate as a valve opens and air escapes in a colored jet.\n\n19. **Jet Engine Intake and Exhaust Flow**\n   A simplified jet engine cutaway shows air particles being sucked into the intake, compressed by rotating fan blades, heated in a combustion region, and then expelled at high speed, with color shifts indicating temperature and thrust vectors at the exhaust.\n\n20. **Microscopic Aerosol Particle Diffusion in Air**\n   A small cubic volume of air contains different-colored aerosol particles that randomly move, collide, stick together, or stick to transparent boundary walls, with concentration heatmaps and sliders to adjust temperature and observe diffusion speed.\n\n21. **Wind-Driven Sand Dune Formation**\n   Air flows steadily across a sandy surface, pushing small sand grains that hop, bounce, and slide, gradually accumulating into dune shapes that grow, migrate downwind, and cast shifting shadows as air velocity and direction are shown by arrows.\n\n22. **Helium Balloons in a Room with an Open Window**\n   Multiple helium balloons attached to strings float near the ceiling until some strings detach, letting balloons drift, bump into each other, stick to the ceiling by static charge, or escape through an open window where wind carries them away.\n\n23. **Airbrush Paint Spraying and Mixing**\n   An airbrush gun ejects a high-speed air jet that entrains colored paint droplets, which spread in a cone, collide with a vertical canvas, and create layered colored spots that mix and darken where overlaps occur, while overspray forms a faint colored cloud.\n\n24. **Spherical Planetary Atmosphere Layers**\n   A small planet sits in the center, surrounded by concentric semi-transparent atmospheric shells (troposphere, stratosphere, etc.), with tracer particles orbiting and slowly drifting between layers, reacting to simulated solar heating and glowing auroras near the poles.\n\n25. **Drone Propeller Airflow and Hovering Control**\n   A quadcopter drone hovers in place while four spinning rotors push columns of air downward, shown as transparent particle streams; adjusting rotor speeds tilts and translates the drone, leaving a motion trail and dynamically reshaping the downwash patterns.",
+  "seeds": [
+    {
+      "number": "1",
+      "title": "Rising Hot Air Balloon Field",
+      "description": "A set of colorful semi-transparent balloons lift off from a grassy plane as heated air inside them expands, with ropes that can detach, wind gusts that push them, and faint trails showing their paths and altitude labels.",
+      "full_text": "Rising Hot Air Balloon Field: A set of colorful semi-transparent balloons lift off from a grassy plane as heated air inside them expands, with ropes that can detach, wind gusts that push them, and faint trails showing their paths and altitude labels."
+    },
+    {
+      "number": "2",
+      "title": "Airflow Around a Moving Car",
+      "description": "A solid car model drives through the scene while thousands of small colored particles show air velocity as they wrap, split, and rejoin around the car’s body, with streamlines leaving fading trails and pressure regions indicated by color.",
+      "full_text": "Airflow Around a Moving Car: A solid car model drives through the scene while thousands of small colored particles show air velocity as they wrap, split, and rejoin around the car’s body, with streamlines leaving fading trails and pressure regions indicated by color."
+    },
+    {
+      "number": "3",
+      "title": "Room Ventilation and Dust Particle Motion",
+      "description": "A simple room with an air vent, open window, and a rotating ceiling fan blows semi-transparent dust particles that bounce off walls, get sucked into the vent, and form swirling eddies visualized with trails and concentration meters.",
+      "full_text": "Room Ventilation and Dust Particle Motion: A simple room with an air vent, open window, and a rotating ceiling fan blows semi-transparent dust particles that bounce off walls, get sucked into the vent, and form swirling eddies visualized with trails and concentration meters."
+    },
+    {
+      "number": "4",
+      "title": "Airplane Wing Lift Visualization",
+      "description": "A stationary airplane wing cross-section sits in a wind tunnel as air particles flow around it, speeding over the top surface, slowing under the bottom, with dynamic pressure labels, lift arrows, and streaklines that curve and detach at the wingtip.",
+      "full_text": "Airplane Wing Lift Visualization: A stationary airplane wing cross-section sits in a wind tunnel as air particles flow around it, speeding over the top surface, slowing under the bottom, with dynamic pressure labels, lift arrows, and streaklines that curve and detach at the wingtip."
+    },
+    {
+      "number": "5",
+      "title": "Tornado Formation Over a Flat Plain",
+      "description": "Warm, moist air particles rise from a flat ground plane into a rotating column that condenses into a semi-transparent funnel cloud, pulling in debris spheres that orbit, collide, and get flung outward, with wind speed color-coded.",
+      "full_text": "Tornado Formation Over a Flat Plain: Warm, moist air particles rise from a flat ground plane into a rotating column that condenses into a semi-transparent funnel cloud, pulling in debris spheres that orbit, collide, and get flung outward, with wind speed color-coded."
+    },
+    {
+      "number": "6",
+      "title": "City Street Canyon Air Pollution Mixing",
+      "description": "A city block with tall building walls channels air flowing down the street while colored pollutant puffs emerge from cars and chimneys, mix, rise, and dilute, with concentration zones visualized by semi-transparent colored volumes and floating numeric labels.",
+      "full_text": "City Street Canyon Air Pollution Mixing: A city block with tall building walls channels air flowing down the street while colored pollutant puffs emerge from cars and chimneys, mix, rise, and dilute, with concentration zones visualized by semi-transparent colored volumes and floating numeric labels."
+    },
+    {
+      "number": "7",
+      "title": "Air Bubbles Rising Through Water",
+      "description": "A transparent water tank stands on a light background while air bubbles of different sizes detach from a nozzle, rise, merge, split on collision, and wobble, leaving short trails and deforming slightly as they approach the water surface.",
+      "full_text": "Air Bubbles Rising Through Water: A transparent water tank stands on a light background while air bubbles of different sizes detach from a nozzle, rise, merge, split on collision, and wobble, leaving short trails and deforming slightly as they approach the water surface."
+    },
+    {
+      "number": "8",
+      "title": "Sound Wave Propagation in Air",
+      "description": "A speaker cone on one side of the scene vibrates, pushing a lattice of small air markers that pulse back and forth in place, forming expanding spherical pressure waves with alternating compressed and rarefied transparent shells.",
+      "full_text": "Sound Wave Propagation in Air: A speaker cone on one side of the scene vibrates, pushing a lattice of small air markers that pulse back and forth in place, forming expanding spherical pressure waves with alternating compressed and rarefied transparent shells."
+    },
+    {
+      "number": "9",
+      "title": "Dandelion Seed Dispersal in Wind",
+      "description": "A dandelion head on the ground releases tiny tufted seeds that detach when gusts pass, float, rotate, and slowly descend, sometimes colliding with obstacles or attaching to a sticky vertical surface, with airflow drawn as curved arrowed lines.",
+      "full_text": "Dandelion Seed Dispersal in Wind: A dandelion head on the ground releases tiny tufted seeds that detach when gusts pass, float, rotate, and slowly descend, sometimes colliding with obstacles or attaching to a sticky vertical surface, with airflow drawn as curved arrowed lines."
+    },
+    {
+      "number": "10",
+      "title": "Air Hockey Table Puck Motion",
+      "description": "A flat air hockey table blasts jets of air upward, causing a puck to hover and slide with low friction, bouncing off walls, colliding with simple paddles, and leaving faint motion trails while air jets are indicated by short vertical particle streams.",
+      "full_text": "Air Hockey Table Puck Motion: A flat air hockey table blasts jets of air upward, causing a puck to hover and slide with low friction, bouncing off walls, colliding with simple paddles, and leaving faint motion trails while air jets are indicated by short vertical particle streams."
+    },
+    {
+      "number": "11",
+      "title": "Airbag Inflation in a Car Crash",
+      "description": "A car interior cross-section shows an airbag module that suddenly releases compressed gas, rapidly inflating a semi-transparent cloth-like bag that expands, collides with a test dummy’s head, and then slowly leaks air as its surface shrinks.",
+      "full_text": "Airbag Inflation in a Car Crash: A car interior cross-section shows an airbag module that suddenly releases compressed gas, rapidly inflating a semi-transparent cloth-like bag that expands, collides with a test dummy’s head, and then slowly leaks air as its surface shrinks."
+    },
+    {
+      "number": "12",
+      "title": "Respiratory Airflow in Human Lungs",
+      "description": "A branching, semi-transparent lung tree fills with colored air as a chest wall moves, with inhaled air flowing down the trachea, splitting through bronchi, and filling tiny alveolar clusters where gas exchange zones gently pulse and change color.",
+      "full_text": "Respiratory Airflow in Human Lungs: A branching, semi-transparent lung tree fills with colored air as a chest wall moves, with inhaled air flowing down the trachea, splitting through bronchi, and filling tiny alveolar clusters where gas exchange zones gently pulse and change color."
+    },
+    {
+      "number": "13",
+      "title": "Wind Turbine Farm Energy Capture",
+      "description": "Multiple tall wind turbines stand on a landscape while air particles stream past, slowing and curling as they pass through the spinning blades, with wake regions visualized by vortices that trail downstream and power meters over each turbine.",
+      "full_text": "Wind Turbine Farm Energy Capture: Multiple tall wind turbines stand on a landscape while air particles stream past, slowing and curling as they pass through the spinning blades, with wake regions visualized by vortices that trail downstream and power meters over each turbine."
+    },
+    {
+      "number": "14",
+      "title": "Paper Airplane Flight and Gliding Path",
+      "description": "A folded paper airplane is launched with adjustable initial speed and angle, gliding through a light sky while air flow lines wrap around its wings, lift and drag vectors update in real time, and the flight path leaves a curved trail.",
+      "full_text": "Paper Airplane Flight and Gliding Path: A folded paper airplane is launched with adjustable initial speed and angle, gliding through a light sky while air flow lines wrap around its wings, lift and drag vectors update in real time, and the flight path leaves a curved trail."
+    },
+    {
+      "number": "15",
+      "title": "Hot Air Rising From a Campfire",
+      "description": "A small campfire emits warm, glowing particles that rise and swirl, dragging semi-transparent air columns upward that bend with a side wind, carrying embers that fade, split, and occasionally collide with a horizontal heat-sensing plane above.",
+      "full_text": "Hot Air Rising From a Campfire: A small campfire emits warm, glowing particles that rise and swirl, dragging semi-transparent air columns upward that bend with a side wind, carrying embers that fade, split, and occasionally collide with a horizontal heat-sensing plane above."
+    },
+    {
+      "number": "16",
+      "title": "Weather Front: Cold Air Meets Warm Air",
+      "description": "Two large semi-transparent air masses, one blue (cold) and one red (warm), slide toward each other over a flat Earth segment, with the warm air forced to rise along a sloping front, condensing into cloud particles that grow, merge, and rain downward.",
+      "full_text": "Weather Front: Cold Air Meets Warm Air: Two large semi-transparent air masses, one blue (cold) and one red (warm), slide toward each other over a flat Earth segment, with the warm air forced to rise along a sloping front, condensing into cloud particles that grow, merge, and rain downward."
+    },
+    {
+      "number": "17",
+      "title": "Air-Driven Newton’s Cradle of Balloons",
+      "description": "A row of light balloons hangs from strings while oscillating air jets push them, causing collisions that transfer momentum along the line, with gentle bouncing, twisting, and trails that show recent motion arcs.",
+      "full_text": "Air-Driven Newton’s Cradle of Balloons: A row of light balloons hangs from strings while oscillating air jets push them, causing collisions that transfer momentum along the line, with gentle bouncing, twisting, and trails that show recent motion arcs."
+    },
+    {
+      "number": "18",
+      "title": "Inflating and Deflating Air Mattress",
+      "description": "A flat, folded air mattress on the floor connects to a pump; as air flows in via a visible particle stream, compartments expand and raise a person-shaped object upward, then slowly deflate as a valve opens and air escapes in a colored jet.",
+      "full_text": "Inflating and Deflating Air Mattress: A flat, folded air mattress on the floor connects to a pump; as air flows in via a visible particle stream, compartments expand and raise a person-shaped object upward, then slowly deflate as a valve opens and air escapes in a colored jet."
+    },
+    {
+      "number": "19",
+      "title": "Jet Engine Intake and Exhaust Flow",
+      "description": "A simplified jet engine cutaway shows air particles being sucked into the intake, compressed by rotating fan blades, heated in a combustion region, and then expelled at high speed, with color shifts indicating temperature and thrust vectors at the exhaust.",
+      "full_text": "Jet Engine Intake and Exhaust Flow: A simplified jet engine cutaway shows air particles being sucked into the intake, compressed by rotating fan blades, heated in a combustion region, and then expelled at high speed, with color shifts indicating temperature and thrust vectors at the exhaust."
+    },
+    {
+      "number": "20",
+      "title": "Microscopic Aerosol Particle Diffusion in Air",
+      "description": "A small cubic volume of air contains different-colored aerosol particles that randomly move, collide, stick together, or stick to transparent boundary walls, with concentration heatmaps and sliders to adjust temperature and observe diffusion speed.",
+      "full_text": "Microscopic Aerosol Particle Diffusion in Air: A small cubic volume of air contains different-colored aerosol particles that randomly move, collide, stick together, or stick to transparent boundary walls, with concentration heatmaps and sliders to adjust temperature and observe diffusion speed."
+    },
+    {
+      "number": "21",
+      "title": "Wind-Driven Sand Dune Formation",
+      "description": "Air flows steadily across a sandy surface, pushing small sand grains that hop, bounce, and slide, gradually accumulating into dune shapes that grow, migrate downwind, and cast shifting shadows as air velocity and direction are shown by arrows.",
+      "full_text": "Wind-Driven Sand Dune Formation: Air flows steadily across a sandy surface, pushing small sand grains that hop, bounce, and slide, gradually accumulating into dune shapes that grow, migrate downwind, and cast shifting shadows as air velocity and direction are shown by arrows."
+    },
+    {
+      "number": "22",
+      "title": "Helium Balloons in a Room with an Open Window",
+      "description": "Multiple helium balloons attached to strings float near the ceiling until some strings detach, letting balloons drift, bump into each other, stick to the ceiling by static charge, or escape through an open window where wind carries them away.",
+      "full_text": "Helium Balloons in a Room with an Open Window: Multiple helium balloons attached to strings float near the ceiling until some strings detach, letting balloons drift, bump into each other, stick to the ceiling by static charge, or escape through an open window where wind carries them away."
+    },
+    {
+      "number": "23",
+      "title": "Airbrush Paint Spraying and Mixing",
+      "description": "An airbrush gun ejects a high-speed air jet that entrains colored paint droplets, which spread in a cone, collide with a vertical canvas, and create layered colored spots that mix and darken where overlaps occur, while overspray forms a faint colored cloud.",
+      "full_text": "Airbrush Paint Spraying and Mixing: An airbrush gun ejects a high-speed air jet that entrains colored paint droplets, which spread in a cone, collide with a vertical canvas, and create layered colored spots that mix and darken where overlaps occur, while overspray forms a faint colored cloud."
+    },
+    {
+      "number": "24",
+      "title": "Spherical Planetary Atmosphere Layers",
+      "description": "A small planet sits in the center, surrounded by concentric semi-transparent atmospheric shells (troposphere, stratosphere, etc.), with tracer particles orbiting and slowly drifting between layers, reacting to simulated solar heating and glowing auroras near the poles.",
+      "full_text": "Spherical Planetary Atmosphere Layers: A small planet sits in the center, surrounded by concentric semi-transparent atmospheric shells (troposphere, stratosphere, etc.), with tracer particles orbiting and slowly drifting between layers, reacting to simulated solar heating and glowing auroras near the poles."
+    },
+    {
+      "number": "25",
+      "title": "Drone Propeller Airflow and Hovering Control",
+      "description": "A quadcopter drone hovers in place while four spinning rotors push columns of air downward, shown as transparent particle streams; adjusting rotor speeds tilts and translates the drone, leaving a motion trail and dynamically reshaping the downwash patterns.",
+      "full_text": "Drone Propeller Airflow and Hovering Control: A quadcopter drone hovers in place while four spinning rotors push columns of air downward, shown as transparent particle streams; adjusting rotor speeds tilts and translates the drone, leaving a motion trail and dynamically reshaping the downwash patterns."
+    }
+  ]
+}

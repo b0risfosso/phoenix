@@ -1,0 +1,160 @@
+{
+  "created_at": "2026-05-21T17:54:47",
+  "batch_index": 2,
+  "phrase": "fire",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "raw_text": "Here are strong **fire simulation inputs** you can plug into your prompt:\n\n1. **Campfire Heat Plume and Flying Sparks**\n   A stacked log campfire of glowing cylinders emits rising semi-transparent orange particles that spiral upward with turbulence, while stray sparks detach, bounce off nearby rocks, fade in brightness, and leave short glowing trails in front of a pale ground plane.\n\n2. **Forest Fire Front Spreading Across a Hillside**\n   A grid of vertical “tree” cylinders on a gently sloped green terrain patch ignite one by one as a glowing red firefront sweeps across, with each tree transitioning from green to orange to black, sending upward smoke particles and heat shimmer, while wind arrows and a progress bar show spread speed.\n\n3. **Bunsen Burner Flame and Convection Currents**\n   A blue Bunsen burner flame above a small nozzle sits under a metal plate and colored smoke particles rise, slow, and spread as the plate heats, while temperature is shown by color gradients on the plate and a transparent box displays swirling convection vortices as tiny moving spheres.\n\n4. **Fireworks Shells Exploding Over a City Block**\n   Spherical fireworks shells launch from tubes, leaving white trails, then explode into branching clusters of glowing particles that radiate, split, and slowly fall, with faint smoke clouds and reflections on a flat, light-gray “water” surface around simple box buildings.\n\n5. **Molten Lava Flow Meeting the Ocean**\n   A glowing red-orange lava stream flows down a gentle slope into a blue semi-transparent “ocean,” with the lava front cooling to dark crust as it advances, steam particles bubbling up where lava meets water, and temperature labels hovering over different regions.\n\n6. **Sparkler Wand with Spinning Embers**\n   A thin metallic rod held at an angle emits rapid bursts of tiny, bright embers that shoot outward, bounce lightly on the ground plane, and fade, while the user can rotate the wand and see lingering trails tracing their motion in a light, foggy environment.\n\n7. **Fire Tornado Inside a Transparent Cylinder**\n   A vertical column of flame swirls inside a clear cylindrical chamber, with adjustable side vents represented by rotating panels that change airflow, making sparks and smoke particles spiral faster or slower while streamlines show air paths in different colors.\n\n8. **City Block Building Fire with Evacuation Paths**\n   A rectangular building made of stacked box rooms gains an interior spreading fire represented by flickering orange volumes and smoke spheres moving through doorways and stairwells, while colored stick-figure “people” move along labeled escape routes, avoiding smoke-filled corridors.\n\n9. **Combustion Chamber with Rotating Turbine Blades**\n   A transparent engine section shows fuel droplets entering a central chamber, mixing with air, igniting into a pulsing orange flame, and expanding to push rotating turbine blades, with color-coded pressure regions and arrows showing energy transfer from hot gas to mechanical rotation.\n\n10. **Matchstick Ignition and Flame Propagation Along a Line**\n    A sequence of matchsticks arranged in a curved line stands on a flat surface; lighting the first match grows a small flame that tilts, then jumps to the next match when close enough, leaving blackened sticks and a moving front of flame and smoke.\n\n11. **Fireflies as Tiny Moving Sparks Over a Field**\n    A gently undulating grassy plane is dotted with many glowing “firefly” particles that pulse in brightness, rise and fall slowly, sometimes merge into small clusters, and leave faint ephemeral trails, with a global “night vs. dusk” slider changing background and glow intensity.\n\n12. **Glass Furnace with Melting Sand Batch**\n    A box furnace with a glowing interior floor contains a pile of granular spheres representing sand and flux; as heat rises, the granules begin to soften, change color, merge into a viscous molten pool, and emit heat shimmer and occasional bright gas “puffs” at the surface.\n\n13. **Rocket Engine Test Stand with Exhaust Plume**\n    A rocket nozzle anchored to a support frame fires a high-speed conical exhaust plume of particles that change from bright yellow near the nozzle to gray smoke further away, pushing against a movable thrust meter plate on rails and leaving scorch marks on the ground plane.\n\n14. **Burning Paper Scroll that Curls and Disintegrates**\n    A rectangular sheet “scroll” hangs from a bar; flame starts at one corner and travels, with the burning edge glowing and curling upward as it shrinks, releasing drifting ash particles and leaving behind a dark, crumbling skeleton that slowly flakes away.\n\n15. **Chemical Reaction of Burning Magnesium Strip**\n    A slender magnesium strip clamped above a dish ignites into an intensely bright white flame with radiant glow, throwing off short-lived white spark particles, while a transparent “exclusion sphere” of bright light expands and contracts slightly, and labels show temperature over time.\n\n16. **Volcanic Eruption with Fire Fountain and Ash Cloud**\n    A conical volcano emits bursts of glowing red-orange particles that arc and fall back as a “fire fountain,” while darker ash particles rise higher to form a billowing cloud that drifts with wind across a light terrain, leaving gray deposits where they settle.\n\n17. **Microscopic View of a Combustion Reaction in a Gas**\n    A transparent box filled with colored spheres representing fuel and oxygen shows collisions; when a fuel-oxygen cluster collides with enough combined speed, a tiny burst of glowing particles appears, the reactants disappear, and new product spheres spawn, with a heat meter rising as reaction spreads.\n\n18. **Fire-Themed Orbital System with Glowing Planets**\n    A central “sun” sphere burns with flickering orange-red textures while several smaller “ember planets” orbit on tilted rings, occasionally passing through thin, semi-transparent “flare sheets” that heat them up, making their glow intensify and leave temporary bright trails behind their paths.\n\n19. **Fireworks Fountain and Ground Spinner Display**\n    A set of fountain fireworks emit continuous upward sprays of colored sparks, while small disc-shaped spinners on the ground ignite and spin rapidly, throwing sparks in circular patterns that bounce and scatter, with each device labeled and a timer bar tracking burn duration.\n\n20. **Fire Extinguisher Demonstration with Colored Vapor**\n    A small rectangular pit of burning liquid emits orange flames and gray smoke until a user-controlled extinguisher nozzle sprays a wide cone of blue-white particles, cooling and shrinking the flame volume where the spray hits, with heat maps and labels showing “before” and “after” temperatures.\n\n21. **Industrial Steel Furnace with Sliding Ingot**\n    A glowing ingot on a conveyor slides into a high-temperature furnace chamber; inside, its color slowly shifts from dull red to bright yellow as it heats, with rising flames licking around it and convection currents shown by moving tracer particles, then it exits and cools with fading glow.\n\n22. **Fire-Themed Data Flow Network**\n    Nodes in a 3D network graph appear as small “campfires” that glow more brightly when data packets (spark-like particles) flow through their connecting edges; overloaded nodes flare up, sending longer, brighter sparks, while idle nodes dim and lightly smoke until new packets arrive.\n\n23. **Candle Array with Interacting Flame Oscillations**\n    A grid of candles with small, flickering flames influence each other through airflow; as the camera moves, you can see flames sway in synchronized waves, occasionally merging or leaning away, with semi-transparent velocity arrows showing how heated air from one flame pushes on its neighbors.\n\n24. **Burning Meteor Entering an Atmosphere**\n    A fast-moving rocky sphere enters from space, its surface heating and glowing red, then orange, as a flaming plasma sheath forms; a bright trail of particles sheds from its surface and gradually fades, while the meteor slows due to drag and may fragment into smaller, individually burning chunks.\n\n25. **Festival Bonfire with Orbiting Lanterns**\n    A central tall bonfire built from log stacks crackles with animated flames and sparks, while semi-transparent paper lanterns lift off from the ground and orbit slowly upward around the fire, glowing gently and leaving faint rising trails until they drift away and extinguish.",
+  "seeds": [
+    {
+      "number": "1",
+      "title": "Campfire Heat Plume and Flying Sparks",
+      "description": "A stacked log campfire of glowing cylinders emits rising semi-transparent orange particles that spiral upward with turbulence, while stray sparks detach, bounce off nearby rocks, fade in brightness, and leave short glowing trails in front of a pale ground plane.",
+      "full_text": "Campfire Heat Plume and Flying Sparks: A stacked log campfire of glowing cylinders emits rising semi-transparent orange particles that spiral upward with turbulence, while stray sparks detach, bounce off nearby rocks, fade in brightness, and leave short glowing trails in front of a pale ground plane."
+    },
+    {
+      "number": "2",
+      "title": "Forest Fire Front Spreading Across a Hillside",
+      "description": "A grid of vertical “tree” cylinders on a gently sloped green terrain patch ignite one by one as a glowing red firefront sweeps across, with each tree transitioning from green to orange to black, sending upward smoke particles and heat shimmer, while wind arrows and a progress bar show spread speed.",
+      "full_text": "Forest Fire Front Spreading Across a Hillside: A grid of vertical “tree” cylinders on a gently sloped green terrain patch ignite one by one as a glowing red firefront sweeps across, with each tree transitioning from green to orange to black, sending upward smoke particles and heat shimmer, while wind arrows and a progress bar show spread speed."
+    },
+    {
+      "number": "3",
+      "title": "Bunsen Burner Flame and Convection Currents",
+      "description": "A blue Bunsen burner flame above a small nozzle sits under a metal plate and colored smoke particles rise, slow, and spread as the plate heats, while temperature is shown by color gradients on the plate and a transparent box displays swirling convection vortices as tiny moving spheres.",
+      "full_text": "Bunsen Burner Flame and Convection Currents: A blue Bunsen burner flame above a small nozzle sits under a metal plate and colored smoke particles rise, slow, and spread as the plate heats, while temperature is shown by color gradients on the plate and a transparent box displays swirling convection vortices as tiny moving spheres."
+    },
+    {
+      "number": "4",
+      "title": "Fireworks Shells Exploding Over a City Block",
+      "description": "Spherical fireworks shells launch from tubes, leaving white trails, then explode into branching clusters of glowing particles that radiate, split, and slowly fall, with faint smoke clouds and reflections on a flat, light-gray “water” surface around simple box buildings.",
+      "full_text": "Fireworks Shells Exploding Over a City Block: Spherical fireworks shells launch from tubes, leaving white trails, then explode into branching clusters of glowing particles that radiate, split, and slowly fall, with faint smoke clouds and reflections on a flat, light-gray “water” surface around simple box buildings."
+    },
+    {
+      "number": "5",
+      "title": "Molten Lava Flow Meeting the Ocean",
+      "description": "A glowing red-orange lava stream flows down a gentle slope into a blue semi-transparent “ocean,” with the lava front cooling to dark crust as it advances, steam particles bubbling up where lava meets water, and temperature labels hovering over different regions.",
+      "full_text": "Molten Lava Flow Meeting the Ocean: A glowing red-orange lava stream flows down a gentle slope into a blue semi-transparent “ocean,” with the lava front cooling to dark crust as it advances, steam particles bubbling up where lava meets water, and temperature labels hovering over different regions."
+    },
+    {
+      "number": "6",
+      "title": "Sparkler Wand with Spinning Embers",
+      "description": "A thin metallic rod held at an angle emits rapid bursts of tiny, bright embers that shoot outward, bounce lightly on the ground plane, and fade, while the user can rotate the wand and see lingering trails tracing their motion in a light, foggy environment.",
+      "full_text": "Sparkler Wand with Spinning Embers: A thin metallic rod held at an angle emits rapid bursts of tiny, bright embers that shoot outward, bounce lightly on the ground plane, and fade, while the user can rotate the wand and see lingering trails tracing their motion in a light, foggy environment."
+    },
+    {
+      "number": "7",
+      "title": "Fire Tornado Inside a Transparent Cylinder",
+      "description": "A vertical column of flame swirls inside a clear cylindrical chamber, with adjustable side vents represented by rotating panels that change airflow, making sparks and smoke particles spiral faster or slower while streamlines show air paths in different colors.",
+      "full_text": "Fire Tornado Inside a Transparent Cylinder: A vertical column of flame swirls inside a clear cylindrical chamber, with adjustable side vents represented by rotating panels that change airflow, making sparks and smoke particles spiral faster or slower while streamlines show air paths in different colors."
+    },
+    {
+      "number": "8",
+      "title": "City Block Building Fire with Evacuation Paths",
+      "description": "A rectangular building made of stacked box rooms gains an interior spreading fire represented by flickering orange volumes and smoke spheres moving through doorways and stairwells, while colored stick-figure “people” move along labeled escape routes, avoiding smoke-filled corridors.",
+      "full_text": "City Block Building Fire with Evacuation Paths: A rectangular building made of stacked box rooms gains an interior spreading fire represented by flickering orange volumes and smoke spheres moving through doorways and stairwells, while colored stick-figure “people” move along labeled escape routes, avoiding smoke-filled corridors."
+    },
+    {
+      "number": "9",
+      "title": "Combustion Chamber with Rotating Turbine Blades",
+      "description": "A transparent engine section shows fuel droplets entering a central chamber, mixing with air, igniting into a pulsing orange flame, and expanding to push rotating turbine blades, with color-coded pressure regions and arrows showing energy transfer from hot gas to mechanical rotation.",
+      "full_text": "Combustion Chamber with Rotating Turbine Blades: A transparent engine section shows fuel droplets entering a central chamber, mixing with air, igniting into a pulsing orange flame, and expanding to push rotating turbine blades, with color-coded pressure regions and arrows showing energy transfer from hot gas to mechanical rotation."
+    },
+    {
+      "number": "10",
+      "title": "Matchstick Ignition and Flame Propagation Along a Line",
+      "description": "A sequence of matchsticks arranged in a curved line stands on a flat surface; lighting the first match grows a small flame that tilts, then jumps to the next match when close enough, leaving blackened sticks and a moving front of flame and smoke.",
+      "full_text": "Matchstick Ignition and Flame Propagation Along a Line: A sequence of matchsticks arranged in a curved line stands on a flat surface; lighting the first match grows a small flame that tilts, then jumps to the next match when close enough, leaving blackened sticks and a moving front of flame and smoke."
+    },
+    {
+      "number": "11",
+      "title": "Fireflies as Tiny Moving Sparks Over a Field",
+      "description": "A gently undulating grassy plane is dotted with many glowing “firefly” particles that pulse in brightness, rise and fall slowly, sometimes merge into small clusters, and leave faint ephemeral trails, with a global “night vs. dusk” slider changing background and glow intensity.",
+      "full_text": "Fireflies as Tiny Moving Sparks Over a Field: A gently undulating grassy plane is dotted with many glowing “firefly” particles that pulse in brightness, rise and fall slowly, sometimes merge into small clusters, and leave faint ephemeral trails, with a global “night vs. dusk” slider changing background and glow intensity."
+    },
+    {
+      "number": "12",
+      "title": "Glass Furnace with Melting Sand Batch",
+      "description": "A box furnace with a glowing interior floor contains a pile of granular spheres representing sand and flux; as heat rises, the granules begin to soften, change color, merge into a viscous molten pool, and emit heat shimmer and occasional bright gas “puffs” at the surface.",
+      "full_text": "Glass Furnace with Melting Sand Batch: A box furnace with a glowing interior floor contains a pile of granular spheres representing sand and flux; as heat rises, the granules begin to soften, change color, merge into a viscous molten pool, and emit heat shimmer and occasional bright gas “puffs” at the surface."
+    },
+    {
+      "number": "13",
+      "title": "Rocket Engine Test Stand with Exhaust Plume",
+      "description": "A rocket nozzle anchored to a support frame fires a high-speed conical exhaust plume of particles that change from bright yellow near the nozzle to gray smoke further away, pushing against a movable thrust meter plate on rails and leaving scorch marks on the ground plane.",
+      "full_text": "Rocket Engine Test Stand with Exhaust Plume: A rocket nozzle anchored to a support frame fires a high-speed conical exhaust plume of particles that change from bright yellow near the nozzle to gray smoke further away, pushing against a movable thrust meter plate on rails and leaving scorch marks on the ground plane."
+    },
+    {
+      "number": "14",
+      "title": "Burning Paper Scroll that Curls and Disintegrates",
+      "description": "A rectangular sheet “scroll” hangs from a bar; flame starts at one corner and travels, with the burning edge glowing and curling upward as it shrinks, releasing drifting ash particles and leaving behind a dark, crumbling skeleton that slowly flakes away.",
+      "full_text": "Burning Paper Scroll that Curls and Disintegrates: A rectangular sheet “scroll” hangs from a bar; flame starts at one corner and travels, with the burning edge glowing and curling upward as it shrinks, releasing drifting ash particles and leaving behind a dark, crumbling skeleton that slowly flakes away."
+    },
+    {
+      "number": "15",
+      "title": "Chemical Reaction of Burning Magnesium Strip",
+      "description": "A slender magnesium strip clamped above a dish ignites into an intensely bright white flame with radiant glow, throwing off short-lived white spark particles, while a transparent “exclusion sphere” of bright light expands and contracts slightly, and labels show temperature over time.",
+      "full_text": "Chemical Reaction of Burning Magnesium Strip: A slender magnesium strip clamped above a dish ignites into an intensely bright white flame with radiant glow, throwing off short-lived white spark particles, while a transparent “exclusion sphere” of bright light expands and contracts slightly, and labels show temperature over time."
+    },
+    {
+      "number": "16",
+      "title": "Volcanic Eruption with Fire Fountain and Ash Cloud",
+      "description": "A conical volcano emits bursts of glowing red-orange particles that arc and fall back as a “fire fountain,” while darker ash particles rise higher to form a billowing cloud that drifts with wind across a light terrain, leaving gray deposits where they settle.",
+      "full_text": "Volcanic Eruption with Fire Fountain and Ash Cloud: A conical volcano emits bursts of glowing red-orange particles that arc and fall back as a “fire fountain,” while darker ash particles rise higher to form a billowing cloud that drifts with wind across a light terrain, leaving gray deposits where they settle."
+    },
+    {
+      "number": "17",
+      "title": "Microscopic View of a Combustion Reaction in a Gas",
+      "description": "A transparent box filled with colored spheres representing fuel and oxygen shows collisions; when a fuel-oxygen cluster collides with enough combined speed, a tiny burst of glowing particles appears, the reactants disappear, and new product spheres spawn, with a heat meter rising as reaction spreads.",
+      "full_text": "Microscopic View of a Combustion Reaction in a Gas: A transparent box filled with colored spheres representing fuel and oxygen shows collisions; when a fuel-oxygen cluster collides with enough combined speed, a tiny burst of glowing particles appears, the reactants disappear, and new product spheres spawn, with a heat meter rising as reaction spreads."
+    },
+    {
+      "number": "18",
+      "title": "Fire-Themed Orbital System with Glowing Planets",
+      "description": "A central “sun” sphere burns with flickering orange-red textures while several smaller “ember planets” orbit on tilted rings, occasionally passing through thin, semi-transparent “flare sheets” that heat them up, making their glow intensify and leave temporary bright trails behind their paths.",
+      "full_text": "Fire-Themed Orbital System with Glowing Planets: A central “sun” sphere burns with flickering orange-red textures while several smaller “ember planets” orbit on tilted rings, occasionally passing through thin, semi-transparent “flare sheets” that heat them up, making their glow intensify and leave temporary bright trails behind their paths."
+    },
+    {
+      "number": "19",
+      "title": "Fireworks Fountain and Ground Spinner Display",
+      "description": "A set of fountain fireworks emit continuous upward sprays of colored sparks, while small disc-shaped spinners on the ground ignite and spin rapidly, throwing sparks in circular patterns that bounce and scatter, with each device labeled and a timer bar tracking burn duration.",
+      "full_text": "Fireworks Fountain and Ground Spinner Display: A set of fountain fireworks emit continuous upward sprays of colored sparks, while small disc-shaped spinners on the ground ignite and spin rapidly, throwing sparks in circular patterns that bounce and scatter, with each device labeled and a timer bar tracking burn duration."
+    },
+    {
+      "number": "20",
+      "title": "Fire Extinguisher Demonstration with Colored Vapor",
+      "description": "A small rectangular pit of burning liquid emits orange flames and gray smoke until a user-controlled extinguisher nozzle sprays a wide cone of blue-white particles, cooling and shrinking the flame volume where the spray hits, with heat maps and labels showing “before” and “after” temperatures.",
+      "full_text": "Fire Extinguisher Demonstration with Colored Vapor: A small rectangular pit of burning liquid emits orange flames and gray smoke until a user-controlled extinguisher nozzle sprays a wide cone of blue-white particles, cooling and shrinking the flame volume where the spray hits, with heat maps and labels showing “before” and “after” temperatures."
+    },
+    {
+      "number": "21",
+      "title": "Industrial Steel Furnace with Sliding Ingot",
+      "description": "A glowing ingot on a conveyor slides into a high-temperature furnace chamber; inside, its color slowly shifts from dull red to bright yellow as it heats, with rising flames licking around it and convection currents shown by moving tracer particles, then it exits and cools with fading glow.",
+      "full_text": "Industrial Steel Furnace with Sliding Ingot: A glowing ingot on a conveyor slides into a high-temperature furnace chamber; inside, its color slowly shifts from dull red to bright yellow as it heats, with rising flames licking around it and convection currents shown by moving tracer particles, then it exits and cools with fading glow."
+    },
+    {
+      "number": "22",
+      "title": "Fire-Themed Data Flow Network",
+      "description": "Nodes in a 3D network graph appear as small “campfires” that glow more brightly when data packets (spark-like particles) flow through their connecting edges; overloaded nodes flare up, sending longer, brighter sparks, while idle nodes dim and lightly smoke until new packets arrive.",
+      "full_text": "Fire-Themed Data Flow Network: Nodes in a 3D network graph appear as small “campfires” that glow more brightly when data packets (spark-like particles) flow through their connecting edges; overloaded nodes flare up, sending longer, brighter sparks, while idle nodes dim and lightly smoke until new packets arrive."
+    },
+    {
+      "number": "23",
+      "title": "Candle Array with Interacting Flame Oscillations",
+      "description": "A grid of candles with small, flickering flames influence each other through airflow; as the camera moves, you can see flames sway in synchronized waves, occasionally merging or leaning away, with semi-transparent velocity arrows showing how heated air from one flame pushes on its neighbors.",
+      "full_text": "Candle Array with Interacting Flame Oscillations: A grid of candles with small, flickering flames influence each other through airflow; as the camera moves, you can see flames sway in synchronized waves, occasionally merging or leaning away, with semi-transparent velocity arrows showing how heated air from one flame pushes on its neighbors."
+    },
+    {
+      "number": "24",
+      "title": "Burning Meteor Entering an Atmosphere",
+      "description": "A fast-moving rocky sphere enters from space, its surface heating and glowing red, then orange, as a flaming plasma sheath forms; a bright trail of particles sheds from its surface and gradually fades, while the meteor slows due to drag and may fragment into smaller, individually burning chunks.",
+      "full_text": "Burning Meteor Entering an Atmosphere: A fast-moving rocky sphere enters from space, its surface heating and glowing red, then orange, as a flaming plasma sheath forms; a bright trail of particles sheds from its surface and gradually fades, while the meteor slows due to drag and may fragment into smaller, individually burning chunks."
+    },
+    {
+      "number": "25",
+      "title": "Festival Bonfire with Orbiting Lanterns",
+      "description": "A central tall bonfire built from log stacks crackles with animated flames and sparks, while semi-transparent paper lanterns lift off from the ground and orbit slowly upward around the fire, glowing gently and leaving faint rising trails until they drift away and extinguish.",
+      "full_text": "Festival Bonfire with Orbiting Lanterns: A central tall bonfire built from log stacks crackles with animated flames and sparks, while semi-transparent paper lanterns lift off from the ground and orbit slowly upward around the fire, glowing gently and leaving faint rising trails until they drift away and extinguish."
+    }
+  ]
+}

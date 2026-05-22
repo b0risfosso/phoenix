@@ -1,0 +1,161 @@
+{
+  "created_at": "2026-05-22T02:08:16",
+  "batch_index": 6,
+  "queue": "seeds",
+  "phrase": "rocket engineering",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "raw_text": "Here are strong **rocket engineering simulation inputs** you can plug into your prompt:\n\n1. **Two-Stage Rocket Separation and Re‑Ignition**\n   A vertical two-stage rocket model climbs under thrust, the first stage detaches with visible latches and tumbles away, the second stage engine re‑ignites with glowing exhaust particles and labeled velocity/altitude meters, while both stages leave colored trails against a light sky.\n\n2. **Rocket Engine Test Stand with Thrust Vectoring**\n   A stationary engine mounted on a gimbal swivels its nozzle to vector thrust, producing a translucent exhaust plume that pushes a sliding thrust cart on rails, with live arrow vectors, gauges for thrust and angle, and color-changing exhaust intensity.\n\n3. **Rocket Fuel Tank Slosh Dynamics**\n   A transparent cylindrical rocket tank partially filled with colored liquid fuel shows sloshing waves and moving center-of-mass markers as the tank is rotated and accelerated, with small particles tracing fluid motion and a COM label shifting inside.\n\n4. **Orbital Launch and Circularization Burn**\n   A small rocket launches from a rotating planet, climbs through a thin atmosphere, then performs a horizontal burn to circularize its orbit, with visible trajectory arcs, velocity vectors, altitude labels, and a ghosted “ideal orbit” ring to compare paths.\n\n5. **Falcon-Style Booster Return and Landing**\n   A booster separates from the main rocket, flips using cold-gas thruster puffs, follows a ballistic arc back to a landing pad, then performs a propulsive landing with retractable landing legs, engine plume particles, and a vertical speed meter that turns red if it crashes.\n\n6. **Rocket Nozzle Expansion and Flow Visualization**\n   A cutaway rocket nozzle shows simulated gas parcels as colored particles accelerating from chamber to exit, expanding and cooling, with streamlines, pressure/temperature color gradients, and adjustable chamber pressure that changes plume shape.\n\n7. **Staging Collision Avoidance Maneuver**\n   Multiple rocket stages and a fairing separate in sequence and drift apart with small rotation, while RCS thrusters on the active stage fire short pulses to avoid any predicted collision paths highlighted as red transparent cones.\n\n8. **Payload Fairing Separation and Satellite Deployment**\n   A rocket in space opens and ejects its two fairing halves which spin away, then releases a cube-shaped satellite from a spring-loaded dispenser, with slow satellite spin, small attitude control jets, and orbit trails for both rocket and payload.\n\n9. **Launch Pad Tower and Umbilical Detach System**\n   A detailed launch pad with service tower shows swing arms and umbilicals attached to a rocket, which detach and retract at liftoff, leaving faint vapor lines where fluids disconnect, with labeled umbilical points and a countdown clock triggering motion.\n\n10. **Gimbaled Cluster Engine Control for Attitude**\n    A rocket base with multiple engines mounted in a ring gimbals each nozzle independently to control pitch and yaw, with live torque arrows on the rocket body, engine exhaust plumes that tilt, and an attitude indicator sphere next to the rocket.\n\n11. **Solid Rocket Booster Grain Burn and Thrust Profile**\n    A transparent solid rocket booster with a star-shaped propellant grain burns from the interior outward, the burning surface glowing and receding over time, while a thrust vs. time graph updates and exhaust particles shoot from the nozzle.\n\n12. **Rocket Launch Through Layered Atmosphere**\n    A rocket ascends through color-banded atmospheric layers of different densities, with aerodynamic drag and heating indicated by changing hull color and arrow vectors, plus a dynamic Mach number label and a faint shock cone when supersonic.\n\n13. **Rocket Assembly Line and Stage Integration**\n    An engineering hangar shows separate stages, engines, and interstage rings moving on tracks, aligning, and attaching with visible bolts and latches that glow briefly when locked, with labels for each part and a progress meter for assembly completion.\n\n14. **Space Tug Refueling a Rocket in Orbit**\n    A small space tug docks to a larger rocket, clamping arms extend and attach, then translucent fuel particles flow through a connecting hose from one tank to another, with tank level bars filling or emptying and a gentle station-keeping thrust.\n\n15. **Rocket Attitude Control with Reaction Wheels vs. RCS**\n    A free-floating rocket body in microgravity rotates using internal reaction wheels or external RCS thrusters, with selectable mode, visual spinning flywheels under a transparent panel, thruster plume bursts, and side-by-side angular rate graphs.\n\n16. **Rocket Engine Turbopump Cross-Section**\n    A cutaway turbopump assembly spins a shaft driven by gas, drawing liquid fuel and oxidizer from transparent inlet pipes and sending them to the chamber, with rotating blades, colored fluid streams, pressure arrows, and RPM/flow rate labels.\n\n17. **Mars Descent with Retropropulsive Landing**\n    A rocket descends toward a reddish terrain under Mars gravity, first with a deployable heat shield and then with engines firing, plume particles kicking up dust on the surface, legs deploying, and vertical/horizontal speed meters that determine a soft or hard landing.\n\n18. **Rocket Fairing Acoustic Environment Visualization**\n    Inside a semi-transparent payload fairing, a simple satellite sits as pressure waves from launch acoustics are shown as expanding translucent shells or ripples, with vibration meters on the satellite structure and a decibel bar changing color.\n\n19. **Multistage Rocket Failure and Debris Dispersion**\n    A multi-stage rocket experiences a triggered engine failure mid-ascent, breaking apart into labeled debris pieces that tumble and follow ballistic arcs, leaving colored trails and impact markers on the ground, with a center-of-mass track that abruptly diverges.\n\n20. **Rocket Trajectory Optimization Demo with Adjustable Pitch Program**\n    A rocket launches from a planet and follows a user-adjustable pitch vs. time curve, showing multiple ghost trajectories for previous runs, fuel usage bars, apoapsis/periapsis labels, and a clear comparison of efficient vs. inefficient paths.\n\n21. **Rocket Exhaust Plume Impingement on Lunar Surface**\n    A lander’s downward rocket plume hits a dusty lunar surface, scouring and displacing particles that spray outward and leave streaks, with plume angle, thrust level, and dust particle sizes adjustable, plus a crater depth meter.\n\n22. **Spin-Stabilized Upper Stage Dynamics**\n    A slender upper stage spins up using tangential RCS jets, then coasts in space with a visible rotational axis, body-fixed arrows, and a trail that spirals along its orbit, while small asymmetries in mass distribution cause precession shown by wobbling axis cones.\n\n23. **Rocket Launch Abort Escape Tower**\n    A crew capsule attached to an escape tower is pulled rapidly away from a failing booster, with escape motor plume particles, jettison of the tower, parachute deployment from the capsule, and color-changing risk zones between capsule and booster path.\n\n24. **Rocket Engine Gimbal Failure and Control Compensation**\n    A rocket ascending under thrust experiences a stuck gimbal on one engine, tilting plume direction, and onboard control tries to compensate with other engines and RCS, with visible control authority bars, attitude error arrows, and a clear illustration of partial recovery.\n\n25. **Multi-Rocket Formation Launch and Collision Risk**\n    Several small rockets launch in close proximity on parallel pads and ascend in formation, their plumes and trajectories slightly diverging, with proximity alert lines drawn between vehicles, collision risk areas glowing red, and small side thrusters firing to maintain safe spacing.",
+  "seeds": [
+    {
+      "number": "1",
+      "title": "Two-Stage Rocket Separation and Re‑Ignition",
+      "description": "A vertical two-stage rocket model climbs under thrust, the first stage detaches with visible latches and tumbles away, the second stage engine re‑ignites with glowing exhaust particles and labeled velocity/altitude meters, while both stages leave colored trails against a light sky.",
+      "full_text": "Two-Stage Rocket Separation and Re‑Ignition: A vertical two-stage rocket model climbs under thrust, the first stage detaches with visible latches and tumbles away, the second stage engine re‑ignites with glowing exhaust particles and labeled velocity/altitude meters, while both stages leave colored trails against a light sky."
+    },
+    {
+      "number": "2",
+      "title": "Rocket Engine Test Stand with Thrust Vectoring",
+      "description": "A stationary engine mounted on a gimbal swivels its nozzle to vector thrust, producing a translucent exhaust plume that pushes a sliding thrust cart on rails, with live arrow vectors, gauges for thrust and angle, and color-changing exhaust intensity.",
+      "full_text": "Rocket Engine Test Stand with Thrust Vectoring: A stationary engine mounted on a gimbal swivels its nozzle to vector thrust, producing a translucent exhaust plume that pushes a sliding thrust cart on rails, with live arrow vectors, gauges for thrust and angle, and color-changing exhaust intensity."
+    },
+    {
+      "number": "3",
+      "title": "Rocket Fuel Tank Slosh Dynamics",
+      "description": "A transparent cylindrical rocket tank partially filled with colored liquid fuel shows sloshing waves and moving center-of-mass markers as the tank is rotated and accelerated, with small particles tracing fluid motion and a COM label shifting inside.",
+      "full_text": "Rocket Fuel Tank Slosh Dynamics: A transparent cylindrical rocket tank partially filled with colored liquid fuel shows sloshing waves and moving center-of-mass markers as the tank is rotated and accelerated, with small particles tracing fluid motion and a COM label shifting inside."
+    },
+    {
+      "number": "4",
+      "title": "Orbital Launch and Circularization Burn",
+      "description": "A small rocket launches from a rotating planet, climbs through a thin atmosphere, then performs a horizontal burn to circularize its orbit, with visible trajectory arcs, velocity vectors, altitude labels, and a ghosted “ideal orbit” ring to compare paths.",
+      "full_text": "Orbital Launch and Circularization Burn: A small rocket launches from a rotating planet, climbs through a thin atmosphere, then performs a horizontal burn to circularize its orbit, with visible trajectory arcs, velocity vectors, altitude labels, and a ghosted “ideal orbit” ring to compare paths."
+    },
+    {
+      "number": "5",
+      "title": "Falcon-Style Booster Return and Landing",
+      "description": "A booster separates from the main rocket, flips using cold-gas thruster puffs, follows a ballistic arc back to a landing pad, then performs a propulsive landing with retractable landing legs, engine plume particles, and a vertical speed meter that turns red if it crashes.",
+      "full_text": "Falcon-Style Booster Return and Landing: A booster separates from the main rocket, flips using cold-gas thruster puffs, follows a ballistic arc back to a landing pad, then performs a propulsive landing with retractable landing legs, engine plume particles, and a vertical speed meter that turns red if it crashes."
+    },
+    {
+      "number": "6",
+      "title": "Rocket Nozzle Expansion and Flow Visualization",
+      "description": "A cutaway rocket nozzle shows simulated gas parcels as colored particles accelerating from chamber to exit, expanding and cooling, with streamlines, pressure/temperature color gradients, and adjustable chamber pressure that changes plume shape.",
+      "full_text": "Rocket Nozzle Expansion and Flow Visualization: A cutaway rocket nozzle shows simulated gas parcels as colored particles accelerating from chamber to exit, expanding and cooling, with streamlines, pressure/temperature color gradients, and adjustable chamber pressure that changes plume shape."
+    },
+    {
+      "number": "7",
+      "title": "Staging Collision Avoidance Maneuver",
+      "description": "Multiple rocket stages and a fairing separate in sequence and drift apart with small rotation, while RCS thrusters on the active stage fire short pulses to avoid any predicted collision paths highlighted as red transparent cones.",
+      "full_text": "Staging Collision Avoidance Maneuver: Multiple rocket stages and a fairing separate in sequence and drift apart with small rotation, while RCS thrusters on the active stage fire short pulses to avoid any predicted collision paths highlighted as red transparent cones."
+    },
+    {
+      "number": "8",
+      "title": "Payload Fairing Separation and Satellite Deployment",
+      "description": "A rocket in space opens and ejects its two fairing halves which spin away, then releases a cube-shaped satellite from a spring-loaded dispenser, with slow satellite spin, small attitude control jets, and orbit trails for both rocket and payload.",
+      "full_text": "Payload Fairing Separation and Satellite Deployment: A rocket in space opens and ejects its two fairing halves which spin away, then releases a cube-shaped satellite from a spring-loaded dispenser, with slow satellite spin, small attitude control jets, and orbit trails for both rocket and payload."
+    },
+    {
+      "number": "9",
+      "title": "Launch Pad Tower and Umbilical Detach System",
+      "description": "A detailed launch pad with service tower shows swing arms and umbilicals attached to a rocket, which detach and retract at liftoff, leaving faint vapor lines where fluids disconnect, with labeled umbilical points and a countdown clock triggering motion.",
+      "full_text": "Launch Pad Tower and Umbilical Detach System: A detailed launch pad with service tower shows swing arms and umbilicals attached to a rocket, which detach and retract at liftoff, leaving faint vapor lines where fluids disconnect, with labeled umbilical points and a countdown clock triggering motion."
+    },
+    {
+      "number": "10",
+      "title": "Gimbaled Cluster Engine Control for Attitude",
+      "description": "A rocket base with multiple engines mounted in a ring gimbals each nozzle independently to control pitch and yaw, with live torque arrows on the rocket body, engine exhaust plumes that tilt, and an attitude indicator sphere next to the rocket.",
+      "full_text": "Gimbaled Cluster Engine Control for Attitude: A rocket base with multiple engines mounted in a ring gimbals each nozzle independently to control pitch and yaw, with live torque arrows on the rocket body, engine exhaust plumes that tilt, and an attitude indicator sphere next to the rocket."
+    },
+    {
+      "number": "11",
+      "title": "Solid Rocket Booster Grain Burn and Thrust Profile",
+      "description": "A transparent solid rocket booster with a star-shaped propellant grain burns from the interior outward, the burning surface glowing and receding over time, while a thrust vs. time graph updates and exhaust particles shoot from the nozzle.",
+      "full_text": "Solid Rocket Booster Grain Burn and Thrust Profile: A transparent solid rocket booster with a star-shaped propellant grain burns from the interior outward, the burning surface glowing and receding over time, while a thrust vs. time graph updates and exhaust particles shoot from the nozzle."
+    },
+    {
+      "number": "12",
+      "title": "Rocket Launch Through Layered Atmosphere",
+      "description": "A rocket ascends through color-banded atmospheric layers of different densities, with aerodynamic drag and heating indicated by changing hull color and arrow vectors, plus a dynamic Mach number label and a faint shock cone when supersonic.",
+      "full_text": "Rocket Launch Through Layered Atmosphere: A rocket ascends through color-banded atmospheric layers of different densities, with aerodynamic drag and heating indicated by changing hull color and arrow vectors, plus a dynamic Mach number label and a faint shock cone when supersonic."
+    },
+    {
+      "number": "13",
+      "title": "Rocket Assembly Line and Stage Integration",
+      "description": "An engineering hangar shows separate stages, engines, and interstage rings moving on tracks, aligning, and attaching with visible bolts and latches that glow briefly when locked, with labels for each part and a progress meter for assembly completion.",
+      "full_text": "Rocket Assembly Line and Stage Integration: An engineering hangar shows separate stages, engines, and interstage rings moving on tracks, aligning, and attaching with visible bolts and latches that glow briefly when locked, with labels for each part and a progress meter for assembly completion."
+    },
+    {
+      "number": "14",
+      "title": "Space Tug Refueling a Rocket in Orbit",
+      "description": "A small space tug docks to a larger rocket, clamping arms extend and attach, then translucent fuel particles flow through a connecting hose from one tank to another, with tank level bars filling or emptying and a gentle station-keeping thrust.",
+      "full_text": "Space Tug Refueling a Rocket in Orbit: A small space tug docks to a larger rocket, clamping arms extend and attach, then translucent fuel particles flow through a connecting hose from one tank to another, with tank level bars filling or emptying and a gentle station-keeping thrust."
+    },
+    {
+      "number": "15",
+      "title": "Rocket Attitude Control with Reaction Wheels vs. RCS",
+      "description": "A free-floating rocket body in microgravity rotates using internal reaction wheels or external RCS thrusters, with selectable mode, visual spinning flywheels under a transparent panel, thruster plume bursts, and side-by-side angular rate graphs.",
+      "full_text": "Rocket Attitude Control with Reaction Wheels vs. RCS: A free-floating rocket body in microgravity rotates using internal reaction wheels or external RCS thrusters, with selectable mode, visual spinning flywheels under a transparent panel, thruster plume bursts, and side-by-side angular rate graphs."
+    },
+    {
+      "number": "16",
+      "title": "Rocket Engine Turbopump Cross-Section",
+      "description": "A cutaway turbopump assembly spins a shaft driven by gas, drawing liquid fuel and oxidizer from transparent inlet pipes and sending them to the chamber, with rotating blades, colored fluid streams, pressure arrows, and RPM/flow rate labels.",
+      "full_text": "Rocket Engine Turbopump Cross-Section: A cutaway turbopump assembly spins a shaft driven by gas, drawing liquid fuel and oxidizer from transparent inlet pipes and sending them to the chamber, with rotating blades, colored fluid streams, pressure arrows, and RPM/flow rate labels."
+    },
+    {
+      "number": "17",
+      "title": "Mars Descent with Retropropulsive Landing",
+      "description": "A rocket descends toward a reddish terrain under Mars gravity, first with a deployable heat shield and then with engines firing, plume particles kicking up dust on the surface, legs deploying, and vertical/horizontal speed meters that determine a soft or hard landing.",
+      "full_text": "Mars Descent with Retropropulsive Landing: A rocket descends toward a reddish terrain under Mars gravity, first with a deployable heat shield and then with engines firing, plume particles kicking up dust on the surface, legs deploying, and vertical/horizontal speed meters that determine a soft or hard landing."
+    },
+    {
+      "number": "18",
+      "title": "Rocket Fairing Acoustic Environment Visualization",
+      "description": "Inside a semi-transparent payload fairing, a simple satellite sits as pressure waves from launch acoustics are shown as expanding translucent shells or ripples, with vibration meters on the satellite structure and a decibel bar changing color.",
+      "full_text": "Rocket Fairing Acoustic Environment Visualization: Inside a semi-transparent payload fairing, a simple satellite sits as pressure waves from launch acoustics are shown as expanding translucent shells or ripples, with vibration meters on the satellite structure and a decibel bar changing color."
+    },
+    {
+      "number": "19",
+      "title": "Multistage Rocket Failure and Debris Dispersion",
+      "description": "A multi-stage rocket experiences a triggered engine failure mid-ascent, breaking apart into labeled debris pieces that tumble and follow ballistic arcs, leaving colored trails and impact markers on the ground, with a center-of-mass track that abruptly diverges.",
+      "full_text": "Multistage Rocket Failure and Debris Dispersion: A multi-stage rocket experiences a triggered engine failure mid-ascent, breaking apart into labeled debris pieces that tumble and follow ballistic arcs, leaving colored trails and impact markers on the ground, with a center-of-mass track that abruptly diverges."
+    },
+    {
+      "number": "20",
+      "title": "Rocket Trajectory Optimization Demo with Adjustable Pitch Program",
+      "description": "A rocket launches from a planet and follows a user-adjustable pitch vs. time curve, showing multiple ghost trajectories for previous runs, fuel usage bars, apoapsis/periapsis labels, and a clear comparison of efficient vs. inefficient paths.",
+      "full_text": "Rocket Trajectory Optimization Demo with Adjustable Pitch Program: A rocket launches from a planet and follows a user-adjustable pitch vs. time curve, showing multiple ghost trajectories for previous runs, fuel usage bars, apoapsis/periapsis labels, and a clear comparison of efficient vs. inefficient paths."
+    },
+    {
+      "number": "21",
+      "title": "Rocket Exhaust Plume Impingement on Lunar Surface",
+      "description": "A lander’s downward rocket plume hits a dusty lunar surface, scouring and displacing particles that spray outward and leave streaks, with plume angle, thrust level, and dust particle sizes adjustable, plus a crater depth meter.",
+      "full_text": "Rocket Exhaust Plume Impingement on Lunar Surface: A lander’s downward rocket plume hits a dusty lunar surface, scouring and displacing particles that spray outward and leave streaks, with plume angle, thrust level, and dust particle sizes adjustable, plus a crater depth meter."
+    },
+    {
+      "number": "22",
+      "title": "Spin-Stabilized Upper Stage Dynamics",
+      "description": "A slender upper stage spins up using tangential RCS jets, then coasts in space with a visible rotational axis, body-fixed arrows, and a trail that spirals along its orbit, while small asymmetries in mass distribution cause precession shown by wobbling axis cones.",
+      "full_text": "Spin-Stabilized Upper Stage Dynamics: A slender upper stage spins up using tangential RCS jets, then coasts in space with a visible rotational axis, body-fixed arrows, and a trail that spirals along its orbit, while small asymmetries in mass distribution cause precession shown by wobbling axis cones."
+    },
+    {
+      "number": "23",
+      "title": "Rocket Launch Abort Escape Tower",
+      "description": "A crew capsule attached to an escape tower is pulled rapidly away from a failing booster, with escape motor plume particles, jettison of the tower, parachute deployment from the capsule, and color-changing risk zones between capsule and booster path.",
+      "full_text": "Rocket Launch Abort Escape Tower: A crew capsule attached to an escape tower is pulled rapidly away from a failing booster, with escape motor plume particles, jettison of the tower, parachute deployment from the capsule, and color-changing risk zones between capsule and booster path."
+    },
+    {
+      "number": "24",
+      "title": "Rocket Engine Gimbal Failure and Control Compensation",
+      "description": "A rocket ascending under thrust experiences a stuck gimbal on one engine, tilting plume direction, and onboard control tries to compensate with other engines and RCS, with visible control authority bars, attitude error arrows, and a clear illustration of partial recovery.",
+      "full_text": "Rocket Engine Gimbal Failure and Control Compensation: A rocket ascending under thrust experiences a stuck gimbal on one engine, tilting plume direction, and onboard control tries to compensate with other engines and RCS, with visible control authority bars, attitude error arrows, and a clear illustration of partial recovery."
+    },
+    {
+      "number": "25",
+      "title": "Multi-Rocket Formation Launch and Collision Risk",
+      "description": "Several small rockets launch in close proximity on parallel pads and ascend in formation, their plumes and trajectories slightly diverging, with proximity alert lines drawn between vehicles, collision risk areas glowing red, and small side thrusters firing to maintain safe spacing.",
+      "full_text": "Multi-Rocket Formation Launch and Collision Risk: Several small rockets launch in close proximity on parallel pads and ascend in formation, their plumes and trajectories slightly diverging, with proximity alert lines drawn between vehicles, collision risk areas glowing red, and small side thrusters firing to maintain safe spacing."
+    }
+  ]
+}

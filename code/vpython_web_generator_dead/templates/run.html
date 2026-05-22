@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Running VPython Simulation</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+  <main class="shell run-shell">
+    <section class="panel">
+      <p class="eyebrow">VPython runner</p>
+      <h1>Simulation started.</h1>
+      <p class="subhead">
+        The generated Python file is running as a local process. VPython usually opens its own browser window or tab for the 3D canvas.
+      </p>
+
+      <div class="run-card">
+        <p><strong>Python file:</strong> <code>{{ filename }}</code></p>
+        <p><strong>Process ID:</strong> <code>{{ pid }}</code></p>
+        <p><strong>Run log:</strong> <a href="/outputs/run_logs/{{ log_file }}">{{ log_file }}</a></p>
+      </div>
+
+      <p class="note">
+        If no VPython window appears, keep this Flask app running and install VPython with <code>pip install vpython</code>.
+        You can also run the file manually from the project folder with <code>python outputs/{{ filename }}</code>.
+      </p>
+    </section>
+  </main>
+</body>
+</html>

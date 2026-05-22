@@ -1,0 +1,161 @@
+{
+  "created_at": "2026-05-21T17:58:45",
+  "batch_index": 1,
+  "queue": "seeds",
+  "phrase": "water",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "raw_text": "Here are strong **water simulation inputs** you can plug into your prompt:\n\n1. **Ripples in a Still Pond**\n   A flat translucent blue disk acts as a pond where small spheres (raindrops) fall, generate expanding circular ripple rings, and fade while a top-down label and simple control sliders adjust drop rate and ripple speed.\n\n2. **Water Balloon Impacts**\n   Semi-transparent blue spheres (balloons) fall under gravity onto a rigid floor, flatten, “burst” into many small droplets that scatter, bounce, and leave short-lived splash marks on a light-colored ground.\n\n3. **Leaky Water Tower**\n   A tall transparent cylinder (tower) slowly fills with blue water particles from a pipe, then leaks through holes as streams of droplets that fall, bounce, and collect in a shallow basin with a height meter showing water level.\n\n4. **Wave Tank With Floating Blocks**\n   A rectangular transparent tank filled with a blue wavy surface (height-field boxes) is shaken from one side to generate waves that propagate, reflect off walls, and rock a few floating cubes that tilt and bob on the surface.\n\n5. **Water Droplet on a Leaf**\n   A curved green surface (leaf) supports several small blue droplets that merge when they collide, roll downhill following the leaf curvature, and leave a darker “wet” trail that slowly evaporates and fades.\n\n6. **Fountain Jet and Splash**\n   A central nozzle shoots a stream of blue particles upward that arc under gravity, collide with a circular basin, bounce as spray, and form a churning pool with particle trails and a label showing flow rate.\n\n7. **Rainstorm Over a City Block**\n   A grid of low gray boxes (buildings) sits under a cloud layer that emits raindrop particles which fall, hit roofs and streets, form shallow reflective puddles, and flow along slightly sloped channels toward a glowing storm drain.\n\n8. **Waterwheel Power Generator**\n   A gently sloped transparent channel sends a steady stream of blue particles into the paddles of a rotating wheel, which spins faster as more water collides and transfers momentum, while an attached meter shows rotational speed.\n\n9. **Dripping Faucet and Bucket**\n   A shiny faucet at the top emits individual droplets at adjustable intervals that fall into a bucket, cause small splash particles, slowly raise a semi-transparent water level surface, and tick up a numeric “liters collected” label.\n\n10. **Underwater Bubble Rise**\n    A cluster of small air bubbles starts at the bottom of a tall blue semi-transparent column, rise upward while wobbling and merging on contact, leave faint vertical trails, and pop when they reach the surface plane.\n\n11. **Water Molecules in a Box**\n    A cubic container holds many color-coded V-shaped water molecules that move, rotate, collide elastically, and form temporary hydrogen-bond “links” (thin glowing segments) that appear and disappear as temperature (speed) is adjusted.\n\n12. **Evaporation and Condensation Cycle**\n    A shallow blue pool at the bottom emits small vapor particles that rise, slow, and cluster into a semi-transparent “cloud” which then cools and drops condensed droplets back into the pool, with a side thermometer controlling rates.\n\n13. **Water Pipe Network With Valves**\n    A 3D network of transparent tubes carries streams of blue particles from a reservoir to various outlets, with interactive rotating valve wheels that restrict flow and visible pressure buildup shown via color intensity in the pipes.\n\n14. **Water Clock (Clepsydra)**\n    An elevated transparent tank drips water through a narrow opening into a lower bowl, where the rising water surface lifts a floating pointer attached to a vertical scale, while a side label displays elapsed “time” based on water height.\n\n15. **Ocean Tides Around an Island**\n    A low circular island sits in the center of a large flat blue surface whose height oscillates in a slow tidal cycle, causing water to advance and retreat up the shore, with a glowing moon-sphere orbiting above indicating tidal phase.\n\n16. **Waterfall Over Terraced Rocks**\n    A stream of blue particles flows off a raised plateau, cascades down stepped rock platforms, splashes at each impact, and collects in a lower pond, with mist-like smaller particles near the falls and darker wet zones on rock surfaces.\n\n17. **Sprinkler Irrigation System**\n    Rotating sprinkler arms on a central post spray arcs of water particles that spin around, strike a patchwork of rectangular “fields,” and slowly change each field’s color from dry to saturated green based on cumulative water received.\n\n18. **Microscopic Water in a Capillary Tube**\n    A narrow transparent vertical tube dips into a blue reservoir, showing water creeping up the tube walls as a curved meniscus, while tiny particle markers along the surface demonstrate capillary rise and stabilization at a labeled height.\n\n19. **Water-Based Mirror Maze**\n    A light-colored maze floor has shallow reflective water channels that guide rolling spheres (light beams) which bounce off the water boundaries and small vertical mirrors, with ripples forming where spheres touch water.\n\n20. **Mixing Fresh and Salt Water**\n    Two adjacent transparent tanks, one blue (fresh) and one slightly greenish (salt), connect through a gate; when opened, differently colored particle streams flow and mix in a central chamber, gradually blending into a uniform intermediate color.\n\n21. **Water Rocket Launch**\n    A transparent bottle half-filled with blue water stands on a pad; when “pressurized,” water particles shoot downward as thrust, the rocket rises with a visible exhaust trail, then arcs and falls back under gravity.\n\n22. **Fire vs. Water Sprinkler System**\n    Small red “fire” particles spawn on a floor under a ceiling grid of sprinklers; when any fire approaches, nearby sprinklers activate, releasing water particle cones that collide with fire particles, extinguish them, and darken the floor beneath.\n\n23. **River Meanders and Erosion**\n    A winding semi-transparent blue river flows across a slightly raised terrain mesh; moving water particles erode outer banks (lowering and darkening them), deposit sediment on inner banks (raising and lightening them), and gradually shift the river path.\n\n24. **Water Droplet Lens on Text**\n    A flat plane with black text lies under a large transparent blue droplet acting as a lens; as the droplet moves and changes shape (slightly pulsing), the underlying text appears distorted and magnified within the droplet’s footprint.\n\n25. **Orbiting Water Comet Near a Planet**\n    A small icy-blue nucleus orbits a central planet while shedding a stream of water-ice particles that form a glowing tail pointing away from a light source, with particles that sublimate, disperse, and occasionally collide with the planet’s thin atmosphere.",
+  "seeds": [
+    {
+      "number": "1",
+      "title": "Ripples in a Still Pond",
+      "description": "A flat translucent blue disk acts as a pond where small spheres (raindrops) fall, generate expanding circular ripple rings, and fade while a top-down label and simple control sliders adjust drop rate and ripple speed.",
+      "full_text": "Ripples in a Still Pond: A flat translucent blue disk acts as a pond where small spheres (raindrops) fall, generate expanding circular ripple rings, and fade while a top-down label and simple control sliders adjust drop rate and ripple speed."
+    },
+    {
+      "number": "2",
+      "title": "Water Balloon Impacts",
+      "description": "Semi-transparent blue spheres (balloons) fall under gravity onto a rigid floor, flatten, “burst” into many small droplets that scatter, bounce, and leave short-lived splash marks on a light-colored ground.",
+      "full_text": "Water Balloon Impacts: Semi-transparent blue spheres (balloons) fall under gravity onto a rigid floor, flatten, “burst” into many small droplets that scatter, bounce, and leave short-lived splash marks on a light-colored ground."
+    },
+    {
+      "number": "3",
+      "title": "Leaky Water Tower",
+      "description": "A tall transparent cylinder (tower) slowly fills with blue water particles from a pipe, then leaks through holes as streams of droplets that fall, bounce, and collect in a shallow basin with a height meter showing water level.",
+      "full_text": "Leaky Water Tower: A tall transparent cylinder (tower) slowly fills with blue water particles from a pipe, then leaks through holes as streams of droplets that fall, bounce, and collect in a shallow basin with a height meter showing water level."
+    },
+    {
+      "number": "4",
+      "title": "Wave Tank With Floating Blocks",
+      "description": "A rectangular transparent tank filled with a blue wavy surface (height-field boxes) is shaken from one side to generate waves that propagate, reflect off walls, and rock a few floating cubes that tilt and bob on the surface.",
+      "full_text": "Wave Tank With Floating Blocks: A rectangular transparent tank filled with a blue wavy surface (height-field boxes) is shaken from one side to generate waves that propagate, reflect off walls, and rock a few floating cubes that tilt and bob on the surface."
+    },
+    {
+      "number": "5",
+      "title": "Water Droplet on a Leaf",
+      "description": "A curved green surface (leaf) supports several small blue droplets that merge when they collide, roll downhill following the leaf curvature, and leave a darker “wet” trail that slowly evaporates and fades.",
+      "full_text": "Water Droplet on a Leaf: A curved green surface (leaf) supports several small blue droplets that merge when they collide, roll downhill following the leaf curvature, and leave a darker “wet” trail that slowly evaporates and fades."
+    },
+    {
+      "number": "6",
+      "title": "Fountain Jet and Splash",
+      "description": "A central nozzle shoots a stream of blue particles upward that arc under gravity, collide with a circular basin, bounce as spray, and form a churning pool with particle trails and a label showing flow rate.",
+      "full_text": "Fountain Jet and Splash: A central nozzle shoots a stream of blue particles upward that arc under gravity, collide with a circular basin, bounce as spray, and form a churning pool with particle trails and a label showing flow rate."
+    },
+    {
+      "number": "7",
+      "title": "Rainstorm Over a City Block",
+      "description": "A grid of low gray boxes (buildings) sits under a cloud layer that emits raindrop particles which fall, hit roofs and streets, form shallow reflective puddles, and flow along slightly sloped channels toward a glowing storm drain.",
+      "full_text": "Rainstorm Over a City Block: A grid of low gray boxes (buildings) sits under a cloud layer that emits raindrop particles which fall, hit roofs and streets, form shallow reflective puddles, and flow along slightly sloped channels toward a glowing storm drain."
+    },
+    {
+      "number": "8",
+      "title": "Waterwheel Power Generator",
+      "description": "A gently sloped transparent channel sends a steady stream of blue particles into the paddles of a rotating wheel, which spins faster as more water collides and transfers momentum, while an attached meter shows rotational speed.",
+      "full_text": "Waterwheel Power Generator: A gently sloped transparent channel sends a steady stream of blue particles into the paddles of a rotating wheel, which spins faster as more water collides and transfers momentum, while an attached meter shows rotational speed."
+    },
+    {
+      "number": "9",
+      "title": "Dripping Faucet and Bucket",
+      "description": "A shiny faucet at the top emits individual droplets at adjustable intervals that fall into a bucket, cause small splash particles, slowly raise a semi-transparent water level surface, and tick up a numeric “liters collected” label.",
+      "full_text": "Dripping Faucet and Bucket: A shiny faucet at the top emits individual droplets at adjustable intervals that fall into a bucket, cause small splash particles, slowly raise a semi-transparent water level surface, and tick up a numeric “liters collected” label."
+    },
+    {
+      "number": "10",
+      "title": "Underwater Bubble Rise",
+      "description": "A cluster of small air bubbles starts at the bottom of a tall blue semi-transparent column, rise upward while wobbling and merging on contact, leave faint vertical trails, and pop when they reach the surface plane.",
+      "full_text": "Underwater Bubble Rise: A cluster of small air bubbles starts at the bottom of a tall blue semi-transparent column, rise upward while wobbling and merging on contact, leave faint vertical trails, and pop when they reach the surface plane."
+    },
+    {
+      "number": "11",
+      "title": "Water Molecules in a Box",
+      "description": "A cubic container holds many color-coded V-shaped water molecules that move, rotate, collide elastically, and form temporary hydrogen-bond “links” (thin glowing segments) that appear and disappear as temperature (speed) is adjusted.",
+      "full_text": "Water Molecules in a Box: A cubic container holds many color-coded V-shaped water molecules that move, rotate, collide elastically, and form temporary hydrogen-bond “links” (thin glowing segments) that appear and disappear as temperature (speed) is adjusted."
+    },
+    {
+      "number": "12",
+      "title": "Evaporation and Condensation Cycle",
+      "description": "A shallow blue pool at the bottom emits small vapor particles that rise, slow, and cluster into a semi-transparent “cloud” which then cools and drops condensed droplets back into the pool, with a side thermometer controlling rates.",
+      "full_text": "Evaporation and Condensation Cycle: A shallow blue pool at the bottom emits small vapor particles that rise, slow, and cluster into a semi-transparent “cloud” which then cools and drops condensed droplets back into the pool, with a side thermometer controlling rates."
+    },
+    {
+      "number": "13",
+      "title": "Water Pipe Network With Valves",
+      "description": "A 3D network of transparent tubes carries streams of blue particles from a reservoir to various outlets, with interactive rotating valve wheels that restrict flow and visible pressure buildup shown via color intensity in the pipes.",
+      "full_text": "Water Pipe Network With Valves: A 3D network of transparent tubes carries streams of blue particles from a reservoir to various outlets, with interactive rotating valve wheels that restrict flow and visible pressure buildup shown via color intensity in the pipes."
+    },
+    {
+      "number": "14",
+      "title": "Water Clock (Clepsydra)",
+      "description": "An elevated transparent tank drips water through a narrow opening into a lower bowl, where the rising water surface lifts a floating pointer attached to a vertical scale, while a side label displays elapsed “time” based on water height.",
+      "full_text": "Water Clock (Clepsydra): An elevated transparent tank drips water through a narrow opening into a lower bowl, where the rising water surface lifts a floating pointer attached to a vertical scale, while a side label displays elapsed “time” based on water height."
+    },
+    {
+      "number": "15",
+      "title": "Ocean Tides Around an Island",
+      "description": "A low circular island sits in the center of a large flat blue surface whose height oscillates in a slow tidal cycle, causing water to advance and retreat up the shore, with a glowing moon-sphere orbiting above indicating tidal phase.",
+      "full_text": "Ocean Tides Around an Island: A low circular island sits in the center of a large flat blue surface whose height oscillates in a slow tidal cycle, causing water to advance and retreat up the shore, with a glowing moon-sphere orbiting above indicating tidal phase."
+    },
+    {
+      "number": "16",
+      "title": "Waterfall Over Terraced Rocks",
+      "description": "A stream of blue particles flows off a raised plateau, cascades down stepped rock platforms, splashes at each impact, and collects in a lower pond, with mist-like smaller particles near the falls and darker wet zones on rock surfaces.",
+      "full_text": "Waterfall Over Terraced Rocks: A stream of blue particles flows off a raised plateau, cascades down stepped rock platforms, splashes at each impact, and collects in a lower pond, with mist-like smaller particles near the falls and darker wet zones on rock surfaces."
+    },
+    {
+      "number": "17",
+      "title": "Sprinkler Irrigation System",
+      "description": "Rotating sprinkler arms on a central post spray arcs of water particles that spin around, strike a patchwork of rectangular “fields,” and slowly change each field’s color from dry to saturated green based on cumulative water received.",
+      "full_text": "Sprinkler Irrigation System: Rotating sprinkler arms on a central post spray arcs of water particles that spin around, strike a patchwork of rectangular “fields,” and slowly change each field’s color from dry to saturated green based on cumulative water received."
+    },
+    {
+      "number": "18",
+      "title": "Microscopic Water in a Capillary Tube",
+      "description": "A narrow transparent vertical tube dips into a blue reservoir, showing water creeping up the tube walls as a curved meniscus, while tiny particle markers along the surface demonstrate capillary rise and stabilization at a labeled height.",
+      "full_text": "Microscopic Water in a Capillary Tube: A narrow transparent vertical tube dips into a blue reservoir, showing water creeping up the tube walls as a curved meniscus, while tiny particle markers along the surface demonstrate capillary rise and stabilization at a labeled height."
+    },
+    {
+      "number": "19",
+      "title": "Water-Based Mirror Maze",
+      "description": "A light-colored maze floor has shallow reflective water channels that guide rolling spheres (light beams) which bounce off the water boundaries and small vertical mirrors, with ripples forming where spheres touch water.",
+      "full_text": "Water-Based Mirror Maze: A light-colored maze floor has shallow reflective water channels that guide rolling spheres (light beams) which bounce off the water boundaries and small vertical mirrors, with ripples forming where spheres touch water."
+    },
+    {
+      "number": "20",
+      "title": "Mixing Fresh and Salt Water",
+      "description": "Two adjacent transparent tanks, one blue (fresh) and one slightly greenish (salt), connect through a gate; when opened, differently colored particle streams flow and mix in a central chamber, gradually blending into a uniform intermediate color.",
+      "full_text": "Mixing Fresh and Salt Water: Two adjacent transparent tanks, one blue (fresh) and one slightly greenish (salt), connect through a gate; when opened, differently colored particle streams flow and mix in a central chamber, gradually blending into a uniform intermediate color."
+    },
+    {
+      "number": "21",
+      "title": "Water Rocket Launch",
+      "description": "A transparent bottle half-filled with blue water stands on a pad; when “pressurized,” water particles shoot downward as thrust, the rocket rises with a visible exhaust trail, then arcs and falls back under gravity.",
+      "full_text": "Water Rocket Launch: A transparent bottle half-filled with blue water stands on a pad; when “pressurized,” water particles shoot downward as thrust, the rocket rises with a visible exhaust trail, then arcs and falls back under gravity."
+    },
+    {
+      "number": "22",
+      "title": "Fire vs. Water Sprinkler System",
+      "description": "Small red “fire” particles spawn on a floor under a ceiling grid of sprinklers; when any fire approaches, nearby sprinklers activate, releasing water particle cones that collide with fire particles, extinguish them, and darken the floor beneath.",
+      "full_text": "Fire vs. Water Sprinkler System: Small red “fire” particles spawn on a floor under a ceiling grid of sprinklers; when any fire approaches, nearby sprinklers activate, releasing water particle cones that collide with fire particles, extinguish them, and darken the floor beneath."
+    },
+    {
+      "number": "23",
+      "title": "River Meanders and Erosion",
+      "description": "A winding semi-transparent blue river flows across a slightly raised terrain mesh; moving water particles erode outer banks (lowering and darkening them), deposit sediment on inner banks (raising and lightening them), and gradually shift the river path.",
+      "full_text": "River Meanders and Erosion: A winding semi-transparent blue river flows across a slightly raised terrain mesh; moving water particles erode outer banks (lowering and darkening them), deposit sediment on inner banks (raising and lightening them), and gradually shift the river path."
+    },
+    {
+      "number": "24",
+      "title": "Water Droplet Lens on Text",
+      "description": "A flat plane with black text lies under a large transparent blue droplet acting as a lens; as the droplet moves and changes shape (slightly pulsing), the underlying text appears distorted and magnified within the droplet’s footprint.",
+      "full_text": "Water Droplet Lens on Text: A flat plane with black text lies under a large transparent blue droplet acting as a lens; as the droplet moves and changes shape (slightly pulsing), the underlying text appears distorted and magnified within the droplet’s footprint."
+    },
+    {
+      "number": "25",
+      "title": "Orbiting Water Comet Near a Planet",
+      "description": "A small icy-blue nucleus orbits a central planet while shedding a stream of water-ice particles that form a glowing tail pointing away from a light source, with particles that sublimate, disperse, and occasionally collide with the planet’s thin atmosphere.",
+      "full_text": "Orbiting Water Comet Near a Planet: A small icy-blue nucleus orbits a central planet while shedding a stream of water-ice particles that form a glowing tail pointing away from a light source, with particles that sublimate, disperse, and occasionally collide with the planet’s thin atmosphere."
+    }
+  ]
+}

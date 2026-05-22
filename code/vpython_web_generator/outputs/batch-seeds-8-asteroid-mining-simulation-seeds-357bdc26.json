@@ -1,0 +1,161 @@
+{
+  "created_at": "2026-05-22T02:08:58",
+  "batch_index": 8,
+  "queue": "seeds",
+  "phrase": "asteroid mining",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "raw_text": "Here are strong **asteroid mining simulation inputs** you can plug into your prompt:\n\n1. **Tethered Mining Rig Around a Spinning Asteroid**  \n   A slowly rotating irregular asteroid with a small mining platform orbiting on a cable, where the platform can thrust, adjust tether length, attach and detach grappling hooks to the surface, with dust particles floating off and labeled mass and tension meters updating in real time.\n\n2. **Autonomous Mining Drones Chipping Surface Ore**  \n   Several small spherical drones hover around a bright gray asteroid, repeatedly landing, drilling shallow holes, detaching with ore chunks attached, and flying back to a central processing hub that glows as ore mass accumulates and leaves a colored trail of extracted material.\n\n3. **Asteroid Fragmentation and Collection Field**  \n   A single asteroid is hit by a mining blast that splits it into color-coded fragments which slowly drift apart, collide, bounce, and are captured by moving collection nets that can open, close, and merge, while dotted trajectory lines and labels show fragment velocities.\n\n4. **Microgravity Conveyor Belts on an Asteroid Surface**  \n   A mining base anchored to the top of an asteroid uses articulated conveyor belts that rotate, fold, and extend along the curved surface, moving small ore spheres from scattered dig sites into a transparent storage dome that gradually fills and shows a changing ore volume bar.\n\n5. **Orbital Refinery with Slag Ejection**  \n   Ore-laden pods depart from a mining site on the asteroid, follow curved orbits to a refinery station, dock, dump glowing molten material into a transparent rotating drum, then eject darker slag particles that spiral away, while purified metal ingots condense and stack in labeled racks.\n\n6. **Asteroid Spin Control with Reaction Thrusters**  \n   A mining operation attaches several thruster modules to different points on a lumpy asteroid; the modules can fire, detach, and reattach at new locations, gradually changing the asteroid’s rotation axis while colored arrows show torque vectors and a HUD dial shows spin rate.\n\n7. **Drill Penetration and Subsurface Vein Mapping**  \n   A tall drill tower anchored to the asteroid bores down, leaving a transparent cylindrical hole revealing cross-sections of differently colored ore veins, while a scanning head moves up and down, mapping and labeling vein density, and ore particles spiral up and spill into collection bins.\n\n8. **Dust Plume Dynamics from Mining Explosions**  \n   Timed explosive charges on the asteroid surface detonate, creating expanding clouds of tiny dust particles that drift, collide, and slowly settle back or escape, while a mining ship maneuvers to avoid the plume, leaving a trail, and a transparent sphere shows the plume radius over time.\n\n9. **Magnetic Ore Sorting in Microgravity**  \n   A stream of mixed mineral spheres leaves a crusher on the asteroid, floats through a sorting tunnel with oscillating magnetic fields that deflect magnetic ores into one chute and non-magnetic rocks into another, with color-coded particle paths and counters tracking sorted masses.\n\n10. **Swarm of Nano-Miners on a Pebble Asteroid**  \n    A cluster of tiny cube-shaped nano-miners crawls and hops over a small asteroid, attaching to the surface, pulsing as they extract material, then merging into larger clusters that glow brighter and move faster, while a transparent overlay shows mined vs. untouched surface regions.\n\n11. **Asteroid Tugboats Repositioning a Mining Target**  \n    Several tug ships attach via cables to a medium asteroid and fire coordinated thrusters to slowly nudge its orbit around a central planet, with curved orbital paths, changing altitude markers, and tension in each cable shown as colored, pulsing lines that can slacken or snap.\n\n12. **Centrifugal Ring Mine Around a Rubble Pile**  \n    A thin circular track encircles a rubble-pile asteroid, with mining carts that accelerate, brake, and occasionally detach to land, scoop loose rocks, then reattach and transfer ore to a central depot; centrifugal force is visualized by arrows and carts leave subtle trails on the light background.\n\n13. **Laser Mining with Vapor Jet Recoil**  \n    A mining satellite orbits slowly around an asteroid, firing a moving laser spot that heats and vaporizes surface patches; jets of glowing gas particles erupt in the opposite direction, causing the asteroid to very slightly adjust its spin and position, with labels tracking ablation rate.\n\n14. **Inflatable Habitat Anchoring to a Rough Asteroid**  \n    A folded mining habitat approaches, then unfolds and inflates around a lumpy asteroid section, conforming to its shape; anchor spikes extend, attach, and pull the membrane tight, while internal modules slide, rotate, and lock into place, and transparent panels reveal crew and machinery.\n\n15. **Resource Pipeline Between Twin Asteroids**  \n    Two nearby asteroids are connected by a flexible, segmented pipeline that can bend and oscillate as ore slurry spheres flow inside; pumps on each end pulse, changing flow speed and direction, while pressure gauges and color-changing segments show where stress accumulates.\n\n16. **Asteroid Core Melting and Metal Separation**  \n    A heating unit bores into the asteroid’s interior, gradually creating a transparent molten core where dense metal droplets condense, sink, merge, and drain through channels to taps on the surface, while less dense slag floats and solid crust slowly shrinks, all shown in cross-section.\n\n17. **Robotic Arms Assembling a Surface Rail Network**  \n    Multiple robotic arms mounted on a mining hub pick up rail segments, rotate and position them, then weld them into an expanding rail grid across the asteroid; small carts test each new segment by bouncing over joints, while path labels and node markers highlight the growing network.\n\n18. **Solar Sail Ore Barge Departing a Mining Asteroid**  \n    A flat, reflective solar sail attached to an ore barge unfurls, rotates to catch light, and slowly accelerates away from the asteroid, which recedes in the background; vectors show thrust direction, and a mass meter drops as ore is jettisoned in tiny pellets to adjust trajectory.\n\n19. **Asteroid Interior Tunnel System with Sliding Ore Pods**  \n    A network of transparent tunnels carved through the asteroid contains spherical ore pods that slide and bounce along, switching tracks at junctions controlled by rotating gates, while gravity vectors vary inside and small lights mark active routes from different dig sites to the central hub.\n\n20. **Competing Mining Crews Marking Claims on an Asteroid**  \n    Two or three color-coded mining teams send rovers that drive, hop, and anchor flags onto the asteroid surface, painting transparent colored claim zones that expand, wrap over hills, and sometimes overlap; collisions between rovers cause bouncing and forced retreat to repair stations.\n\n21. **Gas Capture Balloons over a Volatile-Rich Asteroid**  \n    Drills puncture subsurface ice pockets, releasing jets of gas that inflate tethered translucent balloons hovering above; as gas condenses, droplets fall back to collection trays, balloons pulse with changing volume, and tethers can reel in or out to avoid collisions.\n\n22. **Helium-3 Extraction from a Rotating Regolith Drum**  \n    Regolith from the asteroid is fed into a large rotating transparent drum where it tumbles, mixes, and gradually separates into bands by grain size and glow-intensity (helium-3 content), with scoops that slide along the drum wall to collect specific bands and transfer them to labeled bins.\n\n23. **Orbital Debris Shield for a Mining Station**  \n    A mining station near the asteroid deploys a rotating shield ring that intercepts fast-moving debris chunks; impacts create brief particle sprays, shields can pivot, open, and close segments, and hit counters plus energy bars track shield integrity as more debris orbits through.\n\n24. **Asteroid Garden: Terraforming Mine Tailings**  \n    Processed tailings are sprayed gently onto a small asteroid, forming layers that consolidate, crack, and slowly grow moss-like green patches representing engineered organisms; robotic sprayers move, pause, and change patterns, while transparent overlays show nutrient and water distribution.\n\n25. **Symbolic Data Asteroid Being Mined by Algorithms**  \n    A faceted, semi-transparent “data asteroid” floats in space with colored crystalline blocks representing data clusters; algorithmic “miners” (moving polyhedra) attach, scan, split blocks, extract bright data shards, and carry them to a hovering processor core that grows, pulses, and branches new connections.",
+  "seeds": [
+    {
+      "number": "1",
+      "title": "Tethered Mining Rig Around a Spinning Asteroid",
+      "description": "A slowly rotating irregular asteroid with a small mining platform orbiting on a cable, where the platform can thrust, adjust tether length, attach and detach grappling hooks to the surface, with dust particles floating off and labeled mass and tension meters updating in real time.",
+      "full_text": "Tethered Mining Rig Around a Spinning Asteroid: A slowly rotating irregular asteroid with a small mining platform orbiting on a cable, where the platform can thrust, adjust tether length, attach and detach grappling hooks to the surface, with dust particles floating off and labeled mass and tension meters updating in real time."
+    },
+    {
+      "number": "2",
+      "title": "Autonomous Mining Drones Chipping Surface Ore",
+      "description": "Several small spherical drones hover around a bright gray asteroid, repeatedly landing, drilling shallow holes, detaching with ore chunks attached, and flying back to a central processing hub that glows as ore mass accumulates and leaves a colored trail of extracted material.",
+      "full_text": "Autonomous Mining Drones Chipping Surface Ore: Several small spherical drones hover around a bright gray asteroid, repeatedly landing, drilling shallow holes, detaching with ore chunks attached, and flying back to a central processing hub that glows as ore mass accumulates and leaves a colored trail of extracted material."
+    },
+    {
+      "number": "3",
+      "title": "Asteroid Fragmentation and Collection Field",
+      "description": "A single asteroid is hit by a mining blast that splits it into color-coded fragments which slowly drift apart, collide, bounce, and are captured by moving collection nets that can open, close, and merge, while dotted trajectory lines and labels show fragment velocities.",
+      "full_text": "Asteroid Fragmentation and Collection Field: A single asteroid is hit by a mining blast that splits it into color-coded fragments which slowly drift apart, collide, bounce, and are captured by moving collection nets that can open, close, and merge, while dotted trajectory lines and labels show fragment velocities."
+    },
+    {
+      "number": "4",
+      "title": "Microgravity Conveyor Belts on an Asteroid Surface",
+      "description": "A mining base anchored to the top of an asteroid uses articulated conveyor belts that rotate, fold, and extend along the curved surface, moving small ore spheres from scattered dig sites into a transparent storage dome that gradually fills and shows a changing ore volume bar.",
+      "full_text": "Microgravity Conveyor Belts on an Asteroid Surface: A mining base anchored to the top of an asteroid uses articulated conveyor belts that rotate, fold, and extend along the curved surface, moving small ore spheres from scattered dig sites into a transparent storage dome that gradually fills and shows a changing ore volume bar."
+    },
+    {
+      "number": "5",
+      "title": "Orbital Refinery with Slag Ejection",
+      "description": "Ore-laden pods depart from a mining site on the asteroid, follow curved orbits to a refinery station, dock, dump glowing molten material into a transparent rotating drum, then eject darker slag particles that spiral away, while purified metal ingots condense and stack in labeled racks.",
+      "full_text": "Orbital Refinery with Slag Ejection: Ore-laden pods depart from a mining site on the asteroid, follow curved orbits to a refinery station, dock, dump glowing molten material into a transparent rotating drum, then eject darker slag particles that spiral away, while purified metal ingots condense and stack in labeled racks."
+    },
+    {
+      "number": "6",
+      "title": "Asteroid Spin Control with Reaction Thrusters",
+      "description": "A mining operation attaches several thruster modules to different points on a lumpy asteroid; the modules can fire, detach, and reattach at new locations, gradually changing the asteroid’s rotation axis while colored arrows show torque vectors and a HUD dial shows spin rate.",
+      "full_text": "Asteroid Spin Control with Reaction Thrusters: A mining operation attaches several thruster modules to different points on a lumpy asteroid; the modules can fire, detach, and reattach at new locations, gradually changing the asteroid’s rotation axis while colored arrows show torque vectors and a HUD dial shows spin rate."
+    },
+    {
+      "number": "7",
+      "title": "Drill Penetration and Subsurface Vein Mapping",
+      "description": "A tall drill tower anchored to the asteroid bores down, leaving a transparent cylindrical hole revealing cross-sections of differently colored ore veins, while a scanning head moves up and down, mapping and labeling vein density, and ore particles spiral up and spill into collection bins.",
+      "full_text": "Drill Penetration and Subsurface Vein Mapping: A tall drill tower anchored to the asteroid bores down, leaving a transparent cylindrical hole revealing cross-sections of differently colored ore veins, while a scanning head moves up and down, mapping and labeling vein density, and ore particles spiral up and spill into collection bins."
+    },
+    {
+      "number": "8",
+      "title": "Dust Plume Dynamics from Mining Explosions",
+      "description": "Timed explosive charges on the asteroid surface detonate, creating expanding clouds of tiny dust particles that drift, collide, and slowly settle back or escape, while a mining ship maneuvers to avoid the plume, leaving a trail, and a transparent sphere shows the plume radius over time.",
+      "full_text": "Dust Plume Dynamics from Mining Explosions: Timed explosive charges on the asteroid surface detonate, creating expanding clouds of tiny dust particles that drift, collide, and slowly settle back or escape, while a mining ship maneuvers to avoid the plume, leaving a trail, and a transparent sphere shows the plume radius over time."
+    },
+    {
+      "number": "9",
+      "title": "Magnetic Ore Sorting in Microgravity",
+      "description": "A stream of mixed mineral spheres leaves a crusher on the asteroid, floats through a sorting tunnel with oscillating magnetic fields that deflect magnetic ores into one chute and non-magnetic rocks into another, with color-coded particle paths and counters tracking sorted masses.",
+      "full_text": "Magnetic Ore Sorting in Microgravity: A stream of mixed mineral spheres leaves a crusher on the asteroid, floats through a sorting tunnel with oscillating magnetic fields that deflect magnetic ores into one chute and non-magnetic rocks into another, with color-coded particle paths and counters tracking sorted masses."
+    },
+    {
+      "number": "10",
+      "title": "Swarm of Nano-Miners on a Pebble Asteroid",
+      "description": "A cluster of tiny cube-shaped nano-miners crawls and hops over a small asteroid, attaching to the surface, pulsing as they extract material, then merging into larger clusters that glow brighter and move faster, while a transparent overlay shows mined vs. untouched surface regions.",
+      "full_text": "Swarm of Nano-Miners on a Pebble Asteroid: A cluster of tiny cube-shaped nano-miners crawls and hops over a small asteroid, attaching to the surface, pulsing as they extract material, then merging into larger clusters that glow brighter and move faster, while a transparent overlay shows mined vs. untouched surface regions."
+    },
+    {
+      "number": "11",
+      "title": "Asteroid Tugboats Repositioning a Mining Target",
+      "description": "Several tug ships attach via cables to a medium asteroid and fire coordinated thrusters to slowly nudge its orbit around a central planet, with curved orbital paths, changing altitude markers, and tension in each cable shown as colored, pulsing lines that can slacken or snap.",
+      "full_text": "Asteroid Tugboats Repositioning a Mining Target: Several tug ships attach via cables to a medium asteroid and fire coordinated thrusters to slowly nudge its orbit around a central planet, with curved orbital paths, changing altitude markers, and tension in each cable shown as colored, pulsing lines that can slacken or snap."
+    },
+    {
+      "number": "12",
+      "title": "Centrifugal Ring Mine Around a Rubble Pile",
+      "description": "A thin circular track encircles a rubble-pile asteroid, with mining carts that accelerate, brake, and occasionally detach to land, scoop loose rocks, then reattach and transfer ore to a central depot; centrifugal force is visualized by arrows and carts leave subtle trails on the light background.",
+      "full_text": "Centrifugal Ring Mine Around a Rubble Pile: A thin circular track encircles a rubble-pile asteroid, with mining carts that accelerate, brake, and occasionally detach to land, scoop loose rocks, then reattach and transfer ore to a central depot; centrifugal force is visualized by arrows and carts leave subtle trails on the light background."
+    },
+    {
+      "number": "13",
+      "title": "Laser Mining with Vapor Jet Recoil",
+      "description": "A mining satellite orbits slowly around an asteroid, firing a moving laser spot that heats and vaporizes surface patches; jets of glowing gas particles erupt in the opposite direction, causing the asteroid to very slightly adjust its spin and position, with labels tracking ablation rate.",
+      "full_text": "Laser Mining with Vapor Jet Recoil: A mining satellite orbits slowly around an asteroid, firing a moving laser spot that heats and vaporizes surface patches; jets of glowing gas particles erupt in the opposite direction, causing the asteroid to very slightly adjust its spin and position, with labels tracking ablation rate."
+    },
+    {
+      "number": "14",
+      "title": "Inflatable Habitat Anchoring to a Rough Asteroid",
+      "description": "A folded mining habitat approaches, then unfolds and inflates around a lumpy asteroid section, conforming to its shape; anchor spikes extend, attach, and pull the membrane tight, while internal modules slide, rotate, and lock into place, and transparent panels reveal crew and machinery.",
+      "full_text": "Inflatable Habitat Anchoring to a Rough Asteroid: A folded mining habitat approaches, then unfolds and inflates around a lumpy asteroid section, conforming to its shape; anchor spikes extend, attach, and pull the membrane tight, while internal modules slide, rotate, and lock into place, and transparent panels reveal crew and machinery."
+    },
+    {
+      "number": "15",
+      "title": "Resource Pipeline Between Twin Asteroids",
+      "description": "Two nearby asteroids are connected by a flexible, segmented pipeline that can bend and oscillate as ore slurry spheres flow inside; pumps on each end pulse, changing flow speed and direction, while pressure gauges and color-changing segments show where stress accumulates.",
+      "full_text": "Resource Pipeline Between Twin Asteroids: Two nearby asteroids are connected by a flexible, segmented pipeline that can bend and oscillate as ore slurry spheres flow inside; pumps on each end pulse, changing flow speed and direction, while pressure gauges and color-changing segments show where stress accumulates."
+    },
+    {
+      "number": "16",
+      "title": "Asteroid Core Melting and Metal Separation",
+      "description": "A heating unit bores into the asteroid’s interior, gradually creating a transparent molten core where dense metal droplets condense, sink, merge, and drain through channels to taps on the surface, while less dense slag floats and solid crust slowly shrinks, all shown in cross-section.",
+      "full_text": "Asteroid Core Melting and Metal Separation: A heating unit bores into the asteroid’s interior, gradually creating a transparent molten core where dense metal droplets condense, sink, merge, and drain through channels to taps on the surface, while less dense slag floats and solid crust slowly shrinks, all shown in cross-section."
+    },
+    {
+      "number": "17",
+      "title": "Robotic Arms Assembling a Surface Rail Network",
+      "description": "Multiple robotic arms mounted on a mining hub pick up rail segments, rotate and position them, then weld them into an expanding rail grid across the asteroid; small carts test each new segment by bouncing over joints, while path labels and node markers highlight the growing network.",
+      "full_text": "Robotic Arms Assembling a Surface Rail Network: Multiple robotic arms mounted on a mining hub pick up rail segments, rotate and position them, then weld them into an expanding rail grid across the asteroid; small carts test each new segment by bouncing over joints, while path labels and node markers highlight the growing network."
+    },
+    {
+      "number": "18",
+      "title": "Solar Sail Ore Barge Departing a Mining Asteroid",
+      "description": "A flat, reflective solar sail attached to an ore barge unfurls, rotates to catch light, and slowly accelerates away from the asteroid, which recedes in the background; vectors show thrust direction, and a mass meter drops as ore is jettisoned in tiny pellets to adjust trajectory.",
+      "full_text": "Solar Sail Ore Barge Departing a Mining Asteroid: A flat, reflective solar sail attached to an ore barge unfurls, rotates to catch light, and slowly accelerates away from the asteroid, which recedes in the background; vectors show thrust direction, and a mass meter drops as ore is jettisoned in tiny pellets to adjust trajectory."
+    },
+    {
+      "number": "19",
+      "title": "Asteroid Interior Tunnel System with Sliding Ore Pods",
+      "description": "A network of transparent tunnels carved through the asteroid contains spherical ore pods that slide and bounce along, switching tracks at junctions controlled by rotating gates, while gravity vectors vary inside and small lights mark active routes from different dig sites to the central hub.",
+      "full_text": "Asteroid Interior Tunnel System with Sliding Ore Pods: A network of transparent tunnels carved through the asteroid contains spherical ore pods that slide and bounce along, switching tracks at junctions controlled by rotating gates, while gravity vectors vary inside and small lights mark active routes from different dig sites to the central hub."
+    },
+    {
+      "number": "20",
+      "title": "Competing Mining Crews Marking Claims on an Asteroid",
+      "description": "Two or three color-coded mining teams send rovers that drive, hop, and anchor flags onto the asteroid surface, painting transparent colored claim zones that expand, wrap over hills, and sometimes overlap; collisions between rovers cause bouncing and forced retreat to repair stations.",
+      "full_text": "Competing Mining Crews Marking Claims on an Asteroid: Two or three color-coded mining teams send rovers that drive, hop, and anchor flags onto the asteroid surface, painting transparent colored claim zones that expand, wrap over hills, and sometimes overlap; collisions between rovers cause bouncing and forced retreat to repair stations."
+    },
+    {
+      "number": "21",
+      "title": "Gas Capture Balloons over a Volatile-Rich Asteroid",
+      "description": "Drills puncture subsurface ice pockets, releasing jets of gas that inflate tethered translucent balloons hovering above; as gas condenses, droplets fall back to collection trays, balloons pulse with changing volume, and tethers can reel in or out to avoid collisions.",
+      "full_text": "Gas Capture Balloons over a Volatile-Rich Asteroid: Drills puncture subsurface ice pockets, releasing jets of gas that inflate tethered translucent balloons hovering above; as gas condenses, droplets fall back to collection trays, balloons pulse with changing volume, and tethers can reel in or out to avoid collisions."
+    },
+    {
+      "number": "22",
+      "title": "Helium-3 Extraction from a Rotating Regolith Drum",
+      "description": "Regolith from the asteroid is fed into a large rotating transparent drum where it tumbles, mixes, and gradually separates into bands by grain size and glow-intensity (helium-3 content), with scoops that slide along the drum wall to collect specific bands and transfer them to labeled bins.",
+      "full_text": "Helium-3 Extraction from a Rotating Regolith Drum: Regolith from the asteroid is fed into a large rotating transparent drum where it tumbles, mixes, and gradually separates into bands by grain size and glow-intensity (helium-3 content), with scoops that slide along the drum wall to collect specific bands and transfer them to labeled bins."
+    },
+    {
+      "number": "23",
+      "title": "Orbital Debris Shield for a Mining Station",
+      "description": "A mining station near the asteroid deploys a rotating shield ring that intercepts fast-moving debris chunks; impacts create brief particle sprays, shields can pivot, open, and close segments, and hit counters plus energy bars track shield integrity as more debris orbits through.",
+      "full_text": "Orbital Debris Shield for a Mining Station: A mining station near the asteroid deploys a rotating shield ring that intercepts fast-moving debris chunks; impacts create brief particle sprays, shields can pivot, open, and close segments, and hit counters plus energy bars track shield integrity as more debris orbits through."
+    },
+    {
+      "number": "24",
+      "title": "Asteroid Garden: Terraforming Mine Tailings",
+      "description": "Processed tailings are sprayed gently onto a small asteroid, forming layers that consolidate, crack, and slowly grow moss-like green patches representing engineered organisms; robotic sprayers move, pause, and change patterns, while transparent overlays show nutrient and water distribution.",
+      "full_text": "Asteroid Garden: Terraforming Mine Tailings: Processed tailings are sprayed gently onto a small asteroid, forming layers that consolidate, crack, and slowly grow moss-like green patches representing engineered organisms; robotic sprayers move, pause, and change patterns, while transparent overlays show nutrient and water distribution."
+    },
+    {
+      "number": "25",
+      "title": "Symbolic Data Asteroid Being Mined by Algorithms",
+      "description": "A faceted, semi-transparent “data asteroid” floats in space with colored crystalline blocks representing data clusters; algorithmic “miners” (moving polyhedra) attach, scan, split blocks, extract bright data shards, and carry them to a hovering processor core that grows, pulses, and branches new connections.",
+      "full_text": "Symbolic Data Asteroid Being Mined by Algorithms: A faceted, semi-transparent “data asteroid” floats in space with colored crystalline blocks representing data clusters; algorithmic “miners” (moving polyhedra) attach, scan, split blocks, extract bright data shards, and carry them to a hovering processor core that grows, pulses, and branches new connections."
+    }
+  ]
+}

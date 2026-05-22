@@ -1,0 +1,161 @@
+{
+  "created_at": "2026-05-21T17:59:03",
+  "batch_index": 2,
+  "queue": "seeds",
+  "phrase": "fire",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "raw_text": "Here are strong **fire simulation inputs** you can plug into your prompt:\n\n1. **Campfire Convection and Sparks**\n   A stack of semi-transparent wooden logs slowly blackens while orange-yellow flame particles rise, split, and fade, sparks shoot upward leaving brief trails, and a surrounding dome shows temperature gradients with color bands.\n\n2. **Spreading Forest Fire on a Hillside**\n   A sloped terrain mesh covered with small tree cylinders shows a fire front that ignites nearby trees based on distance and wind arrows, trees change color from green to red to black, and a top bar graph tracks burned area over time.\n\n3. **Bunsen Burner and Metal Rod Heating**\n   A vertical blue flame cone from a burner heats a metal rod held by a clamp, with the rod gradually glowing red from the flame contact point outward, while a floating thermometer sphere changes color and a heat map plane shows conduction along the rod.\n\n4. **Rocket Engine Combustion Chamber**\n   A cylindrical combustion chamber receives blue fuel and red oxidizer particles from injectors, which mix, ignite into bright orange combustion zones, and exhaust through a nozzle as a high-speed glowing jet with velocity vector arrows and temperature labels.\n\n5. **Fireworks Shell Bursting in the Sky**\n   A rising shell sphere leaves a sparkling trail, then at the apex explodes into branching colored particle clusters that expand, fade, and fall, with gravity, small collisions, and a semi-transparent dome marking altitude rings.\n\n6. **Microscopic Combustion Reaction in a Box**\n   Molecules representing fuel, oxygen, and products move and collide in a transparent box; when fuel and oxygen collide with enough speed they flash, merge into product spheres, release tiny flame particles, and increase a visible energy meter bar.\n\n7. **Fire Tornado Over a Hot Ground Patch**\n   A circular heated plate on the ground emits orange flame particles while rotating air arrows form a vortex that pulls the flames into a spinning funnel, with adjustable rotation speed sliders and a side view showing airflow streamlines.\n\n8. **City Block Building Fire and Evacuation**\n   A cluster of box-buildings on a light ground plane has one building catching fire with spreading glowing windows, smoke particles rising, and small person-spheres moving along paths toward exits and meeting points, with labels for safe and danger zones.\n\n9. **Molten Metal Pouring from a Furnace**\n   A tilting furnace pours glowing orange liquid metal into molds; the liquid splashes, fills cavities, radiates heat shown by a color gradient, slowly solidifies from the edges inward, and releases small flame bursts where it touches cooler air.\n\n10. **Fireball Orbiting a Magic Crystal**\n    A glowing crystal in the center emits a gently pulsing field; fireball spheres orbit it on varying paths, occasionally merging into larger orbs, splitting into smaller sparks, and leaving curved light trails that slowly fade.\n\n11. **Wildfire Jumping a Firebreak with Wind**\n    A patchy grass and shrub terrain has a cleared firebreak strip; flames advance across vegetation, die at the break unless wind arrows tilt and stretch the flames enough to ignite the opposite side, with a side panel showing wind speed and fireline length.\n\n12. **Chemical Lab Flame Test Colors**\n    A row of small burners under labeled metal salt samples produces flames that change color based on the sample hovering above (green, purple, orange, etc.), with each flame’s color bar graphed in a spectrum panel and particle emissions briefly matching the hue.\n\n13. **Phoenix of Fire Regenerating from Ashes**\n    A stylized bird shape made of fire particles flaps and slowly disintegrates into gray ash spheres that fall and pile up; after a delay, the ash mound glows, emits sparks, and reassembles into a new fiery bird, repeating the cycle.\n\n14. **Fire Propagation in a 3D Office Floorplan**\n    Rooms and corridors are extruded boxes with doors and vents; a fire starts in one room, spreading via open doors and ceiling vents, heating air volumes that rise and flow, with smoke filling upper regions and visibility regions shown by transparency levels.\n\n15. **Floating Lanterns with Inner Flames**\n    Dozens of translucent paper lanterns rise from a plaza, each with a tiny internal flame cone that flickers and shifts color with air currents; lanterns gently collide, bounce, or attach into pairs, leaving soft-glow trails as they drift upward.\n\n16. **Plasma Fire in a Fusion Chamber**\n    A toroidal chamber holds a rotating plasma ring rendered as fiery filaments that twist and reconnect; magnetic field lines are drawn as colored loops that pull and confine the plasma, and instability pulses cause jets of fire-like plasma to briefly flare outward.\n\n17. **Candle Flame in a Sealed Glass Dome**\n    A candle on a stand burns with a steady flame, consuming oxygen represented by blue particle density in the dome; as oxygen decreases, the flame shrinks and changes color until it extinguishes, while an O₂ meter and CO₂ meter update in real time.\n\n18. **Forest Firefighting with Aerial Water Drops**\n    Trees on rolling terrain burn and send up smoke; a simple helicopter model moves along a controllable path, releasing semi-transparent water blobs that fall, splash, and cool burning trees, temporarily turning them blue and reducing flame particle emission.\n\n19. **Fire-Themed Energy Network in a City Grid**\n    A city map of nodes and links shows power stations as glowing furnaces; fiery energy pulses travel along lines, split at junctions, and fade as they reach buildings, with overloads causing bright flame bursts at nodes and automatic rerouting of pulses.\n\n20. **Dragon Breathing Fire at Moving Targets**\n    A dragon model at one side rotates its head and neck to track small flying target spheres; when aligned, it emits a conical stream of fire particles that expand and flicker, heating targets (color shift) until they “melt” and drip glowing droplets.\n\n21. **Ignition Front on a Rocket Launch Pad**\n    A rocket stands stationary above a flame trench; at ignition, expanding rings of fire and exhaust rush along the trench, bounce off walls, and dissipate, while the rocket’s base glows, a vibration meter spikes, and exhaust particles streak downward.\n\n22. **Burning Paper Scroll Unfolding**\n    A rolled paper strip gradually unrolls across a table while a small moving flame edge travels along it, charring the paper into curling black fragments that detach and fall, with embers glowing at the burn front and a progress bar showing remaining area.\n\n23. **Gas Leak Explosion in an Industrial Plant**\n    Tanks and pipes form a small plant; a gas cloud (transparent colored volume) slowly expands from a leak, then an ignition source causes a rapid fireball expansion, heat wave sphere, and shock wave ring, with pipes changing color where overheated.\n\n24. **Fireflies as Tiny Floating Sparks**\n    A meadow volume is filled with small glowing “firefly” spheres that pulse brightness, drift in flocking patterns, occasionally cluster into bright fire-like swarms, then disperse, leaving soft fading trails and lighting up nearby plants.\n\n25. **Firewall Visualization in a Data Center**\n    Server racks are arranged in rows with data packets as glowing sparks moving along cables; when malicious red sparks approach a firewall node, a ring of “flame” particles rises to block them, while safe blue sparks pass through and leave faint trails.",
+  "seeds": [
+    {
+      "number": "1",
+      "title": "Campfire Convection and Sparks",
+      "description": "A stack of semi-transparent wooden logs slowly blackens while orange-yellow flame particles rise, split, and fade, sparks shoot upward leaving brief trails, and a surrounding dome shows temperature gradients with color bands.",
+      "full_text": "Campfire Convection and Sparks: A stack of semi-transparent wooden logs slowly blackens while orange-yellow flame particles rise, split, and fade, sparks shoot upward leaving brief trails, and a surrounding dome shows temperature gradients with color bands."
+    },
+    {
+      "number": "2",
+      "title": "Spreading Forest Fire on a Hillside",
+      "description": "A sloped terrain mesh covered with small tree cylinders shows a fire front that ignites nearby trees based on distance and wind arrows, trees change color from green to red to black, and a top bar graph tracks burned area over time.",
+      "full_text": "Spreading Forest Fire on a Hillside: A sloped terrain mesh covered with small tree cylinders shows a fire front that ignites nearby trees based on distance and wind arrows, trees change color from green to red to black, and a top bar graph tracks burned area over time."
+    },
+    {
+      "number": "3",
+      "title": "Bunsen Burner and Metal Rod Heating",
+      "description": "A vertical blue flame cone from a burner heats a metal rod held by a clamp, with the rod gradually glowing red from the flame contact point outward, while a floating thermometer sphere changes color and a heat map plane shows conduction along the rod.",
+      "full_text": "Bunsen Burner and Metal Rod Heating: A vertical blue flame cone from a burner heats a metal rod held by a clamp, with the rod gradually glowing red from the flame contact point outward, while a floating thermometer sphere changes color and a heat map plane shows conduction along the rod."
+    },
+    {
+      "number": "4",
+      "title": "Rocket Engine Combustion Chamber",
+      "description": "A cylindrical combustion chamber receives blue fuel and red oxidizer particles from injectors, which mix, ignite into bright orange combustion zones, and exhaust through a nozzle as a high-speed glowing jet with velocity vector arrows and temperature labels.",
+      "full_text": "Rocket Engine Combustion Chamber: A cylindrical combustion chamber receives blue fuel and red oxidizer particles from injectors, which mix, ignite into bright orange combustion zones, and exhaust through a nozzle as a high-speed glowing jet with velocity vector arrows and temperature labels."
+    },
+    {
+      "number": "5",
+      "title": "Fireworks Shell Bursting in the Sky",
+      "description": "A rising shell sphere leaves a sparkling trail, then at the apex explodes into branching colored particle clusters that expand, fade, and fall, with gravity, small collisions, and a semi-transparent dome marking altitude rings.",
+      "full_text": "Fireworks Shell Bursting in the Sky: A rising shell sphere leaves a sparkling trail, then at the apex explodes into branching colored particle clusters that expand, fade, and fall, with gravity, small collisions, and a semi-transparent dome marking altitude rings."
+    },
+    {
+      "number": "6",
+      "title": "Microscopic Combustion Reaction in a Box",
+      "description": "Molecules representing fuel, oxygen, and products move and collide in a transparent box; when fuel and oxygen collide with enough speed they flash, merge into product spheres, release tiny flame particles, and increase a visible energy meter bar.",
+      "full_text": "Microscopic Combustion Reaction in a Box: Molecules representing fuel, oxygen, and products move and collide in a transparent box; when fuel and oxygen collide with enough speed they flash, merge into product spheres, release tiny flame particles, and increase a visible energy meter bar."
+    },
+    {
+      "number": "7",
+      "title": "Fire Tornado Over a Hot Ground Patch",
+      "description": "A circular heated plate on the ground emits orange flame particles while rotating air arrows form a vortex that pulls the flames into a spinning funnel, with adjustable rotation speed sliders and a side view showing airflow streamlines.",
+      "full_text": "Fire Tornado Over a Hot Ground Patch: A circular heated plate on the ground emits orange flame particles while rotating air arrows form a vortex that pulls the flames into a spinning funnel, with adjustable rotation speed sliders and a side view showing airflow streamlines."
+    },
+    {
+      "number": "8",
+      "title": "City Block Building Fire and Evacuation",
+      "description": "A cluster of box-buildings on a light ground plane has one building catching fire with spreading glowing windows, smoke particles rising, and small person-spheres moving along paths toward exits and meeting points, with labels for safe and danger zones.",
+      "full_text": "City Block Building Fire and Evacuation: A cluster of box-buildings on a light ground plane has one building catching fire with spreading glowing windows, smoke particles rising, and small person-spheres moving along paths toward exits and meeting points, with labels for safe and danger zones."
+    },
+    {
+      "number": "9",
+      "title": "Molten Metal Pouring from a Furnace",
+      "description": "A tilting furnace pours glowing orange liquid metal into molds; the liquid splashes, fills cavities, radiates heat shown by a color gradient, slowly solidifies from the edges inward, and releases small flame bursts where it touches cooler air.",
+      "full_text": "Molten Metal Pouring from a Furnace: A tilting furnace pours glowing orange liquid metal into molds; the liquid splashes, fills cavities, radiates heat shown by a color gradient, slowly solidifies from the edges inward, and releases small flame bursts where it touches cooler air."
+    },
+    {
+      "number": "10",
+      "title": "Fireball Orbiting a Magic Crystal",
+      "description": "A glowing crystal in the center emits a gently pulsing field; fireball spheres orbit it on varying paths, occasionally merging into larger orbs, splitting into smaller sparks, and leaving curved light trails that slowly fade.",
+      "full_text": "Fireball Orbiting a Magic Crystal: A glowing crystal in the center emits a gently pulsing field; fireball spheres orbit it on varying paths, occasionally merging into larger orbs, splitting into smaller sparks, and leaving curved light trails that slowly fade."
+    },
+    {
+      "number": "11",
+      "title": "Wildfire Jumping a Firebreak with Wind",
+      "description": "A patchy grass and shrub terrain has a cleared firebreak strip; flames advance across vegetation, die at the break unless wind arrows tilt and stretch the flames enough to ignite the opposite side, with a side panel showing wind speed and fireline length.",
+      "full_text": "Wildfire Jumping a Firebreak with Wind: A patchy grass and shrub terrain has a cleared firebreak strip; flames advance across vegetation, die at the break unless wind arrows tilt and stretch the flames enough to ignite the opposite side, with a side panel showing wind speed and fireline length."
+    },
+    {
+      "number": "12",
+      "title": "Chemical Lab Flame Test Colors",
+      "description": "A row of small burners under labeled metal salt samples produces flames that change color based on the sample hovering above (green, purple, orange, etc.), with each flame’s color bar graphed in a spectrum panel and particle emissions briefly matching the hue.",
+      "full_text": "Chemical Lab Flame Test Colors: A row of small burners under labeled metal salt samples produces flames that change color based on the sample hovering above (green, purple, orange, etc.), with each flame’s color bar graphed in a spectrum panel and particle emissions briefly matching the hue."
+    },
+    {
+      "number": "13",
+      "title": "Phoenix of Fire Regenerating from Ashes",
+      "description": "A stylized bird shape made of fire particles flaps and slowly disintegrates into gray ash spheres that fall and pile up; after a delay, the ash mound glows, emits sparks, and reassembles into a new fiery bird, repeating the cycle.",
+      "full_text": "Phoenix of Fire Regenerating from Ashes: A stylized bird shape made of fire particles flaps and slowly disintegrates into gray ash spheres that fall and pile up; after a delay, the ash mound glows, emits sparks, and reassembles into a new fiery bird, repeating the cycle."
+    },
+    {
+      "number": "14",
+      "title": "Fire Propagation in a 3D Office Floorplan",
+      "description": "Rooms and corridors are extruded boxes with doors and vents; a fire starts in one room, spreading via open doors and ceiling vents, heating air volumes that rise and flow, with smoke filling upper regions and visibility regions shown by transparency levels.",
+      "full_text": "Fire Propagation in a 3D Office Floorplan: Rooms and corridors are extruded boxes with doors and vents; a fire starts in one room, spreading via open doors and ceiling vents, heating air volumes that rise and flow, with smoke filling upper regions and visibility regions shown by transparency levels."
+    },
+    {
+      "number": "15",
+      "title": "Floating Lanterns with Inner Flames",
+      "description": "Dozens of translucent paper lanterns rise from a plaza, each with a tiny internal flame cone that flickers and shifts color with air currents; lanterns gently collide, bounce, or attach into pairs, leaving soft-glow trails as they drift upward.",
+      "full_text": "Floating Lanterns with Inner Flames: Dozens of translucent paper lanterns rise from a plaza, each with a tiny internal flame cone that flickers and shifts color with air currents; lanterns gently collide, bounce, or attach into pairs, leaving soft-glow trails as they drift upward."
+    },
+    {
+      "number": "16",
+      "title": "Plasma Fire in a Fusion Chamber",
+      "description": "A toroidal chamber holds a rotating plasma ring rendered as fiery filaments that twist and reconnect; magnetic field lines are drawn as colored loops that pull and confine the plasma, and instability pulses cause jets of fire-like plasma to briefly flare outward.",
+      "full_text": "Plasma Fire in a Fusion Chamber: A toroidal chamber holds a rotating plasma ring rendered as fiery filaments that twist and reconnect; magnetic field lines are drawn as colored loops that pull and confine the plasma, and instability pulses cause jets of fire-like plasma to briefly flare outward."
+    },
+    {
+      "number": "17",
+      "title": "Candle Flame in a Sealed Glass Dome",
+      "description": "A candle on a stand burns with a steady flame, consuming oxygen represented by blue particle density in the dome; as oxygen decreases, the flame shrinks and changes color until it extinguishes, while an O₂ meter and CO₂ meter update in real time.",
+      "full_text": "Candle Flame in a Sealed Glass Dome: A candle on a stand burns with a steady flame, consuming oxygen represented by blue particle density in the dome; as oxygen decreases, the flame shrinks and changes color until it extinguishes, while an O₂ meter and CO₂ meter update in real time."
+    },
+    {
+      "number": "18",
+      "title": "Forest Firefighting with Aerial Water Drops",
+      "description": "Trees on rolling terrain burn and send up smoke; a simple helicopter model moves along a controllable path, releasing semi-transparent water blobs that fall, splash, and cool burning trees, temporarily turning them blue and reducing flame particle emission.",
+      "full_text": "Forest Firefighting with Aerial Water Drops: Trees on rolling terrain burn and send up smoke; a simple helicopter model moves along a controllable path, releasing semi-transparent water blobs that fall, splash, and cool burning trees, temporarily turning them blue and reducing flame particle emission."
+    },
+    {
+      "number": "19",
+      "title": "Fire-Themed Energy Network in a City Grid",
+      "description": "A city map of nodes and links shows power stations as glowing furnaces; fiery energy pulses travel along lines, split at junctions, and fade as they reach buildings, with overloads causing bright flame bursts at nodes and automatic rerouting of pulses.",
+      "full_text": "Fire-Themed Energy Network in a City Grid: A city map of nodes and links shows power stations as glowing furnaces; fiery energy pulses travel along lines, split at junctions, and fade as they reach buildings, with overloads causing bright flame bursts at nodes and automatic rerouting of pulses."
+    },
+    {
+      "number": "20",
+      "title": "Dragon Breathing Fire at Moving Targets",
+      "description": "A dragon model at one side rotates its head and neck to track small flying target spheres; when aligned, it emits a conical stream of fire particles that expand and flicker, heating targets (color shift) until they “melt” and drip glowing droplets.",
+      "full_text": "Dragon Breathing Fire at Moving Targets: A dragon model at one side rotates its head and neck to track small flying target spheres; when aligned, it emits a conical stream of fire particles that expand and flicker, heating targets (color shift) until they “melt” and drip glowing droplets."
+    },
+    {
+      "number": "21",
+      "title": "Ignition Front on a Rocket Launch Pad",
+      "description": "A rocket stands stationary above a flame trench; at ignition, expanding rings of fire and exhaust rush along the trench, bounce off walls, and dissipate, while the rocket’s base glows, a vibration meter spikes, and exhaust particles streak downward.",
+      "full_text": "Ignition Front on a Rocket Launch Pad: A rocket stands stationary above a flame trench; at ignition, expanding rings of fire and exhaust rush along the trench, bounce off walls, and dissipate, while the rocket’s base glows, a vibration meter spikes, and exhaust particles streak downward."
+    },
+    {
+      "number": "22",
+      "title": "Burning Paper Scroll Unfolding",
+      "description": "A rolled paper strip gradually unrolls across a table while a small moving flame edge travels along it, charring the paper into curling black fragments that detach and fall, with embers glowing at the burn front and a progress bar showing remaining area.",
+      "full_text": "Burning Paper Scroll Unfolding: A rolled paper strip gradually unrolls across a table while a small moving flame edge travels along it, charring the paper into curling black fragments that detach and fall, with embers glowing at the burn front and a progress bar showing remaining area."
+    },
+    {
+      "number": "23",
+      "title": "Gas Leak Explosion in an Industrial Plant",
+      "description": "Tanks and pipes form a small plant; a gas cloud (transparent colored volume) slowly expands from a leak, then an ignition source causes a rapid fireball expansion, heat wave sphere, and shock wave ring, with pipes changing color where overheated.",
+      "full_text": "Gas Leak Explosion in an Industrial Plant: Tanks and pipes form a small plant; a gas cloud (transparent colored volume) slowly expands from a leak, then an ignition source causes a rapid fireball expansion, heat wave sphere, and shock wave ring, with pipes changing color where overheated."
+    },
+    {
+      "number": "24",
+      "title": "Fireflies as Tiny Floating Sparks",
+      "description": "A meadow volume is filled with small glowing “firefly” spheres that pulse brightness, drift in flocking patterns, occasionally cluster into bright fire-like swarms, then disperse, leaving soft fading trails and lighting up nearby plants.",
+      "full_text": "Fireflies as Tiny Floating Sparks: A meadow volume is filled with small glowing “firefly” spheres that pulse brightness, drift in flocking patterns, occasionally cluster into bright fire-like swarms, then disperse, leaving soft fading trails and lighting up nearby plants."
+    },
+    {
+      "number": "25",
+      "title": "Firewall Visualization in a Data Center",
+      "description": "Server racks are arranged in rows with data packets as glowing sparks moving along cables; when malicious red sparks approach a firewall node, a ring of “flame” particles rises to block them, while safe blue sparks pass through and leave faint trails.",
+      "full_text": "Firewall Visualization in a Data Center: Server racks are arranged in rows with data packets as glowing sparks moving along cables; when malicious red sparks approach a firewall node, a ring of “flame” particles rises to block them, while safe blue sparks pass through and leave faint trails."
+    }
+  ]
+}

@@ -435,18 +435,37 @@ def api_generate_simulation():
 
 @app.post("/api/batch")
 def api_batch_generate():
-    """Process multiple seed/code generation requests in order.
+    """Process two explicit queues in order.
 
-    Each request can provide either:
-    - phrase: generate seed ideas first, then optionally generate code from one parsed seed
-    - seed: skip seed generation and generate code directly from this simulation seed
+    Queue 1: seed_requests contains short words/phrases. Each line generates and saves
+    a seed JSON file.
 
-    The loop is intentionally synchronous and ordered so only one LLM call runs at a time.
+    Queue 2: code_requests contains full simulation seed/scene descriptions. Each line
+    generates and saves a runnable VPython script.
+
+    The function is intentionally synchronous and ordered, so only one LLM call starts
+    after the previous LLM call has finished.
     """
     payload = request.get_json(force=True)
-    raw_requests = payload.get("requests", [])
-    if not isinstance(raw_requests, list) or not raw_requests:
-        raise ValueError("Add at least one batch request.")
+    seed_requests = payload.get("seed_requests", [])
+    code_requests = payload.get("code_requests", [])
+
+    # Backward compatibility with the earlier single batch box format.
+    legacy_requests = payload.get("requests", [])
+    if legacy_requests and not seed_requests and not code_requests:
+        seed_requests = [str(item.get("phrase", "")).strip() for item in legacy_requests if isinstance(item, dict) and item.get("phrase")]
+        code_requests = [str(item.get("seed", "")).strip() for item in legacy_requests if isinstance(item, dict) and item.get("seed")]
+
+    if not isinstance(seed_requests, list):
+        raise ValueError("seed_requests must be a list.")
+    if not isinstance(code_requests, list):
+        raise ValueError("code_requests must be a list.")
+
+    seed_requests = [str(item).strip() for item in seed_requests if str(item).strip()]
+    code_requests = [str(item).strip() for item in code_requests if str(item).strip()]
+
+    if not seed_requests and not code_requests:
+        raise ValueError("Add at least one seed request or code request.")
 
     seed_model = str(payload.get("seed_model") or SEED_MODEL_DEFAULT).strip()
     simulation_model = str(payload.get("simulation_model") or SIMULATION_MODEL_DEFAULT).strip()
@@ -454,8 +473,6 @@ def api_batch_generate():
     simulation_temperature_value = payload.get("simulation_temperature", None)
     save_seeds = bool(payload.get("save_seeds", True))
     save_simulations = bool(payload.get("save_simulations", True))
-    generate_code = bool(payload.get("generate_code", True))
-    selected_seed_index = int(payload.get("selected_seed_index", 1) or 1)
 
     seed_temperature = (
         SEED_TEMPERATURE_DEFAULT
@@ -469,78 +486,77 @@ def api_batch_generate():
     )
 
     results: list[dict[str, Any]] = []
+    index = 0
 
-    for index, item in enumerate(raw_requests, start=1):
-        if not isinstance(item, dict):
-            results.append({"index": index, "status": "error", "error": "Invalid request item."})
-            continue
-
-        phrase = str(item.get("phrase", "")).strip()
-        direct_seed = str(item.get("seed", "")).strip()
-        label = phrase or direct_seed or f"request-{index}"
+    for phrase in seed_requests:
+        index += 1
         result: dict[str, Any] = {
             "index": index,
-            "label": label,
+            "queue": "seeds",
+            "label": phrase,
             "status": "started",
             "seed_download": None,
             "script_download": None,
             "run_url": None,
             "seed_count": 0,
-            "selected_seed": None,
         }
-
         try:
-            selected_seed_for_code = direct_seed
+            raw_seed_text = call_llm(
+                build_seed_prompt(phrase),
+                model=seed_model,
+                temperature=seed_temperature,
+            )
+            seeds = parse_seed_ideas(raw_seed_text)
+            result["seed_count"] = len(seeds)
+            result["raw_seed_text"] = raw_seed_text
+            result["seeds"] = seeds
 
-            if phrase:
-                raw_seed_text = call_llm(
-                    build_seed_prompt(phrase),
-                    model=seed_model,
-                    temperature=seed_temperature,
+            if save_seeds:
+                result["seed_download"] = save_json(
+                    {
+                        "created_at": datetime.now().isoformat(timespec="seconds"),
+                        "batch_index": index,
+                        "queue": "seeds",
+                        "phrase": phrase,
+                        "model": seed_model,
+                        "temperature": seed_temperature,
+                        "raw_text": raw_seed_text,
+                        "seeds": seeds,
+                    },
+                    f"batch-seeds-{index}-{phrase}-simulation-seeds",
                 )
-                seeds = parse_seed_ideas(raw_seed_text)
-                result["seed_count"] = len(seeds)
-                result["raw_seed_text"] = raw_seed_text
-                result["seeds"] = seeds
 
-                if save_seeds:
-                    result["seed_download"] = save_json(
-                        {
-                            "created_at": datetime.now().isoformat(timespec="seconds"),
-                            "batch_index": index,
-                            "phrase": phrase,
-                            "model": seed_model,
-                            "temperature": seed_temperature,
-                            "raw_text": raw_seed_text,
-                            "seeds": seeds,
-                        },
-                        f"batch-{index}-{phrase}-simulation-seeds",
-                    )
+            result["status"] = "complete"
+        except Exception as exc:
+            result["status"] = "error"
+            result["error"] = str(exc)
 
-                if not direct_seed:
-                    if seeds:
-                        safe_index = max(1, min(selected_seed_index, len(seeds))) - 1
-                        selected_seed_for_code = seeds[safe_index]["full_text"]
-                    else:
-                        selected_seed_for_code = raw_seed_text.strip()
+        results.append(result)
 
-            if generate_code:
-                if not selected_seed_for_code:
-                    raise ValueError("Request needs a phrase or a direct simulation seed.")
-
-                result["selected_seed"] = selected_seed_for_code
-                raw_simulation_text = call_llm(
-                    build_simulation_prompt(selected_seed_for_code),
-                    model=simulation_model,
-                    temperature=simulation_temperature,
-                )
-                source = extract_python_source(raw_simulation_text)
-                run_file = save_text(source, f"batch-{index}-vpython-simulation-{selected_seed_for_code}", ".py")
-                result["script_download"] = run_file if save_simulations else None
-                result["run_url"] = f"/run/{run_file}"
-                result["source_preview"] = source[:4000]
-                result["source_length"] = len(source)
-
+    for seed in code_requests:
+        index += 1
+        result = {
+            "index": index,
+            "queue": "code",
+            "label": seed,
+            "status": "started",
+            "seed_download": None,
+            "script_download": None,
+            "run_url": None,
+            "seed_count": 0,
+        }
+        try:
+            raw_simulation_text = call_llm(
+                build_simulation_prompt(seed),
+                model=simulation_model,
+                temperature=simulation_temperature,
+            )
+            source = extract_python_source(raw_simulation_text)
+            run_file = save_text(source, f"batch-code-{index}-vpython-simulation-{seed}", ".py")
+            result["script_download"] = run_file if save_simulations else None
+            result["run_url"] = f"/run/{run_file}"
+            result["source_preview"] = source[:4000]
+            result["source_length"] = len(source)
             result["status"] = "complete"
         except Exception as exc:
             result["status"] = "error"

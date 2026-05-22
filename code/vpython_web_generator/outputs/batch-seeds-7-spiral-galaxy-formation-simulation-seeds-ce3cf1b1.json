@@ -1,0 +1,161 @@
+{
+  "created_at": "2026-05-22T02:08:37",
+  "batch_index": 7,
+  "queue": "seeds",
+  "phrase": "spiral galaxy formation",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "raw_text": "Here are strong **spiral galaxy formation simulation inputs** you can plug into your prompt:\n\n1. **Protogalactic Cloud Collapse into a Spiral Disk**\n   A rotating, semi-transparent gas sphere slowly flattens into a bright spiral disk as particles lose vertical motion, form dense glowing clumps for star clusters, and leave fading trails that reveal the emerging spiral arms.\n\n2. **Star Particles Orbiting in Growing Spiral Arms**\n   Thousands of small spheres orbit a central mass while a rotating density wave pattern gently tugs them into two main spiral arms, with color-coded orbital speeds and thin trails that trace arm curvature over time.\n\n3. **Galaxy Merger Triggering Spiral Arm Formation**\n   Two colored, rotating star clouds approach, collide, and merge, flinging particles into tidal tails that wrap around a new shared center and slowly settle into a barred spiral, with labels marking each original galaxy.\n\n4. **Dark Matter Halo and Disk Interaction**\n   A large, faint, semi-transparent halo of dark matter particles surrounds a central luminous disk; the halo particles stay mostly stationary while the disk stars orbit and gradually align into spirals under the halo’s gravitational well.\n\n5. **Spiral Density Wave Traffic-Jam Analogy**\n   Star particles orbit smoothly while a rotating, invisible spiral density wave is shown as semi-transparent bands that temporarily slow and bunch stars together, making bright arm segments that move differently than individual star orbits.\n\n6. **Gas Compression and Starbirth Along Spiral Arms**\n   A rotating gas disk of translucent particles passes through fixed spiral shock fronts that compress the gas into bright blue knots, which then detach as new star clusters with glowing halos and short-lived particle outflows.\n\n7. **Barred Spiral Galaxy Formation from a Disk**\n   A uniform rotating stellar disk gradually develops a central elongated bar, with particles in the bar region changing to a new color and their orbits stretching, while outer particles are shepherded into trailing spiral arms extending from the bar ends.\n\n8. **Spiral Galaxy with Vertical Warp and Flaring**\n   A thin disk of star particles orbits a center while the outer regions slowly warp and bend above and below the midplane, with transparent grid rings marking radius and warping angle, and color-coding for height above the galactic plane.\n\n9. **Satellite Galaxy Inducing Spiral Arms**\n   A small, dense satellite galaxy (compact particle cluster) orbits and repeatedly passes by a larger stellar disk, tugging on disk particles to create and amplify spiral patterns, with curved, labeled lines showing the satellite’s past and future orbit.\n\n10. **Radial Infall and Angular Momentum Transfer**\n    Gas particles start in a diffuse sphere and fall inward under gravity, gaining tangential speed from slight initial rotation, gradually forming a rotating spiral disk while color-coded arrows show local angular momentum directions and magnitudes.\n\n11. **Multi-Arm vs Two-Arm Spiral Transition**\n    A rotating disk initially develops many weak spiral arms; over time, arms merge, split, and fade as particles re-distribute, leaving two dominant arms; arms are highlighted as semi-transparent colored bands that adapt to the evolving density pattern.\n\n12. **Spiral Galaxy with Central Black Hole Accretion**\n    A bright central sphere represents a black hole that slowly accretes nearby gas particles from the inner disk, creating a small glowing accretion ring, while outer star particles orbit in spiral arms and occasionally cross into the accretion zone and vanish.\n\n13. **Spiral Shock Fronts in a Rotating Gas Disk**\n    A flat disk of gas is given a rotating pattern of curved shock fronts (semi-transparent, slightly raised surfaces) that compress, heat, and color-shift gas particles as they pass through, then cool and fade as they move into the inter-arm regions.\n\n14. **Thick Disk Cooling into a Thin Spiral**\n    A puffed-up, thick rotating disk of randomly moving star particles gradually loses vertical energy (simulated by damping), collapsing toward the midplane and revealing sharper spiral structure, with color transitions from hot (thick) to cool (thin).\n\n15. **Spiral Galaxy Star Age and Color Gradient**\n    Star particles in a spiral disk carry an “age” that changes color from blue (young, in arms) to yellow/white (older, between arms) and red (old, near the center), while labels and a side legend box show the age-color mapping.\n\n16. **Gas Stripping and Asymmetric Spiral Formation**\n    A spiral disk flies through a wind of particles moving from one side, which strips away gas preferentially on that side, making lopsided spiral arms that bend away from the wind direction, with transparent arrows indicating the external flow.\n\n17. **Ring Galaxy to Spiral Transition After Collision**\n    A small intruder galaxy punches through a disk, creating an expanding ring of bright particles that later collapses and twists into spiral arms, with time-lapse markers (ghost rings) showing earlier positions of the expanding structure.\n\n18. **Spiral Galaxy from Random Stellar Swarm**\n    A large, initially disordered swarm of star particles with slight net rotation gradually settles into a rotating disk; collisions and near-misses (soft gravitational encounters) gently redirect orbits, and faint trails reveal the emergence of spiral structure.\n\n19. **Magnetic Fields Guiding Spiral Arm Gas**\n    Curved, semi-transparent line segments represent magnetic field lines wrapped around a rotating disk, with gas particles tending to slide and align along these lines, brightening where lines and spiral arms coincide and dimming in inter-arm gaps.\n\n20. **Spiral Galaxy with Rotating Pattern Speed Indicator**\n    A spiral disk orbits while a semi-transparent rotating spiral overlay (density wave pattern) moves at a different angular speed, with a side meter showing pattern speed vs. orbital speed and color-coded regions where they match (corotation radius).\n\n21. **Spiral Galaxy Cross-Section and Vertical Motions**\n    The galaxy is shown edge-on and face-on simultaneously (two offset disks), with particles bouncing slightly above and below the midplane as they orbit; trails and vertical color gradients highlight how spiral arm passages excite vertical motions.\n\n22. **Galactic Fountain Above Spiral Arms**\n    Supernova “events” pop randomly in spiral arms, kicking small batches of particles upward into arcs above the disk that then fall back, leaving short-lived glowing trails and forming a faint, patchy halo around the spiral structure.\n\n23. **Spiral Galaxy Gas Mixing and Metallicity Gradient**\n    Gas particles start with a radial color gradient (metal-poor outer, metal-rich inner); as the disk rotates, spiral arms mix gas through shearing and spiral shocks, gradually smoothing the gradient, with a side bar chart updating radial metallicity.\n\n24. **Symbolic Spiral Galaxy as a Living Network**\n    A stylized spiral made of nodes and links rotates slowly, with nodes (stars) pulsing and passing glowing particles (information) along spiral arms, occasionally detaching and reattaching links to form new branches while maintaining an overall spiral pattern.\n\n25. **Spiral Arms Sculpted by Moving Massive Clumps**\n    A small number of heavy, colored clumps orbit within a lighter stellar disk, dragging nearby particles and leaving behind bright, trailing wake patterns that gradually link up into spiral arms, with labels tracking each massive perturber’s path.",
+  "seeds": [
+    {
+      "number": "1",
+      "title": "Protogalactic Cloud Collapse into a Spiral Disk",
+      "description": "A rotating, semi-transparent gas sphere slowly flattens into a bright spiral disk as particles lose vertical motion, form dense glowing clumps for star clusters, and leave fading trails that reveal the emerging spiral arms.",
+      "full_text": "Protogalactic Cloud Collapse into a Spiral Disk: A rotating, semi-transparent gas sphere slowly flattens into a bright spiral disk as particles lose vertical motion, form dense glowing clumps for star clusters, and leave fading trails that reveal the emerging spiral arms."
+    },
+    {
+      "number": "2",
+      "title": "Star Particles Orbiting in Growing Spiral Arms",
+      "description": "Thousands of small spheres orbit a central mass while a rotating density wave pattern gently tugs them into two main spiral arms, with color-coded orbital speeds and thin trails that trace arm curvature over time.",
+      "full_text": "Star Particles Orbiting in Growing Spiral Arms: Thousands of small spheres orbit a central mass while a rotating density wave pattern gently tugs them into two main spiral arms, with color-coded orbital speeds and thin trails that trace arm curvature over time."
+    },
+    {
+      "number": "3",
+      "title": "Galaxy Merger Triggering Spiral Arm Formation",
+      "description": "Two colored, rotating star clouds approach, collide, and merge, flinging particles into tidal tails that wrap around a new shared center and slowly settle into a barred spiral, with labels marking each original galaxy.",
+      "full_text": "Galaxy Merger Triggering Spiral Arm Formation: Two colored, rotating star clouds approach, collide, and merge, flinging particles into tidal tails that wrap around a new shared center and slowly settle into a barred spiral, with labels marking each original galaxy."
+    },
+    {
+      "number": "4",
+      "title": "Dark Matter Halo and Disk Interaction",
+      "description": "A large, faint, semi-transparent halo of dark matter particles surrounds a central luminous disk; the halo particles stay mostly stationary while the disk stars orbit and gradually align into spirals under the halo’s gravitational well.",
+      "full_text": "Dark Matter Halo and Disk Interaction: A large, faint, semi-transparent halo of dark matter particles surrounds a central luminous disk; the halo particles stay mostly stationary while the disk stars orbit and gradually align into spirals under the halo’s gravitational well."
+    },
+    {
+      "number": "5",
+      "title": "Spiral Density Wave Traffic-Jam Analogy",
+      "description": "Star particles orbit smoothly while a rotating, invisible spiral density wave is shown as semi-transparent bands that temporarily slow and bunch stars together, making bright arm segments that move differently than individual star orbits.",
+      "full_text": "Spiral Density Wave Traffic-Jam Analogy: Star particles orbit smoothly while a rotating, invisible spiral density wave is shown as semi-transparent bands that temporarily slow and bunch stars together, making bright arm segments that move differently than individual star orbits."
+    },
+    {
+      "number": "6",
+      "title": "Gas Compression and Starbirth Along Spiral Arms",
+      "description": "A rotating gas disk of translucent particles passes through fixed spiral shock fronts that compress the gas into bright blue knots, which then detach as new star clusters with glowing halos and short-lived particle outflows.",
+      "full_text": "Gas Compression and Starbirth Along Spiral Arms: A rotating gas disk of translucent particles passes through fixed spiral shock fronts that compress the gas into bright blue knots, which then detach as new star clusters with glowing halos and short-lived particle outflows."
+    },
+    {
+      "number": "7",
+      "title": "Barred Spiral Galaxy Formation from a Disk",
+      "description": "A uniform rotating stellar disk gradually develops a central elongated bar, with particles in the bar region changing to a new color and their orbits stretching, while outer particles are shepherded into trailing spiral arms extending from the bar ends.",
+      "full_text": "Barred Spiral Galaxy Formation from a Disk: A uniform rotating stellar disk gradually develops a central elongated bar, with particles in the bar region changing to a new color and their orbits stretching, while outer particles are shepherded into trailing spiral arms extending from the bar ends."
+    },
+    {
+      "number": "8",
+      "title": "Spiral Galaxy with Vertical Warp and Flaring",
+      "description": "A thin disk of star particles orbits a center while the outer regions slowly warp and bend above and below the midplane, with transparent grid rings marking radius and warping angle, and color-coding for height above the galactic plane.",
+      "full_text": "Spiral Galaxy with Vertical Warp and Flaring: A thin disk of star particles orbits a center while the outer regions slowly warp and bend above and below the midplane, with transparent grid rings marking radius and warping angle, and color-coding for height above the galactic plane."
+    },
+    {
+      "number": "9",
+      "title": "Satellite Galaxy Inducing Spiral Arms",
+      "description": "A small, dense satellite galaxy (compact particle cluster) orbits and repeatedly passes by a larger stellar disk, tugging on disk particles to create and amplify spiral patterns, with curved, labeled lines showing the satellite’s past and future orbit.",
+      "full_text": "Satellite Galaxy Inducing Spiral Arms: A small, dense satellite galaxy (compact particle cluster) orbits and repeatedly passes by a larger stellar disk, tugging on disk particles to create and amplify spiral patterns, with curved, labeled lines showing the satellite’s past and future orbit."
+    },
+    {
+      "number": "10",
+      "title": "Radial Infall and Angular Momentum Transfer",
+      "description": "Gas particles start in a diffuse sphere and fall inward under gravity, gaining tangential speed from slight initial rotation, gradually forming a rotating spiral disk while color-coded arrows show local angular momentum directions and magnitudes.",
+      "full_text": "Radial Infall and Angular Momentum Transfer: Gas particles start in a diffuse sphere and fall inward under gravity, gaining tangential speed from slight initial rotation, gradually forming a rotating spiral disk while color-coded arrows show local angular momentum directions and magnitudes."
+    },
+    {
+      "number": "11",
+      "title": "Multi-Arm vs Two-Arm Spiral Transition",
+      "description": "A rotating disk initially develops many weak spiral arms; over time, arms merge, split, and fade as particles re-distribute, leaving two dominant arms; arms are highlighted as semi-transparent colored bands that adapt to the evolving density pattern.",
+      "full_text": "Multi-Arm vs Two-Arm Spiral Transition: A rotating disk initially develops many weak spiral arms; over time, arms merge, split, and fade as particles re-distribute, leaving two dominant arms; arms are highlighted as semi-transparent colored bands that adapt to the evolving density pattern."
+    },
+    {
+      "number": "12",
+      "title": "Spiral Galaxy with Central Black Hole Accretion",
+      "description": "A bright central sphere represents a black hole that slowly accretes nearby gas particles from the inner disk, creating a small glowing accretion ring, while outer star particles orbit in spiral arms and occasionally cross into the accretion zone and vanish.",
+      "full_text": "Spiral Galaxy with Central Black Hole Accretion: A bright central sphere represents a black hole that slowly accretes nearby gas particles from the inner disk, creating a small glowing accretion ring, while outer star particles orbit in spiral arms and occasionally cross into the accretion zone and vanish."
+    },
+    {
+      "number": "13",
+      "title": "Spiral Shock Fronts in a Rotating Gas Disk",
+      "description": "A flat disk of gas is given a rotating pattern of curved shock fronts (semi-transparent, slightly raised surfaces) that compress, heat, and color-shift gas particles as they pass through, then cool and fade as they move into the inter-arm regions.",
+      "full_text": "Spiral Shock Fronts in a Rotating Gas Disk: A flat disk of gas is given a rotating pattern of curved shock fronts (semi-transparent, slightly raised surfaces) that compress, heat, and color-shift gas particles as they pass through, then cool and fade as they move into the inter-arm regions."
+    },
+    {
+      "number": "14",
+      "title": "Thick Disk Cooling into a Thin Spiral",
+      "description": "A puffed-up, thick rotating disk of randomly moving star particles gradually loses vertical energy (simulated by damping), collapsing toward the midplane and revealing sharper spiral structure, with color transitions from hot (thick) to cool (thin).",
+      "full_text": "Thick Disk Cooling into a Thin Spiral: A puffed-up, thick rotating disk of randomly moving star particles gradually loses vertical energy (simulated by damping), collapsing toward the midplane and revealing sharper spiral structure, with color transitions from hot (thick) to cool (thin)."
+    },
+    {
+      "number": "15",
+      "title": "Spiral Galaxy Star Age and Color Gradient",
+      "description": "Star particles in a spiral disk carry an “age” that changes color from blue (young, in arms) to yellow/white (older, between arms) and red (old, near the center), while labels and a side legend box show the age-color mapping.",
+      "full_text": "Spiral Galaxy Star Age and Color Gradient: Star particles in a spiral disk carry an “age” that changes color from blue (young, in arms) to yellow/white (older, between arms) and red (old, near the center), while labels and a side legend box show the age-color mapping."
+    },
+    {
+      "number": "16",
+      "title": "Gas Stripping and Asymmetric Spiral Formation",
+      "description": "A spiral disk flies through a wind of particles moving from one side, which strips away gas preferentially on that side, making lopsided spiral arms that bend away from the wind direction, with transparent arrows indicating the external flow.",
+      "full_text": "Gas Stripping and Asymmetric Spiral Formation: A spiral disk flies through a wind of particles moving from one side, which strips away gas preferentially on that side, making lopsided spiral arms that bend away from the wind direction, with transparent arrows indicating the external flow."
+    },
+    {
+      "number": "17",
+      "title": "Ring Galaxy to Spiral Transition After Collision",
+      "description": "A small intruder galaxy punches through a disk, creating an expanding ring of bright particles that later collapses and twists into spiral arms, with time-lapse markers (ghost rings) showing earlier positions of the expanding structure.",
+      "full_text": "Ring Galaxy to Spiral Transition After Collision: A small intruder galaxy punches through a disk, creating an expanding ring of bright particles that later collapses and twists into spiral arms, with time-lapse markers (ghost rings) showing earlier positions of the expanding structure."
+    },
+    {
+      "number": "18",
+      "title": "Spiral Galaxy from Random Stellar Swarm",
+      "description": "A large, initially disordered swarm of star particles with slight net rotation gradually settles into a rotating disk; collisions and near-misses (soft gravitational encounters) gently redirect orbits, and faint trails reveal the emergence of spiral structure.",
+      "full_text": "Spiral Galaxy from Random Stellar Swarm: A large, initially disordered swarm of star particles with slight net rotation gradually settles into a rotating disk; collisions and near-misses (soft gravitational encounters) gently redirect orbits, and faint trails reveal the emergence of spiral structure."
+    },
+    {
+      "number": "19",
+      "title": "Magnetic Fields Guiding Spiral Arm Gas",
+      "description": "Curved, semi-transparent line segments represent magnetic field lines wrapped around a rotating disk, with gas particles tending to slide and align along these lines, brightening where lines and spiral arms coincide and dimming in inter-arm gaps.",
+      "full_text": "Magnetic Fields Guiding Spiral Arm Gas: Curved, semi-transparent line segments represent magnetic field lines wrapped around a rotating disk, with gas particles tending to slide and align along these lines, brightening where lines and spiral arms coincide and dimming in inter-arm gaps."
+    },
+    {
+      "number": "20",
+      "title": "Spiral Galaxy with Rotating Pattern Speed Indicator",
+      "description": "A spiral disk orbits while a semi-transparent rotating spiral overlay (density wave pattern) moves at a different angular speed, with a side meter showing pattern speed vs. orbital speed and color-coded regions where they match (corotation radius).",
+      "full_text": "Spiral Galaxy with Rotating Pattern Speed Indicator: A spiral disk orbits while a semi-transparent rotating spiral overlay (density wave pattern) moves at a different angular speed, with a side meter showing pattern speed vs. orbital speed and color-coded regions where they match (corotation radius)."
+    },
+    {
+      "number": "21",
+      "title": "Spiral Galaxy Cross-Section and Vertical Motions",
+      "description": "The galaxy is shown edge-on and face-on simultaneously (two offset disks), with particles bouncing slightly above and below the midplane as they orbit; trails and vertical color gradients highlight how spiral arm passages excite vertical motions.",
+      "full_text": "Spiral Galaxy Cross-Section and Vertical Motions: The galaxy is shown edge-on and face-on simultaneously (two offset disks), with particles bouncing slightly above and below the midplane as they orbit; trails and vertical color gradients highlight how spiral arm passages excite vertical motions."
+    },
+    {
+      "number": "22",
+      "title": "Galactic Fountain Above Spiral Arms",
+      "description": "Supernova “events” pop randomly in spiral arms, kicking small batches of particles upward into arcs above the disk that then fall back, leaving short-lived glowing trails and forming a faint, patchy halo around the spiral structure.",
+      "full_text": "Galactic Fountain Above Spiral Arms: Supernova “events” pop randomly in spiral arms, kicking small batches of particles upward into arcs above the disk that then fall back, leaving short-lived glowing trails and forming a faint, patchy halo around the spiral structure."
+    },
+    {
+      "number": "23",
+      "title": "Spiral Galaxy Gas Mixing and Metallicity Gradient",
+      "description": "Gas particles start with a radial color gradient (metal-poor outer, metal-rich inner); as the disk rotates, spiral arms mix gas through shearing and spiral shocks, gradually smoothing the gradient, with a side bar chart updating radial metallicity.",
+      "full_text": "Spiral Galaxy Gas Mixing and Metallicity Gradient: Gas particles start with a radial color gradient (metal-poor outer, metal-rich inner); as the disk rotates, spiral arms mix gas through shearing and spiral shocks, gradually smoothing the gradient, with a side bar chart updating radial metallicity."
+    },
+    {
+      "number": "24",
+      "title": "Symbolic Spiral Galaxy as a Living Network",
+      "description": "A stylized spiral made of nodes and links rotates slowly, with nodes (stars) pulsing and passing glowing particles (information) along spiral arms, occasionally detaching and reattaching links to form new branches while maintaining an overall spiral pattern.",
+      "full_text": "Symbolic Spiral Galaxy as a Living Network: A stylized spiral made of nodes and links rotates slowly, with nodes (stars) pulsing and passing glowing particles (information) along spiral arms, occasionally detaching and reattaching links to form new branches while maintaining an overall spiral pattern."
+    },
+    {
+      "number": "25",
+      "title": "Spiral Arms Sculpted by Moving Massive Clumps",
+      "description": "A small number of heavy, colored clumps orbit within a lighter stellar disk, dragging nearby particles and leaving behind bright, trailing wake patterns that gradually link up into spiral arms, with labels tracking each massive perturber’s path.",
+      "full_text": "Spiral Arms Sculpted by Moving Massive Clumps: A small number of heavy, colored clumps orbit within a lighter stellar disk, dragging nearby particles and leaving behind bright, trailing wake patterns that gradually link up into spiral arms, with labels tracking each massive perturber’s path."
+    }
+  ]
+}
