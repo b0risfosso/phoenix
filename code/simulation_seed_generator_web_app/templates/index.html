@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Simulation Seed Generator</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div>
+      <h1>Simulation Seed Generator</h1>
+      <p>Generate VPython simulation seed ideas from a word or phrase.</p>
+    </div>
+    <nav>
+      <a href="/">Generator</a>
+      <a href="/previous">Previous outputs</a>
+    </nav>
+  </header>
+
+  <main class="layout">
+    <section class="panel">
+      <h2>Single seed request</h2>
+      <label for="inputPhrase">Input word or phrase</label>
+      <input id="inputPhrase" type="text" placeholder="water, traffic flow, DNA, gravity, language">
+
+      <div class="grid two">
+        <div>
+          <label for="model">Model</label>
+          <input id="model" type="text" value="gpt-5.1">
+        </div>
+        <div>
+          <label for="temperature">Temperature</label>
+          <input id="temperature" type="number" value="0.9" step="0.1" min="0" max="2">
+        </div>
+      </div>
+
+      <label class="checkline">
+        <input id="saveOutput" type="checkbox" checked>
+        Save output as JSON
+      </label>
+
+      <button id="generateBtn">Generate simulation seeds</button>
+      <p id="singleStatus" class="status"></p>
+    </section>
+
+    <section class="panel">
+      <h2>Batch seed requests</h2>
+      <p class="small">Enter one word or phrase per line. Requests are processed sequentially.</p>
+      <label for="batchPhrases">Input phrases</label>
+      <textarea id="batchPhrases" rows="8" placeholder="water&#10;fire&#10;cell membrane&#10;language evolution"></textarea>
+      <button id="batchBtn">Generate batch seeds</button>
+      <p id="batchStatus" class="status"></p>
+    </section>
+
+    <section class="panel wide">
+      <div class="result-header">
+        <h2>Generated output</h2>
+        <button id="copyRawBtn" class="secondary" disabled>Copy raw output</button>
+      </div>
+      <div id="resultActions" class="actions"></div>
+      <div id="seedCards" class="cards"></div>
+      <pre id="rawOutput" class="raw"></pre>
+    </section>
+
+    <section class="panel wide">
+      <h2>Batch results</h2>
+      <div id="batchResults" class="cards"></div>
+    </section>
+  </main>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

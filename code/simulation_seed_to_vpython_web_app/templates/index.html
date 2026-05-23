@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Simulation Seed Reader + VPython Generator</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div>
+      <h1>Simulation Seed Reader + VPython Generator</h1>
+      <p>Read saved seed JSON files, choose a seed, generate a linked VPython script.</p>
+    </div>
+    <nav>
+      <a href="/">Seeds</a>
+    </nav>
+  </header>
+
+  <main class="layout">
+    <aside class="panel">
+      <h2>Saved seed files</h2>
+      <p class="small">Seed JSON files are read from the shared <code>simulation_shared_data/seeds/</code> folder.</p>
+      <button id="refreshSeedsBtn">Refresh seed files</button>
+      <div id="seedFileList" class="file-list"></div>
+    </aside>
+
+    <section class="panel wide">
+      <div class="result-header">
+        <div>
+          <h2 id="selectedSeedTitle">Select a seed file</h2>
+          <p id="selectedSeedMeta" class="meta"></p>
+        </div>
+        <div class="inline-controls">
+          <input id="scriptModel" type="text" value="gpt-5.5" title="Model">
+          <input id="scriptTemperature" type="text" placeholder="temperature optional" title="Temperature">
+        </div>
+      </div>
+
+      <div id="seedEntries" class="cards"></div>
+    </section>
+
+    <section class="panel wide">
+      <h2>All generated scripts</h2>
+      <button id="refreshScriptsBtn">Refresh scripts</button>
+      <div id="scriptList" class="cards"></div>
+    </section>
+  </main>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

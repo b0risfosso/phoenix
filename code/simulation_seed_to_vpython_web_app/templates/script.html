@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>View Script</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div>
+      <h1>View Script</h1>
+      <p id="filename">{{ filename }}</p>
+    </div>
+    <nav>
+      <a href="/">Seeds</a>
+      <a href="/editor/{{ filename }}">Edit</a>
+      <a href="/outputs/scripts/{{ filename }}">Download</a>
+      <a href="/run/{{ filename }}" target="_blank">Open and run</a>
+    </nav>
+  </header>
+  <main class="single">
+    <section class="panel">
+      <button id="copyBtn">Copy script</button>
+      <pre id="source" class="raw"></pre>
+    </section>
+  </main>
+  <script>
+    const filename = {{ filename|tojson }};
+  </script>
+  <script src="/static/script_view.js"></script>
+</body>
+</html>

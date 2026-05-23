@@ -1,0 +1,627 @@
+{
+  "version": 1,
+  "created_at": "2026-05-22T22:17:39",
+  "updated_at": "2026-05-23T08:54:08",
+  "root_id": "root",
+  "nodes": {
+    "root": {
+      "id": "root",
+      "kind": "core_sentence",
+      "sentence": "Create a core sentence to begin the simulation story tree.",
+      "title": "Root core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-22T22:17:39",
+      "updated_at": "2026-05-22T22:17:39"
+    },
+    "effdff35ce84": {
+      "id": "effdff35ce84",
+      "kind": "core_sentence",
+      "sentence": "A transparent 3D cell membrane contains moving ion channels that open and close as charged ions drift, collide, attach, cross the membrane, leave trails, and respond to an AI controller that changes modes such as balancing, pumping, mixing, orbiting, and chaos",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [
+        "3f7ae7809716",
+        "40d962894a0a",
+        "c8f1053a3c3f",
+        "a899445ca352",
+        "bcd9c43740c2",
+        "1e2a91472e3b",
+        "26dd29a74bc1",
+        "c21274fa4c5c",
+        "f29f2e87c510",
+        "76ab31a7afdb",
+        "72bf00c4bd9c",
+        "e8f6743f5bb6",
+        "28ac42239526",
+        "a743ddf6055d",
+        "88e9713cb172"
+      ],
+      "scripts": [
+        {
+          "id": "b74186c4c0",
+          "filename": "sentence-script-a-transparent-3d-cell-membrane-contains-moving-ion-channels-that-open-f50b1cda.py",
+          "note": "",
+          "created_at": "2026-05-22T22:19:16",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-22T22:18:20",
+      "updated_at": "2026-05-22T22:24:25"
+    },
+    "3f7ae7809716": {
+      "id": "3f7ae7809716",
+      "kind": "core_sentence",
+      "sentence": "The AI controller monitors ion concentration on both sides of the membrane and changes channel behavior to restore balance.",
+      "title": "Next sentence branch",
+      "parent_id": "effdff35ce84",
+      "children": [],
+      "scripts": [
+        {
+          "id": "25b1c00d19",
+          "filename": "sentence-script-the-ai-controller-monitors-ion-concentration-on-both-sides-of-the-memb-d1ef8b10.py",
+          "note": "",
+          "created_at": "2026-05-22T22:28:13",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-22T22:22:10",
+      "updated_at": "2026-05-22T22:28:13"
+    },
+    "40d962894a0a": {
+      "id": "40d962894a0a",
+      "kind": "core_sentence",
+      "sentence": "Sodium, potassium, calcium, and chloride ions are color-coded and leave fading trails as they move through the cell environment.",
+      "title": "Next sentence branch",
+      "parent_id": "effdff35ce84",
+      "children": [],
+      "scripts": [
+        {
+          "id": "b41c13f55f",
+          "filename": "sentence-script-sodium-potassium-calcium-and-chloride-ions-are-color-coded-and-leave-f-fd31342a.py",
+          "note": "",
+          "created_at": "2026-05-22T22:33:27",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-22T22:22:18",
+      "updated_at": "2026-05-22T22:33:27"
+    },
+    "c8f1053a3c3f": {
+      "id": "c8f1053a3c3f",
+      "kind": "core_sentence",
+      "sentence": "Some channels act like gates, some act like pumps, and others attract ions into orbit before releasing them across the membrane.",
+      "title": "Next sentence branch",
+      "parent_id": "effdff35ce84",
+      "children": [],
+      "scripts": [
+        {
+          "id": "985b0af97f",
+          "filename": "sentence-script-some-channels-act-like-gates-some-act-like-pumps-and-others-attract-io-6eaf744f.py",
+          "note": "",
+          "created_at": "2026-05-22T22:38:21",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-22T22:22:27",
+      "updated_at": "2026-05-22T22:38:21"
+    },
+    "a899445ca352": {
+      "id": "a899445ca352",
+      "kind": "core_sentence",
+      "sentence": "When the system enters chaos mode, channels flicker rapidly and ions scatter in unpredictable bursts around the membrane.",
+      "title": "Next sentence branch",
+      "parent_id": "effdff35ce84",
+      "children": [],
+      "scripts": [
+        {
+          "id": "418c8b3533",
+          "filename": "sentence-script-when-the-system-enters-chaos-mode-channels-flicker-rapidly-and-ions-sc-1d4c6d0a.py",
+          "note": "",
+          "created_at": "2026-05-23T00:41:52",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-22T22:22:36",
+      "updated_at": "2026-05-23T00:41:52"
+    },
+    "bcd9c43740c2": {
+      "id": "bcd9c43740c2",
+      "kind": "core_sentence",
+      "sentence": "In balancing mode, the simulation shows ions crossing until the inside and outside concentrations become nearly equal.",
+      "title": "Next sentence branch",
+      "parent_id": "effdff35ce84",
+      "children": [],
+      "scripts": [
+        {
+          "id": "386acea1d6",
+          "filename": "sentence-script-in-balancing-mode-the-simulation-shows-ions-crossing-until-the-inside-691aedd4.py",
+          "note": "",
+          "created_at": "2026-05-23T00:47:10",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-22T22:22:53",
+      "updated_at": "2026-05-23T00:47:10"
+    },
+    "1e2a91472e3b": {
+      "id": "1e2a91472e3b",
+      "kind": "core_sentence",
+      "sentence": "In pumping mode, selected channels force ions against the concentration gradient while glowing brighter with each transfer.",
+      "title": "Next sentence branch",
+      "parent_id": "effdff35ce84",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-22T22:23:01",
+      "updated_at": "2026-05-22T22:23:01"
+    },
+    "26dd29a74bc1": {
+      "id": "26dd29a74bc1",
+      "kind": "core_sentence",
+      "sentence": "In mixing mode, the AI opens many channels at once, causing clouds of ions to swirl and blend across the membrane boundary",
+      "title": "Next sentence branch",
+      "parent_id": "effdff35ce84",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-22T22:23:15",
+      "updated_at": "2026-05-22T22:23:15"
+    },
+    "c21274fa4c5c": {
+      "id": "c21274fa4c5c",
+      "kind": "core_sentence",
+      "sentence": "In orbiting mode, charged ions curve around active channels before either crossing the membrane or being repelled back outward.",
+      "title": "Next sentence branch",
+      "parent_id": "effdff35ce84",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-22T22:23:24",
+      "updated_at": "2026-05-22T22:23:24"
+    },
+    "f29f2e87c510": {
+      "id": "f29f2e87c510",
+      "kind": "core_sentence",
+      "sentence": "Collisions between ions create small sparks, direction changes, and brief ripples across the transparent membrane surface.",
+      "title": "Next sentence branch",
+      "parent_id": "effdff35ce84",
+      "children": [],
+      "scripts": [
+        {
+          "id": "fce5414023",
+          "filename": "sentence-script-collisions-between-ions-create-small-sparks-direction-changes-and-brie-0bb55667.py",
+          "note": "",
+          "created_at": "2026-05-23T00:54:10",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-22T22:23:31",
+      "updated_at": "2026-05-23T00:54:10"
+    },
+    "76ab31a7afdb": {
+      "id": "76ab31a7afdb",
+      "kind": "core_sentence",
+      "sentence": "Attached ions temporarily stick to channel openings before being pulled through, released, or knocked away by nearby particles.",
+      "title": "Next sentence branch",
+      "parent_id": "effdff35ce84",
+      "children": [],
+      "scripts": [
+        {
+          "id": "a617384090",
+          "filename": "sentence-script-attached-ions-temporarily-stick-to-channel-openings-before-being-pulle-f8cc8397.py",
+          "note": "",
+          "created_at": "2026-05-23T00:59:35",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-22T22:23:41",
+      "updated_at": "2026-05-23T00:59:35"
+    },
+    "72bf00c4bd9c": {
+      "id": "72bf00c4bd9c",
+      "kind": "core_sentence",
+      "sentence": "The membrane flexes slightly when many ions cross at once, making transport activity visible as waves across the cell surface.",
+      "title": "Next sentence branch",
+      "parent_id": "effdff35ce84",
+      "children": [],
+      "scripts": [
+        {
+          "id": "2e6eedd1be",
+          "filename": "sentence-script-the-membrane-flexes-slightly-when-many-ions-cross-at-once-making-trans-82bb5df9.py",
+          "note": "",
+          "created_at": "2026-05-23T01:06:33",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-22T22:23:51",
+      "updated_at": "2026-05-23T01:06:33"
+    },
+    "e8f6743f5bb6": {
+      "id": "e8f6743f5bb6",
+      "kind": "core_sentence",
+      "sentence": "A status panel displays the current AI mode, ion counts, membrane voltage, channel openness, and transport direction",
+      "title": "Next sentence branch",
+      "parent_id": "effdff35ce84",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-22T22:24:00",
+      "updated_at": "2026-05-22T22:24:00"
+    },
+    "28ac42239526": {
+      "id": "28ac42239526",
+      "kind": "core_sentence",
+      "sentence": "The ai can select individual channels, move them around the membrane, and watch how local ion traffic changes.",
+      "title": "Next sentence branch",
+      "parent_id": "effdff35ce84",
+      "children": [],
+      "scripts": [
+        {
+          "id": "71bdb9ae19",
+          "filename": "sentence-script-the-ai-can-select-individual-channels-move-them-around-the-membrane-an-1d7f1e89.py",
+          "note": "",
+          "created_at": "2026-05-23T01:12:52",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-22T22:24:09",
+      "updated_at": "2026-05-23T01:12:52"
+    },
+    "a743ddf6055d": {
+      "id": "a743ddf6055d",
+      "kind": "core_sentence",
+      "sentence": "Over time, the AI attempts to create stable gradients, then deliberately disrupts them to show how transport systems recover.",
+      "title": "Next sentence branch",
+      "parent_id": "effdff35ce84",
+      "children": [],
+      "scripts": [
+        {
+          "id": "2591070e2e",
+          "filename": "sentence-script-over-time-the-ai-attempts-to-create-stable-gradients-then-deliberately-bb7bedb7.py",
+          "note": "",
+          "created_at": "2026-05-23T01:21:54",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-22T22:24:18",
+      "updated_at": "2026-05-23T01:21:54"
+    },
+    "88e9713cb172": {
+      "id": "88e9713cb172",
+      "kind": "core_sentence",
+      "sentence": "The simulation becomes a living ion-traffic system where gates, particles, trails, and membrane voltage constantly reorganize each other.",
+      "title": "Next sentence branch",
+      "parent_id": "effdff35ce84",
+      "children": [],
+      "scripts": [
+        {
+          "id": "30447d4661",
+          "filename": "sentence-script-the-simulation-becomes-a-living-ion-traffic-system-where-gates-particl-472474ac.py",
+          "note": "",
+          "created_at": "2026-05-23T01:26:23",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-22T22:24:25",
+      "updated_at": "2026-05-23T01:26:23"
+    },
+    "93b30b0f7d3c": {
+      "id": "93b30b0f7d3c",
+      "kind": "core_sentence",
+      "sentence": "A transparent 3D cell undergoing mitosis as chromosomes condense, align, separate, and divide into two daughter cells.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [
+        "80d700c2c567",
+        "b81d0866f202",
+        "b485f03ee6bd",
+        "b9d55978ae85",
+        "ac0b4d16238a",
+        "3a8b5546c598",
+        "f0b51502634c",
+        "887b1fc9856a",
+        "accd6aeb9070",
+        "889063cb8ab2",
+        "341da137487c",
+        "e14099a22acd",
+        "9d897e681d0d",
+        "30fe3b0f7b17",
+        "318247fc6d22"
+      ],
+      "scripts": [
+        {
+          "id": "4894f07473",
+          "filename": "sentence-script-a-transparent-3d-cell-undergoing-mitosis-as-chromosomes-condense-align-3ee01453.py",
+          "note": "",
+          "created_at": "2026-05-23T01:51:12",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T01:44:41",
+      "updated_at": "2026-05-23T01:51:29"
+    },
+    "80d700c2c567": {
+      "id": "80d700c2c567",
+      "kind": "core_sentence",
+      "sentence": "Spindle fibers attach unevenly at first, forcing the cell to correct mistakes before separation can continue.",
+      "title": "Next sentence branch",
+      "parent_id": "93b30b0f7d3c",
+      "children": [],
+      "scripts": [
+        {
+          "id": "199dfeea6e",
+          "filename": "sentence-script-spindle-fibers-attach-unevenly-at-first-forcing-the-cell-to-correct-mi-47fd0eca.py",
+          "note": "",
+          "created_at": "2026-05-23T02:15:29",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T01:47:42",
+      "updated_at": "2026-05-23T02:15:29"
+    },
+    "b81d0866f202": {
+      "id": "b81d0866f202",
+      "kind": "core_sentence",
+      "sentence": "A glowing checkpoint pauses division until every chromosome is properly connected.",
+      "title": "Next sentence branch",
+      "parent_id": "93b30b0f7d3c",
+      "children": [],
+      "scripts": [
+        {
+          "id": "66fee1a719",
+          "filename": "sentence-script-a-glowing-checkpoint-pauses-division-until-every-chromosome-is-properl-89632494.py",
+          "note": "",
+          "created_at": "2026-05-23T07:28:02",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T01:47:54",
+      "updated_at": "2026-05-23T07:28:02"
+    },
+    "b485f03ee6bd": {
+      "id": "b485f03ee6bd",
+      "kind": "core_sentence",
+      "sentence": "The nuclear envelope dissolves into fragments that drift outward before later rebuilding around each new chromosome group.",
+      "title": "Next sentence branch",
+      "parent_id": "93b30b0f7d3c",
+      "children": [],
+      "scripts": [
+        {
+          "id": "c32ab83994",
+          "filename": "sentence-script-the-nuclear-envelope-dissolves-into-fragments-that-drift-outward-befor-0d2e9ecd.py",
+          "note": "",
+          "created_at": "2026-05-23T07:47:05",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T01:48:05",
+      "updated_at": "2026-05-23T07:47:05"
+    },
+    "b9d55978ae85": {
+      "id": "b9d55978ae85",
+      "kind": "core_sentence",
+      "sentence": "Microtubules grow, shrink, search, and reconnect as they pull chromosomes into a precise central line.",
+      "title": "Next sentence branch",
+      "parent_id": "93b30b0f7d3c",
+      "children": [],
+      "scripts": [
+        {
+          "id": "9b6cd08f77",
+          "filename": "sentence-script-microtubules-grow-shrink-search-and-reconnect-as-they-pull-chromosomes-df4d17f7.py",
+          "note": "",
+          "created_at": "2026-05-23T07:51:44",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T01:48:15",
+      "updated_at": "2026-05-23T07:51:44"
+    },
+    "ac0b4d16238a": {
+      "id": "ac0b4d16238a",
+      "kind": "core_sentence",
+      "sentence": "Some chromosomes lag behind, creating tension as the cell attempts to recover them before division finishes.",
+      "title": "Next sentence branch",
+      "parent_id": "93b30b0f7d3c",
+      "children": [],
+      "scripts": [
+        {
+          "id": "6de87de3b9",
+          "filename": "sentence-script-some-chromosomes-lag-behind-creating-tension-as-the-cell-attempts-to-r-eb796fa1.py",
+          "note": "",
+          "created_at": "2026-05-23T07:56:03",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T01:48:23",
+      "updated_at": "2026-05-23T07:56:03"
+    },
+    "3a8b5546c598": {
+      "id": "3a8b5546c598",
+      "kind": "core_sentence",
+      "sentence": "The cell membrane begins to tighten at the center, forming a visible cleavage furrow that slowly deepens.",
+      "title": "Next sentence branch",
+      "parent_id": "93b30b0f7d3c",
+      "children": [],
+      "scripts": [
+        {
+          "id": "803afa736a",
+          "filename": "sentence-script-the-cell-membrane-begins-to-tighten-at-the-center-forming-a-visible-cl-ada557fb.py",
+          "note": "",
+          "created_at": "2026-05-23T08:15:53",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T01:48:35",
+      "updated_at": "2026-05-23T08:15:53"
+    },
+    "f0b51502634c": {
+      "id": "f0b51502634c",
+      "kind": "core_sentence",
+      "sentence": "Cytoplasm, organelles, and small vesicles redistribute between the two emerging daughter cells.",
+      "title": "Next sentence branch",
+      "parent_id": "93b30b0f7d3c",
+      "children": [],
+      "scripts": [
+        {
+          "id": "90e8230431",
+          "filename": "sentence-script-cytoplasm-organelles-and-small-vesicles-redistribute-between-the-two-e-e5e0a43c.py",
+          "note": "",
+          "created_at": "2026-05-23T08:19:36",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T01:48:43",
+      "updated_at": "2026-05-23T08:19:36"
+    },
+    "887b1fc9856a": {
+      "id": "887b1fc9856a",
+      "kind": "core_sentence",
+      "sentence": "The two daughter cells briefly remain connected by a narrow bridge before finally separating.",
+      "title": "Next sentence branch",
+      "parent_id": "93b30b0f7d3c",
+      "children": [],
+      "scripts": [
+        {
+          "id": "db2fa16aa8",
+          "filename": "sentence-script-the-two-daughter-cells-briefly-remain-connected-by-a-narrow-bridge-bef-6392441e.py",
+          "note": "",
+          "created_at": "2026-05-23T08:27:12",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T01:48:51",
+      "updated_at": "2026-05-23T08:27:12"
+    },
+    "accd6aeb9070": {
+      "id": "accd6aeb9070",
+      "kind": "core_sentence",
+      "sentence": "A repair system scans for misplaced or damaged chromosomes before the new nuclei fully form.",
+      "title": "Next sentence branch",
+      "parent_id": "93b30b0f7d3c",
+      "children": [],
+      "scripts": [
+        {
+          "id": "6b82a414da",
+          "filename": "sentence-script-a-repair-system-scans-for-misplaced-or-damaged-chromosomes-before-the-72f62aaa.py",
+          "note": "",
+          "created_at": "2026-05-23T08:30:15",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T01:49:03",
+      "updated_at": "2026-05-23T08:30:15"
+    },
+    "889063cb8ab2": {
+      "id": "889063cb8ab2",
+      "kind": "core_sentence",
+      "sentence": "The chromosomes pulse with color as tension increases between opposite spindle poles.",
+      "title": "Next sentence branch",
+      "parent_id": "93b30b0f7d3c",
+      "children": [],
+      "scripts": [
+        {
+          "id": "77a7d2ce1a",
+          "filename": "sentence-script-the-chromosomes-pulse-with-color-as-tension-increases-between-opposite-e8f66d12.py",
+          "note": "",
+          "created_at": "2026-05-23T08:34:04",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T01:49:11",
+      "updated_at": "2026-05-23T08:34:04"
+    },
+    "341da137487c": {
+      "id": "341da137487c",
+      "kind": "core_sentence",
+      "sentence": "The division process becomes unstable when one spindle pole pulls harder than the other.",
+      "title": "Next sentence branch",
+      "parent_id": "93b30b0f7d3c",
+      "children": [],
+      "scripts": [
+        {
+          "id": "654e75225d",
+          "filename": "sentence-script-the-division-process-becomes-unstable-when-one-spindle-pole-pulls-hard-db870d8f.py",
+          "note": "",
+          "created_at": "2026-05-23T08:38:28",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T01:49:20",
+      "updated_at": "2026-05-23T08:38:28"
+    },
+    "e14099a22acd": {
+      "id": "e14099a22acd",
+      "kind": "core_sentence",
+      "sentence": "The cell responds to internal stress by slowing, pausing, or reversing parts of the division process.",
+      "title": "Next sentence branch",
+      "parent_id": "93b30b0f7d3c",
+      "children": [],
+      "scripts": [
+        {
+          "id": "cd4a39a396",
+          "filename": "sentence-script-the-cell-responds-to-internal-stress-by-slowing-pausing-or-reversing-p-6653369a.py",
+          "note": "",
+          "created_at": "2026-05-23T08:41:28",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T01:49:29",
+      "updated_at": "2026-05-23T08:41:28"
+    },
+    "9d897e681d0d": {
+      "id": "9d897e681d0d",
+      "kind": "core_sentence",
+      "sentence": "A wave of membrane contraction travels around the cell surface as cytokinesis begins.",
+      "title": "Next sentence branch",
+      "parent_id": "93b30b0f7d3c",
+      "children": [],
+      "scripts": [
+        {
+          "id": "fd65769873",
+          "filename": "sentence-script-a-wave-of-membrane-contraction-travels-around-the-cell-surface-as-cyto-82c40330.py",
+          "note": "",
+          "created_at": "2026-05-23T08:46:27",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T01:49:39",
+      "updated_at": "2026-05-23T08:46:27"
+    },
+    "30fe3b0f7b17": {
+      "id": "30fe3b0f7b17",
+      "kind": "core_sentence",
+      "sentence": "The surrounding environment applies pressure, changing the shape and symmetry of the dividing cell.",
+      "title": "Next sentence branch",
+      "parent_id": "93b30b0f7d3c",
+      "children": [],
+      "scripts": [
+        {
+          "id": "d5383b78ea",
+          "filename": "sentence-script-the-surrounding-environment-applies-pressure-changing-the-shape-and-sy-48cdb7b6.py",
+          "note": "",
+          "created_at": "2026-05-23T08:50:25",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T01:49:48",
+      "updated_at": "2026-05-23T08:50:25"
+    },
+    "318247fc6d22": {
+      "id": "318247fc6d22",
+      "kind": "core_sentence",
+      "sentence": "After division, the daughter cells begin to drift apart, grow, and prepare for another cycle.",
+      "title": "Next sentence branch",
+      "parent_id": "93b30b0f7d3c",
+      "children": [],
+      "scripts": [
+        {
+          "id": "87ab65017b",
+          "filename": "sentence-script-after-division-the-daughter-cells-begin-to-drift-apart-grow-and-prepar-3c681ccd.py",
+          "note": "",
+          "created_at": "2026-05-23T08:54:08",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T01:49:55",
+      "updated_at": "2026-05-23T08:54:08"
+    }
+  }
+}

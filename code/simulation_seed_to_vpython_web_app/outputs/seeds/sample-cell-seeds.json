@@ -1,0 +1,22 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "sample cell",
+  "model": "sample",
+  "temperature": 0.9,
+  "created_at": "2026-05-22T00:00:00",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Organelle Traffic Inside a Cell",
+      "description": "A transparent cell sphere contains glowing organelles, vesicles carrying cargo, moving microtubule roads, and labeled traffic checkpoints.",
+      "seed": "Organelle Traffic Inside a Cell: A transparent cell sphere contains glowing organelles, vesicles carrying cargo, moving microtubule roads, and labeled traffic checkpoints."
+    },
+    {
+      "number": "2",
+      "title": "Cell Membrane Repair Crew",
+      "description": "A flexible membrane is punctured by particles, then repair proteins rush in, attach patches, seal holes, and leave colored repair markers.",
+      "seed": "Cell Membrane Repair Crew: A flexible membrane is punctured by particles, then repair proteins rush in, attach patches, seal holes, and leave colored repair markers."
+    }
+  ],
+  "raw_output": "Here are strong **sample cell simulation inputs** you can plug into your prompt:\n\n1. **Organelle Traffic Inside a Cell**\n   A transparent cell sphere contains glowing organelles, vesicles carrying cargo, moving microtubule roads, and labeled traffic checkpoints.\n\n2. **Cell Membrane Repair Crew**\n   A flexible membrane is punctured by particles, then repair proteins rush in, attach patches, seal holes, and leave colored repair markers."
+}

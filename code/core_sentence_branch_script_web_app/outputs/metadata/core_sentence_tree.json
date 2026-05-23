@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "created_at": "2026-05-22T00:00:00",
+  "updated_at": "2026-05-22T00:00:00",
+  "root_id": "root",
+  "nodes": {
+    "root": {
+      "id": "root",
+      "kind": "core_sentence",
+      "sentence": "A transparent 3D cell contains moving particles that organize into visible patterns.",
+      "title": "Sample root core sentence",
+      "parent_id": null,
+      "children": [
+        "samplechild001"
+      ],
+      "scripts": [
+        {
+          "id": "samplescript001",
+          "filename": "sample-sentence-script.py",
+          "note": "A simple placeholder script tied to the root sentence.",
+          "created_at": "2026-05-22T00:00:00",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-22T00:00:00",
+      "updated_at": "2026-05-22T00:00:00"
+    },
+    "samplechild001": {
+      "id": "samplechild001",
+      "kind": "core_sentence",
+      "sentence": "The particles begin leaving trails that reveal how the pattern formed.",
+      "title": "Sample next sentence branch",
+      "parent_id": "root",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-22T00:00:00",
+      "updated_at": "2026-05-22T00:00:00"
+    }
+  }
+}

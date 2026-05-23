@@ -1,0 +1,16 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "sample water",
+  "model": "sample",
+  "temperature": 0.9,
+  "created_at": "2026-05-22T00:00:00",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Water Droplets Sorting by Surface Tension",
+      "description": "Transparent droplets slide across tilted panels, merge into larger beads, split at gates, and leave blue trails showing flow history.",
+      "seed": "Water Droplets Sorting by Surface Tension: Transparent droplets slide across tilted panels, merge into larger beads, split at gates, and leave blue trails showing flow history."
+    }
+  ],
+  "raw_output": "Here are strong **sample water simulation inputs** you can plug into your prompt:\n\n1. **Water Droplets Sorting by Surface Tension**\n   Transparent droplets slide across tilted panels, merge into larger beads, split at gates, and leave blue trails showing flow history."
+}

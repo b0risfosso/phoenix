@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "biological cell",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-22T18:39:24",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Cell Membrane with Moving Ion Channels",
+      "description": "A large transparent sphere acts as a cell membrane with colored “ion channel” cylinders that open and close, letting small charged spheres drift through, bounce, and leave trails while a simple meter shows inside vs. outside ion counts.",
+      "seed": "Cell Membrane with Moving Ion Channels: A large transparent sphere acts as a cell membrane with colored “ion channel” cylinders that open and close, letting small charged spheres drift through, bounce, and leave trails while a simple meter shows inside vs. outside ion counts."
+    },
+    {
+      "number": "2",
+      "title": "3D Cell with Organelles and Cytoplasmic Flow",
+      "description": "A semi-transparent cell sphere contains a nucleus, mitochondria, vesicles, and ribosomes, where vesicles float along curved paths, gently collide and bounce off organelles, and leave faint trails while labels hover over each structure.",
+      "seed": "3D Cell with Organelles and Cytoplasmic Flow: A semi-transparent cell sphere contains a nucleus, mitochondria, vesicles, and ribosomes, where vesicles float along curved paths, gently collide and bounce off organelles, and leave faint trails while labels hover over each structure."
+    },
+    {
+      "number": "3",
+      "title": "Cell Division (Mitosis) Animation",
+      "description": "A single cell sphere with a central duplicated chromosome cluster stretches, forms spindle fibers (thin rods) that pull chromosome spheres apart, and the whole cell pinches into two daughter cells that detach and drift slightly apart.",
+      "seed": "Cell Division (Mitosis) Animation: A single cell sphere with a central duplicated chromosome cluster stretches, forms spindle fibers (thin rods) that pull chromosome spheres apart, and the whole cell pinches into two daughter cells that detach and drift slightly apart."
+    },
+    {
+      "number": "4",
+      "title": "Vesicle Trafficking Along Microtubules",
+      "description": "Long microtubule “tracks” radiate from a central centrosome, with small vesicle spheres “walking” along them via stepwise motion, sometimes detaching, switching tracks, and fusing with a target membrane sphere that changes color where fusion occurs.",
+      "seed": "Vesicle Trafficking Along Microtubules: Long microtubule “tracks” radiate from a central centrosome, with small vesicle spheres “walking” along them via stepwise motion, sometimes detaching, switching tracks, and fusing with a target membrane sphere that changes color where fusion occurs."
+    },
+    {
+      "number": "5",
+      "title": "Endocytosis and Exocytosis at the Membrane",
+      "description": "A cell sphere with many small external particles shows membrane regions curving in to wrap and pinch off endocytic vesicles, while internal vesicles move outward and merge with the membrane to release particles that scatter and slowly diffuse away.",
+      "seed": "Endocytosis and Exocytosis at the Membrane: A cell sphere with many small external particles shows membrane regions curving in to wrap and pinch off endocytic vesicles, while internal vesicles move outward and merge with the membrane to release particles that scatter and slowly diffuse away."
+    },
+    {
+      "number": "6",
+      "title": "Mitochondria as Dynamic Power Stations",
+      "description": "Multiple elongated mitochondria shapes inside a cell gently move, split, and merge, with glowing particles streaming into them and dimmer particles emitted, while their brightness fluctuates to show changing activity and a label shows “ATP level.”",
+      "seed": "Mitochondria as Dynamic Power Stations: Multiple elongated mitochondria shapes inside a cell gently move, split, and merge, with glowing particles streaming into them and dimmer particles emitted, while their brightness fluctuates to show changing activity and a label shows “ATP level.”"
+    },
+    {
+      "number": "7",
+      "title": "Immune Cell Chasing a Bacterium",
+      "description": "A deformable immune cell blob slowly moves toward a smaller bacterium capsule, extending and retracting pseudopod-like protrusions; upon collision it wraps around and engulfs the bacterium, which fades as digestion particles swirl inside.",
+      "seed": "Immune Cell Chasing a Bacterium: A deformable immune cell blob slowly moves toward a smaller bacterium capsule, extending and retracting pseudopod-like protrusions; upon collision it wraps around and engulfs the bacterium, which fades as digestion particles swirl inside."
+    },
+    {
+      "number": "8",
+      "title": "Calcium Wave Signaling in a Cell",
+      "description": "A network of thin internal compartments (ER-like tubes) inside a cell lights up with a traveling calcium wave: small bright particles rapidly spread, bounce at boundaries, then are reabsorbed into pumps, as a color bar tracks local calcium concentration over time.",
+      "seed": "Calcium Wave Signaling in a Cell: A network of thin internal compartments (ER-like tubes) inside a cell lights up with a traveling calcium wave: small bright particles rapidly spread, bounce at boundaries, then are reabsorbed into pumps, as a color bar tracks local calcium concentration over time."
+    },
+    {
+      "number": "9",
+      "title": "3D Cell Cycle Clock with Growing Cell",
+      "description": "A single cell sphere gradually grows in size and changes color as it progresses through labeled phases (G1, S, G2, M) on a circular “clock” ring beside it; during S phase tiny DNA dots duplicate, and during M phase the cell splits into two smaller spheres.",
+      "seed": "3D Cell Cycle Clock with Growing Cell: A single cell sphere gradually grows in size and changes color as it progresses through labeled phases (G1, S, G2, M) on a circular “clock” ring beside it; during S phase tiny DNA dots duplicate, and during M phase the cell splits into two smaller spheres."
+    },
+    {
+      "number": "10",
+      "title": "Cell Swarm Communication in Tissue",
+      "description": "Dozens of small cells float and gently jostle in a transparent box, emitting and absorbing colored signal particles; when one cell receives above-threshold signals, it glows brighter and triggers neighboring cells to light up in a spreading wave.",
+      "seed": "Cell Swarm Communication in Tissue: Dozens of small cells float and gently jostle in a transparent box, emitting and absorbing colored signal particles; when one cell receives above-threshold signals, it glows brighter and triggers neighboring cells to light up in a spreading wave."
+    },
+    {
+      "number": "11",
+      "title": "Mechanical Model of a Cell as a Soft Capsule",
+      "description": "A cell is represented as a soft sphere made of many connected small beads that can stretch and compress as it squeezes through a narrow channel, with internal particles shifting and colliding as the membrane deforms and then relaxes.",
+      "seed": "Mechanical Model of a Cell as a Soft Capsule: A cell is represented as a soft sphere made of many connected small beads that can stretch and compress as it squeezes through a narrow channel, with internal particles shifting and colliding as the membrane deforms and then relaxes."
+    },
+    {
+      "number": "12",
+      "title": "Lysosome Fusion and Cargo Degradation",
+      "description": "Fluorescent cargo vesicles containing colored particles move randomly until they collide with larger acidic lysosome spheres, which they fuse with; inside, cargo particles slowly shrink and disappear while the lysosome briefly glows brighter.",
+      "seed": "Lysosome Fusion and Cargo Degradation: Fluorescent cargo vesicles containing colored particles move randomly until they collide with larger acidic lysosome spheres, which they fuse with; inside, cargo particles slowly shrink and disappear while the lysosome briefly glows brighter."
+    },
+    {
+      "number": "13",
+      "title": "Cellular Conveyor Belt: Golgi Apparatus",
+      "description": "Stacked, curved Golgi cisternae are shown as layered translucent plates, with vesicles attaching to the cis side, moving from one cisterna to the next, changing color as they “mature,” then detaching and shooting off toward the membrane.",
+      "seed": "Cellular Conveyor Belt: Golgi Apparatus: Stacked, curved Golgi cisternae are shown as layered translucent plates, with vesicles attaching to the cis side, moving from one cisterna to the next, changing color as they “mature,” then detaching and shooting off toward the membrane."
+    },
+    {
+      "number": "14",
+      "title": "Cell as a Miniature Factory with Energy Flows",
+      "description": "A stylized cell shows mitochondria, ribosomes, and nucleus as factory stations connected by glowing “energy” streams; raw material particles enter from the membrane, travel along paths, collide with stations, and emerge as “product” particles that exit the cell.",
+      "seed": "Cell as a Miniature Factory with Energy Flows: A stylized cell shows mitochondria, ribosomes, and nucleus as factory stations connected by glowing “energy” streams; raw material particles enter from the membrane, travel along paths, collide with stations, and emerge as “product” particles that exit the cell."
+    },
+    {
+      "number": "15",
+      "title": "Cytoskeleton Remodeling and Cell Shape Change",
+      "description": "A cell sphere is filled with dynamic actin filaments represented by flexible rods that grow, shrink, and branch; as filaments elongate at one side and disassemble at another, the overall cell shape bulges, retracts, and slowly crawls across the floor.",
+      "seed": "Cytoskeleton Remodeling and Cell Shape Change: A cell sphere is filled with dynamic actin filaments represented by flexible rods that grow, shrink, and branch; as filaments elongate at one side and disassemble at another, the overall cell shape bulges, retracts, and slowly crawls across the floor."
+    },
+    {
+      "number": "16",
+      "title": "Cell Adhesion and Detachment on a Surface",
+      "description": "Several cells rest on a flat surface plane, tethered by short “adhesion” springs that can attach and break; as external flow (gentle directional push) acts, some cells slide, roll, or detach and drift away, with adhesion springs stretching and snapping.",
+      "seed": "Cell Adhesion and Detachment on a Surface: Several cells rest on a flat surface plane, tethered by short “adhesion” springs that can attach and break; as external flow (gentle directional push) acts, some cells slide, roll, or detach and drift away, with adhesion springs stretching and snapping."
+    },
+    {
+      "number": "17",
+      "title": "Stem Cell Differentiation with Color States",
+      "description": "A cluster of identical pale cells slowly changes as some receive “signals” (colored particles) and transition into distinct types with new colors and shapes; neighboring cells are more likely to differentiate when close to an already changed cell, creating branching patterns.",
+      "seed": "Stem Cell Differentiation with Color States: A cluster of identical pale cells slowly changes as some receive “signals” (colored particles) and transition into distinct types with new colors and shapes; neighboring cells are more likely to differentiate when close to an already changed cell, creating branching patterns."
+    },
+    {
+      "number": "18",
+      "title": "Virus Entry into a Host Cell",
+      "description": "Virus particles with spiky shells drift toward a larger cell, bind to specific receptor spots on its membrane, then either inject a glowing “genome” filament that spreads inside or are endocytosed into vesicles that move toward the center and release contents.",
+      "seed": "Virus Entry into a Host Cell: Virus particles with spiky shells drift toward a larger cell, bind to specific receptor spots on its membrane, then either inject a glowing “genome” filament that spreads inside or are endocytosed into vesicles that move toward the center and release contents."
+    },
+    {
+      "number": "19",
+      "title": "3D Osmosis and Cell Swelling/Shrinking",
+      "description": "A cell sphere in a box with many water particles outside and fewer inside shows water particles crossing the semi-permeable membrane; as flows change, the cell slowly swells or shrinks, with a radial grid and numeric label tracking cell volume.",
+      "seed": "3D Osmosis and Cell Swelling/Shrinking: A cell sphere in a box with many water particles outside and fewer inside shows water particles crossing the semi-permeable membrane; as flows change, the cell slowly swells or shrinks, with a radial grid and numeric label tracking cell volume."
+    },
+    {
+      "number": "20",
+      "title": "Neuronal Cell Body with Branching Dendrites",
+      "description": "A central cell body sphere sprouts branching cylindrical dendrites and a long axon; signal particles start at synapse spheres, travel along dendrites toward the cell body, then trigger a bright pulse that races along the axon, leaving a fading trail.",
+      "seed": "Neuronal Cell Body with Branching Dendrites: A central cell body sphere sprouts branching cylindrical dendrites and a long axon; signal particles start at synapse spheres, travel along dendrites toward the cell body, then trigger a bright pulse that races along the axon, leaving a fading trail."
+    },
+    {
+      "number": "21",
+      "title": "Cellular Autophagy: Recycling Damaged Parts",
+      "description": "Damaged organelles marked by flickering colors float inside a cell until a double-membrane “autophagosome” shell grows around them, wraps and closes, then moves to fuse with a lysosome, where the contents dissolve into smaller recyclable particles.",
+      "seed": "Cellular Autophagy: Recycling Damaged Parts: Damaged organelles marked by flickering colors float inside a cell until a double-membrane “autophagosome” shell grows around them, wraps and closes, then moves to fuse with a lysosome, where the contents dissolve into smaller recyclable particles."
+    },
+    {
+      "number": "22",
+      "title": "3D Cell Colony Growing and Packing",
+      "description": "Starting from a single cell on a flat surface, cells periodically replicate into two that gently push, collide, and rearrange, forming an expanding dome-shaped colony whose overall boundary is highlighted and whose inner cells become more tightly packed over time.",
+      "seed": "3D Cell Colony Growing and Packing: Starting from a single cell on a flat surface, cells periodically replicate into two that gently push, collide, and rearrange, forming an expanding dome-shaped colony whose overall boundary is highlighted and whose inner cells become more tightly packed over time."
+    },
+    {
+      "number": "23",
+      "title": "Cell as a City: Metaphorical Traffic Map",
+      "description": "A cell is visualized like a small city with a central “city hall” nucleus, power plant mitochondria, and road-like cytoskeletal tracks; different colored vehicles (vesicles) follow these tracks, stop at “stations,” transfer cargo, and occasionally collide and reroute.",
+      "seed": "Cell as a City: Metaphorical Traffic Map: A cell is visualized like a small city with a central “city hall” nucleus, power plant mitochondria, and road-like cytoskeletal tracks; different colored vehicles (vesicles) follow these tracks, stop at “stations,” transfer cargo, and occasionally collide and reroute."
+    },
+    {
+      "number": "24",
+      "title": "Apoptotic Cell Fragmentation and Cleanup",
+      "description": "A healthy cell sphere gradually shrinks, its membrane blebs into small bubbles, and internal structures condense; the cell breaks into many apoptotic bodies that drift away until neighboring scavenger cells engulf and clear them.",
+      "seed": "Apoptotic Cell Fragmentation and Cleanup: A healthy cell sphere gradually shrinks, its membrane blebs into small bubbles, and internal structures condense; the cell breaks into many apoptotic bodies that drift away until neighboring scavenger cells engulf and clear them."
+    },
+    {
+      "number": "25",
+      "title": "Signal Receptor Scanning and Activation on Membrane",
+      "description": "Numerous receptor rods embedded in the cell membrane tilt, rotate, and randomly “scan” the outside; when specific ligand particles collide and attach, the receptor changes shape and triggers a chain of glowing particles moving inward toward the nucleus.",
+      "seed": "Signal Receptor Scanning and Activation on Membrane: Numerous receptor rods embedded in the cell membrane tilt, rotate, and randomly “scan” the outside; when specific ligand particles collide and attach, the receptor changes shape and triggers a chain of glowing particles moving inward toward the nucleus."
+    }
+  ],
+  "raw_output": "Here are strong **biological cell simulation inputs** you can plug into your prompt:\n\n1. **Cell Membrane with Moving Ion Channels**\n   A large transparent sphere acts as a cell membrane with colored “ion channel” cylinders that open and close, letting small charged spheres drift through, bounce, and leave trails while a simple meter shows inside vs. outside ion counts.\n\n2. **3D Cell with Organelles and Cytoplasmic Flow**\n   A semi-transparent cell sphere contains a nucleus, mitochondria, vesicles, and ribosomes, where vesicles float along curved paths, gently collide and bounce off organelles, and leave faint trails while labels hover over each structure.\n\n3. **Cell Division (Mitosis) Animation**\n   A single cell sphere with a central duplicated chromosome cluster stretches, forms spindle fibers (thin rods) that pull chromosome spheres apart, and the whole cell pinches into two daughter cells that detach and drift slightly apart.\n\n4. **Vesicle Trafficking Along Microtubules**\n   Long microtubule “tracks” radiate from a central centrosome, with small vesicle spheres “walking” along them via stepwise motion, sometimes detaching, switching tracks, and fusing with a target membrane sphere that changes color where fusion occurs.\n\n5. **Endocytosis and Exocytosis at the Membrane**\n   A cell sphere with many small external particles shows membrane regions curving in to wrap and pinch off endocytic vesicles, while internal vesicles move outward and merge with the membrane to release particles that scatter and slowly diffuse away.\n\n6. **Mitochondria as Dynamic Power Stations**\n   Multiple elongated mitochondria shapes inside a cell gently move, split, and merge, with glowing particles streaming into them and dimmer particles emitted, while their brightness fluctuates to show changing activity and a label shows “ATP level.”\n\n7. **Immune Cell Chasing a Bacterium**\n   A deformable immune cell blob slowly moves toward a smaller bacterium capsule, extending and retracting pseudopod-like protrusions; upon collision it wraps around and engulfs the bacterium, which fades as digestion particles swirl inside.\n\n8. **Calcium Wave Signaling in a Cell**\n   A network of thin internal compartments (ER-like tubes) inside a cell lights up with a traveling calcium wave: small bright particles rapidly spread, bounce at boundaries, then are reabsorbed into pumps, as a color bar tracks local calcium concentration over time.\n\n9. **3D Cell Cycle Clock with Growing Cell**\n   A single cell sphere gradually grows in size and changes color as it progresses through labeled phases (G1, S, G2, M) on a circular “clock” ring beside it; during S phase tiny DNA dots duplicate, and during M phase the cell splits into two smaller spheres.\n\n10. **Cell Swarm Communication in Tissue**\n    Dozens of small cells float and gently jostle in a transparent box, emitting and absorbing colored signal particles; when one cell receives above-threshold signals, it glows brighter and triggers neighboring cells to light up in a spreading wave.\n\n11. **Mechanical Model of a Cell as a Soft Capsule**\n    A cell is represented as a soft sphere made of many connected small beads that can stretch and compress as it squeezes through a narrow channel, with internal particles shifting and colliding as the membrane deforms and then relaxes.\n\n12. **Lysosome Fusion and Cargo Degradation**\n    Fluorescent cargo vesicles containing colored particles move randomly until they collide with larger acidic lysosome spheres, which they fuse with; inside, cargo particles slowly shrink and disappear while the lysosome briefly glows brighter.\n\n13. **Cellular Conveyor Belt: Golgi Apparatus**\n    Stacked, curved Golgi cisternae are shown as layered translucent plates, with vesicles attaching to the cis side, moving from one cisterna to the next, changing color as they “mature,” then detaching and shooting off toward the membrane.\n\n14. **Cell as a Miniature Factory with Energy Flows**\n    A stylized cell shows mitochondria, ribosomes, and nucleus as factory stations connected by glowing “energy” streams; raw material particles enter from the membrane, travel along paths, collide with stations, and emerge as “product” particles that exit the cell.\n\n15. **Cytoskeleton Remodeling and Cell Shape Change**\n    A cell sphere is filled with dynamic actin filaments represented by flexible rods that grow, shrink, and branch; as filaments elongate at one side and disassemble at another, the overall cell shape bulges, retracts, and slowly crawls across the floor.\n\n16. **Cell Adhesion and Detachment on a Surface**\n    Several cells rest on a flat surface plane, tethered by short “adhesion” springs that can attach and break; as external flow (gentle directional push) acts, some cells slide, roll, or detach and drift away, with adhesion springs stretching and snapping.\n\n17. **Stem Cell Differentiation with Color States**\n    A cluster of identical pale cells slowly changes as some receive “signals” (colored particles) and transition into distinct types with new colors and shapes; neighboring cells are more likely to differentiate when close to an already changed cell, creating branching patterns.\n\n18. **Virus Entry into a Host Cell**\n    Virus particles with spiky shells drift toward a larger cell, bind to specific receptor spots on its membrane, then either inject a glowing “genome” filament that spreads inside or are endocytosed into vesicles that move toward the center and release contents.\n\n19. **3D Osmosis and Cell Swelling/Shrinking**\n    A cell sphere in a box with many water particles outside and fewer inside shows water particles crossing the semi-permeable membrane; as flows change, the cell slowly swells or shrinks, with a radial grid and numeric label tracking cell volume.\n\n20. **Neuronal Cell Body with Branching Dendrites**\n    A central cell body sphere sprouts branching cylindrical dendrites and a long axon; signal particles start at synapse spheres, travel along dendrites toward the cell body, then trigger a bright pulse that races along the axon, leaving a fading trail.\n\n21. **Cellular Autophagy: Recycling Damaged Parts**\n    Damaged organelles marked by flickering colors float inside a cell until a double-membrane “autophagosome” shell grows around them, wraps and closes, then moves to fuse with a lysosome, where the contents dissolve into smaller recyclable particles.\n\n22. **3D Cell Colony Growing and Packing**\n    Starting from a single cell on a flat surface, cells periodically replicate into two that gently push, collide, and rearrange, forming an expanding dome-shaped colony whose overall boundary is highlighted and whose inner cells become more tightly packed over time.\n\n23. **Cell as a City: Metaphorical Traffic Map**\n    A cell is visualized like a small city with a central “city hall” nucleus, power plant mitochondria, and road-like cytoskeletal tracks; different colored vehicles (vesicles) follow these tracks, stop at “stations,” transfer cargo, and occasionally collide and reroute.\n\n24. **Apoptotic Cell Fragmentation and Cleanup**\n    A healthy cell sphere gradually shrinks, its membrane blebs into small bubbles, and internal structures condense; the cell breaks into many apoptotic bodies that drift away until neighboring scavenger cells engulf and clear them.\n\n25. **Signal Receptor Scanning and Activation on Membrane**\n    Numerous receptor rods embedded in the cell membrane tilt, rotate, and randomly “scan” the outside; when specific ligand particles collide and attach, the receptor changes shape and triggers a chain of glowing particles moving inward toward the nucleus."
+}

@@ -1,0 +1,23 @@
+{
+  "branches": {
+    "f65553139a5d5a00": {
+      "branch_id": "f65553139a5d5a00",
+      "parent_script_filename": "vpython-simulation-cell-membrane-with-moving-ion-channels-a-large-transparent-sphere-acts-b497ffff.py",
+      "parent_note_id": "b3f04e3533",
+      "core_sentence": "The AI controller monitors ion concentration on both sides of the membrane and changes channel behavior to restore balance.",
+      "title": "next sentence 1",
+      "created_at": "2026-05-22T19:57:10",
+      "updated_at": "2026-05-22T20:09:49",
+      "scripts": [
+        {
+          "id": "a8a6b3c2ec",
+          "filename": "branch-vpython-the-ai-controller-monitors-ion-concentration-on-both-sides-of-the-memb-f02f4beb.py",
+          "created_at": "2026-05-22T20:09:49",
+          "manual_entry": true,
+          "note": ""
+        }
+      ],
+      "notes": []
+    }
+  }
+}

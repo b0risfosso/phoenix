@@ -1,0 +1,162 @@
+{
+  "vpython-simulation-cell-membrane-with-moving-ion-channels-a-large-transparent-sphere-acts-b497ffff.py": [
+    {
+      "id": "3b35f154d0",
+      "title": "core sentence",
+      "text": "A transparent 3D cell membrane contains moving ion channels that open and close as charged ions drift, collide, attach, cross the membrane, leave trails, and respond to an AI controller that changes modes such as balancing, pumping, mixing, orbiting, and chaos.",
+      "tags": [],
+      "created_at": "2026-05-22T18:52:39",
+      "updated_at": "2026-05-22T18:59:00"
+    },
+    {
+      "id": "b3f04e3533",
+      "title": "next sentence 1",
+      "text": "The AI controller monitors ion concentration on both sides of the membrane and changes channel behavior to restore balance.",
+      "tags": [],
+      "created_at": "2026-05-22T18:55:02",
+      "updated_at": "2026-05-22T19:27:09",
+      "note_type": "next_sentence",
+      "note_type_label": "Next sentence"
+    },
+    {
+      "id": "9160ea6d1e",
+      "title": "next sentence 2",
+      "text": "Sodium, potassium, calcium, and chloride ions are color-coded and leave fading trails as they move through the cell environment.",
+      "tags": [],
+      "created_at": "2026-05-22T18:58:27",
+      "updated_at": "2026-05-22T19:27:22",
+      "note_type": "next_sentence",
+      "note_type_label": "Next sentence"
+    },
+    {
+      "id": "971b6db748",
+      "title": "next sentence 3",
+      "text": "Some channels act like gates, some act like pumps, and others attract ions into orbit before releasing them across the membrane.",
+      "tags": [],
+      "created_at": "2026-05-22T18:59:38",
+      "updated_at": "2026-05-22T19:27:32",
+      "note_type": "next_sentence",
+      "note_type_label": "Next sentence"
+    },
+    {
+      "id": "24e26d6155",
+      "title": "next sentence 4",
+      "text": "When the system enters chaos mode, channels flicker rapidly and ions scatter in unpredictable bursts around the membrane.",
+      "tags": [],
+      "created_at": "2026-05-22T18:59:51",
+      "updated_at": "2026-05-22T19:28:00",
+      "note_type": "next_sentence",
+      "note_type_label": "Next sentence"
+    },
+    {
+      "id": "354f28d0b1",
+      "title": "next sentence 5",
+      "text": "In balancing mode, the simulation shows ions crossing until the inside and outside concentrations become nearly equal.",
+      "tags": [],
+      "created_at": "2026-05-22T19:08:00",
+      "updated_at": "2026-05-22T19:28:08",
+      "note_type": "next_sentence",
+      "note_type_label": "Next sentence"
+    },
+    {
+      "id": "95fa755942",
+      "title": "next sentence 6",
+      "text": "In pumping mode, selected channels force ions against the concentration gradient while glowing brighter with each transfer.",
+      "tags": [],
+      "created_at": "2026-05-22T19:08:15",
+      "updated_at": "2026-05-22T19:28:16",
+      "note_type": "next_sentence",
+      "note_type_label": "Next sentence"
+    },
+    {
+      "id": "d5f4913911",
+      "title": "next sentence 7",
+      "text": "In mixing mode, the AI opens many channels at once, causing clouds of ions to swirl and blend across the membrane boundary.",
+      "tags": [],
+      "created_at": "2026-05-22T19:08:34",
+      "updated_at": "2026-05-22T19:28:23",
+      "note_type": "next_sentence",
+      "note_type_label": "Next sentence"
+    },
+    {
+      "id": "6889c107e3",
+      "title": "next sentence 8",
+      "text": "In orbiting mode, charged ions curve around active channels before either crossing the membrane or being repelled back outward.",
+      "tags": [],
+      "created_at": "2026-05-22T19:08:59",
+      "updated_at": "2026-05-22T19:28:31",
+      "note_type": "next_sentence",
+      "note_type_label": "Next sentence"
+    },
+    {
+      "id": "72baf83258",
+      "note_type": "next_sentence",
+      "note_type_label": "Next sentence",
+      "title": "next sentence 9",
+      "text": "Collisions between ions create small sparks, direction changes, and brief ripples across the transparent membrane surface.",
+      "tags": [],
+      "created_at": "2026-05-22T19:29:04",
+      "updated_at": "2026-05-22T19:29:04"
+    },
+    {
+      "id": "380174824d",
+      "note_type": "next_sentence",
+      "note_type_label": "Next sentence",
+      "title": "next sentence 10",
+      "text": "Attached ions temporarily stick to channel openings before being pulled through, released, or knocked away by nearby particles.",
+      "tags": [],
+      "created_at": "2026-05-22T19:29:21",
+      "updated_at": "2026-05-22T19:29:21"
+    },
+    {
+      "id": "17c5e32245",
+      "note_type": "next_sentence",
+      "note_type_label": "Next sentence",
+      "title": "next sentence 11",
+      "text": "The membrane flexes slightly when many ions cross at once, making transport activity visible as waves across the cell surface.",
+      "tags": [],
+      "created_at": "2026-05-22T19:29:39",
+      "updated_at": "2026-05-22T19:29:39"
+    },
+    {
+      "id": "97d6f1359a",
+      "note_type": "next_sentence",
+      "note_type_label": "Next sentence",
+      "title": "next sentence 12",
+      "text": "A status panel displays the current AI mode, ion counts, membrane voltage, channel openness, and transport direction.",
+      "tags": [],
+      "created_at": "2026-05-22T19:29:58",
+      "updated_at": "2026-05-22T19:29:58"
+    },
+    {
+      "id": "8a746f89ae",
+      "note_type": "next_sentence",
+      "note_type_label": "Next sentence",
+      "title": "next sentence 13",
+      "text": "The user can select individual channels, move them around the membrane, and watch how local ion traffic changes.",
+      "tags": [],
+      "created_at": "2026-05-22T19:30:15",
+      "updated_at": "2026-05-22T19:30:15"
+    },
+    {
+      "id": "cb2af96c4e",
+      "note_type": "next_sentence",
+      "note_type_label": "Next sentence",
+      "title": "next sentence 14",
+      "text": "Over time, the AI attempts to create stable gradients, then deliberately disrupts them to show how transport systems recover.",
+      "tags": [],
+      "created_at": "2026-05-22T19:30:30",
+      "updated_at": "2026-05-22T19:30:30"
+    },
+    {
+      "id": "5afecd0a6d",
+      "note_type": "next_sentence",
+      "note_type_label": "Next sentence",
+      "title": "next sentence 15",
+      "text": "The simulation becomes a living ion-traffic system where gates, particles, trails, and membrane voltage constantly reorganize each other",
+      "tags": [],
+      "created_at": "2026-05-22T19:30:50",
+      "updated_at": "2026-05-22T19:30:50"
+    }
+  ]
+}

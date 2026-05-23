@@ -1,0 +1,9 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><title>Sentence Node</title><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" href="/static/styles.css"></head>
+<body>
+<header class="site-header"><div><h1>Sentence Node</h1><p id="nodeHeader">Core sentence / branch</p></div><nav><a href="/">Tree</a><a id="parentLink" href="#" hidden>Parent sentence</a></nav></header>
+<main class="detail-layout">
+<section class="panel"><h2>Core sentence</h2><label for="nodeTitle">Title optional</label><input id="nodeTitle" type="text"><label for="nodeSentence">Sentence</label><textarea id="nodeSentence" rows="7"></textarea><button id="saveNodeBtn">Save sentence</button><p id="saveStatus" class="status"></p><hr><h2>Add next sentence branch</h2><p class="small">A next sentence becomes a new child core sentence.</p><label for="nextTitle">Branch title optional</label><input id="nextTitle" type="text"><label for="nextSentence">Next sentence</label><textarea id="nextSentence" rows="5"></textarea><button id="addNextBtn">Add next sentence branch</button><p id="nextStatus" class="status"></p><hr><h2>Add script to this sentence</h2><label for="scriptFilename">Script filename optional</label><input id="scriptFilename" type="text"><label for="scriptNote">Script note optional</label><textarea id="scriptNote" rows="3"></textarea><label for="scriptSource">Python script source</label><textarea id="scriptSource" class="code-editor" rows="20" spellcheck="false"></textarea><button id="addScriptBtn">Save script to this sentence</button><p id="scriptStatus" class="status"></p></section>
+<aside class="panel"><h2>Scripts tied to this sentence</h2><div id="scriptList" class="cards"></div><hr><h2>Next sentence branches</h2><div id="childrenList" class="cards"></div></aside>
+</main><script>const nodeId = {{ node_id|tojson }};</script><script src="/static/node.js"></script></body></html>

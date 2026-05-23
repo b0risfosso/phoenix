@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Previous Simulation Seed Outputs</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div>
+      <h1>Previous Outputs</h1>
+      <p>Browse saved simulation seed JSON files and read individual seed entries.</p>
+    </div>
+    <nav>
+      <a href="/">Generator</a>
+      <a href="/previous">Previous outputs</a>
+    </nav>
+  </header>
+
+  <main class="layout">
+    <section class="panel">
+      <h2>Saved seed files</h2>
+      <button id="refreshBtn">Refresh</button>
+      <div id="fileList" class="file-list"></div>
+    </section>
+
+    <section class="panel wide">
+      <div class="result-header">
+        <h2 id="selectedTitle">Selected output</h2>
+        <button id="copySelectedBtn" class="secondary" disabled>Copy raw output</button>
+      </div>
+      <div id="selectedActions" class="actions"></div>
+      <div id="selectedSeedCards" class="cards"></div>
+      <pre id="selectedRaw" class="raw"></pre>
+    </section>
+  </main>
+
+  <script src="/static/previous.js"></script>
+</body>
+</html>

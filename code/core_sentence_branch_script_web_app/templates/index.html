@@ -1,0 +1,9 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><title>Core Sentence Branch Script Tree</title><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" href="/static/styles.css"></head>
+<body>
+<header class="site-header"><div><h1>Core Sentence Branch Script Tree</h1><p>Build core sentences, branch next sentences, and tie scripts to each sentence.</p></div><nav><a href="/">Tree</a><a href="/api/tree" target="_blank">Tree JSON</a></nav></header>
+<main class="layout">
+<aside class="panel"><h2>Create top-level core sentence</h2><label for="rootTitle">Title optional</label><input id="rootTitle" type="text"><label for="rootSentence">Core sentence</label><textarea id="rootSentence" rows="5"></textarea><button id="createRootBtn">Create core sentence</button><p id="createStatus" class="status"></p><hr><h2>Data location</h2><p id="dataLocation" class="meta"></p></aside>
+<section class="panel wide"><div class="result-header"><h2>Sentence tree</h2><button id="refreshBtn">Refresh tree</button></div><div id="treeView" class="tree"></div></section>
+</main><script src="/static/app.js"></script></body></html>

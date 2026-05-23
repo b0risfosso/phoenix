@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "biological organism",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-22T18:39:37",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Cell Membrane Transport and Vesicle Traffic",
+      "description": "A transparent spherical cell with a semi-permeable membrane where colored particle “molecules” bounce, pass through channels, and get wrapped into vesicles that bud, move along filament “microtubules,” and fuse with organelles.",
+      "seed": "Cell Membrane Transport and Vesicle Traffic: A transparent spherical cell with a semi-permeable membrane where colored particle “molecules” bounce, pass through channels, and get wrapped into vesicles that bud, move along filament “microtubules,” and fuse with organelles."
+    },
+    {
+      "number": "2",
+      "title": "3D Neuron Network with Firing Signals",
+      "description": "Multiple branching neuron-like structures whose axons and dendrites grow, connect, and detach while glowing particles pulse along synapses, with labels for each neuron and a meter showing overall network activity.",
+      "seed": "3D Neuron Network with Firing Signals: Multiple branching neuron-like structures whose axons and dendrites grow, connect, and detach while glowing particles pulse along synapses, with labels for each neuron and a meter showing overall network activity."
+    },
+    {
+      "number": "3",
+      "title": "Bacterial Colony Growth on a 3D Surface",
+      "description": "Rod-shaped bacteria that replicate, slide, and cluster on a light-colored plane, leaving faint trails of secreted “slime,” forming expanding biofilm patches with color changes indicating nutrient-rich vs. depleted regions.",
+      "seed": "Bacterial Colony Growth on a 3D Surface: Rod-shaped bacteria that replicate, slide, and cluster on a light-colored plane, leaving faint trails of secreted “slime,” forming expanding biofilm patches with color changes indicating nutrient-rich vs. depleted regions."
+    },
+    {
+      "number": "4",
+      "title": "Predator–Prey Fish School in a Reef",
+      "description": "A school of small fish spheres that align, turn, and avoid collisions while a larger predator object chases them, with coral-like stationary obstacles, escape paths leaving short trails, and color shifts when prey are “caught.”",
+      "seed": "Predator–Prey Fish School in a Reef: A school of small fish spheres that align, turn, and avoid collisions while a larger predator object chases them, with coral-like stationary obstacles, escape paths leaving short trails, and color shifts when prey are “caught.”"
+    },
+    {
+      "number": "5",
+      "title": "3D Root System Branching through Soil Layers",
+      "description": "A central root cylinder that grows downward and branches in 3D through semi-transparent soil layers, wrapping around rocks, seeking glowing water pockets that shrink as absorbed and cause localized root thickening.",
+      "seed": "3D Root System Branching through Soil Layers: A central root cylinder that grows downward and branches in 3D through semi-transparent soil layers, wrapping around rocks, seeking glowing water pockets that shrink as absorbed and cause localized root thickening."
+    },
+    {
+      "number": "6",
+      "title": "Lung Alveoli Gas Exchange",
+      "description": "A cluster of semi-transparent alveolar sacs where red and blue particles (O₂ and CO₂) diffuse across thin membranes into and out of branching blood capillary tubes, with changing color gradients showing oxygen saturation.",
+      "seed": "Lung Alveoli Gas Exchange: A cluster of semi-transparent alveolar sacs where red and blue particles (O₂ and CO₂) diffuse across thin membranes into and out of branching blood capillary tubes, with changing color gradients showing oxygen saturation."
+    },
+    {
+      "number": "7",
+      "title": "Immune Cell Chasing a Pathogen",
+      "description": "A large, flexible amoeboid immune cell that crawls and deforms as it chases a smaller bacterium, leaving a faint chemotactic gradient trail, then engulfs it, with internal particles “digesting” and fading it out.",
+      "seed": "Immune Cell Chasing a Pathogen: A large, flexible amoeboid immune cell that crawls and deforms as it chases a smaller bacterium, leaving a faint chemotactic gradient trail, then engulfs it, with internal particles “digesting” and fading it out."
+    },
+    {
+      "number": "8",
+      "title": "DNA Replication and Chromosome Unfolding",
+      "description": "A coiled chromosome fiber that slowly unravels into a double helix, with replication forks moving in opposite directions, attaching and detaching enzyme “machines” that copy strands and spawn new glowing daughter helices.",
+      "seed": "DNA Replication and Chromosome Unfolding: A coiled chromosome fiber that slowly unravels into a double helix, with replication forks moving in opposite directions, attaching and detaching enzyme “machines” that copy strands and spawn new glowing daughter helices."
+    },
+    {
+      "number": "9",
+      "title": "Cell Division (Mitosis) in 3D",
+      "description": "A single cell sphere with visible chromosomes that condense, align along a central plane with spindle fibers pulling them apart, then the cell membrane pinches in to split into two labeled daughter cells.",
+      "seed": "Cell Division (Mitosis) in 3D: A single cell sphere with visible chromosomes that condense, align along a central plane with spindle fibers pulling them apart, then the cell membrane pinches in to split into two labeled daughter cells."
+    },
+    {
+      "number": "10",
+      "title": "3D Coral Reef Growth and Erosion",
+      "description": "Branching coral structures that slowly grow, split, and fuse in warm-colored water while particles representing nutrients drift and attach to growth tips, and occasional “storm” waves knock off fragments that tumble and reattach elsewhere.",
+      "seed": "3D Coral Reef Growth and Erosion: Branching coral structures that slowly grow, split, and fuse in warm-colored water while particles representing nutrients drift and attach to growth tips, and occasional “storm” waves knock off fragments that tumble and reattach elsewhere."
+    },
+    {
+      "number": "11",
+      "title": "Slime Mold Maze Navigation",
+      "description": "A branching, semi-transparent slime mold network that extends pseudopods through a 3D maze toward food pellets, retracting unsuccessful branches and thickening successful paths, with color intensity showing flow strength.",
+      "seed": "Slime Mold Maze Navigation: A branching, semi-transparent slime mold network that extends pseudopods through a 3D maze toward food pellets, retracting unsuccessful branches and thickening successful paths, with color intensity showing flow strength."
+    },
+    {
+      "number": "12",
+      "title": "Bird Flocking over a Rolling Landscape",
+      "description": "Dozens of small bird-like objects that flap, align, and avoid each other while flying over gently undulating terrain, splitting and merging into sub-flocks, leaving short motion trails and reacting to a moving “predator” eagle.",
+      "seed": "Bird Flocking over a Rolling Landscape: Dozens of small bird-like objects that flap, align, and avoid each other while flying over gently undulating terrain, splitting and merging into sub-flocks, leaving short motion trails and reacting to a moving “predator” eagle."
+    },
+    {
+      "number": "13",
+      "title": "3D Bacterial Chemotaxis in a Nutrient Field",
+      "description": "Many small bacteria that tumble and swim through a 3D gradient of invisible nutrient (shown by a light fog), biasing their movement toward brighter zones and leaving thin trails, with a meter showing average gradient climbed.",
+      "seed": "3D Bacterial Chemotaxis in a Nutrient Field: Many small bacteria that tumble and swim through a 3D gradient of invisible nutrient (shown by a light fog), biasing their movement toward brighter zones and leaving thin trails, with a meter showing average gradient climbed."
+    },
+    {
+      "number": "14",
+      "title": "Plant Leaf Photosynthesis and Stomata Dynamics",
+      "description": "A slightly curved transparent leaf panel with opening and closing stomata pores where gas particles flow in and out, chloroplast spheres inside that absorb light rays and emit short-lived glowing sugar particles into veins.",
+      "seed": "Plant Leaf Photosynthesis and Stomata Dynamics: A slightly curved transparent leaf panel with opening and closing stomata pores where gas particles flow in and out, chloroplast spheres inside that absorb light rays and emit short-lived glowing sugar particles into veins."
+    },
+    {
+      "number": "15",
+      "title": "Virus Attachment and Cell Infection",
+      "description": "Spiky virus particles drifting and rotating toward a larger cell sphere, selectively attaching to receptor patches, clustering, and then injecting glowing genetic material that spreads inward, gradually changing the cell’s color.",
+      "seed": "Virus Attachment and Cell Infection: Spiky virus particles drifting and rotating toward a larger cell sphere, selectively attaching to receptor patches, clustering, and then injecting glowing genetic material that spreads inward, gradually changing the cell’s color."
+    },
+    {
+      "number": "16",
+      "title": "Insect Flight and Flower Pollination",
+      "description": "A flying insect model that hovers, rotates, and lands on multiple flowers, collecting colored pollen particles that attach to its body and later detach onto new flower centers, with each pollinated flower slowly changing hue.",
+      "seed": "Insect Flight and Flower Pollination: A flying insect model that hovers, rotates, and lands on multiple flowers, collecting colored pollen particles that attach to its body and later detach onto new flower centers, with each pollinated flower slowly changing hue."
+    },
+    {
+      "number": "17",
+      "title": "3D Food Web with Energy Flow",
+      "description": "A small terrain with plants, herbivores, and predators where objects move, graze, and hunt, and semi-transparent arrows or glowing threads show energy transfer when one organism consumes another, with labels and an energy meter.",
+      "seed": "3D Food Web with Energy Flow: A small terrain with plants, herbivores, and predators where objects move, graze, and hunt, and semi-transparent arrows or glowing threads show energy transfer when one organism consumes another, with labels and an energy meter."
+    },
+    {
+      "number": "18",
+      "title": "Blood Flow through a Branching Vessel Network",
+      "description": "Red blood cell disks flowing, colliding, and rotating through a branching, semi-transparent vessel system, encountering narrowings where they stack and squeeze, with occasional white cells that stick to vessel walls and then detach.",
+      "seed": "Blood Flow through a Branching Vessel Network: Red blood cell disks flowing, colliding, and rotating through a branching, semi-transparent vessel system, encountering narrowings where they stack and squeeze, with occasional white cells that stick to vessel walls and then detach."
+    },
+    {
+      "number": "19",
+      "title": "Tissue Regeneration after Injury",
+      "description": "A flat tissue slab where a central “wound” gap is present, and nearby cells migrate, divide, and align to fill the gap, while signaling molecules diffuse as fading colored clouds that trigger faster growth near the wound edge.",
+      "seed": "Tissue Regeneration after Injury: A flat tissue slab where a central “wound” gap is present, and nearby cells migrate, divide, and align to fill the gap, while signaling molecules diffuse as fading colored clouds that trigger faster growth near the wound edge."
+    },
+    {
+      "number": "20",
+      "title": "3D Spider Web Construction and Prey Capture",
+      "description": "A spider that moves along anchor threads, attaching new silk strands in spiral and radial patterns to build a web, which slightly vibrates and deforms when a flying insect collides and gets wrapped by additional silk.",
+      "seed": "3D Spider Web Construction and Prey Capture: A spider that moves along anchor threads, attaching new silk strands in spiral and radial patterns to build a web, which slightly vibrates and deforms when a flying insect collides and gets wrapped by additional silk."
+    },
+    {
+      "number": "21",
+      "title": "Jellyfish Pulsing and Plankton Drift",
+      "description": "A semi-transparent jellyfish bell that rhythmically pulses to move upward and downward, with trailing tentacles that gently wrap around drifting plankton particles, which then move along the tentacles toward the bell center.",
+      "seed": "Jellyfish Pulsing and Plankton Drift: A semi-transparent jellyfish bell that rhythmically pulses to move upward and downward, with trailing tentacles that gently wrap around drifting plankton particles, which then move along the tentacles toward the bell center."
+    },
+    {
+      "number": "22",
+      "title": "Fungal Mycelium Expansion through Substrate",
+      "description": "A central fungal node sending out thin hyphae that branch, fuse, and wrap around nutrient pellets embedded in a light-colored 3D block, with regions that glow more brightly where nutrient transfer is highest.",
+      "seed": "Fungal Mycelium Expansion through Substrate: A central fungal node sending out thin hyphae that branch, fuse, and wrap around nutrient pellets embedded in a light-colored 3D block, with regions that glow more brightly where nutrient transfer is highest."
+    },
+    {
+      "number": "23",
+      "title": "3D Ant Colony Foraging with Pheromone Trails",
+      "description": "Ant agents walking over a terrain between nest and food piles, leaving colored pheromone trails that evaporate over time, with trails thickening where many ants travel and ants probabilistically following the strongest paths.",
+      "seed": "3D Ant Colony Foraging with Pheromone Trails: Ant agents walking over a terrain between nest and food piles, leaving colored pheromone trails that evaporate over time, with trails thickening where many ants travel and ants probabilistically following the strongest paths."
+    },
+    {
+      "number": "24",
+      "title": "Morphing Organism Shape Evolution",
+      "description": "A soft-bodied organism whose surface nodes move, stretch, and branch across generations, with each generation’s body form labeled and shown side-by-side, and connecting lines indicating which regions grew, shrank, or merged.",
+      "seed": "Morphing Organism Shape Evolution: A soft-bodied organism whose surface nodes move, stretch, and branch across generations, with each generation’s body form labeled and shown side-by-side, and connecting lines indicating which regions grew, shrank, or merged."
+    },
+    {
+      "number": "25",
+      "title": "Bioluminescent Organisms in Shallow Water",
+      "description": "Various simple organism shapes on a seabed that glow softly when touched by drifting particles or colliding neighbors, sending ripple-like waves of light across their bodies and briefly illuminating nearby sand and rocks.",
+      "seed": "Bioluminescent Organisms in Shallow Water: Various simple organism shapes on a seabed that glow softly when touched by drifting particles or colliding neighbors, sending ripple-like waves of light across their bodies and briefly illuminating nearby sand and rocks."
+    }
+  ],
+  "raw_output": "Here are strong **biological organism simulation inputs** you can plug into your prompt:\n\n1. **Cell Membrane Transport and Vesicle Traffic**\n   A transparent spherical cell with a semi-permeable membrane where colored particle “molecules” bounce, pass through channels, and get wrapped into vesicles that bud, move along filament “microtubules,” and fuse with organelles.\n\n2. **3D Neuron Network with Firing Signals**\n   Multiple branching neuron-like structures whose axons and dendrites grow, connect, and detach while glowing particles pulse along synapses, with labels for each neuron and a meter showing overall network activity.\n\n3. **Bacterial Colony Growth on a 3D Surface**\n   Rod-shaped bacteria that replicate, slide, and cluster on a light-colored plane, leaving faint trails of secreted “slime,” forming expanding biofilm patches with color changes indicating nutrient-rich vs. depleted regions.\n\n4. **Predator–Prey Fish School in a Reef**\n   A school of small fish spheres that align, turn, and avoid collisions while a larger predator object chases them, with coral-like stationary obstacles, escape paths leaving short trails, and color shifts when prey are “caught.”\n\n5. **3D Root System Branching through Soil Layers**\n   A central root cylinder that grows downward and branches in 3D through semi-transparent soil layers, wrapping around rocks, seeking glowing water pockets that shrink as absorbed and cause localized root thickening.\n\n6. **Lung Alveoli Gas Exchange**\n   A cluster of semi-transparent alveolar sacs where red and blue particles (O₂ and CO₂) diffuse across thin membranes into and out of branching blood capillary tubes, with changing color gradients showing oxygen saturation.\n\n7. **Immune Cell Chasing a Pathogen**\n   A large, flexible amoeboid immune cell that crawls and deforms as it chases a smaller bacterium, leaving a faint chemotactic gradient trail, then engulfs it, with internal particles “digesting” and fading it out.\n\n8. **DNA Replication and Chromosome Unfolding**\n   A coiled chromosome fiber that slowly unravels into a double helix, with replication forks moving in opposite directions, attaching and detaching enzyme “machines” that copy strands and spawn new glowing daughter helices.\n\n9. **Cell Division (Mitosis) in 3D**\n   A single cell sphere with visible chromosomes that condense, align along a central plane with spindle fibers pulling them apart, then the cell membrane pinches in to split into two labeled daughter cells.\n\n10. **3D Coral Reef Growth and Erosion**\n    Branching coral structures that slowly grow, split, and fuse in warm-colored water while particles representing nutrients drift and attach to growth tips, and occasional “storm” waves knock off fragments that tumble and reattach elsewhere.\n\n11. **Slime Mold Maze Navigation**\n    A branching, semi-transparent slime mold network that extends pseudopods through a 3D maze toward food pellets, retracting unsuccessful branches and thickening successful paths, with color intensity showing flow strength.\n\n12. **Bird Flocking over a Rolling Landscape**\n    Dozens of small bird-like objects that flap, align, and avoid each other while flying over gently undulating terrain, splitting and merging into sub-flocks, leaving short motion trails and reacting to a moving “predator” eagle.\n\n13. **3D Bacterial Chemotaxis in a Nutrient Field**\n    Many small bacteria that tumble and swim through a 3D gradient of invisible nutrient (shown by a light fog), biasing their movement toward brighter zones and leaving thin trails, with a meter showing average gradient climbed.\n\n14. **Plant Leaf Photosynthesis and Stomata Dynamics**\n    A slightly curved transparent leaf panel with opening and closing stomata pores where gas particles flow in and out, chloroplast spheres inside that absorb light rays and emit short-lived glowing sugar particles into veins.\n\n15. **Virus Attachment and Cell Infection**\n    Spiky virus particles drifting and rotating toward a larger cell sphere, selectively attaching to receptor patches, clustering, and then injecting glowing genetic material that spreads inward, gradually changing the cell’s color.\n\n16. **Insect Flight and Flower Pollination**\n    A flying insect model that hovers, rotates, and lands on multiple flowers, collecting colored pollen particles that attach to its body and later detach onto new flower centers, with each pollinated flower slowly changing hue.\n\n17. **3D Food Web with Energy Flow**\n    A small terrain with plants, herbivores, and predators where objects move, graze, and hunt, and semi-transparent arrows or glowing threads show energy transfer when one organism consumes another, with labels and an energy meter.\n\n18. **Blood Flow through a Branching Vessel Network**\n    Red blood cell disks flowing, colliding, and rotating through a branching, semi-transparent vessel system, encountering narrowings where they stack and squeeze, with occasional white cells that stick to vessel walls and then detach.\n\n19. **Tissue Regeneration after Injury**\n    A flat tissue slab where a central “wound” gap is present, and nearby cells migrate, divide, and align to fill the gap, while signaling molecules diffuse as fading colored clouds that trigger faster growth near the wound edge.\n\n20. **3D Spider Web Construction and Prey Capture**\n    A spider that moves along anchor threads, attaching new silk strands in spiral and radial patterns to build a web, which slightly vibrates and deforms when a flying insect collides and gets wrapped by additional silk.\n\n21. **Jellyfish Pulsing and Plankton Drift**\n    A semi-transparent jellyfish bell that rhythmically pulses to move upward and downward, with trailing tentacles that gently wrap around drifting plankton particles, which then move along the tentacles toward the bell center.\n\n22. **Fungal Mycelium Expansion through Substrate**\n    A central fungal node sending out thin hyphae that branch, fuse, and wrap around nutrient pellets embedded in a light-colored 3D block, with regions that glow more brightly where nutrient transfer is highest.\n\n23. **3D Ant Colony Foraging with Pheromone Trails**\n    Ant agents walking over a terrain between nest and food piles, leaving colored pheromone trails that evaporate over time, with trails thickening where many ants travel and ants probabilistically following the strongest paths.\n\n24. **Morphing Organism Shape Evolution**\n    A soft-bodied organism whose surface nodes move, stretch, and branch across generations, with each generation’s body form labeled and shown side-by-side, and connecting lines indicating which regions grew, shrank, or merged.\n\n25. **Bioluminescent Organisms in Shallow Water**\n    Various simple organism shapes on a seabed that glow softly when touched by drifting particles or colliding neighbors, sending ripple-like waves of light across their bodies and briefly illuminating nearby sand and rocks."
+}
