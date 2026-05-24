@@ -1,7 +1,7 @@
 {
   "version": 1,
   "created_at": "2026-05-22T22:17:39",
-  "updated_at": "2026-05-23T08:54:08",
+  "updated_at": "2026-05-23T17:39:07",
   "root_id": "root",
   "nodes": {
     "root": {
@@ -344,7 +344,28 @@
       "sentence": "Spindle fibers attach unevenly at first, forcing the cell to correct mistakes before separation can continue.",
       "title": "Next sentence branch",
       "parent_id": "93b30b0f7d3c",
-      "children": [],
+      "children": [
+        "329a0ffacf18",
+        "1a829ccb427a",
+        "f00c61888b53",
+        "521d3172cc55",
+        "af00f969c610",
+        "82366d94cdad",
+        "53a66c5e1dca",
+        "85c89fe4521a",
+        "af7d1e56dddb",
+        "b9f6ea15a1c7",
+        "8e1b299b613b",
+        "3dabbb4d3a0d",
+        "98d52e9d3806",
+        "f1ba3f5e2db5",
+        "12c8101fa143",
+        "2357eab75265",
+        "fbe030cbfa8c",
+        "428a5b0caeb6",
+        "728e1d5d66eb",
+        "8bad36242bd6"
+      ],
       "scripts": [
         {
           "id": "199dfeea6e",
@@ -355,7 +376,7 @@
         }
       ],
       "created_at": "2026-05-23T01:47:42",
-      "updated_at": "2026-05-23T02:15:29"
+      "updated_at": "2026-05-23T11:32:43"
     },
     "b81d0866f202": {
       "id": "b81d0866f202",
@@ -363,7 +384,28 @@
       "sentence": "A glowing checkpoint pauses division until every chromosome is properly connected.",
       "title": "Next sentence branch",
       "parent_id": "93b30b0f7d3c",
-      "children": [],
+      "children": [
+        "e1a6e4faee6a",
+        "e4b9d61804b3",
+        "6fea59727601",
+        "aab0971bd3cb",
+        "3d286a5e6f5a",
+        "1ea44ada872f",
+        "637e89c4b385",
+        "85b4cc4ee493",
+        "25037c4d0a72",
+        "90bb65c2b7fd",
+        "30567b856627",
+        "b9bf5f793238",
+        "81d8416c2213",
+        "399533e0a66b",
+        "57e145fbb839",
+        "bff7571326a1",
+        "cc1823dd5e3b",
+        "e0f75e5f022a",
+        "384091fd4afb",
+        "58898136b030"
+      ],
       "scripts": [
         {
           "id": "66fee1a719",
@@ -374,7 +416,7 @@
         }
       ],
       "created_at": "2026-05-23T01:47:54",
-      "updated_at": "2026-05-23T07:28:02"
+      "updated_at": "2026-05-23T11:42:38"
     },
     "b485f03ee6bd": {
       "id": "b485f03ee6bd",
@@ -382,7 +424,28 @@
       "sentence": "The nuclear envelope dissolves into fragments that drift outward before later rebuilding around each new chromosome group.",
       "title": "Next sentence branch",
       "parent_id": "93b30b0f7d3c",
-      "children": [],
+      "children": [
+        "6be440297a6e",
+        "beefeccfb9c5",
+        "78b393a14287",
+        "97833ebf0fb8",
+        "429ddcdf3987",
+        "2ebbafeb2429",
+        "2d6f7668c7d5",
+        "ab66c99fb832",
+        "8e91bf5a2fce",
+        "59ea69dc4982",
+        "3d0c0501ea9f",
+        "cb13d4e651c7",
+        "e85cf04f3f42",
+        "9a7cadbca396",
+        "42ec1b70ac7f",
+        "09f3cca2449a",
+        "7b384a5554a2",
+        "44f467b11a3c",
+        "8a8189b5ce41",
+        "e1da046fe08a"
+      ],
       "scripts": [
         {
           "id": "c32ab83994",
@@ -393,7 +456,7 @@
         }
       ],
       "created_at": "2026-05-23T01:48:05",
-      "updated_at": "2026-05-23T07:47:05"
+      "updated_at": "2026-05-23T11:49:19"
     },
     "b9d55978ae85": {
       "id": "b9d55978ae85",
@@ -401,7 +464,28 @@
       "sentence": "Microtubules grow, shrink, search, and reconnect as they pull chromosomes into a precise central line.",
       "title": "Next sentence branch",
       "parent_id": "93b30b0f7d3c",
-      "children": [],
+      "children": [
+        "311ee40f54b7",
+        "390853a9201e",
+        "4baee8f20aca",
+        "2d281a24ad03",
+        "ed2aa7bcfe45",
+        "0c880e376565",
+        "01649086f856",
+        "56118190b86a",
+        "b918b8ff4ede",
+        "c46218d01168",
+        "014cf4a2d4f0",
+        "6192ba2218ce",
+        "b5cee0f53665",
+        "eb9731347576",
+        "24e54cd5b522",
+        "72e7a3cd37e4",
+        "45967ff86d2b",
+        "e34d0d9f99b0",
+        "0c3801e3ce40",
+        "33f6eb14c87c"
+      ],
       "scripts": [
         {
           "id": "9b6cd08f77",
@@ -412,7 +496,7 @@
         }
       ],
       "created_at": "2026-05-23T01:48:15",
-      "updated_at": "2026-05-23T07:51:44"
+      "updated_at": "2026-05-23T12:02:55"
     },
     "ac0b4d16238a": {
       "id": "ac0b4d16238a",
@@ -622,6 +706,1468 @@
       ],
       "created_at": "2026-05-23T01:49:55",
       "updated_at": "2026-05-23T08:54:08"
+    },
+    "fa4153264bf2": {
+      "id": "fa4153264bf2",
+      "kind": "core_sentence",
+      "sentence": "A semi-transparent cell sphere contains a nucleus, mitochondria, vesicles, and ribosomes, where vesicles float along curved paths, gently collide and bounce off organelles, and leave faint trails.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [
+        "388e1912e4da",
+        "3edf5a491ae2",
+        "2280535c34d6",
+        "cd84b7782599",
+        "060501c4831f",
+        "07ac4ad90e1a",
+        "c0683f799a17",
+        "4865ae497038",
+        "811ac2df9878",
+        "3576802823f1",
+        "61cf1a6de0cf",
+        "1a8ebaa42287",
+        "aaa4baec6d11",
+        "675cd878ceb8",
+        "b5221e771024"
+      ],
+      "scripts": [
+        {
+          "id": "e7b3599a82",
+          "filename": "sentence-script-a-semi-transparent-cell-sphere-contains-a-nucleus-mitochondria-vesicle-4b3b63c5.py",
+          "note": "",
+          "created_at": "2026-05-23T11:22:47",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T11:21:00",
+      "updated_at": "2026-05-23T11:25:30"
+    },
+    "388e1912e4da": {
+      "id": "388e1912e4da",
+      "kind": "core_sentence",
+      "sentence": "Some vesicles begin carrying colored cargo between organelles, changing brightness as they load and unload material.",
+      "title": "Next sentence branch",
+      "parent_id": "fa4153264bf2",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:22:57",
+      "updated_at": "2026-05-23T11:22:57"
+    },
+    "3edf5a491ae2": {
+      "id": "3edf5a491ae2",
+      "kind": "core_sentence",
+      "sentence": "The nucleus releases pulsing signals that attract certain particles while repelling others.",
+      "title": "Next sentence branch",
+      "parent_id": "fa4153264bf2",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:23:07",
+      "updated_at": "2026-05-23T11:23:07"
+    },
+    "2280535c34d6": {
+      "id": "2280535c34d6",
+      "kind": "core_sentence",
+      "sentence": "Mitochondria glow more strongly when nearby traffic increases, then dim when activity slows.",
+      "title": "Next sentence branch",
+      "parent_id": "fa4153264bf2",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:23:16",
+      "updated_at": "2026-05-23T11:23:16"
+    },
+    "cd84b7782599": {
+      "id": "cd84b7782599",
+      "kind": "core_sentence",
+      "sentence": "Ribosomes cluster around messenger strands and produce small protein beads that drift into the cell interior.",
+      "title": "Next sentence branch",
+      "parent_id": "fa4153264bf2",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:23:29",
+      "updated_at": "2026-05-23T11:23:29"
+    },
+    "060501c4831f": {
+      "id": "060501c4831f",
+      "kind": "core_sentence",
+      "sentence": "A transport network gradually appears, with invisible paths becoming visible only after enough objects travel along them.",
+      "title": "Next sentence branch",
+      "parent_id": "fa4153264bf2",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:23:38",
+      "updated_at": "2026-05-23T11:23:38"
+    },
+    "07ac4ad90e1a": {
+      "id": "07ac4ad90e1a",
+      "kind": "core_sentence",
+      "sentence": "Damaged organelles emit faint distress signals that nearby vesicles follow to deliver repair material.",
+      "title": "Next sentence branch",
+      "parent_id": "fa4153264bf2",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:24:01",
+      "updated_at": "2026-05-23T11:24:01"
+    },
+    "c0683f799a17": {
+      "id": "c0683f799a17",
+      "kind": "core_sentence",
+      "sentence": "The cell becomes crowded, forcing objects to reroute, slow down, or form temporary traffic jams.",
+      "title": "Next sentence branch",
+      "parent_id": "fa4153264bf2",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:24:11",
+      "updated_at": "2026-05-23T11:24:11"
+    },
+    "4865ae497038": {
+      "id": "4865ae497038",
+      "kind": "core_sentence",
+      "sentence": "Some vesicles merge together, split apart, or exchange cargo after collision.",
+      "title": "Next sentence branch",
+      "parent_id": "fa4153264bf2",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:24:20",
+      "updated_at": "2026-05-23T11:24:20"
+    },
+    "811ac2df9878": {
+      "id": "811ac2df9878",
+      "kind": "core_sentence",
+      "sentence": "The membrane occasionally flexes inward, pushing nearby objects and creating waves through the interior.",
+      "title": "Next sentence branch",
+      "parent_id": "fa4153264bf2",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:24:28",
+      "updated_at": "2026-05-23T11:24:28"
+    },
+    "3576802823f1": {
+      "id": "3576802823f1",
+      "kind": "core_sentence",
+      "sentence": "Energy particles flow outward from mitochondria and briefly accelerate nearby movement.",
+      "title": "Next sentence branch",
+      "parent_id": "fa4153264bf2",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:24:37",
+      "updated_at": "2026-05-23T11:24:37"
+    },
+    "61cf1a6de0cf": {
+      "id": "61cf1a6de0cf",
+      "kind": "core_sentence",
+      "sentence": "A waste-collection system forms as old particles are gathered, packed, and moved toward the boundary.",
+      "title": "Next sentence branch",
+      "parent_id": "fa4153264bf2",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:24:51",
+      "updated_at": "2026-05-23T11:24:51"
+    },
+    "1a8ebaa42287": {
+      "id": "1a8ebaa42287",
+      "kind": "core_sentence",
+      "sentence": "The cell enters different activity states, shifting between calm maintenance, rapid transport, repair, growth, and stress response.",
+      "title": "Next sentence branch",
+      "parent_id": "fa4153264bf2",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:25:02",
+      "updated_at": "2026-05-23T11:25:02"
+    },
+    "aaa4baec6d11": {
+      "id": "aaa4baec6d11",
+      "kind": "core_sentence",
+      "sentence": "Cargo that reaches the wrong destination changes color and must be redirected by nearby carriers.",
+      "title": "Next sentence branch",
+      "parent_id": "fa4153264bf2",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:25:12",
+      "updated_at": "2026-05-23T11:25:12"
+    },
+    "675cd878ceb8": {
+      "id": "675cd878ceb8",
+      "kind": "core_sentence",
+      "sentence": "The interior develops regions of higher and lower concentration, causing motion to become more organized over time.",
+      "title": "Next sentence branch",
+      "parent_id": "fa4153264bf2",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:25:22",
+      "updated_at": "2026-05-23T11:25:22"
+    },
+    "b5221e771024": {
+      "id": "b5221e771024",
+      "kind": "core_sentence",
+      "sentence": "During stress, organelles move closer together while vesicles speed up and trails become brighter.",
+      "title": "Next sentence branch",
+      "parent_id": "fa4153264bf2",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:25:30",
+      "updated_at": "2026-05-23T11:25:30"
+    },
+    "329a0ffacf18": {
+      "id": "329a0ffacf18",
+      "kind": "core_sentence",
+      "sentence": "The chromosomes pause at the center until every attachment point shows balanced tension.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:27:31",
+      "updated_at": "2026-05-23T11:27:31"
+    },
+    "1a829ccb427a": {
+      "id": "1a829ccb427a",
+      "kind": "core_sentence",
+      "sentence": "Misaligned chromosomes glow briefly, detach, and search for new spindle connections.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:27:39",
+      "updated_at": "2026-05-23T11:27:39"
+    },
+    "f00c61888b53": {
+      "id": "f00c61888b53",
+      "kind": "core_sentence",
+      "sentence": "A checkpoint signal spreads through the cell whenever one chromosome lags behind the others.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:27:52",
+      "updated_at": "2026-05-23T11:27:52"
+    },
+    "521d3172cc55": {
+      "id": "521d3172cc55",
+      "kind": "core_sentence",
+      "sentence": "The spindle poles pull with changing strength, causing the chromosome line to wobble before stabilizing.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:27:59",
+      "updated_at": "2026-05-23T11:27:59"
+    },
+    "af00f969c610": {
+      "id": "af00f969c610",
+      "kind": "core_sentence",
+      "sentence": "Repair particles move along the spindle fibers to reinforce weak or incorrect attachments.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:28:07",
+      "updated_at": "2026-05-23T11:28:07"
+    },
+    "82366d94cdad": {
+      "id": "82366d94cdad",
+      "kind": "core_sentence",
+      "sentence": "The cell membrane begins to stretch slightly as the internal pulling forces increase.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:28:18",
+      "updated_at": "2026-05-23T11:28:18"
+    },
+    "53a66c5e1dca": {
+      "id": "53a66c5e1dca",
+      "kind": "core_sentence",
+      "sentence": "Some chromosomes resist movement, forcing neighboring fibers to adjust their angles.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:28:25",
+      "updated_at": "2026-05-23T11:28:25"
+    },
+    "85c89fe4521a": {
+      "id": "85c89fe4521a",
+      "kind": "core_sentence",
+      "sentence": "A tension map appears across the cell, showing which fibers are pulling too hard or too weakly.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:28:36",
+      "updated_at": "2026-05-23T11:28:36"
+    },
+    "af7d1e56dddb": {
+      "id": "af7d1e56dddb",
+      "kind": "core_sentence",
+      "sentence": "The nucleus dissolves into a faint mist, leaving behind fragments that drift toward each forming daughter cell.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:29:07",
+      "updated_at": "2026-05-23T11:29:07"
+    },
+    "b9f6ea15a1c7": {
+      "id": "b9f6ea15a1c7",
+      "kind": "core_sentence",
+      "sentence": "The chromosomes pulse brighter as separation becomes irreversible.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:29:16",
+      "updated_at": "2026-05-23T11:29:16"
+    },
+    "8e1b299b613b": {
+      "id": "8e1b299b613b",
+      "kind": "core_sentence",
+      "sentence": "A damaged chromosome delays the process while repair bodies surround and inspect it.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:29:24",
+      "updated_at": "2026-05-23T11:29:24"
+    },
+    "3dabbb4d3a0d": {
+      "id": "3dabbb4d3a0d",
+      "kind": "core_sentence",
+      "sentence": "The two spindle poles compete unevenly, temporarily dragging the chromosome cluster off-center.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:29:38",
+      "updated_at": "2026-05-23T11:29:38"
+    },
+    "98d52e9d3806": {
+      "id": "98d52e9d3806",
+      "kind": "core_sentence",
+      "sentence": "The cell corrects its shape by shifting organelles away from the division plane.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:29:49",
+      "updated_at": "2026-05-23T11:29:49"
+    },
+    "f1ba3f5e2db5": {
+      "id": "f1ba3f5e2db5",
+      "kind": "core_sentence",
+      "sentence": "Cytokinesis begins as a tightening ring forms around the middle and slowly pinches inward.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:30:00",
+      "updated_at": "2026-05-23T11:30:00"
+    },
+    "12c8101fa143": {
+      "id": "12c8101fa143",
+      "kind": "core_sentence",
+      "sentence": "The daughter cells remain connected by a thin bridge while leftover spindle fibers fade and retract.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:30:14",
+      "updated_at": "2026-05-23T11:30:14"
+    },
+    "2357eab75265": {
+      "id": "2357eab75265",
+      "kind": "core_sentence",
+      "sentence": "After division, each daughter cell rebuilds a nucleus around its separated chromosome group.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:30:25",
+      "updated_at": "2026-05-23T11:30:25"
+    },
+    "fbe030cbfa8c": {
+      "id": "fbe030cbfa8c",
+      "kind": "core_sentence",
+      "sentence": "The surrounding environment presses against one side, making the split asymmetric.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:30:33",
+      "updated_at": "2026-05-23T11:30:33"
+    },
+    "428a5b0caeb6": {
+      "id": "428a5b0caeb6",
+      "kind": "core_sentence",
+      "sentence": "Extra chromosomes are caught in the middle and pulled back before the membrane closes.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:30:42",
+      "updated_at": "2026-05-23T11:30:42"
+    },
+    "728e1d5d66eb": {
+      "id": "728e1d5d66eb",
+      "kind": "core_sentence",
+      "sentence": "The cell enters a stress state where separation slows, reverses slightly, and tries again.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:30:51",
+      "updated_at": "2026-05-23T11:30:51"
+    },
+    "8bad36242bd6": {
+      "id": "8bad36242bd6",
+      "kind": "core_sentence",
+      "sentence": "Once both new nuclei stabilize, the daughter cells drift apart and begin preparing for another cycle.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:32:43",
+      "updated_at": "2026-05-23T11:32:43"
+    },
+    "e1a6e4faee6a": {
+      "id": "e1a6e4faee6a",
+      "kind": "core_sentence",
+      "sentence": "Incorrectly attached chromosomes glow red, detach, and search for new spindle fibers.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:37:58",
+      "updated_at": "2026-05-23T11:37:58"
+    },
+    "e4b9d61804b3": {
+      "id": "e4b9d61804b3",
+      "kind": "core_sentence",
+      "sentence": "The checkpoint signal weakens only when tension becomes balanced across every chromosome pair.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:38:51",
+      "updated_at": "2026-05-23T11:38:51"
+    },
+    "6fea59727601": {
+      "id": "6fea59727601",
+      "kind": "core_sentence",
+      "sentence": "Repair particles travel along spindle fibers and reinforce unstable attachment points.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:38:59",
+      "updated_at": "2026-05-23T11:38:59"
+    },
+    "aab0971bd3cb": {
+      "id": "aab0971bd3cb",
+      "kind": "core_sentence",
+      "sentence": "A single lagging chromosome keeps the entire cell frozen while nearby fibers rearrange around it.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:39:18",
+      "updated_at": "2026-05-23T11:39:18"
+    },
+    "3d286a5e6f5a": {
+      "id": "3d286a5e6f5a",
+      "kind": "core_sentence",
+      "sentence": "The spindle poles pulse with alternating force, testing whether each chromosome can resist being pulled apart too early.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:39:29",
+      "updated_at": "2026-05-23T11:39:29"
+    },
+    "1ea44ada872f": {
+      "id": "1ea44ada872f",
+      "kind": "core_sentence",
+      "sentence": "Chromosomes that pass inspection turn brighter and lock into place along the center line.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:39:36",
+      "updated_at": "2026-05-23T11:39:36"
+    },
+    "637e89c4b385": {
+      "id": "637e89c4b385",
+      "kind": "core_sentence",
+      "sentence": "The cell enters a warning state when one pole pulls harder than the other, shifting the chromosome cluster off-center.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:39:45",
+      "updated_at": "2026-05-23T11:39:45"
+    },
+    "85b4cc4ee493": {
+      "id": "85b4cc4ee493",
+      "kind": "core_sentence",
+      "sentence": "Tiny molecular markers gather around each chromosome, counting how many stable connections have formed.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:40:17",
+      "updated_at": "2026-05-23T11:40:17"
+    },
+    "25037c4d0a72": {
+      "id": "25037c4d0a72",
+      "kind": "core_sentence",
+      "sentence": "The division plane appears only after the checkpoint fades and the chromosome line becomes symmetrical.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:40:30",
+      "updated_at": "2026-05-23T11:40:30"
+    },
+    "90bb65c2b7fd": {
+      "id": "90bb65c2b7fd",
+      "kind": "core_sentence",
+      "sentence": "If a chromosome disconnects during alignment, the checkpoint reignites and pulls the process backward.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:40:44",
+      "updated_at": "2026-05-23T11:40:44"
+    },
+    "30567b856627": {
+      "id": "30567b856627",
+      "kind": "core_sentence",
+      "sentence": "The membrane trembles softly as internal tension builds during the paused state.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:40:52",
+      "updated_at": "2026-05-23T11:40:52"
+    },
+    "b9bf5f793238": {
+      "id": "b9bf5f793238",
+      "kind": "core_sentence",
+      "sentence": "Spindle fibers shorten, lengthen, and change angles until every chromosome sits under equal pull.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:41:01",
+      "updated_at": "2026-05-23T11:41:01"
+    },
+    "81d8416c2213": {
+      "id": "81d8416c2213",
+      "kind": "core_sentence",
+      "sentence": "A damaged chromosome attracts repair bodies that wrap around it before allowing separation to resume.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:41:16",
+      "updated_at": "2026-05-23T11:41:16"
+    },
+    "399533e0a66b": {
+      "id": "399533e0a66b",
+      "kind": "core_sentence",
+      "sentence": "The cell cycles through inspection, correction, and release until the interior reaches a stable pattern.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:41:27",
+      "updated_at": "2026-05-23T11:41:27"
+    },
+    "57e145fbb839": {
+      "id": "57e145fbb839",
+      "kind": "core_sentence",
+      "sentence": "Once the checkpoint turns off, all chromosomes separate in a coordinated wave toward opposite poles.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:41:34",
+      "updated_at": "2026-05-23T11:41:34"
+    },
+    "bff7571326a1": {
+      "id": "bff7571326a1",
+      "kind": "core_sentence",
+      "sentence": "Leftover incorrect fibers dissolve into particles while correct fibers become thicker and brighter.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:41:49",
+      "updated_at": "2026-05-23T11:41:49"
+    },
+    "cc1823dd5e3b": {
+      "id": "cc1823dd5e3b",
+      "kind": "core_sentence",
+      "sentence": "The daughter nuclei begin forming only around chromosome groups that pass the final inspection.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:42:08",
+      "updated_at": "2026-05-23T11:42:08"
+    },
+    "e0f75e5f022a": {
+      "id": "e0f75e5f022a",
+      "kind": "core_sentence",
+      "sentence": "Stress in the surrounding environment causes the checkpoint to stay active longer and makes the division uneven.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:42:19",
+      "updated_at": "2026-05-23T11:42:19"
+    },
+    "384091fd4afb": {
+      "id": "384091fd4afb",
+      "kind": "core_sentence",
+      "sentence": "A faint timer appears as the cell decides whether to continue, pause, or restart alignment.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:42:28",
+      "updated_at": "2026-05-23T11:42:28"
+    },
+    "58898136b030": {
+      "id": "58898136b030",
+      "kind": "core_sentence",
+      "sentence": "After successful separation, the checkpoint signal becomes a fading memory trail between the two new cells.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:42:38",
+      "updated_at": "2026-05-23T11:42:38"
+    },
+    "6be440297a6e": {
+      "id": "6be440297a6e",
+      "kind": "core_sentence",
+      "sentence": "The drifting envelope fragments glow faintly as they search for the nearest chromosome cluster.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:43:35",
+      "updated_at": "2026-05-23T11:43:35"
+    },
+    "beefeccfb9c5": {
+      "id": "beefeccfb9c5",
+      "kind": "core_sentence",
+      "sentence": "Some fragments attach too early, forcing the cell to dissolve them again before separation finishes.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:43:43",
+      "updated_at": "2026-05-23T11:43:43"
+    },
+    "78b393a14287": {
+      "id": "78b393a14287",
+      "kind": "core_sentence",
+      "sentence": "The fragments form temporary rings around each chromosome group, then tighten into smooth new boundaries.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:44:22",
+      "updated_at": "2026-05-23T11:44:22"
+    },
+    "97833ebf0fb8": {
+      "id": "97833ebf0fb8",
+      "kind": "core_sentence",
+      "sentence": "Leftover nuclear debris is swept aside by spindle fibers and pushed toward the cell edges.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:44:34",
+      "updated_at": "2026-05-23T11:44:34"
+    },
+    "429ddcdf3987": {
+      "id": "429ddcdf3987",
+      "kind": "core_sentence",
+      "sentence": "A repair signal marks missing gaps in each rebuilding envelope until the nuclei become sealed.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:44:46",
+      "updated_at": "2026-05-23T11:44:46"
+    },
+    "2ebbafeb2429": {
+      "id": "2ebbafeb2429",
+      "kind": "core_sentence",
+      "sentence": "The envelope fragments carry different colors, showing which pieces belong to each daughter nucleus.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:45:04",
+      "updated_at": "2026-05-23T11:45:04"
+    },
+    "2d6f7668c7d5": {
+      "id": "2d6f7668c7d5",
+      "kind": "core_sentence",
+      "sentence": "Misplaced fragments drift between the two forming nuclei and must be redirected before the cell can finish dividing.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:45:22",
+      "updated_at": "2026-05-23T11:45:22"
+    },
+    "ab66c99fb832": {
+      "id": "ab66c99fb832",
+      "kind": "core_sentence",
+      "sentence": "The rebuilding nuclei pulse brighter whenever chromosomes settle into stable positions.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:45:44",
+      "updated_at": "2026-05-23T11:45:44"
+    },
+    "8e91bf5a2fce": {
+      "id": "8e91bf5a2fce",
+      "kind": "core_sentence",
+      "sentence": "As the envelopes reform, chromosomes gradually loosen and expand back into softer genetic clouds.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:45:53",
+      "updated_at": "2026-05-23T11:45:53"
+    },
+    "59ea69dc4982": {
+      "id": "59ea69dc4982",
+      "kind": "core_sentence",
+      "sentence": "The spindle fibers retract only after each new nucleus becomes fully enclosed.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:46:01",
+      "updated_at": "2026-05-23T11:46:01"
+    },
+    "3d0c0501ea9f": {
+      "id": "3d0c0501ea9f",
+      "kind": "core_sentence",
+      "sentence": "A wave of membrane contraction begins once both nuclear envelopes reach equal size.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:46:14",
+      "updated_at": "2026-05-23T11:46:14"
+    },
+    "cb13d4e651c7": {
+      "id": "cb13d4e651c7",
+      "kind": "core_sentence",
+      "sentence": "The cell delays final separation if one nucleus rebuilds faster than the other.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:46:40",
+      "updated_at": "2026-05-23T11:46:40"
+    },
+    "e85cf04f3f42": {
+      "id": "e85cf04f3f42",
+      "kind": "core_sentence",
+      "sentence": "Tiny pores appear across the new nuclear surfaces, opening and closing as signals pass through.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:46:51",
+      "updated_at": "2026-05-23T11:46:51"
+    },
+    "9a7cadbca396": {
+      "id": "9a7cadbca396",
+      "kind": "core_sentence",
+      "sentence": "Some envelope fragments fuse into vesicle-like bubbles before flattening into the new nuclear boundary.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:47:37",
+      "updated_at": "2026-05-23T11:47:37"
+    },
+    "42ec1b70ac7f": {
+      "id": "42ec1b70ac7f",
+      "kind": "core_sentence",
+      "sentence": "The cytoplasm reorganizes around the two nuclei, sending mitochondria and ribosomes toward each side.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:48:05",
+      "updated_at": "2026-05-23T11:48:05"
+    },
+    "09f3cca2449a": {
+      "id": "09f3cca2449a",
+      "kind": "core_sentence",
+      "sentence": "If the chromosome groups drift too far from their forming envelopes, the fragments stretch into unstable shapes.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:48:18",
+      "updated_at": "2026-05-23T11:48:18"
+    },
+    "7b384a5554a2": {
+      "id": "7b384a5554a2",
+      "kind": "core_sentence",
+      "sentence": "The new nuclei begin exchanging faint signals before the daughter cells fully pull apart.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:48:27",
+      "updated_at": "2026-05-23T11:48:27"
+    },
+    "44f467b11a3c": {
+      "id": "44f467b11a3c",
+      "kind": "core_sentence",
+      "sentence": "A quality-control system scans each rebuilt envelope for holes, leaks, or trapped spindle fibers.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:48:46",
+      "updated_at": "2026-05-23T11:48:46"
+    },
+    "8a8189b5ce41": {
+      "id": "8a8189b5ce41",
+      "kind": "core_sentence",
+      "sentence": "The two forming nuclei rotate slightly as envelope fragments wrap around them from different directions.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:49:07",
+      "updated_at": "2026-05-23T11:49:07"
+    },
+    "e1da046fe08a": {
+      "id": "e1da046fe08a",
+      "kind": "core_sentence",
+      "sentence": "Once both envelopes close, the chromosomes dim, the spindle fades, and the daughter cells begin to grow separately.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:49:19",
+      "updated_at": "2026-05-23T11:49:19"
+    },
+    "311ee40f54b7": {
+      "id": "311ee40f54b7",
+      "kind": "core_sentence",
+      "sentence": "Unstable connections flicker and detach until each chromosome feels equal pull from opposite sides.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:56:44",
+      "updated_at": "2026-05-23T11:56:44"
+    },
+    "390853a9201e": {
+      "id": "390853a9201e",
+      "kind": "core_sentence",
+      "sentence": "The central line becomes brighter as more chromosomes lock into balanced positions.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:56:54",
+      "updated_at": "2026-05-23T11:56:54"
+    },
+    "4baee8f20aca": {
+      "id": "4baee8f20aca",
+      "kind": "core_sentence",
+      "sentence": "Some microtubules miss their targets and dissolve into drifting particles before regrowing in a new direction.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:57:02",
+      "updated_at": "2026-05-23T11:57:02"
+    },
+    "2d281a24ad03": {
+      "id": "2d281a24ad03",
+      "kind": "core_sentence",
+      "sentence": "A tension signal travels from each chromosome to the poles, showing which attachments are strong enough to keep.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:57:23",
+      "updated_at": "2026-05-23T11:57:23"
+    },
+    "ed2aa7bcfe45": {
+      "id": "ed2aa7bcfe45",
+      "kind": "core_sentence",
+      "sentence": "The spindle poles shift slightly to correct an uneven pull before separation begins.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:57:33",
+      "updated_at": "2026-05-23T11:57:33"
+    },
+    "0c880e376565": {
+      "id": "0c880e376565",
+      "kind": "core_sentence",
+      "sentence": "A single lagging chromosome causes the entire system to pause and reorganize around it.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:57:42",
+      "updated_at": "2026-05-23T11:57:42"
+    },
+    "01649086f856": {
+      "id": "01649086f856",
+      "kind": "core_sentence",
+      "sentence": "Microtubules that attach correctly become thicker, while weak fibers thin out and disappear.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:57:52",
+      "updated_at": "2026-05-23T11:57:52"
+    },
+    "56118190b86a": {
+      "id": "56118190b86a",
+      "kind": "core_sentence",
+      "sentence": "Chromosomes rotate slowly as fibers tug from different angles and search for symmetry.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:58:56",
+      "updated_at": "2026-05-23T11:58:56"
+    },
+    "b918b8ff4ede": {
+      "id": "b918b8ff4ede",
+      "kind": "core_sentence",
+      "sentence": "A checkpoint glow spreads across the center whenever one chromosome is not aligned.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:59:05",
+      "updated_at": "2026-05-23T11:59:05"
+    },
+    "c46218d01168": {
+      "id": "c46218d01168",
+      "kind": "core_sentence",
+      "sentence": "The cell interior becomes filled with crossing fiber paths, but only the stable ones remain visible.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:59:12",
+      "updated_at": "2026-05-23T11:59:12"
+    },
+    "014cf4a2d4f0": {
+      "id": "014cf4a2d4f0",
+      "kind": "core_sentence",
+      "sentence": "Motor proteins appear as small moving beads that crawl along the fibers and pull chromosomes into place.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:59:47",
+      "updated_at": "2026-05-23T11:59:47"
+    },
+    "6192ba2218ce": {
+      "id": "6192ba2218ce",
+      "kind": "core_sentence",
+      "sentence": "When the line becomes stable, the fibers shorten together and draw chromosome halves toward opposite poles.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T12:00:09",
+      "updated_at": "2026-05-23T12:00:09"
+    },
+    "b5cee0f53665": {
+      "id": "b5cee0f53665",
+      "kind": "core_sentence",
+      "sentence": "The membrane stretches in response to the growing spindle, making the cell elongate before division.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T12:00:40",
+      "updated_at": "2026-05-23T12:00:40"
+    },
+    "eb9731347576": {
+      "id": "eb9731347576",
+      "kind": "core_sentence",
+      "sentence": "Broken fibers leave faint trails that show failed attempts before new connections form.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T12:00:45",
+      "updated_at": "2026-05-23T12:00:45"
+    },
+    "24e54cd5b522": {
+      "id": "24e54cd5b522",
+      "kind": "core_sentence",
+      "sentence": "The poles pulse with alternating growth and retraction, turning alignment into a repeated search pattern.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T12:01:48",
+      "updated_at": "2026-05-23T12:01:48"
+    },
+    "72e7a3cd37e4": {
+      "id": "72e7a3cd37e4",
+      "kind": "core_sentence",
+      "sentence": "Nearby organelles drift away from the spindle zone to clear space for chromosome movement.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T12:02:20",
+      "updated_at": "2026-05-23T12:02:20"
+    },
+    "45967ff86d2b": {
+      "id": "45967ff86d2b",
+      "kind": "core_sentence",
+      "sentence": "If a chromosome overshoots the center, opposing fibers pull it back into position.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T12:02:31",
+      "updated_at": "2026-05-23T12:02:31"
+    },
+    "e34d0d9f99b0": {
+      "id": "e34d0d9f99b0",
+      "kind": "core_sentence",
+      "sentence": "A stress signal slows fiber growth, making the search process more cautious and deliberate.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T12:02:40",
+      "updated_at": "2026-05-23T12:02:40"
+    },
+    "0c3801e3ce40": {
+      "id": "0c3801e3ce40",
+      "kind": "core_sentence",
+      "sentence": "The spindle begins to twist slightly, forcing the chromosomes to align in a rotating plane.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T12:02:47",
+      "updated_at": "2026-05-23T12:02:47"
+    },
+    "33f6eb14c87c": {
+      "id": "33f6eb14c87c",
+      "kind": "core_sentence",
+      "sentence": "Once alignment succeeds, the central line splits into two mirrored streams moving away from each other.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T12:02:55",
+      "updated_at": "2026-05-23T12:02:55"
+    },
+    "e185d7c16f08": {
+      "id": "e185d7c16f08",
+      "kind": "core_sentence",
+      "sentence": "Multiple branching neuron-like structures whose axons and dendrites grow, connect, and detach while glowing particles pulse along synapses.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "3e031e2a2d",
+          "filename": "sentence-script-multiple-branching-neuron-like-structures-whose-axons-and-dendrites-gr-d42aee8a.py",
+          "note": "",
+          "created_at": "2026-05-23T12:11:18",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T12:10:58",
+      "updated_at": "2026-05-23T12:11:18"
+    },
+    "3b78036bd507": {
+      "id": "3b78036bd507",
+      "kind": "core_sentence",
+      "sentence": "Rod-shaped bacteria that replicate, slide, and cluster on a light-colored plane, leaving faint trails of secreted “slime,” forming expanding biofilm patches with color changes indicating nutrient-rich vs. depleted regions.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "0a98f84655",
+          "filename": "sentence-script-rod-shaped-bacteria-that-replicate-slide-and-cluster-on-a-light-colore-98161493.py",
+          "note": "",
+          "created_at": "2026-05-23T12:13:12",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T12:12:53",
+      "updated_at": "2026-05-23T12:13:12"
+    },
+    "24dea88571ed": {
+      "id": "24dea88571ed",
+      "kind": "core_sentence",
+      "sentence": "A school of small fish spheres that align, turn, and avoid collisions while larger predators object chases them, with coral-like stationary obstacles, escape paths leaving short trails, and color shifts when prey are “caught.”",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [
+        "0f775fc9a2f8",
+        "a81d26507fc1",
+        "4123838cb852",
+        "f30b0b2cda6b",
+        "2f0745e0f895",
+        "df0a4d41e313",
+        "a8b40f6edc9c",
+        "01b366e3726c",
+        "afad174a1023",
+        "ac93c97f0e08",
+        "d0b7d92735ce",
+        "3fcbc2f92385",
+        "a284110558a1",
+        "133c229b416e",
+        "c152123e28d6",
+        "0bd0b8603797",
+        "1fab852ecfd4",
+        "d14b1510ae73",
+        "37a2fb36d59e",
+        "6bbd1bb25965"
+      ],
+      "scripts": [
+        {
+          "id": "e7a92d292d",
+          "filename": "sentence-script-a-school-of-small-fish-spheres-that-align-turn-and-avoid-collisions-wh-f0a7b714.py",
+          "note": "",
+          "created_at": "2026-05-23T12:15:43",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T12:15:15",
+      "updated_at": "2026-05-23T16:03:33"
+    },
+    "0f775fc9a2f8": {
+      "id": "0f775fc9a2f8",
+      "kind": "core_sentence",
+      "sentence": "The group splits into smaller clusters when danger gets too close, then reforms when the threat passes.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [
+        "2a5896e9fc9e"
+      ],
+      "scripts": [
+        {
+          "id": "e98f85d813",
+          "filename": "sentence-script-the-group-splits-into-smaller-clusters-when-danger-gets-too-close-then-567731f9.py",
+          "note": "",
+          "created_at": "2026-05-23T16:11:43",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T15:50:59",
+      "updated_at": "2026-05-23T16:22:23"
+    },
+    "a81d26507fc1": {
+      "id": "a81d26507fc1",
+      "kind": "core_sentence",
+      "sentence": "Some individuals panic and break formation, creating confusion that spreads through nearby swimmers.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [
+        {
+          "id": "b305324cef",
+          "filename": "sentence-script-some-individuals-panic-and-break-formation-creating-confusion-that-spr-ceba5cb6.py",
+          "note": "",
+          "created_at": "2026-05-23T16:24:23",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T15:58:57",
+      "updated_at": "2026-05-23T16:24:23"
+    },
+    "4123838cb852": {
+      "id": "4123838cb852",
+      "kind": "core_sentence",
+      "sentence": "Safe zones appear behind obstacles, causing the group to weave through narrow gaps and hidden corridors",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [
+        {
+          "id": "b0858c3416",
+          "filename": "sentence-script-safe-zones-appear-behind-obstacles-causing-the-group-to-weave-through-41aadbc9.py",
+          "note": "",
+          "created_at": "2026-05-23T16:32:40",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T15:59:13",
+      "updated_at": "2026-05-23T16:32:40"
+    },
+    "f30b0b2cda6b": {
+      "id": "f30b0b2cda6b",
+      "kind": "core_sentence",
+      "sentence": "The predator learns which escape paths are most common and begins cutting off predictable routes.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [
+        {
+          "id": "153344cb2b",
+          "filename": "sentence-script-the-predator-learns-which-escape-paths-are-most-common-and-begins-cutt-c978ac40.py",
+          "note": "",
+          "created_at": "2026-05-23T16:41:51",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T15:59:22",
+      "updated_at": "2026-05-23T16:41:51"
+    },
+    "2f0745e0f895": {
+      "id": "2f0745e0f895",
+      "kind": "core_sentence",
+      "sentence": "A few faster swimmers act as scouts, flashing warnings that redirect the rest of the group.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [
+        {
+          "id": "bb210efa54",
+          "filename": "sentence-script-a-few-faster-swimmers-act-as-scouts-flashing-warnings-that-redirect-th-d83750f7.py",
+          "note": "",
+          "created_at": "2026-05-23T17:10:17",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T15:59:33",
+      "updated_at": "2026-05-23T17:10:17"
+    },
+    "df0a4d41e313": {
+      "id": "df0a4d41e313",
+      "kind": "core_sentence",
+      "sentence": "Currents push everyone sideways, forcing the chase to bend around drifting flow fields.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [
+        {
+          "id": "5862bfbb4d",
+          "filename": "sentence-script-currents-push-everyone-sideways-forcing-the-chase-to-bend-around-drift-693bdf8a.py",
+          "note": "",
+          "created_at": "2026-05-23T17:30:07",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T15:59:44",
+      "updated_at": "2026-05-23T17:30:07"
+    },
+    "a8b40f6edc9c": {
+      "id": "a8b40f6edc9c",
+      "kind": "core_sentence",
+      "sentence": "When attacked, the group forms a dense rotating ball that makes individual targets harder to isolate.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [
+        {
+          "id": "1a95778988",
+          "filename": "sentence-script-when-cornered-the-group-forms-a-dense-rotating-ball-that-makes-individ-740578f4.py",
+          "note": "",
+          "created_at": "2026-05-23T17:34:13",
+          "manual_entry": true
+        },
+        {
+          "id": "98d0130ba9",
+          "filename": "sentence-script-when-attacked-the-group-forms-a-dense-rotating-ball-that-makes-individ-671303df.py",
+          "note": "",
+          "created_at": "2026-05-23T17:39:07",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T15:59:53",
+      "updated_at": "2026-05-23T17:39:07"
+    },
+    "01b366e3726c": {
+      "id": "01b366e3726c",
+      "kind": "core_sentence",
+      "sentence": "Obstacles create shadows and blind spots where movement becomes slower but safer.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T16:00:02",
+      "updated_at": "2026-05-23T16:00:02"
+    },
+    "afad174a1023": {
+      "id": "afad174a1023",
+      "kind": "core_sentence",
+      "sentence": "Predators occasionally lung forward in bursts, overshooting if the group turns sharply enough.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T16:00:46",
+      "updated_at": "2026-05-23T16:00:46"
+    },
+    "ac93c97f0e08": {
+      "id": "ac93c97f0e08",
+      "kind": "core_sentence",
+      "sentence": "Captured prey fade into ghost trails that briefly confuse predators’ targeting.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T16:01:03",
+      "updated_at": "2026-05-23T16:01:03"
+    },
+    "d0b7d92735ce": {
+      "id": "d0b7d92735ce",
+      "kind": "core_sentence",
+      "sentence": "The school develops memory, avoiding regions where captures happened recently.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T16:01:51",
+      "updated_at": "2026-05-23T16:01:51"
+    },
+    "3fcbc2f92385": {
+      "id": "3fcbc2f92385",
+      "kind": "core_sentence",
+      "sentence": "Some swimmers become decoys, flashing brighter and leading the predator away from the main group.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T16:01:53",
+      "updated_at": "2026-05-23T16:01:53"
+    },
+    "a284110558a1": {
+      "id": "a284110558a1",
+      "kind": "core_sentence",
+      "sentence": "The environment changes over time as coral passages open, close, or shift with the current.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T16:02:03",
+      "updated_at": "2026-05-23T16:02:03"
+    },
+    "133c229b416e": {
+      "id": "133c229b416e",
+      "kind": "core_sentence",
+      "sentence": "A hunger meter makes the predator grow more aggressive after long periods without a catch.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T16:02:12",
+      "updated_at": "2026-05-23T16:02:12"
+    },
+    "c152123e28d6": {
+      "id": "c152123e28d6",
+      "kind": "core_sentence",
+      "sentence": "The group’s color becomes more synchronized when alignment is strong and more scattered during panic.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T16:02:22",
+      "updated_at": "2026-05-23T16:02:22"
+    },
+    "0bd0b8603797": {
+      "id": "0bd0b8603797",
+      "kind": "core_sentence",
+      "sentence": "If the predator enters a maze-like region, the group uses obstacles to trap it in slow turning loops.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T16:02:36",
+      "updated_at": "2026-05-23T16:02:36"
+    },
+    "1fab852ecfd4": {
+      "id": "1fab852ecfd4",
+      "kind": "core_sentence",
+      "sentence": "New prey spawn near protected areas, then gradually learn to match the movement of nearby swimmers.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T16:02:50",
+      "updated_at": "2026-05-23T16:02:50"
+    },
+    "d14b1510ae73": {
+      "id": "d14b1510ae73",
+      "kind": "core_sentence",
+      "sentence": "The chase alternates between calm schooling, sudden scattering, hiding, regrouping, and counter-misdirection.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T16:03:01",
+      "updated_at": "2026-05-23T16:03:01"
+    },
+    "37a2fb36d59e": {
+      "id": "37a2fb36d59e",
+      "kind": "core_sentence",
+      "sentence": "Trails reveal repeated escape routes, turning the environment into a visible map of past decisions.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T16:03:14",
+      "updated_at": "2026-05-23T16:03:14"
+    },
+    "6bbd1bb25965": {
+      "id": "6bbd1bb25965",
+      "kind": "core_sentence",
+      "sentence": "When the group survives long enough, predators changes strategy from direct pursuit to ambush.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T16:03:33",
+      "updated_at": "2026-05-23T16:03:33"
+    },
+    "2a5896e9fc9e": {
+      "id": "2a5896e9fc9e",
+      "kind": "core_sentence",
+      "sentence": "Some individuals panic and break formation, creating confusion that spreads through nearby swimmers.",
+      "title": "Next sentence branch",
+      "parent_id": "0f775fc9a2f8",
+      "children": [],
+      "scripts": [
+        {
+          "id": "644fc0a097",
+          "filename": "sentence-script-some-individuals-panic-and-break-formation-creating-confusion-that-spr-b371d3fd.py",
+          "note": "",
+          "created_at": "2026-05-23T16:25:28",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T16:22:23",
+      "updated_at": "2026-05-23T16:25:28"
     }
   }
 }

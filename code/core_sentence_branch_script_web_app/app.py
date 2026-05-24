@@ -112,6 +112,31 @@ def node_summary(node: dict[str, Any]) -> dict[str, Any]:
     }
 
 
+
+def sentence_path(tree: dict[str, Any], node_id: str) -> list[dict[str, Any]]:
+    nodes = tree.get("nodes", {})
+    path: list[dict[str, Any]] = []
+    seen: set[str] = set()
+    current_id = node_id
+    while current_id and current_id not in seen:
+        seen.add(current_id)
+        node = nodes.get(current_id)
+        if not node:
+            break
+        path.append(node_summary(node))
+        current_id = node.get("parent_id")
+    path.reverse()
+    return path
+
+
+def story_text_from_path(path: list[dict[str, Any]]) -> str:
+    return " ".join(
+        str(item.get("sentence", "")).strip()
+        for item in path
+        if str(item.get("sentence", "")).strip()
+    )
+
+
 def script_info(filename: str) -> dict[str, Any]:
     path = safe_resolve(SCRIPTS_DIR, filename)
     if not path.exists():
@@ -187,7 +212,16 @@ def api_node(node_id: str):
                     scripts.append(info)
                 except Exception:
                     pass
-        return jsonify({"ok": True, "node": node_summary(node), "parent": parent, "children": children, "scripts": scripts})
+        path = sentence_path(tree, node_id)
+        return jsonify({
+            "ok": True,
+            "node": node_summary(node),
+            "parent": parent,
+            "children": children,
+            "scripts": scripts,
+            "path": path,
+            "story": story_text_from_path(path),
+        })
     except Exception as exc:
         return jsonify({"ok": False, "error": str(exc)}), 404
 

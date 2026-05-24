@@ -1,0 +1,11 @@
+Running: /Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-a-school-of-small-fish-spheres-that-align-turn-and-avoid-collisions-wh-f0a7b714.py
+Started: 2026-05-23T12:15:46
+
+Task exception was never retrieved
+future: <Task finished name='Task-2024' coro=<WSserver.onMessage() done, defined at /opt/homebrew/Caskroom/miniconda/base/lib/python3.12/site-packages/vpython/no_notebook.py:197> exception=Disconnected('Attempt to send on a closed protocol')>
+Traceback (most recent call last):
+  File "/opt/homebrew/Caskroom/miniconda/base/lib/python3.12/site-packages/vpython/no_notebook.py", line 220, in onMessage
+    self.sendMessage(jdata, isBinary=False)
+  File "/opt/homebrew/Caskroom/miniconda/base/lib/python3.12/site-packages/autobahn/websocket/protocol.py", line 2555, in sendMessage
+    raise Disconnected("Attempt to send on a closed protocol")
+autobahn.exception.Disconnected: Attempt to send on a closed protocol

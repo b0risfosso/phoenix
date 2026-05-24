@@ -1,0 +1,14 @@
+Running: /Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-rod-shaped-bacteria-that-replicate-slide-and-cluster-on-a-light-colore-98161493.py
+Started: 2026-05-23T12:13:15
+
+Traceback (most recent call last):
+  File "/Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-rod-shaped-bacteria-that-replicate-slide-and-cluster-on-a-light-colore-98161493.py", line 1408, in <module>
+    ai.update(dt)
+  File "/Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-rod-shaped-bacteria-that-replicate-slide-and-cluster-on-a-light-colore-98161493.py", line 1231, in update
+    self.perform_mode_action(state, dt)
+  File "/Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-rod-shaped-bacteria-that-replicate-slide-and-cluster-on-a-light-colore-98161493.py", line 1191, in perform_mode_action
+    scrape_area(self.cursor_pos, radius=random.uniform(0.9, 1.5), harshness=random.uniform(0.22, 0.55))
+  File "/Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-rod-shaped-bacteria-that-replicate-slide-and-cluster-on-a-light-colore-98161493.py", line 749, in scrape_area
+    b.vel += safe_norm(flat(b.pos - pos) + vector(random.uniform(-0.2, 0, 0.2), 0, random.uniform(-0.2, 0, 0.2))) * harshness * 0.5
+                                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: Random.uniform() takes 3 positional arguments but 4 were given

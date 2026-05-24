@@ -34,3 +34,10 @@ Scripts are stored in:
 ```text
 $SIMULATION_SHARED_DATA_DIR/scripts/
 ```
+
+## Added UI behavior
+
+- The sentence node page includes a **Story** panel.
+- The Story panel concatenates all sentences from the root/core sentence to the current node into one paragraph.
+- The tree page supports branch expand/collapse.
+- Use **Expand all** and **Collapse all** on the tree page.

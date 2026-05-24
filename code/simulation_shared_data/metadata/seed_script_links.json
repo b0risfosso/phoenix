@@ -31,5 +31,38 @@
       "temperature": null,
       "created_at": "2026-05-22T18:44:31"
     }
+  ],
+  "20260522-183937-biological-organism-20258f85.json::3": [
+    {
+      "script_filename": "vpython-simulation-bacterial-colony-growth-on-a-3d-surface-rod-shaped-bacteria-that-repli-ee5ad697.py",
+      "seed_file": "20260522-183937-biological-organism-20258f85.json",
+      "seed_number": "3",
+      "seed_text": "Bacterial Colony Growth on a 3D Surface: Rod-shaped bacteria that replicate, slide, and cluster on a light-colored plane, leaving faint trails of secreted “slime,” forming expanding biofilm patches with color changes indicating nutrient-rich vs. depleted regions.",
+      "model": "gpt-5.5",
+      "temperature": null,
+      "created_at": "2026-05-23T11:18:36"
+    }
+  ],
+  "20260522-183937-biological-organism-20258f85.json::4": [
+    {
+      "script_filename": "vpython-simulation-predator-prey-fish-school-in-a-reef-a-school-of-small-fish-spheres-tha-72fa5360.py",
+      "seed_file": "20260522-183937-biological-organism-20258f85.json",
+      "seed_number": "4",
+      "seed_text": "Predator–Prey Fish School in a Reef: A school of small fish spheres that align, turn, and avoid collisions while a larger predator object chases them, with coral-like stationary obstacles, escape paths leaving short trails, and color shifts when prey are “caught.”",
+      "model": "gpt-5.5",
+      "temperature": null,
+      "created_at": "2026-05-23T11:18:37"
+    }
+  ],
+  "20260522-183937-biological-organism-20258f85.json::2": [
+    {
+      "script_filename": "vpython-simulation-3d-neuron-network-with-firing-signals-multiple-branching-neuron-like-s-5894e643.py",
+      "seed_file": "20260522-183937-biological-organism-20258f85.json",
+      "seed_number": "2",
+      "seed_text": "3D Neuron Network with Firing Signals: Multiple branching neuron-like structures whose axons and dendrites grow, connect, and detach while glowing particles pulse along synapses, with labels for each neuron and a meter showing overall network activity.",
+      "model": "gpt-5.5",
+      "temperature": null,
+      "created_at": "2026-05-23T11:18:39"
+    }
   ]
 }
