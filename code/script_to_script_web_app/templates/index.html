@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Script-to-Script Stories</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div>
+      <h1>Script-to-Script Stories</h1>
+      <p>Select a story to open its linked script.</p>
+    </div>
+    <nav>
+      <a href="/">Stories</a>
+      <a href="/api/data-location" target="_blank">Data location</a>
+    </nav>
+  </header>
+
+  <main class="layout story-home-layout">
+    <aside class="panel">
+      <h2>Story library</h2>
+      <label for="searchBox">Search story, sentence, or script</label>
+      <input id="searchBox" type="text" placeholder="cell, membrane, trail, orbit">
+
+      <label class="checkline">
+        <input id="scriptedOnlyCheck" type="checkbox">
+        Only show stories with scripts
+      </label>
+
+      <button id="refreshBtn">Refresh</button>
+      <p id="status" class="status"></p>
+
+      <hr>
+
+      <h2>Selected story</h2>
+      <p id="selectedStoryPreview" class="story-preview-muted">No story selected.</p>
+    </aside>
+
+    <section class="panel wide">
+      <div class="result-header">
+        <h2>Stories</h2>
+        <p id="countLabel" class="meta"></p>
+      </div>
+      <div id="storyList" class="cards story-cards"></div>
+    </section>
+  </main>
+
+  <script src="/static/index.js"></script>
+</body>
+</html>

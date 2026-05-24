@@ -1,0 +1,15 @@
+{
+  "links": {
+    "sample-parent-script.py": [
+      {
+        "id": "samplelink01",
+        "parent_filename": "sample-parent-script.py",
+        "child_filename": "sample-child-script.py",
+        "relationship": "sample variation",
+        "note": "A manually linked child script.",
+        "created_at": "2026-05-22T00:00:00",
+        "manual_entry": true
+      }
+    ]
+  }
+}

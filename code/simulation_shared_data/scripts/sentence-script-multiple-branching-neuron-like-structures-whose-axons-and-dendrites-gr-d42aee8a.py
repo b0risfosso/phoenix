@@ -80,6 +80,20 @@ def random_pastel():
 
 
 def hide_obj(o):
+    """Hide a VPython object and clear any retained trail geometry.
+
+    VPython trails created with make_trail=True are not removed just by setting
+    the parent object invisible. reset_round() hides old signal/free-particle
+    spheres, but their trails can remain in the scene unless clear_trail() is
+    called first.
+    """
+    if o is None:
+        return
+    try:
+        if hasattr(o, "clear_trail"):
+            o.clear_trail()
+    except Exception:
+        pass
     try:
         o.visible = False
     except Exception:

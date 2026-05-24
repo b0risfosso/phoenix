@@ -1,0 +1,30 @@
+{
+  "root_id": "root",
+  "nodes": {
+    "root": {
+      "id": "root",
+      "title": "Sample core sentence",
+      "sentence": "A transparent 3D cell contains moving particles that organize into visible patterns.",
+      "parent_id": null,
+      "children": [
+        "child001"
+      ],
+      "scripts": [
+        {
+          "id": "script001",
+          "filename": "sample-cycle-script.py",
+          "note": "Sample linked script",
+          "created_at": "2026-05-22T00:00:00"
+        }
+      ]
+    },
+    "child001": {
+      "id": "child001",
+      "title": "Sample next sentence",
+      "sentence": "The particles begin leaving trails that reveal how the pattern formed.",
+      "parent_id": "root",
+      "children": [],
+      "scripts": []
+    }
+  }
+}

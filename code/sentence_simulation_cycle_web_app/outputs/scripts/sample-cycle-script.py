@@ -1,0 +1,1 @@
+from vpython import *\n\nscene = canvas(title="Sample cycle simulation", background=color.white)\nball = sphere(pos=vector(-2,0,0), radius=0.35, color=color.blue, make_trail=True)\nv = vector(0.04,0,0)\nwhile True:\n    rate(60)\n    ball.pos += v\n    if abs(ball.pos.x) > 2:\n        v.x *= -1\n
