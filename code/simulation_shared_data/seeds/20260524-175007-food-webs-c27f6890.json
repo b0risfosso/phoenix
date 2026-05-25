@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Food webs",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:50:07",
+  "entries": [
+    {
+      "number": "1",
+      "title": "3D Forest Food Web Orbits",
+      "description": "A 3D forest clearing where colored spheres (plants, herbivores, carnivores) slowly orbit a central sun, with glowing arrows dynamically attaching between predator and prey when they approach, thickness showing energy transfer, and labels hovering above each species.",
+      "seed": "3D Forest Food Web Orbits: A 3D forest clearing where colored spheres (plants, herbivores, carnivores) slowly orbit a central sun, with glowing arrows dynamically attaching between predator and prey when they approach, thickness showing energy transfer, and labels hovering above each species."
+    },
+    {
+      "number": "2",
+      "title": "Aquatic Food Web Bubble Columns",
+      "description": "Transparent blue water columns with drifting plankton particles, fish models cruising along curved paths, and a shark torus sweeping through, where each “eating” event triggers a short-lived energy pulse that travels as a bright particle trail up a branching 3D web diagram on the side.",
+      "seed": "Aquatic Food Web Bubble Columns: Transparent blue water columns with drifting plankton particles, fish models cruising along curved paths, and a shark torus sweeping through, where each “eating” event triggers a short-lived energy pulse that travels as a bright particle trail up a branching 3D web diagram on the side."
+    },
+    {
+      "number": "3",
+      "title": "Energy Pyramid to Food Web Transition",
+      "description": "A vertical energy pyramid of stacked transparent boxes (producers to apex predators) slowly unfolds and rotates into a 3D network of connected nodes, with colored tubes stretching, bending, and reattaching to show changing predator–prey links as a slider is moved.",
+      "seed": "Energy Pyramid to Food Web Transition: A vertical energy pyramid of stacked transparent boxes (producers to apex predators) slowly unfolds and rotates into a 3D network of connected nodes, with colored tubes stretching, bending, and reattaching to show changing predator–prey links as a slider is moved."
+    },
+    {
+      "number": "4",
+      "title": "Urban Food Web on Floating Platforms",
+      "description": "Floating platforms representing gardens, trash bins, restaurants, and parks hover in 3D space, with pigeons, rats, insects, and humans as moving icons that bounce between platforms, leaving colored trails and drawing/erasing thin semi-transparent links as feeding events occur.",
+      "seed": "Urban Food Web on Floating Platforms: Floating platforms representing gardens, trash bins, restaurants, and parks hover in 3D space, with pigeons, rats, insects, and humans as moving icons that bounce between platforms, leaving colored trails and drawing/erasing thin semi-transparent links as feeding events occur."
+    },
+    {
+      "number": "5",
+      "title": "Seasonal Food Web Collapse",
+      "description": "A meadow scene where plant patches grow and shrink, insects swarm, and birds glide overhead, while a large translucent “winter” plane slowly descends, causing some links to fade, some species spheres to dim and shrink, and remaining links to thicken and glow to show who survives.",
+      "seed": "Seasonal Food Web Collapse: A meadow scene where plant patches grow and shrink, insects swarm, and birds glide overhead, while a large translucent “winter” plane slowly descends, causing some links to fade, some species spheres to dim and shrink, and remaining links to thicken and glow to show who survives."
+    },
+    {
+      "number": "6",
+      "title": "Coral Reef Food Web Tower",
+      "description": "A vertical coral column filled with small fish, plankton clouds, and top predators, where each predation event generates a glowing energy packet that spirals upward through a 3D network “tower” to a top node, with adjustable sliders to change fishing pressure and see links break.",
+      "seed": "Coral Reef Food Web Tower: A vertical coral column filled with small fish, plankton clouds, and top predators, where each predation event generates a glowing energy packet that spirals upward through a 3D network “tower” to a top node, with adjustable sliders to change fishing pressure and see links break."
+    },
+    {
+      "number": "7",
+      "title": "Food Web as 3D Circuit Board",
+      "description": "A light-colored 3D circuit-board landscape where components are species blocks and bright wires are feeding links; energy packets (small glowing spheres) travel along wires, split at junctions, and fade as they reach sinks, while switches can detach/attach wires to simulate extinctions or invasions.",
+      "seed": "Food Web as 3D Circuit Board: A light-colored 3D circuit-board landscape where components are species blocks and bright wires are feeding links; energy packets (small glowing spheres) travel along wires, split at junctions, and fade as they reach sinks, while switches can detach/attach wires to simulate extinctions or invasions."
+    },
+    {
+      "number": "8",
+      "title": "Soil Microbial Food Web Under a Field",
+      "description": "A cutaway soil block beneath a green field shows roots, fungi, bacteria, and nematodes as tiny glowing shapes moving through pores, attaching to roots, and transferring energy up to plant stems, with hovering labels and semi-transparent layers toggling between microscopic and macroscopic views.",
+      "seed": "Soil Microbial Food Web Under a Field: A cutaway soil block beneath a green field shows roots, fungi, bacteria, and nematodes as tiny glowing shapes moving through pores, attaching to roots, and transferring energy up to plant stems, with hovering labels and semi-transparent layers toggling between microscopic and macroscopic views."
+    },
+    {
+      "number": "9",
+      "title": "Arctic Sea Ice Food Web Drift",
+      "description": "Floating ice slabs gently drift and rotate on a pale blue plane, bearing seals, polar bears, and bird models, while under the ice transparent spheres of algae and fish move; as an ice slab dissolves, its species detach and swim or walk to other slabs, stretching and snapping food web links.",
+      "seed": "Arctic Sea Ice Food Web Drift: Floating ice slabs gently drift and rotate on a pale blue plane, bearing seals, polar bears, and bird models, while under the ice transparent spheres of algae and fish move; as an ice slab dissolves, its species detach and swim or walk to other slabs, stretching and snapping food web links."
+    },
+    {
+      "number": "10",
+      "title": "3D Food Web Jenga Tower",
+      "description": "A vertical stack of labeled blocks represents species; when a block is “removed” by clicking, connecting glowing filaments to other blocks slacken, wrap, or snap, causing dependent blocks to wobble, slide, and sometimes fall, while energy arrows fade to show cascading food web effects.",
+      "seed": "3D Food Web Jenga Tower: A vertical stack of labeled blocks represents species; when a block is “removed” by clicking, connecting glowing filaments to other blocks slacken, wrap, or snap, causing dependent blocks to wobble, slide, and sometimes fall, while energy arrows fade to show cascading food web effects."
+    },
+    {
+      "number": "11",
+      "title": "Night–Day Food Web Switcher",
+      "description": "A savanna plane cycles between bright day and dim night; diurnal and nocturnal species spheres brighten and move during their active phase, attaching predator–prey links as they collide, while inactive spheres dim and sink slightly into the ground, temporarily dropping their links.",
+      "seed": "Night–Day Food Web Switcher: A savanna plane cycles between bright day and dim night; diurnal and nocturnal species spheres brighten and move during their active phase, attaching predator–prey links as they collide, while inactive spheres dim and sink slightly into the ground, temporarily dropping their links."
+    },
+    {
+      "number": "12",
+      "title": "Food Web Energy Flow Fountain",
+      "description": "A central “producer” basin emits glowing particles that bounce upward into hovering herbivore bowls, then spill further into carnivore bowls arranged in a 3D ring; users can move basins and bowls around, and the connecting energy streams flex and re-route to maintain the web.",
+      "seed": "Food Web Energy Flow Fountain: A central “producer” basin emits glowing particles that bounce upward into hovering herbivore bowls, then spill further into carnivore bowls arranged in a 3D ring; users can move basins and bowls around, and the connecting energy streams flex and re-route to maintain the web."
+    },
+    {
+      "number": "13",
+      "title": "Island Invasion Food Web",
+      "description": "Several small islands hover above a pale sea plane, each with its own orbiting food web nodes; when an invasive species sphere flies in and lands on an island, it wraps new links to multiple prey nodes, while some native spheres shrink, turn transparent, and detach from the web.",
+      "seed": "Island Invasion Food Web: Several small islands hover above a pale sea plane, each with its own orbiting food web nodes; when an invasive species sphere flies in and lands on an island, it wraps new links to multiple prey nodes, while some native spheres shrink, turn transparent, and detach from the web."
+    },
+    {
+      "number": "14",
+      "title": "Human-Altered Agricultural Food Web",
+      "description": "A patchwork of 3D farm fields, hedgerows, and ponds hosts crops, pests, predators, and birds as icons moving along set paths; applying “pesticide” by clicking sprays a translucent cloud that causes some species to dissolve, while new links appear or thicken for surviving generalists.",
+      "seed": "Human-Altered Agricultural Food Web: A patchwork of 3D farm fields, hedgerows, and ponds hosts crops, pests, predators, and birds as icons moving along set paths; applying “pesticide” by clicking sprays a translucent cloud that causes some species to dissolve, while new links appear or thicken for surviving generalists."
+    },
+    {
+      "number": "15",
+      "title": "Food Web as Climbing Network",
+      "description": "A 3D climbing frame of rods and nodes floats in space, with insect, bird, and mammal icons crawling along rods; each feeding interaction strengthens (brightens and thickens) that rod, while unused rods gradually fade and detach, letting parts of the frame collapse or hang loosely.",
+      "seed": "Food Web as Climbing Network: A 3D climbing frame of rods and nodes floats in space, with insect, bird, and mammal icons crawling along rods; each feeding interaction strengthens (brightens and thickens) that rod, while unused rods gradually fade and detach, letting parts of the frame collapse or hang loosely."
+    },
+    {
+      "number": "16",
+      "title": "Detritus-Based Food Web Spiral",
+      "description": "A spiral ramp descends into a semi-transparent brown “detritus pool” at the bottom, where fallen leaves and carcasses drop, fragment, and are consumed by decomposer particles; these send glowing energy pulses back up twisting tubes to higher-level consumers circling the spiral.",
+      "seed": "Detritus-Based Food Web Spiral: A spiral ramp descends into a semi-transparent brown “detritus pool” at the bottom, where fallen leaves and carcasses drop, fragment, and are consumed by decomposer particles; these send glowing energy pulses back up twisting tubes to higher-level consumers circling the spiral."
+    },
+    {
+      "number": "17",
+      "title": "Food Web Network Under Climate Gradient",
+      "description": "A gentle 3D slope represents temperature, with identical species networks copied along it; as a climate slider is moved, some species nodes drift uphill or downhill, stretching and breaking links, while others appear or dissolve, and link colors shift from cool to warm to show stress.",
+      "seed": "Food Web Network Under Climate Gradient: A gentle 3D slope represents temperature, with identical species networks copied along it; as a climate slider is moved, some species nodes drift uphill or downhill, stretching and breaking links, while others appear or dissolve, and link colors shift from cool to warm to show stress."
+    },
+    {
+      "number": "18",
+      "title": "Planktonic Food Web in a Rotating Column",
+      "description": "A tall, slightly rotating transparent cylinder is filled with different-sized plankton spheres drifting, merging into colonies, and being grazed by larger zooplankton that leave faint vertical trails; feeding events emit short-lived colored bursts and momentarily thicken local link lines.",
+      "seed": "Planktonic Food Web in a Rotating Column: A tall, slightly rotating transparent cylinder is filled with different-sized plankton spheres drifting, merging into colonies, and being grazed by larger zooplankton that leave faint vertical trails; feeding events emit short-lived colored bursts and momentarily thicken local link lines."
+    },
+    {
+      "number": "19",
+      "title": "Food Web as Dynamic Subway Map",
+      "description": "A floating 3D “subway” of tubes and stations shows species as stations and feeding routes as colored lines; energy tokens travel along the tubes, split at junctions, and occasionally collide and merge, while users can temporarily close a station to see lines reroute or go dark.",
+      "seed": "Food Web as Dynamic Subway Map: A floating 3D “subway” of tubes and stations shows species as stations and feeding routes as colored lines; energy tokens travel along the tubes, split at junctions, and occasionally collide and merge, while users can temporarily close a station to see lines reroute or go dark."
+    },
+    {
+      "number": "20",
+      "title": "Forest Canopy–Understory Coupled Webs",
+      "description": "A layered forest with canopy, understory, and soil planes stacked in 3D contains species nodes on each level; vertical and horizontal links attach predators to prey between layers, and cutting a tree sphere makes attached canopy nodes drop, bounce, and reattach as understory or soil nodes.",
+      "seed": "Forest Canopy–Understory Coupled Webs: A layered forest with canopy, understory, and soil planes stacked in 3D contains species nodes on each level; vertical and horizontal links attach predators to prey between layers, and cutting a tree sphere makes attached canopy nodes drop, bounce, and reattach as understory or soil nodes."
+    },
+    {
+      "number": "21",
+      "title": "Food Web Shockwave Experiment",
+      "description": "A central disturbance (like a fishing boat or wildfire sphere) moves across a landscape, emitting expanding translucent shockwaves; when the wave passes a species node, its size and brightness change, causing connected links to either pulse brighter, slacken, or snap depending on impact.",
+      "seed": "Food Web Shockwave Experiment: A central disturbance (like a fishing boat or wildfire sphere) moves across a landscape, emitting expanding translucent shockwaves; when the wave passes a species node, its size and brightness change, causing connected links to either pulse brighter, slacken, or snap depending on impact."
+    },
+    {
+      "number": "22",
+      "title": "Food Web as 3D Elastic Web",
+      "description": "Species are small labeled beads suspended at the intersections of a transparent elastic web; predator–prey links are elastic strands that stretch, vibrate, and sometimes detach when beads are dragged around in 3D, sending ripples that cause distant strands to oscillate and tighten.",
+      "seed": "Food Web as 3D Elastic Web: Species are small labeled beads suspended at the intersections of a transparent elastic web; predator–prey links are elastic strands that stretch, vibrate, and sometimes detach when beads are dragged around in 3D, sending ripples that cause distant strands to oscillate and tighten."
+    },
+    {
+      "number": "23",
+      "title": "Parasite Threads in a Host Food Web",
+      "description": "A normal predator–prey network floats in space, while semi-transparent parasite spheres attach to hosts by thin filaments; parasites can detach, drift, and reattach to new hosts, dimming host colors and thickening certain feeding links to show altered behavior and energy flow.",
+      "seed": "Parasite Threads in a Host Food Web: A normal predator–prey network floats in space, while semi-transparent parasite spheres attach to hosts by thin filaments; parasites can detach, drift, and reattach to new hosts, dimming host colors and thickening certain feeding links to show altered behavior and energy flow."
+    },
+    {
+      "number": "24",
+      "title": "Food Web Nutrient Recycling Loop",
+      "description": "A circular 3D ring of producer and consumer nodes surrounds a central decomposer cluster; as consumption occurs, small nutrient particles fall inward, swirl in a vortex, then shoot back outward along curved paths to producers, visibly closing the nutrient loop.",
+      "seed": "Food Web Nutrient Recycling Loop: A circular 3D ring of producer and consumer nodes surrounds a central decomposer cluster; as consumption occurs, small nutrient particles fall inward, swirl in a vortex, then shoot back outward along curved paths to producers, visibly closing the nutrient loop."
+    },
+    {
+      "number": "25",
+      "title": "Time-Lapse Succession Food Web",
+      "description": "A bare ground plane gradually grows plants, then herbivores, then predators as time accelerates; nodes appear, grow, and float upward as they gain importance, while their links branch, merge, and sometimes dissolve, with a time slider letting users scrub back and forth through food web history.",
+      "seed": "Time-Lapse Succession Food Web: A bare ground plane gradually grows plants, then herbivores, then predators as time accelerates; nodes appear, grow, and float upward as they gain importance, while their links branch, merge, and sometimes dissolve, with a time slider letting users scrub back and forth through food web history."
+    }
+  ],
+  "raw_output": "Here are strong **Food webs simulation inputs** you can plug into your prompt:\n\n1. **3D Forest Food Web Orbits**\n   A 3D forest clearing where colored spheres (plants, herbivores, carnivores) slowly orbit a central sun, with glowing arrows dynamically attaching between predator and prey when they approach, thickness showing energy transfer, and labels hovering above each species.\n\n2. **Aquatic Food Web Bubble Columns**\n   Transparent blue water columns with drifting plankton particles, fish models cruising along curved paths, and a shark torus sweeping through, where each “eating” event triggers a short-lived energy pulse that travels as a bright particle trail up a branching 3D web diagram on the side.\n\n3. **Energy Pyramid to Food Web Transition**\n   A vertical energy pyramid of stacked transparent boxes (producers to apex predators) slowly unfolds and rotates into a 3D network of connected nodes, with colored tubes stretching, bending, and reattaching to show changing predator–prey links as a slider is moved.\n\n4. **Urban Food Web on Floating Platforms**\n   Floating platforms representing gardens, trash bins, restaurants, and parks hover in 3D space, with pigeons, rats, insects, and humans as moving icons that bounce between platforms, leaving colored trails and drawing/erasing thin semi-transparent links as feeding events occur.\n\n5. **Seasonal Food Web Collapse**\n   A meadow scene where plant patches grow and shrink, insects swarm, and birds glide overhead, while a large translucent “winter” plane slowly descends, causing some links to fade, some species spheres to dim and shrink, and remaining links to thicken and glow to show who survives.\n\n6. **Coral Reef Food Web Tower**\n   A vertical coral column filled with small fish, plankton clouds, and top predators, where each predation event generates a glowing energy packet that spirals upward through a 3D network “tower” to a top node, with adjustable sliders to change fishing pressure and see links break.\n\n7. **Food Web as 3D Circuit Board**\n   A light-colored 3D circuit-board landscape where components are species blocks and bright wires are feeding links; energy packets (small glowing spheres) travel along wires, split at junctions, and fade as they reach sinks, while switches can detach/attach wires to simulate extinctions or invasions.\n\n8. **Soil Microbial Food Web Under a Field**\n   A cutaway soil block beneath a green field shows roots, fungi, bacteria, and nematodes as tiny glowing shapes moving through pores, attaching to roots, and transferring energy up to plant stems, with hovering labels and semi-transparent layers toggling between microscopic and macroscopic views.\n\n9. **Arctic Sea Ice Food Web Drift**\n   Floating ice slabs gently drift and rotate on a pale blue plane, bearing seals, polar bears, and bird models, while under the ice transparent spheres of algae and fish move; as an ice slab dissolves, its species detach and swim or walk to other slabs, stretching and snapping food web links.\n\n10. **3D Food Web Jenga Tower**\n    A vertical stack of labeled blocks represents species; when a block is “removed” by clicking, connecting glowing filaments to other blocks slacken, wrap, or snap, causing dependent blocks to wobble, slide, and sometimes fall, while energy arrows fade to show cascading food web effects.\n\n11. **Night–Day Food Web Switcher**\n    A savanna plane cycles between bright day and dim night; diurnal and nocturnal species spheres brighten and move during their active phase, attaching predator–prey links as they collide, while inactive spheres dim and sink slightly into the ground, temporarily dropping their links.\n\n12. **Food Web Energy Flow Fountain**\n    A central “producer” basin emits glowing particles that bounce upward into hovering herbivore bowls, then spill further into carnivore bowls arranged in a 3D ring; users can move basins and bowls around, and the connecting energy streams flex and re-route to maintain the web.\n\n13. **Island Invasion Food Web**\n    Several small islands hover above a pale sea plane, each with its own orbiting food web nodes; when an invasive species sphere flies in and lands on an island, it wraps new links to multiple prey nodes, while some native spheres shrink, turn transparent, and detach from the web.\n\n14. **Human-Altered Agricultural Food Web**\n    A patchwork of 3D farm fields, hedgerows, and ponds hosts crops, pests, predators, and birds as icons moving along set paths; applying “pesticide” by clicking sprays a translucent cloud that causes some species to dissolve, while new links appear or thicken for surviving generalists.\n\n15. **Food Web as Climbing Network**\n    A 3D climbing frame of rods and nodes floats in space, with insect, bird, and mammal icons crawling along rods; each feeding interaction strengthens (brightens and thickens) that rod, while unused rods gradually fade and detach, letting parts of the frame collapse or hang loosely.\n\n16. **Detritus-Based Food Web Spiral**\n    A spiral ramp descends into a semi-transparent brown “detritus pool” at the bottom, where fallen leaves and carcasses drop, fragment, and are consumed by decomposer particles; these send glowing energy pulses back up twisting tubes to higher-level consumers circling the spiral.\n\n17. **Food Web Network Under Climate Gradient**\n    A gentle 3D slope represents temperature, with identical species networks copied along it; as a climate slider is moved, some species nodes drift uphill or downhill, stretching and breaking links, while others appear or dissolve, and link colors shift from cool to warm to show stress.\n\n18. **Planktonic Food Web in a Rotating Column**\n    A tall, slightly rotating transparent cylinder is filled with different-sized plankton spheres drifting, merging into colonies, and being grazed by larger zooplankton that leave faint vertical trails; feeding events emit short-lived colored bursts and momentarily thicken local link lines.\n\n19. **Food Web as Dynamic Subway Map**\n    A floating 3D “subway” of tubes and stations shows species as stations and feeding routes as colored lines; energy tokens travel along the tubes, split at junctions, and occasionally collide and merge, while users can temporarily close a station to see lines reroute or go dark.\n\n20. **Forest Canopy–Understory Coupled Webs**\n    A layered forest with canopy, understory, and soil planes stacked in 3D contains species nodes on each level; vertical and horizontal links attach predators to prey between layers, and cutting a tree sphere makes attached canopy nodes drop, bounce, and reattach as understory or soil nodes.\n\n21. **Food Web Shockwave Experiment**\n    A central disturbance (like a fishing boat or wildfire sphere) moves across a landscape, emitting expanding translucent shockwaves; when the wave passes a species node, its size and brightness change, causing connected links to either pulse brighter, slacken, or snap depending on impact.\n\n22. **Food Web as 3D Elastic Web**\n    Species are small labeled beads suspended at the intersections of a transparent elastic web; predator–prey links are elastic strands that stretch, vibrate, and sometimes detach when beads are dragged around in 3D, sending ripples that cause distant strands to oscillate and tighten.\n\n23. **Parasite Threads in a Host Food Web**\n    A normal predator–prey network floats in space, while semi-transparent parasite spheres attach to hosts by thin filaments; parasites can detach, drift, and reattach to new hosts, dimming host colors and thickening certain feeding links to show altered behavior and energy flow.\n\n24. **Food Web Nutrient Recycling Loop**\n    A circular 3D ring of producer and consumer nodes surrounds a central decomposer cluster; as consumption occurs, small nutrient particles fall inward, swirl in a vortex, then shoot back outward along curved paths to producers, visibly closing the nutrient loop.\n\n25. **Time-Lapse Succession Food Web**\n    A bare ground plane gradually grows plants, then herbivores, then predators as time accelerates; nodes appear, grow, and float upward as they gain importance, while their links branch, merge, and sometimes dissolve, with a time slider letting users scrub back and forth through food web history."
+}

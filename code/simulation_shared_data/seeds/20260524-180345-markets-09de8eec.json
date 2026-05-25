@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Markets",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:03:45",
+  "entries": [
+    {
+      "number": "1",
+      "title": "3D Trading Floor with Moving Price Cubes",
+      "description": "A bright trading hall where colored cubes (stocks) slide along lanes between trader spheres, changing size with price, colliding to trigger flashes, leaving fading trails that show recent movement, while transparent price bars rise and fall in the background.",
+      "seed": "3D Trading Floor with Moving Price Cubes: A bright trading hall where colored cubes (stocks) slide along lanes between trader spheres, changing size with price, colliding to trigger flashes, leaving fading trails that show recent movement, while transparent price bars rise and fall in the background."
+    },
+    {
+      "number": "2",
+      "title": "Market Supply–Demand Balance Scales",
+      "description": "Two large transparent balance dishes hang from a central beam, with red spheres (demand) and blue cubes (supply) dropping in, bouncing, and occasionally merging or splitting as sliders are moved, causing the beam to tilt, glow, and oscillate until a labeled “equilibrium” line is reached.",
+      "seed": "Market Supply–Demand Balance Scales: Two large transparent balance dishes hang from a central beam, with red spheres (demand) and blue cubes (supply) dropping in, bouncing, and occasionally merging or splitting as sliders are moved, causing the beam to tilt, glow, and oscillate until a labeled “equilibrium” line is reached."
+    },
+    {
+      "number": "3",
+      "title": "Global Commodity Flow Network",
+      "description": "A light globe in the center with major cities as glowing nodes connected by curved tube “trade routes” where small colored particles flow, accelerate, collide, and reroute when certain city nodes pulse, with labels and thickness of tubes adjusting to trade volume.",
+      "seed": "Global Commodity Flow Network: A light globe in the center with major cities as glowing nodes connected by curved tube “trade routes” where small colored particles flow, accelerate, collide, and reroute when certain city nodes pulse, with labels and thickness of tubes adjusting to trade volume."
+    },
+    {
+      "number": "4",
+      "title": "Marketplace of Walking Buyer and Seller Avatars",
+      "description": "A plaza where small humanoid figures wander between stalls, their heads showing floating price tags; when buyers and sellers meet, their price tags attract or repel, sometimes snapping together in a “deal” flash that changes their colors and leaves a short-lived satisfaction/unsold label.",
+      "seed": "Marketplace of Walking Buyer and Seller Avatars: A plaza where small humanoid figures wander between stalls, their heads showing floating price tags; when buyers and sellers meet, their price tags attract or repel, sometimes snapping together in a “deal” flash that changes their colors and leaves a short-lived satisfaction/unsold label."
+    },
+    {
+      "number": "5",
+      "title": "Order Book as Stacked 3D Blocks",
+      "description": "A central transparent wall displays floating bid and ask layers as stacked plates of green and red blocks whose height represents volume; when a transaction occurs, blocks detach, fly toward each other, collide, and dissolve into a dust of particles, updating labels and meters.",
+      "seed": "Order Book as Stacked 3D Blocks: A central transparent wall displays floating bid and ask layers as stacked plates of green and red blocks whose height represents volume; when a transaction occurs, blocks detach, fly toward each other, collide, and dissolve into a dust of particles, updating labels and meters."
+    },
+    {
+      "number": "6",
+      "title": "Bull and Bear Pressure Pendulums",
+      "description": "Two large pendulums labeled “Bull” and “Bear” swing on opposite sides of a central price sphere, pulling on it with glowing tethers; each swing transfers momentum to the sphere which oscillates up and down a vertical price axis, leaving a glowing path of volatility.",
+      "seed": "Bull and Bear Pressure Pendulums: Two large pendulums labeled “Bull” and “Bear” swing on opposite sides of a central price sphere, pulling on it with glowing tethers; each swing transfers momentum to the sphere which oscillates up and down a vertical price axis, leaving a glowing path of volatility."
+    },
+    {
+      "number": "7",
+      "title": "Market Bubbles Growing and Bursting",
+      "description": "Transparent, slightly iridescent spheres (bubbles of different assets) slowly inflate as small green particles flow into them, drift upward, then reach a critical size at which they jitter, crack, and burst into a spray of red particles, briefly staining nearby bubbles before fading.",
+      "seed": "Market Bubbles Growing and Bursting: Transparent, slightly iridescent spheres (bubbles of different assets) slowly inflate as small green particles flow into them, drift upward, then reach a critical size at which they jitter, crack, and burst into a spray of red particles, briefly staining nearby bubbles before fading."
+    },
+    {
+      "number": "8",
+      "title": "Auction Clock and Bidding Tokens",
+      "description": "A rotating vertical cylinder (clock) with a descending price spiral has colored bidding tokens sliding along its surface; tokens that collide at the same price stick together, stop the spiral locally, and trigger a label “sold” while the rest continue spiraling down.",
+      "seed": "Auction Clock and Bidding Tokens: A rotating vertical cylinder (clock) with a descending price spiral has colored bidding tokens sliding along its surface; tokens that collide at the same price stick together, stop the spiral locally, and trigger a label “sold” while the rest continue spiraling down."
+    },
+    {
+      "number": "9",
+      "title": "Farmers’ Market Supply Chain",
+      "description": "Boxes of produce travel from a rural zone (fields, barns) on conveyor belts into a city market square, with each box’s color changing as fees, transport delays, and spoilage (particle emission) affect it; boxes can split, merge, or be discarded, with transparent price tags hovering above.",
+      "seed": "Farmers’ Market Supply Chain: Boxes of produce travel from a rural zone (fields, barns) on conveyor belts into a city market square, with each box’s color changing as fees, transport delays, and spoilage (particle emission) affect it; boxes can split, merge, or be discarded, with transparent price tags hovering above."
+    },
+    {
+      "number": "10",
+      "title": "Ecological Market of Species Trading Resources",
+      "description": "A forest clearing where different species (plants, animals, fungi) are represented by stylized shapes that exchange glowing particles (nutrients, energy) along branching connections; links thicken or thin as “market” conditions change, and over- or under-supplied species shrink, grow, or split.",
+      "seed": "Ecological Market of Species Trading Resources: A forest clearing where different species (plants, animals, fungi) are represented by stylized shapes that exchange glowing particles (nutrients, energy) along branching connections; links thicken or thin as “market” conditions change, and over- or under-supplied species shrink, grow, or split."
+    },
+    {
+      "number": "11",
+      "title": "Cryptocurrency Market Orbital System",
+      "description": "A bright central “market sentiment” star with different coins as colored spheres orbiting at varying radii; changes in sentiment pull some coins inward or push them outward, causing orbits to precess, collide, and sometimes merge into composite tokens that glow and spin faster.",
+      "seed": "Cryptocurrency Market Orbital System: A bright central “market sentiment” star with different coins as colored spheres orbiting at varying radii; changes in sentiment pull some coins inward or push them outward, causing orbits to precess, collide, and sometimes merge into composite tokens that glow and spin faster."
+    },
+    {
+      "number": "12",
+      "title": "3D Order Matching Engine as a Particle Collider",
+      "description": "Two opposing streams of particles (buy and sell orders) rush toward a central transparent chamber; matching particles attach, glow, and vanish while unmatched ones ricochet, slow, and queue in rotating holding rings, with real-time meters showing liquidity and spread.",
+      "seed": "3D Order Matching Engine as a Particle Collider: Two opposing streams of particles (buy and sell orders) rush toward a central transparent chamber; matching particles attach, glow, and vanish while unmatched ones ricochet, slow, and queue in rotating holding rings, with real-time meters showing liquidity and spread."
+    },
+    {
+      "number": "13",
+      "title": "Retail Mall Foot-Traffic Heat Market",
+      "description": "A multi-level mall with walkways and shops represented as translucent blocks; shopper spheres move along paths, leaving trails that change color and thickness with density, while shop blocks pulse brighter as more nearby trails accumulate, with labels showing “high demand” zones.",
+      "seed": "Retail Mall Foot-Traffic Heat Market: A multi-level mall with walkways and shops represented as translucent blocks; shopper spheres move along paths, leaving trails that change color and thickness with density, while shop blocks pulse brighter as more nearby trails accumulate, with labels showing “high demand” zones."
+    },
+    {
+      "number": "14",
+      "title": "Housing Market with Rising and Collapsing Towers",
+      "description": "A grid of building towers whose heights represent prices, slowly rising and occasionally swaying; as speculative “investor” spheres orbit and attach to towers, height accelerates until some towers wobble, crack, and collapse into rubble particles scattering into neighboring plots.",
+      "seed": "Housing Market with Rising and Collapsing Towers: A grid of building towers whose heights represent prices, slowly rising and occasionally swaying; as speculative “investor” spheres orbit and attach to towers, height accelerates until some towers wobble, crack, and collapse into rubble particles scattering into neighboring plots."
+    },
+    {
+      "number": "15",
+      "title": "Labor Market Matching Room",
+      "description": "On one side of a transparent room, blue cubes (jobs) float; on the other, yellow spheres (workers) drift; when compatible shapes approach, magnetic forces pull them together to form composite shapes that rotate and glow, while mismatches bounce off and drift to new areas.",
+      "seed": "Labor Market Matching Room: On one side of a transparent room, blue cubes (jobs) float; on the other, yellow spheres (workers) drift; when compatible shapes approach, magnetic forces pull them together to form composite shapes that rotate and glow, while mismatches bounce off and drift to new areas."
+    },
+    {
+      "number": "16",
+      "title": "Energy Market with Flowing Pipelines",
+      "description": "A landscape with power plants, storage tanks, and cities connected by translucent pipes where colored fluid segments (contracts) flow, split, and merge; valves can open or close causing surges, backflows, and pressure waves that ripple through the network and change city brightness.",
+      "seed": "Energy Market with Flowing Pipelines: A landscape with power plants, storage tanks, and cities connected by translucent pipes where colored fluid segments (contracts) flow, split, and merge; valves can open or close causing surges, backflows, and pressure waves that ripple through the network and change city brightness."
+    },
+    {
+      "number": "17",
+      "title": "Stock Index as a Flexible 3D Ribbon",
+      "description": "A long, flexible ribbon snakes through space, anchored at one end, with small blocks (constituent stocks) attached along its edge; each block’s movement pulls or loosens parts of the ribbon, which can twist, kink, and snap into new shapes, leaving a ghost trail of past index positions.",
+      "seed": "Stock Index as a Flexible 3D Ribbon: A long, flexible ribbon snakes through space, anchored at one end, with small blocks (constituent stocks) attached along its edge; each block’s movement pulls or loosens parts of the ribbon, which can twist, kink, and snap into new shapes, leaving a ghost trail of past index positions."
+    },
+    {
+      "number": "18",
+      "title": "Fish Market with Dynamic Pricing Ice Blocks",
+      "description": "Fish objects lie on translucent ice slabs that slowly melt (dripping particle streams) as time passes; as freshness diminishes, hovering price labels shift color and drop, while buyer spheres visiting the stalls can trigger sudden price jumps and cause fish to be boxed and removed.",
+      "seed": "Fish Market with Dynamic Pricing Ice Blocks: Fish objects lie on translucent ice slabs that slowly melt (dripping particle streams) as time passes; as freshness diminishes, hovering price labels shift color and drop, while buyer spheres visiting the stalls can trigger sudden price jumps and cause fish to be boxed and removed."
+    },
+    {
+      "number": "19",
+      "title": "Credit Market as Interlocking Gears",
+      "description": "A set of differently sized gears (banks, firms, households) interlock in 3D, transferring rotational speed (credit flow); when one gear slows or reverses, torque propagates, causing some gears to wobble, detach, and spin freely while thin glowing bands indicate interest rates along the teeth.",
+      "seed": "Credit Market as Interlocking Gears: A set of differently sized gears (banks, firms, households) interlock in 3D, transferring rotational speed (credit flow); when one gear slows or reverses, torque propagates, causing some gears to wobble, detach, and spin freely while thin glowing bands indicate interest rates along the teeth."
+    },
+    {
+      "number": "20",
+      "title": "Carbon Market with Floating Emission Balloons",
+      "description": "Factories emit small dark particles that gather into semi-transparent balloons above them; trading platforms represented by clear domes can absorb, split, and redistribute these balloons between factories, changing their size and color, with a global meter showing total emissions.",
+      "seed": "Carbon Market with Floating Emission Balloons: Factories emit small dark particles that gather into semi-transparent balloons above them; trading platforms represented by clear domes can absorb, split, and redistribute these balloons between factories, changing their size and color, with a global meter showing total emissions."
+    },
+    {
+      "number": "21",
+      "title": "Advertising Attention Market",
+      "description": "A white space with floating “content panels” and swarms of tiny attention particles that drift and get pulled toward brighter, moving panels; advertisers (colored prisms) can attach to panels and redirect some particle streams, with trails showing how attention flows over time.",
+      "seed": "Advertising Attention Market: A white space with floating “content panels” and swarms of tiny attention particles that drift and get pulled toward brighter, moving panels; advertisers (colored prisms) can attach to panels and redirect some particle streams, with trails showing how attention flows over time."
+    },
+    {
+      "number": "22",
+      "title": "Foreign Exchange Market Wave Tank",
+      "description": "A shallow, translucent basin where different currency pairs are represented by intersecting standing waves; traders as small probes can dip into the surface, extracting or injecting energy, causing waves to amplify, cancel, or phase-shift, while a hovering HUD labels each wave and volatility.",
+      "seed": "Foreign Exchange Market Wave Tank: A shallow, translucent basin where different currency pairs are represented by intersecting standing waves; traders as small probes can dip into the surface, extracting or injecting energy, causing waves to amplify, cancel, or phase-shift, while a hovering HUD labels each wave and volatility."
+    },
+    {
+      "number": "23",
+      "title": "Crowd Market Sentiment Thermometer",
+      "description": "A ring of human-shaped silhouettes around a central vertical “price” tube; each silhouette emits colored mist (green optimism, red fear) that drifts inward and is drawn up or down the tube, changing its internal gradient and causing the top of the tube to expand, contract, or pulse.",
+      "seed": "Crowd Market Sentiment Thermometer: A ring of human-shaped silhouettes around a central vertical “price” tube; each silhouette emits colored mist (green optimism, red fear) that drifts inward and is drawn up or down the tube, changing its internal gradient and causing the top of the tube to expand, contract, or pulse."
+    },
+    {
+      "number": "24",
+      "title": "Digital Goods Marketplace Conveyor Grid",
+      "description": "A grid of intersecting conveyor belts moves icon-shaped goods (apps, music, games) under hovering buyer drones; drones scan items, latch onto chosen goods, and lift them off, causing prices above the grid to update dynamically while rejected goods slowly fade or merge into bundles.",
+      "seed": "Digital Goods Marketplace Conveyor Grid: A grid of intersecting conveyor belts moves icon-shaped goods (apps, music, games) under hovering buyer drones; drones scan items, latch onto chosen goods, and lift them off, causing prices above the grid to update dynamically while rejected goods slowly fade or merge into bundles."
+    },
+    {
+      "number": "25",
+      "title": "3D Barter Market with Commodity Chains",
+      "description": "Different commodity shapes (grain sacks, tools, animals) move between clustered trader nodes, attaching into chains or rings when exchanged; chains can grow, break, or reroute around bottlenecks, with link thickness indicating perceived value and occasional glowing “fair trade” rebalancing events.",
+      "seed": "3D Barter Market with Commodity Chains: Different commodity shapes (grain sacks, tools, animals) move between clustered trader nodes, attaching into chains or rings when exchanged; chains can grow, break, or reroute around bottlenecks, with link thickness indicating perceived value and occasional glowing “fair trade” rebalancing events."
+    }
+  ],
+  "raw_output": "Here are strong **Markets simulation inputs** you can plug into your prompt:\n\n1. **3D Trading Floor with Moving Price Cubes**  \n   A bright trading hall where colored cubes (stocks) slide along lanes between trader spheres, changing size with price, colliding to trigger flashes, leaving fading trails that show recent movement, while transparent price bars rise and fall in the background.\n\n2. **Market Supply–Demand Balance Scales**  \n   Two large transparent balance dishes hang from a central beam, with red spheres (demand) and blue cubes (supply) dropping in, bouncing, and occasionally merging or splitting as sliders are moved, causing the beam to tilt, glow, and oscillate until a labeled “equilibrium” line is reached.\n\n3. **Global Commodity Flow Network**  \n   A light globe in the center with major cities as glowing nodes connected by curved tube “trade routes” where small colored particles flow, accelerate, collide, and reroute when certain city nodes pulse, with labels and thickness of tubes adjusting to trade volume.\n\n4. **Marketplace of Walking Buyer and Seller Avatars**  \n   A plaza where small humanoid figures wander between stalls, their heads showing floating price tags; when buyers and sellers meet, their price tags attract or repel, sometimes snapping together in a “deal” flash that changes their colors and leaves a short-lived satisfaction/unsold label.\n\n5. **Order Book as Stacked 3D Blocks**  \n   A central transparent wall displays floating bid and ask layers as stacked plates of green and red blocks whose height represents volume; when a transaction occurs, blocks detach, fly toward each other, collide, and dissolve into a dust of particles, updating labels and meters.\n\n6. **Bull and Bear Pressure Pendulums**  \n   Two large pendulums labeled “Bull” and “Bear” swing on opposite sides of a central price sphere, pulling on it with glowing tethers; each swing transfers momentum to the sphere which oscillates up and down a vertical price axis, leaving a glowing path of volatility.\n\n7. **Market Bubbles Growing and Bursting**  \n   Transparent, slightly iridescent spheres (bubbles of different assets) slowly inflate as small green particles flow into them, drift upward, then reach a critical size at which they jitter, crack, and burst into a spray of red particles, briefly staining nearby bubbles before fading.\n\n8. **Auction Clock and Bidding Tokens**  \n   A rotating vertical cylinder (clock) with a descending price spiral has colored bidding tokens sliding along its surface; tokens that collide at the same price stick together, stop the spiral locally, and trigger a label “sold” while the rest continue spiraling down.\n\n9. **Farmers’ Market Supply Chain**  \n   Boxes of produce travel from a rural zone (fields, barns) on conveyor belts into a city market square, with each box’s color changing as fees, transport delays, and spoilage (particle emission) affect it; boxes can split, merge, or be discarded, with transparent price tags hovering above.\n\n10. **Ecological Market of Species Trading Resources**  \n    A forest clearing where different species (plants, animals, fungi) are represented by stylized shapes that exchange glowing particles (nutrients, energy) along branching connections; links thicken or thin as “market” conditions change, and over- or under-supplied species shrink, grow, or split.\n\n11. **Cryptocurrency Market Orbital System**  \n    A bright central “market sentiment” star with different coins as colored spheres orbiting at varying radii; changes in sentiment pull some coins inward or push them outward, causing orbits to precess, collide, and sometimes merge into composite tokens that glow and spin faster.\n\n12. **3D Order Matching Engine as a Particle Collider**  \n    Two opposing streams of particles (buy and sell orders) rush toward a central transparent chamber; matching particles attach, glow, and vanish while unmatched ones ricochet, slow, and queue in rotating holding rings, with real-time meters showing liquidity and spread.\n\n13. **Retail Mall Foot-Traffic Heat Market**  \n    A multi-level mall with walkways and shops represented as translucent blocks; shopper spheres move along paths, leaving trails that change color and thickness with density, while shop blocks pulse brighter as more nearby trails accumulate, with labels showing “high demand” zones.\n\n14. **Housing Market with Rising and Collapsing Towers**  \n    A grid of building towers whose heights represent prices, slowly rising and occasionally swaying; as speculative “investor” spheres orbit and attach to towers, height accelerates until some towers wobble, crack, and collapse into rubble particles scattering into neighboring plots.\n\n15. **Labor Market Matching Room**  \n    On one side of a transparent room, blue cubes (jobs) float; on the other, yellow spheres (workers) drift; when compatible shapes approach, magnetic forces pull them together to form composite shapes that rotate and glow, while mismatches bounce off and drift to new areas.\n\n16. **Energy Market with Flowing Pipelines**  \n    A landscape with power plants, storage tanks, and cities connected by translucent pipes where colored fluid segments (contracts) flow, split, and merge; valves can open or close causing surges, backflows, and pressure waves that ripple through the network and change city brightness.\n\n17. **Stock Index as a Flexible 3D Ribbon**  \n    A long, flexible ribbon snakes through space, anchored at one end, with small blocks (constituent stocks) attached along its edge; each block’s movement pulls or loosens parts of the ribbon, which can twist, kink, and snap into new shapes, leaving a ghost trail of past index positions.\n\n18. **Fish Market with Dynamic Pricing Ice Blocks**  \n    Fish objects lie on translucent ice slabs that slowly melt (dripping particle streams) as time passes; as freshness diminishes, hovering price labels shift color and drop, while buyer spheres visiting the stalls can trigger sudden price jumps and cause fish to be boxed and removed.\n\n19. **Credit Market as Interlocking Gears**  \n    A set of differently sized gears (banks, firms, households) interlock in 3D, transferring rotational speed (credit flow); when one gear slows or reverses, torque propagates, causing some gears to wobble, detach, and spin freely while thin glowing bands indicate interest rates along the teeth.\n\n20. **Carbon Market with Floating Emission Balloons**  \n    Factories emit small dark particles that gather into semi-transparent balloons above them; trading platforms represented by clear domes can absorb, split, and redistribute these balloons between factories, changing their size and color, with a global meter showing total emissions.\n\n21. **Advertising Attention Market**  \n    A white space with floating “content panels” and swarms of tiny attention particles that drift and get pulled toward brighter, moving panels; advertisers (colored prisms) can attach to panels and redirect some particle streams, with trails showing how attention flows over time.\n\n22. **Foreign Exchange Market Wave Tank**  \n    A shallow, translucent basin where different currency pairs are represented by intersecting standing waves; traders as small probes can dip into the surface, extracting or injecting energy, causing waves to amplify, cancel, or phase-shift, while a hovering HUD labels each wave and volatility.\n\n23. **Crowd Market Sentiment Thermometer**  \n    A ring of human-shaped silhouettes around a central vertical “price” tube; each silhouette emits colored mist (green optimism, red fear) that drifts inward and is drawn up or down the tube, changing its internal gradient and causing the top of the tube to expand, contract, or pulse.\n\n24. **Digital Goods Marketplace Conveyor Grid**  \n    A grid of intersecting conveyor belts moves icon-shaped goods (apps, music, games) under hovering buyer drones; drones scan items, latch onto chosen goods, and lift them off, causing prices above the grid to update dynamically while rejected goods slowly fade or merge into bundles.\n\n25. **3D Barter Market with Commodity Chains**  \n    Different commodity shapes (grain sacks, tools, animals) move between clustered trader nodes, attaching into chains or rings when exchanged; chains can grow, break, or reroute around bottlenecks, with link thickness indicating perceived value and occasional glowing “fair trade” rebalancing events."
+}

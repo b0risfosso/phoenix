@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Molecule formation",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:42:11",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Gas-Phase Molecules Forming from Colliding Atoms",
+      "description": "A box of differently colored atomic spheres floats and jitters randomly, colliding and snapping into rotating diatomic and triatomic molecules with short glowing bonds and labels that appear when formation thresholds are met.",
+      "seed": "Gas-Phase Molecules Forming from Colliding Atoms: A box of differently colored atomic spheres floats and jitters randomly, colliding and snapping into rotating diatomic and triatomic molecules with short glowing bonds and labels that appear when formation thresholds are met."
+    },
+    {
+      "number": "2",
+      "title": "Crystallization from a Supersaturated Molecular Solution",
+      "description": "A transparent box of slowly drifting solute molecules shows them attaching to a central seed crystal lattice, where they align, lock in place, and cause the growing crystal to extend in a grid pattern with subtle color changes and a “crystal size” meter.",
+      "seed": "Crystallization from a Supersaturated Molecular Solution: A transparent box of slowly drifting solute molecules shows them attaching to a central seed crystal lattice, where they align, lock in place, and cause the growing crystal to extend in a grid pattern with subtle color changes and a “crystal size” meter."
+    },
+    {
+      "number": "3",
+      "title": "Water Molecule Formation from Hydrogen and Oxygen Clouds",
+      "description": "Red (O) and white (H) atoms drift inside a light-blue box, and when two H atoms collide with one O at the right angle they attach into bent H₂O molecules that wobble, rotate, and leave faint blue trails while unreacted atoms keep bouncing.",
+      "seed": "Water Molecule Formation from Hydrogen and Oxygen Clouds: Red (O) and white (H) atoms drift inside a light-blue box, and when two H atoms collide with one O at the right angle they attach into bent H₂O molecules that wobble, rotate, and leave faint blue trails while unreacted atoms keep bouncing."
+    },
+    {
+      "number": "4",
+      "title": "Polymer Chain Growth from Monomer Units",
+      "description": "Single monomer spheres with directional “bond sites” float in a region and, upon contact, snap together to form long flexible chains that wiggle, coil, and occasionally branch, with chain length displayed as a dynamic label above each polymer.",
+      "seed": "Polymer Chain Growth from Monomer Units: Single monomer spheres with directional “bond sites” float in a region and, upon contact, snap together to form long flexible chains that wiggle, coil, and occasionally branch, with chain length displayed as a dynamic label above each polymer."
+    },
+    {
+      "number": "5",
+      "title": "Protein Folding from a Linear Amino Acid Chain",
+      "description": "A colored bead chain representing amino acids starts stretched out, then gradually bends, rotates, and snaps into specific contact points as “hydrophobic” beads cluster inward and “hydrophilic” beads face the water-like environment, with temporary dashed bonds highlighting new interactions.",
+      "seed": "Protein Folding from a Linear Amino Acid Chain: A colored bead chain representing amino acids starts stretched out, then gradually bends, rotates, and snaps into specific contact points as “hydrophobic” beads cluster inward and “hydrophilic” beads face the water-like environment, with temporary dashed bonds highlighting new interactions."
+    },
+    {
+      "number": "6",
+      "title": "Molecular Orbital Overlap Visualization",
+      "description": "Two semi-transparent electron cloud blobs (s, p orbitals) approach each other; as they overlap, combined orbitals form with changing shapes and brightness, while small labeled nuclei spheres maintain fixed positions and the overlap region pulses to show bond strength.",
+      "seed": "Molecular Orbital Overlap Visualization: Two semi-transparent electron cloud blobs (s, p orbitals) approach each other; as they overlap, combined orbitals form with changing shapes and brightness, while small labeled nuclei spheres maintain fixed positions and the overlap region pulses to show bond strength."
+    },
+    {
+      "number": "7",
+      "title": "DNA Double Helix Formation from Nucleotide Pairs",
+      "description": "Individual nucleotide “rungs” (color-coded A–T, C–G) float in space then align and snap between two sugar-phosphate backbones, which twist around each other to form a rotating double helix, with base pairs briefly glowing as they correctly match.",
+      "seed": "DNA Double Helix Formation from Nucleotide Pairs: Individual nucleotide “rungs” (color-coded A–T, C–G) float in space then align and snap between two sugar-phosphate backbones, which twist around each other to form a rotating double helix, with base pairs briefly glowing as they correctly match."
+    },
+    {
+      "number": "8",
+      "title": "Molecular Clustering into Micelles",
+      "description": "Amphiphilic molecules with hydrophilic heads and hydrophobic tails drift in a watery box; over time they spontaneously cluster so heads face outward and tails tuck inside, forming spherical micelles that gently pulse, move, and occasionally merge.",
+      "seed": "Molecular Clustering into Micelles: Amphiphilic molecules with hydrophilic heads and hydrophobic tails drift in a watery box; over time they spontaneously cluster so heads face outward and tails tuck inside, forming spherical micelles that gently pulse, move, and occasionally merge."
+    },
+    {
+      "number": "9",
+      "title": "Ionic Lattice Formation from Positive and Negative Ions",
+      "description": "Red (+) and blue (–) charged spheres wander in a transparent cube, attracting and snapping into a growing alternating 3D lattice that stays fixed at the center, with electric field lines faintly drawn between ions and a running count of lattice layers.",
+      "seed": "Ionic Lattice Formation from Positive and Negative Ions: Red (+) and blue (–) charged spheres wander in a transparent cube, attracting and snapping into a growing alternating 3D lattice that stays fixed at the center, with electric field lines faintly drawn between ions and a running count of lattice layers."
+    },
+    {
+      "number": "10",
+      "title": "Nanotube Growth from Carbon Atoms",
+      "description": "Free carbon atoms bounce around a light background and attach to a seed ring, gradually building a cylindrical carbon nanotube that grows upward, with each new hexagonal ring briefly highlighted and the tube gently rotating to show its structure.",
+      "seed": "Nanotube Growth from Carbon Atoms: Free carbon atoms bounce around a light background and attach to a seed ring, gradually building a cylindrical carbon nanotube that grows upward, with each new hexagonal ring briefly highlighted and the tube gently rotating to show its structure."
+    },
+    {
+      "number": "11",
+      "title": "Molecule Formation in an Expanding Universe Box",
+      "description": "In a box whose edges slowly move outward, hot fast-moving atoms cool over time (speed decreases, color shifts from red to blue) and begin forming simple molecules when they collide, with newly formed molecules leaving short-lived glowing trails.",
+      "seed": "Molecule Formation in an Expanding Universe Box: In a box whose edges slowly move outward, hot fast-moving atoms cool over time (speed decreases, color shifts from red to blue) and begin forming simple molecules when they collide, with newly formed molecules leaving short-lived glowing trails."
+    },
+    {
+      "number": "12",
+      "title": "Catalyst Surface-Assisted Molecule Assembly",
+      "description": "A flat, stationary catalyst plate sits in the center while gas-phase atoms and small molecules drift above it; when they land on specific catalyst sites they move along the surface, meet, and combine into products that then detach and fly off with a brief pulse of light.",
+      "seed": "Catalyst Surface-Assisted Molecule Assembly: A flat, stationary catalyst plate sits in the center while gas-phase atoms and small molecules drift above it; when they land on specific catalyst sites they move along the surface, meet, and combine into products that then detach and fly off with a brief pulse of light."
+    },
+    {
+      "number": "13",
+      "title": "Molecular Network Formation in a Chemical Reaction Web",
+      "description": "Floating molecules (nodes) move slowly in 3D, and when certain species collide they attach via glowing lines representing bonds or interactions, gradually forming a branching, rotating 3D network where line thickness encodes bond strength.",
+      "seed": "Molecular Network Formation in a Chemical Reaction Web: Floating molecules (nodes) move slowly in 3D, and when certain species collide they attach via glowing lines representing bonds or interactions, gradually forming a branching, rotating 3D network where line thickness encodes bond strength."
+    },
+    {
+      "number": "14",
+      "title": "Snowflake Molecular Pattern Formation",
+      "description": "Water molecules (V-shaped units) condense from vapor and attach to a cold central seed, arranging in hexagonal patterns that branch outward in 3D; new attachments cause local growth spikes and the whole snowflake slowly spins in front of a pale sky background.",
+      "seed": "Snowflake Molecular Pattern Formation: Water molecules (V-shaped units) condense from vapor and attach to a cold central seed, arranging in hexagonal patterns that branch outward in 3D; new attachments cause local growth spikes and the whole snowflake slowly spins in front of a pale sky background."
+    },
+    {
+      "number": "15",
+      "title": "Molecular Cloud Condensation into Proto-Molecules",
+      "description": "Tiny particles representing interstellar atoms drift in a large transparent sphere; gravitational-like attraction slowly pulls them into denser clumps, where glowing “reaction events” create simple molecules that spin and cluster at the cloud’s center.",
+      "seed": "Molecular Cloud Condensation into Proto-Molecules: Tiny particles representing interstellar atoms drift in a large transparent sphere; gravitational-like attraction slowly pulls them into denser clumps, where glowing “reaction events” create simple molecules that spin and cluster at the cloud’s center."
+    },
+    {
+      "number": "16",
+      "title": "Self-Assembling Molecular Cage",
+      "description": "Polygonal molecular panels with highlighted “edge connectors” float freely and, upon correct orientation collisions, hinge together to form a closed 3D cage; edges flash briefly as they lock, and the finished cage rotates and vibrates slightly.",
+      "seed": "Self-Assembling Molecular Cage: Polygonal molecular panels with highlighted “edge connectors” float freely and, upon correct orientation collisions, hinge together to form a closed 3D cage; edges flash briefly as they lock, and the finished cage rotates and vibrates slightly."
+    },
+    {
+      "number": "17",
+      "title": "Enzyme-Substrate Complex Formation",
+      "description": "Large semi-transparent enzyme shapes remain mostly stationary while smaller substrate molecules diffuse around; when a substrate enters the active site pocket, it snaps in, the enzyme subtly changes color and shape, and then releases a product molecule.",
+      "seed": "Enzyme-Substrate Complex Formation: Large semi-transparent enzyme shapes remain mostly stationary while smaller substrate molecules diffuse around; when a substrate enters the active site pocket, it snaps in, the enzyme subtly changes color and shape, and then releases a product molecule."
+    },
+    {
+      "number": "18",
+      "title": "Reactive Molecular Collision Arena",
+      "description": "Different colored reactive species zip around in a central arena; specific pairwise collisions create composite molecules that can further collide and grow, with each new formation accompanied by a quick halo glow and an on-screen reaction counter.",
+      "seed": "Reactive Molecular Collision Arena: Different colored reactive species zip around in a central arena; specific pairwise collisions create composite molecules that can further collide and grow, with each new formation accompanied by a quick halo glow and an on-screen reaction counter."
+    },
+    {
+      "number": "19",
+      "title": "Liquid Droplet Forming from Molecular Vapor",
+      "description": "Fast-moving vapor molecules fill a box; as temperature “slider” decreases, speeds drop and molecules start clustering into a spherical droplet at the center, where surface molecules jostle and occasionally escape, leaving rippling motion on the droplet surface.",
+      "seed": "Liquid Droplet Forming from Molecular Vapor: Fast-moving vapor molecules fill a box; as temperature “slider” decreases, speeds drop and molecules start clustering into a spherical droplet at the center, where surface molecules jostle and occasionally escape, leaving rippling motion on the droplet surface."
+    },
+    {
+      "number": "20",
+      "title": "Molecular Assembly Line in a Nanofactory",
+      "description": "A series of fixed “machine arms” along a conveyor path grab incoming atoms and small molecules, rotate them into place, and attach them stepwise into larger product molecules that exit at the end, with color-coded stages and hovering labels for each assembly step.",
+      "seed": "Molecular Assembly Line in a Nanofactory: A series of fixed “machine arms” along a conveyor path grab incoming atoms and small molecules, rotate them into place, and attach them stepwise into larger product molecules that exit at the end, with color-coded stages and hovering labels for each assembly step."
+    },
+    {
+      "number": "21",
+      "title": "Molecular Bridge Formation Between Two Surfaces",
+      "description": "Two parallel plates face each other with free molecules drifting between; when molecules attach to both surfaces they form flexible “bridges” that stretch and vibrate, with tension visualized as color changes along the bridge as plates move slightly apart and together.",
+      "seed": "Molecular Bridge Formation Between Two Surfaces: Two parallel plates face each other with free molecules drifting between; when molecules attach to both surfaces they form flexible “bridges” that stretch and vibrate, with tension visualized as color changes along the bridge as plates move slightly apart and together."
+    },
+    {
+      "number": "22",
+      "title": "Formation of Complex Molecules in a Simulated Cell",
+      "description": "Inside a large transparent cell sphere, small metabolites diffuse and occasionally enter enzyme “stations” where they are converted and joined into larger molecules; products glow softly and travel along faintly marked pathways to different cell regions.",
+      "seed": "Formation of Complex Molecules in a Simulated Cell: Inside a large transparent cell sphere, small metabolites diffuse and occasionally enter enzyme “stations” where they are converted and joined into larger molecules; products glow softly and travel along faintly marked pathways to different cell regions."
+    },
+    {
+      "number": "23",
+      "title": "Cluster-to-Molecule Rearrangement",
+      "description": "A loosely packed cluster of atoms starts as a random blob; over time, atoms reposition via rotations and small hops, shedding extra atoms and settling into a compact, symmetric molecule shape that spins slowly, with rejected atoms drifting away.",
+      "seed": "Cluster-to-Molecule Rearrangement: A loosely packed cluster of atoms starts as a random blob; over time, atoms reposition via rotations and small hops, shedding extra atoms and settling into a compact, symmetric molecule shape that spins slowly, with rejected atoms drifting away."
+    },
+    {
+      "number": "24",
+      "title": "Molecular Ring Closure from a Flexible Chain",
+      "description": "A single flexible chain of atoms wriggles and rotates freely; when its ends approach within a threshold distance and angle they snap together to form a closed ring, which then flattens and stabilizes, with the closure bond briefly pulsing to indicate success.",
+      "seed": "Molecular Ring Closure from a Flexible Chain: A single flexible chain of atoms wriggles and rotates freely; when its ends approach within a threshold distance and angle they snap together to form a closed ring, which then flattens and stabilizes, with the closure bond briefly pulsing to indicate success."
+    },
+    {
+      "number": "25",
+      "title": "Symbolic Society of Molecules Forming Alliances",
+      "description": "Personified “molecule avatars” with simple shapes and colors wander a plaza; when compatible types meet they join hands to form groups that rotate, split, and re-form, with floating text labels indicating “bonds” and “complexes” as alliances change.",
+      "seed": "Symbolic Society of Molecules Forming Alliances: Personified “molecule avatars” with simple shapes and colors wander a plaza; when compatible types meet they join hands to form groups that rotate, split, and re-form, with floating text labels indicating “bonds” and “complexes” as alliances change."
+    }
+  ],
+  "raw_output": "Here are strong **Molecule formation simulation inputs** you can plug into your prompt:\n\n1. **Gas-Phase Molecules Forming from Colliding Atoms**\n   A box of differently colored atomic spheres floats and jitters randomly, colliding and snapping into rotating diatomic and triatomic molecules with short glowing bonds and labels that appear when formation thresholds are met.\n\n2. **Crystallization from a Supersaturated Molecular Solution**\n   A transparent box of slowly drifting solute molecules shows them attaching to a central seed crystal lattice, where they align, lock in place, and cause the growing crystal to extend in a grid pattern with subtle color changes and a “crystal size” meter.\n\n3. **Water Molecule Formation from Hydrogen and Oxygen Clouds**\n   Red (O) and white (H) atoms drift inside a light-blue box, and when two H atoms collide with one O at the right angle they attach into bent H₂O molecules that wobble, rotate, and leave faint blue trails while unreacted atoms keep bouncing.\n\n4. **Polymer Chain Growth from Monomer Units**\n   Single monomer spheres with directional “bond sites” float in a region and, upon contact, snap together to form long flexible chains that wiggle, coil, and occasionally branch, with chain length displayed as a dynamic label above each polymer.\n\n5. **Protein Folding from a Linear Amino Acid Chain**\n   A colored bead chain representing amino acids starts stretched out, then gradually bends, rotates, and snaps into specific contact points as “hydrophobic” beads cluster inward and “hydrophilic” beads face the water-like environment, with temporary dashed bonds highlighting new interactions.\n\n6. **Molecular Orbital Overlap Visualization**\n   Two semi-transparent electron cloud blobs (s, p orbitals) approach each other; as they overlap, combined orbitals form with changing shapes and brightness, while small labeled nuclei spheres maintain fixed positions and the overlap region pulses to show bond strength.\n\n7. **DNA Double Helix Formation from Nucleotide Pairs**\n   Individual nucleotide “rungs” (color-coded A–T, C–G) float in space then align and snap between two sugar-phosphate backbones, which twist around each other to form a rotating double helix, with base pairs briefly glowing as they correctly match.\n\n8. **Molecular Clustering into Micelles**\n   Amphiphilic molecules with hydrophilic heads and hydrophobic tails drift in a watery box; over time they spontaneously cluster so heads face outward and tails tuck inside, forming spherical micelles that gently pulse, move, and occasionally merge.\n\n9. **Ionic Lattice Formation from Positive and Negative Ions**\n   Red (+) and blue (–) charged spheres wander in a transparent cube, attracting and snapping into a growing alternating 3D lattice that stays fixed at the center, with electric field lines faintly drawn between ions and a running count of lattice layers.\n\n10. **Nanotube Growth from Carbon Atoms**\n    Free carbon atoms bounce around a light background and attach to a seed ring, gradually building a cylindrical carbon nanotube that grows upward, with each new hexagonal ring briefly highlighted and the tube gently rotating to show its structure.\n\n11. **Molecule Formation in an Expanding Universe Box**\n    In a box whose edges slowly move outward, hot fast-moving atoms cool over time (speed decreases, color shifts from red to blue) and begin forming simple molecules when they collide, with newly formed molecules leaving short-lived glowing trails.\n\n12. **Catalyst Surface-Assisted Molecule Assembly**\n    A flat, stationary catalyst plate sits in the center while gas-phase atoms and small molecules drift above it; when they land on specific catalyst sites they move along the surface, meet, and combine into products that then detach and fly off with a brief pulse of light.\n\n13. **Molecular Network Formation in a Chemical Reaction Web**\n    Floating molecules (nodes) move slowly in 3D, and when certain species collide they attach via glowing lines representing bonds or interactions, gradually forming a branching, rotating 3D network where line thickness encodes bond strength.\n\n14. **Snowflake Molecular Pattern Formation**\n    Water molecules (V-shaped units) condense from vapor and attach to a cold central seed, arranging in hexagonal patterns that branch outward in 3D; new attachments cause local growth spikes and the whole snowflake slowly spins in front of a pale sky background.\n\n15. **Molecular Cloud Condensation into Proto-Molecules**\n    Tiny particles representing interstellar atoms drift in a large transparent sphere; gravitational-like attraction slowly pulls them into denser clumps, where glowing “reaction events” create simple molecules that spin and cluster at the cloud’s center.\n\n16. **Self-Assembling Molecular Cage**\n    Polygonal molecular panels with highlighted “edge connectors” float freely and, upon correct orientation collisions, hinge together to form a closed 3D cage; edges flash briefly as they lock, and the finished cage rotates and vibrates slightly.\n\n17. **Enzyme-Substrate Complex Formation**\n    Large semi-transparent enzyme shapes remain mostly stationary while smaller substrate molecules diffuse around; when a substrate enters the active site pocket, it snaps in, the enzyme subtly changes color and shape, and then releases a product molecule.\n\n18. **Reactive Molecular Collision Arena**\n    Different colored reactive species zip around in a central arena; specific pairwise collisions create composite molecules that can further collide and grow, with each new formation accompanied by a quick halo glow and an on-screen reaction counter.\n\n19. **Liquid Droplet Forming from Molecular Vapor**\n    Fast-moving vapor molecules fill a box; as temperature “slider” decreases, speeds drop and molecules start clustering into a spherical droplet at the center, where surface molecules jostle and occasionally escape, leaving rippling motion on the droplet surface.\n\n20. **Molecular Assembly Line in a Nanofactory**\n    A series of fixed “machine arms” along a conveyor path grab incoming atoms and small molecules, rotate them into place, and attach them stepwise into larger product molecules that exit at the end, with color-coded stages and hovering labels for each assembly step.\n\n21. **Molecular Bridge Formation Between Two Surfaces**\n    Two parallel plates face each other with free molecules drifting between; when molecules attach to both surfaces they form flexible “bridges” that stretch and vibrate, with tension visualized as color changes along the bridge as plates move slightly apart and together.\n\n22. **Formation of Complex Molecules in a Simulated Cell**\n    Inside a large transparent cell sphere, small metabolites diffuse and occasionally enter enzyme “stations” where they are converted and joined into larger molecules; products glow softly and travel along faintly marked pathways to different cell regions.\n\n23. **Cluster-to-Molecule Rearrangement**\n    A loosely packed cluster of atoms starts as a random blob; over time, atoms reposition via rotations and small hops, shedding extra atoms and settling into a compact, symmetric molecule shape that spins slowly, with rejected atoms drifting away.\n\n24. **Molecular Ring Closure from a Flexible Chain**\n    A single flexible chain of atoms wriggles and rotates freely; when its ends approach within a threshold distance and angle they snap together to form a closed ring, which then flattens and stabilizes, with the closure bond briefly pulsing to indicate success.\n\n25. **Symbolic Society of Molecules Forming Alliances**\n    Personified “molecule avatars” with simple shapes and colors wander a plaza; when compatible types meet they join hands to form groups that rotate, split, and re-form, with floating text labels indicating “bonds” and “complexes” as alliances change."
+}

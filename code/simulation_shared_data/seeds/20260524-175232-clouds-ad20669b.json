@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Clouds",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:52:32",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Rising Thermal and Cumulus Cloud Formation",
+      "description": "Simulate a warm air parcel (transparent cylinder) rising through cooler surrounding air, condensing into a growing cluster of semi-transparent white spheres that merge, split, and fade, with temperature and humidity meters and labeled height levels.",
+      "seed": "Rising Thermal and Cumulus Cloud Formation: Simulate a warm air parcel (transparent cylinder) rising through cooler surrounding air, condensing into a growing cluster of semi-transparent white spheres that merge, split, and fade, with temperature and humidity meters and labeled height levels."
+    },
+    {
+      "number": "2",
+      "title": "Colliding Cloud Masses and Rainfall",
+      "description": "Create two differently colored semi-transparent cloud blobs that drift toward each other, collide, thicken, and then release falling blue raindrop particles that bounce off a light ground plane and leave short-lived splash marks.",
+      "seed": "Colliding Cloud Masses and Rainfall: Create two differently colored semi-transparent cloud blobs that drift toward each other, collide, thicken, and then release falling blue raindrop particles that bounce off a light ground plane and leave short-lived splash marks."
+    },
+    {
+      "number": "3",
+      "title": "Jet Stream Shear Shaping Cloud Layers",
+      "description": "Show multiple flat cloud layers (thin translucent sheets) at different altitudes being stretched, rotated, and torn into filaments by invisible wind vectors, with animated arrows and labels for speed and direction.",
+      "seed": "Jet Stream Shear Shaping Cloud Layers: Show multiple flat cloud layers (thin translucent sheets) at different altitudes being stretched, rotated, and torn into filaments by invisible wind vectors, with animated arrows and labels for speed and direction."
+    },
+    {
+      "number": "4",
+      "title": "Mountain-Induced Lenticular Clouds",
+      "description": "Place a stationary mountain (textured cone) with airflow streams that rise, cool, and form hovering lens-shaped cloud objects that pulse and slightly shift position as wind speed sliders are adjusted.",
+      "seed": "Mountain-Induced Lenticular Clouds: Place a stationary mountain (textured cone) with airflow streams that rise, cool, and form hovering lens-shaped cloud objects that pulse and slightly shift position as wind speed sliders are adjusted."
+    },
+    {
+      "number": "5",
+      "title": "Towering Cumulonimbus and Lightning Discharges",
+      "description": "Build a tall, growing thundercloud made of stacked semi-transparent spheres that darken with height, then randomly generate bright branching lightning bolts inside and to the ground, with charge buildup visualized as color gradients.",
+      "seed": "Towering Cumulonimbus and Lightning Discharges: Build a tall, growing thundercloud made of stacked semi-transparent spheres that darken with height, then randomly generate bright branching lightning bolts inside and to the ground, with charge buildup visualized as color gradients."
+    },
+    {
+      "number": "6",
+      "title": "Cloud Droplet Coalescence at Microscopic Scale",
+      "description": "Zoom into a small volume of cloud where many tiny water droplets (small spheres) float, collide, merge, and grow under mild turbulent motion, with color-coded droplet sizes and a running count of how many become raindrop-sized.",
+      "seed": "Cloud Droplet Coalescence at Microscopic Scale: Zoom into a small volume of cloud where many tiny water droplets (small spheres) float, collide, merge, and grow under mild turbulent motion, with color-coded droplet sizes and a running count of how many become raindrop-sized."
+    },
+    {
+      "number": "7",
+      "title": "Cloud Street Formation Over Warm Ocean",
+      "description": "Model a light-blue plane as the ocean and show parallel rows of small cumulus clouds drifting downwind, forming, dissolving, and reforming in stripes, with a translucent boundary layer showing where convection is active.",
+      "seed": "Cloud Street Formation Over Warm Ocean: Model a light-blue plane as the ocean and show parallel rows of small cumulus clouds drifting downwind, forming, dissolving, and reforming in stripes, with a translucent boundary layer showing where convection is active."
+    },
+    {
+      "number": "8",
+      "title": "Contrails from Passing Aircraft",
+      "description": "Animate one or more aircraft (simple boxes with wings) moving across the sky leaving thin white trails that slowly spread, fade, and sometimes merge into larger cloud patches, with humidity and temperature sliders that control trail persistence.",
+      "seed": "Contrails from Passing Aircraft: Animate one or more aircraft (simple boxes with wings) moving across the sky leaving thin white trails that slowly spread, fade, and sometimes merge into larger cloud patches, with humidity and temperature sliders that control trail persistence."
+    },
+    {
+      "number": "9",
+      "title": "Volcanic Eruption Plume and Anvil Cloud",
+      "description": "Simulate a volcano cone emitting a rising column of ash and steam particles that forms a mushroom-shaped cloud top that flattens and spreads outward, with ash particles darker and heavier, gradually settling and marking the ground.",
+      "seed": "Volcanic Eruption Plume and Anvil Cloud: Simulate a volcano cone emitting a rising column of ash and steam particles that forms a mushroom-shaped cloud top that flattens and spreads outward, with ash particles darker and heavier, gradually settling and marking the ground."
+    },
+    {
+      "number": "10",
+      "title": "Cloud Shadow Casting on Terrain",
+      "description": "Create a sunny scene with moving semi-transparent cloud volumes above a textured landscape, where dynamic soft gray patches move across the ground as shadows, matching each cloud’s position and shape.",
+      "seed": "Cloud Shadow Casting on Terrain: Create a sunny scene with moving semi-transparent cloud volumes above a textured landscape, where dynamic soft gray patches move across the ground as shadows, matching each cloud’s position and shape."
+    },
+    {
+      "number": "11",
+      "title": "Cloud Chamber Particle Tracks",
+      "description": "Represent a cloud chamber as a transparent box where charged particles pass through and leave glowing white vapor trails that appear, thicken briefly, then dissolve, with different colors and labels for alpha, beta, and muon tracks.",
+      "seed": "Cloud Chamber Particle Tracks: Represent a cloud chamber as a transparent box where charged particles pass through and leave glowing white vapor trails that appear, thicken briefly, then dissolve, with different colors and labels for alpha, beta, and muon tracks."
+    },
+    {
+      "number": "12",
+      "title": "Data Cloud of Points in 3D Space",
+      "description": "Visualize a \"data cloud\" as thousands of small points in 3D that cluster, split, and merge as parameters (sliders) change, with glowing connections appearing temporarily between nearby points and cluster centroids labeled.",
+      "seed": "Data Cloud of Points in 3D Space: Visualize a \"data cloud\" as thousands of small points in 3D that cluster, split, and merge as parameters (sliders) change, with glowing connections appearing temporarily between nearby points and cluster centroids labeled."
+    },
+    {
+      "number": "13",
+      "title": "Orbiting Planet with Dynamic Cloud Bands",
+      "description": "Show a rotating planet with semi-transparent swirling white cloud bands that move, stretch, collide, and wrap around the sphere, with a slider to speed up or slow down atmospheric circulation.",
+      "seed": "Orbiting Planet with Dynamic Cloud Bands: Show a rotating planet with semi-transparent swirling white cloud bands that move, stretch, collide, and wrap around the sphere, with a slider to speed up or slow down atmospheric circulation."
+    },
+    {
+      "number": "14",
+      "title": "Fog Bank Rolling Over a City",
+      "description": "Model a simple city of box-shaped buildings with a low, dense, semi-transparent fog volume creeping in from one side, wrapping and flowing around buildings, thickening in low areas and thinning as it climbs higher structures.",
+      "seed": "Fog Bank Rolling Over a City: Model a simple city of box-shaped buildings with a low, dense, semi-transparent fog volume creeping in from one side, wrapping and flowing around buildings, thickening in low areas and thinning as it climbs higher structures."
+    },
+    {
+      "number": "15",
+      "title": "Industrial Cooling Towers and Steam Plumes",
+      "description": "Place several cooling towers emitting rising semi-transparent plumes that expand, bend with wind, and sometimes merge into a larger cloud layer overhead, with emission rate sliders and small particles that condense then evaporate.",
+      "seed": "Industrial Cooling Towers and Steam Plumes: Place several cooling towers emitting rising semi-transparent plumes that expand, bend with wind, and sometimes merge into a larger cloud layer overhead, with emission rate sliders and small particles that condense then evaporate."
+    },
+    {
+      "number": "16",
+      "title": "Changing Cloud Cover Over a Rotating Globe",
+      "description": "Display a slowly rotating Earth with patchy cloud fields that grow, shrink, and drift, showing storm systems that spin, tighten, and then dissipate, with a legend for cloud density and labels on major storms.",
+      "seed": "Changing Cloud Cover Over a Rotating Globe: Display a slowly rotating Earth with patchy cloud fields that grow, shrink, and drift, showing storm systems that spin, tighten, and then dissipate, with a legend for cloud density and labels on major storms."
+    },
+    {
+      "number": "17",
+      "title": "Heat-Island Effect and Urban Cloud Formation",
+      "description": "Contrast a city block and nearby park as two adjacent planes with different surface temperatures, and visualize rising warm air columns over the city producing more small puffy clouds than over the park, with temperature color maps.",
+      "seed": "Heat-Island Effect and Urban Cloud Formation: Contrast a city block and nearby park as two adjacent planes with different surface temperatures, and visualize rising warm air columns over the city producing more small puffy clouds than over the park, with temperature color maps."
+    },
+    {
+      "number": "18",
+      "title": "Cloud Computing Cluster Visualization",
+      "description": "Represent servers as towers on a floor plane connected by glowing lines to a semi-transparent \"cloud\" volume above; data packets appear as colored particles that launch, route, merge, and split as they travel between servers and the cloud.",
+      "seed": "Cloud Computing Cluster Visualization: Represent servers as towers on a floor plane connected by glowing lines to a semi-transparent \"cloud\" volume above; data packets appear as colored particles that launch, route, merge, and split as they travel between servers and the cloud."
+    },
+    {
+      "number": "19",
+      "title": "Supercell Rotation and Wall Cloud",
+      "description": "Build a rotating storm updraft column under a large cloud base disk, showing a lowering wall cloud that forms, rotates, and occasionally spawns a tight funnel that extends toward the ground and then retracts, with rotation speed vectors.",
+      "seed": "Supercell Rotation and Wall Cloud: Build a rotating storm updraft column under a large cloud base disk, showing a lowering wall cloud that forms, rotates, and occasionally spawns a tight funnel that extends toward the ground and then retracts, with rotation speed vectors."
+    },
+    {
+      "number": "20",
+      "title": "Cloud of Balloons in a Wind Field",
+      "description": "Fill the sky with many light-colored balloons that float and drift like a \"balloon cloud,\" sometimes bumping, briefly attaching, then separating, all carried by a 3D wind field visualized with arrow glyphs.",
+      "seed": "Cloud of Balloons in a Wind Field: Fill the sky with many light-colored balloons that float and drift like a \"balloon cloud,\" sometimes bumping, briefly attaching, then separating, all carried by a 3D wind field visualized with arrow glyphs."
+    },
+    {
+      "number": "21",
+      "title": "Ink Cloud in Water Tank",
+      "description": "Use a transparent box as a water tank and drop in colored ink blobs that sink slightly and form branching cloud-like plumes that curl, mix, and fade, leaving smooth color gradients and possible trails from moving injection points.",
+      "seed": "Ink Cloud in Water Tank: Use a transparent box as a water tank and drop in colored ink blobs that sink slightly and form branching cloud-like plumes that curl, mix, and fade, leaving smooth color gradients and possible trails from moving injection points."
+    },
+    {
+      "number": "22",
+      "title": "Planetary Nebula Cloud Expansion",
+      "description": "Simulate a central glowing star ejecting a spherical shell of colored gas particles that expand outward as a semi-transparent cloud, with denser rings and filaments that brighten when hit by simulated light rays.",
+      "seed": "Planetary Nebula Cloud Expansion: Simulate a central glowing star ejecting a spherical shell of colored gas particles that expand outward as a semi-transparent cloud, with denser rings and filaments that brighten when hit by simulated light rays."
+    },
+    {
+      "number": "23",
+      "title": "Skywriting Letters in Cloud Trails",
+      "description": "Have a small plane trace letters and shapes in the sky, leaving behind puffy cloud trails that slowly drift, deform, and dissolve, with the ability to attach labels to each letter as it forms.",
+      "seed": "Skywriting Letters in Cloud Trails: Have a small plane trace letters and shapes in the sky, leaving behind puffy cloud trails that slowly drift, deform, and dissolve, with the ability to attach labels to each letter as it forms."
+    },
+    {
+      "number": "24",
+      "title": "Time-Lapse Cloudscape Over a Moving Camera",
+      "description": "Move a virtual camera slowly across a landscape while multiple altitude layers of clouds scroll at different speeds and directions overhead, with clouds forming, merging, and evaporating as if seen in accelerated time.",
+      "seed": "Time-Lapse Cloudscape Over a Moving Camera: Move a virtual camera slowly across a landscape while multiple altitude layers of clouds scroll at different speeds and directions overhead, with clouds forming, merging, and evaporating as if seen in accelerated time."
+    },
+    {
+      "number": "25",
+      "title": "Glowing Ionized Cloud Around a Spacecraft",
+      "description": "Place a spacecraft moving quickly through a thin atmosphere, generating a glowing, semi-transparent plasma cloud around its nose that thickens during \"reentry,\" changes color with speed, and leaves a short glowing trail behind.",
+      "seed": "Glowing Ionized Cloud Around a Spacecraft: Place a spacecraft moving quickly through a thin atmosphere, generating a glowing, semi-transparent plasma cloud around its nose that thickens during \"reentry,\" changes color with speed, and leaves a short glowing trail behind."
+    }
+  ],
+  "raw_output": "Here are strong **Clouds simulation inputs** you can plug into your prompt:\n\n1. **Rising Thermal and Cumulus Cloud Formation**\n   Simulate a warm air parcel (transparent cylinder) rising through cooler surrounding air, condensing into a growing cluster of semi-transparent white spheres that merge, split, and fade, with temperature and humidity meters and labeled height levels.\n\n2. **Colliding Cloud Masses and Rainfall**\n   Create two differently colored semi-transparent cloud blobs that drift toward each other, collide, thicken, and then release falling blue raindrop particles that bounce off a light ground plane and leave short-lived splash marks.\n\n3. **Jet Stream Shear Shaping Cloud Layers**\n   Show multiple flat cloud layers (thin translucent sheets) at different altitudes being stretched, rotated, and torn into filaments by invisible wind vectors, with animated arrows and labels for speed and direction.\n\n4. **Mountain-Induced Lenticular Clouds**\n   Place a stationary mountain (textured cone) with airflow streams that rise, cool, and form hovering lens-shaped cloud objects that pulse and slightly shift position as wind speed sliders are adjusted.\n\n5. **Towering Cumulonimbus and Lightning Discharges**\n   Build a tall, growing thundercloud made of stacked semi-transparent spheres that darken with height, then randomly generate bright branching lightning bolts inside and to the ground, with charge buildup visualized as color gradients.\n\n6. **Cloud Droplet Coalescence at Microscopic Scale**\n   Zoom into a small volume of cloud where many tiny water droplets (small spheres) float, collide, merge, and grow under mild turbulent motion, with color-coded droplet sizes and a running count of how many become raindrop-sized.\n\n7. **Cloud Street Formation Over Warm Ocean**\n   Model a light-blue plane as the ocean and show parallel rows of small cumulus clouds drifting downwind, forming, dissolving, and reforming in stripes, with a translucent boundary layer showing where convection is active.\n\n8. **Contrails from Passing Aircraft**\n   Animate one or more aircraft (simple boxes with wings) moving across the sky leaving thin white trails that slowly spread, fade, and sometimes merge into larger cloud patches, with humidity and temperature sliders that control trail persistence.\n\n9. **Volcanic Eruption Plume and Anvil Cloud**\n   Simulate a volcano cone emitting a rising column of ash and steam particles that forms a mushroom-shaped cloud top that flattens and spreads outward, with ash particles darker and heavier, gradually settling and marking the ground.\n\n10. **Cloud Shadow Casting on Terrain**\n    Create a sunny scene with moving semi-transparent cloud volumes above a textured landscape, where dynamic soft gray patches move across the ground as shadows, matching each cloud’s position and shape.\n\n11. **Cloud Chamber Particle Tracks**\n    Represent a cloud chamber as a transparent box where charged particles pass through and leave glowing white vapor trails that appear, thicken briefly, then dissolve, with different colors and labels for alpha, beta, and muon tracks.\n\n12. **Data Cloud of Points in 3D Space**\n    Visualize a \"data cloud\" as thousands of small points in 3D that cluster, split, and merge as parameters (sliders) change, with glowing connections appearing temporarily between nearby points and cluster centroids labeled.\n\n13. **Orbiting Planet with Dynamic Cloud Bands**\n    Show a rotating planet with semi-transparent swirling white cloud bands that move, stretch, collide, and wrap around the sphere, with a slider to speed up or slow down atmospheric circulation.\n\n14. **Fog Bank Rolling Over a City**\n    Model a simple city of box-shaped buildings with a low, dense, semi-transparent fog volume creeping in from one side, wrapping and flowing around buildings, thickening in low areas and thinning as it climbs higher structures.\n\n15. **Industrial Cooling Towers and Steam Plumes**\n    Place several cooling towers emitting rising semi-transparent plumes that expand, bend with wind, and sometimes merge into a larger cloud layer overhead, with emission rate sliders and small particles that condense then evaporate.\n\n16. **Changing Cloud Cover Over a Rotating Globe**\n    Display a slowly rotating Earth with patchy cloud fields that grow, shrink, and drift, showing storm systems that spin, tighten, and then dissipate, with a legend for cloud density and labels on major storms.\n\n17. **Heat-Island Effect and Urban Cloud Formation**\n    Contrast a city block and nearby park as two adjacent planes with different surface temperatures, and visualize rising warm air columns over the city producing more small puffy clouds than over the park, with temperature color maps.\n\n18. **Cloud Computing Cluster Visualization**\n    Represent servers as towers on a floor plane connected by glowing lines to a semi-transparent \"cloud\" volume above; data packets appear as colored particles that launch, route, merge, and split as they travel between servers and the cloud.\n\n19. **Supercell Rotation and Wall Cloud**\n    Build a rotating storm updraft column under a large cloud base disk, showing a lowering wall cloud that forms, rotates, and occasionally spawns a tight funnel that extends toward the ground and then retracts, with rotation speed vectors.\n\n20. **Cloud of Balloons in a Wind Field**\n    Fill the sky with many light-colored balloons that float and drift like a \"balloon cloud,\" sometimes bumping, briefly attaching, then separating, all carried by a 3D wind field visualized with arrow glyphs.\n\n21. **Ink Cloud in Water Tank**\n    Use a transparent box as a water tank and drop in colored ink blobs that sink slightly and form branching cloud-like plumes that curl, mix, and fade, leaving smooth color gradients and possible trails from moving injection points.\n\n22. **Planetary Nebula Cloud Expansion**\n    Simulate a central glowing star ejecting a spherical shell of colored gas particles that expand outward as a semi-transparent cloud, with denser rings and filaments that brighten when hit by simulated light rays.\n\n23. **Skywriting Letters in Cloud Trails**\n    Have a small plane trace letters and shapes in the sky, leaving behind puffy cloud trails that slowly drift, deform, and dissolve, with the ability to attach labels to each letter as it forms.\n\n24. **Time-Lapse Cloudscape Over a Moving Camera**\n    Move a virtual camera slowly across a landscape while multiple altitude layers of clouds scroll at different speeds and directions overhead, with clouds forming, merging, and evaporating as if seen in accelerated time.\n\n25. **Glowing Ionized Cloud Around a Spacecraft**\n    Place a spacecraft moving quickly through a thin atmosphere, generating a glowing, semi-transparent plasma cloud around its nose that thickens during \"reentry,\" changes color with speed, and leaves a short glowing trail behind."
+}

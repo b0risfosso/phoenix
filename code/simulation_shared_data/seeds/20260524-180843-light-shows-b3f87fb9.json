@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Light shows",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:08:43",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Orbiting Laser Beams Around Floating Spheres",
+      "description": "Make a 3D Python simulation of transparent spheres in space with thin colored laser beams that orbit, bounce off, and refract through them, leaving glowing trails and labels for each beam path.",
+      "seed": "Orbiting Laser Beams Around Floating Spheres: Make a 3D Python simulation of transparent spheres in space with thin colored laser beams that orbit, bounce off, and refract through them, leaving glowing trails and labels for each beam path."
+    },
+    {
+      "number": "2",
+      "title": "City Plaza Fountain Light Show",
+      "description": "Make a 3D Python simulation of a circular fountain in a plaza where jets of water shoot up and fall while colored spotlights rotate, pulse, and change color to follow the arcs of water droplets with particle sprays and reflections on a light tiled ground.",
+      "seed": "City Plaza Fountain Light Show: Make a 3D Python simulation of a circular fountain in a plaza where jets of water shoot up and fall while colored spotlights rotate, pulse, and change color to follow the arcs of water droplets with particle sprays and reflections on a light tiled ground."
+    },
+    {
+      "number": "3",
+      "title": "Music-Driven Light Columns",
+      "description": "Make a 3D Python simulation of vertical translucent columns that grow, shrink, and change color intensity in sync with an invisible beat, with small glowing particles that rise and fall inside each column leaving fading trails.",
+      "seed": "Music-Driven Light Columns: Make a 3D Python simulation of vertical translucent columns that grow, shrink, and change color intensity in sync with an invisible beat, with small glowing particles that rise and fall inside each column leaving fading trails."
+    },
+    {
+      "number": "4",
+      "title": "Dancing Drones With LEDs",
+      "description": "Make a 3D Python simulation of many small drone spheres with colored LED bands that fly choreographed patterns, form shapes, avoid collisions, and leave faint luminous trails against a pale sky, with a ground grid for reference.",
+      "seed": "Dancing Drones With LEDs: Make a 3D Python simulation of many small drone spheres with colored LED bands that fly choreographed patterns, form shapes, avoid collisions, and leave faint luminous trails against a pale sky, with a ground grid for reference."
+    },
+    {
+      "number": "5",
+      "title": "Laser Maze With Moving Mirrors",
+      "description": "Make a 3D Python simulation of a laser source shooting a narrow beam across a room filled with movable reflective panels and rotating mirrors that redirect, split, and recombine the beam, with visible segments and color changes at each reflection.",
+      "seed": "Laser Maze With Moving Mirrors: Make a 3D Python simulation of a laser source shooting a narrow beam across a room filled with movable reflective panels and rotating mirrors that redirect, split, and recombine the beam, with visible segments and color changes at each reflection."
+    },
+    {
+      "number": "6",
+      "title": "Aurora Curtain Over Snowfield",
+      "description": "Make a 3D Python simulation of waving semi-transparent light curtains (like auroras) above a flat snowy plane, where ribbons of color drift, merge, split, and pulse while faint particles fall and the snow reflects soft hues.",
+      "seed": "Aurora Curtain Over Snowfield: Make a 3D Python simulation of waving semi-transparent light curtains (like auroras) above a flat snowy plane, where ribbons of color drift, merge, split, and pulse while faint particles fall and the snow reflects soft hues."
+    },
+    {
+      "number": "7",
+      "title": "Fiber Optic Tree of Light",
+      "description": "Make a 3D Python simulation of a central trunk that branches into many thin fiber-like tubes which pulse with colored light that travels outward, splits at junctions, and fades at the tips, with a meter showing total branching light intensity.",
+      "seed": "Fiber Optic Tree of Light: Make a 3D Python simulation of a central trunk that branches into many thin fiber-like tubes which pulse with colored light that travels outward, splits at junctions, and fades at the tips, with a meter showing total branching light intensity."
+    },
+    {
+      "number": "8",
+      "title": "Laser Light Tunnel Ride",
+      "description": "Make a 3D Python simulation of a camera moving through a long cylindrical tunnel whose inner surface hosts rotating rings, spinning polygons, and pulsing neon lines that flash, wrap, and slide along the tunnel walls in sync with a timer.",
+      "seed": "Laser Light Tunnel Ride: Make a 3D Python simulation of a camera moving through a long cylindrical tunnel whose inner surface hosts rotating rings, spinning polygons, and pulsing neon lines that flash, wrap, and slide along the tunnel walls in sync with a timer."
+    },
+    {
+      "number": "9",
+      "title": "Interactive Spotlight Stage Show",
+      "description": "Make a 3D Python simulation of a stage with several adjustable spotlights mounted on trusses that rotate, tilt, and zoom to follow moving performer cylinders, casting colored cones of light, overlapping beams, and soft circular footprints on the floor.",
+      "seed": "Interactive Spotlight Stage Show: Make a 3D Python simulation of a stage with several adjustable spotlights mounted on trusses that rotate, tilt, and zoom to follow moving performer cylinders, casting colored cones of light, overlapping beams, and soft circular footprints on the floor."
+    },
+    {
+      "number": "10",
+      "title": "Microscopic Fluorescent Cells",
+      "description": "Make a 3D Python simulation of transparent spherical cells floating in fluid, where certain cells intermittently glow, split, and merge, and light pulses travel along thin branching filaments between cells to indicate signaling events.",
+      "seed": "Microscopic Fluorescent Cells: Make a 3D Python simulation of transparent spherical cells floating in fluid, where certain cells intermittently glow, split, and merge, and light pulses travel along thin branching filaments between cells to indicate signaling events."
+    },
+    {
+      "number": "11",
+      "title": "Lighthouse Beams Sweeping the Sea",
+      "description": "Make a 3D Python simulation of a rotating lighthouse on a small island whose bright beam cone slowly sweeps over a gently moving ocean surface, creating moving patches of bright reflection and intermittently illuminating passing drifting buoys.",
+      "seed": "Lighthouse Beams Sweeping the Sea: Make a 3D Python simulation of a rotating lighthouse on a small island whose bright beam cone slowly sweeps over a gently moving ocean surface, creating moving patches of bright reflection and intermittently illuminating passing drifting buoys."
+    },
+    {
+      "number": "12",
+      "title": "Traffic Intersection Light Patterns",
+      "description": "Make a 3D Python simulation of a 3D city intersection with traffic lights that cycle through patterns, cars represented as boxes that stop, go, and leave faint motion trails, and pedestrian crosswalk signals that glow and animate walking icons.",
+      "seed": "Traffic Intersection Light Patterns: Make a 3D Python simulation of a 3D city intersection with traffic lights that cycle through patterns, cars represented as boxes that stop, go, and leave faint motion trails, and pedestrian crosswalk signals that glow and animate walking icons."
+    },
+    {
+      "number": "13",
+      "title": "Crystal Prism Light Splitter",
+      "description": "Make a 3D Python simulation of a white light beam entering a rotating transparent prism that splits the beam into multiple colored rays which fan out, reflect off nearby panels, and recombine in different spots on a bright tabletop.",
+      "seed": "Crystal Prism Light Splitter: Make a 3D Python simulation of a white light beam entering a rotating transparent prism that splits the beam into multiple colored rays which fan out, reflect off nearby panels, and recombine in different spots on a bright tabletop."
+    },
+    {
+      "number": "14",
+      "title": "Firefly Swarm Light Chorus",
+      "description": "Make a 3D Python simulation of dozens of small glowing firefly spheres that drift over grass, synchronize their flashing over time, form loose spirals and clusters, and leave subtle fading halos in the air as they move.",
+      "seed": "Firefly Swarm Light Chorus: Make a 3D Python simulation of dozens of small glowing firefly spheres that drift over grass, synchronize their flashing over time, form loose spirals and clusters, and leave subtle fading halos in the air as they move."
+    },
+    {
+      "number": "15",
+      "title": "Neon Circuit Board Skyline",
+      "description": "Make a 3D Python simulation of a flat circuit-board-like city with raised block “buildings” whose edges glow and whose windows pulse in patterns, while light pulses travel along elevated “wires” between buildings and fade into the distance.",
+      "seed": "Neon Circuit Board Skyline: Make a 3D Python simulation of a flat circuit-board-like city with raised block “buildings” whose edges glow and whose windows pulse in patterns, while light pulses travel along elevated “wires” between buildings and fade into the distance."
+    },
+    {
+      "number": "16",
+      "title": "Floating Lantern River Festival",
+      "description": "Make a 3D Python simulation of many glowing box lanterns floating on a slowly moving river plane, where lanterns collide gently, rotate, occasionally attach into small clusters, and cast soft colored reflections on the water.",
+      "seed": "Floating Lantern River Festival: Make a 3D Python simulation of many glowing box lanterns floating on a slowly moving river plane, where lanterns collide gently, rotate, occasionally attach into small clusters, and cast soft colored reflections on the water."
+    },
+    {
+      "number": "17",
+      "title": "Laser Pendulum Pattern Drawer",
+      "description": "Make a 3D Python simulation of a swinging pendulum with a laser pointer at its tip that traces evolving Lissajous patterns on a horizontal translucent screen, with persisting faint trails and a control slider for gravity or pendulum length.",
+      "seed": "Laser Pendulum Pattern Drawer: Make a 3D Python simulation of a swinging pendulum with a laser pointer at its tip that traces evolving Lissajous patterns on a horizontal translucent screen, with persisting faint trails and a control slider for gravity or pendulum length."
+    },
+    {
+      "number": "18",
+      "title": "Planetarium Star Dome Show",
+      "description": "Make a 3D Python simulation of a dome-shaped interior with stars projected onto the inside surface, where constellations light up in sequence, connecting lines appear and fade, and a comet’s bright trail slowly crosses the dome.",
+      "seed": "Planetarium Star Dome Show: Make a 3D Python simulation of a dome-shaped interior with stars projected onto the inside surface, where constellations light up in sequence, connecting lines appear and fade, and a comet’s bright trail slowly crosses the dome."
+    },
+    {
+      "number": "19",
+      "title": "Underwater Bioluminescent Reef",
+      "description": "Make a 3D Python simulation of coral-like structures on the seafloor that emit soft glows when “touched” by passing translucent fish, with light waves that travel along coral branches and small glowing particles that drift upward.",
+      "seed": "Underwater Bioluminescent Reef: Make a 3D Python simulation of coral-like structures on the seafloor that emit soft glows when “touched” by passing translucent fish, with light waves that travel along coral branches and small glowing particles that drift upward."
+    },
+    {
+      "number": "20",
+      "title": "Laser Grid Security Room",
+      "description": "Make a 3D Python simulation of a bright-walled room filled with a dynamic 3D grid of thin red and green laser beams that turn on and off in patterns, with a moving sphere trying to navigate through without colliding and causing beams to flash.",
+      "seed": "Laser Grid Security Room: Make a 3D Python simulation of a bright-walled room filled with a dynamic 3D grid of thin red and green laser beams that turn on and off in patterns, with a moving sphere trying to navigate through without colliding and causing beams to flash."
+    },
+    {
+      "number": "21",
+      "title": "Orbital Satellite Light Network",
+      "description": "Make a 3D Python simulation of several satellites orbiting a central planet, where each satellite sends pulsing beams of colored light to others forming a shifting communication network, with arcs that attach, detach, and re-route dynamically.",
+      "seed": "Orbital Satellite Light Network: Make a 3D Python simulation of several satellites orbiting a central planet, where each satellite sends pulsing beams of colored light to others forming a shifting communication network, with arcs that attach, detach, and re-route dynamically."
+    },
+    {
+      "number": "22",
+      "title": "Time-Lapse City Night Turning to Day",
+      "description": "Make a 3D Python simulation of a city block where building windows, streetlights, and car headlights glow and move in patterns, then gradually dim and turn off as a simulated sunrise brightens the sky and washes out the artificial lights.",
+      "seed": "Time-Lapse City Night Turning to Day: Make a 3D Python simulation of a city block where building windows, streetlights, and car headlights glow and move in patterns, then gradually dim and turn off as a simulated sunrise brightens the sky and washes out the artificial lights."
+    },
+    {
+      "number": "23",
+      "title": "Laser Etching on Rotating Cylinder",
+      "description": "Make a 3D Python simulation of a rotating translucent cylinder where a tight laser point scans along its surface, “engraving” glowing lines and shapes that remain as faint marks while the beam jumps, wraps around, and draws patterns.",
+      "seed": "Laser Etching on Rotating Cylinder: Make a 3D Python simulation of a rotating translucent cylinder where a tight laser point scans along its surface, “engraving” glowing lines and shapes that remain as faint marks while the beam jumps, wraps around, and draws patterns."
+    },
+    {
+      "number": "24",
+      "title": "Holographic Data Cube",
+      "description": "Make a 3D Python simulation of a semi-transparent cube filled with tiny points of light that rearrange to form shifting 3D shapes and graphs, with beams linking clusters, labels that fade in and out, and a rotating camera orbit around the cube.",
+      "seed": "Holographic Data Cube: Make a 3D Python simulation of a semi-transparent cube filled with tiny points of light that rearrange to form shifting 3D shapes and graphs, with beams linking clusters, labels that fade in and out, and a rotating camera orbit around the cube."
+    },
+    {
+      "number": "25",
+      "title": "Meteor Shower Over Glass Landscape",
+      "description": "Make a 3D Python simulation of a flat glassy terrain where meteors streak across the sky, leaving bright trails, occasionally “burn up” into particle bursts, and cast moving reflections on the surface as they pass overhead.",
+      "seed": "Meteor Shower Over Glass Landscape: Make a 3D Python simulation of a flat glassy terrain where meteors streak across the sky, leaving bright trails, occasionally “burn up” into particle bursts, and cast moving reflections on the surface as they pass overhead."
+    }
+  ],
+  "raw_output": "Here are strong **Light shows simulation inputs** you can plug into your prompt:\n\n1. **Orbiting Laser Beams Around Floating Spheres**\n   Make a 3D Python simulation of transparent spheres in space with thin colored laser beams that orbit, bounce off, and refract through them, leaving glowing trails and labels for each beam path.\n\n2. **City Plaza Fountain Light Show**\n   Make a 3D Python simulation of a circular fountain in a plaza where jets of water shoot up and fall while colored spotlights rotate, pulse, and change color to follow the arcs of water droplets with particle sprays and reflections on a light tiled ground.\n\n3. **Music-Driven Light Columns**\n   Make a 3D Python simulation of vertical translucent columns that grow, shrink, and change color intensity in sync with an invisible beat, with small glowing particles that rise and fall inside each column leaving fading trails.\n\n4. **Dancing Drones With LEDs**\n   Make a 3D Python simulation of many small drone spheres with colored LED bands that fly choreographed patterns, form shapes, avoid collisions, and leave faint luminous trails against a pale sky, with a ground grid for reference.\n\n5. **Laser Maze With Moving Mirrors**\n   Make a 3D Python simulation of a laser source shooting a narrow beam across a room filled with movable reflective panels and rotating mirrors that redirect, split, and recombine the beam, with visible segments and color changes at each reflection.\n\n6. **Aurora Curtain Over Snowfield**\n   Make a 3D Python simulation of waving semi-transparent light curtains (like auroras) above a flat snowy plane, where ribbons of color drift, merge, split, and pulse while faint particles fall and the snow reflects soft hues.\n\n7. **Fiber Optic Tree of Light**\n   Make a 3D Python simulation of a central trunk that branches into many thin fiber-like tubes which pulse with colored light that travels outward, splits at junctions, and fades at the tips, with a meter showing total branching light intensity.\n\n8. **Laser Light Tunnel Ride**\n   Make a 3D Python simulation of a camera moving through a long cylindrical tunnel whose inner surface hosts rotating rings, spinning polygons, and pulsing neon lines that flash, wrap, and slide along the tunnel walls in sync with a timer.\n\n9. **Interactive Spotlight Stage Show**\n   Make a 3D Python simulation of a stage with several adjustable spotlights mounted on trusses that rotate, tilt, and zoom to follow moving performer cylinders, casting colored cones of light, overlapping beams, and soft circular footprints on the floor.\n\n10. **Microscopic Fluorescent Cells**\n    Make a 3D Python simulation of transparent spherical cells floating in fluid, where certain cells intermittently glow, split, and merge, and light pulses travel along thin branching filaments between cells to indicate signaling events.\n\n11. **Lighthouse Beams Sweeping the Sea**\n    Make a 3D Python simulation of a rotating lighthouse on a small island whose bright beam cone slowly sweeps over a gently moving ocean surface, creating moving patches of bright reflection and intermittently illuminating passing drifting buoys.\n\n12. **Traffic Intersection Light Patterns**\n    Make a 3D Python simulation of a 3D city intersection with traffic lights that cycle through patterns, cars represented as boxes that stop, go, and leave faint motion trails, and pedestrian crosswalk signals that glow and animate walking icons.\n\n13. **Crystal Prism Light Splitter**\n    Make a 3D Python simulation of a white light beam entering a rotating transparent prism that splits the beam into multiple colored rays which fan out, reflect off nearby panels, and recombine in different spots on a bright tabletop.\n\n14. **Firefly Swarm Light Chorus**\n    Make a 3D Python simulation of dozens of small glowing firefly spheres that drift over grass, synchronize their flashing over time, form loose spirals and clusters, and leave subtle fading halos in the air as they move.\n\n15. **Neon Circuit Board Skyline**\n    Make a 3D Python simulation of a flat circuit-board-like city with raised block “buildings” whose edges glow and whose windows pulse in patterns, while light pulses travel along elevated “wires” between buildings and fade into the distance.\n\n16. **Floating Lantern River Festival**\n    Make a 3D Python simulation of many glowing box lanterns floating on a slowly moving river plane, where lanterns collide gently, rotate, occasionally attach into small clusters, and cast soft colored reflections on the water.\n\n17. **Laser Pendulum Pattern Drawer**\n    Make a 3D Python simulation of a swinging pendulum with a laser pointer at its tip that traces evolving Lissajous patterns on a horizontal translucent screen, with persisting faint trails and a control slider for gravity or pendulum length.\n\n18. **Planetarium Star Dome Show**\n    Make a 3D Python simulation of a dome-shaped interior with stars projected onto the inside surface, where constellations light up in sequence, connecting lines appear and fade, and a comet’s bright trail slowly crosses the dome.\n\n19. **Underwater Bioluminescent Reef**\n    Make a 3D Python simulation of coral-like structures on the seafloor that emit soft glows when “touched” by passing translucent fish, with light waves that travel along coral branches and small glowing particles that drift upward.\n\n20. **Laser Grid Security Room**\n    Make a 3D Python simulation of a bright-walled room filled with a dynamic 3D grid of thin red and green laser beams that turn on and off in patterns, with a moving sphere trying to navigate through without colliding and causing beams to flash.\n\n21. **Orbital Satellite Light Network**\n    Make a 3D Python simulation of several satellites orbiting a central planet, where each satellite sends pulsing beams of colored light to others forming a shifting communication network, with arcs that attach, detach, and re-route dynamically.\n\n22. **Time-Lapse City Night Turning to Day**\n    Make a 3D Python simulation of a city block where building windows, streetlights, and car headlights glow and move in patterns, then gradually dim and turn off as a simulated sunrise brightens the sky and washes out the artificial lights.\n\n23. **Laser Etching on Rotating Cylinder**\n    Make a 3D Python simulation of a rotating translucent cylinder where a tight laser point scans along its surface, “engraving” glowing lines and shapes that remain as faint marks while the beam jumps, wraps around, and draws patterns.\n\n24. **Holographic Data Cube**\n    Make a 3D Python simulation of a semi-transparent cube filled with tiny points of light that rearrange to form shifting 3D shapes and graphs, with beams linking clusters, labels that fade in and out, and a rotating camera orbit around the cube.\n\n25. **Meteor Shower Over Glass Landscape**\n    Make a 3D Python simulation of a flat glassy terrain where meteors streak across the sky, leaving bright trails, occasionally “burn up” into particle bursts, and cast moving reflections on the surface as they pass overhead."
+}

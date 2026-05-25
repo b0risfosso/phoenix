@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Boundary formation",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:11:36",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Crystal Grain Boundary Growth in a Cooling Metal Block",
+      "description": "A transparent cube with many small colored lattice spheres that slowly align into ordered regions, forming sharp moving grain boundaries where misaligned atoms pulse, shift, and occasionally detach as the block cools and labels track boundary positions.",
+      "seed": "Crystal Grain Boundary Growth in a Cooling Metal Block: A transparent cube with many small colored lattice spheres that slowly align into ordered regions, forming sharp moving grain boundaries where misaligned atoms pulse, shift, and occasionally detach as the block cools and labels track boundary positions."
+    },
+    {
+      "number": "2",
+      "title": "Cell Membrane Self-Assembly from Floating Lipid Molecules",
+      "description": "Hundreds of tiny two-colored “lollipop” lipids float in a watery box, spontaneously aligning and snapping together into a flexible bilayer sheet that bends, wraps, and seals to form a closed cell boundary with semi-transparent membrane and diffusing particles outside.",
+      "seed": "Cell Membrane Self-Assembly from Floating Lipid Molecules: Hundreds of tiny two-colored “lollipop” lipids float in a watery box, spontaneously aligning and snapping together into a flexible bilayer sheet that bends, wraps, and seals to form a closed cell boundary with semi-transparent membrane and diffusing particles outside."
+    },
+    {
+      "number": "3",
+      "title": "Territory Formation by Competing Swarms of Agents",
+      "description": "Multiple flocks of small colored spheres wander a flat plane, leaving faint trails and gradually claiming territory; a shimmering boundary line forms where opposing swarms collide and push against each other, with labels showing territory size.",
+      "seed": "Territory Formation by Competing Swarms of Agents: Multiple flocks of small colored spheres wander a flat plane, leaving faint trails and gradually claiming territory; a shimmering boundary line forms where opposing swarms collide and push against each other, with labels showing territory size."
+    },
+    {
+      "number": "4",
+      "title": "Expanding City Limits with Zoning Boundaries",
+      "description": "A grid of low buildings grows outward from a city center, with semi-transparent colored zones (residential, commercial, industrial) expanding and shifting; zone boundaries glow and snap to street lines as new roads spawn and existing blocks redevelop.",
+      "seed": "Expanding City Limits with Zoning Boundaries: A grid of low buildings grows outward from a city center, with semi-transparent colored zones (residential, commercial, industrial) expanding and shifting; zone boundaries glow and snap to street lines as new roads spawn and existing blocks redevelop."
+    },
+    {
+      "number": "5",
+      "title": "Magnetic Domain Boundary Dynamics in a Ferromagnetic Bar",
+      "description": "A long rectangular bar is filled with tiny arrows representing spins pointing left or right; domains of aligned arrows grow and shrink, with sharp domain walls that slide, merge, and pin to small defects when an external magnetic field slider is adjusted.",
+      "seed": "Magnetic Domain Boundary Dynamics in a Ferromagnetic Bar: A long rectangular bar is filled with tiny arrows representing spins pointing left or right; domains of aligned arrows grow and shrink, with sharp domain walls that slide, merge, and pin to small defects when an external magnetic field slider is adjusted."
+    },
+    {
+      "number": "6",
+      "title": "River Delta Boundary Formation on a Coastal Plain",
+      "description": "A gentle sloping plane receives flowing blue particles from a river source that branch, split, and deposit sand-colored particles, gradually building a raised delta whose coastline boundary wobbles and advances as waves erode and currents deposit.",
+      "seed": "River Delta Boundary Formation on a Coastal Plain: A gentle sloping plane receives flowing blue particles from a river source that branch, split, and deposit sand-colored particles, gradually building a raised delta whose coastline boundary wobbles and advances as waves erode and currents deposit."
+    },
+    {
+      "number": "7",
+      "title": "Bubble Foam Packing and Boundary Rearrangement",
+      "description": "A cluster of semi-transparent, softly colliding spheres (bubbles) packs into a confined box, flattening at contacts; thin glowing edges highlight film boundaries between bubbles that rearrange, merge, and disappear during slow compression and relaxation.",
+      "seed": "Bubble Foam Packing and Boundary Rearrangement: A cluster of semi-transparent, softly colliding spheres (bubbles) packs into a confined box, flattening at contacts; thin glowing edges highlight film boundaries between bubbles that rearrange, merge, and disappear during slow compression and relaxation."
+    },
+    {
+      "number": "8",
+      "title": "Planetary Magnetosphere Boundary under Solar Wind",
+      "description": "A blue planet with a dipole field is hit by a stream of yellow solar-wind particles; field lines arc around the planet, showing a compressed bow shock boundary on the sunward side that shifts and ripples as wind intensity varies.",
+      "seed": "Planetary Magnetosphere Boundary under Solar Wind: A blue planet with a dipole field is hit by a stream of yellow solar-wind particles; field lines arc around the planet, showing a compressed bow shock boundary on the sunward side that shifts and ripples as wind intensity varies."
+    },
+    {
+      "number": "9",
+      "title": "Traffic Lane Formation in a Crowd Crossing a Plaza",
+      "description": "Hundreds of small walking capsules move between opposite sides of a flat plaza; as they avoid collisions, self-organized lanes emerge with color-coded flow directions and dynamic fuzzy boundaries that appear, drift, and dissolve.",
+      "seed": "Traffic Lane Formation in a Crowd Crossing a Plaza: Hundreds of small walking capsules move between opposite sides of a flat plaza; as they avoid collisions, self-organized lanes emerge with color-coded flow directions and dynamic fuzzy boundaries that appear, drift, and dissolve."
+    },
+    {
+      "number": "10",
+      "title": "Chemical Reaction Front Forming a Moving Boundary in a Gel",
+      "description": "A transparent gel block contains two reactants introduced from opposite sides as colored diffusing particles; where they meet, a bright reaction front boundary appears and slowly moves, leaving behind a color-changed region with a sharp transition zone.",
+      "seed": "Chemical Reaction Front Forming a Moving Boundary in a Gel: A transparent gel block contains two reactants introduced from opposite sides as colored diffusing particles; where they meet, a bright reaction front boundary appears and slowly moves, leaving behind a color-changed region with a sharp transition zone."
+    },
+    {
+      "number": "11",
+      "title": "Shoreline Boundary Formation with Tides and Sediment",
+      "description": "A slightly tilted sandy plane meets a shallow water volume; waves of water particles roll in, dragging and depositing sand grains so the shoreline boundary meanders, builds sandbars, and smooths or sharpens depending on wave height controls.",
+      "seed": "Shoreline Boundary Formation with Tides and Sediment: A slightly tilted sandy plane meets a shallow water volume; waves of water particles roll in, dragging and depositing sand grains so the shoreline boundary meanders, builds sandbars, and smooths or sharpens depending on wave height controls."
+    },
+    {
+      "number": "12",
+      "title": "Political Border Shifts in a Stylized 3D Landscape",
+      "description": "A low-relief 3D terrain is overlaid with colored semi-transparent regions representing countries; borders glow and snap along mountain ridges and rivers as “influence” particles spread, collide, and push boundaries back and forth.",
+      "seed": "Political Border Shifts in a Stylized 3D Landscape: A low-relief 3D terrain is overlaid with colored semi-transparent regions representing countries; borders glow and snap along mountain ridges and rivers as “influence” particles spread, collide, and push boundaries back and forth."
+    },
+    {
+      "number": "13",
+      "title": "Snow Accumulation Defining Urban Boundaries",
+      "description": "White snow particles fall over a simple 3D city; buildings and trees collect snow and create sheltered zones, so a visible boundary forms between snow-covered and snow-free pavement areas, dynamically shifting with wind direction and snowfall intensity.",
+      "seed": "Snow Accumulation Defining Urban Boundaries: White snow particles fall over a simple 3D city; buildings and trees collect snow and create sheltered zones, so a visible boundary forms between snow-covered and snow-free pavement areas, dynamically shifting with wind direction and snowfall intensity."
+    },
+    {
+      "number": "14",
+      "title": "Crystal Seed Growth Creating Faceted Boundaries",
+      "description": "Several small crystal seeds inside a transparent box grow by attaching floating atoms, forming faceted polyhedral shapes; as neighboring crystals expand, their growth fronts meet to form planar grain boundaries that lock and stop further expansion.",
+      "seed": "Crystal Seed Growth Creating Faceted Boundaries: Several small crystal seeds inside a transparent box grow by attaching floating atoms, forming faceted polyhedral shapes; as neighboring crystals expand, their growth fronts meet to form planar grain boundaries that lock and stop further expansion."
+    },
+    {
+      "number": "15",
+      "title": "Neural Territory Formation in a Growing Brain Sheet",
+      "description": "A curved semi-transparent sheet represents cortex, with colored neurons extending branching axons; axon arbors from different neuron groups expand and stop when they contact neighbors, creating mosaic territories with visible, irregular boundaries.",
+      "seed": "Neural Territory Formation in a Growing Brain Sheet: A curved semi-transparent sheet represents cortex, with colored neurons extending branching axons; axon arbors from different neuron groups expand and stop when they contact neighbors, creating mosaic territories with visible, irregular boundaries."
+    },
+    {
+      "number": "16",
+      "title": "Soap Droplet Spreading and Contact Line Boundary on a Surface",
+      "description": "A single semi-transparent droplet lands on a flat surface and spreads out, with a highlighted circular contact line boundary that advances, sticks, and jumps depending on surface roughness patches and droplet volume changes.",
+      "seed": "Soap Droplet Spreading and Contact Line Boundary on a Surface: A single semi-transparent droplet lands on a flat surface and spreads out, with a highlighted circular contact line boundary that advances, sticks, and jumps depending on surface roughness patches and droplet volume changes."
+    },
+    {
+      "number": "17",
+      "title": "Phase Separation in a Cooling Binary Alloy",
+      "description": "A 3D box filled with randomly mixed red and blue particles cools so that like-colored particles attract; clusters form, coarsen, and merge into distinct red-rich and blue-rich regions with smooth, evolving interfaces that can be highlighted as glowing surfaces.",
+      "seed": "Phase Separation in a Cooling Binary Alloy: A 3D box filled with randomly mixed red and blue particles cools so that like-colored particles attract; clusters form, coarsen, and merge into distinct red-rich and blue-rich regions with smooth, evolving interfaces that can be highlighted as glowing surfaces."
+    },
+    {
+      "number": "18",
+      "title": "Forest Fire Perimeter Formation and Spread",
+      "description": "A patchy forest on a gently rolling terrain contains trees as vertical cylinders; a fire starts at one point with burning trees emitting orange particles, and a glowing boundary line marks the fire perimeter as it moves with wind and fuel availability.",
+      "seed": "Forest Fire Perimeter Formation and Spread: A patchy forest on a gently rolling terrain contains trees as vertical cylinders; a fire starts at one point with burning trees emitting orange particles, and a glowing boundary line marks the fire perimeter as it moves with wind and fuel availability."
+    },
+    {
+      "number": "19",
+      "title": "Island Formation from Rising Lava in an Ocean",
+      "description": "A dark seabed sits beneath a shallow blue water layer; hot red lava particles erupt from vents, cool, and solidify into rock, gradually building an island whose coastline boundary emerges from beneath the water and expands outward in irregular shapes.",
+      "seed": "Island Formation from Rising Lava in an Ocean: A dark seabed sits beneath a shallow blue water layer; hot red lava particles erupt from vents, cool, and solidify into rock, gradually building an island whose coastline boundary emerges from beneath the water and expands outward in irregular shapes."
+    },
+    {
+      "number": "20",
+      "title": "Social Group Boundary Formation in a Schoolyard",
+      "description": "Dozens of colored spheres (students) wander on a flat yard; they cluster by color when near similar agents, forming loose groups with semi-transparent hulls that appear, merge, or split, showing fluid social boundaries that shift as individuals move.",
+      "seed": "Social Group Boundary Formation in a Schoolyard: Dozens of colored spheres (students) wander on a flat yard; they cluster by color when near similar agents, forming loose groups with semi-transparent hulls that appear, merge, or split, showing fluid social boundaries that shift as individuals move."
+    },
+    {
+      "number": "21",
+      "title": "Electrostatic Double-Layer Boundary near a Charged Surface",
+      "description": "A large flat charged plate attracts or repels small charged particles in a nearby fluid; positive and negative ions arrange into layers, forming a visible charge density boundary that shifts when plate charge or ion concentration sliders are changed.",
+      "seed": "Electrostatic Double-Layer Boundary near a Charged Surface: A large flat charged plate attracts or repels small charged particles in a nearby fluid; positive and negative ions arrange into layers, forming a visible charge density boundary that shifts when plate charge or ion concentration sliders are changed."
+    },
+    {
+      "number": "22",
+      "title": "Ice Edge Boundary in a Freezing Pond",
+      "description": "A shallow pond model has water particles that slow and lock into a crystalline lattice from the edges inward; a jagged ice–water boundary glows and advances, with floating debris either getting trapped in ice or pushed ahead of the freezing front.",
+      "seed": "Ice Edge Boundary in a Freezing Pond: A shallow pond model has water particles that slow and lock into a crystalline lattice from the edges inward; a jagged ice–water boundary glows and advances, with floating debris either getting trapped in ice or pushed ahead of the freezing front."
+    },
+    {
+      "number": "23",
+      "title": "Galaxy Cluster Boundaries in Expanding Space",
+      "description": "Multiple galaxy-like clusters of orbiting stars drift in a slowly expanding 3D space; gravitational attraction pulls stars into clusters, while a faint volumetric hull shows each cluster’s gravitational boundary, which grows, merges, and sometimes strips stars away.",
+      "seed": "Galaxy Cluster Boundaries in Expanding Space: Multiple galaxy-like clusters of orbiting stars drift in a slowly expanding 3D space; gravitational attraction pulls stars into clusters, while a faint volumetric hull shows each cluster’s gravitational boundary, which grows, merges, and sometimes strips stars away."
+    },
+    {
+      "number": "24",
+      "title": "Sand Dune Crest Boundary Formation under Wind",
+      "description": "Sand grains as small spheres roll and bounce over a light desert floor under steady wind, piling up into dunes whose sharp, moving crest lines form and migrate; crest boundaries can be highlighted with brighter color and small directional arrows.",
+      "seed": "Sand Dune Crest Boundary Formation under Wind: Sand grains as small spheres roll and bounce over a light desert floor under steady wind, piling up into dunes whose sharp, moving crest lines form and migrate; crest boundaries can be highlighted with brighter color and small directional arrows."
+    },
+    {
+      "number": "25",
+      "title": "Corrosion Front Boundary on a Metal Surface",
+      "description": "A metal plate immersed in a reactive solution slowly develops pits where corrosion starts; the corroded region expands as atoms detach into solution and a moving, irregular corrosion front boundary is visualized as a colored contour across the surface.",
+      "seed": "Corrosion Front Boundary on a Metal Surface: A metal plate immersed in a reactive solution slowly develops pits where corrosion starts; the corroded region expands as atoms detach into solution and a moving, irregular corrosion front boundary is visualized as a colored contour across the surface."
+    }
+  ],
+  "raw_output": "Here are strong **Boundary formation simulation inputs** you can plug into your prompt:\n\n1. **Crystal Grain Boundary Growth in a Cooling Metal Block**  \n   A transparent cube with many small colored lattice spheres that slowly align into ordered regions, forming sharp moving grain boundaries where misaligned atoms pulse, shift, and occasionally detach as the block cools and labels track boundary positions.\n\n2. **Cell Membrane Self-Assembly from Floating Lipid Molecules**  \n   Hundreds of tiny two-colored “lollipop” lipids float in a watery box, spontaneously aligning and snapping together into a flexible bilayer sheet that bends, wraps, and seals to form a closed cell boundary with semi-transparent membrane and diffusing particles outside.\n\n3. **Territory Formation by Competing Swarms of Agents**  \n   Multiple flocks of small colored spheres wander a flat plane, leaving faint trails and gradually claiming territory; a shimmering boundary line forms where opposing swarms collide and push against each other, with labels showing territory size.\n\n4. **Expanding City Limits with Zoning Boundaries**  \n   A grid of low buildings grows outward from a city center, with semi-transparent colored zones (residential, commercial, industrial) expanding and shifting; zone boundaries glow and snap to street lines as new roads spawn and existing blocks redevelop.\n\n5. **Magnetic Domain Boundary Dynamics in a Ferromagnetic Bar**  \n   A long rectangular bar is filled with tiny arrows representing spins pointing left or right; domains of aligned arrows grow and shrink, with sharp domain walls that slide, merge, and pin to small defects when an external magnetic field slider is adjusted.\n\n6. **River Delta Boundary Formation on a Coastal Plain**  \n   A gentle sloping plane receives flowing blue particles from a river source that branch, split, and deposit sand-colored particles, gradually building a raised delta whose coastline boundary wobbles and advances as waves erode and currents deposit.\n\n7. **Bubble Foam Packing and Boundary Rearrangement**  \n   A cluster of semi-transparent, softly colliding spheres (bubbles) packs into a confined box, flattening at contacts; thin glowing edges highlight film boundaries between bubbles that rearrange, merge, and disappear during slow compression and relaxation.\n\n8. **Planetary Magnetosphere Boundary under Solar Wind**  \n   A blue planet with a dipole field is hit by a stream of yellow solar-wind particles; field lines arc around the planet, showing a compressed bow shock boundary on the sunward side that shifts and ripples as wind intensity varies.\n\n9. **Traffic Lane Formation in a Crowd Crossing a Plaza**  \n   Hundreds of small walking capsules move between opposite sides of a flat plaza; as they avoid collisions, self-organized lanes emerge with color-coded flow directions and dynamic fuzzy boundaries that appear, drift, and dissolve.\n\n10. **Chemical Reaction Front Forming a Moving Boundary in a Gel**  \n    A transparent gel block contains two reactants introduced from opposite sides as colored diffusing particles; where they meet, a bright reaction front boundary appears and slowly moves, leaving behind a color-changed region with a sharp transition zone.\n\n11. **Shoreline Boundary Formation with Tides and Sediment**  \n    A slightly tilted sandy plane meets a shallow water volume; waves of water particles roll in, dragging and depositing sand grains so the shoreline boundary meanders, builds sandbars, and smooths or sharpens depending on wave height controls.\n\n12. **Political Border Shifts in a Stylized 3D Landscape**  \n    A low-relief 3D terrain is overlaid with colored semi-transparent regions representing countries; borders glow and snap along mountain ridges and rivers as “influence” particles spread, collide, and push boundaries back and forth.\n\n13. **Snow Accumulation Defining Urban Boundaries**  \n    White snow particles fall over a simple 3D city; buildings and trees collect snow and create sheltered zones, so a visible boundary forms between snow-covered and snow-free pavement areas, dynamically shifting with wind direction and snowfall intensity.\n\n14. **Crystal Seed Growth Creating Faceted Boundaries**  \n    Several small crystal seeds inside a transparent box grow by attaching floating atoms, forming faceted polyhedral shapes; as neighboring crystals expand, their growth fronts meet to form planar grain boundaries that lock and stop further expansion.\n\n15. **Neural Territory Formation in a Growing Brain Sheet**  \n    A curved semi-transparent sheet represents cortex, with colored neurons extending branching axons; axon arbors from different neuron groups expand and stop when they contact neighbors, creating mosaic territories with visible, irregular boundaries.\n\n16. **Soap Droplet Spreading and Contact Line Boundary on a Surface**  \n    A single semi-transparent droplet lands on a flat surface and spreads out, with a highlighted circular contact line boundary that advances, sticks, and jumps depending on surface roughness patches and droplet volume changes.\n\n17. **Phase Separation in a Cooling Binary Alloy**  \n    A 3D box filled with randomly mixed red and blue particles cools so that like-colored particles attract; clusters form, coarsen, and merge into distinct red-rich and blue-rich regions with smooth, evolving interfaces that can be highlighted as glowing surfaces.\n\n18. **Forest Fire Perimeter Formation and Spread**  \n    A patchy forest on a gently rolling terrain contains trees as vertical cylinders; a fire starts at one point with burning trees emitting orange particles, and a glowing boundary line marks the fire perimeter as it moves with wind and fuel availability.\n\n19. **Island Formation from Rising Lava in an Ocean**  \n    A dark seabed sits beneath a shallow blue water layer; hot red lava particles erupt from vents, cool, and solidify into rock, gradually building an island whose coastline boundary emerges from beneath the water and expands outward in irregular shapes.\n\n20. **Social Group Boundary Formation in a Schoolyard**  \n    Dozens of colored spheres (students) wander on a flat yard; they cluster by color when near similar agents, forming loose groups with semi-transparent hulls that appear, merge, or split, showing fluid social boundaries that shift as individuals move.\n\n21. **Electrostatic Double-Layer Boundary near a Charged Surface**  \n    A large flat charged plate attracts or repels small charged particles in a nearby fluid; positive and negative ions arrange into layers, forming a visible charge density boundary that shifts when plate charge or ion concentration sliders are changed.\n\n22. **Ice Edge Boundary in a Freezing Pond**  \n    A shallow pond model has water particles that slow and lock into a crystalline lattice from the edges inward; a jagged ice–water boundary glows and advances, with floating debris either getting trapped in ice or pushed ahead of the freezing front.\n\n23. **Galaxy Cluster Boundaries in Expanding Space**  \n    Multiple galaxy-like clusters of orbiting stars drift in a slowly expanding 3D space; gravitational attraction pulls stars into clusters, while a faint volumetric hull shows each cluster’s gravitational boundary, which grows, merges, and sometimes strips stars away.\n\n24. **Sand Dune Crest Boundary Formation under Wind**  \n    Sand grains as small spheres roll and bounce over a light desert floor under steady wind, piling up into dunes whose sharp, moving crest lines form and migrate; crest boundaries can be highlighted with brighter color and small directional arrows.\n\n25. **Corrosion Front Boundary on a Metal Surface**  \n    A metal plate immersed in a reactive solution slowly develops pits where corrosion starts; the corroded region expands as atoms detach into solution and a moving, irregular corrosion front boundary is visualized as a colored contour across the surface."
+}

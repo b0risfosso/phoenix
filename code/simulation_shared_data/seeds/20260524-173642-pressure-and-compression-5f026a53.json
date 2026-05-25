@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Pressure and compression",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:36:42",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Gas Molecules in a Compressing Piston Chamber",
+      "description": "A transparent cylinder filled with many bouncing spheres (gas molecules) under a sliding piston that slowly moves inward, increasing collision frequency, temperature color of particles, and a side pressure gauge that rises as volume shrinks.",
+      "seed": "Gas Molecules in a Compressing Piston Chamber: A transparent cylinder filled with many bouncing spheres (gas molecules) under a sliding piston that slowly moves inward, increasing collision frequency, temperature color of particles, and a side pressure gauge that rises as volume shrinks."
+    },
+    {
+      "number": "2",
+      "title": "Hydraulic Press Crushing a Metal Block",
+      "description": "Two thick plates slowly move together to compress a colored metal cube between them, with the cube squashing, bulging sideways, changing color where stress is highest, and a bar graph showing applied pressure over time.",
+      "seed": "Hydraulic Press Crushing a Metal Block: Two thick plates slowly move together to compress a colored metal cube between them, with the cube squashing, bulging sideways, changing color where stress is highest, and a bar graph showing applied pressure over time."
+    },
+    {
+      "number": "3",
+      "title": "Submarine Hull Under Increasing Ocean Depth",
+      "description": "A cylindrical submarine descends through a light blue water column where water pressure increases with depth, causing the hull to slightly deform inward, external arrows grow and darken with depth, and internal air particles compress and speed up.",
+      "seed": "Submarine Hull Under Increasing Ocean Depth: A cylindrical submarine descends through a light blue water column where water pressure increases with depth, causing the hull to slightly deform inward, external arrows grow and darken with depth, and internal air particles compress and speed up."
+    },
+    {
+      "number": "4",
+      "title": "Lungs Inflating and Deflating with Air Pressure",
+      "description": "A semi-transparent chest cavity shows two elastic sacs (lungs) that expand and contract as air particles flow in and out through a trachea tube, with internal pressure displayed as a rising/falling meter and arrows indicating airflow direction.",
+      "seed": "Lungs Inflating and Deflating with Air Pressure: A semi-transparent chest cavity shows two elastic sacs (lungs) that expand and contract as air particles flow in and out through a trachea tube, with internal pressure displayed as a rising/falling meter and arrows indicating airflow direction."
+    },
+    {
+      "number": "5",
+      "title": "Sponge Being Compressed and Releasing Water",
+      "description": "A porous 3D sponge block between two plates is squeezed so that blue water particles are pushed out and drip down, then when released, the sponge re-expands and slowly reabsorbs nearby floating droplets.",
+      "seed": "Sponge Being Compressed and Releasing Water: A porous 3D sponge block between two plates is squeezed so that blue water particles are pushed out and drip down, then when released, the sponge re-expands and slowly reabsorbs nearby floating droplets."
+    },
+    {
+      "number": "6",
+      "title": "Car Tire Under Changing Load and Pressure",
+      "description": "A car wheel rests on the ground with a visible translucent tire; as load increases from above, the tire flattens at the bottom, internal air particles compress and move faster, and a side gauge shows tire pressure rising and dropping when a valve opens.",
+      "seed": "Car Tire Under Changing Load and Pressure: A car wheel rests on the ground with a visible translucent tire; as load increases from above, the tire flattens at the bottom, internal air particles compress and move faster, and a side gauge shows tire pressure rising and dropping when a valve opens."
+    },
+    {
+      "number": "7",
+      "title": "Earth’s Crust Compression Forming Folded Mountains",
+      "description": "Two large crustal plates slowly converge and push a flexible terrain strip that wrinkles and rises into mountains, with stress lines colored from green to red and small labeled arrows showing compression directions.",
+      "seed": "Earth’s Crust Compression Forming Folded Mountains: Two large crustal plates slowly converge and push a flexible terrain strip that wrinkles and rises into mountains, with stress lines colored from green to red and small labeled arrows showing compression directions."
+    },
+    {
+      "number": "8",
+      "title": "Shock Wave Compression from an Explosion",
+      "description": "A small central detonation in air emits an expanding spherical pressure wave that compresses and briefly displaces nearby particles, drawn as a semi-transparent shell with changing thickness, color, and labeled pressure ring.",
+      "seed": "Shock Wave Compression from an Explosion: A small central detonation in air emits an expanding spherical pressure wave that compresses and briefly displaces nearby particles, drawn as a semi-transparent shell with changing thickness, color, and labeled pressure ring."
+    },
+    {
+      "number": "9",
+      "title": "Syringe Plunger Compressing Liquid into a Narrow Tube",
+      "description": "A transparent syringe shows a plunger moving inward to compress a nearly incompressible colored liquid, forcing it through a narrow tube where velocity increases, pressure drops, and tiny tracer particles leave glowing trails.",
+      "seed": "Syringe Plunger Compressing Liquid into a Narrow Tube: A transparent syringe shows a plunger moving inward to compress a nearly incompressible colored liquid, forcing it through a narrow tube where velocity increases, pressure drops, and tiny tracer particles leave glowing trails."
+    },
+    {
+      "number": "10",
+      "title": "Foam Block Under Cyclic Compression",
+      "description": "A springy foam cube is repeatedly compressed and released between an oscillating plate and the floor; the cube squashes, then rebounds, with color bands indicating local compression and a graph tracing compression over time.",
+      "seed": "Foam Block Under Cyclic Compression: A springy foam cube is repeatedly compressed and released between an oscillating plate and the floor; the cube squashes, then rebounds, with color bands indicating local compression and a graph tracing compression over time."
+    },
+    {
+      "number": "11",
+      "title": "Air Compressor Filling a Storage Tank",
+      "description": "A pump piston repeatedly compresses air from a large box into a smaller spherical tank, with particle density and speed inside the tank increasing, the tank’s material slightly bulging, and a digital pressure readout climbing until a relief valve vents.",
+      "seed": "Air Compressor Filling a Storage Tank: A pump piston repeatedly compresses air from a large box into a smaller spherical tank, with particle density and speed inside the tank increasing, the tank’s material slightly bulging, and a digital pressure readout climbing until a relief valve vents."
+    },
+    {
+      "number": "12",
+      "title": "Star Core Compression and Expansion Pulses",
+      "description": "A glowing star sphere has a brighter, denser core region that rhythmically compresses and expands, driving pressure waves outward through semi-transparent gas layers, with concentric shells that pulse, change color, and slightly shift radius.",
+      "seed": "Star Core Compression and Expansion Pulses: A glowing star sphere has a brighter, denser core region that rhythmically compresses and expands, driving pressure waves outward through semi-transparent gas layers, with concentric shells that pulse, change color, and slightly shift radius."
+    },
+    {
+      "number": "13",
+      "title": "Traffic Jam as Social Pressure and Compression",
+      "description": "A stream of car boxes moves along a highway; when a blockage appears, cars bunch up and compress into a dense cluster with red color, then slowly decompress and spread out, with a density meter and arrows showing pressure on each car.",
+      "seed": "Traffic Jam as Social Pressure and Compression: A stream of car boxes moves along a highway; when a blockage appears, cars bunch up and compress into a dense cluster with red color, then slowly decompress and spread out, with a density meter and arrows showing pressure on each car."
+    },
+    {
+      "number": "14",
+      "title": "Crushing Can with External Air Pressure",
+      "description": "A hot can simulation shows internal gas particles escaping through a valve; as they leave, external air pressure (arrows pressing inward) crushes the can, visibly denting and folding the walls until internal and external pressures balance.",
+      "seed": "Crushing Can with External Air Pressure: A hot can simulation shows internal gas particles escaping through a valve; as they leave, external air pressure (arrows pressing inward) crushes the can, visibly denting and folding the walls until internal and external pressures balance."
+    },
+    {
+      "number": "15",
+      "title": "Balloon Being Inflated Then Squeezed",
+      "description": "A semi-transparent elastic balloon is inflated by incoming air particles and grows larger, then a virtual hand (plate) squeezes it from one side, changing its shape, redistributing internal particle density and velocity, and shifting surface color with tension.",
+      "seed": "Balloon Being Inflated Then Squeezed: A semi-transparent elastic balloon is inflated by incoming air particles and grows larger, then a virtual hand (plate) squeezes it from one side, changing its shape, redistributing internal particle density and velocity, and shifting surface color with tension."
+    },
+    {
+      "number": "16",
+      "title": "Ice Skater’s Blade Pressure Melting Ice",
+      "description": "A skater block slides across a translucent ice plane; at the thin contact line, high local pressure slightly melts the ice into a thin blue water layer, which refreezes behind the skater, leaving a glossy trail and temperature-pressure labels.",
+      "seed": "Ice Skater’s Blade Pressure Melting Ice: A skater block slides across a translucent ice plane; at the thin contact line, high local pressure slightly melts the ice into a thin blue water layer, which refreezes behind the skater, leaving a glossy trail and temperature-pressure labels."
+    },
+    {
+      "number": "17",
+      "title": "Seismic Compression Wave Traveling Through Rock",
+      "description": "A 3D lattice of small spheres (rock elements) is compressed from one side by a moving piston, sending a compressional wave where spheres momentarily squeeze closer, change color, and then return, with arrows showing displacement and wave speed.",
+      "seed": "Seismic Compression Wave Traveling Through Rock: A 3D lattice of small spheres (rock elements) is compressed from one side by a moving piston, sending a compressional wave where spheres momentarily squeeze closer, change color, and then return, with arrows showing displacement and wave speed."
+    },
+    {
+      "number": "18",
+      "title": "Compression Spring with Variable Load",
+      "description": "A helical spring model sits between a ceiling and a moving platform that increases load; coils compress closer together, change color from green to red with stress, and a label shows force and compression distance in real time.",
+      "seed": "Compression Spring with Variable Load: A helical spring model sits between a ceiling and a moving platform that increases load; coils compress closer together, change color from green to red with stress, and a label shows force and compression distance in real time."
+    },
+    {
+      "number": "19",
+      "title": "Multi-Stage Rocket Fuel Tank Pressure System",
+      "description": "Stacked cylindrical fuel tanks show liquid and pressurizing gas regions; as fuel drains to engines, gas volumes expand while pressure drops, valves open/close, and small labels show each tank’s pressure and fluid height.",
+      "seed": "Multi-Stage Rocket Fuel Tank Pressure System: Stacked cylindrical fuel tanks show liquid and pressurizing gas regions; as fuel drains to engines, gas volumes expand while pressure drops, valves open/close, and small labels show each tank’s pressure and fluid height."
+    },
+    {
+      "number": "20",
+      "title": "Porous Rock Under Fluid Pressure Injection",
+      "description": "A rock block with visible internal channels receives injected fluid from one side; blue fluid particles migrate and compress trapped gas pockets, changing the rock’s internal pressure field displayed with colored isosurfaces.",
+      "seed": "Porous Rock Under Fluid Pressure Injection: A rock block with visible internal channels receives injected fluid from one side; blue fluid particles migrate and compress trapped gas pockets, changing the rock’s internal pressure field displayed with colored isosurfaces."
+    },
+    {
+      "number": "21",
+      "title": "Compression of a Soft Planet by a Massive Neighbor",
+      "description": "A soft, semi-fluid planet orbits a massive nearby body; as it passes closer, tidal forces compress and stretch the planet into an ellipsoid, with surface markers moving, internal layers shifting, and stress zones glowing more intensely.",
+      "seed": "Compression of a Soft Planet by a Massive Neighbor: A soft, semi-fluid planet orbits a massive nearby body; as it passes closer, tidal forces compress and stretch the planet into an ellipsoid, with surface markers moving, internal layers shifting, and stress zones glowing more intensely."
+    },
+    {
+      "number": "22",
+      "title": "Airbag Inflation and Passenger Compression Buffer",
+      "description": "A seated figure moves forward in a collision while a folded airbag rapidly inflates with high-pressure gas, expanding into a cushion that compresses on impact, slowing the figure; pressure inside the bag and contact forces are displayed.",
+      "seed": "Airbag Inflation and Passenger Compression Buffer: A seated figure moves forward in a collision while a folded airbag rapidly inflates with high-pressure gas, expanding into a cushion that compresses on impact, slowing the figure; pressure inside the bag and contact forces are displayed."
+    },
+    {
+      "number": "23",
+      "title": "Industrial Roller Press Flattening a Metal Sheet",
+      "description": "A flexible metal sheet moves between two counter-rotating rollers; as it passes through, its thickness compresses, length increases, and color shifts where strain is highest, with small arrows marking in-feed and out-feed velocities.",
+      "seed": "Industrial Roller Press Flattening a Metal Sheet: A flexible metal sheet moves between two counter-rotating rollers; as it passes through, its thickness compresses, length increases, and color shifts where strain is highest, with small arrows marking in-feed and out-feed velocities."
+    },
+    {
+      "number": "24",
+      "title": "Galaxy Core Compression into a Black Hole",
+      "description": "Stars orbit a galactic center that slowly collapses; as the core compresses, nearby star orbits tighten and accelerate, a central sphere shrinks and darkens into a black hole, and gravitational “pressure” is visualized with curved grid lines.",
+      "seed": "Galaxy Core Compression into a Black Hole: Stars orbit a galactic center that slowly collapses; as the core compresses, nearby star orbits tighten and accelerate, a central sphere shrinks and darkens into a black hole, and gravitational “pressure” is visualized with curved grid lines."
+    },
+    {
+      "number": "25",
+      "title": "Sound Wave Compression in an Air Column",
+      "description": "An open tube filled with small air particles shows a standing sound wave where regions of compression and rarefaction move or oscillate; particles bunch and spread periodically, with color-coded pressure nodes and antinodes labeled.",
+      "seed": "Sound Wave Compression in an Air Column: An open tube filled with small air particles shows a standing sound wave where regions of compression and rarefaction move or oscillate; particles bunch and spread periodically, with color-coded pressure nodes and antinodes labeled."
+    }
+  ],
+  "raw_output": "Here are strong **Pressure and compression simulation inputs** you can plug into your prompt:\n\n1. **Gas Molecules in a Compressing Piston Chamber**\n   A transparent cylinder filled with many bouncing spheres (gas molecules) under a sliding piston that slowly moves inward, increasing collision frequency, temperature color of particles, and a side pressure gauge that rises as volume shrinks.\n\n2. **Hydraulic Press Crushing a Metal Block**\n   Two thick plates slowly move together to compress a colored metal cube between them, with the cube squashing, bulging sideways, changing color where stress is highest, and a bar graph showing applied pressure over time.\n\n3. **Submarine Hull Under Increasing Ocean Depth**\n   A cylindrical submarine descends through a light blue water column where water pressure increases with depth, causing the hull to slightly deform inward, external arrows grow and darken with depth, and internal air particles compress and speed up.\n\n4. **Lungs Inflating and Deflating with Air Pressure**\n   A semi-transparent chest cavity shows two elastic sacs (lungs) that expand and contract as air particles flow in and out through a trachea tube, with internal pressure displayed as a rising/falling meter and arrows indicating airflow direction.\n\n5. **Sponge Being Compressed and Releasing Water**\n   A porous 3D sponge block between two plates is squeezed so that blue water particles are pushed out and drip down, then when released, the sponge re-expands and slowly reabsorbs nearby floating droplets.\n\n6. **Car Tire Under Changing Load and Pressure**\n   A car wheel rests on the ground with a visible translucent tire; as load increases from above, the tire flattens at the bottom, internal air particles compress and move faster, and a side gauge shows tire pressure rising and dropping when a valve opens.\n\n7. **Earth’s Crust Compression Forming Folded Mountains**\n   Two large crustal plates slowly converge and push a flexible terrain strip that wrinkles and rises into mountains, with stress lines colored from green to red and small labeled arrows showing compression directions.\n\n8. **Shock Wave Compression from an Explosion**\n   A small central detonation in air emits an expanding spherical pressure wave that compresses and briefly displaces nearby particles, drawn as a semi-transparent shell with changing thickness, color, and labeled pressure ring.\n\n9. **Syringe Plunger Compressing Liquid into a Narrow Tube**\n   A transparent syringe shows a plunger moving inward to compress a nearly incompressible colored liquid, forcing it through a narrow tube where velocity increases, pressure drops, and tiny tracer particles leave glowing trails.\n\n10. **Foam Block Under Cyclic Compression**\n    A springy foam cube is repeatedly compressed and released between an oscillating plate and the floor; the cube squashes, then rebounds, with color bands indicating local compression and a graph tracing compression over time.\n\n11. **Air Compressor Filling a Storage Tank**\n    A pump piston repeatedly compresses air from a large box into a smaller spherical tank, with particle density and speed inside the tank increasing, the tank’s material slightly bulging, and a digital pressure readout climbing until a relief valve vents.\n\n12. **Star Core Compression and Expansion Pulses**\n    A glowing star sphere has a brighter, denser core region that rhythmically compresses and expands, driving pressure waves outward through semi-transparent gas layers, with concentric shells that pulse, change color, and slightly shift radius.\n\n13. **Traffic Jam as Social Pressure and Compression**\n    A stream of car boxes moves along a highway; when a blockage appears, cars bunch up and compress into a dense cluster with red color, then slowly decompress and spread out, with a density meter and arrows showing pressure on each car.\n\n14. **Crushing Can with External Air Pressure**\n    A hot can simulation shows internal gas particles escaping through a valve; as they leave, external air pressure (arrows pressing inward) crushes the can, visibly denting and folding the walls until internal and external pressures balance.\n\n15. **Balloon Being Inflated Then Squeezed**\n    A semi-transparent elastic balloon is inflated by incoming air particles and grows larger, then a virtual hand (plate) squeezes it from one side, changing its shape, redistributing internal particle density and velocity, and shifting surface color with tension.\n\n16. **Ice Skater’s Blade Pressure Melting Ice**\n    A skater block slides across a translucent ice plane; at the thin contact line, high local pressure slightly melts the ice into a thin blue water layer, which refreezes behind the skater, leaving a glossy trail and temperature-pressure labels.\n\n17. **Seismic Compression Wave Traveling Through Rock**\n    A 3D lattice of small spheres (rock elements) is compressed from one side by a moving piston, sending a compressional wave where spheres momentarily squeeze closer, change color, and then return, with arrows showing displacement and wave speed.\n\n18. **Compression Spring with Variable Load**\n    A helical spring model sits between a ceiling and a moving platform that increases load; coils compress closer together, change color from green to red with stress, and a label shows force and compression distance in real time.\n\n19. **Multi-Stage Rocket Fuel Tank Pressure System**\n    Stacked cylindrical fuel tanks show liquid and pressurizing gas regions; as fuel drains to engines, gas volumes expand while pressure drops, valves open/close, and small labels show each tank’s pressure and fluid height.\n\n20. **Porous Rock Under Fluid Pressure Injection**\n    A rock block with visible internal channels receives injected fluid from one side; blue fluid particles migrate and compress trapped gas pockets, changing the rock’s internal pressure field displayed with colored isosurfaces.\n\n21. **Compression of a Soft Planet by a Massive Neighbor**\n    A soft, semi-fluid planet orbits a massive nearby body; as it passes closer, tidal forces compress and stretch the planet into an ellipsoid, with surface markers moving, internal layers shifting, and stress zones glowing more intensely.\n\n22. **Airbag Inflation and Passenger Compression Buffer**\n    A seated figure moves forward in a collision while a folded airbag rapidly inflates with high-pressure gas, expanding into a cushion that compresses on impact, slowing the figure; pressure inside the bag and contact forces are displayed.\n\n23. **Industrial Roller Press Flattening a Metal Sheet**\n    A flexible metal sheet moves between two counter-rotating rollers; as it passes through, its thickness compresses, length increases, and color shifts where strain is highest, with small arrows marking in-feed and out-feed velocities.\n\n24. **Galaxy Core Compression into a Black Hole**\n    Stars orbit a galactic center that slowly collapses; as the core compresses, nearby star orbits tighten and accelerate, a central sphere shrinks and darkens into a black hole, and gravitational “pressure” is visualized with curved grid lines.\n\n25. **Sound Wave Compression in an Air Column**\n    An open tube filled with small air particles shows a standing sound wave where regions of compression and rarefaction move or oscillate; particles bunch and spread periodically, with color-coded pressure nodes and antinodes labeled."
+}

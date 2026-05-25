@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Traffic flow",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:05:45",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Four‑Way Intersection with Smart Traffic Lights",
+      "description": "A 3D city intersection with colored car boxes flowing along lanes, traffic lights that switch based on queue length, cars that stop, accelerate, collide lightly if signals fail, and transparent overhead counters showing vehicle counts and average speed.",
+      "seed": "Four‑Way Intersection with Smart Traffic Lights: A 3D city intersection with colored car boxes flowing along lanes, traffic lights that switch based on queue length, cars that stop, accelerate, collide lightly if signals fail, and transparent overhead counters showing vehicle counts and average speed."
+    },
+    {
+      "number": "2",
+      "title": "Multi‑Lane Highway with Lane Changes and Merging",
+      "description": "A long elevated multi‑lane highway where color‑coded cars enter from ramps, change lanes to avoid slower vehicles, form and dissolve platoons, leave colored trails showing speed, and occasionally collide or brake suddenly, with overhead speed limit signs that glow and update.",
+      "seed": "Multi‑Lane Highway with Lane Changes and Merging: A long elevated multi‑lane highway where color‑coded cars enter from ramps, change lanes to avoid slower vehicles, form and dissolve platoons, leave colored trails showing speed, and occasionally collide or brake suddenly, with overhead speed limit signs that glow and update."
+    },
+    {
+      "number": "3",
+      "title": "Roundabout Traffic Dynamics",
+      "description": "A circular roundabout where cars approach from four directions, yield to circulating cars, merge into and detach from the roundabout ring, sometimes getting stuck in jams that spiral around, with labels over each car showing its wait time and a transparent disc showing density heat.",
+      "seed": "Roundabout Traffic Dynamics: A circular roundabout where cars approach from four directions, yield to circulating cars, merge into and detach from the roundabout ring, sometimes getting stuck in jams that spiral around, with labels over each car showing its wait time and a transparent disc showing density heat."
+    },
+    {
+      "number": "4",
+      "title": "Downtown Grid with Pedestrian Crosswalks",
+      "description": "A small 3D city grid of streets with buildings as stationary boxes, vehicles moving in orthogonal lanes, pedestrians as small capsules crossing at zebra crossings on walk signals, cars that stop, honk (visual pulses), or swerve, with transparent crosswalk zones that flash when occupied.",
+      "seed": "Downtown Grid with Pedestrian Crosswalks: A small 3D city grid of streets with buildings as stationary boxes, vehicles moving in orthogonal lanes, pedestrians as small capsules crossing at zebra crossings on walk signals, cars that stop, honk (visual pulses), or swerve, with transparent crosswalk zones that flash when occupied."
+    },
+    {
+      "number": "5",
+      "title": "Traffic as Fluid in a Pipe Network",
+      "description": "A network of transparent tubes representing roads, with glowing spheres representing cars flowing through, splitting and merging at junctions, speeding up in wide sections and slowing in narrow ones, with color changing from green to red as congestion builds and clears.",
+      "seed": "Traffic as Fluid in a Pipe Network: A network of transparent tubes representing roads, with glowing spheres representing cars flowing through, splitting and merging at junctions, speeding up in wide sections and slowing in narrow ones, with color changing from green to red as congestion builds and clears."
+    },
+    {
+      "number": "6",
+      "title": "Microscopic Blood Flow as Urban Traffic",
+      "description": "A branching transparent vein/artery system with red blood cell discs moving like cars, white cells acting like slow service vehicles, platelets that attach at “accident” sites (narrowings) and partially block flow, with pulsating walls representing heartbeat altering speed and congestion.",
+      "seed": "Microscopic Blood Flow as Urban Traffic: A branching transparent vein/artery system with red blood cell discs moving like cars, white cells acting like slow service vehicles, platelets that attach at “accident” sites (narrowings) and partially block flow, with pulsating walls representing heartbeat altering speed and congestion."
+    },
+    {
+      "number": "7",
+      "title": "Highway On‑Ramp Queue and Metering Lights",
+      "description": "A main highway with steady traffic and a side ramp where cars queue at a metering light, accelerate onto the main lane in timed bursts, sometimes causing shockwave slowdowns that propagate backward, with a 3D graph panel showing flow rate versus time that updates live.",
+      "seed": "Highway On‑Ramp Queue and Metering Lights: A main highway with steady traffic and a side ramp where cars queue at a metering light, accelerate onto the main lane in timed bursts, sometimes causing shockwave slowdowns that propagate backward, with a 3D graph panel showing flow rate versus time that updates live."
+    },
+    {
+      "number": "8",
+      "title": "Traffic Jam Shockwave Propagation on a Circular Road",
+      "description": "A circular track with many identical cars that accelerate, brake, and keep distance, where a single brake event triggers a backward‑moving stop‑and‑go wave, visualized with each car’s trail fading from green (fast) to red (stopped) and a transparent band marking the jam region.",
+      "seed": "Traffic Jam Shockwave Propagation on a Circular Road: A circular track with many identical cars that accelerate, brake, and keep distance, where a single brake event triggers a backward‑moving stop‑and‑go wave, visualized with each car’s trail fading from green (fast) to red (stopped) and a transparent band marking the jam region."
+    },
+    {
+      "number": "9",
+      "title": "Airport Runway and Taxiway Traffic",
+      "description": "A runway and taxiway system where planes as elongated boxes taxi, wait, take off, and land, obeying holding points and spacing, with collisions if spacing rules are broken, vapor trails on takeoff, and labeled paths that glow when a plane is cleared to move.",
+      "seed": "Airport Runway and Taxiway Traffic: A runway and taxiway system where planes as elongated boxes taxi, wait, take off, and land, obeying holding points and spacing, with collisions if spacing rules are broken, vapor trails on takeoff, and labeled paths that glow when a plane is cleared to move."
+    },
+    {
+      "number": "10",
+      "title": "Port Container Trucks and Crane Traffic",
+      "description": "A container port with stationary cranes and stacks, trucks moving along painted lanes to pick up and drop containers, cranes that attach to containers and swing them over trucks, trucks that queue and reroute around blocked lanes, and colored markers showing idle vs active zones.",
+      "seed": "Port Container Trucks and Crane Traffic: A container port with stationary cranes and stacks, trucks moving along painted lanes to pick up and drop containers, cranes that attach to containers and swing them over trucks, trucks that queue and reroute around blocked lanes, and colored markers showing idle vs active zones."
+    },
+    {
+      "number": "11",
+      "title": "Warehouse AGV Robot Traffic",
+      "description": "A warehouse grid with shelves as fixed blocks and small autonomous carts (AGVs) that follow colored floor paths, slow at intersections, wait, reroute around obstacles, occasionally collide if routing fails, and leave light trails showing their chosen paths and congestion hot spots.",
+      "seed": "Warehouse AGV Robot Traffic: A warehouse grid with shelves as fixed blocks and small autonomous carts (AGVs) that follow colored floor paths, slow at intersections, wait, reroute around obstacles, occasionally collide if routing fails, and leave light trails showing their chosen paths and congestion hot spots."
+    },
+    {
+      "number": "12",
+      "title": "Drone Delivery Traffic in 3D Airspace",
+      "description": "A city block with buildings and multiple quadcopter drones flying at different altitudes, taking off from pads, climbing, cruising, and descending to drop points, with 3D flight corridors that glow, drones that avoid collisions by adjusting altitude, and translucent no‑fly zones.",
+      "seed": "Drone Delivery Traffic in 3D Airspace: A city block with buildings and multiple quadcopter drones flying at different altitudes, taking off from pads, climbing, cruising, and descending to drop points, with 3D flight corridors that glow, drones that avoid collisions by adjusting altitude, and translucent no‑fly zones."
+    },
+    {
+      "number": "13",
+      "title": "Signal‑Free Shared Space Intersection",
+      "description": "A wide open plaza where cars, bicycles, and pedestrians all move without traffic lights, negotiating priority by slowing and detouring, with near‑misses visualized as brief red halos, collision events as bouncing separations, and trails showing how paths weave and untangle over time.",
+      "seed": "Signal‑Free Shared Space Intersection: A wide open plaza where cars, bicycles, and pedestrians all move without traffic lights, negotiating priority by slowing and detouring, with near‑misses visualized as brief red halos, collision events as bouncing separations, and trails showing how paths weave and untangle over time."
+    },
+    {
+      "number": "14",
+      "title": "Evacuation Traffic from a Stadium",
+      "description": "A stadium releasing crowds into a surrounding road network where cars queue to exit parking lots, merge onto arterial roads, and jam at bottlenecks, with dynamic signboards that redirect flow, roads that change lane direction, and a heatmap plane hovering overhead showing congestion intensity.",
+      "seed": "Evacuation Traffic from a Stadium: A stadium releasing crowds into a surrounding road network where cars queue to exit parking lots, merge onto arterial roads, and jam at bottlenecks, with dynamic signboards that redirect flow, roads that change lane direction, and a heatmap plane hovering overhead showing congestion intensity."
+    },
+    {
+      "number": "15",
+      "title": "Intersection with Tram, Buses, and Priority Lanes",
+      "description": "A boulevard intersection with tram tracks down the center, bus lanes at the sides, and regular car lanes, where trams and buses trigger transit priority signals, cross traffic stops, and cars sometimes block tracks, with colored lane markings and flashing labels when priority is granted.",
+      "seed": "Intersection with Tram, Buses, and Priority Lanes: A boulevard intersection with tram tracks down the center, bus lanes at the sides, and regular car lanes, where trams and buses trigger transit priority signals, cross traffic stops, and cars sometimes block tracks, with colored lane markings and flashing labels when priority is granted."
+    },
+    {
+      "number": "16",
+      "title": "Logistics Hub with Conveyor and Forklift Traffic",
+      "description": "A logistics center where boxes move on conveyor belts like continuous traffic, merging and splitting at junctions, while forklifts cross lanes to pick up and drop pallets, sometimes blocking conveyors, with sensors that glow when blocked and metrics panels showing throughput.",
+      "seed": "Logistics Hub with Conveyor and Forklift Traffic: A logistics center where boxes move on conveyor belts like continuous traffic, merging and splitting at junctions, while forklifts cross lanes to pick up and drop pallets, sometimes blocking conveyors, with sensors that glow when blocked and metrics panels showing throughput."
+    },
+    {
+      "number": "17",
+      "title": "Data Packets as Traffic in a 3D Network",
+      "description": "A 3D graph of nodes connected by tubes where glowing spheres (packets) flow along edges, queueing at congested routers, rerouting when links fail, colliding and bouncing when buffers overflow, with link colors showing load and labels tracking packet delay.",
+      "seed": "Data Packets as Traffic in a 3D Network: A 3D graph of nodes connected by tubes where glowing spheres (packets) flow along edges, queueing at congested routers, rerouting when links fail, colliding and bouncing when buffers overflow, with link colors showing load and labels tracking packet delay."
+    },
+    {
+      "number": "18",
+      "title": "Parking Lot Search and Circulation",
+      "description": "A multi‑row parking lot with limited spaces where cars enter, wander aisles searching, compete for the same open spot, park (attach to spots), and later detach to exit, with spot indicators that change from green to red and cloud‑like congestion patches where cars cluster.",
+      "seed": "Parking Lot Search and Circulation: A multi‑row parking lot with limited spaces where cars enter, wander aisles searching, compete for the same open spot, park (attach to spots), and later detach to exit, with spot indicators that change from green to red and cloud‑like congestion patches where cars cluster."
+    },
+    {
+      "number": "19",
+      "title": "Railway Junction and Train Traffic",
+      "description": "A rail yard with multiple tracks, switches, and a central junction where trains as long boxes move, stop, and queue, cars attach and detach from trains, switches rotate to reroute traffic, and signal lights change color, with track segments glowing when occupied.",
+      "seed": "Railway Junction and Train Traffic: A rail yard with multiple tracks, switches, and a central junction where trains as long boxes move, stop, and queue, cars attach and detach from trains, switches rotate to reroute traffic, and signal lights change color, with track segments glowing when occupied."
+    },
+    {
+      "number": "20",
+      "title": "Bridge Bottleneck with Lane Drop",
+      "description": "A highway leading to a narrower bridge where two lanes merge into one, with cars forming queues, zipper‑merging smoothly or aggressively cutting in and causing stop‑and‑go waves, while an overhead transparent panel graphs vehicle throughput and average delay.",
+      "seed": "Bridge Bottleneck with Lane Drop: A highway leading to a narrower bridge where two lanes merge into one, with cars forming queues, zipper‑merging smoothly or aggressively cutting in and causing stop‑and‑go waves, while an overhead transparent panel graphs vehicle throughput and average delay."
+    },
+    {
+      "number": "21",
+      "title": "Freeway with Carpool and Toll Lanes",
+      "description": "A multi‑lane freeway including a separated carpool lane and an electronic toll lane, where certain cars can attach to the carpool lane and move faster, toll booths that slow and gate vehicles, and overhead gantries that scan cars (visual beams) and display dynamic pricing.",
+      "seed": "Freeway with Carpool and Toll Lanes: A multi‑lane freeway including a separated carpool lane and an electronic toll lane, where certain cars can attach to the carpool lane and move faster, toll booths that slow and gate vehicles, and overhead gantries that scan cars (visual beams) and display dynamic pricing."
+    },
+    {
+      "number": "22",
+      "title": "Traffic Flow Through a Mountain Tunnel",
+      "description": "A winding mountain road with a tunnel as a semi‑transparent tube where cars enter, slow due to reduced visibility, and exit into brighter surroundings, with occasional accidents inside causing back‑propagating queues and a side panel showing CO₂ level rising and falling in the tunnel.",
+      "seed": "Traffic Flow Through a Mountain Tunnel: A winding mountain road with a tunnel as a semi‑transparent tube where cars enter, slow due to reduced visibility, and exit into brighter surroundings, with occasional accidents inside causing back‑propagating queues and a side panel showing CO₂ level rising and falling in the tunnel."
+    },
+    {
+      "number": "23",
+      "title": "Pedestrian Flow in a Subway Station",
+      "description": "A multi‑level station with platforms, stairs, and corridors where people as small capsules stream off trains, move along paths, queue at escalators, detour around obstructions, and create dense clusters, with semi‑transparent overlays showing flow arrows and crowd density.",
+      "seed": "Pedestrian Flow in a Subway Station: A multi‑level station with platforms, stairs, and corridors where people as small capsules stream off trains, move along paths, queue at escalators, detour around obstructions, and create dense clusters, with semi‑transparent overlays showing flow arrows and crowd density."
+    },
+    {
+      "number": "24",
+      "title": "Lane‑Level Traffic with Dynamic Barriers",
+      "description": "A reversible urban roadway where movable barriers (blocks) slide to reassign lanes, cars adapt to the new configuration, some trapped in wrong‑way queues until gaps open, and the barrier system glows while shifting, with labels showing current lane directions.",
+      "seed": "Lane‑Level Traffic with Dynamic Barriers: A reversible urban roadway where movable barriers (blocks) slide to reassign lanes, cars adapt to the new configuration, some trapped in wrong‑way queues until gaps open, and the barrier system glows while shifting, with labels showing current lane directions."
+    },
+    {
+      "number": "25",
+      "title": "Symbolic Traffic Flow on a Circuit Board",
+      "description": "A 3D circuit board with raised tracks where electrons are represented as small glowing particles flowing along paths, splitting at junctions, queuing at narrow traces, and bouncing at blocked segments, while transparent planes show voltage level as color gradients across the board.",
+      "seed": "Symbolic Traffic Flow on a Circuit Board: A 3D circuit board with raised tracks where electrons are represented as small glowing particles flowing along paths, splitting at junctions, queuing at narrow traces, and bouncing at blocked segments, while transparent planes show voltage level as color gradients across the board."
+    }
+  ],
+  "raw_output": "Here are strong **Traffic flow simulation inputs** you can plug into your prompt:\n\n1. **Four‑Way Intersection with Smart Traffic Lights**\n   A 3D city intersection with colored car boxes flowing along lanes, traffic lights that switch based on queue length, cars that stop, accelerate, collide lightly if signals fail, and transparent overhead counters showing vehicle counts and average speed.\n\n2. **Multi‑Lane Highway with Lane Changes and Merging**\n   A long elevated multi‑lane highway where color‑coded cars enter from ramps, change lanes to avoid slower vehicles, form and dissolve platoons, leave colored trails showing speed, and occasionally collide or brake suddenly, with overhead speed limit signs that glow and update.\n\n3. **Roundabout Traffic Dynamics**\n   A circular roundabout where cars approach from four directions, yield to circulating cars, merge into and detach from the roundabout ring, sometimes getting stuck in jams that spiral around, with labels over each car showing its wait time and a transparent disc showing density heat.\n\n4. **Downtown Grid with Pedestrian Crosswalks**\n   A small 3D city grid of streets with buildings as stationary boxes, vehicles moving in orthogonal lanes, pedestrians as small capsules crossing at zebra crossings on walk signals, cars that stop, honk (visual pulses), or swerve, with transparent crosswalk zones that flash when occupied.\n\n5. **Traffic as Fluid in a Pipe Network**\n   A network of transparent tubes representing roads, with glowing spheres representing cars flowing through, splitting and merging at junctions, speeding up in wide sections and slowing in narrow ones, with color changing from green to red as congestion builds and clears.\n\n6. **Microscopic Blood Flow as Urban Traffic**\n   A branching transparent vein/artery system with red blood cell discs moving like cars, white cells acting like slow service vehicles, platelets that attach at “accident” sites (narrowings) and partially block flow, with pulsating walls representing heartbeat altering speed and congestion.\n\n7. **Highway On‑Ramp Queue and Metering Lights**\n   A main highway with steady traffic and a side ramp where cars queue at a metering light, accelerate onto the main lane in timed bursts, sometimes causing shockwave slowdowns that propagate backward, with a 3D graph panel showing flow rate versus time that updates live.\n\n8. **Traffic Jam Shockwave Propagation on a Circular Road**\n   A circular track with many identical cars that accelerate, brake, and keep distance, where a single brake event triggers a backward‑moving stop‑and‑go wave, visualized with each car’s trail fading from green (fast) to red (stopped) and a transparent band marking the jam region.\n\n9. **Airport Runway and Taxiway Traffic**\n   A runway and taxiway system where planes as elongated boxes taxi, wait, take off, and land, obeying holding points and spacing, with collisions if spacing rules are broken, vapor trails on takeoff, and labeled paths that glow when a plane is cleared to move.\n\n10. **Port Container Trucks and Crane Traffic**\n    A container port with stationary cranes and stacks, trucks moving along painted lanes to pick up and drop containers, cranes that attach to containers and swing them over trucks, trucks that queue and reroute around blocked lanes, and colored markers showing idle vs active zones.\n\n11. **Warehouse AGV Robot Traffic**\n   A warehouse grid with shelves as fixed blocks and small autonomous carts (AGVs) that follow colored floor paths, slow at intersections, wait, reroute around obstacles, occasionally collide if routing fails, and leave light trails showing their chosen paths and congestion hot spots.\n\n12. **Drone Delivery Traffic in 3D Airspace**\n   A city block with buildings and multiple quadcopter drones flying at different altitudes, taking off from pads, climbing, cruising, and descending to drop points, with 3D flight corridors that glow, drones that avoid collisions by adjusting altitude, and translucent no‑fly zones.\n\n13. **Signal‑Free Shared Space Intersection**\n   A wide open plaza where cars, bicycles, and pedestrians all move without traffic lights, negotiating priority by slowing and detouring, with near‑misses visualized as brief red halos, collision events as bouncing separations, and trails showing how paths weave and untangle over time.\n\n14. **Evacuation Traffic from a Stadium**\n   A stadium releasing crowds into a surrounding road network where cars queue to exit parking lots, merge onto arterial roads, and jam at bottlenecks, with dynamic signboards that redirect flow, roads that change lane direction, and a heatmap plane hovering overhead showing congestion intensity.\n\n15. **Intersection with Tram, Buses, and Priority Lanes**\n   A boulevard intersection with tram tracks down the center, bus lanes at the sides, and regular car lanes, where trams and buses trigger transit priority signals, cross traffic stops, and cars sometimes block tracks, with colored lane markings and flashing labels when priority is granted.\n\n16. **Logistics Hub with Conveyor and Forklift Traffic**\n   A logistics center where boxes move on conveyor belts like continuous traffic, merging and splitting at junctions, while forklifts cross lanes to pick up and drop pallets, sometimes blocking conveyors, with sensors that glow when blocked and metrics panels showing throughput.\n\n17. **Data Packets as Traffic in a 3D Network**\n   A 3D graph of nodes connected by tubes where glowing spheres (packets) flow along edges, queueing at congested routers, rerouting when links fail, colliding and bouncing when buffers overflow, with link colors showing load and labels tracking packet delay.\n\n18. **Parking Lot Search and Circulation**\n   A multi‑row parking lot with limited spaces where cars enter, wander aisles searching, compete for the same open spot, park (attach to spots), and later detach to exit, with spot indicators that change from green to red and cloud‑like congestion patches where cars cluster.\n\n19. **Railway Junction and Train Traffic**\n   A rail yard with multiple tracks, switches, and a central junction where trains as long boxes move, stop, and queue, cars attach and detach from trains, switches rotate to reroute traffic, and signal lights change color, with track segments glowing when occupied.\n\n20. **Bridge Bottleneck with Lane Drop**\n   A highway leading to a narrower bridge where two lanes merge into one, with cars forming queues, zipper‑merging smoothly or aggressively cutting in and causing stop‑and‑go waves, while an overhead transparent panel graphs vehicle throughput and average delay.\n\n21. **Freeway with Carpool and Toll Lanes**\n   A multi‑lane freeway including a separated carpool lane and an electronic toll lane, where certain cars can attach to the carpool lane and move faster, toll booths that slow and gate vehicles, and overhead gantries that scan cars (visual beams) and display dynamic pricing.\n\n22. **Traffic Flow Through a Mountain Tunnel**\n   A winding mountain road with a tunnel as a semi‑transparent tube where cars enter, slow due to reduced visibility, and exit into brighter surroundings, with occasional accidents inside causing back‑propagating queues and a side panel showing CO₂ level rising and falling in the tunnel.\n\n23. **Pedestrian Flow in a Subway Station**\n   A multi‑level station with platforms, stairs, and corridors where people as small capsules stream off trains, move along paths, queue at escalators, detour around obstructions, and create dense clusters, with semi‑transparent overlays showing flow arrows and crowd density.\n\n24. **Lane‑Level Traffic with Dynamic Barriers**\n   A reversible urban roadway where movable barriers (blocks) slide to reassign lanes, cars adapt to the new configuration, some trapped in wrong‑way queues until gaps open, and the barrier system glows while shifting, with labels showing current lane directions.\n\n25. **Symbolic Traffic Flow on a Circuit Board**\n   A 3D circuit board with raised tracks where electrons are represented as small glowing particles flowing along paths, splitting at junctions, queuing at narrow traces, and bouncing at blocked segments, while transparent planes show voltage level as color gradients across the board."
+}

@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Snow accumulation",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:54:18",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Hillside Snowfall and Layered Accumulation",
+      "description": "A sloped terrain mesh receives falling snow particles that stick, slide, or bounce depending on impact speed, gradually building a white layer with thickness visualized by color bands and numeric labels at sample points.",
+      "seed": "Hillside Snowfall and Layered Accumulation: A sloped terrain mesh receives falling snow particles that stick, slide, or bounce depending on impact speed, gradually building a white layer with thickness visualized by color bands and numeric labels at sample points."
+    },
+    {
+      "number": "2",
+      "title": "Roof Load and Snow Shedding",
+      "description": "A simple house with pitched roofs accumulates snow spheres that compress into a packed layer, while portions periodically slide off the roof edges as slabs, colliding with the ground and updating a live “roof load” meter.",
+      "seed": "Roof Load and Snow Shedding: A simple house with pitched roofs accumulates snow spheres that compress into a packed layer, while portions periodically slide off the roof edges as slabs, colliding with the ground and updating a live “roof load” meter."
+    },
+    {
+      "number": "3",
+      "title": "Car Driving Through Fresh Snow",
+      "description": "A box-shaped car drives along a flat plane where snowflakes accumulate, compress under the tires, and leave sunken tracks, with snow particles kicked sideways as small sprays that settle into ridges.",
+      "seed": "Car Driving Through Fresh Snow: A box-shaped car drives along a flat plane where snowflakes accumulate, compress under the tires, and leave sunken tracks, with snow particles kicked sideways as small sprays that settle into ridges."
+    },
+    {
+      "number": "4",
+      "title": "Wind-Driven Snow Dunes and Drifts",
+      "description": "A flat field with fence posts experiences lateral wind that pushes falling snow particles across the surface, causing snow to pile up on the leeward side of obstacles, forming drifts that grow, shift, and reshape over time.",
+      "seed": "Wind-Driven Snow Dunes and Drifts: A flat field with fence posts experiences lateral wind that pushes falling snow particles across the surface, causing snow to pile up on the leeward side of obstacles, forming drifts that grow, shift, and reshape over time."
+    },
+    {
+      "number": "5",
+      "title": "Avalanche Formation on a Mountain Slope",
+      "description": "Snow layers accumulate on a steep mountain, each layer shown in a different semi-transparent color; when a threshold is reached, the upper layers detach and slide down as a flowing particle cloud, scouring and re-depositing snow.",
+      "seed": "Avalanche Formation on a Mountain Slope: Snow layers accumulate on a steep mountain, each layer shown in a different semi-transparent color; when a threshold is reached, the upper layers detach and slide down as a flowing particle cloud, scouring and re-depositing snow."
+    },
+    {
+      "number": "6",
+      "title": "Icicle Growth from Melting and Refreezing Snow",
+      "description": "A roof edge has a snow layer that slowly melts into droplets, which fall, collide with an icicle tip, and refreeze, causing translucent icicles to grow downward while a temperature slider controls melt/refreeze rates.",
+      "seed": "Icicle Growth from Melting and Refreezing Snow: A roof edge has a snow layer that slowly melts into droplets, which fall, collide with an icicle tip, and refreeze, causing translucent icicles to grow downward while a temperature slider controls melt/refreeze rates."
+    },
+    {
+      "number": "7",
+      "title": "Snow Accumulation on Tree Branches",
+      "description": "A branching tree structure collects falling snow that sticks to upper surfaces, piling into rounded caps; shaking the tree trunk triggers vibrations that detach some snow, which falls, breaks apart, and redistributes on the ground.",
+      "seed": "Snow Accumulation on Tree Branches: A branching tree structure collects falling snow that sticks to upper surfaces, piling into rounded caps; shaking the tree trunk triggers vibrations that detach some snow, which falls, breaks apart, and redistributes on the ground."
+    },
+    {
+      "number": "8",
+      "title": "Urban Street Snow Plowing",
+      "description": "Buildings line a street where snow constantly falls and accumulates on road and sidewalks; a moving plow box pushes and piles snow into compacted banks along the curb, with snow particles bouncing off walls and streetlights.",
+      "seed": "Urban Street Snow Plowing: Buildings line a street where snow constantly falls and accumulates on road and sidewalks; a moving plow box pushes and piles snow into compacted banks along the curb, with snow particles bouncing off walls and streetlights."
+    },
+    {
+      "number": "9",
+      "title": "Microscopic Snowflake Deposition on a Surface",
+      "description": "A zoomed-in flat panel receives individual hexagonal snowflake shapes that land, stick, and rotate slightly, slowly creating a porous, uneven layer whose porosity is color-coded and updated as more flakes fill gaps.",
+      "seed": "Microscopic Snowflake Deposition on a Surface: A zoomed-in flat panel receives individual hexagonal snowflake shapes that land, stick, and rotate slightly, slowly creating a porous, uneven layer whose porosity is color-coded and updated as more flakes fill gaps."
+    },
+    {
+      "number": "10",
+      "title": "Snow on Power Lines and Sagging Cables",
+      "description": "Tensioned cables between utility poles collect sticky snow particles that attach and move along the cable surface, increasing weight so cables sag more, with forces shown as colored segments and numeric labels.",
+      "seed": "Snow on Power Lines and Sagging Cables: Tensioned cables between utility poles collect sticky snow particles that attach and move along the cable surface, increasing weight so cables sag more, with forces shown as colored segments and numeric labels."
+    },
+    {
+      "number": "11",
+      "title": "Snow Cornice Growth on a Ridge",
+      "description": "A sharp ridgeline experiences wind that blows snow particles up and over, where they attach to the leeward edge, slowly building an overhanging cornice that thickens, cracks, and occasionally breaks off in chunks.",
+      "seed": "Snow Cornice Growth on a Ridge: A sharp ridgeline experiences wind that blows snow particles up and over, where they attach to the leeward edge, slowly building an overhanging cornice that thickens, cracks, and occasionally breaks off in chunks."
+    },
+    {
+      "number": "12",
+      "title": "Parking Lot Car Burial",
+      "description": "Multiple parked car boxes in a lot gradually disappear under a steady snowfall as snow accumulates on roofs, hoods, and the ground, with depth meters above each car showing how much snow covers them.",
+      "seed": "Parking Lot Car Burial: Multiple parked car boxes in a lot gradually disappear under a steady snowfall as snow accumulates on roofs, hoods, and the ground, with depth meters above each car showing how much snow covers them."
+    },
+    {
+      "number": "13",
+      "title": "Snow Accumulation and Roof Collapse Threshold",
+      "description": "A warehouse roof supports layered snow that thickens over time; as accumulation grows, support beams change color from green to red indicating stress, and once a threshold is exceeded a section of roof collapses and snow spills inside.",
+      "seed": "Snow Accumulation and Roof Collapse Threshold: A warehouse roof supports layered snow that thickens over time; as accumulation grows, support beams change color from green to red indicating stress, and once a threshold is exceeded a section of roof collapses and snow spills inside."
+    },
+    {
+      "number": "14",
+      "title": "Snow Accumulation on a Moving Train",
+      "description": "A train of boxy cars moves through a snowfield while snow falls; snow sticks to the front faces and roofs, creating thicker buildup on leading cars, with the train periodically entering a tunnel where some snow is scraped off.",
+      "seed": "Snow Accumulation on a Moving Train: A train of boxy cars moves through a snowfield while snow falls; snow sticks to the front faces and roofs, creating thicker buildup on leading cars, with the train periodically entering a tunnel where some snow is scraped off."
+    },
+    {
+      "number": "15",
+      "title": "River and Bridge Snow Cover with Melting Edges",
+      "description": "A river with a bridge deck accumulates snow that thickens uniformly, but near the moving water and along bridge supports the snow slowly melts and recedes, creating dynamic boundaries where snow retracts and re-forms.",
+      "seed": "River and Bridge Snow Cover with Melting Edges: A river with a bridge deck accumulates snow that thickens uniformly, but near the moving water and along bridge supports the snow slowly melts and recedes, creating dynamic boundaries where snow retracts and re-forms."
+    },
+    {
+      "number": "16",
+      "title": "Ski Slope Grooming and Snow Redistribution",
+      "description": "A ski slope accumulates fluffy snow that settles and compacts under gravity; a grooming machine passes up and down, scraping, pushing, and smoothing snow into even layers, leaving textured tracks behind.",
+      "seed": "Ski Slope Grooming and Snow Redistribution: A ski slope accumulates fluffy snow that settles and compacts under gravity; a grooming machine passes up and down, scraping, pushing, and smoothing snow into even layers, leaving textured tracks behind."
+    },
+    {
+      "number": "17",
+      "title": "Time-Lapse City Block Snow Cycle",
+      "description": "A city block with sidewalks, roofs, and parked cars experiences accelerated day-night cycles where snow falls, accumulates, partially melts, refreezes into icy patches, and is shoveled into piles that shrink over time.",
+      "seed": "Time-Lapse City Block Snow Cycle: A city block with sidewalks, roofs, and parked cars experiences accelerated day-night cycles where snow falls, accumulates, partially melts, refreezes into icy patches, and is shoveled into piles that shrink over time."
+    },
+    {
+      "number": "18",
+      "title": "Snow Accumulation on Satellite Solar Panels",
+      "description": "A tilting satellite panel array in a low-gravity environment gathers simulated “snow” particles (tiny white spheres) that drift and attach; periodically, panel tilts and vibrations detach clumps that float away, altering effective covered area.",
+      "seed": "Snow Accumulation on Satellite Solar Panels: A tilting satellite panel array in a low-gravity environment gathers simulated “snow” particles (tiny white spheres) that drift and attach; periodically, panel tilts and vibrations detach clumps that float away, altering effective covered area."
+    },
+    {
+      "number": "19",
+      "title": "Roadside Snow Fence Effect",
+      "description": "A long snow fence stands beside a road, with wind-blown snow particles striking, passing through, or being slowed by the fence; snow accumulates in a drift pattern downwind, with height profiles plotted as a dynamic line graph.",
+      "seed": "Roadside Snow Fence Effect: A long snow fence stands beside a road, with wind-blown snow particles striking, passing through, or being slowed by the fence; snow accumulates in a drift pattern downwind, with height profiles plotted as a dynamic line graph."
+    },
+    {
+      "number": "20",
+      "title": "Snowman Construction by Rolling Snowballs",
+      "description": "Three snowballs roll across a white ground, picking up and attaching loose snow particles along their surfaces and growing in size; once moved into position, they stack and slightly compress, with falling snow adding a thin outer coating.",
+      "seed": "Snowman Construction by Rolling Snowballs: Three snowballs roll across a white ground, picking up and attaching loose snow particles along their surfaces and growing in size; once moved into position, they stack and slightly compress, with falling snow adding a thin outer coating."
+    },
+    {
+      "number": "21",
+      "title": "Stadium Seating Snow Coverage",
+      "description": "Tiered stadium seats accumulate snow that lands, slides down steps, and forms thicker layers in lower rows, while human-shaped placeholders block snow, leaving clear “shadow” zones that fill in once the figures are removed.",
+      "seed": "Stadium Seating Snow Coverage: Tiered stadium seats accumulate snow that lands, slides down steps, and forms thicker layers in lower rows, while human-shaped placeholders block snow, leaving clear “shadow” zones that fill in once the figures are removed."
+    },
+    {
+      "number": "22",
+      "title": "Snow Accumulation and Insulation Over Soil",
+      "description": "A soil block is cut away in cross-section, with snow building up on top; temperature gradients through the soil and snow layers are visualized with colors, and adjusting snow depth shows changing heat loss and ground freezing depth.",
+      "seed": "Snow Accumulation and Insulation Over Soil: A soil block is cut away in cross-section, with snow building up on top; temperature gradients through the soil and snow layers are visualized with colors, and adjusting snow depth shows changing heat loss and ground freezing depth."
+    },
+    {
+      "number": "23",
+      "title": "Roof Eaves and Gutter Snow Clogging",
+      "description": "A roof edge and gutter system collect snow that melts slightly and refreezes; snow and ice chunks detach, slide along the gutter, and sometimes clog the downspout, causing water (blue particles) to back up and overflow.",
+      "seed": "Roof Eaves and Gutter Snow Clogging: A roof edge and gutter system collect snow that melts slightly and refreezes; snow and ice chunks detach, slide along the gutter, and sometimes clog the downspout, causing water (blue particles) to back up and overflow."
+    },
+    {
+      "number": "24",
+      "title": "Snow Accumulation on a Rotating Wind Turbine",
+      "description": "A wind turbine’s blades rotate while snow particles fall and stick more on the leading edges, altering blade color and slightly increasing rotational resistance; occasional vibrations shed some snow in sprays that fall to the base.",
+      "seed": "Snow Accumulation on a Rotating Wind Turbine: A wind turbine’s blades rotate while snow particles fall and stick more on the leading edges, altering blade color and slightly increasing rotational resistance; occasional vibrations shed some snow in sprays that fall to the base."
+    },
+    {
+      "number": "25",
+      "title": "Snow Layers on a Glacier Cross-Section",
+      "description": "A glacier cross-section shows annual snow layers accumulating on top in distinct semi-transparent colors; over time the layers compact and slowly flow downslope, with tracer particles marking how surface snow gradually moves deeper.",
+      "seed": "Snow Layers on a Glacier Cross-Section: A glacier cross-section shows annual snow layers accumulating on top in distinct semi-transparent colors; over time the layers compact and slowly flow downslope, with tracer particles marking how surface snow gradually moves deeper."
+    }
+  ],
+  "raw_output": "Here are strong **Snow accumulation simulation inputs** you can plug into your prompt:\n\n1. **Hillside Snowfall and Layered Accumulation**\n   A sloped terrain mesh receives falling snow particles that stick, slide, or bounce depending on impact speed, gradually building a white layer with thickness visualized by color bands and numeric labels at sample points.\n\n2. **Roof Load and Snow Shedding**\n   A simple house with pitched roofs accumulates snow spheres that compress into a packed layer, while portions periodically slide off the roof edges as slabs, colliding with the ground and updating a live “roof load” meter.\n\n3. **Car Driving Through Fresh Snow**\n   A box-shaped car drives along a flat plane where snowflakes accumulate, compress under the tires, and leave sunken tracks, with snow particles kicked sideways as small sprays that settle into ridges.\n\n4. **Wind-Driven Snow Dunes and Drifts**\n   A flat field with fence posts experiences lateral wind that pushes falling snow particles across the surface, causing snow to pile up on the leeward side of obstacles, forming drifts that grow, shift, and reshape over time.\n\n5. **Avalanche Formation on a Mountain Slope**\n   Snow layers accumulate on a steep mountain, each layer shown in a different semi-transparent color; when a threshold is reached, the upper layers detach and slide down as a flowing particle cloud, scouring and re-depositing snow.\n\n6. **Icicle Growth from Melting and Refreezing Snow**\n   A roof edge has a snow layer that slowly melts into droplets, which fall, collide with an icicle tip, and refreeze, causing translucent icicles to grow downward while a temperature slider controls melt/refreeze rates.\n\n7. **Snow Accumulation on Tree Branches**\n   A branching tree structure collects falling snow that sticks to upper surfaces, piling into rounded caps; shaking the tree trunk triggers vibrations that detach some snow, which falls, breaks apart, and redistributes on the ground.\n\n8. **Urban Street Snow Plowing**\n   Buildings line a street where snow constantly falls and accumulates on road and sidewalks; a moving plow box pushes and piles snow into compacted banks along the curb, with snow particles bouncing off walls and streetlights.\n\n9. **Microscopic Snowflake Deposition on a Surface**\n   A zoomed-in flat panel receives individual hexagonal snowflake shapes that land, stick, and rotate slightly, slowly creating a porous, uneven layer whose porosity is color-coded and updated as more flakes fill gaps.\n\n10. **Snow on Power Lines and Sagging Cables**\n    Tensioned cables between utility poles collect sticky snow particles that attach and move along the cable surface, increasing weight so cables sag more, with forces shown as colored segments and numeric labels.\n\n11. **Snow Cornice Growth on a Ridge**\n    A sharp ridgeline experiences wind that blows snow particles up and over, where they attach to the leeward edge, slowly building an overhanging cornice that thickens, cracks, and occasionally breaks off in chunks.\n\n12. **Parking Lot Car Burial**\n    Multiple parked car boxes in a lot gradually disappear under a steady snowfall as snow accumulates on roofs, hoods, and the ground, with depth meters above each car showing how much snow covers them.\n\n13. **Snow Accumulation and Roof Collapse Threshold**\n    A warehouse roof supports layered snow that thickens over time; as accumulation grows, support beams change color from green to red indicating stress, and once a threshold is exceeded a section of roof collapses and snow spills inside.\n\n14. **Snow Accumulation on a Moving Train**\n    A train of boxy cars moves through a snowfield while snow falls; snow sticks to the front faces and roofs, creating thicker buildup on leading cars, with the train periodically entering a tunnel where some snow is scraped off.\n\n15. **River and Bridge Snow Cover with Melting Edges**\n    A river with a bridge deck accumulates snow that thickens uniformly, but near the moving water and along bridge supports the snow slowly melts and recedes, creating dynamic boundaries where snow retracts and re-forms.\n\n16. **Ski Slope Grooming and Snow Redistribution**\n    A ski slope accumulates fluffy snow that settles and compacts under gravity; a grooming machine passes up and down, scraping, pushing, and smoothing snow into even layers, leaving textured tracks behind.\n\n17. **Time-Lapse City Block Snow Cycle**\n    A city block with sidewalks, roofs, and parked cars experiences accelerated day-night cycles where snow falls, accumulates, partially melts, refreezes into icy patches, and is shoveled into piles that shrink over time.\n\n18. **Snow Accumulation on Satellite Solar Panels**\n    A tilting satellite panel array in a low-gravity environment gathers simulated “snow” particles (tiny white spheres) that drift and attach; periodically, panel tilts and vibrations detach clumps that float away, altering effective covered area.\n\n19. **Roadside Snow Fence Effect**\n    A long snow fence stands beside a road, with wind-blown snow particles striking, passing through, or being slowed by the fence; snow accumulates in a drift pattern downwind, with height profiles plotted as a dynamic line graph.\n\n20. **Snowman Construction by Rolling Snowballs**\n    Three snowballs roll across a white ground, picking up and attaching loose snow particles along their surfaces and growing in size; once moved into position, they stack and slightly compress, with falling snow adding a thin outer coating.\n\n21. **Stadium Seating Snow Coverage**\n    Tiered stadium seats accumulate snow that lands, slides down steps, and forms thicker layers in lower rows, while human-shaped placeholders block snow, leaving clear “shadow” zones that fill in once the figures are removed.\n\n22. **Snow Accumulation and Insulation Over Soil**\n    A soil block is cut away in cross-section, with snow building up on top; temperature gradients through the soil and snow layers are visualized with colors, and adjusting snow depth shows changing heat loss and ground freezing depth.\n\n23. **Roof Eaves and Gutter Snow Clogging**\n    A roof edge and gutter system collect snow that melts slightly and refreezes; snow and ice chunks detach, slide along the gutter, and sometimes clog the downspout, causing water (blue particles) to back up and overflow.\n\n24. **Snow Accumulation on a Rotating Wind Turbine**\n    A wind turbine’s blades rotate while snow particles fall and stick more on the leading edges, altering blade color and slightly increasing rotational resistance; occasional vibrations shed some snow in sprays that fall to the base.\n\n25. **Snow Layers on a Glacier Cross-Section**\n    A glacier cross-section shows annual snow layers accumulating on top in distinct semi-transparent colors; over time the layers compact and slowly flow downslope, with tracer particles marking how surface snow gradually moves deeper."
+}

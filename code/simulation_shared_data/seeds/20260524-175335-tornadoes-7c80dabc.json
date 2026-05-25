@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Tornadoes",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:53:35",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Spinning Funnel Cloud over a Town Grid",
+      "description": "A transparent rotating funnel-shaped tornado descends from a swirling cloud base above a flat town grid of box houses, pulling in small debris particles that spiral upward with trails while buildings can detach roofs, slide, and collide as the funnel path curves across the scene.",
+      "seed": "Spinning Funnel Cloud over a Town Grid: A transparent rotating funnel-shaped tornado descends from a swirling cloud base above a flat town grid of box houses, pulling in small debris particles that spiral upward with trails while buildings can detach roofs, slide, and collide as the funnel path curves across the scene."
+    },
+    {
+      "number": "2",
+      "title": "Multiple Tornado Outbreak over Farmland",
+      "description": "Several semi-transparent cone and wedge tornadoes spawn from a moving storm line above a checkered field of crops and silos, with each tornado leaving a darker ground “scar” strip, uprooting scattered cylinders (trees) and transferring them into rotating debris rings that orbit the core before falling out.",
+      "seed": "Multiple Tornado Outbreak over Farmland: Several semi-transparent cone and wedge tornadoes spawn from a moving storm line above a checkered field of crops and silos, with each tornado leaving a darker ground “scar” strip, uprooting scattered cylinders (trees) and transferring them into rotating debris rings that orbit the core before falling out."
+    },
+    {
+      "number": "3",
+      "title": "Tornado Formation from Rotating Thunderstorm Updraft",
+      "description": "A rotating cylindrical updraft cloud spins above a flat plane, where inflowing air particles (small spheres with trails) spiral inward, condense into a tightening vertical column, and gradually stretch downward to form a funnel that touches the ground and intensifies as more particles attach.",
+      "seed": "Tornado Formation from Rotating Thunderstorm Updraft: A rotating cylindrical updraft cloud spins above a flat plane, where inflowing air particles (small spheres with trails) spiral inward, condense into a tightening vertical column, and gradually stretch downward to form a funnel that touches the ground and intensifies as more particles attach."
+    },
+    {
+      "number": "4",
+      "title": "Dust Devil Swarm over a Desert Plain",
+      "description": "Dozens of small, semi-transparent dust devils randomly spawn and dissipate over a light-colored sand plane, with dust particles that bounce, wrap around the mini-vortices, and leave faint spiral trails while a moving sun light source shifts their shading and shadow direction.",
+      "seed": "Dust Devil Swarm over a Desert Plain: Dozens of small, semi-transparent dust devils randomly spawn and dissipate over a light-colored sand plane, with dust particles that bounce, wrap around the mini-vortices, and leave faint spiral trails while a moving sun light source shifts their shading and shadow direction."
+    },
+    {
+      "number": "5",
+      "title": "Tornado Crossing a River and Splitting Spray",
+      "description": "A single fast-moving tornado cone translates across a landscape and passes over a blue river strip, sucking water upward as translucent spray particles that spiral and mix with darker debris, briefly widening the funnel and changing its color gradient before it continues onto land.",
+      "seed": "Tornado Crossing a River and Splitting Spray: A single fast-moving tornado cone translates across a landscape and passes over a blue river strip, sucking water upward as translucent spray particles that spiral and mix with darker debris, briefly widening the funnel and changing its color gradient before it continues onto land."
+    },
+    {
+      "number": "6",
+      "title": "Twin Tornado Interaction and Merger",
+      "description": "Two adjacent rotating funnels move toward each other over a plain, their debris rings and inflow particle streams intersect and collide, and the weaker tornado gradually transfers its particles and rotation into the stronger one, visualized as color-coded swirling streams that merge into a single larger vortex.",
+      "seed": "Twin Tornado Interaction and Merger: Two adjacent rotating funnels move toward each other over a plain, their debris rings and inflow particle streams intersect and collide, and the weaker tornado gradually transfers its particles and rotation into the stronger one, visualized as color-coded swirling streams that merge into a single larger vortex."
+    },
+    {
+      "number": "7",
+      "title": "Tornado Impact on Wind Turbines",
+      "description": "A wind farm of tall rotating turbines stands on a plane while a tornado approaches; turbine blades spin, bend, or detach as the vortex passes, with individual blade fragments becoming debris that orbit the funnel, collide with other turbines, and leave tumbling motion trails.",
+      "seed": "Tornado Impact on Wind Turbines: A wind farm of tall rotating turbines stands on a plane while a tornado approaches; turbine blades spin, bend, or detach as the vortex passes, with individual blade fragments becoming debris that orbit the funnel, collide with other turbines, and leave tumbling motion trails."
+    },
+    {
+      "number": "8",
+      "title": "Microscopic Tornado Vortex in a Fluid Tank",
+      "description": "Inside a transparent cylindrical tank filled with colored fluid particles, a rotating stirrer rod at the top creates a miniature “water tornado” vortex, pulling particles downward into a tight spiral column where densities mix, colors blend, and small tracer particles glow as they cycle through the vortex core.",
+      "seed": "Microscopic Tornado Vortex in a Fluid Tank: Inside a transparent cylindrical tank filled with colored fluid particles, a rotating stirrer rod at the top creates a miniature “water tornado” vortex, pulling particles downward into a tight spiral column where densities mix, colors blend, and small tracer particles glow as they cycle through the vortex core."
+    },
+    {
+      "number": "9",
+      "title": "Tornado Alley Map with Moving Storm Cells",
+      "description": "A large flat map with labeled towns and highways shows box-shaped storm cells moving and rotating overhead, occasionally spawning semi-transparent tornado funnels that track along labeled paths, leaving thin ground tracks, while a side meter shows tornado intensity changing color as wind speed particles accelerate.",
+      "seed": "Tornado Alley Map with Moving Storm Cells: A large flat map with labeled towns and highways shows box-shaped storm cells moving and rotating overhead, occasionally spawning semi-transparent tornado funnels that track along labeled paths, leaving thin ground tracks, while a side meter shows tornado intensity changing color as wind speed particles accelerate."
+    },
+    {
+      "number": "10",
+      "title": "Tornado Interacting with a Moving Train",
+      "description": "A long train of connected box cars moves along a straight track as a tornado crosses the line; individual cars can detach when hit, lift slightly, and rotate into the vortex, with couplers snapping, wheels bouncing and scattering, and a cloud of small metallic debris orbiting the funnel.",
+      "seed": "Tornado Interacting with a Moving Train: A long train of connected box cars moves along a straight track as a tornado crosses the line; individual cars can detach when hit, lift slightly, and rotate into the vortex, with couplers snapping, wheels bouncing and scattering, and a cloud of small metallic debris orbiting the funnel."
+    },
+    {
+      "number": "11",
+      "title": "Tornado Lofting and Dropping Spherical Hail",
+      "description": "A rotating storm cloud above a field produces both a descending tornado funnel and tumbling hail spheres; hail particles are sucked into the vortex, spiral upward, then detach and fall out downwind, bouncing off the ground and buildings, leaving short-lasting impact “splash” markers.",
+      "seed": "Tornado Lofting and Dropping Spherical Hail: A rotating storm cloud above a field produces both a descending tornado funnel and tumbling hail spheres; hail particles are sucked into the vortex, spiral upward, then detach and fall out downwind, bouncing off the ground and buildings, leaving short-lasting impact “splash” markers."
+    },
+    {
+      "number": "12",
+      "title": "City Skyscraper Canyon Tornado",
+      "description": "A tornado weaves through tall rectangular skyscrapers, with wind vectors represented by arrows wrapping around building edges, loose panels detaching and spiraling into the core, glass particles scattering and reflecting light, and the funnel shape stretching and bending as it squeezes between structures.",
+      "seed": "City Skyscraper Canyon Tornado: A tornado weaves through tall rectangular skyscrapers, with wind vectors represented by arrows wrapping around building edges, loose panels detaching and spiraling into the core, glass particles scattering and reflecting light, and the funnel shape stretching and bending as it squeezes between structures."
+    },
+    {
+      "number": "13",
+      "title": "Tornado-Driven Power Grid Failure",
+      "description": "A grid of poles and power lines stands on a light background terrain while a tornado approaches; poles can snap, wires detach and whip around, briefly arcing with glowing sparks where they collide or touch the ground, and a color-coded network diagram in one corner dims as nodes lose power.",
+      "seed": "Tornado-Driven Power Grid Failure: A grid of poles and power lines stands on a light background terrain while a tornado approaches; poles can snap, wires detach and whip around, briefly arcing with glowing sparks where they collide or touch the ground, and a color-coded network diagram in one corner dims as nodes lose power."
+    },
+    {
+      "number": "14",
+      "title": "Tornado over a Forest with Tree Uprooting",
+      "description": "A dense forest of cylinder-and-cone trees covers a plane as a tornado path cuts through, uprooting selected trees that then spin, collide, and break into segments that orbit and mix with leaf particle clouds, leaving a clear swath where only stumps and scattered debris remain.",
+      "seed": "Tornado over a Forest with Tree Uprooting: A dense forest of cylinder-and-cone trees covers a plane as a tornado path cuts through, uprooting selected trees that then spin, collide, and break into segments that orbit and mix with leaf particle clouds, leaving a clear swath where only stumps and scattered debris remain."
+    },
+    {
+      "number": "15",
+      "title": "Waterspout over the Ocean Surface",
+      "description": "A tall, slender vortex connects a rotating cloud base to a rippling blue water surface, drawing water droplets upward into a twisting transparent column; ocean spray particles bounce and mix at the base while a moving boat is tugged sideways by the inflow, leaving a curved wake trail.",
+      "seed": "Waterspout over the Ocean Surface: A tall, slender vortex connects a rotating cloud base to a rippling blue water surface, drawing water droplets upward into a twisting transparent column; ocean spray particles bounce and mix at the base while a moving boat is tugged sideways by the inflow, leaving a curved wake trail."
+    },
+    {
+      "number": "16",
+      "title": "Laboratory Tornado in a Plexiglass Chamber",
+      "description": "Inside a clear box with visible fans at the base and vents at the top, colored smoke particles are emitted and drawn into a controlled vortex, spiraling up to form a stable tornado column whose width and height can be adjusted, with labels showing airflow paths and streamlines glowing faintly.",
+      "seed": "Laboratory Tornado in a Plexiglass Chamber: Inside a clear box with visible fans at the base and vents at the top, colored smoke particles are emitted and drawn into a controlled vortex, spiraling up to form a stable tornado column whose width and height can be adjusted, with labels showing airflow paths and streamlines glowing faintly."
+    },
+    {
+      "number": "17",
+      "title": "Tornado-Inspired Data Vortex Visualization",
+      "description": "A vertical tornado-shaped data funnel stands in the center, with small colored data particles from multiple source boxes spiraling inward at the base, merging as they rise, then branching into labeled output streams that split off higher up, while particle color and speed indicate data type and throughput.",
+      "seed": "Tornado-Inspired Data Vortex Visualization: A vertical tornado-shaped data funnel stands in the center, with small colored data particles from multiple source boxes spiraling inward at the base, merging as they rise, then branching into labeled output streams that split off higher up, while particle color and speed indicate data type and throughput."
+    },
+    {
+      "number": "18",
+      "title": "Dust Tornado on Mars Surface",
+      "description": "A reddish dusty vortex travels across a cratered Martian terrain, lofting fine dust particles that create a semi-transparent swirling column; dust gradually settles behind as a fading trail, while thin atmosphere wind vectors skim the surface and occasionally spawn smaller side vortices that detach.",
+      "seed": "Dust Tornado on Mars Surface: A reddish dusty vortex travels across a cratered Martian terrain, lofting fine dust particles that create a semi-transparent swirling column; dust gradually settles behind as a fading trail, while thin atmosphere wind vectors skim the surface and occasionally spawn smaller side vortices that detach."
+    },
+    {
+      "number": "19",
+      "title": "Tornado Crossing a Highway with Moving Cars",
+      "description": "A straight highway with small box cars moving in both directions experiences an approaching tornado; cars attempt to steer away but some are lifted, rotated, and displaced sideways, leaving skid mark lines on the pavement, while loose objects like cones and barrels bounce and roll under turbulent winds.",
+      "seed": "Tornado Crossing a Highway with Moving Cars: A straight highway with small box cars moving in both directions experiences an approaching tornado; cars attempt to steer away but some are lifted, rotated, and displaced sideways, leaving skid mark lines on the pavement, while loose objects like cones and barrels bounce and roll under turbulent winds."
+    },
+    {
+      "number": "20",
+      "title": "Tornado Shredding a Wind-Sock Field",
+      "description": "A grid of flexible wind-socks on poles stands in a flat open field; as the tornado approaches, socks rotate to align with inflow winds, stretch, flap, and some tear off and spiral into the funnel, with their fabric strips trailing behind and wrapping briefly around the vortex.",
+      "seed": "Tornado Shredding a Wind-Sock Field: A grid of flexible wind-socks on poles stands in a flat open field; as the tornado approaches, socks rotate to align with inflow winds, stretch, flap, and some tear off and spiral into the funnel, with their fabric strips trailing behind and wrapping briefly around the vortex."
+    },
+    {
+      "number": "21",
+      "title": "Tornado Forming Along a Dryline Boundary",
+      "description": "Two air masses, represented as adjacent colored transparent slabs, meet along a line over flat terrain; particles from each side flow inward, collide, and rise, forming a rotating updraft that tightens into a tornado, while the boundary line is highlighted and tracked as it shifts and kinks.",
+      "seed": "Tornado Forming Along a Dryline Boundary: Two air masses, represented as adjacent colored transparent slabs, meet along a line over flat terrain; particles from each side flow inward, collide, and rise, forming a rotating updraft that tightens into a tornado, while the boundary line is highlighted and tracked as it shifts and kinks."
+    },
+    {
+      "number": "22",
+      "title": "Tornado Scouring a Crop Field",
+      "description": "A patterned grid of crop rows (short cylinders) covers the plane; the tornado path bends through the field, selectively flattening and uprooting rows based on distance from the center, with flattened areas darkening, and crop fragments becoming swirling debris arcs that gradually fall back.",
+      "seed": "Tornado Scouring a Crop Field: A patterned grid of crop rows (short cylinders) covers the plane; the tornado path bends through the field, selectively flattening and uprooting rows based on distance from the center, with flattened areas darkening, and crop fragments becoming swirling debris arcs that gradually fall back."
+    },
+    {
+      "number": "23",
+      "title": "Tornado with Embedded Satellite Vortices",
+      "description": "A large main funnel rotates while several smaller “satellite” vortices orbit around it at ground level, each with its own tiny debris cloud and trails; satellites can merge into the main funnel, split off, or dissipate, while the overall debris field shows complex overlapping spiral paths.",
+      "seed": "Tornado with Embedded Satellite Vortices: A large main funnel rotates while several smaller “satellite” vortices orbit around it at ground level, each with its own tiny debris cloud and trails; satellites can merge into the main funnel, split off, or dissipate, while the overall debris field shows complex overlapping spiral paths."
+    },
+    {
+      "number": "24",
+      "title": "Tornado as a Mechanical Vortex Cleaner",
+      "description": "Inside a warehouse-like room, a mechanical “tornado cleaner” device generates a transparent rotating air column that sweeps across the floor, sucking in scattered small objects and dust particles; heavier objects bounce and slide into the vortex base, orbit briefly, then are transferred into a collector bin.",
+      "seed": "Tornado as a Mechanical Vortex Cleaner: Inside a warehouse-like room, a mechanical “tornado cleaner” device generates a transparent rotating air column that sweeps across the floor, sucking in scattered small objects and dust particles; heavier objects bounce and slide into the vortex base, orbit briefly, then are transferred into a collector bin."
+    },
+    {
+      "number": "25",
+      "title": "Symbolic Tornado of Emotions in a Social Space",
+      "description": "Colored spheres representing people stand in a plaza; a central semi-transparent tornado funnel of mixed-color particles spins and slowly moves through, temporarily attaching to nearby spheres, changing their color intensity and causing them to drift, cluster, or separate, leaving faint trails that mark shifting emotional states.",
+      "seed": "Symbolic Tornado of Emotions in a Social Space: Colored spheres representing people stand in a plaza; a central semi-transparent tornado funnel of mixed-color particles spins and slowly moves through, temporarily attaching to nearby spheres, changing their color intensity and causing them to drift, cluster, or separate, leaving faint trails that mark shifting emotional states."
+    }
+  ],
+  "raw_output": "Here are strong **Tornadoes simulation inputs** you can plug into your prompt:\n\n1. **Spinning Funnel Cloud over a Town Grid**\n   A transparent rotating funnel-shaped tornado descends from a swirling cloud base above a flat town grid of box houses, pulling in small debris particles that spiral upward with trails while buildings can detach roofs, slide, and collide as the funnel path curves across the scene.\n\n2. **Multiple Tornado Outbreak over Farmland**\n   Several semi-transparent cone and wedge tornadoes spawn from a moving storm line above a checkered field of crops and silos, with each tornado leaving a darker ground “scar” strip, uprooting scattered cylinders (trees) and transferring them into rotating debris rings that orbit the core before falling out.\n\n3. **Tornado Formation from Rotating Thunderstorm Updraft**\n   A rotating cylindrical updraft cloud spins above a flat plane, where inflowing air particles (small spheres with trails) spiral inward, condense into a tightening vertical column, and gradually stretch downward to form a funnel that touches the ground and intensifies as more particles attach.\n\n4. **Dust Devil Swarm over a Desert Plain**\n   Dozens of small, semi-transparent dust devils randomly spawn and dissipate over a light-colored sand plane, with dust particles that bounce, wrap around the mini-vortices, and leave faint spiral trails while a moving sun light source shifts their shading and shadow direction.\n\n5. **Tornado Crossing a River and Splitting Spray**\n   A single fast-moving tornado cone translates across a landscape and passes over a blue river strip, sucking water upward as translucent spray particles that spiral and mix with darker debris, briefly widening the funnel and changing its color gradient before it continues onto land.\n\n6. **Twin Tornado Interaction and Merger**\n   Two adjacent rotating funnels move toward each other over a plain, their debris rings and inflow particle streams intersect and collide, and the weaker tornado gradually transfers its particles and rotation into the stronger one, visualized as color-coded swirling streams that merge into a single larger vortex.\n\n7. **Tornado Impact on Wind Turbines**\n   A wind farm of tall rotating turbines stands on a plane while a tornado approaches; turbine blades spin, bend, or detach as the vortex passes, with individual blade fragments becoming debris that orbit the funnel, collide with other turbines, and leave tumbling motion trails.\n\n8. **Microscopic Tornado Vortex in a Fluid Tank**\n   Inside a transparent cylindrical tank filled with colored fluid particles, a rotating stirrer rod at the top creates a miniature “water tornado” vortex, pulling particles downward into a tight spiral column where densities mix, colors blend, and small tracer particles glow as they cycle through the vortex core.\n\n9. **Tornado Alley Map with Moving Storm Cells**\n   A large flat map with labeled towns and highways shows box-shaped storm cells moving and rotating overhead, occasionally spawning semi-transparent tornado funnels that track along labeled paths, leaving thin ground tracks, while a side meter shows tornado intensity changing color as wind speed particles accelerate.\n\n10. **Tornado Interacting with a Moving Train**\n   A long train of connected box cars moves along a straight track as a tornado crosses the line; individual cars can detach when hit, lift slightly, and rotate into the vortex, with couplers snapping, wheels bouncing and scattering, and a cloud of small metallic debris orbiting the funnel.\n\n11. **Tornado Lofting and Dropping Spherical Hail**\n   A rotating storm cloud above a field produces both a descending tornado funnel and tumbling hail spheres; hail particles are sucked into the vortex, spiral upward, then detach and fall out downwind, bouncing off the ground and buildings, leaving short-lasting impact “splash” markers.\n\n12. **City Skyscraper Canyon Tornado**\n   A tornado weaves through tall rectangular skyscrapers, with wind vectors represented by arrows wrapping around building edges, loose panels detaching and spiraling into the core, glass particles scattering and reflecting light, and the funnel shape stretching and bending as it squeezes between structures.\n\n13. **Tornado-Driven Power Grid Failure**\n   A grid of poles and power lines stands on a light background terrain while a tornado approaches; poles can snap, wires detach and whip around, briefly arcing with glowing sparks where they collide or touch the ground, and a color-coded network diagram in one corner dims as nodes lose power.\n\n14. **Tornado over a Forest with Tree Uprooting**\n   A dense forest of cylinder-and-cone trees covers a plane as a tornado path cuts through, uprooting selected trees that then spin, collide, and break into segments that orbit and mix with leaf particle clouds, leaving a clear swath where only stumps and scattered debris remain.\n\n15. **Waterspout over the Ocean Surface**\n   A tall, slender vortex connects a rotating cloud base to a rippling blue water surface, drawing water droplets upward into a twisting transparent column; ocean spray particles bounce and mix at the base while a moving boat is tugged sideways by the inflow, leaving a curved wake trail.\n\n16. **Laboratory Tornado in a Plexiglass Chamber**\n   Inside a clear box with visible fans at the base and vents at the top, colored smoke particles are emitted and drawn into a controlled vortex, spiraling up to form a stable tornado column whose width and height can be adjusted, with labels showing airflow paths and streamlines glowing faintly.\n\n17. **Tornado-Inspired Data Vortex Visualization**\n   A vertical tornado-shaped data funnel stands in the center, with small colored data particles from multiple source boxes spiraling inward at the base, merging as they rise, then branching into labeled output streams that split off higher up, while particle color and speed indicate data type and throughput.\n\n18. **Dust Tornado on Mars Surface**\n   A reddish dusty vortex travels across a cratered Martian terrain, lofting fine dust particles that create a semi-transparent swirling column; dust gradually settles behind as a fading trail, while thin atmosphere wind vectors skim the surface and occasionally spawn smaller side vortices that detach.\n\n19. **Tornado Crossing a Highway with Moving Cars**\n   A straight highway with small box cars moving in both directions experiences an approaching tornado; cars attempt to steer away but some are lifted, rotated, and displaced sideways, leaving skid mark lines on the pavement, while loose objects like cones and barrels bounce and roll under turbulent winds.\n\n20. **Tornado Shredding a Wind-Sock Field**\n   A grid of flexible wind-socks on poles stands in a flat open field; as the tornado approaches, socks rotate to align with inflow winds, stretch, flap, and some tear off and spiral into the funnel, with their fabric strips trailing behind and wrapping briefly around the vortex.\n\n21. **Tornado Forming Along a Dryline Boundary**\n   Two air masses, represented as adjacent colored transparent slabs, meet along a line over flat terrain; particles from each side flow inward, collide, and rise, forming a rotating updraft that tightens into a tornado, while the boundary line is highlighted and tracked as it shifts and kinks.\n\n22. **Tornado Scouring a Crop Field**\n   A patterned grid of crop rows (short cylinders) covers the plane; the tornado path bends through the field, selectively flattening and uprooting rows based on distance from the center, with flattened areas darkening, and crop fragments becoming swirling debris arcs that gradually fall back.\n\n23. **Tornado with Embedded Satellite Vortices**\n   A large main funnel rotates while several smaller “satellite” vortices orbit around it at ground level, each with its own tiny debris cloud and trails; satellites can merge into the main funnel, split off, or dissipate, while the overall debris field shows complex overlapping spiral paths.\n\n24. **Tornado as a Mechanical Vortex Cleaner**\n   Inside a warehouse-like room, a mechanical “tornado cleaner” device generates a transparent rotating air column that sweeps across the floor, sucking in scattered small objects and dust particles; heavier objects bounce and slide into the vortex base, orbit briefly, then are transferred into a collector bin.\n\n25. **Symbolic Tornado of Emotions in a Social Space**\n   Colored spheres representing people stand in a plaza; a central semi-transparent tornado funnel of mixed-color particles spins and slowly moves through, temporarily attaching to nearby spheres, changing their color intensity and causing them to drift, cluster, or separate, leaving faint trails that mark shifting emotional states."
+}

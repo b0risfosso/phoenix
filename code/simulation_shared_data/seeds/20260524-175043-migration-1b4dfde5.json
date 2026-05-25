@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Migration",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:50:43",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Bird Flock Seasonal Migration",
+      "description": "A 3D flock of colored bird-spheres follows a curving north–south path over a textured globe, with individual birds occasionally splitting off, rejoining, and leaving faint flight trails as they avoid collisions and adjust to wind-force arrows.",
+      "seed": "Bird Flock Seasonal Migration: A 3D flock of colored bird-spheres follows a curving north–south path over a textured globe, with individual birds occasionally splitting off, rejoining, and leaving faint flight trails as they avoid collisions and adjust to wind-force arrows."
+    },
+    {
+      "number": "2",
+      "title": "Wildebeest River Crossing",
+      "description": "Hundreds of small animal-boxes migrate across a grassy plane toward a semi-transparent blue river, where some are swept downstream, some successfully cross, and others collide or cluster at bottlenecks, with overhead labels showing herd density.",
+      "seed": "Wildebeest River Crossing: Hundreds of small animal-boxes migrate across a grassy plane toward a semi-transparent blue river, where some are swept downstream, some successfully cross, and others collide or cluster at bottlenecks, with overhead labels showing herd density."
+    },
+    {
+      "number": "3",
+      "title": "Human City Migration Flows",
+      "description": "A flat map-like plane holds tall, semi-transparent city cylinders connected by glowing particle streams that pulse and thicken as people-spheres “migrate” between cities, leaving temporary trails and updating floating population counters above each city.",
+      "seed": "Human City Migration Flows: A flat map-like plane holds tall, semi-transparent city cylinders connected by glowing particle streams that pulse and thicken as people-spheres “migrate” between cities, leaving temporary trails and updating floating population counters above each city."
+    },
+    {
+      "number": "4",
+      "title": "Monarch Butterfly Corridor",
+      "description": "Orange butterfly-sprites move in waves along a 3D corridor of green waypoint trees, occasionally landing, refueling, and then relaunching, while wind vectors nudge their paths and colored trails show different generations completing segments of the journey.",
+      "seed": "Monarch Butterfly Corridor: Orange butterfly-sprites move in waves along a 3D corridor of green waypoint trees, occasionally landing, refueling, and then relaunching, while wind vectors nudge their paths and colored trails show different generations completing segments of the journey."
+    },
+    {
+      "number": "5",
+      "title": "Cellular Chemotaxis Migration",
+      "description": "Dozens of semi-transparent cell-spheres crawl across a gel-like plane toward a chemical source, extending and retracting pseudopod cones, splitting, merging, and leaving faint deformation trails as they respond to a moving gradient cloud of particles.",
+      "seed": "Cellular Chemotaxis Migration: Dozens of semi-transparent cell-spheres crawl across a gel-like plane toward a chemical source, extending and retracting pseudopod cones, splitting, merging, and leaving faint deformation trails as they respond to a moving gradient cloud of particles."
+    },
+    {
+      "number": "6",
+      "title": "Fish School Ocean Migration",
+      "description": "A school of fish-shaped objects migrates through layered blue water volumes with temperature bands indicated by color, avoiding stationary reef structures, clustering around moving food particle clouds, and occasionally scattering when a predator-cone rushes through.",
+      "seed": "Fish School Ocean Migration: A school of fish-shaped objects migrates through layered blue water volumes with temperature bands indicated by color, avoiding stationary reef structures, clustering around moving food particle clouds, and occasionally scattering when a predator-cone rushes through."
+    },
+    {
+      "number": "7",
+      "title": "Planetary Mass Migration via Space Arcs",
+      "description": "Multiple planet-spheres orbit a star while streams of ship-particles launch from one planet and migrate along curved, glowing transfer orbits to colonize others, attaching to orbital stations and updating population meters on each world.",
+      "seed": "Planetary Mass Migration via Space Arcs: Multiple planet-spheres orbit a star while streams of ship-particles launch from one planet and migrate along curved, glowing transfer orbits to colonize others, attaching to orbital stations and updating population meters on each world."
+    },
+    {
+      "number": "8",
+      "title": "Data Packet Migration in a Network",
+      "description": "A 3D lattice of node-cubes is connected by semi-transparent tubes where bright packet-spheres migrate, queue, bounce at congested nodes, reroute after simulated link failures, and leave fading trails that reveal shifting traffic patterns.",
+      "seed": "Data Packet Migration in a Network: A 3D lattice of node-cubes is connected by semi-transparent tubes where bright packet-spheres migrate, queue, bounce at congested nodes, reroute after simulated link failures, and leave fading trails that reveal shifting traffic patterns."
+    },
+    {
+      "number": "9",
+      "title": "Tectonic Plate Boundary Migration",
+      "description": "Large, textured slabs representing tectonic plates slowly migrate across a spherical Earth core, colliding, subducting, and uplifting, while small mountain-peak markers grow, trenches deepen, and labels track the displacement of key boundary points.",
+      "seed": "Tectonic Plate Boundary Migration: Large, textured slabs representing tectonic plates slowly migrate across a spherical Earth core, colliding, subducting, and uplifting, while small mountain-peak markers grow, trenches deepen, and labels track the displacement of key boundary points."
+    },
+    {
+      "number": "10",
+      "title": "Sand Dune Migration in a Desert",
+      "description": "Wind vectors push millions of small sand particles across a pale plane, causing dunes (clustered mounds) to slowly migrate, split, and merge, while a transparent overhead grid and time-lapse trails show how their crests shift over simulated years.",
+      "seed": "Sand Dune Migration in a Desert: Wind vectors push millions of small sand particles across a pale plane, causing dunes (clustered mounds) to slowly migrate, split, and merge, while a transparent overhead grid and time-lapse trails show how their crests shift over simulated years."
+    },
+    {
+      "number": "11",
+      "title": "Neuron Growth Cone Migration",
+      "description": "Transparent neuron bodies extend glowing axon filaments whose tips (growth cones) migrate through a 3D chemical field, branching, retracting, and attaching at target cells, with colored gradient clouds and particle beacons guiding the paths.",
+      "seed": "Neuron Growth Cone Migration: Transparent neuron bodies extend glowing axon filaments whose tips (growth cones) migrate through a 3D chemical field, branching, retracting, and attaching at target cells, with colored gradient clouds and particle beacons guiding the paths."
+    },
+    {
+      "number": "12",
+      "title": "Robot Swarm Warehouse Relocation",
+      "description": "Dozens of small robot-cylinders migrate across a warehouse grid, picking up, carrying, and dropping colored box-cubes from one storage zone to another, avoiding collisions, queuing at narrow aisles, and leaving faint path trails that show traffic lanes.",
+      "seed": "Robot Swarm Warehouse Relocation: Dozens of small robot-cylinders migrate across a warehouse grid, picking up, carrying, and dropping colored box-cubes from one storage zone to another, avoiding collisions, queuing at narrow aisles, and leaving faint path trails that show traffic lanes."
+    },
+    {
+      "number": "13",
+      "title": "Ice Sheet Margin Migration",
+      "description": "A semi-transparent ice-sheet block slowly advances and retreats over a textured land surface, calving off floating ice-cubes into a blue ocean, while markers track glacier front position, and colored lines show past, present, and projected margins.",
+      "seed": "Ice Sheet Margin Migration: A semi-transparent ice-sheet block slowly advances and retreats over a textured land surface, calving off floating ice-cubes into a blue ocean, while markers track glacier front position, and colored lines show past, present, and projected margins."
+    },
+    {
+      "number": "14",
+      "title": "Migrant Bird Collision with Urban Lights",
+      "description": "Birds represented by small spheres migrate at night across a dim sky plane, attracted to and sometimes colliding with tall, glowing building columns, with impact flashes, altered trajectories, and counters tracking safe vs. collision paths.",
+      "seed": "Migrant Bird Collision with Urban Lights: Birds represented by small spheres migrate at night across a dim sky plane, attracted to and sometimes colliding with tall, glowing building columns, with impact flashes, altered trajectories, and counters tracking safe vs. collision paths."
+    },
+    {
+      "number": "15",
+      "title": "Bacteria Colony Migration on a Nutrient Plate",
+      "description": "Multiple colored bacterial colonies expand and migrate as branching fronts across a circular nutrient disk, with chemotactic particles diffusing from the center, colonies colliding, wrapping around obstacles, and forming visible layered fronts.",
+      "seed": "Bacteria Colony Migration on a Nutrient Plate: Multiple colored bacterial colonies expand and migrate as branching fronts across a circular nutrient disk, with chemotactic particles diffusing from the center, colonies colliding, wrapping around obstacles, and forming visible layered fronts."
+    },
+    {
+      "number": "16",
+      "title": "Workforce Migration Between Industries",
+      "description": "Sector towers on a flat plane change height as worker-spheres migrate between them along curved, color-coded paths, attaching to and detaching from each tower base as economic “attractor” fields pulse and shift their relative pull.",
+      "seed": "Workforce Migration Between Industries: Sector towers on a flat plane change height as worker-spheres migrate between them along curved, color-coded paths, attaching to and detaching from each tower base as economic “attractor” fields pulse and shift their relative pull."
+    },
+    {
+      "number": "17",
+      "title": "Star Cluster Core Migration",
+      "description": "A dense cluster of star-spheres orbits around a galactic center, with more massive stars gradually migrating inward due to dynamical friction, occasionally slingshotting lighter stars outward, leaving curved orbit trails and highlighting core collapse.",
+      "seed": "Star Cluster Core Migration: A dense cluster of star-spheres orbits around a galactic center, with more massive stars gradually migrating inward due to dynamical friction, occasionally slingshotting lighter stars outward, leaving curved orbit trails and highlighting core collapse."
+    },
+    {
+      "number": "18",
+      "title": "River Channel Migration on a Floodplain",
+      "description": "A blue river ribbon snakes across a pale floodplain and gradually migrates sideways as erosion particles detach from concave banks and deposit on convex bars, causing the channel to meander, cut off loops, and leave oxbow lake basins.",
+      "seed": "River Channel Migration on a Floodplain: A blue river ribbon snakes across a pale floodplain and gradually migrates sideways as erosion particles detach from concave banks and deposit on convex bars, causing the channel to meander, cut off loops, and leave oxbow lake basins."
+    },
+    {
+      "number": "19",
+      "title": "Migration of Shopping Crowds in a Mall",
+      "description": "Human-spheres wander a multi-level mall layout, migrating between stores represented by colored boxes, clustering at sales hotspots, queuing at escalators, and leaving temporary heatmap trails that reveal shifting crowd densities.",
+      "seed": "Migration of Shopping Crowds in a Mall: Human-spheres wander a multi-level mall layout, migrating between stores represented by colored boxes, clustering at sales hotspots, queuing at escalators, and leaving temporary heatmap trails that reveal shifting crowd densities."
+    },
+    {
+      "number": "20",
+      "title": "Leafcutter Ant Trail Migration",
+      "description": "Ant-spheres march in trails between a nest mound and moving food objects, depositing pheromone particles on the ground that evaporate over time, with trails splitting, merging, and relocating as new food sources appear and old ones are depleted.",
+      "seed": "Leafcutter Ant Trail Migration: Ant-spheres march in trails between a nest mound and moving food objects, depositing pheromone particles on the ground that evaporate over time, with trails splitting, merging, and relocating as new food sources appear and old ones are depleted."
+    },
+    {
+      "number": "21",
+      "title": "Planetary Magnetic Pole Migration",
+      "description": "A rotating Earth-sphere shows dynamic magnetic field lines while the north and south magnetic pole markers slowly migrate across the surface, with particle streams tracing field lines and a transparent shell mapping historical pole positions.",
+      "seed": "Planetary Magnetic Pole Migration: A rotating Earth-sphere shows dynamic magnetic field lines while the north and south magnetic pole markers slowly migrate across the surface, with particle streams tracing field lines and a transparent shell mapping historical pole positions."
+    },
+    {
+      "number": "22",
+      "title": "Cloud Migration and Rainfront Advance",
+      "description": "Layered, semi-transparent cloud volumes drift across a terrain, merging and splitting as wind vectors push them, while embedded particle systems release rain that falls, splashes, and creates dynamic puddles that expand and evaporate.",
+      "seed": "Cloud Migration and Rainfront Advance: Layered, semi-transparent cloud volumes drift across a terrain, merging and splitting as wind vectors push them, while embedded particle systems release rain that falls, splashes, and creates dynamic puddles that expand and evaporate."
+    },
+    {
+      "number": "23",
+      "title": "City Neighborhood Boundary Migration",
+      "description": "A 2D map extruded into 3D shows neighborhood regions as colored, semi-transparent volumes whose borders gradually migrate as population-sphere clusters move, attach to, and detach from different districts, with labels tracking demographic shifts.",
+      "seed": "City Neighborhood Boundary Migration: A 2D map extruded into 3D shows neighborhood regions as colored, semi-transparent volumes whose borders gradually migrate as population-sphere clusters move, attach to, and detach from different districts, with labels tracking demographic shifts."
+    },
+    {
+      "number": "24",
+      "title": "Molecular Ion Channel Migration in a Membrane",
+      "description": "Ion-spheres migrate through semi-transparent channels embedded in a lipid bilayer slab, driven by an electric potential gradient, occasionally blocking, bouncing off closed channels, and briefly attaching to receptor sites that toggle channel states.",
+      "seed": "Molecular Ion Channel Migration in a Membrane: Ion-spheres migrate through semi-transparent channels embedded in a lipid bilayer slab, driven by an electric potential gradient, occasionally blocking, bouncing off closed channels, and briefly attaching to receptor sites that toggle channel states."
+    },
+    {
+      "number": "25",
+      "title": "Galaxy Cluster Migration and Merger",
+      "description": "Multiple galaxies, each a rotating disk of star-particles, migrate through space toward a common center, tidally distorting, exchanging star streams, and eventually merging into a larger, glowing core while preserving orbit trails of captured stars.",
+      "seed": "Galaxy Cluster Migration and Merger: Multiple galaxies, each a rotating disk of star-particles, migrate through space toward a common center, tidally distorting, exchanging star streams, and eventually merging into a larger, glowing core while preserving orbit trails of captured stars."
+    }
+  ],
+  "raw_output": "Here are strong **Migration simulation inputs** you can plug into your prompt:\n\n1. **Bird Flock Seasonal Migration**\n   A 3D flock of colored bird-spheres follows a curving north–south path over a textured globe, with individual birds occasionally splitting off, rejoining, and leaving faint flight trails as they avoid collisions and adjust to wind-force arrows.\n\n2. **Wildebeest River Crossing**\n   Hundreds of small animal-boxes migrate across a grassy plane toward a semi-transparent blue river, where some are swept downstream, some successfully cross, and others collide or cluster at bottlenecks, with overhead labels showing herd density.\n\n3. **Human City Migration Flows**\n   A flat map-like plane holds tall, semi-transparent city cylinders connected by glowing particle streams that pulse and thicken as people-spheres “migrate” between cities, leaving temporary trails and updating floating population counters above each city.\n\n4. **Monarch Butterfly Corridor**\n   Orange butterfly-sprites move in waves along a 3D corridor of green waypoint trees, occasionally landing, refueling, and then relaunching, while wind vectors nudge their paths and colored trails show different generations completing segments of the journey.\n\n5. **Cellular Chemotaxis Migration**\n   Dozens of semi-transparent cell-spheres crawl across a gel-like plane toward a chemical source, extending and retracting pseudopod cones, splitting, merging, and leaving faint deformation trails as they respond to a moving gradient cloud of particles.\n\n6. **Fish School Ocean Migration**\n   A school of fish-shaped objects migrates through layered blue water volumes with temperature bands indicated by color, avoiding stationary reef structures, clustering around moving food particle clouds, and occasionally scattering when a predator-cone rushes through.\n\n7. **Planetary Mass Migration via Space Arcs**\n   Multiple planet-spheres orbit a star while streams of ship-particles launch from one planet and migrate along curved, glowing transfer orbits to colonize others, attaching to orbital stations and updating population meters on each world.\n\n8. **Data Packet Migration in a Network**\n   A 3D lattice of node-cubes is connected by semi-transparent tubes where bright packet-spheres migrate, queue, bounce at congested nodes, reroute after simulated link failures, and leave fading trails that reveal shifting traffic patterns.\n\n9. **Tectonic Plate Boundary Migration**\n   Large, textured slabs representing tectonic plates slowly migrate across a spherical Earth core, colliding, subducting, and uplifting, while small mountain-peak markers grow, trenches deepen, and labels track the displacement of key boundary points.\n\n10. **Sand Dune Migration in a Desert**\n    Wind vectors push millions of small sand particles across a pale plane, causing dunes (clustered mounds) to slowly migrate, split, and merge, while a transparent overhead grid and time-lapse trails show how their crests shift over simulated years.\n\n11. **Neuron Growth Cone Migration**\n    Transparent neuron bodies extend glowing axon filaments whose tips (growth cones) migrate through a 3D chemical field, branching, retracting, and attaching at target cells, with colored gradient clouds and particle beacons guiding the paths.\n\n12. **Robot Swarm Warehouse Relocation**\n    Dozens of small robot-cylinders migrate across a warehouse grid, picking up, carrying, and dropping colored box-cubes from one storage zone to another, avoiding collisions, queuing at narrow aisles, and leaving faint path trails that show traffic lanes.\n\n13. **Ice Sheet Margin Migration**\n    A semi-transparent ice-sheet block slowly advances and retreats over a textured land surface, calving off floating ice-cubes into a blue ocean, while markers track glacier front position, and colored lines show past, present, and projected margins.\n\n14. **Migrant Bird Collision with Urban Lights**\n    Birds represented by small spheres migrate at night across a dim sky plane, attracted to and sometimes colliding with tall, glowing building columns, with impact flashes, altered trajectories, and counters tracking safe vs. collision paths.\n\n15. **Bacteria Colony Migration on a Nutrient Plate**\n    Multiple colored bacterial colonies expand and migrate as branching fronts across a circular nutrient disk, with chemotactic particles diffusing from the center, colonies colliding, wrapping around obstacles, and forming visible layered fronts.\n\n16. **Workforce Migration Between Industries**\n    Sector towers on a flat plane change height as worker-spheres migrate between them along curved, color-coded paths, attaching to and detaching from each tower base as economic “attractor” fields pulse and shift their relative pull.\n\n17. **Star Cluster Core Migration**\n    A dense cluster of star-spheres orbits around a galactic center, with more massive stars gradually migrating inward due to dynamical friction, occasionally slingshotting lighter stars outward, leaving curved orbit trails and highlighting core collapse.\n\n18. **River Channel Migration on a Floodplain**\n    A blue river ribbon snakes across a pale floodplain and gradually migrates sideways as erosion particles detach from concave banks and deposit on convex bars, causing the channel to meander, cut off loops, and leave oxbow lake basins.\n\n19. **Migration of Shopping Crowds in a Mall**\n    Human-spheres wander a multi-level mall layout, migrating between stores represented by colored boxes, clustering at sales hotspots, queuing at escalators, and leaving temporary heatmap trails that reveal shifting crowd densities.\n\n20. **Leafcutter Ant Trail Migration**\n    Ant-spheres march in trails between a nest mound and moving food objects, depositing pheromone particles on the ground that evaporate over time, with trails splitting, merging, and relocating as new food sources appear and old ones are depleted.\n\n21. **Planetary Magnetic Pole Migration**\n    A rotating Earth-sphere shows dynamic magnetic field lines while the north and south magnetic pole markers slowly migrate across the surface, with particle streams tracing field lines and a transparent shell mapping historical pole positions.\n\n22. **Cloud Migration and Rainfront Advance**\n    Layered, semi-transparent cloud volumes drift across a terrain, merging and splitting as wind vectors push them, while embedded particle systems release rain that falls, splashes, and creates dynamic puddles that expand and evaporate.\n\n23. **City Neighborhood Boundary Migration**\n    A 2D map extruded into 3D shows neighborhood regions as colored, semi-transparent volumes whose borders gradually migrate as population-sphere clusters move, attach to, and detach from different districts, with labels tracking demographic shifts.\n\n24. **Molecular Ion Channel Migration in a Membrane**\n    Ion-spheres migrate through semi-transparent channels embedded in a lipid bilayer slab, driven by an electric potential gradient, occasionally blocking, bouncing off closed channels, and briefly attaching to receptor sites that toggle channel states.\n\n25. **Galaxy Cluster Migration and Merger**\n    Multiple galaxies, each a rotating disk of star-particles, migrate through space toward a common center, tidally distorting, exchanging star streams, and eventually merging into a larger, glowing core while preserving orbit trails of captured stars."
+}

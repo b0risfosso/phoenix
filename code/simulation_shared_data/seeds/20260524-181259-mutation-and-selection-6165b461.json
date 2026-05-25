@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Mutation and selection",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:12:59",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Evolving Orb Swarm in a Fitness Landscape",
+      "description": "Make a 3D Python simulation of hundreds of colored spheres moving over a bumpy transparent “fitness landscape” surface, where spheres randomly mutate size/color/speed, leave trails, and are periodically “selected” (brighten and replicate) if they reach high peaks while poorly adapted ones fade and disappear.",
+      "seed": "Evolving Orb Swarm in a Fitness Landscape: Make a 3D Python simulation of hundreds of colored spheres moving over a bumpy transparent “fitness landscape” surface, where spheres randomly mutate size/color/speed, leave trails, and are periodically “selected” (brighten and replicate) if they reach high peaks while poorly adapted ones fade and disappear."
+    },
+    {
+      "number": "2",
+      "title": "Mutating DNA Ladder with Selective Binding",
+      "description": "Make a 3D Python simulation of a semi-transparent DNA double helix where base-pair bars occasionally flip color to represent mutations, floating protein-like blobs scan along the helix, selectively attach to specific color patterns, and trigger glowing pulses or strand splits when they find or fail to find correct sequences.",
+      "seed": "Mutating DNA Ladder with Selective Binding: Make a 3D Python simulation of a semi-transparent DNA double helix where base-pair bars occasionally flip color to represent mutations, floating protein-like blobs scan along the helix, selectively attach to specific color patterns, and trigger glowing pulses or strand splits when they find or fail to find correct sequences."
+    },
+    {
+      "number": "3",
+      "title": "Virus Cloud Invading a Cell Population",
+      "description": "Make a 3D Python simulation of a cluster of semi-transparent cells (spheres) in a box with small spiky virus particles that collide, inject glowing genetic material, cause infected cells to change color and spawn mutated virus variants, while an immunity field selectively destroys certain colors of virus.",
+      "seed": "Virus Cloud Invading a Cell Population: Make a 3D Python simulation of a cluster of semi-transparent cells (spheres) in a box with small spiky virus particles that collide, inject glowing genetic material, cause infected cells to change color and spawn mutated virus variants, while an immunity field selectively destroys certain colors of virus."
+    },
+    {
+      "number": "4",
+      "title": "Bacteria Growing on a Nutrient Gradient Plate",
+      "description": "Make a 3D Python simulation of a flat rectangular plate with a smooth color gradient representing nutrient concentration, where tiny rod-shaped bacteria replicate, mutate their color and movement speed, and form expanding colonies, with more successful mutants clustering in high-nutrient zones and less fit ones shrinking and fading.",
+      "seed": "Bacteria Growing on a Nutrient Gradient Plate: Make a 3D Python simulation of a flat rectangular plate with a smooth color gradient representing nutrient concentration, where tiny rod-shaped bacteria replicate, mutate their color and movement speed, and form expanding colonies, with more successful mutants clustering in high-nutrient zones and less fit ones shrinking and fading."
+    },
+    {
+      "number": "5",
+      "title": "Predator–Prey Selection in a 3D Habitat",
+      "description": "Make a 3D Python simulation of a light-colored cubic habitat with small prey spheres of varying colors and sizes and larger predator cones that chase them, where prey that survive gain offspring with slightly mutated traits, predators with successful captures replicate, and trajectories are shown with faint trails.",
+      "seed": "Predator–Prey Selection in a 3D Habitat: Make a 3D Python simulation of a light-colored cubic habitat with small prey spheres of varying colors and sizes and larger predator cones that chase them, where prey that survive gain offspring with slightly mutated traits, predators with successful captures replicate, and trajectories are shown with faint trails."
+    },
+    {
+      "number": "6",
+      "title": "Mutating Rocket Designs in a Launch Arena",
+      "description": "Make a 3D Python simulation of multiple simple rocket models on a flat pad that launch upward one by one, with varying fin sizes, body lengths, and colors mutating each generation, and only rockets that reach a glowing height ring are “selected” to spawn similar but slightly changed designs for the next round.",
+      "seed": "Mutating Rocket Designs in a Launch Arena: Make a 3D Python simulation of multiple simple rocket models on a flat pad that launch upward one by one, with varying fin sizes, body lengths, and colors mutating each generation, and only rockets that reach a glowing height ring are “selected” to spawn similar but slightly changed designs for the next round."
+    },
+    {
+      "number": "7",
+      "title": "Neural Network Nodes Mutating Under Performance Selection",
+      "description": "Make a 3D Python simulation of layered spheres (neurons) connected by semi-transparent cylinders (synapses) where link thickness and color represent strength, links occasionally flicker and mutate, and a floating performance meter selects high-performing configurations to glow and replicate while weaker connections dissolve.",
+      "seed": "Neural Network Nodes Mutating Under Performance Selection: Make a 3D Python simulation of layered spheres (neurons) connected by semi-transparent cylinders (synapses) where link thickness and color represent strength, links occasionally flicker and mutate, and a floating performance meter selects high-performing configurations to glow and replicate while weaker connections dissolve."
+    },
+    {
+      "number": "8",
+      "title": "Crystallization with Defect Mutation and Selection",
+      "description": "Make a 3D Python simulation of a growing cubic crystal lattice where atoms (small spheres) attach to a central seed, occasionally misalign to form colored defects, and thermal shaking can either correct (select for perfect alignment) or amplify defects that cluster into distinct, brighter mutant regions.",
+      "seed": "Crystallization with Defect Mutation and Selection: Make a 3D Python simulation of a growing cubic crystal lattice where atoms (small spheres) attach to a central seed, occasionally misalign to form colored defects, and thermal shaking can either correct (select for perfect alignment) or amplify defects that cluster into distinct, brighter mutant regions."
+    },
+    {
+      "number": "9",
+      "title": "Mutating Walkers on a Terrain Obstacle Course",
+      "description": "Make a 3D Python simulation of many simple multi-legged “walker” frames trying to cross a hilly obstacle course, where each walker’s limb lengths and joint angles mutate slightly each generation, only those reaching a glowing goal gate are selected to replicate, and failed walkers topple and fade.",
+      "seed": "Mutating Walkers on a Terrain Obstacle Course: Make a 3D Python simulation of many simple multi-legged “walker” frames trying to cross a hilly obstacle course, where each walker’s limb lengths and joint angles mutate slightly each generation, only those reaching a glowing goal gate are selected to replicate, and failed walkers topple and fade."
+    },
+    {
+      "number": "10",
+      "title": "Digital Creatures Competing for Floating Energy Orbs",
+      "description": "Make a 3D Python simulation of simple articulated creatures built from linked boxes that roam a space collecting glowing energy orbs, with body shapes and movement patterns mutating after each round, and only high-energy creatures surviving and spawning new, slightly mutated offspring.",
+      "seed": "Digital Creatures Competing for Floating Energy Orbs: Make a 3D Python simulation of simple articulated creatures built from linked boxes that roam a space collecting glowing energy orbs, with body shapes and movement patterns mutating after each round, and only high-energy creatures surviving and spawning new, slightly mutated offspring."
+    },
+    {
+      "number": "11",
+      "title": "Color-Camouflage Selection in a Changing Environment",
+      "description": "Make a 3D Python simulation of many small cubes on a large plane whose background color slowly cycles, where each cube’s surface color mutates over time, predators represented by scanning spotlights preferentially “remove” high-contrast cubes, and well-camouflaged cubes persist and duplicate.",
+      "seed": "Color-Camouflage Selection in a Changing Environment: Make a 3D Python simulation of many small cubes on a large plane whose background color slowly cycles, where each cube’s surface color mutates over time, predators represented by scanning spotlights preferentially “remove” high-contrast cubes, and well-camouflaged cubes persist and duplicate."
+    },
+    {
+      "number": "12",
+      "title": "Mutation and Selection in a 3D Gene Pool Lattice",
+      "description": "Make a 3D Python simulation of a grid of small spheres each holding a 3-color bar gene marker above them, where neighboring spheres occasionally swap or mutate gene colors, an external moving “environment” plane favors certain color patterns that glow and replicate while disfavored patterns shrink and vanish.",
+      "seed": "Mutation and Selection in a 3D Gene Pool Lattice: Make a 3D Python simulation of a grid of small spheres each holding a 3-color bar gene marker above them, where neighboring spheres occasionally swap or mutate gene colors, an external moving “environment” plane favors certain color patterns that glow and replicate while disfavored patterns shrink and vanish."
+    },
+    {
+      "number": "13",
+      "title": "Evolving Orbital Systems Under Stability Selection",
+      "description": "Make a 3D Python simulation of multiple miniature solar systems floating in space, where each has a central star and orbiting planets with slightly mutated initial speeds and distances, unstable systems fling planets away that fade out, while stable, long-lived orbits are selected to replicate into new systems with small variations.",
+      "seed": "Evolving Orbital Systems Under Stability Selection: Make a 3D Python simulation of multiple miniature solar systems floating in space, where each has a central star and orbiting planets with slightly mutated initial speeds and distances, unstable systems fling planets away that fade out, while stable, long-lived orbits are selected to replicate into new systems with small variations."
+    },
+    {
+      "number": "14",
+      "title": "Mutating Maze-Solvers in a 3D Labyrinth",
+      "description": "Make a 3D Python simulation of a transparent-walled 3D maze containing dozens of small colored agents that try to reach an exit, leaving faint path trails, where their movement rules mutate each generation and only agents that reach the exit (or get closest) are selected to produce new agents with slightly altered behavior.",
+      "seed": "Mutating Maze-Solvers in a 3D Labyrinth: Make a 3D Python simulation of a transparent-walled 3D maze containing dozens of small colored agents that try to reach an exit, leaving faint path trails, where their movement rules mutate each generation and only agents that reach the exit (or get closest) are selected to produce new agents with slightly altered behavior."
+    },
+    {
+      "number": "15",
+      "title": "Immune System Selection of Antibodies",
+      "description": "Make a 3D Python simulation where a cloud of Y-shaped antibody objects of many colors float in a volume with spherical antigens displaying specific colored patches, antibodies randomly collide and attach if they match, matched antibodies glow and replicate with slight color mutations, while non-binders gradually fade away.",
+      "seed": "Immune System Selection of Antibodies: Make a 3D Python simulation where a cloud of Y-shaped antibody objects of many colors float in a volume with spherical antigens displaying specific colored patches, antibodies randomly collide and attach if they match, matched antibodies glow and replicate with slight color mutations, while non-binders gradually fade away."
+    },
+    {
+      "number": "16",
+      "title": "Mutating Trees Competing for Light",
+      "description": "Make a 3D Python simulation of many small tree structures growing from a flat ground, where branches extend, split, and mutate their angles and lengths, a moving sun casts light rays downward, and only trees whose leaves intercept more light (measured by glowing hits) continue to grow and branch, while shaded trees stop and darken.",
+      "seed": "Mutating Trees Competing for Light: Make a 3D Python simulation of many small tree structures growing from a flat ground, where branches extend, split, and mutate their angles and lengths, a moving sun casts light rays downward, and only trees whose leaves intercept more light (measured by glowing hits) continue to grow and branch, while shaded trees stop and darken."
+    },
+    {
+      "number": "17",
+      "title": "Crystal Garden of Competing Mutant Species",
+      "description": "Make a 3D Python simulation of multiple crystal “species” growing from a base plate as differently colored geometric clusters, where individual crystals mutate growth direction and speed, collisions between species push boundaries, and a global resource meter selectively accelerates or slows specific colors, shaping which mutant pattern dominates.",
+      "seed": "Crystal Garden of Competing Mutant Species: Make a 3D Python simulation of multiple crystal “species” growing from a base plate as differently colored geometric clusters, where individual crystals mutate growth direction and speed, collisions between species push boundaries, and a global resource meter selectively accelerates or slows specific colors, shaping which mutant pattern dominates."
+    },
+    {
+      "number": "18",
+      "title": "Traffic Network with Evolving Driver Strategies",
+      "description": "Make a 3D Python simulation of cars (small boxes) navigating a simple elevated road network viewed from an angle, with each car’s acceleration and lane-change behavior mutating, trails showing congestion, and a fitness score selecting the smoothest, fastest drivers to replicate their strategies while inefficient ones are removed.",
+      "seed": "Traffic Network with Evolving Driver Strategies: Make a 3D Python simulation of cars (small boxes) navigating a simple elevated road network viewed from an angle, with each car’s acceleration and lane-change behavior mutating, trails showing congestion, and a fitness score selecting the smoothest, fastest drivers to replicate their strategies while inefficient ones are removed."
+    },
+    {
+      "number": "19",
+      "title": "Mutating Molecules in a Reaction Chamber",
+      "description": "Make a 3D Python simulation of a transparent box filled with bouncing molecules of different shapes and colors that collide, attach, or split apart, with bonding rules occasionally mutating and more stable configurations persisting and multiplying while unstable shapes quickly break and disappear.",
+      "seed": "Mutating Molecules in a Reaction Chamber: Make a 3D Python simulation of a transparent box filled with bouncing molecules of different shapes and colors that collide, attach, or split apart, with bonding rules occasionally mutating and more stable configurations persisting and multiplying while unstable shapes quickly break and disappear."
+    },
+    {
+      "number": "20",
+      "title": "Word-Mutation Cubes Selected by a Scanning Beam",
+      "description": "Make a 3D Python simulation of labeled cubes floating in space, each showing a short word on its faces, where letters randomly mutate (change color and character), a scanning spotlight highlights cubes matching a target pattern causing them to expand and replicate, while non-matching cubes shrink and drift away.",
+      "seed": "Word-Mutation Cubes Selected by a Scanning Beam: Make a 3D Python simulation of labeled cubes floating in space, each showing a short word on its faces, where letters randomly mutate (change color and character), a scanning spotlight highlights cubes matching a target pattern causing them to expand and replicate, while non-matching cubes shrink and drift away."
+    },
+    {
+      "number": "21",
+      "title": "Mutating Flocks Under Predator Pressure",
+      "description": "Make a 3D Python simulation of several bird-like flocks of small triangles flying through space, where flocking rules (separation, alignment, cohesion) are slightly mutated between generations, a few fast predator objects chase and remove poorly coordinated or slow flocks, and surviving flocks’ parameters are passed on with variation.",
+      "seed": "Mutating Flocks Under Predator Pressure: Make a 3D Python simulation of several bird-like flocks of small triangles flying through space, where flocking rules (separation, alignment, cohesion) are slightly mutated between generations, a few fast predator objects chase and remove poorly coordinated or slow flocks, and surviving flocks’ parameters are passed on with variation."
+    },
+    {
+      "number": "22",
+      "title": "Evolving Bridge Structures Over a Gap",
+      "description": "Make a 3D Python simulation of many simple truss-like bridge designs constructed from cylinders and joints spanning a chasm, where gravity tests cause some to sag or break, successful bridges that support a rolling test mass are selected to spawn offspring designs with slightly mutated beam lengths and angles.",
+      "seed": "Evolving Bridge Structures Over a Gap: Make a 3D Python simulation of many simple truss-like bridge designs constructed from cylinders and joints spanning a chasm, where gravity tests cause some to sag or break, successful bridges that support a rolling test mass are selected to spawn offspring designs with slightly mutated beam lengths and angles."
+    },
+    {
+      "number": "23",
+      "title": "Mutating Particle Swarm Searching for a Target",
+      "description": "Make a 3D Python simulation of a swarm of small glowing particles exploring a 3D space to locate a hidden target region, where each particle’s movement rules and sensing radius mutate, particles that reach or stay near the target brighten and replicate, while wandering ones dim and vanish.",
+      "seed": "Mutating Particle Swarm Searching for a Target: Make a 3D Python simulation of a swarm of small glowing particles exploring a 3D space to locate a hidden target region, where each particle’s movement rules and sensing radius mutate, particles that reach or stay near the target brighten and replicate, while wandering ones dim and vanish."
+    },
+    {
+      "number": "24",
+      "title": "Selection of Signal Paths in a 3D Circuit Brain",
+      "description": "Make a 3D Python simulation of a brain-like tangle of nodes and semi-transparent wires where pulses of light travel along connections, successful paths that reach a reward node glow brighter and thicken, connections occasionally mutate (split, merge, or rewire), and rarely used paths fade and disappear.",
+      "seed": "Selection of Signal Paths in a 3D Circuit Brain: Make a 3D Python simulation of a brain-like tangle of nodes and semi-transparent wires where pulses of light travel along connections, successful paths that reach a reward node glow brighter and thicken, connections occasionally mutate (split, merge, or rewire), and rarely used paths fade and disappear."
+    },
+    {
+      "number": "25",
+      "title": "Mutating Flagella Swimmers in a Viscous Fluid",
+      "description": "Make a 3D Python simulation of tiny capsule-shaped swimmers with flexible flagella moving through a light-colored viscous fluid volume, where flagella length, curvature, and beat frequency mutate after each cycle, swimmers that reach a nutrient-rich glowing zone are selected to replicate, leaving faint motion trails behind them.",
+      "seed": "Mutating Flagella Swimmers in a Viscous Fluid: Make a 3D Python simulation of tiny capsule-shaped swimmers with flexible flagella moving through a light-colored viscous fluid volume, where flagella length, curvature, and beat frequency mutate after each cycle, swimmers that reach a nutrient-rich glowing zone are selected to replicate, leaving faint motion trails behind them."
+    }
+  ],
+  "raw_output": "Here are strong **Mutation and selection simulation inputs** you can plug into your prompt:\n\n1. **Evolving Orb Swarm in a Fitness Landscape**\n   Make a 3D Python simulation of hundreds of colored spheres moving over a bumpy transparent “fitness landscape” surface, where spheres randomly mutate size/color/speed, leave trails, and are periodically “selected” (brighten and replicate) if they reach high peaks while poorly adapted ones fade and disappear.\n\n2. **Mutating DNA Ladder with Selective Binding**\n   Make a 3D Python simulation of a semi-transparent DNA double helix where base-pair bars occasionally flip color to represent mutations, floating protein-like blobs scan along the helix, selectively attach to specific color patterns, and trigger glowing pulses or strand splits when they find or fail to find correct sequences.\n\n3. **Virus Cloud Invading a Cell Population**\n   Make a 3D Python simulation of a cluster of semi-transparent cells (spheres) in a box with small spiky virus particles that collide, inject glowing genetic material, cause infected cells to change color and spawn mutated virus variants, while an immunity field selectively destroys certain colors of virus.\n\n4. **Bacteria Growing on a Nutrient Gradient Plate**\n   Make a 3D Python simulation of a flat rectangular plate with a smooth color gradient representing nutrient concentration, where tiny rod-shaped bacteria replicate, mutate their color and movement speed, and form expanding colonies, with more successful mutants clustering in high-nutrient zones and less fit ones shrinking and fading.\n\n5. **Predator–Prey Selection in a 3D Habitat**\n   Make a 3D Python simulation of a light-colored cubic habitat with small prey spheres of varying colors and sizes and larger predator cones that chase them, where prey that survive gain offspring with slightly mutated traits, predators with successful captures replicate, and trajectories are shown with faint trails.\n\n6. **Mutating Rocket Designs in a Launch Arena**\n   Make a 3D Python simulation of multiple simple rocket models on a flat pad that launch upward one by one, with varying fin sizes, body lengths, and colors mutating each generation, and only rockets that reach a glowing height ring are “selected” to spawn similar but slightly changed designs for the next round.\n\n7. **Neural Network Nodes Mutating Under Performance Selection**\n   Make a 3D Python simulation of layered spheres (neurons) connected by semi-transparent cylinders (synapses) where link thickness and color represent strength, links occasionally flicker and mutate, and a floating performance meter selects high-performing configurations to glow and replicate while weaker connections dissolve.\n\n8. **Crystallization with Defect Mutation and Selection**\n   Make a 3D Python simulation of a growing cubic crystal lattice where atoms (small spheres) attach to a central seed, occasionally misalign to form colored defects, and thermal shaking can either correct (select for perfect alignment) or amplify defects that cluster into distinct, brighter mutant regions.\n\n9. **Mutating Walkers on a Terrain Obstacle Course**\n   Make a 3D Python simulation of many simple multi-legged “walker” frames trying to cross a hilly obstacle course, where each walker’s limb lengths and joint angles mutate slightly each generation, only those reaching a glowing goal gate are selected to replicate, and failed walkers topple and fade.\n\n10. **Digital Creatures Competing for Floating Energy Orbs**\n    Make a 3D Python simulation of simple articulated creatures built from linked boxes that roam a space collecting glowing energy orbs, with body shapes and movement patterns mutating after each round, and only high-energy creatures surviving and spawning new, slightly mutated offspring.\n\n11. **Color-Camouflage Selection in a Changing Environment**\n    Make a 3D Python simulation of many small cubes on a large plane whose background color slowly cycles, where each cube’s surface color mutates over time, predators represented by scanning spotlights preferentially “remove” high-contrast cubes, and well-camouflaged cubes persist and duplicate.\n\n12. **Mutation and Selection in a 3D Gene Pool Lattice**\n    Make a 3D Python simulation of a grid of small spheres each holding a 3-color bar gene marker above them, where neighboring spheres occasionally swap or mutate gene colors, an external moving “environment” plane favors certain color patterns that glow and replicate while disfavored patterns shrink and vanish.\n\n13. **Evolving Orbital Systems Under Stability Selection**\n    Make a 3D Python simulation of multiple miniature solar systems floating in space, where each has a central star and orbiting planets with slightly mutated initial speeds and distances, unstable systems fling planets away that fade out, while stable, long-lived orbits are selected to replicate into new systems with small variations.\n\n14. **Mutating Maze-Solvers in a 3D Labyrinth**\n    Make a 3D Python simulation of a transparent-walled 3D maze containing dozens of small colored agents that try to reach an exit, leaving faint path trails, where their movement rules mutate each generation and only agents that reach the exit (or get closest) are selected to produce new agents with slightly altered behavior.\n\n15. **Immune System Selection of Antibodies**\n    Make a 3D Python simulation where a cloud of Y-shaped antibody objects of many colors float in a volume with spherical antigens displaying specific colored patches, antibodies randomly collide and attach if they match, matched antibodies glow and replicate with slight color mutations, while non-binders gradually fade away.\n\n16. **Mutating Trees Competing for Light**\n    Make a 3D Python simulation of many small tree structures growing from a flat ground, where branches extend, split, and mutate their angles and lengths, a moving sun casts light rays downward, and only trees whose leaves intercept more light (measured by glowing hits) continue to grow and branch, while shaded trees stop and darken.\n\n17. **Crystal Garden of Competing Mutant Species**\n    Make a 3D Python simulation of multiple crystal “species” growing from a base plate as differently colored geometric clusters, where individual crystals mutate growth direction and speed, collisions between species push boundaries, and a global resource meter selectively accelerates or slows specific colors, shaping which mutant pattern dominates.\n\n18. **Traffic Network with Evolving Driver Strategies**\n    Make a 3D Python simulation of cars (small boxes) navigating a simple elevated road network viewed from an angle, with each car’s acceleration and lane-change behavior mutating, trails showing congestion, and a fitness score selecting the smoothest, fastest drivers to replicate their strategies while inefficient ones are removed.\n\n19. **Mutating Molecules in a Reaction Chamber**\n    Make a 3D Python simulation of a transparent box filled with bouncing molecules of different shapes and colors that collide, attach, or split apart, with bonding rules occasionally mutating and more stable configurations persisting and multiplying while unstable shapes quickly break and disappear.\n\n20. **Word-Mutation Cubes Selected by a Scanning Beam**\n    Make a 3D Python simulation of labeled cubes floating in space, each showing a short word on its faces, where letters randomly mutate (change color and character), a scanning spotlight highlights cubes matching a target pattern causing them to expand and replicate, while non-matching cubes shrink and drift away.\n\n21. **Mutating Flocks Under Predator Pressure**\n    Make a 3D Python simulation of several bird-like flocks of small triangles flying through space, where flocking rules (separation, alignment, cohesion) are slightly mutated between generations, a few fast predator objects chase and remove poorly coordinated or slow flocks, and surviving flocks’ parameters are passed on with variation.\n\n22. **Evolving Bridge Structures Over a Gap**\n    Make a 3D Python simulation of many simple truss-like bridge designs constructed from cylinders and joints spanning a chasm, where gravity tests cause some to sag or break, successful bridges that support a rolling test mass are selected to spawn offspring designs with slightly mutated beam lengths and angles.\n\n23. **Mutating Particle Swarm Searching for a Target**\n    Make a 3D Python simulation of a swarm of small glowing particles exploring a 3D space to locate a hidden target region, where each particle’s movement rules and sensing radius mutate, particles that reach or stay near the target brighten and replicate, while wandering ones dim and vanish.\n\n24. **Selection of Signal Paths in a 3D Circuit Brain**\n    Make a 3D Python simulation of a brain-like tangle of nodes and semi-transparent wires where pulses of light travel along connections, successful paths that reach a reward node glow brighter and thicken, connections occasionally mutate (split, merge, or rewire), and rarely used paths fade and disappear.\n\n25. **Mutating Flagella Swimmers in a Viscous Fluid**\n    Make a 3D Python simulation of tiny capsule-shaped swimmers with flexible flagella moving through a light-colored viscous fluid volume, where flagella length, curvature, and beat frequency mutate after each cycle, swimmers that reach a nutrient-rich glowing zone are selected to replicate, leaving faint motion trails behind them."
+}

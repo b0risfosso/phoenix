@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Wound healing",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:45:42",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Microscopic Cut in Skin with Clot Formation",
+      "description": "A transparent layered “skin” slab opens with a narrow gap, red spherical blood cells spill out and collide, sticky platelets (yellow spheres) attach at the wound edge to form a growing plug, fibrin strands (thin cylinders) stretch and crosslink over time, while labels and a time meter track clot size and wound width.",
+      "seed": "Microscopic Cut in Skin with Clot Formation: A transparent layered “skin” slab opens with a narrow gap, red spherical blood cells spill out and collide, sticky platelets (yellow spheres) attach at the wound edge to form a growing plug, fibrin strands (thin cylinders) stretch and crosslink over time, while labels and a time meter track clot size and wound width."
+    },
+    {
+      "number": "2",
+      "title": "Collagen Fiber Scaffold Growth",
+      "description": "A shallow rectangular wound in a semi-transparent pink tissue block fills gradually with white collagen fibers (curved cylinders) that grow, branch, and weave into a dense 3D scaffold, with color changes from bright white to pale yellow as fibers mature and a label showing scaffold density.",
+      "seed": "Collagen Fiber Scaffold Growth: A shallow rectangular wound in a semi-transparent pink tissue block fills gradually with white collagen fibers (curved cylinders) that grow, branch, and weave into a dense 3D scaffold, with color changes from bright white to pale yellow as fibers mature and a label showing scaffold density."
+    },
+    {
+      "number": "3",
+      "title": "Immune Cell Swarm to a Wound Site",
+      "description": "A pale tissue plane with a central wound releases diffusing chemokine particles (tiny blue dots) that radiate outward, drawing in spherical immune cells (green) from the periphery that follow particle trails, slow down, attach to bacteria (red rods) near the wound, and then detach after “engulfing” them.",
+      "seed": "Immune Cell Swarm to a Wound Site: A pale tissue plane with a central wound releases diffusing chemokine particles (tiny blue dots) that radiate outward, drawing in spherical immune cells (green) from the periphery that follow particle trails, slow down, attach to bacteria (red rods) near the wound, and then detach after “engulfing” them."
+    },
+    {
+      "number": "4",
+      "title": "Wound Contraction by Myofibroblasts",
+      "description": "A circular wound in a flat tissue sheet is surrounded by ring-like myofibroblast cells (elongated capsules) that attach by thin tension lines (springs) to wound edges and then pull, causing the wound boundary to contract inward smoothly as spring lengths shorten and a graph object shows wound area decreasing.",
+      "seed": "Wound Contraction by Myofibroblasts: A circular wound in a flat tissue sheet is surrounded by ring-like myofibroblast cells (elongated capsules) that attach by thin tension lines (springs) to wound edges and then pull, causing the wound boundary to contract inward smoothly as spring lengths shorten and a graph object shows wound area decreasing."
+    },
+    {
+      "number": "5",
+      "title": "Epithelial Cell Migration Across a Gap",
+      "description": "A monolayer of squarish skin cells (boxes) lines both sides of a rectangular gap; edge cells flatten, change color, and begin to crawl across the gap, leaving short motion trails, colliding and packing into a new continuous layer while a label reports “closure percentage.”",
+      "seed": "Epithelial Cell Migration Across a Gap: A monolayer of squarish skin cells (boxes) lines both sides of a rectangular gap; edge cells flatten, change color, and begin to crawl across the gap, leaving short motion trails, colliding and packing into a new continuous layer while a label reports “closure percentage.”"
+    },
+    {
+      "number": "6",
+      "title": "Angiogenesis: New Blood Vessels Sprouting into a Wound",
+      "description": "Existing blood vessels (red tubes) at the base of a tissue block sprout thin branching capillaries (narrow red cylinders) that grow, curve toward a wound region emitting gradient particles, split and merge to form loops, then gradually thicken and darken as they stabilize inside the wound area.",
+      "seed": "Angiogenesis: New Blood Vessels Sprouting into a Wound: Existing blood vessels (red tubes) at the base of a tissue block sprout thin branching capillaries (narrow red cylinders) that grow, curve toward a wound region emitting gradient particles, split and merge to form loops, then gradually thicken and darken as they stabilize inside the wound area."
+    },
+    {
+      "number": "7",
+      "title": "Layered Stages of Wound Healing Timeline",
+      "description": "A 3D cross-section of skin is shown with a wound in the center; a slider or time variable advances through inflammatory, proliferative, and remodeling stages, changing the types and colors of particles (immune cells, fibroblasts, collagen, epithelium) moving, attaching, and fading in the wound zone.",
+      "seed": "Layered Stages of Wound Healing Timeline: A 3D cross-section of skin is shown with a wound in the center; a slider or time variable advances through inflammatory, proliferative, and remodeling stages, changing the types and colors of particles (immune cells, fibroblasts, collagen, epithelium) moving, attaching, and fading in the wound zone."
+    },
+    {
+      "number": "8",
+      "title": "Mechanical Stress and Wound Dehiscence",
+      "description": "A stitched wound on a flexible tissue strip is held together by thread segments (thin cylinders) that can stretch and break; external forces slowly pull on the tissue, causing the wound edges to move, stitches to tighten, some to snap, and the gap to widen, while stress is visualized as color intensity on the edges.",
+      "seed": "Mechanical Stress and Wound Dehiscence: A stitched wound on a flexible tissue strip is held together by thread segments (thin cylinders) that can stretch and break; external forces slowly pull on the tissue, causing the wound edges to move, stitches to tighten, some to snap, and the gap to widen, while stress is visualized as color intensity on the edges."
+    },
+    {
+      "number": "9",
+      "title": "Scab Formation and Shedding",
+      "description": "Blood droplets and fibrin strands accumulate at an open wound, darken over time into a rigid brownish “scab” dome (rough polyhedron) that stays stationary while underlying tissue repopulates and grows; later, the scab gradually cracks, curls, and detaches, falling off in pieces under gravity.",
+      "seed": "Scab Formation and Shedding: Blood droplets and fibrin strands accumulate at an open wound, darken over time into a rigid brownish “scab” dome (rough polyhedron) that stays stationary while underlying tissue repopulates and grows; later, the scab gradually cracks, curls, and detaches, falling off in pieces under gravity."
+    },
+    {
+      "number": "10",
+      "title": "Bacterial Infection vs. Clean Healing",
+      "description": "Two side-by-side wound patches show parallel simulations: one where bacteria (red rods) replicate, spread, and collide with immune cells, delaying closure and increasing pus-like particle clouds; and another clean wound where fewer immune cells appear and closure is smooth, with a label comparing healing times.",
+      "seed": "Bacterial Infection vs. Clean Healing: Two side-by-side wound patches show parallel simulations: one where bacteria (red rods) replicate, spread, and collide with immune cells, delaying closure and increasing pus-like particle clouds; and another clean wound where fewer immune cells appear and closure is smooth, with a label comparing healing times."
+    },
+    {
+      "number": "11",
+      "title": "Wound Healing Under Negative Pressure Therapy",
+      "description": "A wound cavity in tissue is covered by a transparent dressing dome connected to a small vacuum device; inside, exudate particles (yellow drops) move upward and are “sucked” into a tube, while tissue edges slowly lift and contract, with pressure level displayed and color-coded tension fields around the wound.",
+      "seed": "Wound Healing Under Negative Pressure Therapy: A wound cavity in tissue is covered by a transparent dressing dome connected to a small vacuum device; inside, exudate particles (yellow drops) move upward and are “sucked” into a tube, while tissue edges slowly lift and contract, with pressure level displayed and color-coded tension fields around the wound."
+    },
+    {
+      "number": "12",
+      "title": "Nerve Regrowth Through a Healed Wound",
+      "description": "Thin nerve fibers (glowing blue lines) approach a wound gap in tissue, pause, then begin to sprout growth cones that branch, wander, and eventually connect across the wound, forming a denser network whose brightness indicates conduction, with labels on newly reconnected pathways.",
+      "seed": "Nerve Regrowth Through a Healed Wound: Thin nerve fibers (glowing blue lines) approach a wound gap in tissue, pause, then begin to sprout growth cones that branch, wander, and eventually connect across the wound, forming a denser network whose brightness indicates conduction, with labels on newly reconnected pathways."
+    },
+    {
+      "number": "13",
+      "title": "Burn Wound Depth and Healing Layers",
+      "description": "A cylindrical skin column with different colored layers (epidermis, dermis, subcutis) shows a burn crater of varying depth; over time, cells from hair follicles and edges proliferate upward and inward, filling the crater with new tissue that transitions color as it matures, while a vertical scale marks depth and healing progress.",
+      "seed": "Burn Wound Depth and Healing Layers: A cylindrical skin column with different colored layers (epidermis, dermis, subcutis) shows a burn crater of varying depth; over time, cells from hair follicles and edges proliferate upward and inward, filling the crater with new tissue that transitions color as it matures, while a vertical scale marks depth and healing progress."
+    },
+    {
+      "number": "14",
+      "title": "Scar Tissue Remodeling and Fiber Reorientation",
+      "description": "A cube of scar tissue filled with randomly oriented collagen fibers (short cylinders) slowly transitions as fibers detach, rotate, and reattach, gradually aligning along a principal stress direction shown by an arrow, with fiber color shifting from red (disordered) to blue (aligned) as remodeling progresses.",
+      "seed": "Scar Tissue Remodeling and Fiber Reorientation: A cube of scar tissue filled with randomly oriented collagen fibers (short cylinders) slowly transitions as fibers detach, rotate, and reattach, gradually aligning along a principal stress direction shown by an arrow, with fiber color shifting from red (disordered) to blue (aligned) as remodeling progresses."
+    },
+    {
+      "number": "15",
+      "title": "Clot Dissolution and Vessel Reopening",
+      "description": "Inside a cylindrical blood vessel partially blocked by a clot (dense cluster of red and yellow spheres and strands), clot fragments detach and dissolve as enzymatic particles (purple) collide and break them apart, while blood flow particles (tiny red spheres) speed up and straighten as the lumen reopens.",
+      "seed": "Clot Dissolution and Vessel Reopening: Inside a cylindrical blood vessel partially blocked by a clot (dense cluster of red and yellow spheres and strands), clot fragments detach and dissolve as enzymatic particles (purple) collide and break them apart, while blood flow particles (tiny red spheres) speed up and straighten as the lumen reopens."
+    },
+    {
+      "number": "16",
+      "title": "Macroscopic Cut on a Limb with Bandage Application",
+      "description": "A simple arm-like cylinder with a visible skin cut receives falling bandage strips (white translucent rectangles) that wrap around, overlap, and attach to the limb; under the semi-transparent bandage, the wound edges gradually approximate and fade in color as healing progresses, with a timer label.",
+      "seed": "Macroscopic Cut on a Limb with Bandage Application: A simple arm-like cylinder with a visible skin cut receives falling bandage strips (white translucent rectangles) that wrap around, overlap, and attach to the limb; under the semi-transparent bandage, the wound edges gradually approximate and fade in color as healing progresses, with a timer label."
+    },
+    {
+      "number": "17",
+      "title": "Cell Proliferation Wave Filling a Wound",
+      "description": "A 3D grid of potential cell positions shows a central void representing a wound; surrounding cells (small spheres) divide, creating new spheres that appear, bounce slightly, and settle into empty grid points, forming a visible wavefront of growth that fills the void and slows as space runs out.",
+      "seed": "Cell Proliferation Wave Filling a Wound: A 3D grid of potential cell positions shows a central void representing a wound; surrounding cells (small spheres) divide, creating new spheres that appear, bounce slightly, and settle into empty grid points, forming a visible wavefront of growth that fills the void and slows as space runs out."
+    },
+    {
+      "number": "18",
+      "title": "Oxygen and Nutrient Diffusion in a Healing Wound",
+      "description": "A cross-section of tissue with capillaries at the base emits oxygen (blue particles) and nutrients (green particles) that diffuse and gradually reach the wound center; as concentration rises, local healing cells change from dull to bright color and increase their growth speed, with concentration mapped as a transparent color field.",
+      "seed": "Oxygen and Nutrient Diffusion in a Healing Wound: A cross-section of tissue with capillaries at the base emits oxygen (blue particles) and nutrients (green particles) that diffuse and gradually reach the wound center; as concentration rises, local healing cells change from dull to bright color and increase their growth speed, with concentration mapped as a transparent color field."
+    },
+    {
+      "number": "19",
+      "title": "Suture vs. Staples: Wound Edge Dynamics",
+      "description": "Two identical incisions are closed on adjacent tissue strips, one with sutures (curved threads through the tissue) and one with metallic staples (small U-shaped bars); as tissue deforms and moves, stitches stretch smoothly while staples cause more localized tension, visualized by colored stress halos and edge motion.",
+      "seed": "Suture vs. Staples: Wound Edge Dynamics: Two identical incisions are closed on adjacent tissue strips, one with sutures (curved threads through the tissue) and one with metallic staples (small U-shaped bars); as tissue deforms and moves, stitches stretch smoothly while staples cause more localized tension, visualized by colored stress halos and edge motion."
+    },
+    {
+      "number": "20",
+      "title": "Chronic Wound with Biofilm Layer",
+      "description": "A shallow open wound accumulates a slimy biofilm (semi-transparent green sheet) as bacteria attach, replicate, and merge into a continuous layer that resists immune cell penetration, while occasional treatments (pulses of particle “spray”) partially dissolve and thin the film, shown by changes in opacity and thickness.",
+      "seed": "Chronic Wound with Biofilm Layer: A shallow open wound accumulates a slimy biofilm (semi-transparent green sheet) as bacteria attach, replicate, and merge into a continuous layer that resists immune cell penetration, while occasional treatments (pulses of particle “spray”) partially dissolve and thin the film, shown by changes in opacity and thickness."
+    },
+    {
+      "number": "21",
+      "title": "Stem Cell Injection into a Wound Bed",
+      "description": "A cluster of injected stem cells (glowing white spheres) is released into a wound cavity; they drift, attach to the matrix, then some differentiate into different cell types (changing color and shape) that begin to form new layers, with labels indicating cell fate percentages and trajectories leaving faint trails.",
+      "seed": "Stem Cell Injection into a Wound Bed: A cluster of injected stem cells (glowing white spheres) is released into a wound cavity; they drift, attach to the matrix, then some differentiate into different cell types (changing color and shape) that begin to form new layers, with labels indicating cell fate percentages and trajectories leaving faint trails."
+    },
+    {
+      "number": "22",
+      "title": "Tension Lines and Hypertrophic Scar Formation",
+      "description": "A wound on a curved surface (like a shoulder) is oriented relative to underlying tension lines shown as colored stripes; as the wound heals, if it crosses tension lines, scar tissue grows thicker and protrudes (3D raised shape) along those directions, visually contrasting with a second wound aligned with tension that scars less.",
+      "seed": "Tension Lines and Hypertrophic Scar Formation: A wound on a curved surface (like a shoulder) is oriented relative to underlying tension lines shown as colored stripes; as the wound heals, if it crosses tension lines, scar tissue grows thicker and protrudes (3D raised shape) along those directions, visually contrasting with a second wound aligned with tension that scars less."
+    },
+    {
+      "number": "23",
+      "title": "3D Island of Regenerating Skin in a Large Wound",
+      "description": "In a large planar wound, multiple “islands” of regenerating epithelium start as small discs that grow radially, collide, and merge into a continuous sheet, with their edges highlighted and an overhead transparent grid tracking how islands expand and coalesce over time.",
+      "seed": "3D Island of Regenerating Skin in a Large Wound: In a large planar wound, multiple “islands” of regenerating epithelium start as small discs that grow radially, collide, and merge into a continuous sheet, with their edges highlighted and an overhead transparent grid tracking how islands expand and coalesce over time."
+    },
+    {
+      "number": "24",
+      "title": "Wound Healing Race: Different Conditions",
+      "description": "Several small wounds in parallel rows on the same tissue surface heal under different conditions (normal, diabetic, infected, well-oxygenated), each row showing varied speeds of cell migration, vessel growth, and scar size, with a leaderboard-style label ranking closure times.",
+      "seed": "Wound Healing Race: Different Conditions: Several small wounds in parallel rows on the same tissue surface heal under different conditions (normal, diabetic, infected, well-oxygenated), each row showing varied speeds of cell migration, vessel growth, and scar size, with a leaderboard-style label ranking closure times."
+    },
+    {
+      "number": "25",
+      "title": "Symbolic City-Wound Repair",
+      "description": "A top-down 3D “city” map shows a damaged central plaza (the wound) where road segments (vessels) and buildings (tissue) are destroyed; repair vehicles (cells) drive in along surviving roads, lay new road segments, rebuild blocks, and gradually close the empty area, with color-coded phases for cleanup, rebuilding, and smoothing.",
+      "seed": "Symbolic City-Wound Repair: A top-down 3D “city” map shows a damaged central plaza (the wound) where road segments (vessels) and buildings (tissue) are destroyed; repair vehicles (cells) drive in along surviving roads, lay new road segments, rebuild blocks, and gradually close the empty area, with color-coded phases for cleanup, rebuilding, and smoothing."
+    }
+  ],
+  "raw_output": "Here are strong **Wound healing simulation inputs** you can plug into your prompt:\n\n1. **Microscopic Cut in Skin with Clot Formation**\n   A transparent layered “skin” slab opens with a narrow gap, red spherical blood cells spill out and collide, sticky platelets (yellow spheres) attach at the wound edge to form a growing plug, fibrin strands (thin cylinders) stretch and crosslink over time, while labels and a time meter track clot size and wound width.\n\n2. **Collagen Fiber Scaffold Growth**\n   A shallow rectangular wound in a semi-transparent pink tissue block fills gradually with white collagen fibers (curved cylinders) that grow, branch, and weave into a dense 3D scaffold, with color changes from bright white to pale yellow as fibers mature and a label showing scaffold density.\n\n3. **Immune Cell Swarm to a Wound Site**\n   A pale tissue plane with a central wound releases diffusing chemokine particles (tiny blue dots) that radiate outward, drawing in spherical immune cells (green) from the periphery that follow particle trails, slow down, attach to bacteria (red rods) near the wound, and then detach after “engulfing” them.\n\n4. **Wound Contraction by Myofibroblasts**\n   A circular wound in a flat tissue sheet is surrounded by ring-like myofibroblast cells (elongated capsules) that attach by thin tension lines (springs) to wound edges and then pull, causing the wound boundary to contract inward smoothly as spring lengths shorten and a graph object shows wound area decreasing.\n\n5. **Epithelial Cell Migration Across a Gap**\n   A monolayer of squarish skin cells (boxes) lines both sides of a rectangular gap; edge cells flatten, change color, and begin to crawl across the gap, leaving short motion trails, colliding and packing into a new continuous layer while a label reports “closure percentage.”\n\n6. **Angiogenesis: New Blood Vessels Sprouting into a Wound**\n   Existing blood vessels (red tubes) at the base of a tissue block sprout thin branching capillaries (narrow red cylinders) that grow, curve toward a wound region emitting gradient particles, split and merge to form loops, then gradually thicken and darken as they stabilize inside the wound area.\n\n7. **Layered Stages of Wound Healing Timeline**\n   A 3D cross-section of skin is shown with a wound in the center; a slider or time variable advances through inflammatory, proliferative, and remodeling stages, changing the types and colors of particles (immune cells, fibroblasts, collagen, epithelium) moving, attaching, and fading in the wound zone.\n\n8. **Mechanical Stress and Wound Dehiscence**\n   A stitched wound on a flexible tissue strip is held together by thread segments (thin cylinders) that can stretch and break; external forces slowly pull on the tissue, causing the wound edges to move, stitches to tighten, some to snap, and the gap to widen, while stress is visualized as color intensity on the edges.\n\n9. **Scab Formation and Shedding**\n   Blood droplets and fibrin strands accumulate at an open wound, darken over time into a rigid brownish “scab” dome (rough polyhedron) that stays stationary while underlying tissue repopulates and grows; later, the scab gradually cracks, curls, and detaches, falling off in pieces under gravity.\n\n10. **Bacterial Infection vs. Clean Healing**\n   Two side-by-side wound patches show parallel simulations: one where bacteria (red rods) replicate, spread, and collide with immune cells, delaying closure and increasing pus-like particle clouds; and another clean wound where fewer immune cells appear and closure is smooth, with a label comparing healing times.\n\n11. **Wound Healing Under Negative Pressure Therapy**\n   A wound cavity in tissue is covered by a transparent dressing dome connected to a small vacuum device; inside, exudate particles (yellow drops) move upward and are “sucked” into a tube, while tissue edges slowly lift and contract, with pressure level displayed and color-coded tension fields around the wound.\n\n12. **Nerve Regrowth Through a Healed Wound**\n   Thin nerve fibers (glowing blue lines) approach a wound gap in tissue, pause, then begin to sprout growth cones that branch, wander, and eventually connect across the wound, forming a denser network whose brightness indicates conduction, with labels on newly reconnected pathways.\n\n13. **Burn Wound Depth and Healing Layers**\n   A cylindrical skin column with different colored layers (epidermis, dermis, subcutis) shows a burn crater of varying depth; over time, cells from hair follicles and edges proliferate upward and inward, filling the crater with new tissue that transitions color as it matures, while a vertical scale marks depth and healing progress.\n\n14. **Scar Tissue Remodeling and Fiber Reorientation**\n   A cube of scar tissue filled with randomly oriented collagen fibers (short cylinders) slowly transitions as fibers detach, rotate, and reattach, gradually aligning along a principal stress direction shown by an arrow, with fiber color shifting from red (disordered) to blue (aligned) as remodeling progresses.\n\n15. **Clot Dissolution and Vessel Reopening**\n   Inside a cylindrical blood vessel partially blocked by a clot (dense cluster of red and yellow spheres and strands), clot fragments detach and dissolve as enzymatic particles (purple) collide and break them apart, while blood flow particles (tiny red spheres) speed up and straighten as the lumen reopens.\n\n16. **Macroscopic Cut on a Limb with Bandage Application**\n   A simple arm-like cylinder with a visible skin cut receives falling bandage strips (white translucent rectangles) that wrap around, overlap, and attach to the limb; under the semi-transparent bandage, the wound edges gradually approximate and fade in color as healing progresses, with a timer label.\n\n17. **Cell Proliferation Wave Filling a Wound**\n   A 3D grid of potential cell positions shows a central void representing a wound; surrounding cells (small spheres) divide, creating new spheres that appear, bounce slightly, and settle into empty grid points, forming a visible wavefront of growth that fills the void and slows as space runs out.\n\n18. **Oxygen and Nutrient Diffusion in a Healing Wound**\n   A cross-section of tissue with capillaries at the base emits oxygen (blue particles) and nutrients (green particles) that diffuse and gradually reach the wound center; as concentration rises, local healing cells change from dull to bright color and increase their growth speed, with concentration mapped as a transparent color field.\n\n19. **Suture vs. Staples: Wound Edge Dynamics**\n   Two identical incisions are closed on adjacent tissue strips, one with sutures (curved threads through the tissue) and one with metallic staples (small U-shaped bars); as tissue deforms and moves, stitches stretch smoothly while staples cause more localized tension, visualized by colored stress halos and edge motion.\n\n20. **Chronic Wound with Biofilm Layer**\n   A shallow open wound accumulates a slimy biofilm (semi-transparent green sheet) as bacteria attach, replicate, and merge into a continuous layer that resists immune cell penetration, while occasional treatments (pulses of particle “spray”) partially dissolve and thin the film, shown by changes in opacity and thickness.\n\n21. **Stem Cell Injection into a Wound Bed**\n   A cluster of injected stem cells (glowing white spheres) is released into a wound cavity; they drift, attach to the matrix, then some differentiate into different cell types (changing color and shape) that begin to form new layers, with labels indicating cell fate percentages and trajectories leaving faint trails.\n\n22. **Tension Lines and Hypertrophic Scar Formation**\n   A wound on a curved surface (like a shoulder) is oriented relative to underlying tension lines shown as colored stripes; as the wound heals, if it crosses tension lines, scar tissue grows thicker and protrudes (3D raised shape) along those directions, visually contrasting with a second wound aligned with tension that scars less.\n\n23. **3D Island of Regenerating Skin in a Large Wound**\n   In a large planar wound, multiple “islands” of regenerating epithelium start as small discs that grow radially, collide, and merge into a continuous sheet, with their edges highlighted and an overhead transparent grid tracking how islands expand and coalesce over time.\n\n24. **Wound Healing Race: Different Conditions**\n   Several small wounds in parallel rows on the same tissue surface heal under different conditions (normal, diabetic, infected, well-oxygenated), each row showing varied speeds of cell migration, vessel growth, and scar size, with a leaderboard-style label ranking closure times.\n\n25. **Symbolic City-Wound Repair**\n   A top-down 3D “city” map shows a damaged central plaza (the wound) where road segments (vessels) and buildings (tissue) are destroyed; repair vehicles (cells) drive in along surviving roads, lay new road segments, rebuild blocks, and gradually close the empty area, with color-coded phases for cleanup, rebuilding, and smoothing."
+}

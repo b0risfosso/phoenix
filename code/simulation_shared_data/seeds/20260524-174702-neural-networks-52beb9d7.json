@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Neural networks",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:47:02",
+  "entries": [
+    {
+      "number": "1",
+      "title": "3D Neuron Forest with Firing Waves",
+      "description": "A floating 3D forest of neuron-like nodes (spheres) connected by translucent tubes where colored pulses travel along connections, synapses brighten on activation, connections strengthen (thicken) or weaken (fade) based on repeated pulses, and camera-hovered neurons show labels and faint particle sprays when they fire.",
+      "seed": "3D Neuron Forest with Firing Waves: A floating 3D forest of neuron-like nodes (spheres) connected by translucent tubes where colored pulses travel along connections, synapses brighten on activation, connections strengthen (thicken) or weaken (fade) based on repeated pulses, and camera-hovered neurons show labels and faint particle sprays when they fire."
+    },
+    {
+      "number": "2",
+      "title": "Training a Neural Net as Rolling Marble Signals",
+      "description": "Multiple layers of pegboards in 3D with marbles (signals) dropping from the top layer and splitting probabilistically along colored ramps (weights) whose tilt and thickness adjust over time, with trails showing marble paths and a side meter indicating changing accuracy.",
+      "seed": "Training a Neural Net as Rolling Marble Signals: Multiple layers of pegboards in 3D with marbles (signals) dropping from the top layer and splitting probabilistically along colored ramps (weights) whose tilt and thickness adjust over time, with trails showing marble paths and a side meter indicating changing accuracy."
+    },
+    {
+      "number": "3",
+      "title": "Convolutional Filter Sweep Over a 3D Image Block",
+      "description": "A semi-transparent 3D voxel cube representing an image where a smaller filter cube slides, rotates, and scans across it, sampling colors and projecting activated voxels as glowing spheres in the next layer, with connection lines that pulse when activations exceed a threshold.",
+      "seed": "Convolutional Filter Sweep Over a 3D Image Block: A semi-transparent 3D voxel cube representing an image where a smaller filter cube slides, rotates, and scans across it, sampling colors and projecting activated voxels as glowing spheres in the next layer, with connection lines that pulse when activations exceed a threshold."
+    },
+    {
+      "number": "4",
+      "title": "Backpropagation as Flowing Error Smoke",
+      "description": "A layered network of node-spheres in 3D where forward activations are bright particles flowing left-to-right, and backpropagated error appears as colored smoke or particle streams flowing right-to-left, shrinking or thickening edge-cylinders according to weight updates.",
+      "seed": "Backpropagation as Flowing Error Smoke: A layered network of node-spheres in 3D where forward activations are bright particles flowing left-to-right, and backpropagated error appears as colored smoke or particle streams flowing right-to-left, shrinking or thickening edge-cylinders according to weight updates."
+    },
+    {
+      "number": "5",
+      "title": "Self-Organizing Neural Grid on a Curved Surface",
+      "description": "A deformable, semi-transparent 3D sheet populated with small node-spheres that slide, cluster, and repel each other as they learn, with colored regions spreading and condensing over the surface and trails showing the shifting positions of representative nodes.",
+      "seed": "Self-Organizing Neural Grid on a Curved Surface: A deformable, semi-transparent 3D sheet populated with small node-spheres that slide, cluster, and repel each other as they learn, with colored regions spreading and condensing over the surface and trails showing the shifting positions of representative nodes."
+    },
+    {
+      "number": "6",
+      "title": "Recurrent Neural Network as a Time-Looping Ring",
+      "description": "A ring of neuron nodes forming a loop in 3D where inputs enter as pulses, circulate around the ring, and leak into an output tower, with edges that periodically wrap back onto earlier nodes, glowing more intensely as information reverberates and gradually decays.",
+      "seed": "Recurrent Neural Network as a Time-Looping Ring: A ring of neuron nodes forming a loop in 3D where inputs enter as pulses, circulate around the ring, and leak into an output tower, with edges that periodically wrap back onto earlier nodes, glowing more intensely as information reverberates and gradually decays."
+    },
+    {
+      "number": "7",
+      "title": "Neural Network Growing Like a Crystal Tree",
+      "description": "A central neuron seed that sprouts branching connections and new nodes in 3D space as it “learns,” with new branches emerging, splitting, and sometimes retracting, while colors encode activation frequency and little shards detach and dissolve to represent pruning.",
+      "seed": "Neural Network Growing Like a Crystal Tree: A central neuron seed that sprouts branching connections and new nodes in 3D space as it “learns,” with new branches emerging, splitting, and sometimes retracting, while colors encode activation frequency and little shards detach and dissolve to represent pruning."
+    },
+    {
+      "number": "8",
+      "title": "Attention Mechanism as Moving Spotlight Beams",
+      "description": "Two parallel 3D rows of word-embedding spheres where semi-transparent cones (attention beams) extend dynamically between them, brightening and thickening toward important pairs, with beams that smoothly reallocate and fade as a sentence scrolls through the system.",
+      "seed": "Attention Mechanism as Moving Spotlight Beams: Two parallel 3D rows of word-embedding spheres where semi-transparent cones (attention beams) extend dynamically between them, brightening and thickening toward important pairs, with beams that smoothly reallocate and fade as a sentence scrolls through the system."
+    },
+    {
+      "number": "9",
+      "title": "Competing Neural Networks Playing Tug-of-War",
+      "description": "Two mirrored networks on opposite sides of a shared 3D space, each sending colored particles toward a central decision cube, with their connection strengths visually pulling or pushing the cube’s position as they alternately gain or lose influence during training.",
+      "seed": "Competing Neural Networks Playing Tug-of-War: Two mirrored networks on opposite sides of a shared 3D space, each sending colored particles toward a central decision cube, with their connection strengths visually pulling or pushing the cube’s position as they alternately gain or lose influence during training."
+    },
+    {
+      "number": "10",
+      "title": "Adversarial Example Swirl Through Latent Space",
+      "description": "A cloud of small semi-transparent spheres representing data points in a 3D latent space, where one point slowly morphs under an adversarial process, leaving a curved trail as it spirals across decision boundaries, turning from blue to red as it flips labels.",
+      "seed": "Adversarial Example Swirl Through Latent Space: A cloud of small semi-transparent spheres representing data points in a 3D latent space, where one point slowly morphs under an adversarial process, leaving a curved trail as it spirals across decision boundaries, turning from blue to red as it flips labels."
+    },
+    {
+      "number": "11",
+      "title": "Neural Network as a 3D City of Signal Traffic",
+      "description": "Skyscraper-like stacks of neurons connected by elevated highways where glowing cars (signals) flow, merge, and split, with traffic density changing as inputs vary, intersections that briefly flash on congestion, and a mini-map panel showing throughput as bars.",
+      "seed": "Neural Network as a 3D City of Signal Traffic: Skyscraper-like stacks of neurons connected by elevated highways where glowing cars (signals) flow, merge, and split, with traffic density changing as inputs vary, intersections that briefly flash on congestion, and a mini-map panel showing throughput as bars."
+    },
+    {
+      "number": "12",
+      "title": "Spiking Neural Network with Time-Stamped Sparks",
+      "description": "A 3D lattice of neurons that periodically emit short-lived sparks with time-coded colors, sending sharp particles along edges that cause downstream neurons to spike only when multiple incoming sparks coincide, leaving thin fading trails to show temporal patterns.",
+      "seed": "Spiking Neural Network with Time-Stamped Sparks: A 3D lattice of neurons that periodically emit short-lived sparks with time-coded colors, sending sharp particles along edges that cause downstream neurons to spike only when multiple incoming sparks coincide, leaving thin fading trails to show temporal patterns."
+    },
+    {
+      "number": "13",
+      "title": "Neural Network Pruning as Falling Branches",
+      "description": "A dense 3D web of nodes and edges where less-used connections gradually thin, crack, and then detach as small fragments that fall and dissolve, while heavily used paths grow thicker and more brightly colored, with a counter showing overall sparsity over time.",
+      "seed": "Neural Network Pruning as Falling Branches: A dense 3D web of nodes and edges where less-used connections gradually thin, crack, and then detach as small fragments that fall and dissolve, while heavily used paths grow thicker and more brightly colored, with a counter showing overall sparsity over time."
+    },
+    {
+      "number": "14",
+      "title": "Neural Style Transfer as Color Flow Between Volumes",
+      "description": "Two translucent 3D image blocks (content and style) feed into a central transformation volume where swirling colored particles representing style features wrap around and infiltrate a gray content volume, which gradually takes on new textures and colors layer by layer.",
+      "seed": "Neural Style Transfer as Color Flow Between Volumes: Two translucent 3D image blocks (content and style) feed into a central transformation volume where swirling colored particles representing style features wrap around and infiltrate a gray content volume, which gradually takes on new textures and colors layer by layer."
+    },
+    {
+      "number": "15",
+      "title": "Neural Network Learning to Balance a 3D Pole",
+      "description": "A cart-on-rail system beneath a hovering neural net; the cart and a vertical pole move and wobble in 3D, while the network above sends control pulses (colored beams) that adjust the cart’s motion, with connection colors shifting as the net learns to keep the pole upright.",
+      "seed": "Neural Network Learning to Balance a 3D Pole: A cart-on-rail system beneath a hovering neural net; the cart and a vertical pole move and wobble in 3D, while the network above sends control pulses (colored beams) that adjust the cart’s motion, with connection colors shifting as the net learns to keep the pole upright."
+    },
+    {
+      "number": "16",
+      "title": "Neural Network as a 3D Garden of Activations",
+      "description": "A flat soil plane with neurons represented as plants that grow taller and change flower colors based on activation patterns, with water-like particles raining from an “input cloud” and nutrients (weights) flowing through transparent root tubes between plants.",
+      "seed": "Neural Network as a 3D Garden of Activations: A flat soil plane with neurons represented as plants that grow taller and change flower colors based on activation patterns, with water-like particles raining from an “input cloud” and nutrients (weights) flowing through transparent root tubes between plants."
+    },
+    {
+      "number": "17",
+      "title": "Neural Circuit Mapping Inside a Transparent Brain",
+      "description": "A semi-transparent brain-shaped shell containing a subset of neurons as glowing spheres and their main pathways as bright tubes, where input stimuli hit different surface regions and activation waves propagate inside, lighting up labeled functional clusters.",
+      "seed": "Neural Circuit Mapping Inside a Transparent Brain: A semi-transparent brain-shaped shell containing a subset of neurons as glowing spheres and their main pathways as bright tubes, where input stimuli hit different surface regions and activation waves propagate inside, lighting up labeled functional clusters."
+    },
+    {
+      "number": "18",
+      "title": "Neural Network as Orbital Satellite Constellation",
+      "description": "Concentric spherical shells of orbiting neuron-satellites connected by thin beams, where input signals launch from the core as particle bursts that hop from orbit to orbit, with satellites adjusting their orbital height and beam thickness as the network trains.",
+      "seed": "Neural Network as Orbital Satellite Constellation: Concentric spherical shells of orbiting neuron-satellites connected by thin beams, where input signals launch from the core as particle bursts that hop from orbit to orbit, with satellites adjusting their orbital height and beam thickness as the network trains."
+    },
+    {
+      "number": "19",
+      "title": "Neural Network Debugger with Colliding Error Blobs",
+      "description": "Each layer is a transparent panel; activations are small spheres passing through, while oversized semi-transparent “error blobs” move backwards, colliding and merging as gradients combine, with their size and color intensity encoding gradient magnitude.",
+      "seed": "Neural Network Debugger with Colliding Error Blobs: Each layer is a transparent panel; activations are small spheres passing through, while oversized semi-transparent “error blobs” move backwards, colliding and merging as gradients combine, with their size and color intensity encoding gradient magnitude."
+    },
+    {
+      "number": "20",
+      "title": "Autoencoder Tunnel Compressing and Rebuilding Shapes",
+      "description": "3D shapes (e.g., letters or digits made of point clouds) float into an encoder funnel whose layers progressively squeeze and rearrange the points into a small latent orb, then pass through a decoder that re-expands them, showing side-by-side original vs reconstructed forms.",
+      "seed": "Autoencoder Tunnel Compressing and Rebuilding Shapes: 3D shapes (e.g., letters or digits made of point clouds) float into an encoder funnel whose layers progressively squeeze and rearrange the points into a small latent orb, then pass through a decoder that re-expands them, showing side-by-side original vs reconstructed forms."
+    },
+    {
+      "number": "21",
+      "title": "Neural Network Routing Packets in a 3D Network Grid",
+      "description": "A 3D grid of routers (neurons) where packets (small glowing cubes) choose paths based on learned weights that thicken or shrink, with collisions causing rerouting, and a translucent overlay highlighting the most used corridors as they emerge.",
+      "seed": "Neural Network Routing Packets in a 3D Network Grid: A 3D grid of routers (neurons) where packets (small glowing cubes) choose paths based on learned weights that thicken or shrink, with collisions causing rerouting, and a translucent overlay highlighting the most used corridors as they emerge."
+    },
+    {
+      "number": "22",
+      "title": "Neural Network as a Flocking School of Fish",
+      "description": "Fish-like agents in 3D water whose steering is controlled by an overlaid neural net; as the net learns, fish trajectories become more coherent, with each fish leaving a faint trail and connections between steering neurons pulsing when they influence the collective turn.",
+      "seed": "Neural Network as a Flocking School of Fish: Fish-like agents in 3D water whose steering is controlled by an overlaid neural net; as the net learns, fish trajectories become more coherent, with each fish leaving a faint trail and connections between steering neurons pulsing when they influence the collective turn."
+    },
+    {
+      "number": "23",
+      "title": "Neural Network Growing Over a 3D Maze",
+      "description": "A 3D maze structure with a neural net perched above whose connections extend downward as probing tendrils that attach to junctions; as the agent learns paths, some tendrils retract while successful ones thicken and glow, tracing optimal routes through the maze.",
+      "seed": "Neural Network Growing Over a 3D Maze: A 3D maze structure with a neural net perched above whose connections extend downward as probing tendrils that attach to junctions; as the agent learns paths, some tendrils retract while successful ones thicken and glow, tracing optimal routes through the maze."
+    },
+    {
+      "number": "24",
+      "title": "Neural Network Memory Palace with Floating Keys",
+      "description": "A 3D hall of floating memory tiles (keys and values) that a controller network visits with beams of attention; tiles gently orbit and occasionally swap positions, while read/write operations cause tiles to pulse, duplicate, or fade as memory is updated.",
+      "seed": "Neural Network Memory Palace with Floating Keys: A 3D hall of floating memory tiles (keys and values) that a controller network visits with beams of attention; tiles gently orbit and occasionally swap positions, while read/write operations cause tiles to pulse, duplicate, or fade as memory is updated."
+    },
+    {
+      "number": "25",
+      "title": "Neural Network Ensemble Voting on a Rotating Object",
+      "description": "Several small neural nets arranged in a circle around a rotating 3D object; each net projects its colored “vote” beam onto a central decision sphere whose surface color blends their opinions, and as training proceeds, outlier nets’ beams dim and their structures shrink.",
+      "seed": "Neural Network Ensemble Voting on a Rotating Object: Several small neural nets arranged in a circle around a rotating 3D object; each net projects its colored “vote” beam onto a central decision sphere whose surface color blends their opinions, and as training proceeds, outlier nets’ beams dim and their structures shrink."
+    }
+  ],
+  "raw_output": "Here are strong **Neural networks simulation inputs** you can plug into your prompt:\n\n1. **3D Neuron Forest with Firing Waves**  \n   A floating 3D forest of neuron-like nodes (spheres) connected by translucent tubes where colored pulses travel along connections, synapses brighten on activation, connections strengthen (thicken) or weaken (fade) based on repeated pulses, and camera-hovered neurons show labels and faint particle sprays when they fire.\n\n2. **Training a Neural Net as Rolling Marble Signals**  \n   Multiple layers of pegboards in 3D with marbles (signals) dropping from the top layer and splitting probabilistically along colored ramps (weights) whose tilt and thickness adjust over time, with trails showing marble paths and a side meter indicating changing accuracy.\n\n3. **Convolutional Filter Sweep Over a 3D Image Block**  \n   A semi-transparent 3D voxel cube representing an image where a smaller filter cube slides, rotates, and scans across it, sampling colors and projecting activated voxels as glowing spheres in the next layer, with connection lines that pulse when activations exceed a threshold.\n\n4. **Backpropagation as Flowing Error Smoke**  \n   A layered network of node-spheres in 3D where forward activations are bright particles flowing left-to-right, and backpropagated error appears as colored smoke or particle streams flowing right-to-left, shrinking or thickening edge-cylinders according to weight updates.\n\n5. **Self-Organizing Neural Grid on a Curved Surface**  \n   A deformable, semi-transparent 3D sheet populated with small node-spheres that slide, cluster, and repel each other as they learn, with colored regions spreading and condensing over the surface and trails showing the shifting positions of representative nodes.\n\n6. **Recurrent Neural Network as a Time-Looping Ring**  \n   A ring of neuron nodes forming a loop in 3D where inputs enter as pulses, circulate around the ring, and leak into an output tower, with edges that periodically wrap back onto earlier nodes, glowing more intensely as information reverberates and gradually decays.\n\n7. **Neural Network Growing Like a Crystal Tree**  \n   A central neuron seed that sprouts branching connections and new nodes in 3D space as it “learns,” with new branches emerging, splitting, and sometimes retracting, while colors encode activation frequency and little shards detach and dissolve to represent pruning.\n\n8. **Attention Mechanism as Moving Spotlight Beams**  \n   Two parallel 3D rows of word-embedding spheres where semi-transparent cones (attention beams) extend dynamically between them, brightening and thickening toward important pairs, with beams that smoothly reallocate and fade as a sentence scrolls through the system.\n\n9. **Competing Neural Networks Playing Tug-of-War**  \n   Two mirrored networks on opposite sides of a shared 3D space, each sending colored particles toward a central decision cube, with their connection strengths visually pulling or pushing the cube’s position as they alternately gain or lose influence during training.\n\n10. **Adversarial Example Swirl Through Latent Space**  \n    A cloud of small semi-transparent spheres representing data points in a 3D latent space, where one point slowly morphs under an adversarial process, leaving a curved trail as it spirals across decision boundaries, turning from blue to red as it flips labels.\n\n11. **Neural Network as a 3D City of Signal Traffic**  \n    Skyscraper-like stacks of neurons connected by elevated highways where glowing cars (signals) flow, merge, and split, with traffic density changing as inputs vary, intersections that briefly flash on congestion, and a mini-map panel showing throughput as bars.\n\n12. **Spiking Neural Network with Time-Stamped Sparks**  \n    A 3D lattice of neurons that periodically emit short-lived sparks with time-coded colors, sending sharp particles along edges that cause downstream neurons to spike only when multiple incoming sparks coincide, leaving thin fading trails to show temporal patterns.\n\n13. **Neural Network Pruning as Falling Branches**  \n    A dense 3D web of nodes and edges where less-used connections gradually thin, crack, and then detach as small fragments that fall and dissolve, while heavily used paths grow thicker and more brightly colored, with a counter showing overall sparsity over time.\n\n14. **Neural Style Transfer as Color Flow Between Volumes**  \n    Two translucent 3D image blocks (content and style) feed into a central transformation volume where swirling colored particles representing style features wrap around and infiltrate a gray content volume, which gradually takes on new textures and colors layer by layer.\n\n15. **Neural Network Learning to Balance a 3D Pole**  \n    A cart-on-rail system beneath a hovering neural net; the cart and a vertical pole move and wobble in 3D, while the network above sends control pulses (colored beams) that adjust the cart’s motion, with connection colors shifting as the net learns to keep the pole upright.\n\n16. **Neural Network as a 3D Garden of Activations**  \n    A flat soil plane with neurons represented as plants that grow taller and change flower colors based on activation patterns, with water-like particles raining from an “input cloud” and nutrients (weights) flowing through transparent root tubes between plants.\n\n17. **Neural Circuit Mapping Inside a Transparent Brain**  \n    A semi-transparent brain-shaped shell containing a subset of neurons as glowing spheres and their main pathways as bright tubes, where input stimuli hit different surface regions and activation waves propagate inside, lighting up labeled functional clusters.\n\n18. **Neural Network as Orbital Satellite Constellation**  \n    Concentric spherical shells of orbiting neuron-satellites connected by thin beams, where input signals launch from the core as particle bursts that hop from orbit to orbit, with satellites adjusting their orbital height and beam thickness as the network trains.\n\n19. **Neural Network Debugger with Colliding Error Blobs**  \n    Each layer is a transparent panel; activations are small spheres passing through, while oversized semi-transparent “error blobs” move backwards, colliding and merging as gradients combine, with their size and color intensity encoding gradient magnitude.\n\n20. **Autoencoder Tunnel Compressing and Rebuilding Shapes**  \n    3D shapes (e.g., letters or digits made of point clouds) float into an encoder funnel whose layers progressively squeeze and rearrange the points into a small latent orb, then pass through a decoder that re-expands them, showing side-by-side original vs reconstructed forms.\n\n21. **Neural Network Routing Packets in a 3D Network Grid**  \n    A 3D grid of routers (neurons) where packets (small glowing cubes) choose paths based on learned weights that thicken or shrink, with collisions causing rerouting, and a translucent overlay highlighting the most used corridors as they emerge.\n\n22. **Neural Network as a Flocking School of Fish**  \n    Fish-like agents in 3D water whose steering is controlled by an overlaid neural net; as the net learns, fish trajectories become more coherent, with each fish leaving a faint trail and connections between steering neurons pulsing when they influence the collective turn.\n\n23. **Neural Network Growing Over a 3D Maze**  \n    A 3D maze structure with a neural net perched above whose connections extend downward as probing tendrils that attach to junctions; as the agent learns paths, some tendrils retract while successful ones thicken and glow, tracing optimal routes through the maze.\n\n24. **Neural Network Memory Palace with Floating Keys**  \n    A 3D hall of floating memory tiles (keys and values) that a controller network visits with beams of attention; tiles gently orbit and occasionally swap positions, while read/write operations cause tiles to pulse, duplicate, or fade as memory is updated.\n\n25. **Neural Network Ensemble Voting on a Rotating Object**  \n    Several small neural nets arranged in a circle around a rotating 3D object; each net projects its colored “vote” beam onto a central decision sphere whose surface color blends their opinions, and as training proceeds, outlier nets’ beams dim and their structures shrink."
+}

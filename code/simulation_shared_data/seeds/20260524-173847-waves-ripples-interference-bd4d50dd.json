@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Waves, ripples, interference",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:38:47",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Dual Circular Water Ripples in a Shallow Pool",
+      "description": "Simulate a shallow circular pool as a slightly transparent blue plane where two small spheres periodically tap the surface to generate expanding circular ripples that overlap, interfere, and create color-coded constructive (bright blue rings) and destructive (pale rings) interference patterns.",
+      "seed": "Dual Circular Water Ripples in a Shallow Pool: Simulate a shallow circular pool as a slightly transparent blue plane where two small spheres periodically tap the surface to generate expanding circular ripples that overlap, interfere, and create color-coded constructive (bright blue rings) and destructive (pale rings) interference patterns."
+    },
+    {
+      "number": "2",
+      "title": "3D Standing Wave on a Vibrating String",
+      "description": "Model a taut horizontal string as a series of connected small spheres that oscillate up and down in a standing-wave pattern with adjustable frequency, showing nodes (marked with red labels) and antinodes (blue labels) and leaving faint motion trails to visualize amplitude.",
+      "seed": "3D Standing Wave on a Vibrating String: Model a taut horizontal string as a series of connected small spheres that oscillate up and down in a standing-wave pattern with adjustable frequency, showing nodes (marked with red labels) and antinodes (blue labels) and leaving faint motion trails to visualize amplitude."
+    },
+    {
+      "number": "3",
+      "title": "Wave Interference Through a Double-Slit Wall",
+      "description": "Create a flat wall with two narrow vertical slits and a point source sphere emitting pulsed wavefronts that pass through the slits as expanding semi-transparent rings, producing an interference pattern on a distant screen that lights up with colored spots where waves constructively interfere.",
+      "seed": "Wave Interference Through a Double-Slit Wall: Create a flat wall with two narrow vertical slits and a point source sphere emitting pulsed wavefronts that pass through the slits as expanding semi-transparent rings, producing an interference pattern on a distant screen that lights up with colored spots where waves constructively interfere."
+    },
+    {
+      "number": "4",
+      "title": "Droplet Impacts Creating Overlapping Ripples on a Pond",
+      "description": "Represent a light-blue pond plane where multiple small droplets fall from above at random positions, each impact generating circular surface ripples that expand, overlap, and fade, with interference zones briefly glowing white before dissipating.",
+      "seed": "Droplet Impacts Creating Overlapping Ripples on a Pond: Represent a light-blue pond plane where multiple small droplets fall from above at random positions, each impact generating circular surface ripples that expand, overlap, and fade, with interference zones briefly glowing white before dissipating."
+    },
+    {
+      "number": "5",
+      "title": "Interfering Sound Waves in a 3D Room",
+      "description": "Build a rectangular room with two loudspeaker boxes at one end emitting sinusoidal pressure waves represented by oscillating transparent shells or arrow fields, where the overlapping waves create a 3D pattern of high- and low-pressure regions colored red and blue and a movable probe sphere that shows local amplitude on a side meter.",
+      "seed": "Interfering Sound Waves in a 3D Room: Build a rectangular room with two loudspeaker boxes at one end emitting sinusoidal pressure waves represented by oscillating transparent shells or arrow fields, where the overlapping waves create a 3D pattern of high- and low-pressure regions colored red and blue and a movable probe sphere that shows local amplitude on a side meter."
+    },
+    {
+      "number": "6",
+      "title": "Microwave Interference in a Waveguide",
+      "description": "Simulate a metallic rectangular waveguide as a long hollow box where an electromagnetic wave travels as oscillating colored bands along its length; introduce a junction and a movable reflective plate that can slide and rotate, causing reflected waves to interfere and create standing-wave regions highlighted by bright stripes.",
+      "seed": "Microwave Interference in a Waveguide: Simulate a metallic rectangular waveguide as a long hollow box where an electromagnetic wave travels as oscillating colored bands along its length; introduce a junction and a movable reflective plate that can slide and rotate, causing reflected waves to interfere and create standing-wave regions highlighted by bright stripes."
+    },
+    {
+      "number": "7",
+      "title": "Boat Wakes Interacting on a Calm Lake",
+      "description": "Place two small boats (simple box shapes) moving at adjustable speeds across a light-blue water plane, each producing V-shaped surface waves that trail behind; as the wakes cross, intersecting wave crests are emphasized with brighter lines and labeled as interference hotspots.",
+      "seed": "Boat Wakes Interacting on a Calm Lake: Place two small boats (simple box shapes) moving at adjustable speeds across a light-blue water plane, each producing V-shaped surface waves that trail behind; as the wakes cross, intersecting wave crests are emphasized with brighter lines and labeled as interference hotspots."
+    },
+    {
+      "number": "8",
+      "title": "Seismic Wavefronts from Two Epicenters",
+      "description": "Show a semi-transparent 3D block of “earth” with two underground point sources that emit expanding spherical wave shells; as the shells intersect, interference regions are tinted purple, and surface markers (small pillars) oscillate up and down with amplitudes proportional to local wave intensity.",
+      "seed": "Seismic Wavefronts from Two Epicenters: Show a semi-transparent 3D block of “earth” with two underground point sources that emit expanding spherical wave shells; as the shells intersect, interference regions are tinted purple, and surface markers (small pillars) oscillate up and down with amplitudes proportional to local wave intensity."
+    },
+    {
+      "number": "9",
+      "title": "3D Ripple Tank with Adjustable Barriers",
+      "description": "Model a shallow tank as a clear box with a vibrating bar at one side that generates plane waves on the water surface; allow the user to slide semi-transparent vertical barriers with one or more openings, producing different diffraction and interference patterns on the far side visualized as moving height-colored ripples.",
+      "seed": "3D Ripple Tank with Adjustable Barriers: Model a shallow tank as a clear box with a vibrating bar at one side that generates plane waves on the water surface; allow the user to slide semi-transparent vertical barriers with one or more openings, producing different diffraction and interference patterns on the far side visualized as moving height-colored ripples."
+    },
+    {
+      "number": "10",
+      "title": "Light Interference on a Thin Film Bubble",
+      "description": "Represent a soap bubble as a transparent iridescent sphere whose thickness varies in smooth waves; incident white light rays (thin cylinders) hit the surface and split into reflected and transmitted components, with surface regions glowing different colors according to interference from varying film thickness.",
+      "seed": "Light Interference on a Thin Film Bubble: Represent a soap bubble as a transparent iridescent sphere whose thickness varies in smooth waves; incident white light rays (thin cylinders) hit the surface and split into reflected and transmitted components, with surface regions glowing different colors according to interference from varying film thickness."
+    },
+    {
+      "number": "11",
+      "title": "Interfering Waves on a 2D Membrane Drumhead",
+      "description": "Create a circular membrane (a thin disk) that oscillates up and down with a superposition of modes when struck by one or two mallet spheres; show nodal lines as stationary dark curves and antinodes as bright, rapidly moving regions, with height encoded by a color gradient.",
+      "seed": "Interfering Waves on a 2D Membrane Drumhead: Create a circular membrane (a thin disk) that oscillates up and down with a superposition of modes when struck by one or two mallet spheres; show nodal lines as stationary dark curves and antinodes as bright, rapidly moving regions, with height encoded by a color gradient."
+    },
+    {
+      "number": "12",
+      "title": "Wave Packets Colliding on a Spring-Mass Chain",
+      "description": "Model a long chain of small masses connected by springs along a line; generate two localized wave packets from opposite ends that travel, overlap, and interfere as colored displacement pulses before continuing past each other, leaving fading trails to highlight their paths.",
+      "seed": "Wave Packets Colliding on a Spring-Mass Chain: Model a long chain of small masses connected by springs along a line; generate two localized wave packets from opposite ends that travel, overlap, and interfere as colored displacement pulses before continuing past each other, leaving fading trails to highlight their paths."
+    },
+    {
+      "number": "13",
+      "title": "Optical Interferometer with Moving Mirror",
+      "description": "Build a simple Michelson-style interferometer using beamsplitter, mirrors, and a detector screen; a coherent light beam splits into two colored rays, reflects, and recombines, forming a pattern of bright and dark fringes that shift as one mirror slowly slides back and forth on rails.",
+      "seed": "Optical Interferometer with Moving Mirror: Build a simple Michelson-style interferometer using beamsplitter, mirrors, and a detector screen; a coherent light beam splits into two colored rays, reflects, and recombines, forming a pattern of bright and dark fringes that shift as one mirror slowly slides back and forth on rails."
+    },
+    {
+      "number": "14",
+      "title": "Electromagnetic Waves Crossing in Free Space",
+      "description": "Visualize two perpendicular electromagnetic plane waves as oscillating electric (red arrows) and magnetic (blue arrows) fields traveling through a transparent box; when both are active, the vector fields superpose, creating complex Lissajous-style motion at each point shown with small arrow trails.",
+      "seed": "Electromagnetic Waves Crossing in Free Space: Visualize two perpendicular electromagnetic plane waves as oscillating electric (red arrows) and magnetic (blue arrows) fields traveling through a transparent box; when both are active, the vector fields superpose, creating complex Lissajous-style motion at each point shown with small arrow trails."
+    },
+    {
+      "number": "15",
+      "title": "Crowd Wave Interference in a Stadium",
+      "description": "Represent a circular stadium of seated people as small cylinders arranged in rings; trigger two “crowd waves” starting from different sections, where people stand up and sit down in sequence, and watch as the waves propagate around the circle, collide, partially cancel, and create interference-like standing patterns.",
+      "seed": "Crowd Wave Interference in a Stadium: Represent a circular stadium of seated people as small cylinders arranged in rings; trigger two “crowd waves” starting from different sections, where people stand up and sit down in sequence, and watch as the waves propagate around the circle, collide, partially cancel, and create interference-like standing patterns."
+    },
+    {
+      "number": "16",
+      "title": "Interference of Capillary Waves in a Microfluidic Channel",
+      "description": "Create a narrow transparent channel with a thin liquid surface; two vibrating posts on opposite walls generate small capillary waves that propagate inward and interfere, with the surface profile exaggerated in height and color to clearly show constructive peaks and flat regions of near-cancellation.",
+      "seed": "Interference of Capillary Waves in a Microfluidic Channel: Create a narrow transparent channel with a thin liquid surface; two vibrating posts on opposite walls generate small capillary waves that propagate inward and interfere, with the surface profile exaggerated in height and color to clearly show constructive peaks and flat regions of near-cancellation."
+    },
+    {
+      "number": "17",
+      "title": "Radio Antenna Array Beam Interference",
+      "description": "Arrange several vertical antenna rods in a line, each emitting synchronized or phase-shifted waves represented by pulsing rings or arrow fields; compute and display the combined field intensity in a plane as a color map, showing how adjusting phase shifts steers and reshapes the interference pattern.",
+      "seed": "Radio Antenna Array Beam Interference: Arrange several vertical antenna rods in a line, each emitting synchronized or phase-shifted waves represented by pulsing rings or arrow fields; compute and display the combined field intensity in a plane as a color map, showing how adjusting phase shifts steers and reshapes the interference pattern."
+    },
+    {
+      "number": "18",
+      "title": "Wave Interference in a Quantum Double-Well Analogy",
+      "description": "Use a 3D box with two potential wells visualized as depressions in the floor; represent a probability wave packet as a semi-transparent colored cloud that splits, tunnels, and interferes between the wells, with intensity encoded in opacity and peaks marked by floating labels.",
+      "seed": "Wave Interference in a Quantum Double-Well Analogy: Use a 3D box with two potential wells visualized as depressions in the floor; represent a probability wave packet as a semi-transparent colored cloud that splits, tunnels, and interferes between the wells, with intensity encoded in opacity and peaks marked by floating labels."
+    },
+    {
+      "number": "19",
+      "title": "Overlapping Ocean Swell Systems",
+      "description": "Model a large ocean patch as a gently undulating surface with two or three long-wavelength swell directions, each represented by different colored sinusoidal patterns; as the swells cross, rogue-wave-like high crests appear where phases align, briefly spiking upward and highlighted with bright caps.",
+      "seed": "Overlapping Ocean Swell Systems: Model a large ocean patch as a gently undulating surface with two or three long-wavelength swell directions, each represented by different colored sinusoidal patterns; as the swells cross, rogue-wave-like high crests appear where phases align, briefly spiking upward and highlighted with bright caps."
+    },
+    {
+      "number": "20",
+      "title": "Spiral Ripples from Rotating Sources",
+      "description": "Place two small rotating arms just below a water-like surface plane, each arm generating continuous ripples that spiral outward; as multiple spirals overlap, the interference produces stationary-looking petal patterns that slowly drift, with constructive lines outlined in glowing curves.",
+      "seed": "Spiral Ripples from Rotating Sources: Place two small rotating arms just below a water-like surface plane, each arm generating continuous ripples that spiral outward; as multiple spirals overlap, the interference produces stationary-looking petal patterns that slowly drift, with constructive lines outlined in glowing curves."
+    },
+    {
+      "number": "21",
+      "title": "Acoustic Interference from a Moving Siren",
+      "description": "Simulate a siren source sphere moving through air in a straight line while emitting spherical sound waves; show Doppler-shifted compressed and stretched wavefronts, and add a fixed microphone sphere that records local amplitude, plotting a live amplitude-vs-time graph that reflects changing interference from direct and reflected waves off nearby walls.",
+      "seed": "Acoustic Interference from a Moving Siren: Simulate a siren source sphere moving through air in a straight line while emitting spherical sound waves; show Doppler-shifted compressed and stretched wavefronts, and add a fixed microphone sphere that records local amplitude, plotting a live amplitude-vs-time graph that reflects changing interference from direct and reflected waves off nearby walls."
+    },
+    {
+      "number": "22",
+      "title": "Interfering Circular Ripples Around Pillars",
+      "description": "Place several rigid cylindrical pillars in a shallow water plane; emit periodic circular waves from a central source that reflect off the pillars, producing a complex interference pattern of incoming and reflected waves, with standing-wave rings forming between closely spaced pillars.",
+      "seed": "Interfering Circular Ripples Around Pillars: Place several rigid cylindrical pillars in a shallow water plane; emit periodic circular waves from a central source that reflect off the pillars, producing a complex interference pattern of incoming and reflected waves, with standing-wave rings forming between closely spaced pillars."
+    },
+    {
+      "number": "23",
+      "title": "Fiber Optic Coupler Interference",
+      "description": "Model two transparent fiber cylinders running parallel and then merging in a coupling region; launch light as a pulsing wave along one fiber and show how some of the wave transfers, interferes, and splits between the two outputs, with intensity along each fiber displayed as moving color bands.",
+      "seed": "Fiber Optic Coupler Interference: Model two transparent fiber cylinders running parallel and then merging in a coupling region; launch light as a pulsing wave along one fiber and show how some of the wave transfers, interferes, and splits between the two outputs, with intensity along each fiber displayed as moving color bands."
+    },
+    {
+      "number": "24",
+      "title": "Interference of Surface Waves on a Liquid Metal Mirror",
+      "description": "Represent a shallow pool of silvery liquid metal with a reflective surface; two oscillating rods touch the surface at different points, sending circular waves whose overlapping crests distort reflected environment objects (simple colored shapes above), making interference visible as moving, warped reflections.",
+      "seed": "Interference of Surface Waves on a Liquid Metal Mirror: Represent a shallow pool of silvery liquid metal with a reflective surface; two oscillating rods touch the surface at different points, sending circular waves whose overlapping crests distort reflected environment objects (simple colored shapes above), making interference visible as moving, warped reflections."
+    },
+    {
+      "number": "25",
+      "title": "Phase-Shifting Wave Hologram Projection",
+      "description": "Create a flat transparent plate where many small emitters arranged in a grid pulse with different phases, generating a 3D interference pattern in the air above that outlines a faint floating object (like a cube or sphere) formed purely from overlapping wavefronts, with bright nodes marking high-intensity points.",
+      "seed": "Phase-Shifting Wave Hologram Projection: Create a flat transparent plate where many small emitters arranged in a grid pulse with different phases, generating a 3D interference pattern in the air above that outlines a faint floating object (like a cube or sphere) formed purely from overlapping wavefronts, with bright nodes marking high-intensity points."
+    }
+  ],
+  "raw_output": "Here are strong **Waves, ripples, interference simulation inputs** you can plug into your prompt:\n\n1. **Dual Circular Water Ripples in a Shallow Pool**\n   Simulate a shallow circular pool as a slightly transparent blue plane where two small spheres periodically tap the surface to generate expanding circular ripples that overlap, interfere, and create color-coded constructive (bright blue rings) and destructive (pale rings) interference patterns.\n\n2. **3D Standing Wave on a Vibrating String**\n   Model a taut horizontal string as a series of connected small spheres that oscillate up and down in a standing-wave pattern with adjustable frequency, showing nodes (marked with red labels) and antinodes (blue labels) and leaving faint motion trails to visualize amplitude.\n\n3. **Wave Interference Through a Double-Slit Wall**\n   Create a flat wall with two narrow vertical slits and a point source sphere emitting pulsed wavefronts that pass through the slits as expanding semi-transparent rings, producing an interference pattern on a distant screen that lights up with colored spots where waves constructively interfere.\n\n4. **Droplet Impacts Creating Overlapping Ripples on a Pond**\n   Represent a light-blue pond plane where multiple small droplets fall from above at random positions, each impact generating circular surface ripples that expand, overlap, and fade, with interference zones briefly glowing white before dissipating.\n\n5. **Interfering Sound Waves in a 3D Room**\n   Build a rectangular room with two loudspeaker boxes at one end emitting sinusoidal pressure waves represented by oscillating transparent shells or arrow fields, where the overlapping waves create a 3D pattern of high- and low-pressure regions colored red and blue and a movable probe sphere that shows local amplitude on a side meter.\n\n6. **Microwave Interference in a Waveguide**\n   Simulate a metallic rectangular waveguide as a long hollow box where an electromagnetic wave travels as oscillating colored bands along its length; introduce a junction and a movable reflective plate that can slide and rotate, causing reflected waves to interfere and create standing-wave regions highlighted by bright stripes.\n\n7. **Boat Wakes Interacting on a Calm Lake**\n   Place two small boats (simple box shapes) moving at adjustable speeds across a light-blue water plane, each producing V-shaped surface waves that trail behind; as the wakes cross, intersecting wave crests are emphasized with brighter lines and labeled as interference hotspots.\n\n8. **Seismic Wavefronts from Two Epicenters**\n   Show a semi-transparent 3D block of “earth” with two underground point sources that emit expanding spherical wave shells; as the shells intersect, interference regions are tinted purple, and surface markers (small pillars) oscillate up and down with amplitudes proportional to local wave intensity.\n\n9. **3D Ripple Tank with Adjustable Barriers**\n   Model a shallow tank as a clear box with a vibrating bar at one side that generates plane waves on the water surface; allow the user to slide semi-transparent vertical barriers with one or more openings, producing different diffraction and interference patterns on the far side visualized as moving height-colored ripples.\n\n10. **Light Interference on a Thin Film Bubble**\n    Represent a soap bubble as a transparent iridescent sphere whose thickness varies in smooth waves; incident white light rays (thin cylinders) hit the surface and split into reflected and transmitted components, with surface regions glowing different colors according to interference from varying film thickness.\n\n11. **Interfering Waves on a 2D Membrane Drumhead**\n    Create a circular membrane (a thin disk) that oscillates up and down with a superposition of modes when struck by one or two mallet spheres; show nodal lines as stationary dark curves and antinodes as bright, rapidly moving regions, with height encoded by a color gradient.\n\n12. **Wave Packets Colliding on a Spring-Mass Chain**\n    Model a long chain of small masses connected by springs along a line; generate two localized wave packets from opposite ends that travel, overlap, and interfere as colored displacement pulses before continuing past each other, leaving fading trails to highlight their paths.\n\n13. **Optical Interferometer with Moving Mirror**\n    Build a simple Michelson-style interferometer using beamsplitter, mirrors, and a detector screen; a coherent light beam splits into two colored rays, reflects, and recombines, forming a pattern of bright and dark fringes that shift as one mirror slowly slides back and forth on rails.\n\n14. **Electromagnetic Waves Crossing in Free Space**\n    Visualize two perpendicular electromagnetic plane waves as oscillating electric (red arrows) and magnetic (blue arrows) fields traveling through a transparent box; when both are active, the vector fields superpose, creating complex Lissajous-style motion at each point shown with small arrow trails.\n\n15. **Crowd Wave Interference in a Stadium**\n    Represent a circular stadium of seated people as small cylinders arranged in rings; trigger two “crowd waves” starting from different sections, where people stand up and sit down in sequence, and watch as the waves propagate around the circle, collide, partially cancel, and create interference-like standing patterns.\n\n16. **Interference of Capillary Waves in a Microfluidic Channel**\n    Create a narrow transparent channel with a thin liquid surface; two vibrating posts on opposite walls generate small capillary waves that propagate inward and interfere, with the surface profile exaggerated in height and color to clearly show constructive peaks and flat regions of near-cancellation.\n\n17. **Radio Antenna Array Beam Interference**\n    Arrange several vertical antenna rods in a line, each emitting synchronized or phase-shifted waves represented by pulsing rings or arrow fields; compute and display the combined field intensity in a plane as a color map, showing how adjusting phase shifts steers and reshapes the interference pattern.\n\n18. **Wave Interference in a Quantum Double-Well Analogy**\n    Use a 3D box with two potential wells visualized as depressions in the floor; represent a probability wave packet as a semi-transparent colored cloud that splits, tunnels, and interferes between the wells, with intensity encoded in opacity and peaks marked by floating labels.\n\n19. **Overlapping Ocean Swell Systems**\n    Model a large ocean patch as a gently undulating surface with two or three long-wavelength swell directions, each represented by different colored sinusoidal patterns; as the swells cross, rogue-wave-like high crests appear where phases align, briefly spiking upward and highlighted with bright caps.\n\n20. **Spiral Ripples from Rotating Sources**\n    Place two small rotating arms just below a water-like surface plane, each arm generating continuous ripples that spiral outward; as multiple spirals overlap, the interference produces stationary-looking petal patterns that slowly drift, with constructive lines outlined in glowing curves.\n\n21. **Acoustic Interference from a Moving Siren**\n    Simulate a siren source sphere moving through air in a straight line while emitting spherical sound waves; show Doppler-shifted compressed and stretched wavefronts, and add a fixed microphone sphere that records local amplitude, plotting a live amplitude-vs-time graph that reflects changing interference from direct and reflected waves off nearby walls.\n\n22. **Interfering Circular Ripples Around Pillars**\n    Place several rigid cylindrical pillars in a shallow water plane; emit periodic circular waves from a central source that reflect off the pillars, producing a complex interference pattern of incoming and reflected waves, with standing-wave rings forming between closely spaced pillars.\n\n23. **Fiber Optic Coupler Interference**\n    Model two transparent fiber cylinders running parallel and then merging in a coupling region; launch light as a pulsing wave along one fiber and show how some of the wave transfers, interferes, and splits between the two outputs, with intensity along each fiber displayed as moving color bands.\n\n24. **Interference of Surface Waves on a Liquid Metal Mirror**\n    Represent a shallow pool of silvery liquid metal with a reflective surface; two oscillating rods touch the surface at different points, sending circular waves whose overlapping crests distort reflected environment objects (simple colored shapes above), making interference visible as moving, warped reflections.\n\n25. **Phase-Shifting Wave Hologram Projection**\n    Create a flat transparent plate where many small emitters arranged in a grid pulse with different phases, generating a 3D interference pattern in the air above that outlines a faint floating object (like a cube or sphere) formed purely from overlapping wavefronts, with bright nodes marking high-intensity points."
+}

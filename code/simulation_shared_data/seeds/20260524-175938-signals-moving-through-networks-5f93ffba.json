@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Signals moving through networks",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:59:38",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Neural Web with Pulsing Synapses",
+      "description": "A 3D cluster of transparent spheres (neurons) connected by thin cylinders (axons) where glowing particles pulse along the connections, split at branch points, fade if they miss a connection, and strengthen (thicken and brighten) frequently used paths while rarely used paths slowly shrink.",
+      "seed": "Neural Web with Pulsing Synapses: A 3D cluster of transparent spheres (neurons) connected by thin cylinders (axons) where glowing particles pulse along the connections, split at branch points, fade if they miss a connection, and strengthen (thicken and brighten) frequently used paths while rarely used paths slowly shrink."
+    },
+    {
+      "number": "2",
+      "title": "Data Packets in a Server Rack Maze",
+      "description": "A grid of tall rectangular prisms (servers) connected by semi-transparent tubes where small colored cubes (data packets) route, queue, bounce off congested nodes, reroute around “failed” darkened servers, and leave faint trails indicating their paths.",
+      "seed": "Data Packets in a Server Rack Maze: A grid of tall rectangular prisms (servers) connected by semi-transparent tubes where small colored cubes (data packets) route, queue, bounce off congested nodes, reroute around “failed” darkened servers, and leave faint trails indicating their paths."
+    },
+    {
+      "number": "3",
+      "title": "City Subway Signal Network",
+      "description": "A stylized 3D city with tunnels and elevated tracks where trains carry pulsing light bands as “signals” between stations, with switches that rotate to reroute trains, signals that stack and merge at busy hubs, and a dashboard showing throughput as bars or dials.",
+      "seed": "City Subway Signal Network: A stylized 3D city with tunnels and elevated tracks where trains carry pulsing light bands as “signals” between stations, with switches that rotate to reroute trains, signals that stack and merge at busy hubs, and a dashboard showing throughput as bars or dials."
+    },
+    {
+      "number": "4",
+      "title": "Blood Vessel Network with Chemical Signals",
+      "description": "A branching, semi-transparent red vessel system filled with flowing particles (blood cells) where bright colored spheres (hormones or chemical signals) attach to carriers, travel, detach at target sites, diffuse through vessel walls, and gradually fade in intensity.",
+      "seed": "Blood Vessel Network with Chemical Signals: A branching, semi-transparent red vessel system filled with flowing particles (blood cells) where bright colored spheres (hormones or chemical signals) attach to carriers, travel, detach at target sites, diffuse through vessel walls, and gradually fade in intensity."
+    },
+    {
+      "number": "5",
+      "title": "Internet Backbone with Routing Waves",
+      "description": "A globe or flat map with raised hubs (routers) connected by curved arcs where waves of glowing particles propagate, reflect, and split along links, while congestion causes arcs to temporarily turn orange and packets to queue and bounce at overloaded hubs.",
+      "seed": "Internet Backbone with Routing Waves: A globe or flat map with raised hubs (routers) connected by curved arcs where waves of glowing particles propagate, reflect, and split along links, while congestion causes arcs to temporarily turn orange and packets to queue and bounce at overloaded hubs."
+    },
+    {
+      "number": "6",
+      "title": "Forest Mycelium Signal Web",
+      "description": "Tree trunks stand above a semi-transparent ground plane containing a tangled mycelium network of glowing filaments where nutrient and warning signals flash as color pulses, branch into smaller filaments, converge into thicker cords, and temporarily dim after a heavy pulse.",
+      "seed": "Forest Mycelium Signal Web: Tree trunks stand above a semi-transparent ground plane containing a tangled mycelium network of glowing filaments where nutrient and warning signals flash as color pulses, branch into smaller filaments, converge into thicker cords, and temporarily dim after a heavy pulse."
+    },
+    {
+      "number": "7",
+      "title": "Power Grid with Load Signals",
+      "description": "Rotating turbines, transformers, and houses connected by color-coded cables where electrical “signal” pulses move as bright streaks, cables thicken and glow under high load, breakers snap open causing arcs to darken, and meters above each node rise and fall with flow.",
+      "seed": "Power Grid with Load Signals: Rotating turbines, transformers, and houses connected by color-coded cables where electrical “signal” pulses move as bright streaks, cables thicken and glow under high load, breakers snap open causing arcs to darken, and meters above each node rise and fall with flow."
+    },
+    {
+      "number": "8",
+      "title": "Social Media Influence Network",
+      "description": "Floating avatars (spheres with labels) linked by thin lines where “posts” are represented by colored rings that expand out from one avatar, travel along connections, weaken with distance, sometimes split or merge, and cause connections to brighten or dim according to activity.",
+      "seed": "Social Media Influence Network: Floating avatars (spheres with labels) linked by thin lines where “posts” are represented by colored rings that expand out from one avatar, travel along connections, weaken with distance, sometimes split or merge, and cause connections to brighten or dim according to activity."
+    },
+    {
+      "number": "9",
+      "title": "Brain-Computer Interface Grid",
+      "description": "A semi-transparent brain volume with implanted electrode arrays connected to an external device where sharp spikes of light travel from the brain surface into cables, reflect back as feedback pulses, and gradually shape changing activity patterns across cortical regions.",
+      "seed": "Brain-Computer Interface Grid: A semi-transparent brain volume with implanted electrode arrays connected to an external device where sharp spikes of light travel from the brain surface into cables, reflect back as feedback pulses, and gradually shape changing activity patterns across cortical regions."
+    },
+    {
+      "number": "10",
+      "title": "Traffic Light Coordination Network",
+      "description": "A 3D intersection grid with cars moving along roads and overhead signal boxes connected by invisible “logic” links visualized as glowing lines that activate when timing signals are sent, causing traffic lights to change, sync, desync, and adapt to changing car densities.",
+      "seed": "Traffic Light Coordination Network: A 3D intersection grid with cars moving along roads and overhead signal boxes connected by invisible “logic” links visualized as glowing lines that activate when timing signals are sent, causing traffic lights to change, sync, desync, and adapt to changing car densities."
+    },
+    {
+      "number": "11",
+      "title": "Packet Swarm in a 3D Mesh Network",
+      "description": "A cubic lattice of nodes connected in all directions where small spheres (packets) randomly originate, choose paths, collide at nodes, queue in orbit-like rings around crowded nodes, and either successfully attach to a destination or dissolve after a time-out.",
+      "seed": "Packet Swarm in a 3D Mesh Network: A cubic lattice of nodes connected in all directions where small spheres (packets) randomly originate, choose paths, collide at nodes, queue in orbit-like rings around crowded nodes, and either successfully attach to a destination or dissolve after a time-out."
+    },
+    {
+      "number": "12",
+      "title": "Hormone Signaling in an Organoid",
+      "description": "A spherical cluster of semi-transparent cells where hormones appear as colored particles released from some cells, diffuse through a fluid medium, bind to cell surfaces (temporarily marking them with glowing halos), trigger internal color changes, then unbind and drift away.",
+      "seed": "Hormone Signaling in an Organoid: A spherical cluster of semi-transparent cells where hormones appear as colored particles released from some cells, diffuse through a fluid medium, bind to cell surfaces (temporarily marking them with glowing halos), trigger internal color changes, then unbind and drift away."
+    },
+    {
+      "number": "13",
+      "title": "Optical Fiber Signal Garden",
+      "description": "Bundles of curved transparent fibers sprout from a base plate, with light pulses of different colors racing through them, splitting at fiber junctions, partially reflecting at bends, and scattering as faint particles when intentionally “cut” or attenuated sections are toggled.",
+      "seed": "Optical Fiber Signal Garden: Bundles of curved transparent fibers sprout from a base plate, with light pulses of different colors racing through them, splitting at fiber junctions, partially reflecting at bends, and scattering as faint particles when intentionally “cut” or attenuated sections are toggled."
+    },
+    {
+      "number": "14",
+      "title": "Satellite Constellation Communication Web",
+      "description": "Multiple satellites orbit a planet in layered rings, connected by temporary laser beams that appear as thin glowing rods when active, along which pulses of light race, branch to other satellites, and reroute around a satellite that goes dark or drifts off track.",
+      "seed": "Satellite Constellation Communication Web: Multiple satellites orbit a planet in layered rings, connected by temporary laser beams that appear as thin glowing rods when active, along which pulses of light race, branch to other satellites, and reroute around a satellite that goes dark or drifts off track."
+    },
+    {
+      "number": "15",
+      "title": "Warehouse Robot Swarm Command Network",
+      "description": "A flat warehouse floor with racks and many small mobile robots receiving commands as overhead colored beams that drop down to a robot, causing it to change path, with acknowledgment signals rising back up, splitting, and updating a central “command node” in midair.",
+      "seed": "Warehouse Robot Swarm Command Network: A flat warehouse floor with racks and many small mobile robots receiving commands as overhead colored beams that drop down to a robot, causing it to change path, with acknowledgment signals rising back up, splitting, and updating a central “command node” in midair."
+    },
+    {
+      "number": "16",
+      "title": "Cellular Ion Channel Signaling",
+      "description": "A large, semi-transparent membrane wall with embedded channel proteins where ions are represented as glowing particles that queue outside, rush through when channels open, bounce off when closed, and create propagating color waves along the membrane representing voltage changes.",
+      "seed": "Cellular Ion Channel Signaling: A large, semi-transparent membrane wall with embedded channel proteins where ions are represented as glowing particles that queue outside, rush through when channels open, bounce off when closed, and create propagating color waves along the membrane representing voltage changes."
+    },
+    {
+      "number": "17",
+      "title": "Corporate Email Flow in a 3D Office",
+      "description": "Stacked floors of offices populated by labeled desks (nodes) connected by semi-transparent tubes representing communication paths where envelopes (emails) float, pause at “inboxes,” split into multiple copies for CCs, and form swirling backlogs around busy managers.",
+      "seed": "Corporate Email Flow in a 3D Office: Stacked floors of offices populated by labeled desks (nodes) connected by semi-transparent tubes representing communication paths where envelopes (emails) float, pause at “inboxes,” split into multiple copies for CCs, and form swirling backlogs around busy managers."
+    },
+    {
+      "number": "18",
+      "title": "Ant Colony Pheromone Trail Network",
+      "description": "A sandy terrain with tunnels and chambers where ants move and leave semi-transparent colored pheromone lines that thicken and brighten with repeated use, gradually evaporate, intersect, and guide future ant movement as signals to food sources or hazards.",
+      "seed": "Ant Colony Pheromone Trail Network: A sandy terrain with tunnels and chambers where ants move and leave semi-transparent colored pheromone lines that thicken and brighten with repeated use, gradually evaporate, intersect, and guide future ant movement as signals to food sources or hazards."
+    },
+    {
+      "number": "19",
+      "title": "Rainwater Sensor Grid on a Smart Farm",
+      "description": "A 3D terrain with crops and buried sensors connected to control nodes where moisture changes generate small pulses that travel through underground cables to sprinklers, which then activate and send new confirmation signals back that update color-coded moisture bars.",
+      "seed": "Rainwater Sensor Grid on a Smart Farm: A 3D terrain with crops and buried sensors connected to control nodes where moisture changes generate small pulses that travel through underground cables to sprinklers, which then activate and send new confirmation signals back that update color-coded moisture bars."
+    },
+    {
+      "number": "20",
+      "title": "Quantum Dot Excitation Network",
+      "description": "A lattice of small glowing spheres (quantum dots) on a transparent substrate where excitation hops from one dot to another as a bright pulse, sometimes branching, sometimes trapped in dark “defect” regions, with an overall energy meter that rises and falls as signals propagate.",
+      "seed": "Quantum Dot Excitation Network: A lattice of small glowing spheres (quantum dots) on a transparent substrate where excitation hops from one dot to another as a bright pulse, sometimes branching, sometimes trapped in dark “defect” regions, with an overall energy meter that rises and falls as signals propagate."
+    },
+    {
+      "number": "21",
+      "title": "Bacterial Colony Quorum Sensing",
+      "description": "A 3D petri dish volume filled with moving bacteria particles that emit small messenger molecules which diffuse, merge into dense clouds, trigger synchronized flashing color changes in nearby bacteria when a threshold is reached, then dissipate.",
+      "seed": "Bacterial Colony Quorum Sensing: A 3D petri dish volume filled with moving bacteria particles that emit small messenger molecules which diffuse, merge into dense clouds, trigger synchronized flashing color changes in nearby bacteria when a threshold is reached, then dissipate."
+    },
+    {
+      "number": "22",
+      "title": "Air Traffic Control Signal Cones",
+      "description": "A section of sky with planes moving along 3D flight paths and ground beacons emitting rotating cones of signal light; planes enter and leave these cones, receive updated path vectors visualized as colored arrows, and send back acknowledgment pulses along invisible radio links.",
+      "seed": "Air Traffic Control Signal Cones: A section of sky with planes moving along 3D flight paths and ground beacons emitting rotating cones of signal light; planes enter and leave these cones, receive updated path vectors visualized as colored arrows, and send back acknowledgment pulses along invisible radio links."
+    },
+    {
+      "number": "23",
+      "title": "Microchip Logic Gate Playground",
+      "description": "A raised 3D circuit board with labeled logic gates as small blocks connected by channels where binary signals travel as red/green pulses, split, merge, invert, and occasionally collide at contention points, with LEDs above each gate showing its current output state.",
+      "seed": "Microchip Logic Gate Playground: A raised 3D circuit board with labeled logic gates as small blocks connected by channels where binary signals travel as red/green pulses, split, merge, invert, and occasionally collide at contention points, with LEDs above each gate showing its current output state."
+    },
+    {
+      "number": "24",
+      "title": "Spinal Cord Reflex Network",
+      "description": "A stylized spine with branching nerves leading to muscles where a stimulus at the skin surface generates a bright pulse that travels along nerves, splits at the spinal cord, sends a fast reflex branch directly to muscles, and a slower branch up to a brain sphere that responds back.",
+      "seed": "Spinal Cord Reflex Network: A stylized spine with branching nerves leading to muscles where a stimulus at the skin surface generates a bright pulse that travels along nerves, splits at the spinal cord, sends a fast reflex branch directly to muscles, and a slower branch up to a brain sphere that responds back."
+    },
+    {
+      "number": "25",
+      "title": "Water Distribution and Pressure Signal Grid",
+      "description": "A transparent pipe network with nodes representing tanks and valves where colored water flows, pressure waves move as pulsing bands that reflect off closed valves, valves rotate open/closed based on upstream sensor signals, and leaks create particle sprays and pressure drops.",
+      "seed": "Water Distribution and Pressure Signal Grid: A transparent pipe network with nodes representing tanks and valves where colored water flows, pressure waves move as pulsing bands that reflect off closed valves, valves rotate open/closed based on upstream sensor signals, and leaks create particle sprays and pressure drops."
+    }
+  ],
+  "raw_output": "Here are strong **Signals moving through networks simulation inputs** you can plug into your prompt:\n\n1. **Neural Web with Pulsing Synapses**\n   A 3D cluster of transparent spheres (neurons) connected by thin cylinders (axons) where glowing particles pulse along the connections, split at branch points, fade if they miss a connection, and strengthen (thicken and brighten) frequently used paths while rarely used paths slowly shrink.\n\n2. **Data Packets in a Server Rack Maze**\n   A grid of tall rectangular prisms (servers) connected by semi-transparent tubes where small colored cubes (data packets) route, queue, bounce off congested nodes, reroute around “failed” darkened servers, and leave faint trails indicating their paths.\n\n3. **City Subway Signal Network**\n   A stylized 3D city with tunnels and elevated tracks where trains carry pulsing light bands as “signals” between stations, with switches that rotate to reroute trains, signals that stack and merge at busy hubs, and a dashboard showing throughput as bars or dials.\n\n4. **Blood Vessel Network with Chemical Signals**\n   A branching, semi-transparent red vessel system filled with flowing particles (blood cells) where bright colored spheres (hormones or chemical signals) attach to carriers, travel, detach at target sites, diffuse through vessel walls, and gradually fade in intensity.\n\n5. **Internet Backbone with Routing Waves**\n   A globe or flat map with raised hubs (routers) connected by curved arcs where waves of glowing particles propagate, reflect, and split along links, while congestion causes arcs to temporarily turn orange and packets to queue and bounce at overloaded hubs.\n\n6. **Forest Mycelium Signal Web**\n   Tree trunks stand above a semi-transparent ground plane containing a tangled mycelium network of glowing filaments where nutrient and warning signals flash as color pulses, branch into smaller filaments, converge into thicker cords, and temporarily dim after a heavy pulse.\n\n7. **Power Grid with Load Signals**\n   Rotating turbines, transformers, and houses connected by color-coded cables where electrical “signal” pulses move as bright streaks, cables thicken and glow under high load, breakers snap open causing arcs to darken, and meters above each node rise and fall with flow.\n\n8. **Social Media Influence Network**\n   Floating avatars (spheres with labels) linked by thin lines where “posts” are represented by colored rings that expand out from one avatar, travel along connections, weaken with distance, sometimes split or merge, and cause connections to brighten or dim according to activity.\n\n9. **Brain-Computer Interface Grid**\n   A semi-transparent brain volume with implanted electrode arrays connected to an external device where sharp spikes of light travel from the brain surface into cables, reflect back as feedback pulses, and gradually shape changing activity patterns across cortical regions.\n\n10. **Traffic Light Coordination Network**\n    A 3D intersection grid with cars moving along roads and overhead signal boxes connected by invisible “logic” links visualized as glowing lines that activate when timing signals are sent, causing traffic lights to change, sync, desync, and adapt to changing car densities.\n\n11. **Packet Swarm in a 3D Mesh Network**\n    A cubic lattice of nodes connected in all directions where small spheres (packets) randomly originate, choose paths, collide at nodes, queue in orbit-like rings around crowded nodes, and either successfully attach to a destination or dissolve after a time-out.\n\n12. **Hormone Signaling in an Organoid**\n    A spherical cluster of semi-transparent cells where hormones appear as colored particles released from some cells, diffuse through a fluid medium, bind to cell surfaces (temporarily marking them with glowing halos), trigger internal color changes, then unbind and drift away.\n\n13. **Optical Fiber Signal Garden**\n    Bundles of curved transparent fibers sprout from a base plate, with light pulses of different colors racing through them, splitting at fiber junctions, partially reflecting at bends, and scattering as faint particles when intentionally “cut” or attenuated sections are toggled.\n\n14. **Satellite Constellation Communication Web**\n    Multiple satellites orbit a planet in layered rings, connected by temporary laser beams that appear as thin glowing rods when active, along which pulses of light race, branch to other satellites, and reroute around a satellite that goes dark or drifts off track.\n\n15. **Warehouse Robot Swarm Command Network**\n    A flat warehouse floor with racks and many small mobile robots receiving commands as overhead colored beams that drop down to a robot, causing it to change path, with acknowledgment signals rising back up, splitting, and updating a central “command node” in midair.\n\n16. **Cellular Ion Channel Signaling**\n    A large, semi-transparent membrane wall with embedded channel proteins where ions are represented as glowing particles that queue outside, rush through when channels open, bounce off when closed, and create propagating color waves along the membrane representing voltage changes.\n\n17. **Corporate Email Flow in a 3D Office**\n    Stacked floors of offices populated by labeled desks (nodes) connected by semi-transparent tubes representing communication paths where envelopes (emails) float, pause at “inboxes,” split into multiple copies for CCs, and form swirling backlogs around busy managers.\n\n18. **Ant Colony Pheromone Trail Network**\n    A sandy terrain with tunnels and chambers where ants move and leave semi-transparent colored pheromone lines that thicken and brighten with repeated use, gradually evaporate, intersect, and guide future ant movement as signals to food sources or hazards.\n\n19. **Rainwater Sensor Grid on a Smart Farm**\n    A 3D terrain with crops and buried sensors connected to control nodes where moisture changes generate small pulses that travel through underground cables to sprinklers, which then activate and send new confirmation signals back that update color-coded moisture bars.\n\n20. **Quantum Dot Excitation Network**\n    A lattice of small glowing spheres (quantum dots) on a transparent substrate where excitation hops from one dot to another as a bright pulse, sometimes branching, sometimes trapped in dark “defect” regions, with an overall energy meter that rises and falls as signals propagate.\n\n21. **Bacterial Colony Quorum Sensing**\n    A 3D petri dish volume filled with moving bacteria particles that emit small messenger molecules which diffuse, merge into dense clouds, trigger synchronized flashing color changes in nearby bacteria when a threshold is reached, then dissipate.\n\n22. **Air Traffic Control Signal Cones**\n    A section of sky with planes moving along 3D flight paths and ground beacons emitting rotating cones of signal light; planes enter and leave these cones, receive updated path vectors visualized as colored arrows, and send back acknowledgment pulses along invisible radio links.\n\n23. **Microchip Logic Gate Playground**\n    A raised 3D circuit board with labeled logic gates as small blocks connected by channels where binary signals travel as red/green pulses, split, merge, invert, and occasionally collide at contention points, with LEDs above each gate showing its current output state.\n\n24. **Spinal Cord Reflex Network**\n    A stylized spine with branching nerves leading to muscles where a stimulus at the skin surface generates a bright pulse that travels along nerves, splits at the spinal cord, sends a fast reflex branch directly to muscles, and a slower branch up to a brain sphere that responds back.\n\n25. **Water Distribution and Pressure Signal Grid**\n    A transparent pipe network with nodes representing tanks and valves where colored water flows, pressure waves move as pulsing bands that reflect off closed valves, valves rotate open/closed based on upstream sensor signals, and leaks create particle sprays and pressure drops."
+}

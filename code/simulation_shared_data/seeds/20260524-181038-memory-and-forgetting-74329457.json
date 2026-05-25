@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Memory and forgetting",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:10:38",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Neural Constellation Memory Orbits",
+      "description": "A transparent brain-shaped volume filled with small colored spheres (memories) that orbit glowing neuron nodes, where unused spheres slowly fade, drift outward, and detach into a dim “forgetting cloud,” while frequently re-activated spheres brighten and tighten their orbits with visible connection lines.",
+      "seed": "Neural Constellation Memory Orbits: A transparent brain-shaped volume filled with small colored spheres (memories) that orbit glowing neuron nodes, where unused spheres slowly fade, drift outward, and detach into a dim “forgetting cloud,” while frequently re-activated spheres brighten and tighten their orbits with visible connection lines."
+    },
+    {
+      "number": "2",
+      "title": "Sandcastle of Memories and Tides of Forgetting",
+      "description": "A detailed sandcastle built from stacked sand blocks labeled as memories on a beach, with gentle waves that gradually erode, detach, and dissolve outer blocks into particles, while new labeled sand blocks are added by a small builder sphere that rolls in from the side.",
+      "seed": "Sandcastle of Memories and Tides of Forgetting: A detailed sandcastle built from stacked sand blocks labeled as memories on a beach, with gentle waves that gradually erode, detach, and dissolve outer blocks into particles, while new labeled sand blocks are added by a small builder sphere that rolls in from the side."
+    },
+    {
+      "number": "3",
+      "title": "Filing Cabinet of Remembered and Lost Notes",
+      "description": "A 3D cabinet with sliding transparent drawers containing colored note cards that float in and auto-stack when tagged as “remembered,” while older cards slowly turn gray, lose labels, and drift out through the back into a hazy “forgotten” bin that can occasionally send a random card back.",
+      "seed": "Filing Cabinet of Remembered and Lost Notes: A 3D cabinet with sliding transparent drawers containing colored note cards that float in and auto-stack when tagged as “remembered,” while older cards slowly turn gray, lose labels, and drift out through the back into a hazy “forgotten” bin that can occasionally send a random card back."
+    },
+    {
+      "number": "4",
+      "title": "Synapse Bridge with Strengthening and Decay",
+      "description": "Two semi-transparent neuron spheres connected by multiple elastic rods whose thickness and color intensity increase when pulses (small glowing particles) travel across them, and weaken, shrink, and eventually snap when pulses stop, sending loose particles drifting away.",
+      "seed": "Synapse Bridge with Strengthening and Decay: Two semi-transparent neuron spheres connected by multiple elastic rods whose thickness and color intensity increase when pulses (small glowing particles) travel across them, and weaken, shrink, and eventually snap when pulses stop, sending loose particles drifting away."
+    },
+    {
+      "number": "5",
+      "title": "Memory Garden with Blooming and Withering Flowers",
+      "description": "A flat garden plane where each memory is a labeled flower that grows taller and more colorful when a bee-like agent visits it, but slowly droops, loses petals, and shrinks into the soil (forgetting) when ignored, with faint ghost-flowers occasionally re-sprouting as partial recollections.",
+      "seed": "Memory Garden with Blooming and Withering Flowers: A flat garden plane where each memory is a labeled flower that grows taller and more colorful when a bee-like agent visits it, but slowly droops, loses petals, and shrinks into the soil (forgetting) when ignored, with faint ghost-flowers occasionally re-sprouting as partial recollections."
+    },
+    {
+      "number": "6",
+      "title": "Library Shelves with Sliding, Fading Books",
+      "description": "Rows of 3D books on light-colored shelves where new books fly in from above, slide into gaps, and glow when “recalled,” while rarely accessed books lose color, become transparent, and slowly float off the shelf into a dim corner cloud of tumbling forgotten books.",
+      "seed": "Library Shelves with Sliding, Fading Books: Rows of 3D books on light-colored shelves where new books fly in from above, slide into gaps, and glow when “recalled,” while rarely accessed books lose color, become transparent, and slowly float off the shelf into a dim corner cloud of tumbling forgotten books."
+    },
+    {
+      "number": "7",
+      "title": "Bubble Memories Rising and Popping",
+      "description": "Colored bubbles representing memories rise from a floor pool, grow slightly each time a scanning beam touches them, and leave vertical trails, while unattended bubbles thin, lose color, and pop into tiny particle sprays that drift down and vanish.",
+      "seed": "Bubble Memories Rising and Popping: Colored bubbles representing memories rise from a floor pool, grow slightly each time a scanning beam touches them, and leave vertical trails, while unattended bubbles thin, lose color, and pop into tiny particle sprays that drift down and vanish."
+    },
+    {
+      "number": "8",
+      "title": "Hard Drive Sector Map with Bit Decay",
+      "description": "A rectangular 3D grid of small cubes (bits) that flip between bright and dim states as data is written and read, with some bits randomly flickering and dissolving (forgetting), while an error-correction agent cube roams, detecting unstable bits and re-writing them with a bright flash.",
+      "seed": "Hard Drive Sector Map with Bit Decay: A rectangular 3D grid of small cubes (bits) that flip between bright and dim states as data is written and read, with some bits randomly flickering and dissolving (forgetting), while an error-correction agent cube roams, detecting unstable bits and re-writing them with a bright flash."
+    },
+    {
+      "number": "9",
+      "title": "Social Network Memory Spread and Loss",
+      "description": "A cluster of humanoid figures (simple cylinders and spheres) connected by glowing lines that carry “memory packets” (small colored spheres) that hop from person to person; over time, packets dim and drop off the network unless frequently passed, leaving faint ghost trails of stories once told.",
+      "seed": "Social Network Memory Spread and Loss: A cluster of humanoid figures (simple cylinders and spheres) connected by glowing lines that carry “memory packets” (small colored spheres) that hop from person to person; over time, packets dim and drop off the network unless frequently passed, leaving faint ghost trails of stories once told."
+    },
+    {
+      "number": "10",
+      "title": "Crystal Lattice of Memories with Cracks",
+      "description": "A floating crystal lattice where certain nodes are lit and labeled as active memories, and stress waves propagate through the lattice causing cracks that detach some lit nodes, which tumble away and shatter into tiny shards, while other nearby nodes re-light as associated memories.",
+      "seed": "Crystal Lattice of Memories with Cracks: A floating crystal lattice where certain nodes are lit and labeled as active memories, and stress waves propagate through the lattice causing cracks that detach some lit nodes, which tumble away and shatter into tiny shards, while other nearby nodes re-light as associated memories."
+    },
+    {
+      "number": "11",
+      "title": "Chalkboard of Thoughts and Erasing",
+      "description": "A vertical light slate where colored 3D chalk strokes (extrusions) appear for each new memory, slowly sliding down and smearing, while a semi-transparent eraser block sweeps across sections, physically knocking off chalk fragments that fall and form a faint dusty pile of forgotten residue.",
+      "seed": "Chalkboard of Thoughts and Erasing: A vertical light slate where colored 3D chalk strokes (extrusions) appear for each new memory, slowly sliding down and smearing, while a semi-transparent eraser block sweeps across sections, physically knocking off chalk fragments that fall and form a faint dusty pile of forgotten residue."
+    },
+    {
+      "number": "12",
+      "title": "Memory Maze with Fading Paths",
+      "description": "A 3D maze of corridors where a small explorer sphere travels, leaving bright colored trails for remembered routes, with untraveled trails gradually dimming and shrinking until they vanish, and occasionally, faint ghost paths reappear in partial segments when the explorer nears them again.",
+      "seed": "Memory Maze with Fading Paths: A 3D maze of corridors where a small explorer sphere travels, leaving bright colored trails for remembered routes, with untraveled trails gradually dimming and shrinking until they vanish, and occasionally, faint ghost paths reappear in partial segments when the explorer nears them again."
+    },
+    {
+      "number": "13",
+      "title": "Protein Receptor Memory at a Synapse",
+      "description": "A microscopic synapse scene where vesicles carrying neurotransmitter particles dock, release, and bind to receptor sites on a membrane; receptors that are frequently used grow and cluster (LTP), while idle receptors detach, drift away, and dissolve into the fluid as forgotten connections.",
+      "seed": "Protein Receptor Memory at a Synapse: A microscopic synapse scene where vesicles carrying neurotransmitter particles dock, release, and bind to receptor sites on a membrane; receptors that are frequently used grow and cluster (LTP), while idle receptors detach, drift away, and dissolve into the fluid as forgotten connections."
+    },
+    {
+      "number": "14",
+      "title": "Stack of Memory Plates with Wear and Breakage",
+      "description": "A vertical stack of transparent disks, each etched with glowing patterns representing memories; when accessed, a disk lifts, rotates, and brightens, but over time scratches accumulate, some pattern segments flake off as particles, and heavily worn disks crack and drop, scattering fragments.",
+      "seed": "Stack of Memory Plates with Wear and Breakage: A vertical stack of transparent disks, each etched with glowing patterns representing memories; when accessed, a disk lifts, rotates, and brightens, but over time scratches accumulate, some pattern segments flake off as particles, and heavily worn disks crack and drop, scattering fragments."
+    },
+    {
+      "number": "15",
+      "title": "Timeline River with Deposits and Erosion",
+      "description": "A flowing, semi-transparent river where small labeled stones (events) drop from above onto the riverbed, accumulating into bars; fast currents gradually roll and polish older stones downstream until they dissolve into fine sediment clouds, while a hovering pointer can highlight and brighten specific stones.",
+      "seed": "Timeline River with Deposits and Erosion: A flowing, semi-transparent river where small labeled stones (events) drop from above onto the riverbed, accumulating into bars; fast currents gradually roll and polish older stones downstream until they dissolve into fine sediment clouds, while a hovering pointer can highlight and brighten specific stones."
+    },
+    {
+      "number": "16",
+      "title": "Memory Tapes on Reels with Magnetic Fading",
+      "description": "A pair of reels with colored tape spooling between them, where data segments are shown as bright stripes; as time passes, unused segments slowly desaturate and blur, while a read/write head block moves back and forth, briefly restoring and sharpening segments it passes over.",
+      "seed": "Memory Tapes on Reels with Magnetic Fading: A pair of reels with colored tape spooling between them, where data segments are shown as bright stripes; as time passes, unused segments slowly desaturate and blur, while a read/write head block moves back and forth, briefly restoring and sharpening segments it passes over."
+    },
+    {
+      "number": "17",
+      "title": "Tower of Repeating and Lost Habits",
+      "description": "A cylindrical tower composed of ring segments, each block on the ring representing a habit-memory; blocks that are frequently “activated” by a rotating spotlight grow taller and more vivid, while neglected blocks shrink, detach, and fall off the tower, forming a rubble ring of forgotten routines.",
+      "seed": "Tower of Repeating and Lost Habits: A cylindrical tower composed of ring segments, each block on the ring representing a habit-memory; blocks that are frequently “activated” by a rotating spotlight grow taller and more vivid, while neglected blocks shrink, detach, and fall off the tower, forming a rubble ring of forgotten routines."
+    },
+    {
+      "number": "18",
+      "title": "Glowing Thread Web with Snapping Strands",
+      "description": "A 3D web of thin glowing threads between floating nodes, where each “reminder” causes specific threads to pulse and thicken; threads that never pulse slowly thin, fray, and finally snap, with loose ends curling and retracting, reducing the overall connectivity of the web.",
+      "seed": "Glowing Thread Web with Snapping Strands: A 3D web of thin glowing threads between floating nodes, where each “reminder” causes specific threads to pulse and thicken; threads that never pulse slowly thin, fray, and finally snap, with loose ends curling and retracting, reducing the overall connectivity of the web."
+    },
+    {
+      "number": "19",
+      "title": "Puzzle Cube with Missing and Reappearing Pieces",
+      "description": "A transparent cube frame containing interlocking colored blocks; when a memory is “used,” its block slides outward, rotates, and glows; rarely used blocks quietly shrink, slip out of the frame, and drop into a semi-opaque fog below, where occasional random blocks float back up partially faded.",
+      "seed": "Puzzle Cube with Missing and Reappearing Pieces: A transparent cube frame containing interlocking colored blocks; when a memory is “used,” its block slides outward, rotates, and glows; rarely used blocks quietly shrink, slip out of the frame, and drop into a semi-opaque fog below, where occasional random blocks float back up partially faded."
+    },
+    {
+      "number": "20",
+      "title": "Classroom of Students Remembering a Lesson",
+      "description": "A simple classroom with seated figure-avatars whose heads light up with floating icons (memories) during a “lesson beam” from the front; over time, icons orbit more slowly, dim, and some detach and fall behind the students, while a quiz event re-brightens and pulls certain icons back into tight orbits.",
+      "seed": "Classroom of Students Remembering a Lesson: A simple classroom with seated figure-avatars whose heads light up with floating icons (memories) during a “lesson beam” from the front; over time, icons orbit more slowly, dim, and some detach and fall behind the students, while a quiz event re-brightens and pulls certain icons back into tight orbits."
+    },
+    {
+      "number": "21",
+      "title": "Snowfield Footprints of Experience",
+      "description": "A flat white snowfield where a walker sphere moves and leaves deep footprint depressions; recently walked paths remain crisp and blue-tinted, while older prints slowly fill in, rise, and fade to flat white, with only a subtle height-map and faint outlines marking nearly forgotten tracks.",
+      "seed": "Snowfield Footprints of Experience: A flat white snowfield where a walker sphere moves and leaves deep footprint depressions; recently walked paths remain crisp and blue-tinted, while older prints slowly fill in, rise, and fade to flat white, with only a subtle height-map and faint outlines marking nearly forgotten tracks."
+    },
+    {
+      "number": "22",
+      "title": "Layered Brain Maps with Activating and Fading Regions",
+      "description": "Several semi-transparent brain layers stacked slightly apart, where colored patches light up when “stimulated” by incoming beams, then slowly cool and fade; often-stimulated patches grow thicker and more saturated, while rarely used patches thin and eventually become invisible.",
+      "seed": "Layered Brain Maps with Activating and Fading Regions: Several semi-transparent brain layers stacked slightly apart, where colored patches light up when “stimulated” by incoming beams, then slowly cool and fade; often-stimulated patches grow thicker and more saturated, while rarely used patches thin and eventually become invisible."
+    },
+    {
+      "number": "23",
+      "title": "Beaker of Colored Memory Dyes Diluting",
+      "description": "A glass beaker filled with clear fluid into which concentrated colored droplets (memories) are injected; droplets swirl, mix, and create streaks, with strong, frequently injected colors remaining vivid, while isolated droplets disperse into uniform pale tints that are almost indistinguishable.",
+      "seed": "Beaker of Colored Memory Dyes Diluting: A glass beaker filled with clear fluid into which concentrated colored droplets (memories) are injected; droplets swirl, mix, and create streaks, with strong, frequently injected colors remaining vivid, while isolated droplets disperse into uniform pale tints that are almost indistinguishable."
+    },
+    {
+      "number": "24",
+      "title": "City of Landmarks and Vanishing Streets",
+      "description": "A top-down 3D cityscape with tall landmark buildings (strong memories) and small houses (weak memories) connected by roads; roads brighten and widen when traveled by small car agents, while unused roads shrink and disappear, isolating some houses that then sink slowly below the ground plane.",
+      "seed": "City of Landmarks and Vanishing Streets: A top-down 3D cityscape with tall landmark buildings (strong memories) and small houses (weak memories) connected by roads; roads brighten and widen when traveled by small car agents, while unused roads shrink and disappear, isolating some houses that then sink slowly below the ground plane."
+    },
+    {
+      "number": "25",
+      "title": "Memory Balloon Cluster with Leaks",
+      "description": "A bunch of differently colored balloons tied to a central anchor, each balloon representing a memory; balloons frequently “tugged” by a pointer stay full and vivid, while ignored balloons develop leaks, shrivel, and float away, leaving thin trailing strings that dangle as traces of forgotten content.",
+      "seed": "Memory Balloon Cluster with Leaks: A bunch of differently colored balloons tied to a central anchor, each balloon representing a memory; balloons frequently “tugged” by a pointer stay full and vivid, while ignored balloons develop leaks, shrivel, and float away, leaving thin trailing strings that dangle as traces of forgotten content."
+    }
+  ],
+  "raw_output": "Here are strong **Memory and forgetting simulation inputs** you can plug into your prompt:\n\n1. **Neural Constellation Memory Orbits**\n   A transparent brain-shaped volume filled with small colored spheres (memories) that orbit glowing neuron nodes, where unused spheres slowly fade, drift outward, and detach into a dim “forgetting cloud,” while frequently re-activated spheres brighten and tighten their orbits with visible connection lines.\n\n2. **Sandcastle of Memories and Tides of Forgetting**\n   A detailed sandcastle built from stacked sand blocks labeled as memories on a beach, with gentle waves that gradually erode, detach, and dissolve outer blocks into particles, while new labeled sand blocks are added by a small builder sphere that rolls in from the side.\n\n3. **Filing Cabinet of Remembered and Lost Notes**\n   A 3D cabinet with sliding transparent drawers containing colored note cards that float in and auto-stack when tagged as “remembered,” while older cards slowly turn gray, lose labels, and drift out through the back into a hazy “forgotten” bin that can occasionally send a random card back.\n\n4. **Synapse Bridge with Strengthening and Decay**\n   Two semi-transparent neuron spheres connected by multiple elastic rods whose thickness and color intensity increase when pulses (small glowing particles) travel across them, and weaken, shrink, and eventually snap when pulses stop, sending loose particles drifting away.\n\n5. **Memory Garden with Blooming and Withering Flowers**\n   A flat garden plane where each memory is a labeled flower that grows taller and more colorful when a bee-like agent visits it, but slowly droops, loses petals, and shrinks into the soil (forgetting) when ignored, with faint ghost-flowers occasionally re-sprouting as partial recollections.\n\n6. **Library Shelves with Sliding, Fading Books**\n   Rows of 3D books on light-colored shelves where new books fly in from above, slide into gaps, and glow when “recalled,” while rarely accessed books lose color, become transparent, and slowly float off the shelf into a dim corner cloud of tumbling forgotten books.\n\n7. **Bubble Memories Rising and Popping**\n   Colored bubbles representing memories rise from a floor pool, grow slightly each time a scanning beam touches them, and leave vertical trails, while unattended bubbles thin, lose color, and pop into tiny particle sprays that drift down and vanish.\n\n8. **Hard Drive Sector Map with Bit Decay**\n   A rectangular 3D grid of small cubes (bits) that flip between bright and dim states as data is written and read, with some bits randomly flickering and dissolving (forgetting), while an error-correction agent cube roams, detecting unstable bits and re-writing them with a bright flash.\n\n9. **Social Network Memory Spread and Loss**\n   A cluster of humanoid figures (simple cylinders and spheres) connected by glowing lines that carry “memory packets” (small colored spheres) that hop from person to person; over time, packets dim and drop off the network unless frequently passed, leaving faint ghost trails of stories once told.\n\n10. **Crystal Lattice of Memories with Cracks**\n    A floating crystal lattice where certain nodes are lit and labeled as active memories, and stress waves propagate through the lattice causing cracks that detach some lit nodes, which tumble away and shatter into tiny shards, while other nearby nodes re-light as associated memories.\n\n11. **Chalkboard of Thoughts and Erasing**\n    A vertical light slate where colored 3D chalk strokes (extrusions) appear for each new memory, slowly sliding down and smearing, while a semi-transparent eraser block sweeps across sections, physically knocking off chalk fragments that fall and form a faint dusty pile of forgotten residue.\n\n12. **Memory Maze with Fading Paths**\n    A 3D maze of corridors where a small explorer sphere travels, leaving bright colored trails for remembered routes, with untraveled trails gradually dimming and shrinking until they vanish, and occasionally, faint ghost paths reappear in partial segments when the explorer nears them again.\n\n13. **Protein Receptor Memory at a Synapse**\n    A microscopic synapse scene where vesicles carrying neurotransmitter particles dock, release, and bind to receptor sites on a membrane; receptors that are frequently used grow and cluster (LTP), while idle receptors detach, drift away, and dissolve into the fluid as forgotten connections.\n\n14. **Stack of Memory Plates with Wear and Breakage**\n    A vertical stack of transparent disks, each etched with glowing patterns representing memories; when accessed, a disk lifts, rotates, and brightens, but over time scratches accumulate, some pattern segments flake off as particles, and heavily worn disks crack and drop, scattering fragments.\n\n15. **Timeline River with Deposits and Erosion**\n    A flowing, semi-transparent river where small labeled stones (events) drop from above onto the riverbed, accumulating into bars; fast currents gradually roll and polish older stones downstream until they dissolve into fine sediment clouds, while a hovering pointer can highlight and brighten specific stones.\n\n16. **Memory Tapes on Reels with Magnetic Fading**\n    A pair of reels with colored tape spooling between them, where data segments are shown as bright stripes; as time passes, unused segments slowly desaturate and blur, while a read/write head block moves back and forth, briefly restoring and sharpening segments it passes over.\n\n17. **Tower of Repeating and Lost Habits**\n    A cylindrical tower composed of ring segments, each block on the ring representing a habit-memory; blocks that are frequently “activated” by a rotating spotlight grow taller and more vivid, while neglected blocks shrink, detach, and fall off the tower, forming a rubble ring of forgotten routines.\n\n18. **Glowing Thread Web with Snapping Strands**\n    A 3D web of thin glowing threads between floating nodes, where each “reminder” causes specific threads to pulse and thicken; threads that never pulse slowly thin, fray, and finally snap, with loose ends curling and retracting, reducing the overall connectivity of the web.\n\n19. **Puzzle Cube with Missing and Reappearing Pieces**\n    A transparent cube frame containing interlocking colored blocks; when a memory is “used,” its block slides outward, rotates, and glows; rarely used blocks quietly shrink, slip out of the frame, and drop into a semi-opaque fog below, where occasional random blocks float back up partially faded.\n\n20. **Classroom of Students Remembering a Lesson**\n    A simple classroom with seated figure-avatars whose heads light up with floating icons (memories) during a “lesson beam” from the front; over time, icons orbit more slowly, dim, and some detach and fall behind the students, while a quiz event re-brightens and pulls certain icons back into tight orbits.\n\n21. **Snowfield Footprints of Experience**\n    A flat white snowfield where a walker sphere moves and leaves deep footprint depressions; recently walked paths remain crisp and blue-tinted, while older prints slowly fill in, rise, and fade to flat white, with only a subtle height-map and faint outlines marking nearly forgotten tracks.\n\n22. **Layered Brain Maps with Activating and Fading Regions**\n    Several semi-transparent brain layers stacked slightly apart, where colored patches light up when “stimulated” by incoming beams, then slowly cool and fade; often-stimulated patches grow thicker and more saturated, while rarely used patches thin and eventually become invisible.\n\n23. **Beaker of Colored Memory Dyes Diluting**\n    A glass beaker filled with clear fluid into which concentrated colored droplets (memories) are injected; droplets swirl, mix, and create streaks, with strong, frequently injected colors remaining vivid, while isolated droplets disperse into uniform pale tints that are almost indistinguishable.\n\n24. **City of Landmarks and Vanishing Streets**\n    A top-down 3D cityscape with tall landmark buildings (strong memories) and small houses (weak memories) connected by roads; roads brighten and widen when traveled by small car agents, while unused roads shrink and disappear, isolating some houses that then sink slowly below the ground plane.\n\n25. **Memory Balloon Cluster with Leaks**\n    A bunch of differently colored balloons tied to a central anchor, each balloon representing a memory; balloons frequently “tugged” by a pointer stay full and vivid, while ignored balloons develop leaks, shrivel, and float away, leaving thin trailing strings that dangle as traces of forgotten content."
+}

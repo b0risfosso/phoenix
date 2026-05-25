@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Error correction",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:00:42",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Noisy Data Stream and Parity Check Orbs",
+      "description": "A stream of small spheres (data bits) travels along a glowing rail, with random bits flipping color as “errors” while larger translucent parity orbs float alongside, detect mismatches by flashing red, then spawn correcting pulses that collide with and recolor wrong bits.",
+      "seed": "Noisy Data Stream and Parity Check Orbs: A stream of small spheres (data bits) travels along a glowing rail, with random bits flipping color as “errors” while larger translucent parity orbs float alongside, detect mismatches by flashing red, then spawn correcting pulses that collide with and recolor wrong bits."
+    },
+    {
+      "number": "2",
+      "title": "DNA Replication with Repair Enzymes",
+      "description": "Two spiraling strands of semi-transparent spheres (DNA) unzip and replicate, with “error” bases shown as mismatched colored beads that trigger roaming repair enzymes (small robots) to dock, swap incorrect beads, and leave faint corrective trails.",
+      "seed": "DNA Replication with Repair Enzymes: Two spiraling strands of semi-transparent spheres (DNA) unzip and replicate, with “error” bases shown as mismatched colored beads that trigger roaming repair enzymes (small robots) to dock, swap incorrect beads, and leave faint corrective trails."
+    },
+    {
+      "number": "3",
+      "title": "Packet Transmission Over a Noisy 3D Channel",
+      "description": "Color-coded cube packets move from a sender platform to a receiver platform through a hazy tunnel where random “noise particles” collide with them, causing some faces to flip color until floating checksum drones scan, attach, correct, and release them.",
+      "seed": "Packet Transmission Over a Noisy 3D Channel: Color-coded cube packets move from a sender platform to a receiver platform through a hazy tunnel where random “noise particles” collide with them, causing some faces to flip color until floating checksum drones scan, attach, correct, and release them."
+    },
+    {
+      "number": "4",
+      "title": "Spacecraft Formation Flight with Sensor Error Correction",
+      "description": "A central “leader” spacecraft sphere flies a path leaving a trail, while several follower drones with noisy position sensors wobble around the ideal trajectory and repeatedly adjust their thrusters to converge back to the correct formation using glowing corrective vectors.",
+      "seed": "Spacecraft Formation Flight with Sensor Error Correction: A central “leader” spacecraft sphere flies a path leaving a trail, while several follower drones with noisy position sensors wobble around the ideal trajectory and repeatedly adjust their thrusters to converge back to the correct formation using glowing corrective vectors."
+    },
+    {
+      "number": "5",
+      "title": "Robotic Arm with Visual Feedback Correction",
+      "description": "A segmented robotic arm tries to place colored blocks into matching slots, with its initial motions slightly off-target until a hovering camera sphere projects error lines and correction arrows that cause the arm joints to rotate and re-align blocks to their exact positions.",
+      "seed": "Robotic Arm with Visual Feedback Correction: A segmented robotic arm tries to place colored blocks into matching slots, with its initial motions slightly off-target until a hovering camera sphere projects error lines and correction arrows that cause the arm joints to rotate and re-align blocks to their exact positions."
+    },
+    {
+      "number": "6",
+      "title": "Pendulum with Real-Time Kalman Filter Estimation",
+      "description": "A swinging pendulum bob moves in 3D while noisy measurement dots appear around it, and a second “estimated” ghost bob (semi-transparent) continuously corrects its position and velocity, converging to the real motion as error bars shrink and fade.",
+      "seed": "Pendulum with Real-Time Kalman Filter Estimation: A swinging pendulum bob moves in 3D while noisy measurement dots appear around it, and a second “estimated” ghost bob (semi-transparent) continuously corrects its position and velocity, converging to the real motion as error bars shrink and fade."
+    },
+    {
+      "number": "7",
+      "title": "Orbit Stabilization Around a Planet",
+      "description": "A satellite sphere orbits a planet with slight thrust misalignments causing drift, while a guidance system projects red error vectors from the desired orbit ring and emits small blue correction jets that nudge the satellite back onto the stable path.",
+      "seed": "Orbit Stabilization Around a Planet: A satellite sphere orbits a planet with slight thrust misalignments causing drift, while a guidance system projects red error vectors from the desired orbit ring and emits small blue correction jets that nudge the satellite back onto the stable path."
+    },
+    {
+      "number": "8",
+      "title": "Self-Healing Road Network Traffic Flow",
+      "description": "Cars (small boxes) move through a 3D elevated road grid, with some roads randomly blocked; error indicators glow above congested junctions, and the system “corrects” by dynamically raising and rotating new bridge segments that attach, redirect traffic, and fade congestion.",
+      "seed": "Self-Healing Road Network Traffic Flow: Cars (small boxes) move through a 3D elevated road grid, with some roads randomly blocked; error indicators glow above congested junctions, and the system “corrects” by dynamically raising and rotating new bridge segments that attach, redirect traffic, and fade congestion."
+    },
+    {
+      "number": "9",
+      "title": "Neural Network Synapse Adjustment",
+      "description": "Floating neurons (spheres) connect with glowing strands whose thickness shows synaptic weight; when a target output at one neuron mismatches the desired value, error waves propagate backward, causing strands to pulse and adjust thickness/colors toward a corrected configuration.",
+      "seed": "Neural Network Synapse Adjustment: Floating neurons (spheres) connect with glowing strands whose thickness shows synaptic weight; when a target output at one neuron mismatches the desired value, error waves propagate backward, causing strands to pulse and adjust thickness/colors toward a corrected configuration."
+    },
+    {
+      "number": "10",
+      "title": "Crystal Lattice with Defect Detection and Repair",
+      "description": "A regular 3D lattice of spheres (atoms) slowly grows, with occasional misaligned or missing atoms highlighted in red until mobile “dislocation” particles glide along planes to detach, reattach, and reposition atoms, gradually restoring a perfect, uniformly colored crystal.",
+      "seed": "Crystal Lattice with Defect Detection and Repair: A regular 3D lattice of spheres (atoms) slowly grows, with occasional misaligned or missing atoms highlighted in red until mobile “dislocation” particles glide along planes to detach, reattach, and reposition atoms, gradually restoring a perfect, uniformly colored crystal."
+    },
+    {
+      "number": "11",
+      "title": "Autocorrect Typing Conveyor",
+      "description": "Letter blocks travel along a conveyor spelling words in 3D; incorrect letters glow red and cause a hovering “dictionary ring” to spin, select the correct letter block, detach the wrong block off the belt, and snap the right one into place with a corrective flash.",
+      "seed": "Autocorrect Typing Conveyor: Letter blocks travel along a conveyor spelling words in 3D; incorrect letters glow red and cause a hovering “dictionary ring” to spin, select the correct letter block, detach the wrong block off the belt, and snap the right one into place with a corrective flash."
+    },
+    {
+      "number": "12",
+      "title": "Drone Swarm with Formation Error Correction",
+      "description": "A flock of small drones forms geometric patterns in midair above a plane; when some are pushed off-course by invisible gusts, the deviations are shown as stretching lines to their ideal positions while control forces pull them back, gradually restoring the precise formation.",
+      "seed": "Drone Swarm with Formation Error Correction: A flock of small drones forms geometric patterns in midair above a plane; when some are pushed off-course by invisible gusts, the deviations are shown as stretching lines to their ideal positions while control forces pull them back, gradually restoring the precise formation."
+    },
+    {
+      "number": "13",
+      "title": "Balancing Inverted Pendulum on a Cart",
+      "description": "A cart rolls on a track with a vertical rod that must stay upright; an angle error bar and target angle line are drawn, and as the rod tilts, the cart accelerates back and forth, reducing the tilt error, with color intensity reflecting correction strength.",
+      "seed": "Balancing Inverted Pendulum on a Cart: A cart rolls on a track with a vertical rod that must stay upright; an angle error bar and target angle line are drawn, and as the rod tilts, the cart accelerates back and forth, reducing the tilt error, with color intensity reflecting correction strength."
+    },
+    {
+      "number": "14",
+      "title": "Temperature Control in a 3D Room",
+      "description": "A room volume is filled with semi-transparent colored fog representing temperature; a heater sphere and cooler cube at opposite ends turn on and off as a target temperature gauge indicates error, with warmer and cooler regions moving, mixing, and gradually stabilizing into uniform color.",
+      "seed": "Temperature Control in a 3D Room: A room volume is filled with semi-transparent colored fog representing temperature; a heater sphere and cooler cube at opposite ends turn on and off as a target temperature gauge indicates error, with warmer and cooler regions moving, mixing, and gradually stabilizing into uniform color."
+    },
+    {
+      "number": "15",
+      "title": "Satellite Constellation Time Synchronization",
+      "description": "Several satellites orbit a central planet with clocks visualized as rotating rings; phase errors between rings are drawn as arcs, and periodic correction beams transfer timing pulses between satellites, tightening their phase alignment until all rings rotate in sync.",
+      "seed": "Satellite Constellation Time Synchronization: Several satellites orbit a central planet with clocks visualized as rotating rings; phase errors between rings are drawn as arcs, and periodic correction beams transfer timing pulses between satellites, tightening their phase alignment until all rings rotate in sync."
+    },
+    {
+      "number": "16",
+      "title": "Assembly Line Quality Control with Reject and Rework",
+      "description": "Products (complex multi-colored shapes) move along a 3D assembly line where scanners project grids onto them; defects glow red and cause diverter arms to rotate, pushing flawed items onto a rework loop where robotic tools attach, adjust, and return corrected items to the main line.",
+      "seed": "Assembly Line Quality Control with Reject and Rework: Products (complex multi-colored shapes) move along a 3D assembly line where scanners project grids onto them; defects glow red and cause diverter arms to rotate, pushing flawed items onto a rework loop where robotic tools attach, adjust, and return corrected items to the main line."
+    },
+    {
+      "number": "17",
+      "title": "Error-Correcting Code Block Transmission",
+      "description": "3D block code words appear as grids of small colored cubes, some randomly flipping color in flight; at the receiver, parity check planes sweep through, detect conflicting patterns, and spawn correcting pulses that traverse and flip erroneous cubes back to the intended pattern.",
+      "seed": "Error-Correcting Code Block Transmission: 3D block code words appear as grids of small colored cubes, some randomly flipping color in flight; at the receiver, parity check planes sweep through, detect conflicting patterns, and spawn correcting pulses that traverse and flip erroneous cubes back to the intended pattern."
+    },
+    {
+      "number": "18",
+      "title": "Autonomous Car Lane-Keeping Correction",
+      "description": "A car moves along a 3D road with lane markings; its perceived lane center (noisy) is drawn as a ghost line while the actual lane center is solid, and the difference generates steering correction arrows, causing the car to weave then settle steadily in the middle of the lane.",
+      "seed": "Autonomous Car Lane-Keeping Correction: A car moves along a 3D road with lane markings; its perceived lane center (noisy) is drawn as a ghost line while the actual lane center is solid, and the difference generates steering correction arrows, causing the car to weave then settle steadily in the middle of the lane."
+    },
+    {
+      "number": "19",
+      "title": "Robotic Swarm Pathfinding with Error Repair",
+      "description": "Dozens of small robots follow glowing paths toward a goal beacon; when they encounter obstacles, their paths warp and errors in planned vs. actual routes are shown as colored deviation tubes that gradually shrink as the swarm cooperatively corrects and smooths their routes.",
+      "seed": "Robotic Swarm Pathfinding with Error Repair: Dozens of small robots follow glowing paths toward a goal beacon; when they encounter obstacles, their paths warp and errors in planned vs. actual routes are shown as colored deviation tubes that gradually shrink as the swarm cooperatively corrects and smooths their routes."
+    },
+    {
+      "number": "20",
+      "title": "Gyroscope Orientation with Drift and Correction",
+      "description": "A spinning gyroscope in 3D slowly drifts due to bias, visualized by its axis departing from a reference line; external correction pulses (small jets on the frame) fire intermittently to re-align it, with the orientation error angle shrinking after each correction.",
+      "seed": "Gyroscope Orientation with Drift and Correction: A spinning gyroscope in 3D slowly drifts due to bias, visualized by its axis departing from a reference line; external correction pulses (small jets on the frame) fire intermittently to re-align it, with the orientation error angle shrinking after each correction."
+    },
+    {
+      "number": "21",
+      "title": "Audio Waveform Transmission with Visual Error Repair",
+      "description": "A wavy 3D line representing an audio waveform moves from a source to a speaker; noise cubes bump segments of the line up or down, while a corrective filter tube wraps around the waveform, smoothing kinks and pulling displaced segments back to a clean target curve.",
+      "seed": "Audio Waveform Transmission with Visual Error Repair: A wavy 3D line representing an audio waveform moves from a source to a speaker; noise cubes bump segments of the line up or down, while a corrective filter tube wraps around the waveform, smoothing kinks and pulling displaced segments back to a clean target curve."
+    },
+    {
+      "number": "22",
+      "title": "Error-Correcting Conveyor of Colored Beads",
+      "description": "Chains of beads of different colors move along parallel rails; pattern mismatches trigger overhead scanners that drop down, detach wrong-colored beads, and snap in correctly colored beads, leaving a brief sparkle trail showing each correction.",
+      "seed": "Error-Correcting Conveyor of Colored Beads: Chains of beads of different colors move along parallel rails; pattern mismatches trigger overhead scanners that drop down, detach wrong-colored beads, and snap in correctly colored beads, leaving a brief sparkle trail showing each correction."
+    },
+    {
+      "number": "23",
+      "title": "Planetary Weather Model with Data Assimilation",
+      "description": "A rotating globe shows swirling semi-transparent clouds predicted by a model; incoming “observations” appear as colored points that don’t match the clouds, and correction fields gradually adjust the cloud patterns until they align more closely with the observation markers.",
+      "seed": "Planetary Weather Model with Data Assimilation: A rotating globe shows swirling semi-transparent clouds predicted by a model; incoming “observations” appear as colored points that don’t match the clouds, and correction fields gradually adjust the cloud patterns until they align more closely with the observation markers."
+    },
+    {
+      "number": "24",
+      "title": "3D Printer with Layer Error Detection and Fixing",
+      "description": "A nozzle builds a small 3D object layer by layer, leaving thin trails of material; misaligned or missing sections glow red and cause the nozzle to pause, backtrack, and repaint corrected layers in a different color, eventually producing a solid, uniformly colored final object.",
+      "seed": "3D Printer with Layer Error Detection and Fixing: A nozzle builds a small 3D object layer by layer, leaving thin trails of material; misaligned or missing sections glow red and cause the nozzle to pause, backtrack, and repaint corrected layers in a different color, eventually producing a solid, uniformly colored final object."
+    },
+    {
+      "number": "25",
+      "title": "Balance Scale Calibration with Error Adjustment",
+      "description": "A 3D balance scale with arms and hanging weights starts tilted; a target level line shows the correct position, and robotic fingers move weights along the arms or add/remove small masses, gradually reducing the angle error until both arms come to rest perfectly horizontal.",
+      "seed": "Balance Scale Calibration with Error Adjustment: A 3D balance scale with arms and hanging weights starts tilted; a target level line shows the correct position, and robotic fingers move weights along the arms or add/remove small masses, gradually reducing the angle error until both arms come to rest perfectly horizontal."
+    }
+  ],
+  "raw_output": "Here are strong **Error correction simulation inputs** you can plug into your prompt:\n\n1. **Noisy Data Stream and Parity Check Orbs**\n   A stream of small spheres (data bits) travels along a glowing rail, with random bits flipping color as “errors” while larger translucent parity orbs float alongside, detect mismatches by flashing red, then spawn correcting pulses that collide with and recolor wrong bits.\n\n2. **DNA Replication with Repair Enzymes**\n   Two spiraling strands of semi-transparent spheres (DNA) unzip and replicate, with “error” bases shown as mismatched colored beads that trigger roaming repair enzymes (small robots) to dock, swap incorrect beads, and leave faint corrective trails.\n\n3. **Packet Transmission Over a Noisy 3D Channel**\n   Color-coded cube packets move from a sender platform to a receiver platform through a hazy tunnel where random “noise particles” collide with them, causing some faces to flip color until floating checksum drones scan, attach, correct, and release them.\n\n4. **Spacecraft Formation Flight with Sensor Error Correction**\n   A central “leader” spacecraft sphere flies a path leaving a trail, while several follower drones with noisy position sensors wobble around the ideal trajectory and repeatedly adjust their thrusters to converge back to the correct formation using glowing corrective vectors.\n\n5. **Robotic Arm with Visual Feedback Correction**\n   A segmented robotic arm tries to place colored blocks into matching slots, with its initial motions slightly off-target until a hovering camera sphere projects error lines and correction arrows that cause the arm joints to rotate and re-align blocks to their exact positions.\n\n6. **Pendulum with Real-Time Kalman Filter Estimation**\n   A swinging pendulum bob moves in 3D while noisy measurement dots appear around it, and a second “estimated” ghost bob (semi-transparent) continuously corrects its position and velocity, converging to the real motion as error bars shrink and fade.\n\n7. **Orbit Stabilization Around a Planet**\n   A satellite sphere orbits a planet with slight thrust misalignments causing drift, while a guidance system projects red error vectors from the desired orbit ring and emits small blue correction jets that nudge the satellite back onto the stable path.\n\n8. **Self-Healing Road Network Traffic Flow**\n   Cars (small boxes) move through a 3D elevated road grid, with some roads randomly blocked; error indicators glow above congested junctions, and the system “corrects” by dynamically raising and rotating new bridge segments that attach, redirect traffic, and fade congestion.\n\n9. **Neural Network Synapse Adjustment**\n   Floating neurons (spheres) connect with glowing strands whose thickness shows synaptic weight; when a target output at one neuron mismatches the desired value, error waves propagate backward, causing strands to pulse and adjust thickness/colors toward a corrected configuration.\n\n10. **Crystal Lattice with Defect Detection and Repair**\n    A regular 3D lattice of spheres (atoms) slowly grows, with occasional misaligned or missing atoms highlighted in red until mobile “dislocation” particles glide along planes to detach, reattach, and reposition atoms, gradually restoring a perfect, uniformly colored crystal.\n\n11. **Autocorrect Typing Conveyor**\n    Letter blocks travel along a conveyor spelling words in 3D; incorrect letters glow red and cause a hovering “dictionary ring” to spin, select the correct letter block, detach the wrong block off the belt, and snap the right one into place with a corrective flash.\n\n12. **Drone Swarm with Formation Error Correction**\n    A flock of small drones forms geometric patterns in midair above a plane; when some are pushed off-course by invisible gusts, the deviations are shown as stretching lines to their ideal positions while control forces pull them back, gradually restoring the precise formation.\n\n13. **Balancing Inverted Pendulum on a Cart**\n    A cart rolls on a track with a vertical rod that must stay upright; an angle error bar and target angle line are drawn, and as the rod tilts, the cart accelerates back and forth, reducing the tilt error, with color intensity reflecting correction strength.\n\n14. **Temperature Control in a 3D Room**\n    A room volume is filled with semi-transparent colored fog representing temperature; a heater sphere and cooler cube at opposite ends turn on and off as a target temperature gauge indicates error, with warmer and cooler regions moving, mixing, and gradually stabilizing into uniform color.\n\n15. **Satellite Constellation Time Synchronization**\n    Several satellites orbit a central planet with clocks visualized as rotating rings; phase errors between rings are drawn as arcs, and periodic correction beams transfer timing pulses between satellites, tightening their phase alignment until all rings rotate in sync.\n\n16. **Assembly Line Quality Control with Reject and Rework**\n    Products (complex multi-colored shapes) move along a 3D assembly line where scanners project grids onto them; defects glow red and cause diverter arms to rotate, pushing flawed items onto a rework loop where robotic tools attach, adjust, and return corrected items to the main line.\n\n17. **Error-Correcting Code Block Transmission**\n    3D block code words appear as grids of small colored cubes, some randomly flipping color in flight; at the receiver, parity check planes sweep through, detect conflicting patterns, and spawn correcting pulses that traverse and flip erroneous cubes back to the intended pattern.\n\n18. **Autonomous Car Lane-Keeping Correction**\n    A car moves along a 3D road with lane markings; its perceived lane center (noisy) is drawn as a ghost line while the actual lane center is solid, and the difference generates steering correction arrows, causing the car to weave then settle steadily in the middle of the lane.\n\n19. **Robotic Swarm Pathfinding with Error Repair**\n    Dozens of small robots follow glowing paths toward a goal beacon; when they encounter obstacles, their paths warp and errors in planned vs. actual routes are shown as colored deviation tubes that gradually shrink as the swarm cooperatively corrects and smooths their routes.\n\n20. **Gyroscope Orientation with Drift and Correction**\n    A spinning gyroscope in 3D slowly drifts due to bias, visualized by its axis departing from a reference line; external correction pulses (small jets on the frame) fire intermittently to re-align it, with the orientation error angle shrinking after each correction.\n\n21. **Audio Waveform Transmission with Visual Error Repair**\n    A wavy 3D line representing an audio waveform moves from a source to a speaker; noise cubes bump segments of the line up or down, while a corrective filter tube wraps around the waveform, smoothing kinks and pulling displaced segments back to a clean target curve.\n\n22. **Error-Correcting Conveyor of Colored Beads**\n    Chains of beads of different colors move along parallel rails; pattern mismatches trigger overhead scanners that drop down, detach wrong-colored beads, and snap in correctly colored beads, leaving a brief sparkle trail showing each correction.\n\n23. **Planetary Weather Model with Data Assimilation**\n    A rotating globe shows swirling semi-transparent clouds predicted by a model; incoming “observations” appear as colored points that don’t match the clouds, and correction fields gradually adjust the cloud patterns until they align more closely with the observation markers.\n\n24. **3D Printer with Layer Error Detection and Fixing**\n    A nozzle builds a small 3D object layer by layer, leaving thin trails of material; misaligned or missing sections glow red and cause the nozzle to pause, backtrack, and repaint corrected layers in a different color, eventually producing a solid, uniformly colored final object.\n\n25. **Balance Scale Calibration with Error Adjustment**\n    A 3D balance scale with arms and hanging weights starts tilted; a target level line shows the correct position, and robotic fingers move weights along the arms or add/remove small masses, gradually reducing the angle error until both arms come to rest perfectly horizontal."
+}

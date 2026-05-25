@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Kaleidoscopes",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:09:22",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Rotating Mirror Tube Kaleidoscope",
+      "description": "A long transparent tube filled with colored spheres is viewed through three rotating reflective panels that form a triangular prism, creating mirrored copies that split, merge, and orbit as the tube slowly turns and the beads bounce under gentle gravity.",
+      "seed": "Rotating Mirror Tube Kaleidoscope: A long transparent tube filled with colored spheres is viewed through three rotating reflective panels that form a triangular prism, creating mirrored copies that split, merge, and orbit as the tube slowly turns and the beads bounce under gentle gravity."
+    },
+    {
+      "number": "2",
+      "title": "Fractal Kaleidoscope of Orbiting Polygons",
+      "description": "Dozens of flat, brightly colored polygonal tiles orbit a central axis while three mirrored planes at 60° angles reflect them into an infinite fractal-like tunnel that pulses in color and leaves faint rotational trails.",
+      "seed": "Fractal Kaleidoscope of Orbiting Polygons: Dozens of flat, brightly colored polygonal tiles orbit a central axis while three mirrored planes at 60° angles reflect them into an infinite fractal-like tunnel that pulses in color and leaves faint rotational trails."
+    },
+    {
+      "number": "3",
+      "title": "Mechanical Hand-Crank Kaleidoscope",
+      "description": "A hand-crank (controlled by keyboard) spins a disk of colored glass shards between two transparent plates at one end of a tube, while an inner set of mirrors rotates at a different speed, producing slowly drifting symmetrical patterns that occasionally align and “snap” into labeled symmetric states.",
+      "seed": "Mechanical Hand-Crank Kaleidoscope: A hand-crank (controlled by keyboard) spins a disk of colored glass shards between two transparent plates at one end of a tube, while an inner set of mirrors rotates at a different speed, producing slowly drifting symmetrical patterns that occasionally align and “snap” into labeled symmetric states."
+    },
+    {
+      "number": "4",
+      "title": "Particle Stream Kaleidoscope",
+      "description": "Colored particles are emitted from a central nozzle and bounce elastically between three angled mirror-walls, forming mirrored streams that branch, collide, and dissipate with fading trails on a light background.",
+      "seed": "Particle Stream Kaleidoscope: Colored particles are emitted from a central nozzle and bounce elastically between three angled mirror-walls, forming mirrored streams that branch, collide, and dissipate with fading trails on a light background."
+    },
+    {
+      "number": "5",
+      "title": "Bouncing Marbles Kaleidoscope Chamber",
+      "description": "A triangular glass chamber with mirrored inner walls holds dozens of bouncy spheres of different sizes that collide, cluster, and separate, their reflections multiplying into a dense, pulsing kaleidoscopic swarm.",
+      "seed": "Bouncing Marbles Kaleidoscope Chamber: A triangular glass chamber with mirrored inner walls holds dozens of bouncy spheres of different sizes that collide, cluster, and separate, their reflections multiplying into a dense, pulsing kaleidoscopic swarm."
+    },
+    {
+      "number": "6",
+      "title": "Celestial Kaleidoscope of Orbiting Stars",
+      "description": "A set of glowing star-spheres and dimmer planet-spheres orbit in 3D around a central axis, while three semi-transparent reflective planes slice the space and reflect the orbits to form a kaleidoscope-like cosmic lattice with labeled orbital paths.",
+      "seed": "Celestial Kaleidoscope of Orbiting Stars: A set of glowing star-spheres and dimmer planet-spheres orbit in 3D around a central axis, while three semi-transparent reflective planes slice the space and reflect the orbits to form a kaleidoscope-like cosmic lattice with labeled orbital paths."
+    },
+    {
+      "number": "7",
+      "title": "Laser Beam Kaleidoscope",
+      "description": "A few narrow colored laser beams enter a mirrored triangular prism, reflecting and refracting at each face, splitting into multiple paths that form symmetric light patterns on a circular screen that slowly rotates and records hit points as glowing marks.",
+      "seed": "Laser Beam Kaleidoscope: A few narrow colored laser beams enter a mirrored triangular prism, reflecting and refracting at each face, splitting into multiple paths that form symmetric light patterns on a circular screen that slowly rotates and records hit points as glowing marks."
+    },
+    {
+      "number": "8",
+      "title": "Microscopic Cell Kaleidoscope",
+      "description": "Semi-transparent cells of different colors float in fluid and randomly drift and divide, while three reflective boundaries around the fluid chamber create kaleidoscopic repetitions of cell clusters that pulse in brightness when they touch or merge.",
+      "seed": "Microscopic Cell Kaleidoscope: Semi-transparent cells of different colors float in fluid and randomly drift and divide, while three reflective boundaries around the fluid chamber create kaleidoscopic repetitions of cell clusters that pulse in brightness when they touch or merge."
+    },
+    {
+      "number": "9",
+      "title": "Kaleidoscopic Snowflake Generator",
+      "description": "Tiny icy particles condense near a cold center, stick together into branching hexagonal snowflakes, and then get reflected by six mirror planes around the axis, creating a dynamic 3D kaleidoscope of growing, rotating snowflake structures.",
+      "seed": "Kaleidoscopic Snowflake Generator: Tiny icy particles condense near a cold center, stick together into branching hexagonal snowflakes, and then get reflected by six mirror planes around the axis, creating a dynamic 3D kaleidoscope of growing, rotating snowflake structures."
+    },
+    {
+      "number": "10",
+      "title": "Interactive Mirror Room with User-Controlled Object",
+      "description": "A single colored cube controlled by arrow keys moves and bounces inside a triangular mirrored room, its reflections forming a kaleidoscopic lattice that changes density as the cube speeds up, slows, and collides with the mirrored walls.",
+      "seed": "Interactive Mirror Room with User-Controlled Object: A single colored cube controlled by arrow keys moves and bounces inside a triangular mirrored room, its reflections forming a kaleidoscopic lattice that changes density as the cube speeds up, slows, and collides with the mirrored walls."
+    },
+    {
+      "number": "11",
+      "title": "Rotating Mandala Kaleidoscope Disk",
+      "description": "A flat circular disk covered with colored geometric shapes rotates about its center while three angled mirror panels above it reflect the patterns into a hovering 3D mandala that slowly unfolds, contracts, and changes symmetry when rotation speed changes.",
+      "seed": "Rotating Mandala Kaleidoscope Disk: A flat circular disk covered with colored geometric shapes rotates about its center while three angled mirror panels above it reflect the patterns into a hovering 3D mandala that slowly unfolds, contracts, and changes symmetry when rotation speed changes."
+    },
+    {
+      "number": "12",
+      "title": "Kaleidoscopic Fountain of Particles",
+      "description": "A central fountain sprays colored droplets upward; they arc, fall, and bounce off a triangular basin with mirrored sides, producing multiple symmetric fountains whose droplets leave short-lived trails and occasionally merge into glowing splashes.",
+      "seed": "Kaleidoscopic Fountain of Particles: A central fountain sprays colored droplets upward; they arc, fall, and bounce off a triangular basin with mirrored sides, producing multiple symmetric fountains whose droplets leave short-lived trails and occasionally merge into glowing splashes."
+    },
+    {
+      "number": "13",
+      "title": "Crystal Shard Kaleidoscope Box",
+      "description": "Randomly sized transparent crystal shards float in a low-gravity glass box with mirrored inner faces, gently rotating and colliding; light rays from above refract through them, creating moving kaleidoscopic color patterns on the box faces.",
+      "seed": "Crystal Shard Kaleidoscope Box: Randomly sized transparent crystal shards float in a low-gravity glass box with mirrored inner faces, gently rotating and colliding; light rays from above refract through them, creating moving kaleidoscopic color patterns on the box faces."
+    },
+    {
+      "number": "14",
+      "title": "Kaleidoscope of Magnetic Beads",
+      "description": "Dozens of colored magnetic spheres attract and repel in a triangular mirrored arena, self-assembling into symmetric chains and clusters that rotate and reconfigure while their patterns are multiplied and reflected in the mirrors.",
+      "seed": "Kaleidoscope of Magnetic Beads: Dozens of colored magnetic spheres attract and repel in a triangular mirrored arena, self-assembling into symmetric chains and clusters that rotate and reconfigure while their patterns are multiplied and reflected in the mirrors."
+    },
+    {
+      "number": "15",
+      "title": "Orbiting Icon Kaleidoscope (Symbolic)",
+      "description": "Several distinct symbolic shapes (hearts, stars, arrows, circles) orbit and bounce within a triangular reflective tunnel, leaving colored trails and forming changing kaleidoscopic motifs that are labeled when certain symmetries (e.g., 3-fold, 6-fold) appear.",
+      "seed": "Orbiting Icon Kaleidoscope (Symbolic): Several distinct symbolic shapes (hearts, stars, arrows, circles) orbit and bounce within a triangular reflective tunnel, leaving colored trails and forming changing kaleidoscopic motifs that are labeled when certain symmetries (e.g., 3-fold, 6-fold) appear."
+    },
+    {
+      "number": "16",
+      "title": "Sound-Driven Kaleidoscope",
+      "description": "A central “speaker” object emits pulses whose strength is mapped to the speed and size of colored shapes that radiate outward, bounce off mirrored boundaries, and create a symmetric pattern whose complexity changes with a simple on-screen “volume” slider.",
+      "seed": "Sound-Driven Kaleidoscope: A central “speaker” object emits pulses whose strength is mapped to the speed and size of colored shapes that radiate outward, bounce off mirrored boundaries, and create a symmetric pattern whose complexity changes with a simple on-screen “volume” slider."
+    },
+    {
+      "number": "17",
+      "title": "Kaleidoscopic City Courtyard",
+      "description": "A small cluster of stylized buildings and trees stands in a triangular courtyard surrounded by three tall mirrored walls; floating lights orbit overhead, and their reflections create a kaleidoscopic cityscape that shifts as some buildings rise, shrink, or rotate.",
+      "seed": "Kaleidoscopic City Courtyard: A small cluster of stylized buildings and trees stands in a triangular courtyard surrounded by three tall mirrored walls; floating lights orbit overhead, and their reflections create a kaleidoscopic cityscape that shifts as some buildings rise, shrink, or rotate."
+    },
+    {
+      "number": "18",
+      "title": "DNA Helix Kaleidoscope",
+      "description": "A central rotating DNA-like double helix made of colored spheres and rods is enclosed by multiple mirror planes; as base-pair segments detach, reattach, and replicate, the reflections create a shifting kaleidoscopic lattice of helices in 3D space.",
+      "seed": "DNA Helix Kaleidoscope: A central rotating DNA-like double helix made of colored spheres and rods is enclosed by multiple mirror planes; as base-pair segments detach, reattach, and replicate, the reflections create a shifting kaleidoscopic lattice of helices in 3D space."
+    },
+    {
+      "number": "19",
+      "title": "Liquid Droplet Kaleidoscope",
+      "description": "Colored droplets drip slowly from above into a shallow triangular pool with mirrored sides, merging into blobs that spread, split, and bounce at the boundaries, their shapes and reflections forming evolving symmetric liquid patterns.",
+      "seed": "Liquid Droplet Kaleidoscope: Colored droplets drip slowly from above into a shallow triangular pool with mirrored sides, merging into blobs that spread, split, and bounce at the boundaries, their shapes and reflections forming evolving symmetric liquid patterns."
+    },
+    {
+      "number": "20",
+      "title": "Firefly Swarm Kaleidoscope",
+      "description": "Glowing “firefly” particles wander with random motion inside a triangular mirrored prism, occasionally synchronizing their flashes; reflections make the swarm look dense and kaleidoscopic, and synchronized flashing events are highlighted with labels.",
+      "seed": "Firefly Swarm Kaleidoscope: Glowing “firefly” particles wander with random motion inside a triangular mirrored prism, occasionally synchronizing their flashes; reflections make the swarm look dense and kaleidoscopic, and synchronized flashing events are highlighted with labels."
+    },
+    {
+      "number": "21",
+      "title": "Kaleidoscopic Ribbon Dancer",
+      "description": "A single control point moves in a circular path (or under keyboard control), dragging a multi-colored ribbon that twists and leaves a fading trail; three angled mirrors around the motion axis multiply the ribbon into a flowing, symmetric 3D tapestry.",
+      "seed": "Kaleidoscopic Ribbon Dancer: A single control point moves in a circular path (or under keyboard control), dragging a multi-colored ribbon that twists and leaves a fading trail; three angled mirrors around the motion axis multiply the ribbon into a flowing, symmetric 3D tapestry."
+    },
+    {
+      "number": "22",
+      "title": "Time-Lapse Kaleidoscope Painter",
+      "description": "A small robot sphere crawls on the inside of a triangular mirrored shell, leaving colored lines where it touches; its path is reflected into kaleidoscopic line art across the shell, and old lines slowly fade, making the pattern continuously redraw itself.",
+      "seed": "Time-Lapse Kaleidoscope Painter: A small robot sphere crawls on the inside of a triangular mirrored shell, leaving colored lines where it touches; its path is reflected into kaleidoscopic line art across the shell, and old lines slowly fade, making the pattern continuously redraw itself."
+    },
+    {
+      "number": "23",
+      "title": "Orbital Kaleidoscope Clock",
+      "description": "Twelve colored spheres representing hours orbit around a central axis in a triangular mirrored chamber, with slower inner orbits for minutes and seconds; the reflections create a kaleidoscopic time pattern, and current time segments are labeled and glow.",
+      "seed": "Orbital Kaleidoscope Clock: Twelve colored spheres representing hours orbit around a central axis in a triangular mirrored chamber, with slower inner orbits for minutes and seconds; the reflections create a kaleidoscopic time pattern, and current time segments are labeled and glow."
+    },
+    {
+      "number": "24",
+      "title": "Floating Polyhedron Kaleidoscope",
+      "description": "A single semi-transparent polyhedron (like an icosahedron) floats and slowly deforms (faces bulge, edges contract) inside a set of mirror planes; its reflections produce a kaleidoscopic crystal field whose color subtly shifts with each deformation cycle.",
+      "seed": "Floating Polyhedron Kaleidoscope: A single semi-transparent polyhedron (like an icosahedron) floats and slowly deforms (faces bulge, edges contract) inside a set of mirror planes; its reflections produce a kaleidoscopic crystal field whose color subtly shifts with each deformation cycle."
+    },
+    {
+      "number": "25",
+      "title": "Kaleidoscopic Galaxy Merger",
+      "description": "Two small spiral “galaxies” of colored particles orbit and gradually collide in a space bounded by multiple reflective planes, their stars scattering, merging, and forming new symmetric spiral patterns repeated into a complex kaleidoscopic universe.",
+      "seed": "Kaleidoscopic Galaxy Merger: Two small spiral “galaxies” of colored particles orbit and gradually collide in a space bounded by multiple reflective planes, their stars scattering, merging, and forming new symmetric spiral patterns repeated into a complex kaleidoscopic universe."
+    }
+  ],
+  "raw_output": "Here are strong **Kaleidoscopes simulation inputs** you can plug into your prompt:\n\n1. **Rotating Mirror Tube Kaleidoscope**\n   A long transparent tube filled with colored spheres is viewed through three rotating reflective panels that form a triangular prism, creating mirrored copies that split, merge, and orbit as the tube slowly turns and the beads bounce under gentle gravity.\n\n2. **Fractal Kaleidoscope of Orbiting Polygons**\n   Dozens of flat, brightly colored polygonal tiles orbit a central axis while three mirrored planes at 60° angles reflect them into an infinite fractal-like tunnel that pulses in color and leaves faint rotational trails.\n\n3. **Mechanical Hand-Crank Kaleidoscope**\n   A hand-crank (controlled by keyboard) spins a disk of colored glass shards between two transparent plates at one end of a tube, while an inner set of mirrors rotates at a different speed, producing slowly drifting symmetrical patterns that occasionally align and “snap” into labeled symmetric states.\n\n4. **Particle Stream Kaleidoscope**\n   Colored particles are emitted from a central nozzle and bounce elastically between three angled mirror-walls, forming mirrored streams that branch, collide, and dissipate with fading trails on a light background.\n\n5. **Bouncing Marbles Kaleidoscope Chamber**\n   A triangular glass chamber with mirrored inner walls holds dozens of bouncy spheres of different sizes that collide, cluster, and separate, their reflections multiplying into a dense, pulsing kaleidoscopic swarm.\n\n6. **Celestial Kaleidoscope of Orbiting Stars**\n   A set of glowing star-spheres and dimmer planet-spheres orbit in 3D around a central axis, while three semi-transparent reflective planes slice the space and reflect the orbits to form a kaleidoscope-like cosmic lattice with labeled orbital paths.\n\n7. **Laser Beam Kaleidoscope**\n   A few narrow colored laser beams enter a mirrored triangular prism, reflecting and refracting at each face, splitting into multiple paths that form symmetric light patterns on a circular screen that slowly rotates and records hit points as glowing marks.\n\n8. **Microscopic Cell Kaleidoscope**\n   Semi-transparent cells of different colors float in fluid and randomly drift and divide, while three reflective boundaries around the fluid chamber create kaleidoscopic repetitions of cell clusters that pulse in brightness when they touch or merge.\n\n9. **Kaleidoscopic Snowflake Generator**\n   Tiny icy particles condense near a cold center, stick together into branching hexagonal snowflakes, and then get reflected by six mirror planes around the axis, creating a dynamic 3D kaleidoscope of growing, rotating snowflake structures.\n\n10. **Interactive Mirror Room with User-Controlled Object**\n    A single colored cube controlled by arrow keys moves and bounces inside a triangular mirrored room, its reflections forming a kaleidoscopic lattice that changes density as the cube speeds up, slows, and collides with the mirrored walls.\n\n11. **Rotating Mandala Kaleidoscope Disk**\n    A flat circular disk covered with colored geometric shapes rotates about its center while three angled mirror panels above it reflect the patterns into a hovering 3D mandala that slowly unfolds, contracts, and changes symmetry when rotation speed changes.\n\n12. **Kaleidoscopic Fountain of Particles**\n    A central fountain sprays colored droplets upward; they arc, fall, and bounce off a triangular basin with mirrored sides, producing multiple symmetric fountains whose droplets leave short-lived trails and occasionally merge into glowing splashes.\n\n13. **Crystal Shard Kaleidoscope Box**\n    Randomly sized transparent crystal shards float in a low-gravity glass box with mirrored inner faces, gently rotating and colliding; light rays from above refract through them, creating moving kaleidoscopic color patterns on the box faces.\n\n14. **Kaleidoscope of Magnetic Beads**\n    Dozens of colored magnetic spheres attract and repel in a triangular mirrored arena, self-assembling into symmetric chains and clusters that rotate and reconfigure while their patterns are multiplied and reflected in the mirrors.\n\n15. **Orbiting Icon Kaleidoscope (Symbolic)**\n    Several distinct symbolic shapes (hearts, stars, arrows, circles) orbit and bounce within a triangular reflective tunnel, leaving colored trails and forming changing kaleidoscopic motifs that are labeled when certain symmetries (e.g., 3-fold, 6-fold) appear.\n\n16. **Sound-Driven Kaleidoscope**\n    A central “speaker” object emits pulses whose strength is mapped to the speed and size of colored shapes that radiate outward, bounce off mirrored boundaries, and create a symmetric pattern whose complexity changes with a simple on-screen “volume” slider.\n\n17. **Kaleidoscopic City Courtyard**\n    A small cluster of stylized buildings and trees stands in a triangular courtyard surrounded by three tall mirrored walls; floating lights orbit overhead, and their reflections create a kaleidoscopic cityscape that shifts as some buildings rise, shrink, or rotate.\n\n18. **DNA Helix Kaleidoscope**\n    A central rotating DNA-like double helix made of colored spheres and rods is enclosed by multiple mirror planes; as base-pair segments detach, reattach, and replicate, the reflections create a shifting kaleidoscopic lattice of helices in 3D space.\n\n19. **Liquid Droplet Kaleidoscope**\n    Colored droplets drip slowly from above into a shallow triangular pool with mirrored sides, merging into blobs that spread, split, and bounce at the boundaries, their shapes and reflections forming evolving symmetric liquid patterns.\n\n20. **Firefly Swarm Kaleidoscope**\n    Glowing “firefly” particles wander with random motion inside a triangular mirrored prism, occasionally synchronizing their flashes; reflections make the swarm look dense and kaleidoscopic, and synchronized flashing events are highlighted with labels.\n\n21. **Kaleidoscopic Ribbon Dancer**\n    A single control point moves in a circular path (or under keyboard control), dragging a multi-colored ribbon that twists and leaves a fading trail; three angled mirrors around the motion axis multiply the ribbon into a flowing, symmetric 3D tapestry.\n\n22. **Time-Lapse Kaleidoscope Painter**\n    A small robot sphere crawls on the inside of a triangular mirrored shell, leaving colored lines where it touches; its path is reflected into kaleidoscopic line art across the shell, and old lines slowly fade, making the pattern continuously redraw itself.\n\n23. **Orbital Kaleidoscope Clock**\n    Twelve colored spheres representing hours orbit around a central axis in a triangular mirrored chamber, with slower inner orbits for minutes and seconds; the reflections create a kaleidoscopic time pattern, and current time segments are labeled and glow.\n\n24. **Floating Polyhedron Kaleidoscope**\n    A single semi-transparent polyhedron (like an icosahedron) floats and slowly deforms (faces bulge, edges contract) inside a set of mirror planes; its reflections produce a kaleidoscopic crystal field whose color subtly shifts with each deformation cycle.\n\n25. **Kaleidoscopic Galaxy Merger**\n    Two small spiral “galaxies” of colored particles orbit and gradually collide in a space bounded by multiple reflective planes, their stars scattering, merging, and forming new symmetric spiral patterns repeated into a complex kaleidoscopic universe."
+}

@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Blood flow",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:47:33",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Capillary Crossroads",
+      "description": "A transparent branching capillary network where red and blue blood cells (small spheres) float, split, and merge at junctions while flow speed is shown by arrow labels and color gradients along the vessel walls.",
+      "seed": "Capillary Crossroads: A transparent branching capillary network where red and blue blood cells (small spheres) float, split, and merge at junctions while flow speed is shown by arrow labels and color gradients along the vessel walls."
+    },
+    {
+      "number": "2",
+      "title": "Heartbeat-Driven Artery Pulse",
+      "description": "A large semi-transparent artery tube that rhythmically expands and contracts with a pulsing “heart” sphere at one end, pushing red cell particles that accelerate in narrow regions and bounce softly off the vessel wall.",
+      "seed": "Heartbeat-Driven Artery Pulse: A large semi-transparent artery tube that rhythmically expands and contracts with a pulsing “heart” sphere at one end, pushing red cell particles that accelerate in narrow regions and bounce softly off the vessel wall."
+    },
+    {
+      "number": "3",
+      "title": "Blood Cell Traffic Jam at a Narrowing",
+      "description": "A long tube that gradually narrows in the middle, where blood cells collide, stack, and squeeze through, leaving trails and triggering a pressure meter and warning labels that glow brighter as congestion increases.",
+      "seed": "Blood Cell Traffic Jam at a Narrowing: A long tube that gradually narrows in the middle, where blood cells collide, stack, and squeeze through, leaving trails and triggering a pressure meter and warning labels that glow brighter as congestion increases."
+    },
+    {
+      "number": "4",
+      "title": "Oxygen Exchange in the Lungs",
+      "description": "A cluster of transparent spherical alveoli surrounded by capillary loops where red cells flow by, attach blue “O2” particles from alveoli, turn from dark red to bright red, and detach CO₂ particles that drift back into the sacs.",
+      "seed": "Oxygen Exchange in the Lungs: A cluster of transparent spherical alveoli surrounded by capillary loops where red cells flow by, attach blue “O2” particles from alveoli, turn from dark red to bright red, and detach CO₂ particles that drift back into the sacs."
+    },
+    {
+      "number": "5",
+      "title": "Microcirculation Network Map",
+      "description": "A 3D maze of tiny vessels over a light background, with blood cells flowing, scattering at bifurcations based on vessel radius, and a side panel that dynamically labels regions as arterial, capillary, or venous with changing colors.",
+      "seed": "Microcirculation Network Map: A 3D maze of tiny vessels over a light background, with blood cells flowing, scattering at bifurcations based on vessel radius, and a side panel that dynamically labels regions as arterial, capillary, or venous with changing colors."
+    },
+    {
+      "number": "6",
+      "title": "Blood Clot Formation and Dissolution",
+      "description": "A straight vessel where platelets (small yellow spheres) drift, detect a wall “injury” patch, attach, stack, and form a growing plug that partially blocks red cell flow until transparent “drug” particles arrive and dissolve the clot.",
+      "seed": "Blood Clot Formation and Dissolution: A straight vessel where platelets (small yellow spheres) drift, detect a wall “injury” patch, attach, stack, and form a growing plug that partially blocks red cell flow until transparent “drug” particles arrive and dissolve the clot."
+    },
+    {
+      "number": "7",
+      "title": "Turbulent Flow Around a Plaque",
+      "description": "A curved artery with a raised plaque on the inner wall that forces blood cells to swirl and form eddies; flow lines and particle trails show regions of laminar vs turbulent flow with color-coded shear stress labels.",
+      "seed": "Turbulent Flow Around a Plaque: A curved artery with a raised plaque on the inner wall that forces blood cells to swirl and form eddies; flow lines and particle trails show regions of laminar vs turbulent flow with color-coded shear stress labels."
+    },
+    {
+      "number": "8",
+      "title": "Artificial Heart Pump Circuit",
+      "description": "A looped transparent tube system with a mechanical pump (rotating blades) that draws in and ejects blood particles, showing how cells accelerate, slow, and occasionally collide at bends and connectors in the circuit.",
+      "seed": "Artificial Heart Pump Circuit: A looped transparent tube system with a mechanical pump (rotating blades) that draws in and ejects blood particles, showing how cells accelerate, slow, and occasionally collide at bends and connectors in the circuit."
+    },
+    {
+      "number": "9",
+      "title": "Blood Flow in a Rotating Brain Slice",
+      "description": "A semi-transparent 3D brain section with embedded vessels where blood pulses through branching arteries and veins; rotating the brain lets the camera reveal labeled regions that briefly glow as flow increases.",
+      "seed": "Blood Flow in a Rotating Brain Slice: A semi-transparent 3D brain section with embedded vessels where blood pulses through branching arteries and veins; rotating the brain lets the camera reveal labeled regions that briefly glow as flow increases."
+    },
+    {
+      "number": "10",
+      "title": "Venous Valve One-Way Gate",
+      "description": "A vertical vein segment with flapping valve leaflets that open as red cells drift upward and snap shut when cells try to fall back, creating visible backflow attempts where cells bounce and reverse direction.",
+      "seed": "Venous Valve One-Way Gate: A vertical vein segment with flapping valve leaflets that open as red cells drift upward and snap shut when cells try to fall back, creating visible backflow attempts where cells bounce and reverse direction."
+    },
+    {
+      "number": "11",
+      "title": "Arteriovenous Shunt Bypass",
+      "description": "A Y-shaped vessel where a side shunt allows blood to bypass a blocked segment; cells choose paths based on resistance, and sliders let the user adjust shunt diameter while meters show changing flow rates and pressures.",
+      "seed": "Arteriovenous Shunt Bypass: A Y-shaped vessel where a side shunt allows blood to bypass a blocked segment; cells choose paths based on resistance, and sliders let the user adjust shunt diameter while meters show changing flow rates and pressures."
+    },
+    {
+      "number": "12",
+      "title": "Dialysis Machine Blood Loop",
+      "description": "A looping transparent “blood line” leading into a rectangular filter block where blood particles slow, some colored “toxin” particles detach and get trapped in the filter grid, and cleaned blood exits brighter and faster.",
+      "seed": "Dialysis Machine Blood Loop: A looping transparent “blood line” leading into a rectangular filter block where blood particles slow, some colored “toxin” particles detach and get trapped in the filter grid, and cleaned blood exits brighter and faster."
+    },
+    {
+      "number": "13",
+      "title": "Fetal-Maternal Blood Exchange in the Placenta",
+      "description": "Intertwined maternal and fetal vessels separated by thin transparent walls where particles representing nutrients and oxygen pass through and attach to fetal blood cells, changing their color and triggering glow effects.",
+      "seed": "Fetal-Maternal Blood Exchange in the Placenta: Intertwined maternal and fetal vessels separated by thin transparent walls where particles representing nutrients and oxygen pass through and attach to fetal blood cells, changing their color and triggering glow effects."
+    },
+    {
+      "number": "14",
+      "title": "Sickle Cell Blockage Simulation",
+      "description": "A capillary bed where normal round cells and rigid sickle-shaped cells flow together; sickle cells are more likely to snag, attach to the wall, and cause local jams that slowly spread and reduce downstream flow.",
+      "seed": "Sickle Cell Blockage Simulation: A capillary bed where normal round cells and rigid sickle-shaped cells flow together; sickle cells are more likely to snag, attach to the wall, and cause local jams that slowly spread and reduce downstream flow."
+    },
+    {
+      "number": "15",
+      "title": "Blood Flow Through a Beating Heart Chamber",
+      "description": "A cutaway semi-transparent ventricle that rhythmically contracts and relaxes, drawing in blood through an inlet valve and ejecting it through an outlet valve; particles swirl, form vortices, and are labeled with velocities.",
+      "seed": "Blood Flow Through a Beating Heart Chamber: A cutaway semi-transparent ventricle that rhythmically contracts and relaxes, drawing in blood through an inlet valve and ejecting it through an outlet valve; particles swirl, form vortices, and are labeled with velocities."
+    },
+    {
+      "number": "16",
+      "title": "Exercise vs Rest Circulation Switch",
+      "description": "A body-outline vessel network where toggling between “rest” and “exercise” changes pump rate and vessel radius; blood cell speed, density, and color-coded tissue perfusion levels update and glow in active regions.",
+      "seed": "Exercise vs Rest Circulation Switch: A body-outline vessel network where toggling between “rest” and “exercise” changes pump rate and vessel radius; blood cell speed, density, and color-coded tissue perfusion levels update and glow in active regions."
+    },
+    {
+      "number": "17",
+      "title": "Blood Flow as a City Traffic System",
+      "description": "A metaphorical city map with roads as vessels and cars as blood cells, where intersections act as capillary beds, “factories” load cars with cargo, and congested areas turn red while flow meters display “oxygen delivery.”",
+      "seed": "Blood Flow as a City Traffic System: A metaphorical city map with roads as vessels and cars as blood cells, where intersections act as capillary beds, “factories” load cars with cargo, and congested areas turn red while flow meters display “oxygen delivery.”"
+    },
+    {
+      "number": "18",
+      "title": "3D Wound Bleeding and Clotting",
+      "description": "A surface cut in tissue where vessels open and spill blood particles into the surrounding space, forming a spreading pool; platelets and fibrin strands attach, create a mesh over the wound, and gradually stop the outflow.",
+      "seed": "3D Wound Bleeding and Clotting: A surface cut in tissue where vessels open and spill blood particles into the surrounding space, forming a spreading pool; platelets and fibrin strands attach, create a mesh over the wound, and gradually stop the outflow."
+    },
+    {
+      "number": "19",
+      "title": "Magnetic Blood Flow Control",
+      "description": "A vessel passing between moving magnetic spheres outside the vessel wall; magnet-sensitive particles within the blood are attracted, cluster near the magnets, and alter flow patterns while labeled magnetic field lines animate.",
+      "seed": "Magnetic Blood Flow Control: A vessel passing between moving magnetic spheres outside the vessel wall; magnet-sensitive particles within the blood are attracted, cluster near the magnets, and alter flow patterns while labeled magnetic field lines animate."
+    },
+    {
+      "number": "20",
+      "title": "Contrast Dye Injection in Angiography",
+      "description": "A branching arterial tree where a bolus of bright, semi-transparent contrast fluid enters, mixes, and flows forward as a colored front, allowing visualization of timing, blockages, and delayed regions highlighted with labels.",
+      "seed": "Contrast Dye Injection in Angiography: A branching arterial tree where a bolus of bright, semi-transparent contrast fluid enters, mixes, and flows forward as a colored front, allowing visualization of timing, blockages, and delayed regions highlighted with labels."
+    },
+    {
+      "number": "21",
+      "title": "Blood Flow in a Rotating Centrifuge Tube",
+      "description": "A partially filled transparent tube spinning around an axis where blood components separate: red cells condense at one end, plasma at the other, and trails show how particles migrate and settle under rotation.",
+      "seed": "Blood Flow in a Rotating Centrifuge Tube: A partially filled transparent tube spinning around an axis where blood components separate: red cells condense at one end, plasma at the other, and trails show how particles migrate and settle under rotation."
+    },
+    {
+      "number": "22",
+      "title": "Microfluidic Lab-on-a-Chip Blood Channel",
+      "description": "A flat, transparent chip with tiny etched channels where droplets of blood split, merge, and mix with reagent streams; labeled reaction zones glow when cells pass through and attach specific marker particles.",
+      "seed": "Microfluidic Lab-on-a-Chip Blood Channel: A flat, transparent chip with tiny etched channels where droplets of blood split, merge, and mix with reagent streams; labeled reaction zones glow when cells pass through and attach specific marker particles."
+    },
+    {
+      "number": "23",
+      "title": "Blood Flow in a Developing Embryo Loop",
+      "description": "A simple looping vessel in a translucent embryo shape where primitive blood cells start moving slowly, then speed up as the “heart tube” begins to beat, with new branches sprouting and glowing as they form.",
+      "seed": "Blood Flow in a Developing Embryo Loop: A simple looping vessel in a translucent embryo shape where primitive blood cells start moving slowly, then speed up as the “heart tube” begins to beat, with new branches sprouting and glowing as they form."
+    },
+    {
+      "number": "24",
+      "title": "Cold vs Warm Region Vasoconstriction",
+      "description": "A pair of parallel limb vessel networks, one “cold” and one “warm,” where vessel radii shrink or expand over time, changing blood cell speeds and densities, while temperature-colored halos show heat transfer.",
+      "seed": "Cold vs Warm Region Vasoconstriction: A pair of parallel limb vessel networks, one “cold” and one “warm,” where vessel radii shrink or expand over time, changing blood cell speeds and densities, while temperature-colored halos show heat transfer."
+    },
+    {
+      "number": "25",
+      "title": "3D Aneurysm Flow Vortex",
+      "description": "An artery segment with a balloon-like aneurysm bulge where blood cells enter, swirl, and form persistent vortices inside the bulge; streamlines and color-coded velocity surfaces show stagnant vs fast-flow zones.",
+      "seed": "3D Aneurysm Flow Vortex: An artery segment with a balloon-like aneurysm bulge where blood cells enter, swirl, and form persistent vortices inside the bulge; streamlines and color-coded velocity surfaces show stagnant vs fast-flow zones."
+    }
+  ],
+  "raw_output": "Here are strong **Blood flow simulation inputs** you can plug into your prompt:\n\n1. **Capillary Crossroads**\n   A transparent branching capillary network where red and blue blood cells (small spheres) float, split, and merge at junctions while flow speed is shown by arrow labels and color gradients along the vessel walls.\n\n2. **Heartbeat-Driven Artery Pulse**\n   A large semi-transparent artery tube that rhythmically expands and contracts with a pulsing “heart” sphere at one end, pushing red cell particles that accelerate in narrow regions and bounce softly off the vessel wall.\n\n3. **Blood Cell Traffic Jam at a Narrowing**\n   A long tube that gradually narrows in the middle, where blood cells collide, stack, and squeeze through, leaving trails and triggering a pressure meter and warning labels that glow brighter as congestion increases.\n\n4. **Oxygen Exchange in the Lungs**\n   A cluster of transparent spherical alveoli surrounded by capillary loops where red cells flow by, attach blue “O2” particles from alveoli, turn from dark red to bright red, and detach CO₂ particles that drift back into the sacs.\n\n5. **Microcirculation Network Map**\n   A 3D maze of tiny vessels over a light background, with blood cells flowing, scattering at bifurcations based on vessel radius, and a side panel that dynamically labels regions as arterial, capillary, or venous with changing colors.\n\n6. **Blood Clot Formation and Dissolution**\n   A straight vessel where platelets (small yellow spheres) drift, detect a wall “injury” patch, attach, stack, and form a growing plug that partially blocks red cell flow until transparent “drug” particles arrive and dissolve the clot.\n\n7. **Turbulent Flow Around a Plaque**\n   A curved artery with a raised plaque on the inner wall that forces blood cells to swirl and form eddies; flow lines and particle trails show regions of laminar vs turbulent flow with color-coded shear stress labels.\n\n8. **Artificial Heart Pump Circuit**\n   A looped transparent tube system with a mechanical pump (rotating blades) that draws in and ejects blood particles, showing how cells accelerate, slow, and occasionally collide at bends and connectors in the circuit.\n\n9. **Blood Flow in a Rotating Brain Slice**\n   A semi-transparent 3D brain section with embedded vessels where blood pulses through branching arteries and veins; rotating the brain lets the camera reveal labeled regions that briefly glow as flow increases.\n\n10. **Venous Valve One-Way Gate**\n    A vertical vein segment with flapping valve leaflets that open as red cells drift upward and snap shut when cells try to fall back, creating visible backflow attempts where cells bounce and reverse direction.\n\n11. **Arteriovenous Shunt Bypass**\n    A Y-shaped vessel where a side shunt allows blood to bypass a blocked segment; cells choose paths based on resistance, and sliders let the user adjust shunt diameter while meters show changing flow rates and pressures.\n\n12. **Dialysis Machine Blood Loop**\n    A looping transparent “blood line” leading into a rectangular filter block where blood particles slow, some colored “toxin” particles detach and get trapped in the filter grid, and cleaned blood exits brighter and faster.\n\n13. **Fetal-Maternal Blood Exchange in the Placenta**\n    Intertwined maternal and fetal vessels separated by thin transparent walls where particles representing nutrients and oxygen pass through and attach to fetal blood cells, changing their color and triggering glow effects.\n\n14. **Sickle Cell Blockage Simulation**\n    A capillary bed where normal round cells and rigid sickle-shaped cells flow together; sickle cells are more likely to snag, attach to the wall, and cause local jams that slowly spread and reduce downstream flow.\n\n15. **Blood Flow Through a Beating Heart Chamber**\n    A cutaway semi-transparent ventricle that rhythmically contracts and relaxes, drawing in blood through an inlet valve and ejecting it through an outlet valve; particles swirl, form vortices, and are labeled with velocities.\n\n16. **Exercise vs Rest Circulation Switch**\n    A body-outline vessel network where toggling between “rest” and “exercise” changes pump rate and vessel radius; blood cell speed, density, and color-coded tissue perfusion levels update and glow in active regions.\n\n17. **Blood Flow as a City Traffic System**\n    A metaphorical city map with roads as vessels and cars as blood cells, where intersections act as capillary beds, “factories” load cars with cargo, and congested areas turn red while flow meters display “oxygen delivery.”\n\n18. **3D Wound Bleeding and Clotting**\n    A surface cut in tissue where vessels open and spill blood particles into the surrounding space, forming a spreading pool; platelets and fibrin strands attach, create a mesh over the wound, and gradually stop the outflow.\n\n19. **Magnetic Blood Flow Control**\n    A vessel passing between moving magnetic spheres outside the vessel wall; magnet-sensitive particles within the blood are attracted, cluster near the magnets, and alter flow patterns while labeled magnetic field lines animate.\n\n20. **Contrast Dye Injection in Angiography**\n    A branching arterial tree where a bolus of bright, semi-transparent contrast fluid enters, mixes, and flows forward as a colored front, allowing visualization of timing, blockages, and delayed regions highlighted with labels.\n\n21. **Blood Flow in a Rotating Centrifuge Tube**\n    A partially filled transparent tube spinning around an axis where blood components separate: red cells condense at one end, plasma at the other, and trails show how particles migrate and settle under rotation.\n\n22. **Microfluidic Lab-on-a-Chip Blood Channel**\n    A flat, transparent chip with tiny etched channels where droplets of blood split, merge, and mix with reagent streams; labeled reaction zones glow when cells pass through and attach specific marker particles.\n\n23. **Blood Flow in a Developing Embryo Loop**\n    A simple looping vessel in a translucent embryo shape where primitive blood cells start moving slowly, then speed up as the “heart tube” begins to beat, with new branches sprouting and glowing as they form.\n\n24. **Cold vs Warm Region Vasoconstriction**\n    A pair of parallel limb vessel networks, one “cold” and one “warm,” where vessel radii shrink or expand over time, changing blood cell speeds and densities, while temperature-colored halos show heat transfer.\n\n25. **3D Aneurysm Flow Vortex**\n    An artery segment with a balloon-like aneurysm bulge where blood cells enter, swirl, and form persistent vortices inside the bulge; streamlines and color-coded velocity surfaces show stagnant vs fast-flow zones."
+}

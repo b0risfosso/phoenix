@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Pollination",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:46:49",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Bee-to-Flower Pollen Transfer Garden",
+      "description": "A bee-shaped sphere flies between colorful flower models, landing on petals to collect and transfer tiny yellow pollen particles that attach, detach, and leave faint trails, while a counter label tracks successful pollinations above each plant.",
+      "seed": "Bee-to-Flower Pollen Transfer Garden: A bee-shaped sphere flies between colorful flower models, landing on petals to collect and transfer tiny yellow pollen particles that attach, detach, and leave faint trails, while a counter label tracks successful pollinations above each plant."
+    },
+    {
+      "number": "2",
+      "title": "Microscopic Pollen Grain Zoom-In",
+      "description": "A few oversized, spiky pollen grains slowly rotate and drift in a transparent air volume, colliding with a textured, semi-transparent stigma surface where grains that touch stick, swell, and start glowing as they activate.",
+      "seed": "Microscopic Pollen Grain Zoom-In: A few oversized, spiky pollen grains slowly rotate and drift in a transparent air volume, colliding with a textured, semi-transparent stigma surface where grains that touch stick, swell, and start glowing as they activate."
+    },
+    {
+      "number": "3",
+      "title": "Wind Pollination Field",
+      "description": "A grid of grass-like plants with feathery anthers releases clouds of tiny pollen particles when a sweeping, invisible wind vector passes, with particles bouncing lightly off stems, some attaching to distant stigmas, visualized with light-yellow particle trails.",
+      "seed": "Wind Pollination Field: A grid of grass-like plants with feathery anthers releases clouds of tiny pollen particles when a sweeping, invisible wind vector passes, with particles bouncing lightly off stems, some attaching to distant stigmas, visualized with light-yellow particle trails."
+    },
+    {
+      "number": "4",
+      "title": "Pollen Tube Growth Race",
+      "description": "Several pollen grains land on a stigma surface and each launches a growing, branching pollen tube that extends downward through a semi-transparent pistil cylinder, with tubes glowing different colors and labels showing growth speed and distance to ovules.",
+      "seed": "Pollen Tube Growth Race: Several pollen grains land on a stigma surface and each launches a growing, branching pollen tube that extends downward through a semi-transparent pistil cylinder, with tubes glowing different colors and labels showing growth speed and distance to ovules."
+    },
+    {
+      "number": "5",
+      "title": "Pollinator Network Map in 3D",
+      "description": "Floating flower nodes and insect nodes are connected by curved, glowing paths that light up when a pollination event occurs; insect spheres move between flower clusters, leaving trails and transferring color-coded “pollen charge” that accumulates on flowers.",
+      "seed": "Pollinator Network Map in 3D: Floating flower nodes and insect nodes are connected by curved, glowing paths that light up when a pollination event occurs; insect spheres move between flower clusters, leaving trails and transferring color-coded “pollen charge” that accumulates on flowers."
+    },
+    {
+      "number": "6",
+      "title": "Greenhouse Ventilation and Pollen Drift",
+      "description": "Inside a box-shaped greenhouse, fans (rotating blades) push air currents visualized by arrows and particle streams, moving airborne pollen from male plants to female plants, where collisions with stigmas are counted and displayed on a floating dashboard.",
+      "seed": "Greenhouse Ventilation and Pollen Drift: Inside a box-shaped greenhouse, fans (rotating blades) push air currents visualized by arrows and particle streams, moving airborne pollen from male plants to female plants, where collisions with stigmas are counted and displayed on a floating dashboard."
+    },
+    {
+      "number": "7",
+      "title": "Bat Pollination at Night",
+      "description": "Large flower models open and close slowly on a dim, light-blue background while bat-shaped objects swoop in arcs, brushing against stamens; pollen particles briefly glow on bat wings and bodies, then detach and stick to other flowers’ stigmas.",
+      "seed": "Bat Pollination at Night: Large flower models open and close slowly on a dim, light-blue background while bat-shaped objects swoop in arcs, brushing against stamens; pollen particles briefly glow on bat wings and bodies, then detach and stick to other flowers’ stigmas."
+    },
+    {
+      "number": "8",
+      "title": "Water Surface Pollination",
+      "description": "Small floating flowers on a gently waving, semi-transparent water plane release pollen grains that drift along surface ripples; grains cluster, split, and occasionally collide with receptive floating flowers, which change color when successfully pollinated.",
+      "seed": "Water Surface Pollination: Small floating flowers on a gently waving, semi-transparent water plane release pollen grains that drift along surface ripples; grains cluster, split, and occasionally collide with receptive floating flowers, which change color when successfully pollinated."
+    },
+    {
+      "number": "9",
+      "title": "Robot Pollinator Arm",
+      "description": "A robotic arm with a soft spherical “brush” end-effector moves between rows of artificial flowers, picking up clusters of pollen particles that stick to the brush and then transfer to target flowers, with a progress bar showing coverage of each row.",
+      "seed": "Robot Pollinator Arm: A robotic arm with a soft spherical “brush” end-effector moves between rows of artificial flowers, picking up clusters of pollen particles that stick to the brush and then transfer to target flowers, with a progress bar showing coverage of each row."
+    },
+    {
+      "number": "10",
+      "title": "Urban Pollination Corridor",
+      "description": "A city block with buildings as boxes and balcony planters as flower clusters is visited by bee and butterfly agents; they fly around obstacles, land on planters, and transfer pollen, while a semi-transparent “pollination heat map” rises above the streets showing visited intensity.",
+      "seed": "Urban Pollination Corridor: A city block with buildings as boxes and balcony planters as flower clusters is visited by bee and butterfly agents; they fly around obstacles, land on planters, and transfer pollen, while a semi-transparent “pollination heat map” rises above the streets showing visited intensity."
+    },
+    {
+      "number": "11",
+      "title": "Allergen Cloud in a Park",
+      "description": "Trees release pulses of pollen clouds that expand, merge, and drift through a park scene with walking human avatars; pollen spheres that enter a figure’s breathing zone attach briefly and turn red, incrementing an “allergen exposure” meter above each person.",
+      "seed": "Allergen Cloud in a Park: Trees release pulses of pollen clouds that expand, merge, and drift through a park scene with walking human avatars; pollen spheres that enter a figure’s breathing zone attach briefly and turn red, incrementing an “allergen exposure” meter above each person."
+    },
+    {
+      "number": "12",
+      "title": "3D Pollen Morphology Gallery",
+      "description": "Multiple oversized pollen grains of different species float and slowly rotate in a clear volume, occasionally bumping and bouncing off each other; each grain has a label and changes color slightly when it “contacts” a mock stigma plane, indicating compatibility.",
+      "seed": "3D Pollen Morphology Gallery: Multiple oversized pollen grains of different species float and slowly rotate in a clear volume, occasionally bumping and bouncing off each other; each grain has a label and changes color slightly when it “contacts” a mock stigma plane, indicating compatibility."
+    },
+    {
+      "number": "13",
+      "title": "Crop Field with Windbreak Experiment",
+      "description": "Two adjacent crop fields are separated by a wall of trees; wind-driven pollen particles emitted from one side drift, collide with the windbreak, and either get deflected, trapped, or pass through gaps, with counters showing how much pollen reaches the other field.",
+      "seed": "Crop Field with Windbreak Experiment: Two adjacent crop fields are separated by a wall of trees; wind-driven pollen particles emitted from one side drift, collide with the windbreak, and either get deflected, trapped, or pass through gaps, with counters showing how much pollen reaches the other field."
+    },
+    {
+      "number": "14",
+      "title": "Hoverfly vs Bee Pollination Efficiency",
+      "description": "Bee and hoverfly agents, color-coded and labeled, visit the same patch of flowers; each visit triggers animated pollen transfer particles that accumulate in “pollen load” bars above the insects and “seed set” meters above the plants for side-by-side comparison.",
+      "seed": "Hoverfly vs Bee Pollination Efficiency: Bee and hoverfly agents, color-coded and labeled, visit the same patch of flowers; each visit triggers animated pollen transfer particles that accumulate in “pollen load” bars above the insects and “seed set” meters above the plants for side-by-side comparison."
+    },
+    {
+      "number": "15",
+      "title": "3D Orchard Pollination with Hive Placement",
+      "description": "A rectangular orchard of fruit trees is visited by bees originating from one or more hive boxes; bees fan out, orbit trees, land, and transfer pollen, while adjustable hive positions change the density and distribution of glowing pollination events across the orchard.",
+      "seed": "3D Orchard Pollination with Hive Placement: A rectangular orchard of fruit trees is visited by bees originating from one or more hive boxes; bees fan out, orbit trees, land, and transfer pollen, while adjustable hive positions change the density and distribution of glowing pollination events across the orchard."
+    },
+    {
+      "number": "16",
+      "title": "Hand Pollination Classroom Demo",
+      "description": "A human hand model holding a small brush moves between two potted plants, gently touching anthers to pick up pollen (yellow dots that stick to the brush) and then applying them to another flower’s stigma, which lights up and grows a faint pollen tube inside a transparent stem.",
+      "seed": "Hand Pollination Classroom Demo: A human hand model holding a small brush moves between two potted plants, gently touching anthers to pick up pollen (yellow dots that stick to the brush) and then applying them to another flower’s stigma, which lights up and grows a faint pollen tube inside a transparent stem."
+    },
+    {
+      "number": "17",
+      "title": "Wind vs Insect Pollination Forest Layer",
+      "description": "A mixed forest scene has some trees releasing pollen clouds into the air while insects fly between others with showy flowers; a side panel shows two tall transparent columns where color-coded particles accumulate, visualizing contributions from wind and insects over time.",
+      "seed": "Wind vs Insect Pollination Forest Layer: A mixed forest scene has some trees releasing pollen clouds into the air while insects fly between others with showy flowers; a side panel shows two tall transparent columns where color-coded particles accumulate, visualizing contributions from wind and insects over time."
+    },
+    {
+      "number": "18",
+      "title": "Pollen Tube Maze in an Ovary Cross-Section",
+      "description": "A cutaway, semi-transparent pistil reveals a branching maze of channels leading to ovules; pollen tubes grow from the top, split at junctions, collide with walls, and sometimes merge paths, with successful tubes turning bright green when they reach an ovule sphere.",
+      "seed": "Pollen Tube Maze in an Ovary Cross-Section: A cutaway, semi-transparent pistil reveals a branching maze of channels leading to ovules; pollen tubes grow from the top, split at junctions, collide with walls, and sometimes merge paths, with successful tubes turning bright green when they reach an ovule sphere."
+    },
+    {
+      "number": "19",
+      "title": "Night-Blooming Cactus and Moth Pollination",
+      "description": "Tall cactus flowers gradually open as the scene darkens; large moths with long proboscises hover and rotate around them, inserting their proboscises into flowers, where pollen grains attach to their bodies and are later deposited onto other cacti, changing flower color saturation.",
+      "seed": "Night-Blooming Cactus and Moth Pollination: Tall cactus flowers gradually open as the scene darkens; large moths with long proboscises hover and rotate around them, inserting their proboscises into flowers, where pollen grains attach to their bodies and are later deposited onto other cacti, changing flower color saturation."
+    },
+    {
+      "number": "20",
+      "title": "Mechanical Pollen Shaker in a Lab",
+      "description": "A vibrating platform holding test tubes with male flowers shakes at variable frequencies, ejecting pollen particles that rise and fall inside a clear chamber; a movable collector slide passes through the particle cloud, gathering grains that stick and are counted by a floating label.",
+      "seed": "Mechanical Pollen Shaker in a Lab: A vibrating platform holding test tubes with male flowers shakes at variable frequencies, ejecting pollen particles that rise and fall inside a clear chamber; a movable collector slide passes through the particle cloud, gathering grains that stick and are counted by a floating label."
+    },
+    {
+      "number": "21",
+      "title": "Pollination on a Rotating Space Habitat",
+      "description": "Inside a rotating cylindrical space habitat, small drone pollinators fly among planters attached to the inner wall; rotation-induced “artificial gravity” curves their flight paths, and pollen particles drift, attach to drones, and then to other flowers as the whole scene slowly rotates.",
+      "seed": "Pollination on a Rotating Space Habitat: Inside a rotating cylindrical space habitat, small drone pollinators fly among planters attached to the inner wall; rotation-induced “artificial gravity” curves their flight paths, and pollen particles drift, attach to drones, and then to other flowers as the whole scene slowly rotates."
+    },
+    {
+      "number": "22",
+      "title": "Bee Path Optimization Over Blooming Time",
+      "description": "A patch of flowers gradually blooms and withers, changing color over time; a bee agent adapts its flight path to favor newly blooming flowers, leaving a colored trail that updates, while completed pollinations cause flowers to briefly glow and then dim.",
+      "seed": "Bee Path Optimization Over Blooming Time: A patch of flowers gradually blooms and withers, changing color over time; a bee agent adapts its flight path to favor newly blooming flowers, leaving a colored trail that updates, while completed pollinations cause flowers to briefly glow and then dim."
+    },
+    {
+      "number": "23",
+      "title": "Pollen Cross-Contamination Between Cultivars",
+      "description": "Two varieties of plants in alternating rows release different-colored pollen; insects and wind move particles between rows, and flowers that receive “foreign” pollen get marked with a striped halo, while meters above each plot show self vs cross-pollination proportions.",
+      "seed": "Pollen Cross-Contamination Between Cultivars: Two varieties of plants in alternating rows release different-colored pollen; insects and wind move particles between rows, and flowers that receive “foreign” pollen get marked with a striped halo, while meters above each plot show self vs cross-pollination proportions."
+    },
+    {
+      "number": "24",
+      "title": "3D Social Network as Pollination Metaphor",
+      "description": "Spheres representing people float in space and move toward each other; when two collide, they exchange glowing “idea pollen” particles that attach to their surfaces, spread to their neighbors in subsequent collisions, and fade slowly, visualizing idea pollination spreading through the network.",
+      "seed": "3D Social Network as Pollination Metaphor: Spheres representing people float in space and move toward each other; when two collide, they exchange glowing “idea pollen” particles that attach to their surfaces, spread to their neighbors in subsequent collisions, and fade slowly, visualizing idea pollination spreading through the network."
+    },
+    {
+      "number": "25",
+      "title": "Coral Spawning and Gamete Drift",
+      "description": "Coral colonies on a reef release clouds of buoyant, glowing gamete spheres that rise, split, merge, and drift with gentle currents; some collide and stick to form brighter zygote clusters, while a translucent overlay shows zones of high and low “pollination” success.",
+      "seed": "Coral Spawning and Gamete Drift: Coral colonies on a reef release clouds of buoyant, glowing gamete spheres that rise, split, merge, and drift with gentle currents; some collide and stick to form brighter zygote clusters, while a translucent overlay shows zones of high and low “pollination” success."
+    }
+  ],
+  "raw_output": "Here are strong **Pollination simulation inputs** you can plug into your prompt:\n\n1. **Bee-to-Flower Pollen Transfer Garden**\n   A bee-shaped sphere flies between colorful flower models, landing on petals to collect and transfer tiny yellow pollen particles that attach, detach, and leave faint trails, while a counter label tracks successful pollinations above each plant.\n\n2. **Microscopic Pollen Grain Zoom-In**\n   A few oversized, spiky pollen grains slowly rotate and drift in a transparent air volume, colliding with a textured, semi-transparent stigma surface where grains that touch stick, swell, and start glowing as they activate.\n\n3. **Wind Pollination Field**\n   A grid of grass-like plants with feathery anthers releases clouds of tiny pollen particles when a sweeping, invisible wind vector passes, with particles bouncing lightly off stems, some attaching to distant stigmas, visualized with light-yellow particle trails.\n\n4. **Pollen Tube Growth Race**\n   Several pollen grains land on a stigma surface and each launches a growing, branching pollen tube that extends downward through a semi-transparent pistil cylinder, with tubes glowing different colors and labels showing growth speed and distance to ovules.\n\n5. **Pollinator Network Map in 3D**\n   Floating flower nodes and insect nodes are connected by curved, glowing paths that light up when a pollination event occurs; insect spheres move between flower clusters, leaving trails and transferring color-coded “pollen charge” that accumulates on flowers.\n\n6. **Greenhouse Ventilation and Pollen Drift**\n   Inside a box-shaped greenhouse, fans (rotating blades) push air currents visualized by arrows and particle streams, moving airborne pollen from male plants to female plants, where collisions with stigmas are counted and displayed on a floating dashboard.\n\n7. **Bat Pollination at Night**\n   Large flower models open and close slowly on a dim, light-blue background while bat-shaped objects swoop in arcs, brushing against stamens; pollen particles briefly glow on bat wings and bodies, then detach and stick to other flowers’ stigmas.\n\n8. **Water Surface Pollination**\n   Small floating flowers on a gently waving, semi-transparent water plane release pollen grains that drift along surface ripples; grains cluster, split, and occasionally collide with receptive floating flowers, which change color when successfully pollinated.\n\n9. **Robot Pollinator Arm**\n   A robotic arm with a soft spherical “brush” end-effector moves between rows of artificial flowers, picking up clusters of pollen particles that stick to the brush and then transfer to target flowers, with a progress bar showing coverage of each row.\n\n10. **Urban Pollination Corridor**\n   A city block with buildings as boxes and balcony planters as flower clusters is visited by bee and butterfly agents; they fly around obstacles, land on planters, and transfer pollen, while a semi-transparent “pollination heat map” rises above the streets showing visited intensity.\n\n11. **Allergen Cloud in a Park**\n   Trees release pulses of pollen clouds that expand, merge, and drift through a park scene with walking human avatars; pollen spheres that enter a figure’s breathing zone attach briefly and turn red, incrementing an “allergen exposure” meter above each person.\n\n12. **3D Pollen Morphology Gallery**\n   Multiple oversized pollen grains of different species float and slowly rotate in a clear volume, occasionally bumping and bouncing off each other; each grain has a label and changes color slightly when it “contacts” a mock stigma plane, indicating compatibility.\n\n13. **Crop Field with Windbreak Experiment**\n   Two adjacent crop fields are separated by a wall of trees; wind-driven pollen particles emitted from one side drift, collide with the windbreak, and either get deflected, trapped, or pass through gaps, with counters showing how much pollen reaches the other field.\n\n14. **Hoverfly vs Bee Pollination Efficiency**\n   Bee and hoverfly agents, color-coded and labeled, visit the same patch of flowers; each visit triggers animated pollen transfer particles that accumulate in “pollen load” bars above the insects and “seed set” meters above the plants for side-by-side comparison.\n\n15. **3D Orchard Pollination with Hive Placement**\n   A rectangular orchard of fruit trees is visited by bees originating from one or more hive boxes; bees fan out, orbit trees, land, and transfer pollen, while adjustable hive positions change the density and distribution of glowing pollination events across the orchard.\n\n16. **Hand Pollination Classroom Demo**\n   A human hand model holding a small brush moves between two potted plants, gently touching anthers to pick up pollen (yellow dots that stick to the brush) and then applying them to another flower’s stigma, which lights up and grows a faint pollen tube inside a transparent stem.\n\n17. **Wind vs Insect Pollination Forest Layer**\n   A mixed forest scene has some trees releasing pollen clouds into the air while insects fly between others with showy flowers; a side panel shows two tall transparent columns where color-coded particles accumulate, visualizing contributions from wind and insects over time.\n\n18. **Pollen Tube Maze in an Ovary Cross-Section**\n   A cutaway, semi-transparent pistil reveals a branching maze of channels leading to ovules; pollen tubes grow from the top, split at junctions, collide with walls, and sometimes merge paths, with successful tubes turning bright green when they reach an ovule sphere.\n\n19. **Night-Blooming Cactus and Moth Pollination**\n   Tall cactus flowers gradually open as the scene darkens; large moths with long proboscises hover and rotate around them, inserting their proboscises into flowers, where pollen grains attach to their bodies and are later deposited onto other cacti, changing flower color saturation.\n\n20. **Mechanical Pollen Shaker in a Lab**\n   A vibrating platform holding test tubes with male flowers shakes at variable frequencies, ejecting pollen particles that rise and fall inside a clear chamber; a movable collector slide passes through the particle cloud, gathering grains that stick and are counted by a floating label.\n\n21. **Pollination on a Rotating Space Habitat**\n   Inside a rotating cylindrical space habitat, small drone pollinators fly among planters attached to the inner wall; rotation-induced “artificial gravity” curves their flight paths, and pollen particles drift, attach to drones, and then to other flowers as the whole scene slowly rotates.\n\n22. **Bee Path Optimization Over Blooming Time**\n   A patch of flowers gradually blooms and withers, changing color over time; a bee agent adapts its flight path to favor newly blooming flowers, leaving a colored trail that updates, while completed pollinations cause flowers to briefly glow and then dim.\n\n23. **Pollen Cross-Contamination Between Cultivars**\n   Two varieties of plants in alternating rows release different-colored pollen; insects and wind move particles between rows, and flowers that receive “foreign” pollen get marked with a striped halo, while meters above each plot show self vs cross-pollination proportions.\n\n24. **3D Social Network as Pollination Metaphor**\n   Spheres representing people float in space and move toward each other; when two collide, they exchange glowing “idea pollen” particles that attach to their surfaces, spread to their neighbors in subsequent collisions, and fade slowly, visualizing idea pollination spreading through the network.\n\n25. **Coral Spawning and Gamete Drift**\n   Coral colonies on a reef release clouds of buoyant, glowing gamete spheres that rise, split, merge, and drift with gentle currents; some collide and stick to form brighter zygote clusters, while a translucent overlay shows zones of high and low “pollination” success."
+}

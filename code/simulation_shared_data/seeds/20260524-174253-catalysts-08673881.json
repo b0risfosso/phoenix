@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Catalysts",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:42:53",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Enzyme Active Site Catalysis Chamber",
+      "description": "A transparent spherical cell contains color-coded enzyme shapes anchored to its inner wall, with small substrate spheres randomly bouncing, docking at active sites, splitting into product spheres that detach and fly off with glowing trails as a reaction-rate meter updates.",
+      "seed": "Enzyme Active Site Catalysis Chamber: A transparent spherical cell contains color-coded enzyme shapes anchored to its inner wall, with small substrate spheres randomly bouncing, docking at active sites, splitting into product spheres that detach and fly off with glowing trails as a reaction-rate meter updates."
+    },
+    {
+      "number": "2",
+      "title": "Heterogeneous Catalyst Surface with Gas Molecules",
+      "description": "A flat lattice of metallic cubes acts as a catalyst bed while colored gas particles drift down, briefly attach to active sites, react by merging or splitting into new particles, then detach and rise away, with reaction paths shown as fading line trails.",
+      "seed": "Heterogeneous Catalyst Surface with Gas Molecules: A flat lattice of metallic cubes acts as a catalyst bed while colored gas particles drift down, briefly attach to active sites, react by merging or splitting into new particles, then detach and rise away, with reaction paths shown as fading line trails."
+    },
+    {
+      "number": "3",
+      "title": "Catalytic Converter Inside a Car Exhaust Pipe",
+      "description": "A semi-transparent exhaust tube houses a honeycomb of tiny catalyst-coated channels where red pollutant spheres enter, stick to gold catalyst walls, change color and size as they convert, then exit as blue “clean” gas, with a side gauge showing conversion efficiency.",
+      "seed": "Catalytic Converter Inside a Car Exhaust Pipe: A semi-transparent exhaust tube houses a honeycomb of tiny catalyst-coated channels where red pollutant spheres enter, stick to gold catalyst walls, change color and size as they convert, then exit as blue “clean” gas, with a side gauge showing conversion efficiency."
+    },
+    {
+      "number": "4",
+      "title": "Autocatalytic Reaction Network in a Box",
+      "description": "In a clear 3D cube, different colored molecules float and collide, with certain collisions triggering replication of one species (autocatalyst) that flashes briefly when it catalyzes another reaction, forming dynamic clusters and branching chains.",
+      "seed": "Autocatalytic Reaction Network in a Box: In a clear 3D cube, different colored molecules float and collide, with certain collisions triggering replication of one species (autocatalyst) that flashes briefly when it catalyzes another reaction, forming dynamic clusters and branching chains."
+    },
+    {
+      "number": "5",
+      "title": "Catalyst Beads in a Stirred Reactor Tank",
+      "description": "A tall transparent cylinder contains rotating paddles that stir liquid (semi-transparent volume) around floating porous catalyst beads; reactant particles swirl, attach to bead surfaces, transform color, detach as products, and create visible concentration gradients.",
+      "seed": "Catalyst Beads in a Stirred Reactor Tank: A tall transparent cylinder contains rotating paddles that stir liquid (semi-transparent volume) around floating porous catalyst beads; reactant particles swirl, attach to bead surfaces, transform color, detach as products, and create visible concentration gradients."
+    },
+    {
+      "number": "6",
+      "title": "Solar-Driven Photocatalyst Plate in Water",
+      "description": "A flat, light-blue water volume contains a tilted photocatalyst plate illuminated by a moving light source; as light intensity increases, more dissolved reactant particles migrate to the plate, glow upon contact, split into gas bubbles that rise and leave shimmering trails.",
+      "seed": "Solar-Driven Photocatalyst Plate in Water: A flat, light-blue water volume contains a tilted photocatalyst plate illuminated by a moving light source; as light intensity increases, more dissolved reactant particles migrate to the plate, glow upon contact, split into gas bubbles that rise and leave shimmering trails."
+    },
+    {
+      "number": "7",
+      "title": "Biological Enzyme Pathway Assembly Line",
+      "description": "A linear conveyor of enzyme “stations” (shaped meshes) processes a stream of substrate spheres that move from one station to the next, changing color and shape at each catalytic step, with arrows and labels hovering above each enzyme.",
+      "seed": "Biological Enzyme Pathway Assembly Line: A linear conveyor of enzyme “stations” (shaped meshes) processes a stream of substrate spheres that move from one station to the next, changing color and shape at each catalytic step, with arrows and labels hovering above each enzyme."
+    },
+    {
+      "number": "8",
+      "title": "Chain Reaction Firework Catalyst Display",
+      "description": "A central catalyst sphere triggers colorful particle bursts when incoming reactant pellets collide with it; each burst sends out new reactive pellets that seek out smaller catalyst nodes in space, causing a branching, glowing explosion network.",
+      "seed": "Chain Reaction Firework Catalyst Display: A central catalyst sphere triggers colorful particle bursts when incoming reactant pellets collide with it; each burst sends out new reactive pellets that seek out smaller catalyst nodes in space, causing a branching, glowing explosion network."
+    },
+    {
+      "number": "9",
+      "title": "Industrial Packed-Bed Catalyst Column",
+      "description": "A tall column is tightly packed with small catalyst pellets while reactant gas spheres enter from the bottom, weave through void spaces under gravity and flow, adsorb onto pellets, change color, then desorb and exit at the top, with a side color bar indicating conversion along height.",
+      "seed": "Industrial Packed-Bed Catalyst Column: A tall column is tightly packed with small catalyst pellets while reactant gas spheres enter from the bottom, weave through void spaces under gravity and flow, adsorb onto pellets, change color, then desorb and exit at the top, with a side color bar indicating conversion along height."
+    },
+    {
+      "number": "10",
+      "title": "Catalyzed Crystal Growth on a Seed Surface",
+      "description": "A central crystalline seed object floats in a solution of ions; when ions touch specific catalytic facets they stick and cause that facet to grow faster, forming branching crystal arms, with growing faces highlighted and labeled.",
+      "seed": "Catalyzed Crystal Growth on a Seed Surface: A central crystalline seed object floats in a solution of ions; when ions touch specific catalytic facets they stick and cause that facet to grow faster, forming branching crystal arms, with growing faces highlighted and labeled."
+    },
+    {
+      "number": "11",
+      "title": "Social Catalyst: Influencer Spreading Ideas in a Crowd",
+      "description": "A crowd of small humanoid figures stands on a plaza while a few “catalyst” agents walk around emitting pulsing spheres; neighbors they pass change color to adopt a new state and begin spreading it, with social influence lines briefly connecting interacting agents.",
+      "seed": "Social Catalyst: Influencer Spreading Ideas in a Crowd: A crowd of small humanoid figures stands on a plaza while a few “catalyst” agents walk around emitting pulsing spheres; neighbors they pass change color to adopt a new state and begin spreading it, with social influence lines briefly connecting interacting agents."
+    },
+    {
+      "number": "12",
+      "title": "Atmospheric Catalytic Ozone Breakdown",
+      "description": "A layered atmospheric box contains ozone molecules and chlorine radicals; when radicals collide with ozone they form intermediates and then regenerate the radical, shown as a glowing looped path that moves from molecule to molecule, depleting a labeled ozone layer.",
+      "seed": "Atmospheric Catalytic Ozone Breakdown: A layered atmospheric box contains ozone molecules and chlorine radicals; when radicals collide with ozone they form intermediates and then regenerate the radical, shown as a glowing looped path that moves from molecule to molecule, depleting a labeled ozone layer."
+    },
+    {
+      "number": "13",
+      "title": "Catalytic Nanoparticle on a Membrane Surface",
+      "description": "A flexible membrane sheet undulates while metallic nanoparticles sit on top; reactant molecules diffuse over the membrane, get trapped and catalyzed at nanoparticle sites, with local temperature indicated by subtle color changes around active particles.",
+      "seed": "Catalytic Nanoparticle on a Membrane Surface: A flexible membrane sheet undulates while metallic nanoparticles sit on top; reactant molecules diffuse over the membrane, get trapped and catalyzed at nanoparticle sites, with local temperature indicated by subtle color changes around active particles."
+    },
+    {
+      "number": "14",
+      "title": "Catalyst-Regenerated Fuel Cell Electrode",
+      "description": "Two electrodes sit in an electrolyte with a semitransparent membrane between; catalyst dots on the electrodes catalyze redox reactions where ions move through the liquid, electrons travel along glowing external wires, and a meter shows power output as reaction intensity fluctuates.",
+      "seed": "Catalyst-Regenerated Fuel Cell Electrode: Two electrodes sit in an electrolyte with a semitransparent membrane between; catalyst dots on the electrodes catalyze redox reactions where ions move through the liquid, electrons travel along glowing external wires, and a meter shows power output as reaction intensity fluctuates."
+    },
+    {
+      "number": "15",
+      "title": "Autocatalytic Pattern Formation in a 3D Gel",
+      "description": "A translucent gel cube contains diffusing reactant species; as they meet embedded catalyst points, they change color and trigger local branching waves of reaction that form evolving 3D patterns, with isosurfaces briefly appearing where concentration peaks.",
+      "seed": "Autocatalytic Pattern Formation in a 3D Gel: A translucent gel cube contains diffusing reactant species; as they meet embedded catalyst points, they change color and trigger local branching waves of reaction that form evolving 3D patterns, with isosurfaces briefly appearing where concentration peaks."
+    },
+    {
+      "number": "16",
+      "title": "Catalytic Chain Reaction Domino Field",
+      "description": "A 3D field of domino-like blocks includes special “catalyst” blocks that, when toppled, split the impulse into multiple directions, causing several new chains to propagate simultaneously and revealing how catalysts accelerate the spread.",
+      "seed": "Catalytic Chain Reaction Domino Field: A 3D field of domino-like blocks includes special “catalyst” blocks that, when toppled, split the impulse into multiple directions, causing several new chains to propagate simultaneously and revealing how catalysts accelerate the spread."
+    },
+    {
+      "number": "17",
+      "title": "Protein Folding Assisted by Chaperone Catalysts",
+      "description": "Flexible chains of connected beads (unfolded proteins) drift in a cell-like volume; when they encounter large chaperone complexes, the complexes briefly enclose them, then release more compact, correctly folded shapes, with before/after states labeled.",
+      "seed": "Protein Folding Assisted by Chaperone Catalysts: Flexible chains of connected beads (unfolded proteins) drift in a cell-like volume; when they encounter large chaperone complexes, the complexes briefly enclose them, then release more compact, correctly folded shapes, with before/after states labeled."
+    },
+    {
+      "number": "18",
+      "title": "Catalyzed Polymerization on a Growing Fiber",
+      "description": "A central catalytic tip sits at the end of a polymer fiber; monomer units diffuse in, attach at the tip, and extend the fiber as it wiggles, with the active tip glowing brighter the faster the chain grows and a counter displaying polymer length.",
+      "seed": "Catalyzed Polymerization on a Growing Fiber: A central catalytic tip sits at the end of a polymer fiber; monomer units diffuse in, attach at the tip, and extend the fiber as it wiggles, with the active tip glowing brighter the faster the chain grows and a counter displaying polymer length."
+    },
+    {
+      "number": "19",
+      "title": "Market Catalyst: News Event Shockwave",
+      "description": "A 3D grid of vertical bars represents stock prices; a “news” sphere lands in the center and sends out a ripple that instantly changes the color and height volatility of nearby bars, which then propagate secondary effects through linking lines between correlated assets.",
+      "seed": "Market Catalyst: News Event Shockwave: A 3D grid of vertical bars represents stock prices; a “news” sphere lands in the center and sends out a ripple that instantly changes the color and height volatility of nearby bars, which then propagate secondary effects through linking lines between correlated assets."
+    },
+    {
+      "number": "20",
+      "title": "Surface-Catalyzed Ice Formation on Dust Particles",
+      "description": "In a cold cloud-like volume, tiny dust spheres act as catalysts where water vapor molecules condense; ice crystals nucleate on each dust grain and grow outward into branching shapes, while free vapor density fades as more crystals form.",
+      "seed": "Surface-Catalyzed Ice Formation on Dust Particles: In a cold cloud-like volume, tiny dust spheres act as catalysts where water vapor molecules condense; ice crystals nucleate on each dust grain and grow outward into branching shapes, while free vapor density fades as more crystals form."
+    },
+    {
+      "number": "21",
+      "title": "Catalyst Poisoning on a Metal Surface",
+      "description": "A metallic slab dotted with active sites catalyzes reactions between two gas species; over time, “poison” molecules arrive, occupy and permanently darken active sites, visibly reducing the frequency of glowing catalytic events and lowering a real-time activity gauge.",
+      "seed": "Catalyst Poisoning on a Metal Surface: A metallic slab dotted with active sites catalyzes reactions between two gas species; over time, “poison” molecules arrive, occupy and permanently darken active sites, visibly reducing the frequency of glowing catalytic events and lowering a real-time activity gauge."
+    },
+    {
+      "number": "22",
+      "title": "Self-Replicating Catalytic Loop Network",
+      "description": "Several loop-shaped structures float in space; when reactant beads run through a loop, they cause it to replicate, creating new loops that drift away, collide, merge, or compete for reactants, with lineage colors showing which structures descended from which.",
+      "seed": "Self-Replicating Catalytic Loop Network: Several loop-shaped structures float in space; when reactant beads run through a loop, they cause it to replicate, creating new loops that drift away, collide, merge, or compete for reactants, with lineage colors showing which structures descended from which."
+    },
+    {
+      "number": "23",
+      "title": "Enzyme Cascade in a Microfluidic Channel",
+      "description": "A transparent serpentine channel carries flowing fluid containing substrates; at specific zones anchored enzyme clusters catalyze transformations, with color transitions in the flowing fluid and small labels above each catalytic zone indicating reaction steps.",
+      "seed": "Enzyme Cascade in a Microfluidic Channel: A transparent serpentine channel carries flowing fluid containing substrates; at specific zones anchored enzyme clusters catalyze transformations, with color transitions in the flowing fluid and small labels above each catalytic zone indicating reaction steps."
+    },
+    {
+      "number": "24",
+      "title": "Catalyst-Driven Battery Charging Animation",
+      "description": "A battery icon in 3D shows ions moving from one side to the other through a catalyst-dotted separator; as catalysts accelerate ion transfer, the battery fills with color from one end, and the catalytic spots pulse brighter where ion flux is highest.",
+      "seed": "Catalyst-Driven Battery Charging Animation: A battery icon in 3D shows ions moving from one side to the other through a catalyst-dotted separator; as catalysts accelerate ion transfer, the battery fills with color from one end, and the catalytic spots pulse brighter where ion flux is highest."
+    },
+    {
+      "number": "25",
+      "title": "Greenhouse Gas Breakdown on Photocatalytic Surfaces",
+      "description": "A cityscape features building walls coated with photocatalytic panels that, under simulated sunlight, attract drifting pollutant particles; when particles touch the panels they break into smaller, harmless particles that float away, with clean-air zones gradually expanding around active surfaces.",
+      "seed": "Greenhouse Gas Breakdown on Photocatalytic Surfaces: A cityscape features building walls coated with photocatalytic panels that, under simulated sunlight, attract drifting pollutant particles; when particles touch the panels they break into smaller, harmless particles that float away, with clean-air zones gradually expanding around active surfaces."
+    }
+  ],
+  "raw_output": "Here are strong **Catalysts simulation inputs** you can plug into your prompt:\n\n1. **Enzyme Active Site Catalysis Chamber**\n   A transparent spherical cell contains color-coded enzyme shapes anchored to its inner wall, with small substrate spheres randomly bouncing, docking at active sites, splitting into product spheres that detach and fly off with glowing trails as a reaction-rate meter updates.\n\n2. **Heterogeneous Catalyst Surface with Gas Molecules**\n   A flat lattice of metallic cubes acts as a catalyst bed while colored gas particles drift down, briefly attach to active sites, react by merging or splitting into new particles, then detach and rise away, with reaction paths shown as fading line trails.\n\n3. **Catalytic Converter Inside a Car Exhaust Pipe**\n   A semi-transparent exhaust tube houses a honeycomb of tiny catalyst-coated channels where red pollutant spheres enter, stick to gold catalyst walls, change color and size as they convert, then exit as blue “clean” gas, with a side gauge showing conversion efficiency.\n\n4. **Autocatalytic Reaction Network in a Box**\n   In a clear 3D cube, different colored molecules float and collide, with certain collisions triggering replication of one species (autocatalyst) that flashes briefly when it catalyzes another reaction, forming dynamic clusters and branching chains.\n\n5. **Catalyst Beads in a Stirred Reactor Tank**\n   A tall transparent cylinder contains rotating paddles that stir liquid (semi-transparent volume) around floating porous catalyst beads; reactant particles swirl, attach to bead surfaces, transform color, detach as products, and create visible concentration gradients.\n\n6. **Solar-Driven Photocatalyst Plate in Water**\n   A flat, light-blue water volume contains a tilted photocatalyst plate illuminated by a moving light source; as light intensity increases, more dissolved reactant particles migrate to the plate, glow upon contact, split into gas bubbles that rise and leave shimmering trails.\n\n7. **Biological Enzyme Pathway Assembly Line**\n   A linear conveyor of enzyme “stations” (shaped meshes) processes a stream of substrate spheres that move from one station to the next, changing color and shape at each catalytic step, with arrows and labels hovering above each enzyme.\n\n8. **Chain Reaction Firework Catalyst Display**\n   A central catalyst sphere triggers colorful particle bursts when incoming reactant pellets collide with it; each burst sends out new reactive pellets that seek out smaller catalyst nodes in space, causing a branching, glowing explosion network.\n\n9. **Industrial Packed-Bed Catalyst Column**\n   A tall column is tightly packed with small catalyst pellets while reactant gas spheres enter from the bottom, weave through void spaces under gravity and flow, adsorb onto pellets, change color, then desorb and exit at the top, with a side color bar indicating conversion along height.\n\n10. **Catalyzed Crystal Growth on a Seed Surface**\n    A central crystalline seed object floats in a solution of ions; when ions touch specific catalytic facets they stick and cause that facet to grow faster, forming branching crystal arms, with growing faces highlighted and labeled.\n\n11. **Social Catalyst: Influencer Spreading Ideas in a Crowd**\n    A crowd of small humanoid figures stands on a plaza while a few “catalyst” agents walk around emitting pulsing spheres; neighbors they pass change color to adopt a new state and begin spreading it, with social influence lines briefly connecting interacting agents.\n\n12. **Atmospheric Catalytic Ozone Breakdown**\n    A layered atmospheric box contains ozone molecules and chlorine radicals; when radicals collide with ozone they form intermediates and then regenerate the radical, shown as a glowing looped path that moves from molecule to molecule, depleting a labeled ozone layer.\n\n13. **Catalytic Nanoparticle on a Membrane Surface**\n    A flexible membrane sheet undulates while metallic nanoparticles sit on top; reactant molecules diffuse over the membrane, get trapped and catalyzed at nanoparticle sites, with local temperature indicated by subtle color changes around active particles.\n\n14. **Catalyst-Regenerated Fuel Cell Electrode**\n    Two electrodes sit in an electrolyte with a semitransparent membrane between; catalyst dots on the electrodes catalyze redox reactions where ions move through the liquid, electrons travel along glowing external wires, and a meter shows power output as reaction intensity fluctuates.\n\n15. **Autocatalytic Pattern Formation in a 3D Gel**\n    A translucent gel cube contains diffusing reactant species; as they meet embedded catalyst points, they change color and trigger local branching waves of reaction that form evolving 3D patterns, with isosurfaces briefly appearing where concentration peaks.\n\n16. **Catalytic Chain Reaction Domino Field**\n    A 3D field of domino-like blocks includes special “catalyst” blocks that, when toppled, split the impulse into multiple directions, causing several new chains to propagate simultaneously and revealing how catalysts accelerate the spread.\n\n17. **Protein Folding Assisted by Chaperone Catalysts**\n    Flexible chains of connected beads (unfolded proteins) drift in a cell-like volume; when they encounter large chaperone complexes, the complexes briefly enclose them, then release more compact, correctly folded shapes, with before/after states labeled.\n\n18. **Catalyzed Polymerization on a Growing Fiber**\n    A central catalytic tip sits at the end of a polymer fiber; monomer units diffuse in, attach at the tip, and extend the fiber as it wiggles, with the active tip glowing brighter the faster the chain grows and a counter displaying polymer length.\n\n19. **Market Catalyst: News Event Shockwave**\n    A 3D grid of vertical bars represents stock prices; a “news” sphere lands in the center and sends out a ripple that instantly changes the color and height volatility of nearby bars, which then propagate secondary effects through linking lines between correlated assets.\n\n20. **Surface-Catalyzed Ice Formation on Dust Particles**\n    In a cold cloud-like volume, tiny dust spheres act as catalysts where water vapor molecules condense; ice crystals nucleate on each dust grain and grow outward into branching shapes, while free vapor density fades as more crystals form.\n\n21. **Catalyst Poisoning on a Metal Surface**\n    A metallic slab dotted with active sites catalyzes reactions between two gas species; over time, “poison” molecules arrive, occupy and permanently darken active sites, visibly reducing the frequency of glowing catalytic events and lowering a real-time activity gauge.\n\n22. **Self-Replicating Catalytic Loop Network**\n    Several loop-shaped structures float in space; when reactant beads run through a loop, they cause it to replicate, creating new loops that drift away, collide, merge, or compete for reactants, with lineage colors showing which structures descended from which.\n\n23. **Enzyme Cascade in a Microfluidic Channel**\n    A transparent serpentine channel carries flowing fluid containing substrates; at specific zones anchored enzyme clusters catalyze transformations, with color transitions in the flowing fluid and small labels above each catalytic zone indicating reaction steps.\n\n24. **Catalyst-Driven Battery Charging Animation**\n    A battery icon in 3D shows ions moving from one side to the other through a catalyst-dotted separator; as catalysts accelerate ion transfer, the battery fills with color from one end, and the catalytic spots pulse brighter where ion flux is highest.\n\n25. **Greenhouse Gas Breakdown on Photocatalytic Surfaces**\n    A cityscape features building walls coated with photocatalytic panels that, under simulated sunlight, attract drifting pollutant particles; when particles touch the panels they break into smaller, harmless particles that float away, with clean-air zones gradually expanding around active surfaces."
+}

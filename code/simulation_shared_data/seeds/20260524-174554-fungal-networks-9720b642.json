@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Fungal networks",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:45:54",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Expanding Mycelium Web in Soil Layers",
+      "description": "A central fungal node grows translucent branching tubes through layered soil blocks, with hyphae that split, merge, wrap around pebbles, and leave faint trails as nutrients (colored spheres) flow along glowing segments.",
+      "seed": "Expanding Mycelium Web in Soil Layers: A central fungal node grows translucent branching tubes through layered soil blocks, with hyphae that split, merge, wrap around pebbles, and leave faint trails as nutrients (colored spheres) flow along glowing segments."
+    },
+    {
+      "number": "2",
+      "title": "Tree–Fungus Nutrient Trading Network",
+      "description": "Several tree trunks stand stationary while a semi-transparent fungal web expands underground between their roots, transferring colored nutrient particles back and forth along pulsing filaments and updating floating “carbon” and “nitrogen” meters above each tree.",
+      "seed": "Tree–Fungus Nutrient Trading Network: Several tree trunks stand stationary while a semi-transparent fungal web expands underground between their roots, transferring colored nutrient particles back and forth along pulsing filaments and updating floating “carbon” and “nitrogen” meters above each tree."
+    },
+    {
+      "number": "3",
+      "title": "Spore Rain and Network Colonization",
+      "description": "Spores fall like tiny bouncing particles from a mushroom cap onto a flat substrate, where each landing spore sprouts branching hyphae that grow outward, collide, fuse, or repel when different-colored species meet, with labels showing colony boundaries.",
+      "seed": "Spore Rain and Network Colonization: Spores fall like tiny bouncing particles from a mushroom cap onto a flat substrate, where each landing spore sprouts branching hyphae that grow outward, collide, fuse, or repel when different-colored species meet, with labels showing colony boundaries."
+    },
+    {
+      "number": "4",
+      "title": "Competing Fungal Species in a 3D Log",
+      "description": "A 3D log cross-section is filled by two or three differently colored fungal networks that grow, collide, overtake, or dissolve each other’s filaments, with a transparent cutaway view and a time slider bar showing territory percentage for each species.",
+      "seed": "Competing Fungal Species in a 3D Log: A 3D log cross-section is filled by two or three differently colored fungal networks that grow, collide, overtake, or dissolve each other’s filaments, with a transparent cutaway view and a time slider bar showing territory percentage for each species."
+    },
+    {
+      "number": "5",
+      "title": "Fungal Highways Moving Nutrients Between Plants",
+      "description": "Thin tubular fungal “highways” grow and rearrange between potted plants, routing glowing nutrient particles that split, merge, and sometimes leak into the soil when tubes break due to random disturbances.",
+      "seed": "Fungal Highways Moving Nutrients Between Plants: Thin tubular fungal “highways” grow and rearrange between potted plants, routing glowing nutrient particles that split, merge, and sometimes leak into the soil when tubes break due to random disturbances."
+    },
+    {
+      "number": "6",
+      "title": "Symbiotic Mycorrhizal Cloud Around Roots",
+      "description": "A root system sits in the center while semi-transparent fungal strands dynamically wrap, unwrap, and re-wrap around root tips, lighting up with soft pulses whenever nutrient transfer occurs and leaving fading color halos around active exchange points.",
+      "seed": "Symbiotic Mycorrhizal Cloud Around Roots: A root system sits in the center while semi-transparent fungal strands dynamically wrap, unwrap, and re-wrap around root tips, lighting up with soft pulses whenever nutrient transfer occurs and leaving fading color halos around active exchange points."
+    },
+    {
+      "number": "7",
+      "title": "Network Resilience Under Random Damage",
+      "description": "A large 3D fungal network of rods and nodes fills the space; random “damage events” cut filaments, forcing the network to regrow alternative branches, with disconnected clusters fading out and a floating meter showing overall connectivity.",
+      "seed": "Network Resilience Under Random Damage: A large 3D fungal network of rods and nodes fills the space; random “damage events” cut filaments, forcing the network to regrow alternative branches, with disconnected clusters fading out and a floating meter showing overall connectivity."
+    },
+    {
+      "number": "8",
+      "title": "Mushroom Colony Growth From Underground Mycelium",
+      "description": "A hidden white mycelial mat spreads under a slightly transparent ground plane, then periodically sends up mushroom stalks that rise, rotate slightly in wind, release spore particles, and shrink when their supporting underground filaments decay.",
+      "seed": "Mushroom Colony Growth From Underground Mycelium: A hidden white mycelial mat spreads under a slightly transparent ground plane, then periodically sends up mushroom stalks that rise, rotate slightly in wind, release spore particles, and shrink when their supporting underground filaments decay."
+    },
+    {
+      "number": "9",
+      "title": "Fungal Network as a Living Transport Graph",
+      "description": "Nodes representing resources appear randomly in a cubic space, and a fungal network grows shortest-path filaments between them, rerouting when nodes move, with path thickness and brightness increasing as more traffic (colored particles) flows.",
+      "seed": "Fungal Network as a Living Transport Graph: Nodes representing resources appear randomly in a cubic space, and a fungal network grows shortest-path filaments between them, rerouting when nodes move, with path thickness and brightness increasing as more traffic (colored particles) flows."
+    },
+    {
+      "number": "10",
+      "title": "Bioluminescent Night Forest Fungal Web",
+      "description": "In a dim forest scene with pale background fog, faint fungal threads climb trees and logs, glowing brighter where threads intersect, and reacting to touch by insects (small moving spheres) that trigger traveling light pulses along connected strands.",
+      "seed": "Bioluminescent Night Forest Fungal Web: In a dim forest scene with pale background fog, faint fungal threads climb trees and logs, glowing brighter where threads intersect, and reacting to touch by insects (small moving spheres) that trigger traveling light pulses along connected strands."
+    },
+    {
+      "number": "11",
+      "title": "Fungal Decomposition of a Fallen Leaf",
+      "description": "A semi-transparent leaf mesh lies on the ground while a fungal network grows across its surface and into its veins, turning leaf polygons from green to brown to transparent as filaments penetrate, dissolve, and recycle material shown as drifting particles.",
+      "seed": "Fungal Decomposition of a Fallen Leaf: A semi-transparent leaf mesh lies on the ground while a fungal network grows across its surface and into its veins, turning leaf polygons from green to brown to transparent as filaments penetrate, dissolve, and recycle material shown as drifting particles."
+    },
+    {
+      "number": "12",
+      "title": "Network Decision-Making Maze Solver",
+      "description": "A fungal node sits at a maze entrance and grows tendrils along corridors that retract when hitting dead ends and thicken along successful paths, leaving behind a bright, stable filament that marks the discovered route to the exit.",
+      "seed": "Network Decision-Making Maze Solver: A fungal node sits at a maze entrance and grows tendrils along corridors that retract when hitting dead ends and thicken along successful paths, leaving behind a bright, stable filament that marks the discovered route to the exit."
+    },
+    {
+      "number": "13",
+      "title": "Fungal Bridge-Building Across Gaps",
+      "description": "Two nutrient-rich blocks are separated by a gap; fungal filaments extend, dangle, and occasionally snap, gradually building a thickened bridge that stabilizes when enough successful connections attach on both sides, shown with changing filament colors.",
+      "seed": "Fungal Bridge-Building Across Gaps: Two nutrient-rich blocks are separated by a gap; fungal filaments extend, dangle, and occasionally snap, gradually building a thickened bridge that stabilizes when enough successful connections attach on both sides, shown with changing filament colors."
+    },
+    {
+      "number": "14",
+      "title": "Mycelium vs. Bacterial Fronts in a Petri Dish",
+      "description": "A flat circular arena hosts an expanding fungal network and a spreading bacterial “wave” (colored disk); as they collide, fungal filaments wrap around or bypass bacterial regions, with overlapping areas flashing or changing color to indicate competition.",
+      "seed": "Mycelium vs. Bacterial Fronts in a Petri Dish: A flat circular arena hosts an expanding fungal network and a spreading bacterial “wave” (colored disk); as they collide, fungal filaments wrap around or bypass bacterial regions, with overlapping areas flashing or changing color to indicate competition."
+    },
+    {
+      "number": "15",
+      "title": "Fungal Network Responding to Local Signals",
+      "description": "Nutrient drops (bright spheres) fall randomly onto a surface; nearby fungal segments sense them and thicken, while distant segments thin and retract, creating a constantly reconfiguring 3D web that follows a moving “heat map” of resource signals.",
+      "seed": "Fungal Network Responding to Local Signals: Nutrient drops (bright spheres) fall randomly onto a surface; nearby fungal segments sense them and thicken, while distant segments thin and retract, creating a constantly reconfiguring 3D web that follows a moving “heat map” of resource signals."
+    },
+    {
+      "number": "16",
+      "title": "3D Fungal Network Under a Rotating Terrain Slice",
+      "description": "A semi-transparent terrain block slowly rotates above a dense fungal network that grows upward into root zones, with vertical filaments that branch, attach, and detach as the simulated water level (a translucent plane) rises and falls.",
+      "seed": "3D Fungal Network Under a Rotating Terrain Slice: A semi-transparent terrain block slowly rotates above a dense fungal network that grows upward into root zones, with vertical filaments that branch, attach, and detach as the simulated water level (a translucent plane) rises and falls."
+    },
+    {
+      "number": "17",
+      "title": "City as a Fungal Network Metaphor",
+      "description": "Buildings are fixed nodes while “fungal” transit lines grow, split, and merge between them, transporting colored passenger particles, with underused branches thinning and disappearing, and crowded routes thickening and glowing.",
+      "seed": "City as a Fungal Network Metaphor: Buildings are fixed nodes while “fungal” transit lines grow, split, and merge between them, transporting colored passenger particles, with underused branches thinning and disappearing, and crowded routes thickening and glowing."
+    },
+    {
+      "number": "18",
+      "title": "Fungal Network Learning an Efficient Food Route",
+      "description": "Food sources (green cubes) and hazards (red cubes) are scattered; the fungal network initially grows in many directions, but hazardous contacts cause those branches to dissolve, gradually leaving a minimal set of thick, bright filaments between food sources.",
+      "seed": "Fungal Network Learning an Efficient Food Route: Food sources (green cubes) and hazards (red cubes) are scattered; the fungal network initially grows in many directions, but hazardous contacts cause those branches to dissolve, gradually leaving a minimal set of thick, bright filaments between food sources."
+    },
+    {
+      "number": "19",
+      "title": "Hydraulic Fungal Cords With Pulsing Fluids",
+      "description": "Thick fungal cords snake over uneven terrain from a central hub to food patches, periodically sending visible fluid pulses (glowing blobs) that travel, reflect at junctions, and split at branch points, with cord radius expanding where pulses frequently pass.",
+      "seed": "Hydraulic Fungal Cords With Pulsing Fluids: Thick fungal cords snake over uneven terrain from a central hub to food patches, periodically sending visible fluid pulses (glowing blobs) that travel, reflect at junctions, and split at branch points, with cord radius expanding where pulses frequently pass."
+    },
+    {
+      "number": "20",
+      "title": "Interlocking Fungal and Root Networks",
+      "description": "A plant root system and a fungal network grow simultaneously in 3D, occasionally colliding and then forming joint “interface nodes” that change color, while non-beneficial contacts retract, leaving a visible intertwined but selective partnership.",
+      "seed": "Interlocking Fungal and Root Networks: A plant root system and a fungal network grow simultaneously in 3D, occasionally colliding and then forming joint “interface nodes” that change color, while non-beneficial contacts retract, leaving a visible intertwined but selective partnership."
+    },
+    {
+      "number": "21",
+      "title": "Spore Plume and Colonization of a Rotating Log",
+      "description": "A log slowly rotates in midair while mushroom caps on one side emit a drifting spore plume; spores that land grow short hyphae that wrap around the log’s curvature, creating ring-like networks that thicken where multiple colonies meet.",
+      "seed": "Spore Plume and Colonization of a Rotating Log: A log slowly rotates in midair while mushroom caps on one side emit a drifting spore plume; spores that land grow short hyphae that wrap around the log’s curvature, creating ring-like networks that thicken where multiple colonies meet."
+    },
+    {
+      "number": "22",
+      "title": "Fungal Network Under Mechanical Compression",
+      "description": "A transparent plate moves down to compress a 3D fungal lattice; filaments bend, buckle, and then detach or snap, after which the network regrows around compressed regions, with stressed segments highlighted in a warmer color.",
+      "seed": "Fungal Network Under Mechanical Compression: A transparent plate moves down to compress a 3D fungal lattice; filaments bend, buckle, and then detach or snap, after which the network regrows around compressed regions, with stressed segments highlighted in a warmer color."
+    },
+    {
+      "number": "23",
+      "title": "Multi-Layer Fungal Internet With Data Packets",
+      "description": "Stacked translucent planes host separate fungal subnetworks linked by vertical cords; colored “data packets” move, queue, and sometimes collide at junctions, while overloaded links flash and trigger the growth of new bypass filaments.",
+      "seed": "Multi-Layer Fungal Internet With Data Packets: Stacked translucent planes host separate fungal subnetworks linked by vertical cords; colored “data packets” move, queue, and sometimes collide at junctions, while overloaded links flash and trigger the growth of new bypass filaments."
+    },
+    {
+      "number": "24",
+      "title": "Fungal Network Colonizing a Rock Fracture System",
+      "description": "A fractured rock volume is shown with transparent planes; fungal filaments grow only along fracture lines, splitting at junctions, looping around voids, and gradually filling the network of cracks while mineral particles detach and drift away.",
+      "seed": "Fungal Network Colonizing a Rock Fracture System: A fractured rock volume is shown with transparent planes; fungal filaments grow only along fracture lines, splitting at junctions, looping around voids, and gradually filling the network of cracks while mineral particles detach and drift away."
+    },
+    {
+      "number": "25",
+      "title": "Dynamic Pruning of a Fungal Super-Network",
+      "description": "An initially dense 3D web of filaments covers the scene; over time, low-flow branches dim and retract while high-flow pathways thicken and straighten, leaving a sparse, efficient backbone that is constantly updated when new food sources appear.",
+      "seed": "Dynamic Pruning of a Fungal Super-Network: An initially dense 3D web of filaments covers the scene; over time, low-flow branches dim and retract while high-flow pathways thicken and straighten, leaving a sparse, efficient backbone that is constantly updated when new food sources appear."
+    }
+  ],
+  "raw_output": "Here are strong **Fungal networks simulation inputs** you can plug into your prompt:\n\n1. **Expanding Mycelium Web in Soil Layers**  \n   A central fungal node grows translucent branching tubes through layered soil blocks, with hyphae that split, merge, wrap around pebbles, and leave faint trails as nutrients (colored spheres) flow along glowing segments.\n\n2. **Tree–Fungus Nutrient Trading Network**  \n   Several tree trunks stand stationary while a semi-transparent fungal web expands underground between their roots, transferring colored nutrient particles back and forth along pulsing filaments and updating floating “carbon” and “nitrogen” meters above each tree.\n\n3. **Spore Rain and Network Colonization**  \n   Spores fall like tiny bouncing particles from a mushroom cap onto a flat substrate, where each landing spore sprouts branching hyphae that grow outward, collide, fuse, or repel when different-colored species meet, with labels showing colony boundaries.\n\n4. **Competing Fungal Species in a 3D Log**  \n   A 3D log cross-section is filled by two or three differently colored fungal networks that grow, collide, overtake, or dissolve each other’s filaments, with a transparent cutaway view and a time slider bar showing territory percentage for each species.\n\n5. **Fungal Highways Moving Nutrients Between Plants**  \n   Thin tubular fungal “highways” grow and rearrange between potted plants, routing glowing nutrient particles that split, merge, and sometimes leak into the soil when tubes break due to random disturbances.\n\n6. **Symbiotic Mycorrhizal Cloud Around Roots**  \n   A root system sits in the center while semi-transparent fungal strands dynamically wrap, unwrap, and re-wrap around root tips, lighting up with soft pulses whenever nutrient transfer occurs and leaving fading color halos around active exchange points.\n\n7. **Network Resilience Under Random Damage**  \n   A large 3D fungal network of rods and nodes fills the space; random “damage events” cut filaments, forcing the network to regrow alternative branches, with disconnected clusters fading out and a floating meter showing overall connectivity.\n\n8. **Mushroom Colony Growth From Underground Mycelium**  \n   A hidden white mycelial mat spreads under a slightly transparent ground plane, then periodically sends up mushroom stalks that rise, rotate slightly in wind, release spore particles, and shrink when their supporting underground filaments decay.\n\n9. **Fungal Network as a Living Transport Graph**  \n   Nodes representing resources appear randomly in a cubic space, and a fungal network grows shortest-path filaments between them, rerouting when nodes move, with path thickness and brightness increasing as more traffic (colored particles) flows.\n\n10. **Bioluminescent Night Forest Fungal Web**  \n    In a dim forest scene with pale background fog, faint fungal threads climb trees and logs, glowing brighter where threads intersect, and reacting to touch by insects (small moving spheres) that trigger traveling light pulses along connected strands.\n\n11. **Fungal Decomposition of a Fallen Leaf**  \n    A semi-transparent leaf mesh lies on the ground while a fungal network grows across its surface and into its veins, turning leaf polygons from green to brown to transparent as filaments penetrate, dissolve, and recycle material shown as drifting particles.\n\n12. **Network Decision-Making Maze Solver**  \n    A fungal node sits at a maze entrance and grows tendrils along corridors that retract when hitting dead ends and thicken along successful paths, leaving behind a bright, stable filament that marks the discovered route to the exit.\n\n13. **Fungal Bridge-Building Across Gaps**  \n    Two nutrient-rich blocks are separated by a gap; fungal filaments extend, dangle, and occasionally snap, gradually building a thickened bridge that stabilizes when enough successful connections attach on both sides, shown with changing filament colors.\n\n14. **Mycelium vs. Bacterial Fronts in a Petri Dish**  \n    A flat circular arena hosts an expanding fungal network and a spreading bacterial “wave” (colored disk); as they collide, fungal filaments wrap around or bypass bacterial regions, with overlapping areas flashing or changing color to indicate competition.\n\n15. **Fungal Network Responding to Local Signals**  \n    Nutrient drops (bright spheres) fall randomly onto a surface; nearby fungal segments sense them and thicken, while distant segments thin and retract, creating a constantly reconfiguring 3D web that follows a moving “heat map” of resource signals.\n\n16. **3D Fungal Network Under a Rotating Terrain Slice**  \n    A semi-transparent terrain block slowly rotates above a dense fungal network that grows upward into root zones, with vertical filaments that branch, attach, and detach as the simulated water level (a translucent plane) rises and falls.\n\n17. **City as a Fungal Network Metaphor**  \n    Buildings are fixed nodes while “fungal” transit lines grow, split, and merge between them, transporting colored passenger particles, with underused branches thinning and disappearing, and crowded routes thickening and glowing.\n\n18. **Fungal Network Learning an Efficient Food Route**  \n    Food sources (green cubes) and hazards (red cubes) are scattered; the fungal network initially grows in many directions, but hazardous contacts cause those branches to dissolve, gradually leaving a minimal set of thick, bright filaments between food sources.\n\n19. **Hydraulic Fungal Cords With Pulsing Fluids**  \n    Thick fungal cords snake over uneven terrain from a central hub to food patches, periodically sending visible fluid pulses (glowing blobs) that travel, reflect at junctions, and split at branch points, with cord radius expanding where pulses frequently pass.\n\n20. **Interlocking Fungal and Root Networks**  \n    A plant root system and a fungal network grow simultaneously in 3D, occasionally colliding and then forming joint “interface nodes” that change color, while non-beneficial contacts retract, leaving a visible intertwined but selective partnership.\n\n21. **Spore Plume and Colonization of a Rotating Log**  \n    A log slowly rotates in midair while mushroom caps on one side emit a drifting spore plume; spores that land grow short hyphae that wrap around the log’s curvature, creating ring-like networks that thicken where multiple colonies meet.\n\n22. **Fungal Network Under Mechanical Compression**  \n    A transparent plate moves down to compress a 3D fungal lattice; filaments bend, buckle, and then detach or snap, after which the network regrows around compressed regions, with stressed segments highlighted in a warmer color.\n\n23. **Multi-Layer Fungal Internet With Data Packets**  \n    Stacked translucent planes host separate fungal subnetworks linked by vertical cords; colored “data packets” move, queue, and sometimes collide at junctions, while overloaded links flash and trigger the growth of new bypass filaments.\n\n24. **Fungal Network Colonizing a Rock Fracture System**  \n    A fractured rock volume is shown with transparent planes; fungal filaments grow only along fracture lines, splitting at junctions, looping around voids, and gradually filling the network of cracks while mineral particles detach and drift away.\n\n25. **Dynamic Pruning of a Fungal Super-Network**  \n    An initially dense 3D web of filaments covers the scene; over time, low-flow branches dim and retract while high-flow pathways thicken and straighten, leaving a sparse, efficient backbone that is constantly updated when new food sources appear."
+}

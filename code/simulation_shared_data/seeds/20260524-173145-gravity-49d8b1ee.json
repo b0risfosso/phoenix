@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "gravity",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:31:45",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Orbital Ballet of Planets and Moons",
+      "description": "A central glowing sun sphere with multiple colored planets and tiny moons that orbit, collide, and slingshot around each other under gravity, leaving faint orbit trails and labels for each body.",
+      "seed": "Orbital Ballet of Planets and Moons: A central glowing sun sphere with multiple colored planets and tiny moons that orbit, collide, and slingshot around each other under gravity, leaving faint orbit trails and labels for each body."
+    },
+    {
+      "number": "2",
+      "title": "Gravity-Driven Marble Funnel",
+      "description": "A light-colored funnel-shaped bowl where small marbles are dropped in, spiraling faster as they descend toward a central hole under gravity, bouncing off the rim and leaving short motion trails.",
+      "seed": "Gravity-Driven Marble Funnel: A light-colored funnel-shaped bowl where small marbles are dropped in, spiraling faster as they descend toward a central hole under gravity, bouncing off the rim and leaving short motion trails."
+    },
+    {
+      "number": "3",
+      "title": "Binary Star with Asteroid Belt",
+      "description": "Two bright stars orbit a common center of mass while a ring of small asteroids orbits around them, occasionally colliding, merging, or being captured into irregular orbits, with transparent orbit paths and energy-like color changes on collisions.",
+      "seed": "Binary Star with Asteroid Belt: Two bright stars orbit a common center of mass while a ring of small asteroids orbits around them, occasionally colliding, merging, or being captured into irregular orbits, with transparent orbit paths and energy-like color changes on collisions."
+    },
+    {
+      "number": "4",
+      "title": "Gravitational Slingshot Simulator",
+      "description": "A spacecraft box moves near a massive planet sphere and uses gravity assists to change direction and speed, showing its predicted trajectory as a curved dashed line and live readouts of speed and altitude.",
+      "seed": "Gravitational Slingshot Simulator: A spacecraft box moves near a massive planet sphere and uses gravity assists to change direction and speed, showing its predicted trajectory as a curved dashed line and live readouts of speed and altitude."
+    },
+    {
+      "number": "5",
+      "title": "Falling Tower of Blocks",
+      "description": "A tall, slightly unstable stack of colored boxes stands on a flat floor; when one side is nudged, gravity pulls the stack down into a tumbling collapse, with blocks bouncing, sliding, and leaving soft impact marks on the floor.",
+      "seed": "Falling Tower of Blocks: A tall, slightly unstable stack of colored boxes stands on a flat floor; when one side is nudged, gravity pulls the stack down into a tumbling collapse, with blocks bouncing, sliding, and leaving soft impact marks on the floor."
+    },
+    {
+      "number": "6",
+      "title": "Galactic Spiral Formation",
+      "description": "Hundreds of tiny star particles start in random positions and are slowly pulled into a rotating spiral galaxy around a massive central black hole with a semi-transparent accretion disk, trails showing the forming spiral arms.",
+      "seed": "Galactic Spiral Formation: Hundreds of tiny star particles start in random positions and are slowly pulled into a rotating spiral galaxy around a massive central black hole with a semi-transparent accretion disk, trails showing the forming spiral arms."
+    },
+    {
+      "number": "7",
+      "title": "Gravitational Waves Rippling Space Grid",
+      "description": "A 3D grid of faint lines represents space, and two orbiting massive spheres generate ripples that compress and stretch the grid as they spiral inward, with amplitude color-coded along the grid lines.",
+      "seed": "Gravitational Waves Rippling Space Grid: A 3D grid of faint lines represents space, and two orbiting massive spheres generate ripples that compress and stretch the grid as they spiral inward, with amplitude color-coded along the grid lines."
+    },
+    {
+      "number": "8",
+      "title": "Lunar Lander Descent and Landing",
+      "description": "A small lander module descends under gravity toward a cratered moon surface, firing downward thrusters to slow, with a velocity meter, altitude label, and dust particles that puff and fall back when it touches down.",
+      "seed": "Lunar Lander Descent and Landing: A small lander module descends under gravity toward a cratered moon surface, firing downward thrusters to slow, with a velocity meter, altitude label, and dust particles that puff and fall back when it touches down."
+    },
+    {
+      "number": "9",
+      "title": "Gravity Well Landscape",
+      "description": "A deformable transparent mesh “rubber sheet” is indented by several heavy spheres that create gravity wells; light marbles roll around on the mesh, spiraling into the wells or escaping if given enough initial speed.",
+      "seed": "Gravity Well Landscape: A deformable transparent mesh “rubber sheet” is indented by several heavy spheres that create gravity wells; light marbles roll around on the mesh, spiraling into the wells or escaping if given enough initial speed."
+    },
+    {
+      "number": "10",
+      "title": "Tidal Forces on a Comet",
+      "description": "A fragile elongated comet model passes near a massive planet and stretches due to tidal forces, losing chunks that detach, break apart, and form a trailing debris stream visualized with particle clouds.",
+      "seed": "Tidal Forces on a Comet: A fragile elongated comet model passes near a massive planet and stretches due to tidal forces, losing chunks that detach, break apart, and form a trailing debris stream visualized with particle clouds."
+    },
+    {
+      "number": "11",
+      "title": "Orbital Ring of Space Stations",
+      "description": "A thin orbital ring of small station modules encircles a planet; modules can detach, drift, and reattach to the ring under gravity plus small thruster pushes, with each module’s orbit path and docking states labeled.",
+      "seed": "Orbital Ring of Space Stations: A thin orbital ring of small station modules encircles a planet; modules can detach, drift, and reattach to the ring under gravity plus small thruster pushes, with each module’s orbit path and docking states labeled."
+    },
+    {
+      "number": "12",
+      "title": "Gravity-Assisted Cargo Elevator",
+      "description": "A tall space elevator tower anchored on a planet surface supports cargo pods that slide up and down along a tether, with gravity pulling them downward, counterweights moving opposite, and tension forces indicated by colored segments on the cable.",
+      "seed": "Gravity-Assisted Cargo Elevator: A tall space elevator tower anchored on a planet surface supports cargo pods that slide up and down along a tether, with gravity pulling them downward, counterweights moving opposite, and tension forces indicated by colored segments on the cable."
+    },
+    {
+      "number": "13",
+      "title": "Microgravity Particle Cloud in a Space Station",
+      "description": "Inside a transparent cylindrical station, hundreds of tiny colored spheres float in near-microgravity, drifting, gently colliding, sticking into loose clusters, and slowly drifting apart when tiny “air jets” (arrows) pulse.",
+      "seed": "Microgravity Particle Cloud in a Space Station: Inside a transparent cylindrical station, hundreds of tiny colored spheres float in near-microgravity, drifting, gently colliding, sticking into loose clusters, and slowly drifting apart when tiny “air jets” (arrows) pulse."
+    },
+    {
+      "number": "14",
+      "title": "Planetary Rings with Shepherd Moons",
+      "description": "A dense, flat ring of icy particles orbits a planet while two small shepherd moons move along the ring edges, causing gaps, waves, and clumps in the ring structure visualized by density and height variations.",
+      "seed": "Planetary Rings with Shepherd Moons: A dense, flat ring of icy particles orbits a planet while two small shepherd moons move along the ring edges, causing gaps, waves, and clumps in the ring structure visualized by density and height variations."
+    },
+    {
+      "number": "15",
+      "title": "Black Hole Accretion and Light Bending",
+      "description": "A dark central sphere with a glowing accretion disk pulls in bright gas particles from a nearby star; particles spiral inward, heat up (color shifting from blue to red), and some escape along narrow jets, with curved “light ray” paths bending near the hole.",
+      "seed": "Black Hole Accretion and Light Bending: A dark central sphere with a glowing accretion disk pulls in bright gas particles from a nearby star; particles spiral inward, heat up (color shifting from blue to red), and some escape along narrow jets, with curved “light ray” paths bending near the hole."
+    },
+    {
+      "number": "16",
+      "title": "Gravitational Sorting in a Sand Mixer",
+      "description": "A transparent tumbling drum slowly rotates under gravity with mixed large and small spheres inside; as it turns, gravity and collisions cause large “rocks” to migrate differently than fine “sand,” forming layered regions.",
+      "seed": "Gravitational Sorting in a Sand Mixer: A transparent tumbling drum slowly rotates under gravity with mixed large and small spheres inside; as it turns, gravity and collisions cause large “rocks” to migrate differently than fine “sand,” forming layered regions."
+    },
+    {
+      "number": "17",
+      "title": "Double Pendulum under Gravity",
+      "description": "A two-segment pendulum with colored rods swings from a fixed pivot, showing chaotic motion under gravity with a bright tracer on the lower mass and live labels for angle and energy.",
+      "seed": "Double Pendulum under Gravity: A two-segment pendulum with colored rods swings from a fixed pivot, showing chaotic motion under gravity with a bright tracer on the lower mass and live labels for angle and energy."
+    },
+    {
+      "number": "18",
+      "title": "Gravity-Driven Waterfall of Particles",
+      "description": "A stream of tiny blue particles “water” falls from an elevated spout, splashing off rocks and filling a lower transparent basin, with particles bouncing, clumping slightly, and generating white spray at impact zones.",
+      "seed": "Gravity-Driven Waterfall of Particles: A stream of tiny blue particles “water” falls from an elevated spout, splashing off rocks and filling a lower transparent basin, with particles bouncing, clumping slightly, and generating white spray at impact zones."
+    },
+    {
+      "number": "19",
+      "title": "Stacking and Toppling Domino Chain",
+      "description": "A row and tower of thin domino boxes stand on a floor; tipping one causes a chain reaction of falls, bounces, and rotations under gravity, with faint impact flashes where dominoes collide.",
+      "seed": "Stacking and Toppling Domino Chain: A row and tower of thin domino boxes stand on a floor; tipping one causes a chain reaction of falls, bounces, and rotations under gravity, with faint impact flashes where dominoes collide."
+    },
+    {
+      "number": "20",
+      "title": "Orbiting Space Debris and Collision Cascade",
+      "description": "Hundreds of small satellite fragments orbit a planet at different altitudes; when two collide, they shatter into more labeled fragments that spread, showing a cascading Kessler-syndrome-like debris cloud.",
+      "seed": "Orbiting Space Debris and Collision Cascade: Hundreds of small satellite fragments orbit a planet at different altitudes; when two collide, they shatter into more labeled fragments that spread, showing a cascading Kessler-syndrome-like debris cloud."
+    },
+    {
+      "number": "21",
+      "title": "Gravity-Driven Rolling Race on Curved Tracks",
+      "description": "Multiple colored balls start at the same height on differently curved tracks (straight slope, loop, dip), rolling under gravity to compare which path reaches the end first, with timers and speed labels at checkpoints.",
+      "seed": "Gravity-Driven Rolling Race on Curved Tracks: Multiple colored balls start at the same height on differently curved tracks (straight slope, loop, dip), rolling under gravity to compare which path reaches the end first, with timers and speed labels at checkpoints."
+    },
+    {
+      "number": "22",
+      "title": "Asteroid Capture into Planetary Orbit",
+      "description": "A single asteroid approaches a planet-moon system; depending on its initial speed and angle, it is either captured, slingshotted away, or crashes, with its path drawn and final state (escape, orbit, impact) labeled.",
+      "seed": "Asteroid Capture into Planetary Orbit: A single asteroid approaches a planet-moon system; depending on its initial speed and angle, it is either captured, slingshotted away, or crashes, with its path drawn and final state (escape, orbit, impact) labeled."
+    },
+    {
+      "number": "23",
+      "title": "Solar System Scale Height and Gravity Meter",
+      "description": "A simplified solar system with planets at scaled distances includes a small probe you can move; a vector arrow and numeric label display the direction and magnitude of net gravity on the probe from all bodies.",
+      "seed": "Solar System Scale Height and Gravity Meter: A simplified solar system with planets at scaled distances includes a small probe you can move; a vector arrow and numeric label display the direction and magnitude of net gravity on the probe from all bodies."
+    },
+    {
+      "number": "24",
+      "title": "Gravitational “Rain” in a Tall Glass Tower",
+      "description": "A tall transparent tower is filled with colored spheres of different densities; when “gravity direction” flips or rotates, the spheres fall, bounce, and re-stack toward the new “down,” forming shifting stratified layers.",
+      "seed": "Gravitational “Rain” in a Tall Glass Tower: A tall transparent tower is filled with colored spheres of different densities; when “gravity direction” flips or rotates, the spheres fall, bounce, and re-stack toward the new “down,” forming shifting stratified layers."
+    },
+    {
+      "number": "25",
+      "title": "Orbiting Tethered Satellites",
+      "description": "Two small satellites are connected by a thin tether while orbiting a planet; as they rotate around each other and the planet, gravity and centrifugal forces cause the tether to stretch, slacken, and wrap, with tension visualized by tether color.",
+      "seed": "Orbiting Tethered Satellites: Two small satellites are connected by a thin tether while orbiting a planet; as they rotate around each other and the planet, gravity and centrifugal forces cause the tether to stretch, slacken, and wrap, with tension visualized by tether color."
+    }
+  ],
+  "raw_output": "Here are strong **gravity simulation inputs** you can plug into your prompt:\n\n1. **Orbital Ballet of Planets and Moons**\n   A central glowing sun sphere with multiple colored planets and tiny moons that orbit, collide, and slingshot around each other under gravity, leaving faint orbit trails and labels for each body.\n\n2. **Gravity-Driven Marble Funnel**\n   A light-colored funnel-shaped bowl where small marbles are dropped in, spiraling faster as they descend toward a central hole under gravity, bouncing off the rim and leaving short motion trails.\n\n3. **Binary Star with Asteroid Belt**\n   Two bright stars orbit a common center of mass while a ring of small asteroids orbits around them, occasionally colliding, merging, or being captured into irregular orbits, with transparent orbit paths and energy-like color changes on collisions.\n\n4. **Gravitational Slingshot Simulator**\n   A spacecraft box moves near a massive planet sphere and uses gravity assists to change direction and speed, showing its predicted trajectory as a curved dashed line and live readouts of speed and altitude.\n\n5. **Falling Tower of Blocks**\n   A tall, slightly unstable stack of colored boxes stands on a flat floor; when one side is nudged, gravity pulls the stack down into a tumbling collapse, with blocks bouncing, sliding, and leaving soft impact marks on the floor.\n\n6. **Galactic Spiral Formation**\n   Hundreds of tiny star particles start in random positions and are slowly pulled into a rotating spiral galaxy around a massive central black hole with a semi-transparent accretion disk, trails showing the forming spiral arms.\n\n7. **Gravitational Waves Rippling Space Grid**\n   A 3D grid of faint lines represents space, and two orbiting massive spheres generate ripples that compress and stretch the grid as they spiral inward, with amplitude color-coded along the grid lines.\n\n8. **Lunar Lander Descent and Landing**\n   A small lander module descends under gravity toward a cratered moon surface, firing downward thrusters to slow, with a velocity meter, altitude label, and dust particles that puff and fall back when it touches down.\n\n9. **Gravity Well Landscape**\n   A deformable transparent mesh “rubber sheet” is indented by several heavy spheres that create gravity wells; light marbles roll around on the mesh, spiraling into the wells or escaping if given enough initial speed.\n\n10. **Tidal Forces on a Comet**\n    A fragile elongated comet model passes near a massive planet and stretches due to tidal forces, losing chunks that detach, break apart, and form a trailing debris stream visualized with particle clouds.\n\n11. **Orbital Ring of Space Stations**\n    A thin orbital ring of small station modules encircles a planet; modules can detach, drift, and reattach to the ring under gravity plus small thruster pushes, with each module’s orbit path and docking states labeled.\n\n12. **Gravity-Assisted Cargo Elevator**\n    A tall space elevator tower anchored on a planet surface supports cargo pods that slide up and down along a tether, with gravity pulling them downward, counterweights moving opposite, and tension forces indicated by colored segments on the cable.\n\n13. **Microgravity Particle Cloud in a Space Station**\n    Inside a transparent cylindrical station, hundreds of tiny colored spheres float in near-microgravity, drifting, gently colliding, sticking into loose clusters, and slowly drifting apart when tiny “air jets” (arrows) pulse.\n\n14. **Planetary Rings with Shepherd Moons**\n    A dense, flat ring of icy particles orbits a planet while two small shepherd moons move along the ring edges, causing gaps, waves, and clumps in the ring structure visualized by density and height variations.\n\n15. **Black Hole Accretion and Light Bending**\n    A dark central sphere with a glowing accretion disk pulls in bright gas particles from a nearby star; particles spiral inward, heat up (color shifting from blue to red), and some escape along narrow jets, with curved “light ray” paths bending near the hole.\n\n16. **Gravitational Sorting in a Sand Mixer**\n    A transparent tumbling drum slowly rotates under gravity with mixed large and small spheres inside; as it turns, gravity and collisions cause large “rocks” to migrate differently than fine “sand,” forming layered regions.\n\n17. **Double Pendulum under Gravity**\n    A two-segment pendulum with colored rods swings from a fixed pivot, showing chaotic motion under gravity with a bright tracer on the lower mass and live labels for angle and energy.\n\n18. **Gravity-Driven Waterfall of Particles**\n    A stream of tiny blue particles “water” falls from an elevated spout, splashing off rocks and filling a lower transparent basin, with particles bouncing, clumping slightly, and generating white spray at impact zones.\n\n19. **Stacking and Toppling Domino Chain**\n    A row and tower of thin domino boxes stand on a floor; tipping one causes a chain reaction of falls, bounces, and rotations under gravity, with faint impact flashes where dominoes collide.\n\n20. **Orbiting Space Debris and Collision Cascade**\n    Hundreds of small satellite fragments orbit a planet at different altitudes; when two collide, they shatter into more labeled fragments that spread, showing a cascading Kessler-syndrome-like debris cloud.\n\n21. **Gravity-Driven Rolling Race on Curved Tracks**\n    Multiple colored balls start at the same height on differently curved tracks (straight slope, loop, dip), rolling under gravity to compare which path reaches the end first, with timers and speed labels at checkpoints.\n\n22. **Asteroid Capture into Planetary Orbit**\n    A single asteroid approaches a planet-moon system; depending on its initial speed and angle, it is either captured, slingshotted away, or crashes, with its path drawn and final state (escape, orbit, impact) labeled.\n\n23. **Solar System Scale Height and Gravity Meter**\n    A simplified solar system with planets at scaled distances includes a small probe you can move; a vector arrow and numeric label display the direction and magnitude of net gravity on the probe from all bodies.\n\n24. **Gravitational “Rain” in a Tall Glass Tower**\n    A tall transparent tower is filled with colored spheres of different densities; when “gravity direction” flips or rotates, the spheres fall, bounce, and re-stack toward the new “down,” forming shifting stratified layers.\n\n25. **Orbiting Tethered Satellites**\n    Two small satellites are connected by a thin tether while orbiting a planet; as they rotate around each other and the planet, gravity and centrifugal forces cause the tether to stretch, slacken, and wrap, with tension visualized by tether color."
+}

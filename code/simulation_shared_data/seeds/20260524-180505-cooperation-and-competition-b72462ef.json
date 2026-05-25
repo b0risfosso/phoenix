@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Cooperation and competition",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:05:05",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Foraging drones sharing and stealing energy pods",
+      "description": "A swarm of small spherical drones roam a bright 3D arena to collect glowing energy pods, leaving colored trails as they either share pods with same-colored allies or collide and steal pods from rival-colored drones, while a central transparent energy tower tracks team scores with rising and falling levels.",
+      "seed": "Foraging drones sharing and stealing energy pods: A swarm of small spherical drones roam a bright 3D arena to collect glowing energy pods, leaving colored trails as they either share pods with same-colored allies or collide and steal pods from rival-colored drones, while a central transparent energy tower tracks team scores with rising and falling levels."
+    },
+    {
+      "number": "2",
+      "title": "Predator–prey schools with cooperative defense",
+      "description": "Flocks of small fish-like particles move in coordinated shoals using alignment rules, while a few larger predator objects chase them; prey cluster into tight, rotating balls that repel predators, and individuals that stray are chased, with trails and changing colors indicating danger and safety.",
+      "seed": "Predator–prey schools with cooperative defense: Flocks of small fish-like particles move in coordinated shoals using alignment rules, while a few larger predator objects chase them; prey cluster into tight, rotating balls that repel predators, and individuals that stray are chased, with trails and changing colors indicating danger and safety."
+    },
+    {
+      "number": "3",
+      "title": "Competing construction bots building a shared bridge",
+      "description": "Two teams of cube-shaped robots pull floating blocks from a central supply and either cooperatively attach them to extend a transparent bridge across a gap or detach and steal opponent blocks, with labels showing each team’s progress and a height meter marking bridge completion.",
+      "seed": "Competing construction bots building a shared bridge: Two teams of cube-shaped robots pull floating blocks from a central supply and either cooperatively attach them to extend a transparent bridge across a gap or detach and steal opponent blocks, with labels showing each team’s progress and a height meter marking bridge completion."
+    },
+    {
+      "number": "4",
+      "title": "Bacterial colonies competing for nutrients in 3D gel",
+      "description": "Tiny spherical bacteria of different colors float and replicate inside a transparent box of “gel,” chemotaxing toward diffusing nutrient clouds while releasing colored inhibitory halos that shrink rival colonies and overlapping halos that indicate regions of intense competition.",
+      "seed": "Bacterial colonies competing for nutrients in 3D gel: Tiny spherical bacteria of different colors float and replicate inside a transparent box of “gel,” chemotaxing toward diffusing nutrient clouds while releasing colored inhibitory halos that shrink rival colonies and overlapping halos that indicate regions of intense competition."
+    },
+    {
+      "number": "5",
+      "title": "Resource-sharing satellites in crowded orbit",
+      "description": "Multiple small satellites orbit a planet, some linked by glowing energy-transfer beams that equalize their “battery” bars while others attempt to nudge or collide to disrupt rival orbits, with orbital trails, changing orbital heights, and flashing indicators for cooperation or aggression.",
+      "seed": "Resource-sharing satellites in crowded orbit: Multiple small satellites orbit a planet, some linked by glowing energy-transfer beams that equalize their “battery” bars while others attempt to nudge or collide to disrupt rival orbits, with orbital trails, changing orbital heights, and flashing indicators for cooperation or aggression."
+    },
+    {
+      "number": "6",
+      "title": "Ant teams cooperating and competing over food piles",
+      "description": "Ant-like particles emerge from two nests and follow or lay pheromone trails to food spheres, cooperatively attaching to large food pieces to drag them back while colliding and tug-of-warring with rival teams over shared items, with pheromone intensity visualized as translucent colored fog.",
+      "seed": "Ant teams cooperating and competing over food piles: Ant-like particles emerge from two nests and follow or lay pheromone trails to food spheres, cooperatively attaching to large food pieces to drag them back while colliding and tug-of-warring with rival teams over shared items, with pheromone intensity visualized as translucent colored fog."
+    },
+    {
+      "number": "7",
+      "title": "Cell immune response with cooperative antibodies and competitive viruses",
+      "description": "Viruses invade a semi-transparent spherical cell, replicating and competing for entry ports, while antibody particles cooperate by attaching in chains around viral shells to neutralize them, showing color changes on successful neutralization and trails for infection pathways.",
+      "seed": "Cell immune response with cooperative antibodies and competitive viruses: Viruses invade a semi-transparent spherical cell, replicating and competing for entry ports, while antibody particles cooperate by attaching in chains around viral shells to neutralize them, showing color changes on successful neutralization and trails for infection pathways."
+    },
+    {
+      "number": "8",
+      "title": "Market agents trading and competing on a 3D price landscape",
+      "description": "Spherical trader agents move over a gently undulating 3D surface representing profit potential, forming temporary glowing links to share price information within teams while colliding with competitors that can “outbid” and push them to less profitable zones, with floating labels showing wealth.",
+      "seed": "Market agents trading and competing on a 3D price landscape: Spherical trader agents move over a gently undulating 3D surface representing profit potential, forming temporary glowing links to share price information within teams while colliding with competitors that can “outbid” and push them to less profitable zones, with floating labels showing wealth."
+    },
+    {
+      "number": "9",
+      "title": "Robotic soccer in a minimalist 3D arena",
+      "description": "Two teams of wheeled bots chase a glowing ball that can bounce off walls and floors, with bots on the same team forming passing chains (glowing temporary connection lines) and opponents intercepting via predicted collision paths, while a transparent scoreboard cube tallies goals.",
+      "seed": "Robotic soccer in a minimalist 3D arena: Two teams of wheeled bots chase a glowing ball that can bounce off walls and floors, with bots on the same team forming passing chains (glowing temporary connection lines) and opponents intercepting via predicted collision paths, while a transparent scoreboard cube tallies goals."
+    },
+    {
+      "number": "10",
+      "title": "Plant roots cooperating underground while competing for water",
+      "description": "Several plants sprout from the top surface, their semi-transparent roots growing downward as branching tubes toward water droplets in the soil; nearby roots of the same species can merge and share water (color intensifies) while competing species’ roots repel or constrict each other around droplets.",
+      "seed": "Plant roots cooperating underground while competing for water: Several plants sprout from the top surface, their semi-transparent roots growing downward as branching tubes toward water droplets in the soil; nearby roots of the same species can merge and share water (color intensifies) while competing species’ roots repel or constrict each other around droplets."
+    },
+    {
+      "number": "11",
+      "title": "Swarm of rescue bots in a collapsing structure",
+      "description": "Spherical bots navigate through a floating lattice of beams and debris; they cooperatively form chains to lift heavy beams (glowing connectors when linked) while rival “saboteur” bots try to dislodge chains by colliding, with dust-like particles marking collapses and a stability bar showing structure integrity.",
+      "seed": "Swarm of rescue bots in a collapsing structure: Spherical bots navigate through a floating lattice of beams and debris; they cooperatively form chains to lift heavy beams (glowing connectors when linked) while rival “saboteur” bots try to dislodge chains by colliding, with dust-like particles marking collapses and a stability bar showing structure integrity."
+    },
+    {
+      "number": "12",
+      "title": "Competing flocks for limited roosting space",
+      "description": "Two or more flocks of bird-like particles fly around a 3D tree with limited glowing perches; as night (background dimming) approaches, birds compete to land on perches, sometimes cooperating with same-color birds to share branches while bumping rivals off, with perched birds gradually dimming to show rest.",
+      "seed": "Competing flocks for limited roosting space: Two or more flocks of bird-like particles fly around a 3D tree with limited glowing perches; as night (background dimming) approaches, birds compete to land on perches, sometimes cooperating with same-color birds to share branches while bumping rivals off, with perched birds gradually dimming to show rest."
+    },
+    {
+      "number": "13",
+      "title": "Chemical reaction network with cooperative catalysts and inhibitory competitors",
+      "description": "Colored spheres represent reactants, products, catalysts, and inhibitors floating in a transparent box; catalysts attach to reactants to speed up merging into products (colorful flashes), while inhibitor particles competitively attach to block reactions, with reaction rates displayed as dynamic bar graphs.",
+      "seed": "Chemical reaction network with cooperative catalysts and inhibitory competitors: Colored spheres represent reactants, products, catalysts, and inhibitors floating in a transparent box; catalysts attach to reactants to speed up merging into products (colorful flashes), while inhibitor particles competitively attach to block reactions, with reaction rates displayed as dynamic bar graphs."
+    },
+    {
+      "number": "14",
+      "title": "Traffic flow with car platoons and aggressive overtakers",
+      "description": "On a multi-lane elevated loop road, car boxes form cooperative platoons that maintain distance and share speed (glowing lane-colored lines) while individual aggressive cars weave, overtake, and sometimes cause collisions that ripple backward as stop-and-go waves visualized by pulsing lane colors.",
+      "seed": "Traffic flow with car platoons and aggressive overtakers: On a multi-lane elevated loop road, car boxes form cooperative platoons that maintain distance and share speed (glowing lane-colored lines) while individual aggressive cars weave, overtake, and sometimes cause collisions that ripple backward as stop-and-go waves visualized by pulsing lane colors."
+    },
+    {
+      "number": "15",
+      "title": "3D capture-the-flag with alliances and betrayals",
+      "description": "Agents from several teams navigate a multi-level arena with ramps and platforms, some forming alliances (shared trails and color blending) to capture a central glowing flag, while others abruptly break off and collide to steal it, as overhead score markers and team “trust meters” rise and fall.",
+      "seed": "3D capture-the-flag with alliances and betrayals: Agents from several teams navigate a multi-level arena with ramps and platforms, some forming alliances (shared trails and color blending) to capture a central glowing flag, while others abruptly break off and collide to steal it, as overhead score markers and team “trust meters” rise and fall."
+    },
+    {
+      "number": "16",
+      "title": "Coral reef space competition with symbiotic cleaners",
+      "description": "Stationary coral structures slowly grow branching arms competing for space and light, while small mobile “cleaner” fish remove harmful particles from cooperative corals (making them glow brighter) and ignore or nip at rival corals, with sediment clouds and light beams indicating resource gradients.",
+      "seed": "Coral reef space competition with symbiotic cleaners: Stationary coral structures slowly grow branching arms competing for space and light, while small mobile “cleaner” fish remove harmful particles from cooperative corals (making them glow brighter) and ignore or nip at rival corals, with sediment clouds and light beams indicating resource gradients."
+    },
+    {
+      "number": "17",
+      "title": "Network routers sharing and hogging bandwidth",
+      "description": "Nodes in a 3D communication network are represented as spheres connected by semi-transparent tubes; packets are glowing particles traveling along edges, and some routers cooperate by balancing load while others hoard bandwidth, with edge thickness and color showing congestion and fairness.",
+      "seed": "Network routers sharing and hogging bandwidth: Nodes in a 3D communication network are represented as spheres connected by semi-transparent tubes; packets are glowing particles traveling along edges, and some routers cooperate by balancing load while others hoard bandwidth, with edge thickness and color showing congestion and fairness."
+    },
+    {
+      "number": "18",
+      "title": "Bee hive foraging with waggle dance communication",
+      "description": "Bees exit a central hive, fly outward to find randomly placed flower clusters, then return and perform simplified 3D “waggle” paths in front of the hive that orient other bees toward discovered flowers, while a rival hive’s bees sometimes collide mid-air and redirect each other, with nectar levels displayed.",
+      "seed": "Bee hive foraging with waggle dance communication: Bees exit a central hive, fly outward to find randomly placed flower clusters, then return and perform simplified 3D “waggle” paths in front of the hive that orient other bees toward discovered flowers, while a rival hive’s bees sometimes collide mid-air and redirect each other, with nectar levels displayed."
+    },
+    {
+      "number": "19",
+      "title": "Competing magma plumes and cooperative crystal growth",
+      "description": "Inside a semi-transparent cube representing Earth’s mantle, hot buoyant plumes rise and compete for space under a cooler ceiling, where crystals nucleate and grow cooperative branching lattices that can merge; collisions between plumes disrupt crystal growth, shown by cracking and color fading.",
+      "seed": "Competing magma plumes and cooperative crystal growth: Inside a semi-transparent cube representing Earth’s mantle, hot buoyant plumes rise and compete for space under a cooler ceiling, where crystals nucleate and grow cooperative branching lattices that can merge; collisions between plumes disrupt crystal growth, shown by cracking and color fading."
+    },
+    {
+      "number": "20",
+      "title": "Robot assembly line with shared tools and bottlenecks",
+      "description": "Arm-like robots along a conveyor cooperate by passing parts and tools (small colored cylinders) while some stations become bottlenecks, causing parts to queue and robots to compete for access to a shared welding unit that can rotate, attach, and detach components, with efficiency displayed as a moving gauge.",
+      "seed": "Robot assembly line with shared tools and bottlenecks: Arm-like robots along a conveyor cooperate by passing parts and tools (small colored cylinders) while some stations become bottlenecks, causing parts to queue and robots to compete for access to a shared welding unit that can rotate, attach, and detach components, with efficiency displayed as a moving gauge."
+    },
+    {
+      "number": "21",
+      "title": "Flocking spacecraft mining asteroids",
+      "description": "Small mining ships form cooperative drilling rings around selected asteroids, attaching and rotating to extract glowing ore particles, while rival-colored fleets push or tow asteroids away, leaving dust trails and shifting the center of mass so that orbital paths around a central planet compete and intersect.",
+      "seed": "Flocking spacecraft mining asteroids: Small mining ships form cooperative drilling rings around selected asteroids, attaching and rotating to extract glowing ore particles, while rival-colored fleets push or tow asteroids away, leaving dust trails and shifting the center of mass so that orbital paths around a central planet compete and intersect."
+    },
+    {
+      "number": "22",
+      "title": "3D tug-of-war between microbial biofilms",
+      "description": "On opposite sides of a transparent channel, two microbial biofilms spread as textured surfaces; filamentous cells extend and attach to free-floating nutrient particles and to each other, forming cooperative bridges, while enzymes from the rival side dissolve opposing structures, with color gradients marking territory.",
+      "seed": "3D tug-of-war between microbial biofilms: On opposite sides of a transparent channel, two microbial biofilms spread as textured surfaces; filamentous cells extend and attach to free-floating nutrient particles and to each other, forming cooperative bridges, while enzymes from the rival side dissolve opposing structures, with color gradients marking territory."
+    },
+    {
+      "number": "23",
+      "title": "Social cluster formation with peer pressure and rivalry",
+      "description": "Dozens of agents float in a room-like box, forming clusters with same-colored peers via mild attraction while experiencing repulsion from rival colors; some agents act as “bridges” between clusters, temporarily sharing color gradients, with labels and bars showing cluster size and individual popularity.",
+      "seed": "Social cluster formation with peer pressure and rivalry: Dozens of agents float in a room-like box, forming clusters with same-colored peers via mild attraction while experiencing repulsion from rival colors; some agents act as “bridges” between clusters, temporarily sharing color gradients, with labels and bars showing cluster size and individual popularity."
+    },
+    {
+      "number": "24",
+      "title": "Snowflake growth competing for vapor",
+      "description": "Multiple snowflake seeds at different positions in a cold, transparent volume cooperatively grow branching arms by attaching water vapor particles drifting through the space, while nearby flakes deplete the local vapor (fading particle density) and stunt each other’s growth, producing intricate competing patterns.",
+      "seed": "Snowflake growth competing for vapor: Multiple snowflake seeds at different positions in a cold, transparent volume cooperatively grow branching arms by attaching water vapor particles drifting through the space, while nearby flakes deplete the local vapor (fading particle density) and stunt each other’s growth, producing intricate competing patterns."
+    },
+    {
+      "number": "25",
+      "title": "Neural populations competing and cooperating to trigger an action",
+      "description": "Groups of neuron-like spheres float in a 3D volume, connected by directed glowing fibers that carry pulses; excitatory groups cooperate by synchronizing pulses to brighten a central “motor” sphere, while inhibitory groups send competing pulses that dim or delay activation, with spike trails showing timing.",
+      "seed": "Neural populations competing and cooperating to trigger an action: Groups of neuron-like spheres float in a 3D volume, connected by directed glowing fibers that carry pulses; excitatory groups cooperate by synchronizing pulses to brighten a central “motor” sphere, while inhibitory groups send competing pulses that dim or delay activation, with spike trails showing timing."
+    }
+  ],
+  "raw_output": "Here are strong **Cooperation and competition simulation inputs** you can plug into your prompt:\n\n1. **Foraging drones sharing and stealing energy pods**\n   A swarm of small spherical drones roam a bright 3D arena to collect glowing energy pods, leaving colored trails as they either share pods with same-colored allies or collide and steal pods from rival-colored drones, while a central transparent energy tower tracks team scores with rising and falling levels.\n\n2. **Predator–prey schools with cooperative defense**\n   Flocks of small fish-like particles move in coordinated shoals using alignment rules, while a few larger predator objects chase them; prey cluster into tight, rotating balls that repel predators, and individuals that stray are chased, with trails and changing colors indicating danger and safety.\n\n3. **Competing construction bots building a shared bridge**\n   Two teams of cube-shaped robots pull floating blocks from a central supply and either cooperatively attach them to extend a transparent bridge across a gap or detach and steal opponent blocks, with labels showing each team’s progress and a height meter marking bridge completion.\n\n4. **Bacterial colonies competing for nutrients in 3D gel**\n   Tiny spherical bacteria of different colors float and replicate inside a transparent box of “gel,” chemotaxing toward diffusing nutrient clouds while releasing colored inhibitory halos that shrink rival colonies and overlapping halos that indicate regions of intense competition.\n\n5. **Resource-sharing satellites in crowded orbit**\n   Multiple small satellites orbit a planet, some linked by glowing energy-transfer beams that equalize their “battery” bars while others attempt to nudge or collide to disrupt rival orbits, with orbital trails, changing orbital heights, and flashing indicators for cooperation or aggression.\n\n6. **Ant teams cooperating and competing over food piles**\n   Ant-like particles emerge from two nests and follow or lay pheromone trails to food spheres, cooperatively attaching to large food pieces to drag them back while colliding and tug-of-warring with rival teams over shared items, with pheromone intensity visualized as translucent colored fog.\n\n7. **Cell immune response with cooperative antibodies and competitive viruses**\n   Viruses invade a semi-transparent spherical cell, replicating and competing for entry ports, while antibody particles cooperate by attaching in chains around viral shells to neutralize them, showing color changes on successful neutralization and trails for infection pathways.\n\n8. **Market agents trading and competing on a 3D price landscape**\n   Spherical trader agents move over a gently undulating 3D surface representing profit potential, forming temporary glowing links to share price information within teams while colliding with competitors that can “outbid” and push them to less profitable zones, with floating labels showing wealth.\n\n9. **Robotic soccer in a minimalist 3D arena**\n   Two teams of wheeled bots chase a glowing ball that can bounce off walls and floors, with bots on the same team forming passing chains (glowing temporary connection lines) and opponents intercepting via predicted collision paths, while a transparent scoreboard cube tallies goals.\n\n10. **Plant roots cooperating underground while competing for water**\n   Several plants sprout from the top surface, their semi-transparent roots growing downward as branching tubes toward water droplets in the soil; nearby roots of the same species can merge and share water (color intensifies) while competing species’ roots repel or constrict each other around droplets.\n\n11. **Swarm of rescue bots in a collapsing structure**\n   Spherical bots navigate through a floating lattice of beams and debris; they cooperatively form chains to lift heavy beams (glowing connectors when linked) while rival “saboteur” bots try to dislodge chains by colliding, with dust-like particles marking collapses and a stability bar showing structure integrity.\n\n12. **Competing flocks for limited roosting space**\n   Two or more flocks of bird-like particles fly around a 3D tree with limited glowing perches; as night (background dimming) approaches, birds compete to land on perches, sometimes cooperating with same-color birds to share branches while bumping rivals off, with perched birds gradually dimming to show rest.\n\n13. **Chemical reaction network with cooperative catalysts and inhibitory competitors**\n   Colored spheres represent reactants, products, catalysts, and inhibitors floating in a transparent box; catalysts attach to reactants to speed up merging into products (colorful flashes), while inhibitor particles competitively attach to block reactions, with reaction rates displayed as dynamic bar graphs.\n\n14. **Traffic flow with car platoons and aggressive overtakers**\n   On a multi-lane elevated loop road, car boxes form cooperative platoons that maintain distance and share speed (glowing lane-colored lines) while individual aggressive cars weave, overtake, and sometimes cause collisions that ripple backward as stop-and-go waves visualized by pulsing lane colors.\n\n15. **3D capture-the-flag with alliances and betrayals**\n   Agents from several teams navigate a multi-level arena with ramps and platforms, some forming alliances (shared trails and color blending) to capture a central glowing flag, while others abruptly break off and collide to steal it, as overhead score markers and team “trust meters” rise and fall.\n\n16. **Coral reef space competition with symbiotic cleaners**\n   Stationary coral structures slowly grow branching arms competing for space and light, while small mobile “cleaner” fish remove harmful particles from cooperative corals (making them glow brighter) and ignore or nip at rival corals, with sediment clouds and light beams indicating resource gradients.\n\n17. **Network routers sharing and hogging bandwidth**\n   Nodes in a 3D communication network are represented as spheres connected by semi-transparent tubes; packets are glowing particles traveling along edges, and some routers cooperate by balancing load while others hoard bandwidth, with edge thickness and color showing congestion and fairness.\n\n18. **Bee hive foraging with waggle dance communication**\n   Bees exit a central hive, fly outward to find randomly placed flower clusters, then return and perform simplified 3D “waggle” paths in front of the hive that orient other bees toward discovered flowers, while a rival hive’s bees sometimes collide mid-air and redirect each other, with nectar levels displayed.\n\n19. **Competing magma plumes and cooperative crystal growth**\n   Inside a semi-transparent cube representing Earth’s mantle, hot buoyant plumes rise and compete for space under a cooler ceiling, where crystals nucleate and grow cooperative branching lattices that can merge; collisions between plumes disrupt crystal growth, shown by cracking and color fading.\n\n20. **Robot assembly line with shared tools and bottlenecks**\n   Arm-like robots along a conveyor cooperate by passing parts and tools (small colored cylinders) while some stations become bottlenecks, causing parts to queue and robots to compete for access to a shared welding unit that can rotate, attach, and detach components, with efficiency displayed as a moving gauge.\n\n21. **Flocking spacecraft mining asteroids**\n   Small mining ships form cooperative drilling rings around selected asteroids, attaching and rotating to extract glowing ore particles, while rival-colored fleets push or tow asteroids away, leaving dust trails and shifting the center of mass so that orbital paths around a central planet compete and intersect.\n\n22. **3D tug-of-war between microbial biofilms**\n   On opposite sides of a transparent channel, two microbial biofilms spread as textured surfaces; filamentous cells extend and attach to free-floating nutrient particles and to each other, forming cooperative bridges, while enzymes from the rival side dissolve opposing structures, with color gradients marking territory.\n\n23. **Social cluster formation with peer pressure and rivalry**\n   Dozens of agents float in a room-like box, forming clusters with same-colored peers via mild attraction while experiencing repulsion from rival colors; some agents act as “bridges” between clusters, temporarily sharing color gradients, with labels and bars showing cluster size and individual popularity.\n\n24. **Snowflake growth competing for vapor**\n   Multiple snowflake seeds at different positions in a cold, transparent volume cooperatively grow branching arms by attaching water vapor particles drifting through the space, while nearby flakes deplete the local vapor (fading particle density) and stunt each other’s growth, producing intricate competing patterns.\n\n25. **Neural populations competing and cooperating to trigger an action**\n   Groups of neuron-like spheres float in a 3D volume, connected by directed glowing fibers that carry pulses; excitatory groups cooperate by synchronizing pulses to brighten a central “motor” sphere, while inhibitory groups send competing pulses that dim or delay activation, with spike trails showing timing."
+}

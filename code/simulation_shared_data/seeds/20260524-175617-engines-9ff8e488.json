@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Engines",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:56:17",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Four-Cylinder Piston Engine Cross-Section",
+      "description": "A transparent engine block holds four color-coded pistons that slide up and down in cylinders, with a rotating crankshaft, connecting rods, intake and exhaust valves that open and close, fuel-air particles that enter and combust as glowing bursts, and labeled gauges showing RPM and pressure.",
+      "seed": "Four-Cylinder Piston Engine Cross-Section: A transparent engine block holds four color-coded pistons that slide up and down in cylinders, with a rotating crankshaft, connecting rods, intake and exhaust valves that open and close, fuel-air particles that enter and combust as glowing bursts, and labeled gauges showing RPM and pressure."
+    },
+    {
+      "number": "2",
+      "title": "Jet Turbofan Engine Airflow",
+      "description": "A cutaway turbofan engine with spinning front fan blades, compressor and turbine stages, where air particles (tiny colored spheres) flow through, accelerate, compress, heat up (color-shifting from blue to red), and exhaust as a high-speed jet plume, with trails showing airflow paths and labels for each section.",
+      "seed": "Jet Turbofan Engine Airflow: A cutaway turbofan engine with spinning front fan blades, compressor and turbine stages, where air particles (tiny colored spheres) flow through, accelerate, compress, heat up (color-shifting from blue to red), and exhaust as a high-speed jet plume, with trails showing airflow paths and labels for each section."
+    },
+    {
+      "number": "3",
+      "title": "Rocket Engine Test Stand",
+      "description": "A vertically mounted rocket engine attached to a fixed test stand, with fuel and oxidizer lines feeding into a combustion chamber that ignites into a bright exhaust plume of particles, while a thrust meter bar rises and falls, the nozzle glows red with heat, and translucent shock diamonds pulse in the exhaust.",
+      "seed": "Rocket Engine Test Stand: A vertically mounted rocket engine attached to a fixed test stand, with fuel and oxidizer lines feeding into a combustion chamber that ignites into a bright exhaust plume of particles, while a thrust meter bar rises and falls, the nozzle glows red with heat, and translucent shock diamonds pulse in the exhaust."
+    },
+    {
+      "number": "4",
+      "title": "Steam Engine With Flywheel",
+      "description": "A classic steam engine where steam (white particle clouds) enters a cylinder, pushes a piston connected to a large rotating flywheel, with a sliding valve mechanism that alternates steam flow, a pressure gauge needle that swings, and motion trails on the flywheel’s rim to show rotational speed.",
+      "seed": "Steam Engine With Flywheel: A classic steam engine where steam (white particle clouds) enters a cylinder, pushes a piston connected to a large rotating flywheel, with a sliding valve mechanism that alternates steam flow, a pressure gauge needle that swings, and motion trails on the flywheel’s rim to show rotational speed."
+    },
+    {
+      "number": "5",
+      "title": "Electric Motor and Generator Pair",
+      "description": "Two coupled devices show motor and generator behavior: a rotor inside a transparent stator with visible magnetic field lines (colored loops), where turning a crank on one side spins both rotors, lights up attached bulbs, and color-intensity of the field and current-carrying wires changes with speed.",
+      "seed": "Electric Motor and Generator Pair: Two coupled devices show motor and generator behavior: a rotor inside a transparent stator with visible magnetic field lines (colored loops), where turning a crank on one side spins both rotors, lights up attached bulbs, and color-intensity of the field and current-carrying wires changes with speed."
+    },
+    {
+      "number": "6",
+      "title": "Gear Train Engine Room",
+      "description": "A compact “engine room” full of interlocking gears of different sizes and colors that rotate, with a main input gear driven by a motor, some gears sliding along shafts to engage/disengage, torque arrows changing length to show load, and a transparent floor so you can see the shafts and bearings.",
+      "seed": "Gear Train Engine Room: A compact “engine room” full of interlocking gears of different sizes and colors that rotate, with a main input gear driven by a motor, some gears sliding along shafts to engage/disengage, torque arrows changing length to show load, and a transparent floor so you can see the shafts and bearings."
+    },
+    {
+      "number": "7",
+      "title": "Hybrid Car Powertrain Cutaway",
+      "description": "A car chassis with a visible gasoline engine, electric motor, battery pack, and wheels, where the user can toggle modes to see colored energy flows (arrows) transferring between engine, motor, battery, and wheels, with rotational speeds, labels, and a transparent body for interior visibility.",
+      "seed": "Hybrid Car Powertrain Cutaway: A car chassis with a visible gasoline engine, electric motor, battery pack, and wheels, where the user can toggle modes to see colored energy flows (arrows) transferring between engine, motor, battery, and wheels, with rotational speeds, labels, and a transparent body for interior visibility."
+    },
+    {
+      "number": "8",
+      "title": "Ion Engine in Deep Space",
+      "description": "A small spacecraft with a glowing blue ion thruster at the rear, slowly ejecting streams of faintly glowing ion particles that leave long trails, while the craft gently accelerates forward through a starfield, its trajectory curving slightly when the engine gimbals to different angles.",
+      "seed": "Ion Engine in Deep Space: A small spacecraft with a glowing blue ion thruster at the rear, slowly ejecting streams of faintly glowing ion particles that leave long trails, while the craft gently accelerates forward through a starfield, its trajectory curving slightly when the engine gimbals to different angles."
+    },
+    {
+      "number": "9",
+      "title": "Micro Engine of a Cell: ATP Synthase",
+      "description": "A magnified cell membrane patch with rotating ATP synthase “motors”: proton particles cross the membrane and cause the cylindrical rotor to spin, with each rotation triggering the attachment of phosphate particles to ADP spheres to form ATP spheres, all color-coded and labeled.",
+      "seed": "Micro Engine of a Cell: ATP Synthase: A magnified cell membrane patch with rotating ATP synthase “motors”: proton particles cross the membrane and cause the cylindrical rotor to spin, with each rotation triggering the attachment of phosphate particles to ADP spheres to form ATP spheres, all color-coded and labeled."
+    },
+    {
+      "number": "10",
+      "title": "Data Processing “Engine Room”",
+      "description": "A metaphorical data engine where blocks of data cubes enter a transparent processing chamber, are split, merged, recolored, and routed along conveyor belts and rotating “logic gears,” with glowing lines representing data flow intensity, and meters showing throughput and error rate.",
+      "seed": "Data Processing “Engine Room”: A metaphorical data engine where blocks of data cubes enter a transparent processing chamber, are split, merged, recolored, and routed along conveyor belts and rotating “logic gears,” with glowing lines representing data flow intensity, and meters showing throughput and error rate."
+    },
+    {
+      "number": "11",
+      "title": "Wind Turbine Farm Driving a Central Engine",
+      "description": "Several tall wind turbines on a grassy plane spin at different speeds as wind particles flow past, each sending power along glowing cables to a central generator engine that rotates faster as more turbines spin, with a translucent dome showing total power via color intensity.",
+      "seed": "Wind Turbine Farm Driving a Central Engine: Several tall wind turbines on a grassy plane spin at different speeds as wind particles flow past, each sending power along glowing cables to a central generator engine that rotates faster as more turbines spin, with a translucent dome showing total power via color intensity."
+    },
+    {
+      "number": "12",
+      "title": "Piston Engine With Variable Compression",
+      "description": "A single-cylinder engine with an adjustable cylinder head that slides up and down to change compression ratio, where the user can move the head and watch the piston motion, combustion flame size, and a live compression gauge and temperature color map inside the chamber.",
+      "seed": "Piston Engine With Variable Compression: A single-cylinder engine with an adjustable cylinder head that slides up and down to change compression ratio, where the user can move the head and watch the piston motion, combustion flame size, and a live compression gauge and temperature color map inside the chamber."
+    },
+    {
+      "number": "13",
+      "title": "Warp Drive “Spacetime Engine”",
+      "description": "A spaceship in the center of a semi-transparent grid of spacetime cells, with a central warp engine that pulses and warps the grid: regions in front compress (cells shrink, turn blue) while regions behind expand (cells stretch, turn red), and the ship appears to glide without traditional thrust.",
+      "seed": "Warp Drive “Spacetime Engine”: A spaceship in the center of a semi-transparent grid of spacetime cells, with a central warp engine that pulses and warps the grid: regions in front compress (cells shrink, turn blue) while regions behind expand (cells stretch, turn red), and the ship appears to glide without traditional thrust."
+    },
+    {
+      "number": "14",
+      "title": "Turboprop Engine With Propeller Vortices",
+      "description": "A turboprop engine with a large propeller that spins and generates semi-transparent swirling vortices off each blade tip, with airflow particles curving around the blades, the engine core spinning internally, and labels for intake, compressor, combustion, turbine, and exhaust.",
+      "seed": "Turboprop Engine With Propeller Vortices: A turboprop engine with a large propeller that spins and generates semi-transparent swirling vortices off each blade tip, with airflow particles curving around the blades, the engine core spinning internally, and labels for intake, compressor, combustion, turbine, and exhaust."
+    },
+    {
+      "number": "15",
+      "title": "Hydraulic Engine and Actuator System",
+      "description": "A hydraulic power unit with a motor-driven pump creating pressure in transparent fluid lines, sending colored fluid to extend and retract pistons on multiple cylinders that lift and lower attached platforms, with pressure gauges, flow direction arrows, and slight hose expansion under high pressure.",
+      "seed": "Hydraulic Engine and Actuator System: A hydraulic power unit with a motor-driven pump creating pressure in transparent fluid lines, sending colored fluid to extend and retract pistons on multiple cylinders that lift and lower attached platforms, with pressure gauges, flow direction arrows, and slight hose expansion under high pressure."
+    },
+    {
+      "number": "16",
+      "title": "Steam Locomotive Drive Engine",
+      "description": "A side view of a steam locomotive’s driving wheels and pistons, where steam clouds enter and exhaust from the cylinder, the piston rods push the main wheels, and side rods move in a complex rotating pattern, with sparks and smoke particles from the chimney and labels on each mechanical linkage.",
+      "seed": "Steam Locomotive Drive Engine: A side view of a steam locomotive’s driving wheels and pistons, where steam clouds enter and exhaust from the cylinder, the piston rods push the main wheels, and side rods move in a complex rotating pattern, with sparks and smoke particles from the chimney and labels on each mechanical linkage."
+    },
+    {
+      "number": "17",
+      "title": "CPU “Instruction Engine” Visualization",
+      "description": "A stylized CPU core where instruction blocks (small labeled cubes) flow from memory into a central execution engine made of rotating disks and sliding bars, with colored paths for fetch, decode, execute, and write-back, and throughput meters showing how many instructions per second pass through.",
+      "seed": "CPU “Instruction Engine” Visualization: A stylized CPU core where instruction blocks (small labeled cubes) flow from memory into a central execution engine made of rotating disks and sliding bars, with colored paths for fetch, decode, execute, and write-back, and throughput meters showing how many instructions per second pass through."
+    },
+    {
+      "number": "18",
+      "title": "Jet Engine Compressor Stall Demonstration",
+      "description": "A jet engine cutaway where normal operation shows smooth axial airflow with blue particles, but a triggered stall event makes some compressor blades shed red turbulent particles that reverse direction, bounce around, and reduce engine thrust, while vibration amplitude is visualized as oscillating engine housing.",
+      "seed": "Jet Engine Compressor Stall Demonstration: A jet engine cutaway where normal operation shows smooth axial airflow with blue particles, but a triggered stall event makes some compressor blades shed red turbulent particles that reverse direction, bounce around, and reduce engine thrust, while vibration amplitude is visualized as oscillating engine housing."
+    },
+    {
+      "number": "19",
+      "title": "Solar Thermal Stirling Engine",
+      "description": "A Stirling engine with a hot end facing a bright sun disk and a cold end in shadow, where colored gas particles cycle between hot (red, expanded) and cold (blue, contracted) zones, moving a displacer and power piston that drive a rotating flywheel, with temperature gradients shown by color fades.",
+      "seed": "Solar Thermal Stirling Engine: A Stirling engine with a hot end facing a bright sun disk and a cold end in shadow, where colored gas particles cycle between hot (red, expanded) and cold (blue, contracted) zones, moving a displacer and power piston that drive a rotating flywheel, with temperature gradients shown by color fades."
+    },
+    {
+      "number": "20",
+      "title": "Metaphorical Creativity Engine",
+      "description": "A whimsical “idea engine” where gray thought spheres enter one side of a transparent machine, pass through spinning wheels, branching pipes, and mixing chambers, and emerge as brightly colored idea orbs, with intensity of engine glow reflecting throughput and trails indicating each idea’s transformation path.",
+      "seed": "Metaphorical Creativity Engine: A whimsical “idea engine” where gray thought spheres enter one side of a transparent machine, pass through spinning wheels, branching pipes, and mixing chambers, and emerge as brightly colored idea orbs, with intensity of engine glow reflecting throughput and trails indicating each idea’s transformation path."
+    },
+    {
+      "number": "21",
+      "title": "Ramjet vs Scramjet Comparative Engine Tunnel",
+      "description": "Two parallel cutaway engines sit in a long airflow tunnel where high-speed air particles stream in; one slows and compresses air for a ramjet, the other keeps air supersonic for a scramjet, with combustion zones glowing and Mach number indicated by particle color along each path.",
+      "seed": "Ramjet vs Scramjet Comparative Engine Tunnel: Two parallel cutaway engines sit in a long airflow tunnel where high-speed air particles stream in; one slows and compresses air for a ramjet, the other keeps air supersonic for a scramjet, with combustion zones glowing and Mach number indicated by particle color along each path."
+    },
+    {
+      "number": "22",
+      "title": "Mechanical Clock as Time Engine",
+      "description": "A transparent clock casing filled with gears, escapement, and a swinging pendulum driving the hands on a dial, where energy from a wound spring is gradually transferred through the gear train, each gear’s motion labeled, and faint trails show the pendulum’s arc and second hand ticks.",
+      "seed": "Mechanical Clock as Time Engine: A transparent clock casing filled with gears, escapement, and a swinging pendulum driving the hands on a dial, where energy from a wound spring is gradually transferred through the gear train, each gear’s motion labeled, and faint trails show the pendulum’s arc and second hand ticks."
+    },
+    {
+      "number": "23",
+      "title": "Ocean Wave Energy Engine",
+      "description": "Floating buoys on a gently animated water surface move up and down with waves, driving vertical pistons beneath the surface that power a central generator engine on a platform, with energy transfer shown as glowing cables, and buoy motion trails indicating wave patterns.",
+      "seed": "Ocean Wave Energy Engine: Floating buoys on a gently animated water surface move up and down with waves, driving vertical pistons beneath the surface that power a central generator engine on a platform, with energy transfer shown as glowing cables, and buoy motion trails indicating wave patterns."
+    },
+    {
+      "number": "24",
+      "title": "Chemical Engine: Internal Combustion at Molecular Scale",
+      "description": "A zoomed-in combustion chamber where fuel molecules and oxygen molecules collide, split, and recombine into CO₂ and H₂O, releasing energy visualized as expanding shock spheres that push a larger piston object, tying microscopic reactions to macroscopic engine motion.",
+      "seed": "Chemical Engine: Internal Combustion at Molecular Scale: A zoomed-in combustion chamber where fuel molecules and oxygen molecules collide, split, and recombine into CO₂ and H₂O, releasing energy visualized as expanding shock spheres that push a larger piston object, tying microscopic reactions to macroscopic engine motion."
+    },
+    {
+      "number": "25",
+      "title": "Robotic Arm Driven by Linear Actuator Engines",
+      "description": "A multi-joint robotic arm mounted on a base, with each joint powered by linear actuators or small rotary “joint engines” that extend, retract, and rotate, allowing the arm to pick up, move, and release colored boxes, with joint angles, actuator forces, and motion paths labeled and trailed.",
+      "seed": "Robotic Arm Driven by Linear Actuator Engines: A multi-joint robotic arm mounted on a base, with each joint powered by linear actuators or small rotary “joint engines” that extend, retract, and rotate, allowing the arm to pick up, move, and release colored boxes, with joint angles, actuator forces, and motion paths labeled and trailed."
+    }
+  ],
+  "raw_output": "Here are strong **Engines simulation inputs** you can plug into your prompt:\n\n1. **Four-Cylinder Piston Engine Cross-Section**\n   A transparent engine block holds four color-coded pistons that slide up and down in cylinders, with a rotating crankshaft, connecting rods, intake and exhaust valves that open and close, fuel-air particles that enter and combust as glowing bursts, and labeled gauges showing RPM and pressure.\n\n2. **Jet Turbofan Engine Airflow**\n   A cutaway turbofan engine with spinning front fan blades, compressor and turbine stages, where air particles (tiny colored spheres) flow through, accelerate, compress, heat up (color-shifting from blue to red), and exhaust as a high-speed jet plume, with trails showing airflow paths and labels for each section.\n\n3. **Rocket Engine Test Stand**\n   A vertically mounted rocket engine attached to a fixed test stand, with fuel and oxidizer lines feeding into a combustion chamber that ignites into a bright exhaust plume of particles, while a thrust meter bar rises and falls, the nozzle glows red with heat, and translucent shock diamonds pulse in the exhaust.\n\n4. **Steam Engine With Flywheel**\n   A classic steam engine where steam (white particle clouds) enters a cylinder, pushes a piston connected to a large rotating flywheel, with a sliding valve mechanism that alternates steam flow, a pressure gauge needle that swings, and motion trails on the flywheel’s rim to show rotational speed.\n\n5. **Electric Motor and Generator Pair**\n   Two coupled devices show motor and generator behavior: a rotor inside a transparent stator with visible magnetic field lines (colored loops), where turning a crank on one side spins both rotors, lights up attached bulbs, and color-intensity of the field and current-carrying wires changes with speed.\n\n6. **Gear Train Engine Room**\n   A compact “engine room” full of interlocking gears of different sizes and colors that rotate, with a main input gear driven by a motor, some gears sliding along shafts to engage/disengage, torque arrows changing length to show load, and a transparent floor so you can see the shafts and bearings.\n\n7. **Hybrid Car Powertrain Cutaway**\n   A car chassis with a visible gasoline engine, electric motor, battery pack, and wheels, where the user can toggle modes to see colored energy flows (arrows) transferring between engine, motor, battery, and wheels, with rotational speeds, labels, and a transparent body for interior visibility.\n\n8. **Ion Engine in Deep Space**\n   A small spacecraft with a glowing blue ion thruster at the rear, slowly ejecting streams of faintly glowing ion particles that leave long trails, while the craft gently accelerates forward through a starfield, its trajectory curving slightly when the engine gimbals to different angles.\n\n9. **Micro Engine of a Cell: ATP Synthase**\n   A magnified cell membrane patch with rotating ATP synthase “motors”: proton particles cross the membrane and cause the cylindrical rotor to spin, with each rotation triggering the attachment of phosphate particles to ADP spheres to form ATP spheres, all color-coded and labeled.\n\n10. **Data Processing “Engine Room”**\n    A metaphorical data engine where blocks of data cubes enter a transparent processing chamber, are split, merged, recolored, and routed along conveyor belts and rotating “logic gears,” with glowing lines representing data flow intensity, and meters showing throughput and error rate.\n\n11. **Wind Turbine Farm Driving a Central Engine**\n    Several tall wind turbines on a grassy plane spin at different speeds as wind particles flow past, each sending power along glowing cables to a central generator engine that rotates faster as more turbines spin, with a translucent dome showing total power via color intensity.\n\n12. **Piston Engine With Variable Compression**\n    A single-cylinder engine with an adjustable cylinder head that slides up and down to change compression ratio, where the user can move the head and watch the piston motion, combustion flame size, and a live compression gauge and temperature color map inside the chamber.\n\n13. **Warp Drive “Spacetime Engine”**\n    A spaceship in the center of a semi-transparent grid of spacetime cells, with a central warp engine that pulses and warps the grid: regions in front compress (cells shrink, turn blue) while regions behind expand (cells stretch, turn red), and the ship appears to glide without traditional thrust.\n\n14. **Turboprop Engine With Propeller Vortices**\n    A turboprop engine with a large propeller that spins and generates semi-transparent swirling vortices off each blade tip, with airflow particles curving around the blades, the engine core spinning internally, and labels for intake, compressor, combustion, turbine, and exhaust.\n\n15. **Hydraulic Engine and Actuator System**\n    A hydraulic power unit with a motor-driven pump creating pressure in transparent fluid lines, sending colored fluid to extend and retract pistons on multiple cylinders that lift and lower attached platforms, with pressure gauges, flow direction arrows, and slight hose expansion under high pressure.\n\n16. **Steam Locomotive Drive Engine**\n    A side view of a steam locomotive’s driving wheels and pistons, where steam clouds enter and exhaust from the cylinder, the piston rods push the main wheels, and side rods move in a complex rotating pattern, with sparks and smoke particles from the chimney and labels on each mechanical linkage.\n\n17. **CPU “Instruction Engine” Visualization**\n    A stylized CPU core where instruction blocks (small labeled cubes) flow from memory into a central execution engine made of rotating disks and sliding bars, with colored paths for fetch, decode, execute, and write-back, and throughput meters showing how many instructions per second pass through.\n\n18. **Jet Engine Compressor Stall Demonstration**\n    A jet engine cutaway where normal operation shows smooth axial airflow with blue particles, but a triggered stall event makes some compressor blades shed red turbulent particles that reverse direction, bounce around, and reduce engine thrust, while vibration amplitude is visualized as oscillating engine housing.\n\n19. **Solar Thermal Stirling Engine**\n    A Stirling engine with a hot end facing a bright sun disk and a cold end in shadow, where colored gas particles cycle between hot (red, expanded) and cold (blue, contracted) zones, moving a displacer and power piston that drive a rotating flywheel, with temperature gradients shown by color fades.\n\n20. **Metaphorical Creativity Engine**\n    A whimsical “idea engine” where gray thought spheres enter one side of a transparent machine, pass through spinning wheels, branching pipes, and mixing chambers, and emerge as brightly colored idea orbs, with intensity of engine glow reflecting throughput and trails indicating each idea’s transformation path.\n\n21. **Ramjet vs Scramjet Comparative Engine Tunnel**\n    Two parallel cutaway engines sit in a long airflow tunnel where high-speed air particles stream in; one slows and compresses air for a ramjet, the other keeps air supersonic for a scramjet, with combustion zones glowing and Mach number indicated by particle color along each path.\n\n22. **Mechanical Clock as Time Engine**\n    A transparent clock casing filled with gears, escapement, and a swinging pendulum driving the hands on a dial, where energy from a wound spring is gradually transferred through the gear train, each gear’s motion labeled, and faint trails show the pendulum’s arc and second hand ticks.\n\n23. **Ocean Wave Energy Engine**\n    Floating buoys on a gently animated water surface move up and down with waves, driving vertical pistons beneath the surface that power a central generator engine on a platform, with energy transfer shown as glowing cables, and buoy motion trails indicating wave patterns.\n\n24. **Chemical Engine: Internal Combustion at Molecular Scale**\n    A zoomed-in combustion chamber where fuel molecules and oxygen molecules collide, split, and recombine into CO₂ and H₂O, releasing energy visualized as expanding shock spheres that push a larger piston object, tying microscopic reactions to macroscopic engine motion.\n\n25. **Robotic Arm Driven by Linear Actuator Engines**\n    A multi-joint robotic arm mounted on a base, with each joint powered by linear actuators or small rotary “joint engines” that extend, retract, and rotate, allowing the arm to pick up, move, and release colored boxes, with joint angles, actuator forces, and motion paths labeled and trailed."
+}

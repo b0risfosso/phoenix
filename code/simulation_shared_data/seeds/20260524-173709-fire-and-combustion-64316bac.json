@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Fire and combustion",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:37:09",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Campfire Combustion with Rising Sparks",
+      "description": "A stack of wooden logs arranged in a cone slowly blackens and shrinks as orange-red particle flames flicker between them, emitting glowing spark particles that rise, fade, and leave short trails while a transparent heat “halo” shimmers above the fire.",
+      "seed": "Campfire Combustion with Rising Sparks: A stack of wooden logs arranged in a cone slowly blackens and shrinks as orange-red particle flames flicker between them, emitting glowing spark particles that rise, fade, and leave short trails while a transparent heat “halo” shimmers above the fire."
+    },
+    {
+      "number": "2",
+      "title": "Candle Flame and Melting Wax",
+      "description": "A candle with a solid colored wax cylinder and a thin wick shows a small teardrop flame that flickers and changes color from blue at the base to yellow at the tip, while molten wax slowly pools, drips down the sides, and hardens as a semi-transparent coating.",
+      "seed": "Candle Flame and Melting Wax: A candle with a solid colored wax cylinder and a thin wick shows a small teardrop flame that flickers and changes color from blue at the base to yellow at the tip, while molten wax slowly pools, drips down the sides, and hardens as a semi-transparent coating."
+    },
+    {
+      "number": "3",
+      "title": "Bunsen Burner Flame Color with Different Gases",
+      "description": "A vertical burner tube on a lab bench emits flames whose color and height change as labeled gas spheres (methane, propane, hydrogen) attach to the base, while sliders or rotating knobs adjust air intake and produce blue, yellow, or nearly invisible flames.",
+      "seed": "Bunsen Burner Flame Color with Different Gases: A vertical burner tube on a lab bench emits flames whose color and height change as labeled gas spheres (methane, propane, hydrogen) attach to the base, while sliders or rotating knobs adjust air intake and produce blue, yellow, or nearly invisible flames."
+    },
+    {
+      "number": "4",
+      "title": "Forest Fire Spreading Across a Hillside",
+      "description": "A light-green, gently sloped terrain with hundreds of small cone “trees” shows a fire front that ignites nearby trees, causing them to glow, produce smoke particles, and collapse into blackened stumps, with wind arrows controlling the direction and speed of spread.",
+      "seed": "Forest Fire Spreading Across a Hillside: A light-green, gently sloped terrain with hundreds of small cone “trees” shows a fire front that ignites nearby trees, causing them to glow, produce smoke particles, and collapse into blackened stumps, with wind arrows controlling the direction and speed of spread."
+    },
+    {
+      "number": "5",
+      "title": "Rocket Engine Combustion Chamber Cross-Section",
+      "description": "A cutaway view of a rocket engine shows fuel and oxidizer particles injected from opposite sides into a combustion chamber, where they mix, ignite into a bright, pulsating flame, and exhaust as a high-speed jet with particle trails and a thrust meter.",
+      "seed": "Rocket Engine Combustion Chamber Cross-Section: A cutaway view of a rocket engine shows fuel and oxidizer particles injected from opposite sides into a combustion chamber, where they mix, ignite into a bright, pulsating flame, and exhaust as a high-speed jet with particle trails and a thrust meter."
+    },
+    {
+      "number": "6",
+      "title": "Internal Combustion Engine Cylinder Animation",
+      "description": "A transparent engine cylinder with a moving piston and crankshaft shows colored gas particles entering, compressing, igniting as a bright expanding flame front, and exhausting, with labels for intake, compression, power, and exhaust strokes and a rotating flywheel.",
+      "seed": "Internal Combustion Engine Cylinder Animation: A transparent engine cylinder with a moving piston and crankshaft shows colored gas particles entering, compressing, igniting as a bright expanding flame front, and exhausting, with labels for intake, compression, power, and exhaust strokes and a rotating flywheel."
+    },
+    {
+      "number": "7",
+      "title": "Matches in a Box: Ignition and Chain Reaction",
+      "description": "A half-open matchbox with many small cylindrical matchsticks lays on a table; igniting one match creates a growing flame that can tilt, fall, and ignite neighboring matches, each leaving a blackened, shortened stick and a smoke trail as the fire propagates.",
+      "seed": "Matches in a Box: Ignition and Chain Reaction: A half-open matchbox with many small cylindrical matchsticks lays on a table; igniting one match creates a growing flame that can tilt, fall, and ignite neighboring matches, each leaving a blackened, shortened stick and a smoke trail as the fire propagates."
+    },
+    {
+      "number": "8",
+      "title": "Microscopic View of Burning Fuel Droplets",
+      "description": "Several suspended transparent fuel spheres in a light environment burn in air, forming shrinking droplets with bright surface flames and thin blue halos, while tiny oxidizer particles collide, stick, react, and leave behind expanding spherical shells of hot gas.",
+      "seed": "Microscopic View of Burning Fuel Droplets: Several suspended transparent fuel spheres in a light environment burn in air, forming shrinking droplets with bright surface flames and thin blue halos, while tiny oxidizer particles collide, stick, react, and leave behind expanding spherical shells of hot gas."
+    },
+    {
+      "number": "9",
+      "title": "Fireworks Shell Burst and Combustion Trails",
+      "description": "Spherical fireworks shells rise from a launch tube with glowing trails, then explode at the top into hundreds of colored spark particles that radiate outward, burn briefly with changing colors and lengths of trails, and fade while smoke clouds expand and drift.",
+      "seed": "Fireworks Shell Burst and Combustion Trails: Spherical fireworks shells rise from a launch tube with glowing trails, then explode at the top into hundreds of colored spark particles that radiate outward, burn briefly with changing colors and lengths of trails, and fade while smoke clouds expand and drift."
+    },
+    {
+      "number": "10",
+      "title": "Charcoal Grill with Glowing Coals and Rising Heat",
+      "description": "A shallow grill holds irregular charcoal briquettes that gradually transition from dark gray to glowing red-orange cores, emitting faint flickering flames and translucent heat waves upward, while a metal grate above can hold food cubes that blacken and drip.",
+      "seed": "Charcoal Grill with Glowing Coals and Rising Heat: A shallow grill holds irregular charcoal briquettes that gradually transition from dark gray to glowing red-orange cores, emitting faint flickering flames and translucent heat waves upward, while a metal grate above can hold food cubes that blacken and drip."
+    },
+    {
+      "number": "11",
+      "title": "Chemical Flame Test: Metal Ions in a Burner",
+      "description": "A series of small labeled rods dipped into a central burner flame cause the flame to temporarily change color (green, purple, orange, red) and intensity around the rod, with a color legend and a bar graph showing relative emission intensity over time.",
+      "seed": "Chemical Flame Test: Metal Ions in a Burner: A series of small labeled rods dipped into a central burner flame cause the flame to temporarily change color (green, purple, orange, red) and intensity around the rod, with a color legend and a bar graph showing relative emission intensity over time."
+    },
+    {
+      "number": "12",
+      "title": "Controlled Lab Explosion in a Closed Chamber",
+      "description": "A transparent spherical chamber with pressure and temperature gauges contains a fuel-oxidizer mix; when ignited at a point, a bright expanding combustion front propagates outward, compressing the shell slightly, then sending shockwave ripples through labeled air particles.",
+      "seed": "Controlled Lab Explosion in a Closed Chamber: A transparent spherical chamber with pressure and temperature gauges contains a fuel-oxidizer mix; when ignited at a point, a bright expanding combustion front propagates outward, compressing the shell slightly, then sending shockwave ripples through labeled air particles."
+    },
+    {
+      "number": "13",
+      "title": "Wildfire Versus Firebreaks on a Landscape Grid",
+      "description": "A patchwork terrain of grass, trees, and bare soil cells shows fire spreading cell-to-cell, stopping or slowing at wide bare soil/firebreak strips, with color-coding for unburned, burning, burned, and resistant patches and an adjustable wind vector arrow.",
+      "seed": "Wildfire Versus Firebreaks on a Landscape Grid: A patchwork terrain of grass, trees, and bare soil cells shows fire spreading cell-to-cell, stopping or slowing at wide bare soil/firebreak strips, with color-coding for unburned, burning, burned, and resistant patches and an adjustable wind vector arrow."
+    },
+    {
+      "number": "14",
+      "title": "Flame Propagation Along a Gas Pipe with Leaks",
+      "description": "A long horizontal gas pipe with multiple leak points emits faint particle streams; once one leak is ignited, a flame front travels along the external gas clouds, wrapping around the pipe, occasionally flashing back to ignite new leaks and leaving scorched marks.",
+      "seed": "Flame Propagation Along a Gas Pipe with Leaks: A long horizontal gas pipe with multiple leak points emits faint particle streams; once one leak is ignited, a flame front travels along the external gas clouds, wrapping around the pipe, occasionally flashing back to ignite new leaks and leaving scorched marks."
+    },
+    {
+      "number": "15",
+      "title": "Smoldering Combustion in a Pile of Sawdust",
+      "description": "A mound of granular sawdust particles smolders from an ignition point inside, with an internal glowing red region slowly migrating, releasing small smoke plumes through the surface, and leaving a darkened, charred trail that expands without visible open flames.",
+      "seed": "Smoldering Combustion in a Pile of Sawdust: A mound of granular sawdust particles smolders from an ignition point inside, with an internal glowing red region slowly migrating, releasing small smoke plumes through the surface, and leaving a darkened, charred trail that expands without visible open flames."
+    },
+    {
+      "number": "16",
+      "title": "Metaphorical “Combustion” of Ideas in a Meeting Room",
+      "description": "Spheres representing people sit around a table; when an “idea spark” particle is emitted from one person, it can float to others, attach, and ignite a glowing aura that spreads through connecting lines, with color changes showing intensity of group “burn” and fade-out.",
+      "seed": "Metaphorical “Combustion” of Ideas in a Meeting Room: Spheres representing people sit around a table; when an “idea spark” particle is emitted from one person, it can float to others, attach, and ignite a glowing aura that spreads through connecting lines, with color changes showing intensity of group “burn” and fade-out."
+    },
+    {
+      "number": "17",
+      "title": "Combustion of a Falling Meteor in the Atmosphere",
+      "description": "A rocky meteor sphere enters from above and travels through layered, color-coded atmosphere bands, generating an increasingly bright, ablating fireball with a glowing trail of particles that peel off, slow down, and fade before the meteor fragments or burns up.",
+      "seed": "Combustion of a Falling Meteor in the Atmosphere: A rocky meteor sphere enters from above and travels through layered, color-coded atmosphere bands, generating an increasingly bright, ablating fireball with a glowing trail of particles that peel off, slow down, and fade before the meteor fragments or burns up."
+    },
+    {
+      "number": "18",
+      "title": "Combustion Front in a Solid Fuel Rocket Grain",
+      "description": "A cylindrical solid rocket grain is shown in cross-section, with ignition at the central core; a bright combustion front moves outward along the internal surfaces, generating high-speed exhaust flow, while the grain geometry slowly erodes and is visualized by shrinking solids.",
+      "seed": "Combustion Front in a Solid Fuel Rocket Grain: A cylindrical solid rocket grain is shown in cross-section, with ignition at the central core; a bright combustion front moves outward along the internal surfaces, generating high-speed exhaust flow, while the grain geometry slowly erodes and is visualized by shrinking solids."
+    },
+    {
+      "number": "19",
+      "title": "Backdraft in a Room with Limited Ventilation",
+      "description": "A simple room with a door and window starts smoke-filled and hot but with no visible flames; when the door opens, a rush of fresh air (arrows and particles) mixes with hot gases, then a sudden flame front ignites and rapidly expands, licking along the ceiling.",
+      "seed": "Backdraft in a Room with Limited Ventilation: A simple room with a door and window starts smoke-filled and hot but with no visible flames; when the door opens, a rush of fresh air (arrows and particles) mixes with hot gases, then a sudden flame front ignites and rapidly expands, licking along the ceiling."
+    },
+    {
+      "number": "20",
+      "title": "Fire Tornado Above a Circular Flame Source",
+      "description": "A circular burner on the ground produces a vertical flame column; as transparent walls or rotating air-flow arrows spin around it, the flame stretches upward into a swirling fire vortex, with particles tracing the spiral airflow and the core glowing brighter.",
+      "seed": "Fire Tornado Above a Circular Flame Source: A circular burner on the ground produces a vertical flame column; as transparent walls or rotating air-flow arrows spin around it, the flame stretches upward into a swirling fire vortex, with particles tracing the spiral airflow and the core glowing brighter."
+    },
+    {
+      "number": "21",
+      "title": "Combustion Wave in a Powder Line",
+      "description": "A long winding trail of small powder grains laid on a flat surface ignites at one end and sends a glowing combustion wave along the path, leaving a blackened residue, occasional branching sparks, and a visible speed difference where the trail thickens or thins.",
+      "seed": "Combustion Wave in a Powder Line: A long winding trail of small powder grains laid on a flat surface ignites at one end and sends a glowing combustion wave along the path, leaving a blackened residue, occasional branching sparks, and a visible speed difference where the trail thickens or thins."
+    },
+    {
+      "number": "22",
+      "title": "Boiler Furnace with Burning Coal Bed",
+      "description": "Inside a large rectangular boiler chamber, a moving bed of coal chunks glows and partially combusts while air jets from below increase flame size; heat transfers to overhead pipes that gradually change color to indicate rising temperature, with exhaust gas flowing out a stack.",
+      "seed": "Boiler Furnace with Burning Coal Bed: Inside a large rectangular boiler chamber, a moving bed of coal chunks glows and partially combusts while air jets from below increase flame size; heat transfers to overhead pipes that gradually change color to indicate rising temperature, with exhaust gas flowing out a stack."
+    },
+    {
+      "number": "23",
+      "title": "Gasoline Vapor Ignition in a Garage",
+      "description": "A shallow tray of liquid fuel slowly evaporates into a semi-transparent vapor cloud near the floor; when a small spark occurs, a combustion front ignites the vapor volume, rapidly expanding as a bright flash with a pressure pulse and then dissipating into faint haze.",
+      "seed": "Gasoline Vapor Ignition in a Garage: A shallow tray of liquid fuel slowly evaporates into a semi-transparent vapor cloud near the floor; when a small spark occurs, a combustion front ignites the vapor volume, rapidly expanding as a bright flash with a pressure pulse and then dissipating into faint haze."
+    },
+    {
+      "number": "24",
+      "title": "Combustion in a Diesel Engine Spray Pattern",
+      "description": "A transparent cylinder shows a fine mist of fuel droplets injected into hot compressed air, with individual droplets igniting after a delay, creating small expanding flame spheres that merge into a continuous burning region, driving the piston downward.",
+      "seed": "Combustion in a Diesel Engine Spray Pattern: A transparent cylinder shows a fine mist of fuel droplets injected into hot compressed air, with individual droplets igniting after a delay, creating small expanding flame spheres that merge into a continuous burning region, driving the piston downward."
+    },
+    {
+      "number": "25",
+      "title": "Symbolic “Burning Fuse” of a Countdown Timer",
+      "description": "A long, curved fuse rope stretches from a large labeled countdown sphere; the burning tip moves along the fuse, emitting sparks and shortening the rope, while the countdown number above the sphere decreases, and at zero a brief expanding flash sphere appears then fades.",
+      "seed": "Symbolic “Burning Fuse” of a Countdown Timer: A long, curved fuse rope stretches from a large labeled countdown sphere; the burning tip moves along the fuse, emitting sparks and shortening the rope, while the countdown number above the sphere decreases, and at zero a brief expanding flash sphere appears then fades."
+    }
+  ],
+  "raw_output": "Here are strong **Fire and combustion simulation inputs** you can plug into your prompt:\n\n1. **Campfire Combustion with Rising Sparks**\n   A stack of wooden logs arranged in a cone slowly blackens and shrinks as orange-red particle flames flicker between them, emitting glowing spark particles that rise, fade, and leave short trails while a transparent heat “halo” shimmers above the fire.\n\n2. **Candle Flame and Melting Wax**\n   A candle with a solid colored wax cylinder and a thin wick shows a small teardrop flame that flickers and changes color from blue at the base to yellow at the tip, while molten wax slowly pools, drips down the sides, and hardens as a semi-transparent coating.\n\n3. **Bunsen Burner Flame Color with Different Gases**\n   A vertical burner tube on a lab bench emits flames whose color and height change as labeled gas spheres (methane, propane, hydrogen) attach to the base, while sliders or rotating knobs adjust air intake and produce blue, yellow, or nearly invisible flames.\n\n4. **Forest Fire Spreading Across a Hillside**\n   A light-green, gently sloped terrain with hundreds of small cone “trees” shows a fire front that ignites nearby trees, causing them to glow, produce smoke particles, and collapse into blackened stumps, with wind arrows controlling the direction and speed of spread.\n\n5. **Rocket Engine Combustion Chamber Cross-Section**\n   A cutaway view of a rocket engine shows fuel and oxidizer particles injected from opposite sides into a combustion chamber, where they mix, ignite into a bright, pulsating flame, and exhaust as a high-speed jet with particle trails and a thrust meter.\n\n6. **Internal Combustion Engine Cylinder Animation**\n   A transparent engine cylinder with a moving piston and crankshaft shows colored gas particles entering, compressing, igniting as a bright expanding flame front, and exhausting, with labels for intake, compression, power, and exhaust strokes and a rotating flywheel.\n\n7. **Matches in a Box: Ignition and Chain Reaction**\n   A half-open matchbox with many small cylindrical matchsticks lays on a table; igniting one match creates a growing flame that can tilt, fall, and ignite neighboring matches, each leaving a blackened, shortened stick and a smoke trail as the fire propagates.\n\n8. **Microscopic View of Burning Fuel Droplets**\n   Several suspended transparent fuel spheres in a light environment burn in air, forming shrinking droplets with bright surface flames and thin blue halos, while tiny oxidizer particles collide, stick, react, and leave behind expanding spherical shells of hot gas.\n\n9. **Fireworks Shell Burst and Combustion Trails**\n   Spherical fireworks shells rise from a launch tube with glowing trails, then explode at the top into hundreds of colored spark particles that radiate outward, burn briefly with changing colors and lengths of trails, and fade while smoke clouds expand and drift.\n\n10. **Charcoal Grill with Glowing Coals and Rising Heat**\n    A shallow grill holds irregular charcoal briquettes that gradually transition from dark gray to glowing red-orange cores, emitting faint flickering flames and translucent heat waves upward, while a metal grate above can hold food cubes that blacken and drip.\n\n11. **Chemical Flame Test: Metal Ions in a Burner**\n    A series of small labeled rods dipped into a central burner flame cause the flame to temporarily change color (green, purple, orange, red) and intensity around the rod, with a color legend and a bar graph showing relative emission intensity over time.\n\n12. **Controlled Lab Explosion in a Closed Chamber**\n    A transparent spherical chamber with pressure and temperature gauges contains a fuel-oxidizer mix; when ignited at a point, a bright expanding combustion front propagates outward, compressing the shell slightly, then sending shockwave ripples through labeled air particles.\n\n13. **Wildfire Versus Firebreaks on a Landscape Grid**\n    A patchwork terrain of grass, trees, and bare soil cells shows fire spreading cell-to-cell, stopping or slowing at wide bare soil/firebreak strips, with color-coding for unburned, burning, burned, and resistant patches and an adjustable wind vector arrow.\n\n14. **Flame Propagation Along a Gas Pipe with Leaks**\n    A long horizontal gas pipe with multiple leak points emits faint particle streams; once one leak is ignited, a flame front travels along the external gas clouds, wrapping around the pipe, occasionally flashing back to ignite new leaks and leaving scorched marks.\n\n15. **Smoldering Combustion in a Pile of Sawdust**\n    A mound of granular sawdust particles smolders from an ignition point inside, with an internal glowing red region slowly migrating, releasing small smoke plumes through the surface, and leaving a darkened, charred trail that expands without visible open flames.\n\n16. **Metaphorical “Combustion” of Ideas in a Meeting Room**\n    Spheres representing people sit around a table; when an “idea spark” particle is emitted from one person, it can float to others, attach, and ignite a glowing aura that spreads through connecting lines, with color changes showing intensity of group “burn” and fade-out.\n\n17. **Combustion of a Falling Meteor in the Atmosphere**\n    A rocky meteor sphere enters from above and travels through layered, color-coded atmosphere bands, generating an increasingly bright, ablating fireball with a glowing trail of particles that peel off, slow down, and fade before the meteor fragments or burns up.\n\n18. **Combustion Front in a Solid Fuel Rocket Grain**\n    A cylindrical solid rocket grain is shown in cross-section, with ignition at the central core; a bright combustion front moves outward along the internal surfaces, generating high-speed exhaust flow, while the grain geometry slowly erodes and is visualized by shrinking solids.\n\n19. **Backdraft in a Room with Limited Ventilation**\n    A simple room with a door and window starts smoke-filled and hot but with no visible flames; when the door opens, a rush of fresh air (arrows and particles) mixes with hot gases, then a sudden flame front ignites and rapidly expands, licking along the ceiling.\n\n20. **Fire Tornado Above a Circular Flame Source**\n    A circular burner on the ground produces a vertical flame column; as transparent walls or rotating air-flow arrows spin around it, the flame stretches upward into a swirling fire vortex, with particles tracing the spiral airflow and the core glowing brighter.\n\n21. **Combustion Wave in a Powder Line**\n    A long winding trail of small powder grains laid on a flat surface ignites at one end and sends a glowing combustion wave along the path, leaving a blackened residue, occasional branching sparks, and a visible speed difference where the trail thickens or thins.\n\n22. **Boiler Furnace with Burning Coal Bed**\n    Inside a large rectangular boiler chamber, a moving bed of coal chunks glows and partially combusts while air jets from below increase flame size; heat transfers to overhead pipes that gradually change color to indicate rising temperature, with exhaust gas flowing out a stack.\n\n23. **Gasoline Vapor Ignition in a Garage**\n    A shallow tray of liquid fuel slowly evaporates into a semi-transparent vapor cloud near the floor; when a small spark occurs, a combustion front ignites the vapor volume, rapidly expanding as a bright flash with a pressure pulse and then dissipating into faint haze.\n\n24. **Combustion in a Diesel Engine Spray Pattern**\n    A transparent cylinder shows a fine mist of fuel droplets injected into hot compressed air, with individual droplets igniting after a delay, creating small expanding flame spheres that merge into a continuous burning region, driving the piston downward.\n\n25. **Symbolic “Burning Fuse” of a Countdown Timer**\n    A long, curved fuse rope stretches from a large labeled countdown sphere; the burning tip moves along the fuse, emitting sparks and shortening the rope, while the countdown number above the sphere decreases, and at zero a brief expanding flash sphere appears then fades."
+}

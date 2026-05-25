@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Diffusion",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:42:25",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Colored Gas Diffusion in a Transparent Box",
+      "description": "A clear rectangular box filled with slow-moving white particles has a dense colored cloud of particles released at one corner that gradually spread, collide, and mix while a side panel shows a bar graph of concentration over time.",
+      "seed": "Colored Gas Diffusion in a Transparent Box: A clear rectangular box filled with slow-moving white particles has a dense colored cloud of particles released at one corner that gradually spread, collide, and mix while a side panel shows a bar graph of concentration over time."
+    },
+    {
+      "number": "2",
+      "title": "Heat Diffusion on a Metal Plate",
+      "description": "A flat, light-grey square plate with a glowing red hot spot in the center gradually diffuses heat outward, visualized by color gradients and tiny arrows that pulse and shrink as temperature differences even out.",
+      "seed": "Heat Diffusion on a Metal Plate: A flat, light-grey square plate with a glowing red hot spot in the center gradually diffuses heat outward, visualized by color gradients and tiny arrows that pulse and shrink as temperature differences even out."
+    },
+    {
+      "number": "3",
+      "title": "Ink Droplet Diffusing in Water",
+      "description": "A transparent cylindrical tank of pale-blue water receives a small dark-blue ink sphere that dissolves into many tiny particles that drift, swirl, and spread while leaving fading trails that show mixing paths.",
+      "seed": "Ink Droplet Diffusing in Water: A transparent cylindrical tank of pale-blue water receives a small dark-blue ink sphere that dissolves into many tiny particles that drift, swirl, and spread while leaving fading trails that show mixing paths."
+    },
+    {
+      "number": "4",
+      "title": "Perfume Molecules Diffusing in a Room",
+      "description": "A light-colored 3D room with furniture blocks shows hundreds of semi-transparent perfume particles released from a small sprayer, bouncing off walls and obstacles as their color slowly fades with distance from the source.",
+      "seed": "Perfume Molecules Diffusing in a Room: A light-colored 3D room with furniture blocks shows hundreds of semi-transparent perfume particles released from a small sprayer, bouncing off walls and obstacles as their color slowly fades with distance from the source."
+    },
+    {
+      "number": "5",
+      "title": "Nutrient Diffusion into a Spherical Cell",
+      "description": "A large semi-transparent sphere (cell) in the center of the scene is surrounded by smaller nutrient particles that randomly move, attach briefly to the cell membrane, and occasionally pass through to diffuse inward with a changing color gradient.",
+      "seed": "Nutrient Diffusion into a Spherical Cell: A large semi-transparent sphere (cell) in the center of the scene is surrounded by smaller nutrient particles that randomly move, attach briefly to the cell membrane, and occasionally pass through to diffuse inward with a changing color gradient."
+    },
+    {
+      "number": "6",
+      "title": "Diffusion Through a Semi-Permeable Membrane",
+      "description": "Two side-by-side transparent boxes separated by a thin membrane panel begin with dense red particles on one side and sparse blue particles on the other, with particles randomly crossing only specific pores and concentration meters updating above each side.",
+      "seed": "Diffusion Through a Semi-Permeable Membrane: Two side-by-side transparent boxes separated by a thin membrane panel begin with dense red particles on one side and sparse blue particles on the other, with particles randomly crossing only specific pores and concentration meters updating above each side."
+    },
+    {
+      "number": "7",
+      "title": "Heat Diffusion in a 3D Solid Cube",
+      "description": "A solid, slightly transparent cube has one corner suddenly heated to bright orange, and a 3D grid inside shows small cubes changing color over time as heat diffuses through the solid, with a slider to restart or speed up the process.",
+      "seed": "Heat Diffusion in a 3D Solid Cube: A solid, slightly transparent cube has one corner suddenly heated to bright orange, and a 3D grid inside shows small cubes changing color over time as heat diffuses through the solid, with a slider to restart or speed up the process."
+    },
+    {
+      "number": "8",
+      "title": "Diffusion-Limited Aggregation Crystal Growth",
+      "description": "Free-floating particles start from the edges of a light background box and randomly walk until they touch a central seed cluster, where they stick and gradually form branching, tree-like crystal structures that glow faintly at the tips.",
+      "seed": "Diffusion-Limited Aggregation Crystal Growth: Free-floating particles start from the edges of a light background box and randomly walk until they touch a central seed cluster, where they stick and gradually form branching, tree-like crystal structures that glow faintly at the tips."
+    },
+    {
+      "number": "9",
+      "title": "Pollutant Diffusion in a Shallow Lake",
+      "description": "A wide, shallow, semi-transparent blue rectangle (lake) has a dark pollutant patch introduced near one shore that diffuses outward and is slightly pushed by a slow current, while fish icons avoid higher-concentration regions marked by darker colors.",
+      "seed": "Pollutant Diffusion in a Shallow Lake: A wide, shallow, semi-transparent blue rectangle (lake) has a dark pollutant patch introduced near one shore that diffuses outward and is slightly pushed by a slow current, while fish icons avoid higher-concentration regions marked by darker colors."
+    },
+    {
+      "number": "10",
+      "title": "Color Diffusion in a Rotating Fluid Sphere",
+      "description": "A transparent rotating sphere partially filled with fluid starts with three distinct colored blobs (red, green, blue) that diffuse and swirl, stretching into filaments and eventually blending into a uniform tint as the sphere spins steadily.",
+      "seed": "Color Diffusion in a Rotating Fluid Sphere: A transparent rotating sphere partially filled with fluid starts with three distinct colored blobs (red, green, blue) that diffuse and swirl, stretching into filaments and eventually blending into a uniform tint as the sphere spins steadily."
+    },
+    {
+      "number": "11",
+      "title": "Gas Diffusion in a Piston Cylinder",
+      "description": "A transparent horizontal cylinder with a movable piston starts with a compressed cluster of red gas particles on one side; when the piston is released, it slides back and the particles rapidly diffuse to fill the expanded volume while a pressure gauge needle drops.",
+      "seed": "Gas Diffusion in a Piston Cylinder: A transparent horizontal cylinder with a movable piston starts with a compressed cluster of red gas particles on one side; when the piston is released, it slides back and the particles rapidly diffuse to fill the expanded volume while a pressure gauge needle drops."
+    },
+    {
+      "number": "12",
+      "title": "Diffusion Across a Network of Rooms",
+      "description": "A simple floor-plan of connected transparent rooms (boxes joined by doorways) is filled with air particles, and a colored gas is released in one room, diffusing through doors and vents as color-coded concentration labels float in each room.",
+      "seed": "Diffusion Across a Network of Rooms: A simple floor-plan of connected transparent rooms (boxes joined by doorways) is filled with air particles, and a colored gas is released in one room, diffusing through doors and vents as color-coded concentration labels float in each room."
+    },
+    {
+      "number": "13",
+      "title": "Neural Signal Diffusion in a Brain Slice",
+      "description": "A semi-transparent block representing brain tissue shows a web of faint neuron branches; when a central neuron fires, a cloud of neurotransmitter particles diffuses through the surrounding space, with intensity fading and labels showing local concentration.",
+      "seed": "Neural Signal Diffusion in a Brain Slice: A semi-transparent block representing brain tissue shows a web of faint neuron branches; when a central neuron fires, a cloud of neurotransmitter particles diffuses through the surrounding space, with intensity fading and labels showing local concentration."
+    },
+    {
+      "number": "14",
+      "title": "Diffusion of Ideas Through a Social Network",
+      "description": "Dozens of spheres (people) float in 3D space connected by thin lines; when a central node “adopts” a glowing color, that color diffuses through the network as neighboring nodes slowly transition in shade based on connection strength and distance.",
+      "seed": "Diffusion of Ideas Through a Social Network: Dozens of spheres (people) float in 3D space connected by thin lines; when a central node “adopts” a glowing color, that color diffuses through the network as neighboring nodes slowly transition in shade based on connection strength and distance."
+    },
+    {
+      "number": "15",
+      "title": "Diffusion of Dyes in a Porous Rock",
+      "description": "A cutaway block of semi-transparent rock with tiny pores is immersed in a light-blue fluid; a colored dye enters from one face and diffuses through the pores, with tiny arrows indicating flow paths and a 3D heatmap of concentration inside the rock.",
+      "seed": "Diffusion of Dyes in a Porous Rock: A cutaway block of semi-transparent rock with tiny pores is immersed in a light-blue fluid; a colored dye enters from one face and diffuses through the pores, with tiny arrows indicating flow paths and a 3D heatmap of concentration inside the rock."
+    },
+    {
+      "number": "16",
+      "title": "Binary Gas Diffusion and Mixing",
+      "description": "A box initially divided by a removable transparent wall holds red particles on one side and blue on the other; when the wall vanishes, the two gases diffuse into each other until they are thoroughly mixed, with a mixing ratio meter updating on the side.",
+      "seed": "Binary Gas Diffusion and Mixing: A box initially divided by a removable transparent wall holds red particles on one side and blue on the other; when the wall vanishes, the two gases diffuse into each other until they are thoroughly mixed, with a mixing ratio meter updating on the side."
+    },
+    {
+      "number": "17",
+      "title": "Oxygen Diffusion from Blood into Tissue",
+      "description": "A red cylindrical “capillary” tube runs through a block of light-colored tissue; bright red oxygen particles move inside the tube, diffuse through its semi-transparent wall, and spread into the tissue, gradually changing local tissue color as oxygen level rises.",
+      "seed": "Oxygen Diffusion from Blood into Tissue: A red cylindrical “capillary” tube runs through a block of light-colored tissue; bright red oxygen particles move inside the tube, diffuse through its semi-transparent wall, and spread into the tissue, gradually changing local tissue color as oxygen level rises."
+    },
+    {
+      "number": "18",
+      "title": "Diffusion of Heat in a City Block at Night",
+      "description": "A grid of extruded blocks (buildings) sits on a plane, each building with an initial temperature; a few buildings start glowing red (hot), and their heat diffuses through the ground and air to neighbors, gradually equalizing as a color scale shows surface temperatures.",
+      "seed": "Diffusion of Heat in a City Block at Night: A grid of extruded blocks (buildings) sits on a plane, each building with an initial temperature; a few buildings start glowing red (hot), and their heat diffuses through the ground and air to neighbors, gradually equalizing as a color scale shows surface temperatures."
+    },
+    {
+      "number": "19",
+      "title": "Light Diffusion Through Fog",
+      "description": "A bright point light emits rays inside a large, semi-transparent foggy cube filled with tiny pale particles; light intensity appears to diffuse, with particles closer to the source glowing brighter and distant regions gradually dimming as scattering spreads the light.",
+      "seed": "Light Diffusion Through Fog: A bright point light emits rays inside a large, semi-transparent foggy cube filled with tiny pale particles; light intensity appears to diffuse, with particles closer to the source glowing brighter and distant regions gradually dimming as scattering spreads the light."
+    },
+    {
+      "number": "20",
+      "title": "Diffusion-Driven Pattern Formation on a Sphere",
+      "description": "A smooth sphere begins with a random scattering of two chemical concentrations shown as colors; over time, colors diffuse and interact to spontaneously form stable spots and stripes, with a legend bar showing concentration levels.",
+      "seed": "Diffusion-Driven Pattern Formation on a Sphere: A smooth sphere begins with a random scattering of two chemical concentrations shown as colors; over time, colors diffuse and interact to spontaneously form stable spots and stripes, with a legend bar showing concentration levels."
+    },
+    {
+      "number": "21",
+      "title": "Diffusion of Scent Along a Forest Path",
+      "description": "A light-green terrain strip with simple tree cylinders has a campfire at one end emitting scent particles that drift and diffuse along the path, curling around obstacles and gradually fading while two labeled “noses” at different points measure concentration.",
+      "seed": "Diffusion of Scent Along a Forest Path: A light-green terrain strip with simple tree cylinders has a campfire at one end emitting scent particles that drift and diffuse along the path, curling around obstacles and gradually fading while two labeled “noses” at different points measure concentration."
+    },
+    {
+      "number": "22",
+      "title": "Diffusion of Temperature in a 3D Lattice of Nodes",
+      "description": "A cubic lattice of small spheres connected by thin links starts with one corner node heated bright yellow; heat diffuses through the connections, and each node’s color and numeric label slowly change until all nodes reach a uniform temperature.",
+      "seed": "Diffusion of Temperature in a 3D Lattice of Nodes: A cubic lattice of small spheres connected by thin links starts with one corner node heated bright yellow; heat diffuses through the connections, and each node’s color and numeric label slowly change until all nodes reach a uniform temperature."
+    },
+    {
+      "number": "23",
+      "title": "Diffusion of Medication from a Capsule in the Bloodstream",
+      "description": "A semi-transparent blood vessel tube carries flowing red blood cells; a slowly dissolving capsule releases tiny colored drug particles that diffuse outward from the capsule, attach briefly to nearby cell surfaces, and then detach and spread downstream.",
+      "seed": "Diffusion of Medication from a Capsule in the Bloodstream: A semi-transparent blood vessel tube carries flowing red blood cells; a slowly dissolving capsule releases tiny colored drug particles that diffuse outward from the capsule, attach briefly to nearby cell surfaces, and then detach and spread downstream."
+    },
+    {
+      "number": "24",
+      "title": "Diffusion of Dye Through a Gel Slab",
+      "description": "A rectangular transparent gel block sits on a light background with a line of concentrated dye at one face; dye molecules slowly diffuse inward, creating a moving color front and a vertical side graph that plots concentration versus depth in real time.",
+      "seed": "Diffusion of Dye Through a Gel Slab: A rectangular transparent gel block sits on a light background with a line of concentrated dye at one face; dye molecules slowly diffuse inward, creating a moving color front and a vertical side graph that plots concentration versus depth in real time."
+    },
+    {
+      "number": "25",
+      "title": "Diffusion of Charge in a Conductive Plate",
+      "description": "A thin, semi-transparent conductive rectangle receives a sudden injection of electric charge at one corner; small glowing charge markers spread out by diffusion, while a faint electric potential field overlay smooths over time and a meter tracks total field variance.",
+      "seed": "Diffusion of Charge in a Conductive Plate: A thin, semi-transparent conductive rectangle receives a sudden injection of electric charge at one corner; small glowing charge markers spread out by diffusion, while a faint electric potential field overlay smooths over time and a meter tracks total field variance."
+    }
+  ],
+  "raw_output": "Here are strong **Diffusion simulation inputs** you can plug into your prompt:\n\n1. **Colored Gas Diffusion in a Transparent Box**\n   A clear rectangular box filled with slow-moving white particles has a dense colored cloud of particles released at one corner that gradually spread, collide, and mix while a side panel shows a bar graph of concentration over time.\n\n2. **Heat Diffusion on a Metal Plate**\n   A flat, light-grey square plate with a glowing red hot spot in the center gradually diffuses heat outward, visualized by color gradients and tiny arrows that pulse and shrink as temperature differences even out.\n\n3. **Ink Droplet Diffusing in Water**\n   A transparent cylindrical tank of pale-blue water receives a small dark-blue ink sphere that dissolves into many tiny particles that drift, swirl, and spread while leaving fading trails that show mixing paths.\n\n4. **Perfume Molecules Diffusing in a Room**\n   A light-colored 3D room with furniture blocks shows hundreds of semi-transparent perfume particles released from a small sprayer, bouncing off walls and obstacles as their color slowly fades with distance from the source.\n\n5. **Nutrient Diffusion into a Spherical Cell**\n   A large semi-transparent sphere (cell) in the center of the scene is surrounded by smaller nutrient particles that randomly move, attach briefly to the cell membrane, and occasionally pass through to diffuse inward with a changing color gradient.\n\n6. **Diffusion Through a Semi-Permeable Membrane**\n   Two side-by-side transparent boxes separated by a thin membrane panel begin with dense red particles on one side and sparse blue particles on the other, with particles randomly crossing only specific pores and concentration meters updating above each side.\n\n7. **Heat Diffusion in a 3D Solid Cube**\n   A solid, slightly transparent cube has one corner suddenly heated to bright orange, and a 3D grid inside shows small cubes changing color over time as heat diffuses through the solid, with a slider to restart or speed up the process.\n\n8. **Diffusion-Limited Aggregation Crystal Growth**\n   Free-floating particles start from the edges of a light background box and randomly walk until they touch a central seed cluster, where they stick and gradually form branching, tree-like crystal structures that glow faintly at the tips.\n\n9. **Pollutant Diffusion in a Shallow Lake**\n   A wide, shallow, semi-transparent blue rectangle (lake) has a dark pollutant patch introduced near one shore that diffuses outward and is slightly pushed by a slow current, while fish icons avoid higher-concentration regions marked by darker colors.\n\n10. **Color Diffusion in a Rotating Fluid Sphere**\n    A transparent rotating sphere partially filled with fluid starts with three distinct colored blobs (red, green, blue) that diffuse and swirl, stretching into filaments and eventually blending into a uniform tint as the sphere spins steadily.\n\n11. **Gas Diffusion in a Piston Cylinder**\n    A transparent horizontal cylinder with a movable piston starts with a compressed cluster of red gas particles on one side; when the piston is released, it slides back and the particles rapidly diffuse to fill the expanded volume while a pressure gauge needle drops.\n\n12. **Diffusion Across a Network of Rooms**\n    A simple floor-plan of connected transparent rooms (boxes joined by doorways) is filled with air particles, and a colored gas is released in one room, diffusing through doors and vents as color-coded concentration labels float in each room.\n\n13. **Neural Signal Diffusion in a Brain Slice**\n    A semi-transparent block representing brain tissue shows a web of faint neuron branches; when a central neuron fires, a cloud of neurotransmitter particles diffuses through the surrounding space, with intensity fading and labels showing local concentration.\n\n14. **Diffusion of Ideas Through a Social Network**\n    Dozens of spheres (people) float in 3D space connected by thin lines; when a central node “adopts” a glowing color, that color diffuses through the network as neighboring nodes slowly transition in shade based on connection strength and distance.\n\n15. **Diffusion of Dyes in a Porous Rock**\n    A cutaway block of semi-transparent rock with tiny pores is immersed in a light-blue fluid; a colored dye enters from one face and diffuses through the pores, with tiny arrows indicating flow paths and a 3D heatmap of concentration inside the rock.\n\n16. **Binary Gas Diffusion and Mixing**\n    A box initially divided by a removable transparent wall holds red particles on one side and blue on the other; when the wall vanishes, the two gases diffuse into each other until they are thoroughly mixed, with a mixing ratio meter updating on the side.\n\n17. **Oxygen Diffusion from Blood into Tissue**\n    A red cylindrical “capillary” tube runs through a block of light-colored tissue; bright red oxygen particles move inside the tube, diffuse through its semi-transparent wall, and spread into the tissue, gradually changing local tissue color as oxygen level rises.\n\n18. **Diffusion of Heat in a City Block at Night**\n    A grid of extruded blocks (buildings) sits on a plane, each building with an initial temperature; a few buildings start glowing red (hot), and their heat diffuses through the ground and air to neighbors, gradually equalizing as a color scale shows surface temperatures.\n\n19. **Light Diffusion Through Fog**\n    A bright point light emits rays inside a large, semi-transparent foggy cube filled with tiny pale particles; light intensity appears to diffuse, with particles closer to the source glowing brighter and distant regions gradually dimming as scattering spreads the light.\n\n20. **Diffusion-Driven Pattern Formation on a Sphere**\n    A smooth sphere begins with a random scattering of two chemical concentrations shown as colors; over time, colors diffuse and interact to spontaneously form stable spots and stripes, with a legend bar showing concentration levels.\n\n21. **Diffusion of Scent Along a Forest Path**\n    A light-green terrain strip with simple tree cylinders has a campfire at one end emitting scent particles that drift and diffuse along the path, curling around obstacles and gradually fading while two labeled “noses” at different points measure concentration.\n\n22. **Diffusion of Temperature in a 3D Lattice of Nodes**\n    A cubic lattice of small spheres connected by thin links starts with one corner node heated bright yellow; heat diffuses through the connections, and each node’s color and numeric label slowly change until all nodes reach a uniform temperature.\n\n23. **Diffusion of Medication from a Capsule in the Bloodstream**\n    A semi-transparent blood vessel tube carries flowing red blood cells; a slowly dissolving capsule releases tiny colored drug particles that diffuse outward from the capsule, attach briefly to nearby cell surfaces, and then detach and spread downstream.\n\n24. **Diffusion of Dye Through a Gel Slab**\n    A rectangular transparent gel block sits on a light background with a line of concentrated dye at one face; dye molecules slowly diffuse inward, creating a moving color front and a vertical side graph that plots concentration versus depth in real time.\n\n25. **Diffusion of Charge in a Conductive Plate**\n    A thin, semi-transparent conductive rectangle receives a sudden injection of electric charge at one corner; small glowing charge markers spread out by diffusion, while a faint electric potential field overlay smooths over time and a meter tracks total field variance."
+}

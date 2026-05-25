@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Magnetism",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:35:23",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Bar Magnets and Iron Filings Field Sandbox",
+      "description": "A set of draggable bar magnets on a light floor with thousands of tiny metallic particles that rotate and align into field lines, forming chains and clusters that attach, detach, and rearrange as magnets move and flip polarity, with colored field-line trails and labels for north/south poles.",
+      "seed": "Bar Magnets and Iron Filings Field Sandbox: A set of draggable bar magnets on a light floor with thousands of tiny metallic particles that rotate and align into field lines, forming chains and clusters that attach, detach, and rearrange as magnets move and flip polarity, with colored field-line trails and labels for north/south poles."
+    },
+    {
+      "number": "2",
+      "title": "Magnetic Dipole Orbiting a Current Loop",
+      "description": "A glowing current-carrying loop (wire ring) fixed in space with a small magnetic dipole (arrow-tipped rod) that can orbit, precess, and wobble around the loop, showing animated torque arrows, changing angular momentum vectors, and color-coded field strength regions.",
+      "seed": "Magnetic Dipole Orbiting a Current Loop: A glowing current-carrying loop (wire ring) fixed in space with a small magnetic dipole (arrow-tipped rod) that can orbit, precess, and wobble around the loop, showing animated torque arrows, changing angular momentum vectors, and color-coded field strength regions."
+    },
+    {
+      "number": "3",
+      "title": "Floating Magnetic Levitating Train Track",
+      "description": "A straight or curved track made of fixed magnetic rails with a train car that levitates slightly above using repulsive magnets, sliding, accelerating, and braking along the track, with visible force vectors, gentle oscillations, and a slider to adjust magnetic strength.",
+      "seed": "Floating Magnetic Levitating Train Track: A straight or curved track made of fixed magnetic rails with a train car that levitates slightly above using repulsive magnets, sliding, accelerating, and braking along the track, with visible force vectors, gentle oscillations, and a slider to adjust magnetic strength."
+    },
+    {
+      "number": "4",
+      "title": "Magnetic Pendulum with Multiple Attractors",
+      "description": "A bob with a magnet swings over a flat plate that holds several stationary magnets in different colors; the pendulum path traces a trail as it is attracted, repelled, and chaotically redirected, eventually settling above one attractor, with regions of influence subtly color-mapped on the floor.",
+      "seed": "Magnetic Pendulum with Multiple Attractors: A bob with a magnet swings over a flat plate that holds several stationary magnets in different colors; the pendulum path traces a trail as it is attracted, repelled, and chaotically redirected, eventually settling above one attractor, with regions of influence subtly color-mapped on the floor."
+    },
+    {
+      "number": "5",
+      "title": "Magnetic Stirrer Mixing Colored Fluid Particles",
+      "description": "A transparent beaker holds hundreds of small colored “fluid” spheres and a magnetic bar at the bottom that rotates when an external magnet (user-draggable) moves around beneath, causing the bar to spin, particles to swirl, mix, and form visible vortices and trails.",
+      "seed": "Magnetic Stirrer Mixing Colored Fluid Particles: A transparent beaker holds hundreds of small colored “fluid” spheres and a magnetic bar at the bottom that rotates when an external magnet (user-draggable) moves around beneath, causing the bar to spin, particles to swirl, mix, and form visible vortices and trails."
+    },
+    {
+      "number": "6",
+      "title": "Electromagnet Coil with Adjustable Current",
+      "description": "A stationary cylindrical coil with a visible helical wire glows brighter as current increases, pulling in nearby loose iron spheres that roll, bounce, and cluster around its ends, while a dynamic color gradient shows field strength and a meter displays current and induced magnetization.",
+      "seed": "Electromagnet Coil with Adjustable Current: A stationary cylindrical coil with a visible helical wire glows brighter as current increases, pulling in nearby loose iron spheres that roll, bounce, and cluster around its ends, while a dynamic color gradient shows field strength and a meter displays current and induced magnetization."
+    },
+    {
+      "number": "7",
+      "title": "Earth-like Planetary Magnetic Field and Solar Wind",
+      "description": "A rotating sphere representing Earth sits at the center, with animated magnetic field lines arcing from pole to pole while a stream of charged particles (solar wind) flows past, being deflected around the planet, trapped in belts, and occasionally funneled toward the poles as aurora-like glows.",
+      "seed": "Earth-like Planetary Magnetic Field and Solar Wind: A rotating sphere representing Earth sits at the center, with animated magnetic field lines arcing from pole to pole while a stream of charged particles (solar wind) flows past, being deflected around the planet, trapped in belts, and occasionally funneled toward the poles as aurora-like glows."
+    },
+    {
+      "number": "8",
+      "title": "Magnetic Domain Alignment in a Metal Rod",
+      "description": "A rectangular metal bar is filled with tiny randomly oriented arrows (domains) that gradually rotate and align as an external magnet passes alongside, with domains flipping in clusters, some resisting and then snapping into alignment, and a bar at the side showing net magnetization.",
+      "seed": "Magnetic Domain Alignment in a Metal Rod: A rectangular metal bar is filled with tiny randomly oriented arrows (domains) that gradually rotate and align as an external magnet passes alongside, with domains flipping in clusters, some resisting and then snapping into alignment, and a bar at the side showing net magnetization."
+    },
+    {
+      "number": "9",
+      "title": "Magnetically Coupled Rotating Gears",
+      "description": "Two or three disk “gears” with magnets embedded around their rims hover with a small gap and rotate without contact; spinning one disk causes others to spin via magnetic attraction/repulsion, with torque arrows, colored poles on the rims, and occasional slipping when misaligned.",
+      "seed": "Magnetically Coupled Rotating Gears: Two or three disk “gears” with magnets embedded around their rims hover with a small gap and rotate without contact; spinning one disk causes others to spin via magnetic attraction/repulsion, with torque arrows, colored poles on the rims, and occasional slipping when misaligned."
+    },
+    {
+      "number": "10",
+      "title": "Maglev Orbital Playground",
+      "description": "Several small magnetic spheres float above a circular magnetic track and can orbit, collide, and reattach into chains or rings, with user-controlled central magnetic strength that can cause spheres to spiral inward, escape, or settle into stable orbits while leaving glowing path trails.",
+      "seed": "Maglev Orbital Playground: Several small magnetic spheres float above a circular magnetic track and can orbit, collide, and reattach into chains or rings, with user-controlled central magnetic strength that can cause spheres to spiral inward, escape, or settle into stable orbits while leaving glowing path trails."
+    },
+    {
+      "number": "11",
+      "title": "Magnetic Bead Chain Self-Assembly",
+      "description": "Many tiny spherical beads with north/south poles float in a low-gravity transparent box and randomly move until they attach into chains, rings, and branching structures, which can bend, break, and reattach, with each bead’s pole colored differently and gentle pulsing where bonds form or split.",
+      "seed": "Magnetic Bead Chain Self-Assembly: Many tiny spherical beads with north/south poles float in a low-gravity transparent box and randomly move until they attach into chains, rings, and branching structures, which can bend, break, and reattach, with each bead’s pole colored differently and gentle pulsing where bonds form or split."
+    },
+    {
+      "number": "12",
+      "title": "Railgun Projectile Launch",
+      "description": "Two parallel rails mounted on a base hold a metallic projectile that accelerates rapidly when current flows, with a visible current animation along the rails, a changing magnetic field halo around them, a force vector on the projectile, and a slow-motion option showing its launch and flight arc.",
+      "seed": "Railgun Projectile Launch: Two parallel rails mounted on a base hold a metallic projectile that accelerates rapidly when current flows, with a visible current animation along the rails, a changing magnetic field halo around them, a force vector on the projectile, and a slow-motion option showing its launch and flight arc."
+    },
+    {
+      "number": "13",
+      "title": "Magnetic Field Mapping with Compass Needles",
+      "description": "A large static bar magnet lies on a platform surrounded by many small compass needles that rotate to align with the local field; the user can move or rotate the magnet and see all needles smoothly turn, with optional trails that reveal field lines over time.",
+      "seed": "Magnetic Field Mapping with Compass Needles: A large static bar magnet lies on a platform surrounded by many small compass needles that rotate to align with the local field; the user can move or rotate the magnet and see all needles smoothly turn, with optional trails that reveal field lines over time."
+    },
+    {
+      "number": "14",
+      "title": "Ferromagnetic Fluid Spikes on a Magnet",
+      "description": "A shallow transparent dish above a powerful magnet contains hundreds of tiny dark particles that behave like ferrofluid, clustering into spikes and ridges that grow, shrink, and rearrange as the magnet moves, flips, or changes strength, with subtle reflections and height-based color shading.",
+      "seed": "Ferromagnetic Fluid Spikes on a Magnet: A shallow transparent dish above a powerful magnet contains hundreds of tiny dark particles that behave like ferrofluid, clustering into spikes and ridges that grow, shrink, and rearrange as the magnet moves, flips, or changes strength, with subtle reflections and height-based color shading."
+    },
+    {
+      "number": "15",
+      "title": "Magnetic Maze for a Hovering Ball",
+      "description": "A small metallic ball hovers slightly above a floor because of an underlying vertical magnetic field, and the user drags a bar magnet around above the floor to pull the ball through a 3D maze of transparent walls and elevated platforms, with trails showing its path and occasional bounces.",
+      "seed": "Magnetic Maze for a Hovering Ball: A small metallic ball hovers slightly above a floor because of an underlying vertical magnetic field, and the user drags a bar magnet around above the floor to pull the ball through a 3D maze of transparent walls and elevated platforms, with trails showing its path and occasional bounces."
+    },
+    {
+      "number": "16",
+      "title": "Binary Star of Magnetic Dipoles",
+      "description": "Two strong magnetic dipoles orbit around a shared center while a cloud of smaller weak dipole particles floats nearby; the small particles align, attach into rotating chains, and are sometimes torn apart as they pass between the big dipoles, with orbits and field lines lightly traced.",
+      "seed": "Binary Star of Magnetic Dipoles: Two strong magnetic dipoles orbit around a shared center while a cloud of smaller weak dipole particles floats nearby; the small particles align, attach into rotating chains, and are sometimes torn apart as they pass between the big dipoles, with orbits and field lines lightly traced."
+    },
+    {
+      "number": "17",
+      "title": "Magnetic Crane Sorting Yard",
+      "description": "An overhead crane with a controllable electromagnet moves above a scattered pile of mixed metallic and non-metallic blocks; activating the magnet picks up only magnetic blocks, which can be carried, dropped, stacked, or sorted into bins, with a visible field “bubble” expanding when activated.",
+      "seed": "Magnetic Crane Sorting Yard: An overhead crane with a controllable electromagnet moves above a scattered pile of mixed metallic and non-metallic blocks; activating the magnet picks up only magnetic blocks, which can be carried, dropped, stacked, or sorted into bins, with a visible field “bubble” expanding when activated."
+    },
+    {
+      "number": "18",
+      "title": "Magnetic Repulsion Hoverboard Course",
+      "description": "A board lined with magnets glides above a track made of opposing magnets; the board can tilt, bounce slightly, and slide as it moves along slopes, curves, and gaps, with adjustable magnet strength, faint repulsion force vectors, and a trail showing its changing altitude and speed.",
+      "seed": "Magnetic Repulsion Hoverboard Course: A board lined with magnets glides above a track made of opposing magnets; the board can tilt, bounce slightly, and slide as it moves along slopes, curves, and gaps, with adjustable magnet strength, faint repulsion force vectors, and a trail showing its changing altitude and speed."
+    },
+    {
+      "number": "19",
+      "title": "Charged Particle Spiral in Combined Fields",
+      "description": "A single charged particle (glowing sphere) moves through a region with a uniform magnetic field and optional electric field, spiraling, drifting, or looping depending on field direction; sliders change field vectors, and a persistent trail shows its 3D path while arrows display instantaneous forces.",
+      "seed": "Charged Particle Spiral in Combined Fields: A single charged particle (glowing sphere) moves through a region with a uniform magnetic field and optional electric field, spiraling, drifting, or looping depending on field direction; sliders change field vectors, and a persistent trail shows its 3D path while arrows display instantaneous forces."
+    },
+    {
+      "number": "20",
+      "title": "Magnetic Compass Navigation on a Rotating Platform",
+      "description": "A rotating circular platform holds several compass-like needles and a movable bar magnet; as the platform spins, needles try to align with the magnet and an external global field, occasionally lagging and overshooting, with angular velocity and heading displayed as labels.",
+      "seed": "Magnetic Compass Navigation on a Rotating Platform: A rotating circular platform holds several compass-like needles and a movable bar magnet; as the platform spins, needles try to align with the magnet and an external global field, occasionally lagging and overshooting, with angular velocity and heading displayed as labels."
+    },
+    {
+      "number": "21",
+      "title": "Magnetically Locked Lattice of Spheres",
+      "description": "A 3D lattice of small magnetic spheres forms a crystalline structure that can flex, shear, and partially collapse when a large external magnet approaches, as bonds stretch, detach, and reattach, with bonds drawn as thin lines that briefly glow when they form or break.",
+      "seed": "Magnetically Locked Lattice of Spheres: A 3D lattice of small magnetic spheres forms a crystalline structure that can flex, shear, and partially collapse when a large external magnet approaches, as bonds stretch, detach, and reattach, with bonds drawn as thin lines that briefly glow when they form or break."
+    },
+    {
+      "number": "22",
+      "title": "Magnetic Tape Particle Alignment",
+      "description": "A moving strip (tape) slides past a write head that magnetizes microscopic domains on its surface; domains appear as tiny arrows or colored patches that flip orientation in stripes or patterns, while a read head downstream senses and highlights encoded regions as they pass.",
+      "seed": "Magnetic Tape Particle Alignment: A moving strip (tape) slides past a write head that magnetizes microscopic domains on its surface; domains appear as tiny arrows or colored patches that flip orientation in stripes or patterns, while a read head downstream senses and highlights encoded regions as they pass."
+    },
+    {
+      "number": "23",
+      "title": "Magnetic Shielding Demonstration",
+      "description": "A strong bar magnet and a sensitive compass are placed in line, then a movable metallic shield plate (transparent with light tint) can slide between them; as the plate moves, the compass needle gradually reorients, and semi-transparent field lines bend around or are blocked by the shield.",
+      "seed": "Magnetic Shielding Demonstration: A strong bar magnet and a sensitive compass are placed in line, then a movable metallic shield plate (transparent with light tint) can slide between them; as the plate moves, the compass needle gradually reorients, and semi-transparent field lines bend around or are blocked by the shield."
+    },
+    {
+      "number": "24",
+      "title": "Magnetic Planetary Ring Sorting",
+      "description": "A small planet with a thin ring of mixed magnetic and non-magnetic particles orbits in the center; bringing external bar magnets near the ring causes only magnetic particles to cluster into arcs, gaps, and clumps, while non-magnetic particles remain smoothly distributed, with particle types color-coded.",
+      "seed": "Magnetic Planetary Ring Sorting: A small planet with a thin ring of mixed magnetic and non-magnetic particles orbits in the center; bringing external bar magnets near the ring causes only magnetic particles to cluster into arcs, gaps, and clumps, while non-magnetic particles remain smoothly distributed, with particle types color-coded."
+    },
+    {
+      "number": "25",
+      "title": "Magnetic Origami Panels Folding Toward a Core",
+      "description": "Flat hinged panels embedded with small magnets unfold around a central magnetic core; as current in the core’s coil increases, panels are pulled inward and fold into a 3D shape, then partially unfold as current decreases, with hinge axes drawn and attraction forces lightly visualized.",
+      "seed": "Magnetic Origami Panels Folding Toward a Core: Flat hinged panels embedded with small magnets unfold around a central magnetic core; as current in the core’s coil increases, panels are pulled inward and fold into a 3D shape, then partially unfold as current decreases, with hinge axes drawn and attraction forces lightly visualized."
+    }
+  ],
+  "raw_output": "Here are strong **Magnetism simulation inputs** you can plug into your prompt:\n\n1. **Bar Magnets and Iron Filings Field Sandbox**  \n   A set of draggable bar magnets on a light floor with thousands of tiny metallic particles that rotate and align into field lines, forming chains and clusters that attach, detach, and rearrange as magnets move and flip polarity, with colored field-line trails and labels for north/south poles.\n\n2. **Magnetic Dipole Orbiting a Current Loop**  \n   A glowing current-carrying loop (wire ring) fixed in space with a small magnetic dipole (arrow-tipped rod) that can orbit, precess, and wobble around the loop, showing animated torque arrows, changing angular momentum vectors, and color-coded field strength regions.\n\n3. **Floating Magnetic Levitating Train Track**  \n   A straight or curved track made of fixed magnetic rails with a train car that levitates slightly above using repulsive magnets, sliding, accelerating, and braking along the track, with visible force vectors, gentle oscillations, and a slider to adjust magnetic strength.\n\n4. **Magnetic Pendulum with Multiple Attractors**  \n   A bob with a magnet swings over a flat plate that holds several stationary magnets in different colors; the pendulum path traces a trail as it is attracted, repelled, and chaotically redirected, eventually settling above one attractor, with regions of influence subtly color-mapped on the floor.\n\n5. **Magnetic Stirrer Mixing Colored Fluid Particles**  \n   A transparent beaker holds hundreds of small colored “fluid” spheres and a magnetic bar at the bottom that rotates when an external magnet (user-draggable) moves around beneath, causing the bar to spin, particles to swirl, mix, and form visible vortices and trails.\n\n6. **Electromagnet Coil with Adjustable Current**  \n   A stationary cylindrical coil with a visible helical wire glows brighter as current increases, pulling in nearby loose iron spheres that roll, bounce, and cluster around its ends, while a dynamic color gradient shows field strength and a meter displays current and induced magnetization.\n\n7. **Earth-like Planetary Magnetic Field and Solar Wind**  \n   A rotating sphere representing Earth sits at the center, with animated magnetic field lines arcing from pole to pole while a stream of charged particles (solar wind) flows past, being deflected around the planet, trapped in belts, and occasionally funneled toward the poles as aurora-like glows.\n\n8. **Magnetic Domain Alignment in a Metal Rod**  \n   A rectangular metal bar is filled with tiny randomly oriented arrows (domains) that gradually rotate and align as an external magnet passes alongside, with domains flipping in clusters, some resisting and then snapping into alignment, and a bar at the side showing net magnetization.\n\n9. **Magnetically Coupled Rotating Gears**  \n   Two or three disk “gears” with magnets embedded around their rims hover with a small gap and rotate without contact; spinning one disk causes others to spin via magnetic attraction/repulsion, with torque arrows, colored poles on the rims, and occasional slipping when misaligned.\n\n10. **Maglev Orbital Playground**  \n   Several small magnetic spheres float above a circular magnetic track and can orbit, collide, and reattach into chains or rings, with user-controlled central magnetic strength that can cause spheres to spiral inward, escape, or settle into stable orbits while leaving glowing path trails.\n\n11. **Magnetic Bead Chain Self-Assembly**  \n   Many tiny spherical beads with north/south poles float in a low-gravity transparent box and randomly move until they attach into chains, rings, and branching structures, which can bend, break, and reattach, with each bead’s pole colored differently and gentle pulsing where bonds form or split.\n\n12. **Railgun Projectile Launch**  \n   Two parallel rails mounted on a base hold a metallic projectile that accelerates rapidly when current flows, with a visible current animation along the rails, a changing magnetic field halo around them, a force vector on the projectile, and a slow-motion option showing its launch and flight arc.\n\n13. **Magnetic Field Mapping with Compass Needles**  \n   A large static bar magnet lies on a platform surrounded by many small compass needles that rotate to align with the local field; the user can move or rotate the magnet and see all needles smoothly turn, with optional trails that reveal field lines over time.\n\n14. **Ferromagnetic Fluid Spikes on a Magnet**  \n   A shallow transparent dish above a powerful magnet contains hundreds of tiny dark particles that behave like ferrofluid, clustering into spikes and ridges that grow, shrink, and rearrange as the magnet moves, flips, or changes strength, with subtle reflections and height-based color shading.\n\n15. **Magnetic Maze for a Hovering Ball**  \n   A small metallic ball hovers slightly above a floor because of an underlying vertical magnetic field, and the user drags a bar magnet around above the floor to pull the ball through a 3D maze of transparent walls and elevated platforms, with trails showing its path and occasional bounces.\n\n16. **Binary Star of Magnetic Dipoles**  \n   Two strong magnetic dipoles orbit around a shared center while a cloud of smaller weak dipole particles floats nearby; the small particles align, attach into rotating chains, and are sometimes torn apart as they pass between the big dipoles, with orbits and field lines lightly traced.\n\n17. **Magnetic Crane Sorting Yard**  \n   An overhead crane with a controllable electromagnet moves above a scattered pile of mixed metallic and non-metallic blocks; activating the magnet picks up only magnetic blocks, which can be carried, dropped, stacked, or sorted into bins, with a visible field “bubble” expanding when activated.\n\n18. **Magnetic Repulsion Hoverboard Course**  \n   A board lined with magnets glides above a track made of opposing magnets; the board can tilt, bounce slightly, and slide as it moves along slopes, curves, and gaps, with adjustable magnet strength, faint repulsion force vectors, and a trail showing its changing altitude and speed.\n\n19. **Charged Particle Spiral in Combined Fields**  \n   A single charged particle (glowing sphere) moves through a region with a uniform magnetic field and optional electric field, spiraling, drifting, or looping depending on field direction; sliders change field vectors, and a persistent trail shows its 3D path while arrows display instantaneous forces.\n\n20. **Magnetic Compass Navigation on a Rotating Platform**  \n   A rotating circular platform holds several compass-like needles and a movable bar magnet; as the platform spins, needles try to align with the magnet and an external global field, occasionally lagging and overshooting, with angular velocity and heading displayed as labels.\n\n21. **Magnetically Locked Lattice of Spheres**  \n   A 3D lattice of small magnetic spheres forms a crystalline structure that can flex, shear, and partially collapse when a large external magnet approaches, as bonds stretch, detach, and reattach, with bonds drawn as thin lines that briefly glow when they form or break.\n\n22. **Magnetic Tape Particle Alignment**  \n   A moving strip (tape) slides past a write head that magnetizes microscopic domains on its surface; domains appear as tiny arrows or colored patches that flip orientation in stripes or patterns, while a read head downstream senses and highlights encoded regions as they pass.\n\n23. **Magnetic Shielding Demonstration**  \n   A strong bar magnet and a sensitive compass are placed in line, then a movable metallic shield plate (transparent with light tint) can slide between them; as the plate moves, the compass needle gradually reorients, and semi-transparent field lines bend around or are blocked by the shield.\n\n24. **Magnetic Planetary Ring Sorting**  \n   A small planet with a thin ring of mixed magnetic and non-magnetic particles orbits in the center; bringing external bar magnets near the ring causes only magnetic particles to cluster into arcs, gaps, and clumps, while non-magnetic particles remain smoothly distributed, with particle types color-coded.\n\n25. **Magnetic Origami Panels Folding Toward a Core**  \n   Flat hinged panels embedded with small magnets unfold around a central magnetic core; as current in the core’s coil increases, panels are pulled inward and fold into a 3D shape, then partially unfold as current decreases, with hinge axes drawn and attraction forces lightly visualized."
+}

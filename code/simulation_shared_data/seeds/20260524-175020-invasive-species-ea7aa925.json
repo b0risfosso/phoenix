@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Invasive species",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:50:20",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Zebra Mussels Colonizing a Lake Intake Pipe",
+      "description": "Simulate a transparent water pipe with flowing blue particle streams where small shell-like objects drift in, attach to inner walls, grow, cluster, partially block flow, and are color-labeled by age and density.",
+      "seed": "Zebra Mussels Colonizing a Lake Intake Pipe: Simulate a transparent water pipe with flowing blue particle streams where small shell-like objects drift in, attach to inner walls, grow, cluster, partially block flow, and are color-labeled by age and density."
+    },
+    {
+      "number": "2",
+      "title": "Kudzu Vines Overrunning a Forest Edge",
+      "description": "Show tree trunks and a sloped hillside where green vine segments grow, branch, wrap around trunks and rocks, spread toward light, and gradually obscure brown/green background objects with time-lapse-like growth.",
+      "seed": "Kudzu Vines Overrunning a Forest Edge: Show tree trunks and a sloped hillside where green vine segments grow, branch, wrap around trunks and rocks, spread toward light, and gradually obscure brown/green background objects with time-lapse-like growth."
+    },
+    {
+      "number": "3",
+      "title": "Lionfish Invasion on a Coral Reef",
+      "description": "Create a shallow reef scene where native fish schools (small spheres with trails) swim among coral clusters, while striped lionfish models slowly spread, displace natives from zones, and increase predation events shown as brief red flashes.",
+      "seed": "Lionfish Invasion on a Coral Reef: Create a shallow reef scene where native fish schools (small spheres with trails) swim among coral clusters, while striped lionfish models slowly spread, displace natives from zones, and increase predation events shown as brief red flashes."
+    },
+    {
+      "number": "4",
+      "title": "Emerald Ash Borer Spread Through a Grid of Trees",
+      "description": "Arrange a 3D grid of tree trunks as vertical cylinders that can turn from healthy green to infested yellow to dead gray as small beetle particles move, tunnel under bark (thin glowing rings), and transfer infestation between neighboring trunks.",
+      "seed": "Emerald Ash Borer Spread Through a Grid of Trees: Arrange a 3D grid of tree trunks as vertical cylinders that can turn from healthy green to infested yellow to dead gray as small beetle particles move, tunnel under bark (thin glowing rings), and transfer infestation between neighboring trunks."
+    },
+    {
+      "number": "5",
+      "title": "Invasive Plant Seeds Dispersing by Wind Across a Meadow",
+      "description": "Simulate a flat meadow plane with sparse native plants while light-colored seed particles are released from a few invasive clumps, drift with a changing wind vector, land, and sprout into new clumps whose size and color intensity track population.",
+      "seed": "Invasive Plant Seeds Dispersing by Wind Across a Meadow: Simulate a flat meadow plane with sparse native plants while light-colored seed particles are released from a few invasive clumps, drift with a changing wind vector, land, and sprout into new clumps whose size and color intensity track population."
+    },
+    {
+      "number": "6",
+      "title": "Asian Carp Jumping and Displacing Native Fish in a River",
+      "description": "Model a flowing river channel with native fish shapes following smooth paths while larger carp periodically leap out of the water, collide with boats (boxes) and swimmers (capsules), and over time dominate fish counts shown on floating bar meters.",
+      "seed": "Asian Carp Jumping and Displacing Native Fish in a River: Model a flowing river channel with native fish shapes following smooth paths while larger carp periodically leap out of the water, collide with boats (boxes) and swimmers (capsules), and over time dominate fish counts shown on floating bar meters."
+    },
+    {
+      "number": "7",
+      "title": "Microscopic Invasive Algae Bloom in a Water Column",
+      "description": "Visualize a transparent vertical tank where green algal cells replicate, clump, and form dense clouds that reduce light intensity beams from above, while oxygen bubbles (tiny spheres) decrease and native plankton particles fade or sink.",
+      "seed": "Microscopic Invasive Algae Bloom in a Water Column: Visualize a transparent vertical tank where green algal cells replicate, clump, and form dense clouds that reduce light intensity beams from above, while oxygen bubbles (tiny spheres) decrease and native plankton particles fade or sink."
+    },
+    {
+      "number": "8",
+      "title": "Invasive Ant Colony Expanding Under a Lawn",
+      "description": "Represent a cutaway of soil layers with tunnels rendered as hollow cylinders where invasive ants (small spheres) excavate, build branching tunnels, attack native ant clusters in red collision events, and expand their territory boundary as a glowing contour.",
+      "seed": "Invasive Ant Colony Expanding Under a Lawn: Represent a cutaway of soil layers with tunnels rendered as hollow cylinders where invasive ants (small spheres) excavate, build branching tunnels, attack native ant clusters in red collision events, and expand their territory boundary as a glowing contour."
+    },
+    {
+      "number": "9",
+      "title": "Feral Swine Disturbing a Grassland Surface",
+      "description": "Show a rolling terrain mesh with layered soil and grass cover where pig-shaped bodies roam, root the ground causing patches of soil to rise and scatter as brown particles, and reduce plant cover percentage tracked by hovering labels.",
+      "seed": "Feral Swine Disturbing a Grassland Surface: Show a rolling terrain mesh with layered soil and grass cover where pig-shaped bodies roam, root the ground causing patches of soil to rise and scatter as brown particles, and reduce plant cover percentage tracked by hovering labels."
+    },
+    {
+      "number": "10",
+      "title": "Invasive Snails Encrusting a Riverbed",
+      "description": "Build a shallow riverbed with rocks and submerged logs where snail objects crawl slowly, attach to surfaces, reproduce into spiraling clusters, and gradually cover rocks, changing their color from bare gray to mottled brown-yellow overlays.",
+      "seed": "Invasive Snails Encrusting a Riverbed: Build a shallow riverbed with rocks and submerged logs where snail objects crawl slowly, attach to surfaces, reproduce into spiraling clusters, and gradually cover rocks, changing their color from bare gray to mottled brown-yellow overlays."
+    },
+    {
+      "number": "11",
+      "title": "Ship Ballast Water Releasing Invasive Larvae in a Harbor",
+      "description": "Model a cargo ship hull above a light-blue harbor where transparent ballast tanks release clouds of tiny larvae particles that diffuse, follow currents around piers, and attach to underwater structures, spawning new visible adult organisms over time.",
+      "seed": "Ship Ballast Water Releasing Invasive Larvae in a Harbor: Model a cargo ship hull above a light-blue harbor where transparent ballast tanks release clouds of tiny larvae particles that diffuse, follow currents around piers, and attach to underwater structures, spawning new visible adult organisms over time."
+    },
+    {
+      "number": "12",
+      "title": "Invasive Ivy Climbing and Cracking a Brick Wall",
+      "description": "Present a brick wall plane with cracks as darker lines while ivy tendrils start at the base, climb upward, branch, anchor to bricks, thicken, and widen cracks, causing some bricks to slowly shift position or fall off with dust particle bursts.",
+      "seed": "Invasive Ivy Climbing and Cracking a Brick Wall: Present a brick wall plane with cracks as darker lines while ivy tendrils start at the base, climb upward, branch, anchor to bricks, thicken, and widen cracks, causing some bricks to slowly shift position or fall off with dust particle bursts."
+    },
+    {
+      "number": "13",
+      "title": "Invasive Species as Data Packets in a Network",
+      "description": "Visualize a 3D network of nodes connected by glowing edges where “invasive” packets (red spheres) replicate, hop across links, disable or overwrite “native” packets (blue spheres) on collision, and gradually flip node colors from blue to red.",
+      "seed": "Invasive Species as Data Packets in a Network: Visualize a 3D network of nodes connected by glowing edges where “invasive” packets (red spheres) replicate, hop across links, disable or overwrite “native” packets (blue spheres) on collision, and gradually flip node colors from blue to red."
+    },
+    {
+      "number": "14",
+      "title": "Invasive Barnacles Colonizing a Ship Hull",
+      "description": "Show a ship’s underside as a curved surface moving slowly through blue water while barnacle particles drift, attach, grow into cone clusters, increase drag visualized by longer water flow trails, and can be scraped off by a passing cleaning tool.",
+      "seed": "Invasive Barnacles Colonizing a Ship Hull: Show a ship’s underside as a curved surface moving slowly through blue water while barnacle particles drift, attach, grow into cone clusters, increase drag visualized by longer water flow trails, and can be scraped off by a passing cleaning tool."
+    },
+    {
+      "number": "15",
+      "title": "Invasive Vine Snakes Entering a Tree Canopy",
+      "description": "Simulate a forest cross-section with branching tree crowns while slender snake objects climb trunks, wrap around branches, dislodge bird nests (small spheres that fall), and alter canopy density visualized as changing light beams reaching the ground.",
+      "seed": "Invasive Vine Snakes Entering a Tree Canopy: Simulate a forest cross-section with branching tree crowns while slender snake objects climb trunks, wrap around branches, dislodge bird nests (small spheres that fall), and alter canopy density visualized as changing light beams reaching the ground."
+    },
+    {
+      "number": "16",
+      "title": "Invasive Aquatic Weed Clogging a Hydroelectric Dam Intake",
+      "description": "Depict a dam face with intake grates where strands of green weed flow in, snag, tangle into denser mats that reduce water particle flow through the grate, and trigger an on-screen power output meter that drops as blockage increases.",
+      "seed": "Invasive Aquatic Weed Clogging a Hydroelectric Dam Intake: Depict a dam face with intake grates where strands of green weed flow in, snag, tangle into denser mats that reduce water particle flow through the grate, and trigger an on-screen power output meter that drops as blockage increases."
+    },
+    {
+      "number": "17",
+      "title": "Invasive Beetles Tunneling Through Stored Timber",
+      "description": "Arrange stacked logs whose cross-sections show growth rings while beetle particles land, bore tunnels (carved transparent cylinders) that branch and weaken logs, eventually causing some to crack and drop fragments represented by falling blocks.",
+      "seed": "Invasive Beetles Tunneling Through Stored Timber: Arrange stacked logs whose cross-sections show growth rings while beetle particles land, bore tunnels (carved transparent cylinders) that branch and weaken logs, eventually causing some to crack and drop fragments represented by falling blocks."
+    },
+    {
+      "number": "18",
+      "title": "Invasive Jellyfish Swarms in a Coastal Bay",
+      "description": "Model a shallow bay with buoys and nets where translucent jellyfish pulse, drift with currents, and sting native fish (brief color changes), while density heatmaps around fish farms turn from blue to red as swarms concentrate.",
+      "seed": "Invasive Jellyfish Swarms in a Coastal Bay: Model a shallow bay with buoys and nets where translucent jellyfish pulse, drift with currents, and sting native fish (brief color changes), while density heatmaps around fish farms turn from blue to red as swarms concentrate."
+    },
+    {
+      "number": "19",
+      "title": "Invasive Species as Expanding Territory Bubbles on a Landscape",
+      "description": "Create a stylized 3D landscape map where different species are colored semi-transparent spheres that grow, overlap, merge, and push back other spheres, with boundary lines and dynamic labels showing territory size and overlap percentages.",
+      "seed": "Invasive Species as Expanding Territory Bubbles on a Landscape: Create a stylized 3D landscape map where different species are colored semi-transparent spheres that grow, overlap, merge, and push back other spheres, with boundary lines and dynamic labels showing territory size and overlap percentages."
+    },
+    {
+      "number": "20",
+      "title": "Invasive Grasses Fueling a Faster Wildfire Spread",
+      "description": "Simulate a hilly terrain with patches of native shrubs and taller invasive grasses where a fire front (glowing orange line) advances, spreads faster through invasive zones, ignites floating ember particles, and leaves behind charred black regions.",
+      "seed": "Invasive Grasses Fueling a Faster Wildfire Spread: Simulate a hilly terrain with patches of native shrubs and taller invasive grasses where a fire front (glowing orange line) advances, spreads faster through invasive zones, ignites floating ember particles, and leaves behind charred black regions."
+    },
+    {
+      "number": "21",
+      "title": "Invasive Crabs Altering a Rocky Shoreline Community",
+      "description": "Represent a tidepool area with rocks, algae patches, and native shellfish while invasive crabs roam, flip rocks (rotating boxes), consume shellfish (removing objects), and change rock-surface cover from green algae to bare gray over time.",
+      "seed": "Invasive Crabs Altering a Rocky Shoreline Community: Represent a tidepool area with rocks, algae patches, and native shellfish while invasive crabs roam, flip rocks (rotating boxes), consume shellfish (removing objects), and change rock-surface cover from green algae to bare gray over time."
+    },
+    {
+      "number": "22",
+      "title": "Invasive Rats on an Island Ecosystem",
+      "description": "Show a small island with trees, seabird nests, and burrows where rat objects explore, climb, raid nests (removing egg spheres), and reproduce into larger groups that expand their roaming radius, visualized with a growing semi-transparent territory dome.",
+      "seed": "Invasive Rats on an Island Ecosystem: Show a small island with trees, seabird nests, and burrows where rat objects explore, climb, raid nests (removing egg spheres), and reproduce into larger groups that expand their roaming radius, visualized with a growing semi-transparent territory dome."
+    },
+    {
+      "number": "23",
+      "title": "Invasive DNA Segment Spreading in a Cell Nucleus",
+      "description": "Visualize a nucleus as a transparent sphere containing coiled DNA strands where a highlighted invasive DNA segment attaches, replicates, and inserts itself at multiple loci, gradually changing local strand colors and affecting “gene activity” bars.",
+      "seed": "Invasive DNA Segment Spreading in a Cell Nucleus: Visualize a nucleus as a transparent sphere containing coiled DNA strands where a highlighted invasive DNA segment attaches, replicates, and inserts itself at multiple loci, gradually changing local strand colors and affecting “gene activity” bars."
+    },
+    {
+      "number": "24",
+      "title": "Invasive Earthworms Mixing Forest Leaf Litter",
+      "description": "Model a forest floor cross-section with layers of leaf litter, organic soil, and mineral soil while worm objects burrow, mix layers (particles changing vertical position and color), and thin the leaf layer thickness measured by hovering rulers.",
+      "seed": "Invasive Earthworms Mixing Forest Leaf Litter: Model a forest floor cross-section with layers of leaf litter, organic soil, and mineral soil while worm objects burrow, mix layers (particles changing vertical position and color), and thin the leaf layer thickness measured by hovering rulers."
+    },
+    {
+      "number": "25",
+      "title": "Invasive Bamboo Grove Outcompeting Native Shrubs",
+      "description": "Present a garden plot where bamboo culms sprout, grow rapidly upward, send underground rhizome cylinders horizontally, and pop up new culms that shade and slowly fade native shrub objects from green to pale as light availability drops.",
+      "seed": "Invasive Bamboo Grove Outcompeting Native Shrubs: Present a garden plot where bamboo culms sprout, grow rapidly upward, send underground rhizome cylinders horizontally, and pop up new culms that shade and slowly fade native shrub objects from green to pale as light availability drops."
+    }
+  ],
+  "raw_output": "Here are strong **Invasive species simulation inputs** you can plug into your prompt:\n\n1. **Zebra Mussels Colonizing a Lake Intake Pipe**\n   Simulate a transparent water pipe with flowing blue particle streams where small shell-like objects drift in, attach to inner walls, grow, cluster, partially block flow, and are color-labeled by age and density.\n\n2. **Kudzu Vines Overrunning a Forest Edge**\n   Show tree trunks and a sloped hillside where green vine segments grow, branch, wrap around trunks and rocks, spread toward light, and gradually obscure brown/green background objects with time-lapse-like growth.\n\n3. **Lionfish Invasion on a Coral Reef**\n   Create a shallow reef scene where native fish schools (small spheres with trails) swim among coral clusters, while striped lionfish models slowly spread, displace natives from zones, and increase predation events shown as brief red flashes.\n\n4. **Emerald Ash Borer Spread Through a Grid of Trees**\n   Arrange a 3D grid of tree trunks as vertical cylinders that can turn from healthy green to infested yellow to dead gray as small beetle particles move, tunnel under bark (thin glowing rings), and transfer infestation between neighboring trunks.\n\n5. **Invasive Plant Seeds Dispersing by Wind Across a Meadow**\n   Simulate a flat meadow plane with sparse native plants while light-colored seed particles are released from a few invasive clumps, drift with a changing wind vector, land, and sprout into new clumps whose size and color intensity track population.\n\n6. **Asian Carp Jumping and Displacing Native Fish in a River**\n   Model a flowing river channel with native fish shapes following smooth paths while larger carp periodically leap out of the water, collide with boats (boxes) and swimmers (capsules), and over time dominate fish counts shown on floating bar meters.\n\n7. **Microscopic Invasive Algae Bloom in a Water Column**\n   Visualize a transparent vertical tank where green algal cells replicate, clump, and form dense clouds that reduce light intensity beams from above, while oxygen bubbles (tiny spheres) decrease and native plankton particles fade or sink.\n\n8. **Invasive Ant Colony Expanding Under a Lawn**\n   Represent a cutaway of soil layers with tunnels rendered as hollow cylinders where invasive ants (small spheres) excavate, build branching tunnels, attack native ant clusters in red collision events, and expand their territory boundary as a glowing contour.\n\n9. **Feral Swine Disturbing a Grassland Surface**\n   Show a rolling terrain mesh with layered soil and grass cover where pig-shaped bodies roam, root the ground causing patches of soil to rise and scatter as brown particles, and reduce plant cover percentage tracked by hovering labels.\n\n10. **Invasive Snails Encrusting a Riverbed**\n    Build a shallow riverbed with rocks and submerged logs where snail objects crawl slowly, attach to surfaces, reproduce into spiraling clusters, and gradually cover rocks, changing their color from bare gray to mottled brown-yellow overlays.\n\n11. **Ship Ballast Water Releasing Invasive Larvae in a Harbor**\n    Model a cargo ship hull above a light-blue harbor where transparent ballast tanks release clouds of tiny larvae particles that diffuse, follow currents around piers, and attach to underwater structures, spawning new visible adult organisms over time.\n\n12. **Invasive Ivy Climbing and Cracking a Brick Wall**\n    Present a brick wall plane with cracks as darker lines while ivy tendrils start at the base, climb upward, branch, anchor to bricks, thicken, and widen cracks, causing some bricks to slowly shift position or fall off with dust particle bursts.\n\n13. **Invasive Species as Data Packets in a Network**\n    Visualize a 3D network of nodes connected by glowing edges where “invasive” packets (red spheres) replicate, hop across links, disable or overwrite “native” packets (blue spheres) on collision, and gradually flip node colors from blue to red.\n\n14. **Invasive Barnacles Colonizing a Ship Hull**\n    Show a ship’s underside as a curved surface moving slowly through blue water while barnacle particles drift, attach, grow into cone clusters, increase drag visualized by longer water flow trails, and can be scraped off by a passing cleaning tool.\n\n15. **Invasive Vine Snakes Entering a Tree Canopy**\n    Simulate a forest cross-section with branching tree crowns while slender snake objects climb trunks, wrap around branches, dislodge bird nests (small spheres that fall), and alter canopy density visualized as changing light beams reaching the ground.\n\n16. **Invasive Aquatic Weed Clogging a Hydroelectric Dam Intake**\n    Depict a dam face with intake grates where strands of green weed flow in, snag, tangle into denser mats that reduce water particle flow through the grate, and trigger an on-screen power output meter that drops as blockage increases.\n\n17. **Invasive Beetles Tunneling Through Stored Timber**\n    Arrange stacked logs whose cross-sections show growth rings while beetle particles land, bore tunnels (carved transparent cylinders) that branch and weaken logs, eventually causing some to crack and drop fragments represented by falling blocks.\n\n18. **Invasive Jellyfish Swarms in a Coastal Bay**\n    Model a shallow bay with buoys and nets where translucent jellyfish pulse, drift with currents, and sting native fish (brief color changes), while density heatmaps around fish farms turn from blue to red as swarms concentrate.\n\n19. **Invasive Species as Expanding Territory Bubbles on a Landscape**\n    Create a stylized 3D landscape map where different species are colored semi-transparent spheres that grow, overlap, merge, and push back other spheres, with boundary lines and dynamic labels showing territory size and overlap percentages.\n\n20. **Invasive Grasses Fueling a Faster Wildfire Spread**\n    Simulate a hilly terrain with patches of native shrubs and taller invasive grasses where a fire front (glowing orange line) advances, spreads faster through invasive zones, ignites floating ember particles, and leaves behind charred black regions.\n\n21. **Invasive Crabs Altering a Rocky Shoreline Community**\n    Represent a tidepool area with rocks, algae patches, and native shellfish while invasive crabs roam, flip rocks (rotating boxes), consume shellfish (removing objects), and change rock-surface cover from green algae to bare gray over time.\n\n22. **Invasive Rats on an Island Ecosystem**\n    Show a small island with trees, seabird nests, and burrows where rat objects explore, climb, raid nests (removing egg spheres), and reproduce into larger groups that expand their roaming radius, visualized with a growing semi-transparent territory dome.\n\n23. **Invasive DNA Segment Spreading in a Cell Nucleus**\n    Visualize a nucleus as a transparent sphere containing coiled DNA strands where a highlighted invasive DNA segment attaches, replicates, and inserts itself at multiple loci, gradually changing local strand colors and affecting “gene activity” bars.\n\n24. **Invasive Earthworms Mixing Forest Leaf Litter**\n    Model a forest floor cross-section with layers of leaf litter, organic soil, and mineral soil while worm objects burrow, mix layers (particles changing vertical position and color), and thin the leaf layer thickness measured by hovering rulers.\n\n25. **Invasive Bamboo Grove Outcompeting Native Shrubs**\n    Present a garden plot where bamboo culms sprout, grow rapidly upward, send underground rhizome cylinders horizontally, and pop up new culms that shade and slowly fade native shrub objects from green to pale as light availability drops."
+}

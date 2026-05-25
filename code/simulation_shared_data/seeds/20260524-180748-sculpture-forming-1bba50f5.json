@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Sculpture forming",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:07:48",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Robot Arm Clay Sculptor",
+      "description": "A robotic arm with a spherical tool presses, drags, and smooths a soft, color-changing clay block (a deformable mesh) on a pedestal, leaving trails and bumps that slowly relax while a ghost “target shape” outline hovers transparently behind it.",
+      "seed": "Robot Arm Clay Sculptor: A robotic arm with a spherical tool presses, drags, and smooths a soft, color-changing clay block (a deformable mesh) on a pedestal, leaving trails and bumps that slowly relax while a ghost “target shape” outline hovers transparently behind it."
+    },
+    {
+      "number": "2",
+      "title": "Falling Blocks Self-Assembling Statue",
+      "description": "Colorful cubic blocks fall from above, bounce on a platform, and magnetically attach in pre-defined positions to gradually assemble a labeled 3D statue, with misaligned blocks detaching and re-falling until they fit.",
+      "seed": "Falling Blocks Self-Assembling Statue: Colorful cubic blocks fall from above, bounce on a platform, and magnetically attach in pre-defined positions to gradually assemble a labeled 3D statue, with misaligned blocks detaching and re-falling until they fit."
+    },
+    {
+      "number": "3",
+      "title": "Sand Grain Drip Sculpture",
+      "description": "Thousands of tiny spheres drip like sand from a nozzle, pile up into a conical heap, then slide and avalanche to form a smoothed sand sculpture, with a slider controlling drip rate and a transparent box showing the bounding volume.",
+      "seed": "Sand Grain Drip Sculpture: Thousands of tiny spheres drip like sand from a nozzle, pile up into a conical heap, then slide and avalanche to form a smoothed sand sculpture, with a slider controlling drip rate and a transparent box showing the bounding volume."
+    },
+    {
+      "number": "4",
+      "title": "Ice Sculpture Melting and Refreezing",
+      "description": "A clear, faceted ice statue slowly melts into droplets that detach and fall into a tray, while a moving cold “freezer beam” passes over sections to re-freeze water back into crystalline shapes, with color gradients showing temperature.",
+      "seed": "Ice Sculpture Melting and Refreezing: A clear, faceted ice statue slowly melts into droplets that detach and fall into a tray, while a moving cold “freezer beam” passes over sections to re-freeze water back into crystalline shapes, with color gradients showing temperature."
+    },
+    {
+      "number": "5",
+      "title": "Wireframe Armature Growing a Statue",
+      "description": "Thin metallic rods (cylinders) grow, extend, and branch from a base point to form a wireframe armature of a human figure, then translucent “clay” surfaces inflate between rods, snapping, stretching, and reattaching as they shift.",
+      "seed": "Wireframe Armature Growing a Statue: Thin metallic rods (cylinders) grow, extend, and branch from a base point to form a wireframe armature of a human figure, then translucent “clay” surfaces inflate between rods, snapping, stretching, and reattaching as they shift."
+    },
+    {
+      "number": "6",
+      "title": "Particle Swarm Carving a Block",
+      "description": "A transparent cube of “stone” is eroded by a swarm of colored carving particles that orbit and dive into the block, removing tiny chunks and leaving a gradually emerging inner sculpture, with dust particles drifting away.",
+      "seed": "Particle Swarm Carving a Block: A transparent cube of “stone” is eroded by a swarm of colored carving particles that orbit and dive into the block, removing tiny chunks and leaving a gradually emerging inner sculpture, with dust particles drifting away."
+    },
+    {
+      "number": "7",
+      "title": "3D Printer Sculpture Builder",
+      "description": "A printer head moves in a raster pattern over a platform, extruding thin layers of semi-transparent plastic that stack to form a complex sculpture, with each layer briefly glowing as it’s deposited and a vertical progress meter on the side.",
+      "seed": "3D Printer Sculpture Builder: A printer head moves in a raster pattern over a platform, extruding thin layers of semi-transparent plastic that stack to form a complex sculpture, with each layer briefly glowing as it’s deposited and a vertical progress meter on the side."
+    },
+    {
+      "number": "8",
+      "title": "Magnetic Bead Sculpture Clustering",
+      "description": "Dozens of metal beads float in a low-gravity chamber, colliding and snapping together via colored magnetic poles to form evolving abstract sculptures, then occasionally repel and reconfigure when a rotating field source moves around them.",
+      "seed": "Magnetic Bead Sculpture Clustering: Dozens of metal beads float in a low-gravity chamber, colliding and snapping together via colored magnetic poles to form evolving abstract sculptures, then occasionally repel and reconfigure when a rotating field source moves around them."
+    },
+    {
+      "number": "9",
+      "title": "Fluid Marble Sculpture Erosion",
+      "description": "A marble block sits in the path of a directed particle stream of water droplets that collide, chip off small fragments, and slowly carve flowing channels and cavities, with eroded dust clouding the water and settling in a transparent basin.",
+      "seed": "Fluid Marble Sculpture Erosion: A marble block sits in the path of a directed particle stream of water droplets that collide, chip off small fragments, and slowly carve flowing channels and cavities, with eroded dust clouding the water and settling in a transparent basin."
+    },
+    {
+      "number": "10",
+      "title": "Lego-Style Modular Sculpture Factory",
+      "description": "Conveyor belts bring colored lego-like bricks that robots attach onto a central rotating core, building a modular sculpture; wrong-colored bricks detach and drop into a recycling bin, with labels hovering over each module.",
+      "seed": "Lego-Style Modular Sculpture Factory: Conveyor belts bring colored lego-like bricks that robots attach onto a central rotating core, building a modular sculpture; wrong-colored bricks detach and drop into a recycling bin, with labels hovering over each module."
+    },
+    {
+      "number": "11",
+      "title": "Origami Sheet Folding into a Sculpture",
+      "description": "A thin square sheet (mesh) lies flat then folds along pre-marked lines, with edges snapping and aligning to form a 3D paper sculpture, while arrows and labels show active folds and a transparent “target” silhouette shows the final form.",
+      "seed": "Origami Sheet Folding into a Sculpture: A thin square sheet (mesh) lies flat then folds along pre-marked lines, with edges snapping and aligning to form a 3D paper sculpture, while arrows and labels show active folds and a transparent “target” silhouette shows the final form."
+    },
+    {
+      "number": "12",
+      "title": "Crystal Growth Sculpture in Solution",
+      "description": "A transparent tank holds supersaturated solution with seed crystals at the center; particles drift, attach to crystal surfaces, and grow faceted branches, with color-coding for growth speed and occasional branch tips dissolving and regrowing.",
+      "seed": "Crystal Growth Sculpture in Solution: A transparent tank holds supersaturated solution with seed crystals at the center; particles drift, attach to crystal surfaces, and grow faceted branches, with color-coding for growth speed and occasional branch tips dissolving and regrowing."
+    },
+    {
+      "number": "13",
+      "title": "Magma to Rock Sculpture Cooling",
+      "description": "A glowing molten blob on a pedestal slowly cools, its surface solidifying into layered rock-like ridges that expand, crack, and detach small pieces, while an overhead “cooling lamp” moves and changes how and where the sculpture forms.",
+      "seed": "Magma to Rock Sculpture Cooling: A glowing molten blob on a pedestal slowly cools, its surface solidifying into layered rock-like ridges that expand, crack, and detach small pieces, while an overhead “cooling lamp” moves and changes how and where the sculpture forms."
+    },
+    {
+      "number": "14",
+      "title": "String Art Sculpture Weaving",
+      "description": "Pins arranged on circular tiers stay fixed while a moving “thread head” pulls a colored string that wraps, unspools, and rewraps around pins, gradually forming a dense translucent string sculpture with visible tensioned segments.",
+      "seed": "String Art Sculpture Weaving: Pins arranged on circular tiers stay fixed while a moving “thread head” pulls a colored string that wraps, unspools, and rewraps around pins, gradually forming a dense translucent string sculpture with visible tensioned segments."
+    },
+    {
+      "number": "15",
+      "title": "Kinetic Mobile Assembling in Midair",
+      "description": "Rods and flat shapes float in zero-g, gently colliding and magnetically attaching at joints to form a hanging mobile sculpture; when a rotating fan object passes, it nudges parts causing the mobile to sway and occasionally detach and reattach.",
+      "seed": "Kinetic Mobile Assembling in Midair: Rods and flat shapes float in zero-g, gently colliding and magnetically attaching at joints to form a hanging mobile sculpture; when a rotating fan object passes, it nudges parts causing the mobile to sway and occasionally detach and reattach."
+    },
+    {
+      "number": "16",
+      "title": "Voxel Statue from Collapsing Grid",
+      "description": "A large transparent voxel grid starts filled; a scanning beam passes through, causing certain cubes to dissolve and fall away as particles, leaving behind a solid statue made from remaining colored voxels, with a progress bar on the side.",
+      "seed": "Voxel Statue from Collapsing Grid: A large transparent voxel grid starts filled; a scanning beam passes through, causing certain cubes to dissolve and fall away as particles, leaving behind a solid statue made from remaining colored voxels, with a progress bar on the side."
+    },
+    {
+      "number": "17",
+      "title": "Bubble Foam Sculpture Rising",
+      "description": "Bubbles of varying sizes spawn from the base of a column, rise, merge, and stack to form a temporary foam sculpture, with translucent surfaces, iridescent colors, and occasional bubble pops that cause the shape to reconfigure.",
+      "seed": "Bubble Foam Sculpture Rising: Bubbles of varying sizes spawn from the base of a column, rise, merge, and stack to form a temporary foam sculpture, with translucent surfaces, iridescent colors, and occasional bubble pops that cause the shape to reconfigure."
+    },
+    {
+      "number": "18",
+      "title": "Magnetic Putty Stretch Sculpture",
+      "description": "A blob of soft, dark putty rests on a light pedestal while several moving magnets orbit around it; the blob stretches, forms spikes and tendrils that attach toward the magnets, then relaxes and merges back as magnets move away.",
+      "seed": "Magnetic Putty Stretch Sculpture: A blob of soft, dark putty rests on a light pedestal while several moving magnets orbit around it; the blob stretches, forms spikes and tendrils that attach toward the magnets, then relaxes and merges back as magnets move away."
+    },
+    {
+      "number": "19",
+      "title": "Stone Blocks Balancing Tower",
+      "description": "Irregular stone blocks fall in slow motion onto a platform, bouncing slightly before settling; a simple physics engine lets them stack into a precarious balancing tower sculpture that can collapse and re-form when new blocks land.",
+      "seed": "Stone Blocks Balancing Tower: Irregular stone blocks fall in slow motion onto a platform, bouncing slightly before settling; a simple physics engine lets them stack into a precarious balancing tower sculpture that can collapse and re-form when new blocks land."
+    },
+    {
+      "number": "20",
+      "title": "Light Ray Sculpture in Fog",
+      "description": "Invisible glass rods and plates form a stationary skeletal sculpture, while colored light beams sweep and rotate through a faint fog volume, refracting and reflecting to create visible “light sculptures” that shift as beams move.",
+      "seed": "Light Ray Sculpture in Fog: Invisible glass rods and plates form a stationary skeletal sculpture, while colored light beams sweep and rotate through a faint fog volume, refracting and reflecting to create visible “light sculptures” that shift as beams move."
+    },
+    {
+      "number": "21",
+      "title": "3D Calligraphy Sculpture Drawing",
+      "description": "A glowing pen tip moves through space leaving a thick, semi-transparent ribbon trail; the trail hardens into a solid sculptural calligraphic form, with segments that can detach, reconnect, and slowly rotate as a unified artwork.",
+      "seed": "3D Calligraphy Sculpture Drawing: A glowing pen tip moves through space leaving a thick, semi-transparent ribbon trail; the trail hardens into a solid sculptural calligraphic form, with segments that can detach, reconnect, and slowly rotate as a unified artwork."
+    },
+    {
+      "number": "22",
+      "title": "Growing Tree Trunk Wood Sculpture",
+      "description": "A trunk-like cylinder grows upward and outward, sprouting twisting roots and branches that thicken and branch again, forming a wooden sculpture; growth rings and bark patterns appear over time, with leaves optionally toggled on/off.",
+      "seed": "Growing Tree Trunk Wood Sculpture: A trunk-like cylinder grows upward and outward, sprouting twisting roots and branches that thicken and branch again, forming a wooden sculpture; growth rings and bark patterns appear over time, with leaves optionally toggled on/off."
+    },
+    {
+      "number": "23",
+      "title": "Metal Droplet Welding Sculpture",
+      "description": "A welding nozzle moves over a rotating frame, releasing hot metal droplets that fall, splash, and quickly solidify into beads, gradually building a metallic sculpture; fresh welds glow, then darken as they cool.",
+      "seed": "Metal Droplet Welding Sculpture: A welding nozzle moves over a rotating frame, releasing hot metal droplets that fall, splash, and quickly solidify into beads, gradually building a metallic sculpture; fresh welds glow, then darken as they cool."
+    },
+    {
+      "number": "24",
+      "title": "Snowflake Sculpture Condensation Chamber",
+      "description": "In a cold chamber, vapor particles drift and condense onto hovering seed points, forming fractal snowflake-like 3D sculptures that grow, branch, and occasionally shed small arms that float away and start new mini-structures.",
+      "seed": "Snowflake Sculpture Condensation Chamber: In a cold chamber, vapor particles drift and condense onto hovering seed points, forming fractal snowflake-like 3D sculptures that grow, branch, and occasionally shed small arms that float away and start new mini-structures."
+    },
+    {
+      "number": "25",
+      "title": "Interactive Chisel and Hammer Stone Block",
+      "description": "A stone block sits center stage while a user-controlled chisel (small cylinder) and hammer (moving sphere) collide with its surface; each hit chips off labeled fragments and gradually reveals a rough human figure inside, with debris piling around the base.",
+      "seed": "Interactive Chisel and Hammer Stone Block: A stone block sits center stage while a user-controlled chisel (small cylinder) and hammer (moving sphere) collide with its surface; each hit chips off labeled fragments and gradually reveals a rough human figure inside, with debris piling around the base."
+    }
+  ],
+  "raw_output": "Here are strong **Sculpture forming simulation inputs** you can plug into your prompt:\n\n1. **Robot Arm Clay Sculptor**\n   A robotic arm with a spherical tool presses, drags, and smooths a soft, color-changing clay block (a deformable mesh) on a pedestal, leaving trails and bumps that slowly relax while a ghost “target shape” outline hovers transparently behind it.\n\n2. **Falling Blocks Self-Assembling Statue**\n   Colorful cubic blocks fall from above, bounce on a platform, and magnetically attach in pre-defined positions to gradually assemble a labeled 3D statue, with misaligned blocks detaching and re-falling until they fit.\n\n3. **Sand Grain Drip Sculpture**\n   Thousands of tiny spheres drip like sand from a nozzle, pile up into a conical heap, then slide and avalanche to form a smoothed sand sculpture, with a slider controlling drip rate and a transparent box showing the bounding volume.\n\n4. **Ice Sculpture Melting and Refreezing**\n   A clear, faceted ice statue slowly melts into droplets that detach and fall into a tray, while a moving cold “freezer beam” passes over sections to re-freeze water back into crystalline shapes, with color gradients showing temperature.\n\n5. **Wireframe Armature Growing a Statue**\n   Thin metallic rods (cylinders) grow, extend, and branch from a base point to form a wireframe armature of a human figure, then translucent “clay” surfaces inflate between rods, snapping, stretching, and reattaching as they shift.\n\n6. **Particle Swarm Carving a Block**\n   A transparent cube of “stone” is eroded by a swarm of colored carving particles that orbit and dive into the block, removing tiny chunks and leaving a gradually emerging inner sculpture, with dust particles drifting away.\n\n7. **3D Printer Sculpture Builder**\n   A printer head moves in a raster pattern over a platform, extruding thin layers of semi-transparent plastic that stack to form a complex sculpture, with each layer briefly glowing as it’s deposited and a vertical progress meter on the side.\n\n8. **Magnetic Bead Sculpture Clustering**\n   Dozens of metal beads float in a low-gravity chamber, colliding and snapping together via colored magnetic poles to form evolving abstract sculptures, then occasionally repel and reconfigure when a rotating field source moves around them.\n\n9. **Fluid Marble Sculpture Erosion**\n   A marble block sits in the path of a directed particle stream of water droplets that collide, chip off small fragments, and slowly carve flowing channels and cavities, with eroded dust clouding the water and settling in a transparent basin.\n\n10. **Lego-Style Modular Sculpture Factory**\n    Conveyor belts bring colored lego-like bricks that robots attach onto a central rotating core, building a modular sculpture; wrong-colored bricks detach and drop into a recycling bin, with labels hovering over each module.\n\n11. **Origami Sheet Folding into a Sculpture**\n    A thin square sheet (mesh) lies flat then folds along pre-marked lines, with edges snapping and aligning to form a 3D paper sculpture, while arrows and labels show active folds and a transparent “target” silhouette shows the final form.\n\n12. **Crystal Growth Sculpture in Solution**\n    A transparent tank holds supersaturated solution with seed crystals at the center; particles drift, attach to crystal surfaces, and grow faceted branches, with color-coding for growth speed and occasional branch tips dissolving and regrowing.\n\n13. **Magma to Rock Sculpture Cooling**\n    A glowing molten blob on a pedestal slowly cools, its surface solidifying into layered rock-like ridges that expand, crack, and detach small pieces, while an overhead “cooling lamp” moves and changes how and where the sculpture forms.\n\n14. **String Art Sculpture Weaving**\n    Pins arranged on circular tiers stay fixed while a moving “thread head” pulls a colored string that wraps, unspools, and rewraps around pins, gradually forming a dense translucent string sculpture with visible tensioned segments.\n\n15. **Kinetic Mobile Assembling in Midair**\n    Rods and flat shapes float in zero-g, gently colliding and magnetically attaching at joints to form a hanging mobile sculpture; when a rotating fan object passes, it nudges parts causing the mobile to sway and occasionally detach and reattach.\n\n16. **Voxel Statue from Collapsing Grid**\n    A large transparent voxel grid starts filled; a scanning beam passes through, causing certain cubes to dissolve and fall away as particles, leaving behind a solid statue made from remaining colored voxels, with a progress bar on the side.\n\n17. **Bubble Foam Sculpture Rising**\n    Bubbles of varying sizes spawn from the base of a column, rise, merge, and stack to form a temporary foam sculpture, with translucent surfaces, iridescent colors, and occasional bubble pops that cause the shape to reconfigure.\n\n18. **Magnetic Putty Stretch Sculpture**\n    A blob of soft, dark putty rests on a light pedestal while several moving magnets orbit around it; the blob stretches, forms spikes and tendrils that attach toward the magnets, then relaxes and merges back as magnets move away.\n\n19. **Stone Blocks Balancing Tower**\n    Irregular stone blocks fall in slow motion onto a platform, bouncing slightly before settling; a simple physics engine lets them stack into a precarious balancing tower sculpture that can collapse and re-form when new blocks land.\n\n20. **Light Ray Sculpture in Fog**\n    Invisible glass rods and plates form a stationary skeletal sculpture, while colored light beams sweep and rotate through a faint fog volume, refracting and reflecting to create visible “light sculptures” that shift as beams move.\n\n21. **3D Calligraphy Sculpture Drawing**\n    A glowing pen tip moves through space leaving a thick, semi-transparent ribbon trail; the trail hardens into a solid sculptural calligraphic form, with segments that can detach, reconnect, and slowly rotate as a unified artwork.\n\n22. **Growing Tree Trunk Wood Sculpture**\n    A trunk-like cylinder grows upward and outward, sprouting twisting roots and branches that thicken and branch again, forming a wooden sculpture; growth rings and bark patterns appear over time, with leaves optionally toggled on/off.\n\n23. **Metal Droplet Welding Sculpture**\n    A welding nozzle moves over a rotating frame, releasing hot metal droplets that fall, splash, and quickly solidify into beads, gradually building a metallic sculpture; fresh welds glow, then darken as they cool.\n\n24. **Snowflake Sculpture Condensation Chamber**\n    In a cold chamber, vapor particles drift and condense onto hovering seed points, forming fractal snowflake-like 3D sculptures that grow, branch, and occasionally shed small arms that float away and start new mini-structures.\n\n25. **Interactive Chisel and Hammer Stone Block**\n    A stone block sits center stage while a user-controlled chisel (small cylinder) and hammer (moving sphere) collide with its surface; each hit chips off labeled fragments and gradually reveals a rough human figure inside, with debris piling around the base."
+}

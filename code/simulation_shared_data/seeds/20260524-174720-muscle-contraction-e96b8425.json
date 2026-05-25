@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Muscle contraction",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:47:20",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Sliding Filament Sarcomere Zoom-In",
+      "description": "A transparent cylindrical muscle fiber contains repeating sarcomere units where red thick filaments and blue thin filaments slide past each other as calcium spheres attach to green troponin nodes, with labels and a length meter changing as the fiber shortens.",
+      "seed": "Sliding Filament Sarcomere Zoom-In: A transparent cylindrical muscle fiber contains repeating sarcomere units where red thick filaments and blue thin filaments slide past each other as calcium spheres attach to green troponin nodes, with labels and a length meter changing as the fiber shortens."
+    },
+    {
+      "number": "2",
+      "title": "Biceps Tendon–Bone Lever System",
+      "description": "A 3D arm model with a rigid bone bar, a red cylindrical muscle that shortens and thickens, and white tendons that pull on a jointed forearm, showing rotation at the elbow with angle labels and a torque meter as the muscle contracts and relaxes.",
+      "seed": "Biceps Tendon–Bone Lever System: A 3D arm model with a rigid bone bar, a red cylindrical muscle that shortens and thickens, and white tendons that pull on a jointed forearm, showing rotation at the elbow with angle labels and a torque meter as the muscle contracts and relaxes."
+    },
+    {
+      "number": "3",
+      "title": "Calcium Wave Triggering Muscle Contraction",
+      "description": "A long muscle fiber tube shows a traveling wave of yellow calcium particles diffusing from a central point along branching T-tubules, causing local segments of red contractile bands to shorten and glow briefly as the wave passes.",
+      "seed": "Calcium Wave Triggering Muscle Contraction: A long muscle fiber tube shows a traveling wave of yellow calcium particles diffusing from a central point along branching T-tubules, causing local segments of red contractile bands to shorten and glow briefly as the wave passes."
+    },
+    {
+      "number": "4",
+      "title": "ATP-Powered Myosin Cross-Bridge Cycling",
+      "description": "Inside a single sarcomere, green myosin heads pivot and attach/detach from blue actin filaments as small glowing ATP spheres collide, split into ADP + Pi particles, and transfer energy, with slow-motion toggles and labels on each state.",
+      "seed": "ATP-Powered Myosin Cross-Bridge Cycling: Inside a single sarcomere, green myosin heads pivot and attach/detach from blue actin filaments as small glowing ATP spheres collide, split into ADP + Pi particles, and transfer energy, with slow-motion toggles and labels on each state."
+    },
+    {
+      "number": "5",
+      "title": "Antagonistic Muscle Pair Around a Joint",
+      "description": "Two opposing muscle cylinders (red flexor, blue extensor) wrap around a central hinge joint; when one contracts and shortens the other lengthens and thins, rotating a central bone bar, with arrows and color-changing labels indicating active vs relaxed muscle.",
+      "seed": "Antagonistic Muscle Pair Around a Joint: Two opposing muscle cylinders (red flexor, blue extensor) wrap around a central hinge joint; when one contracts and shortens the other lengthens and thins, rotating a central bone bar, with arrows and color-changing labels indicating active vs relaxed muscle."
+    },
+    {
+      "number": "6",
+      "title": "Muscle Fatigue Particle Build-Up",
+      "description": "A contracting muscle block repeatedly shortens and lengthens while small purple “fatigue” particles (lactate or H+) accumulate inside; as particle density rises, contraction amplitude and speed gradually decrease, tracked by a performance graph.",
+      "seed": "Muscle Fatigue Particle Build-Up: A contracting muscle block repeatedly shortens and lengthens while small purple “fatigue” particles (lactate or H+) accumulate inside; as particle density rises, contraction amplitude and speed gradually decrease, tracked by a performance graph."
+    },
+    {
+      "number": "7",
+      "title": "Heart Ventricular Wall Contraction",
+      "description": "A semi-transparent heart ventricle shell shows synchronized radial contraction of red muscle fibers that wrap helically around it, ejecting blue blood particles through a valve ring, with a beat rate slider and stroke volume meter.",
+      "seed": "Heart Ventricular Wall Contraction: A semi-transparent heart ventricle shell shows synchronized radial contraction of red muscle fibers that wrap helically around it, ejecting blue blood particles through a valve ring, with a beat rate slider and stroke volume meter."
+    },
+    {
+      "number": "8",
+      "title": "Peristaltic Smooth Muscle Contraction in Intestine",
+      "description": "A pale cylindrical tube with circular muscle rings periodically contracts in a traveling wave, squeezing green food particle clusters along the lumen, with each ring briefly changing color as it contracts and relaxes.",
+      "seed": "Peristaltic Smooth Muscle Contraction in Intestine: A pale cylindrical tube with circular muscle rings periodically contracts in a traveling wave, squeezing green food particle clusters along the lumen, with each ring briefly changing color as it contracts and relaxes."
+    },
+    {
+      "number": "9",
+      "title": "Muscle Fiber Recruitment in a Whole Muscle",
+      "description": "A larger muscle cylinder is subdivided into many thin fiber bundles that light up and begin contracting in groups as load (a hanging weight block) increases, showing more fibers activating, thickening, and pulling down a spring scale.",
+      "seed": "Muscle Fiber Recruitment in a Whole Muscle: A larger muscle cylinder is subdivided into many thin fiber bundles that light up and begin contracting in groups as load (a hanging weight block) increases, showing more fibers activating, thickening, and pulling down a spring scale."
+    },
+    {
+      "number": "10",
+      "title": "Neuromuscular Junction Activation",
+      "description": "A motor neuron axon branches into several terminals that hover over a flat muscle surface; when an action potential glow runs down the axon, vesicles release neurotransmitter particles that diffuse across a synaptic cleft, causing local muscle patches to shorten and ripple outward.",
+      "seed": "Neuromuscular Junction Activation: A motor neuron axon branches into several terminals that hover over a flat muscle surface; when an action potential glow runs down the axon, vesicles release neurotransmitter particles that diffuse across a synaptic cleft, causing local muscle patches to shorten and ripple outward."
+    },
+    {
+      "number": "11",
+      "title": "3D Myofibril Lattice Contraction",
+      "description": "A cubic lattice of sarcomeres spans between fixed transparent frames; when activated, each unit cell shortens along one axis, causing the whole cube to contract, bulge, and slightly rotate, with color-coded stress lines and displacement vectors.",
+      "seed": "3D Myofibril Lattice Contraction: A cubic lattice of sarcomeres spans between fixed transparent frames; when activated, each unit cell shortens along one axis, causing the whole cube to contract, bulge, and slightly rotate, with color-coded stress lines and displacement vectors."
+    },
+    {
+      "number": "12",
+      "title": "Muscle Spindle Stretch Reflex",
+      "description": "A muscle cylinder with embedded spindle sensors stretches when a weight pulls on a connected tendon; spindle capsules elongate and glow, sending a signal along a nerve fiber to trigger a quick compensatory contraction that lifts the weight back.",
+      "seed": "Muscle Spindle Stretch Reflex: A muscle cylinder with embedded spindle sensors stretches when a weight pulls on a connected tendon; spindle capsules elongate and glow, sending a signal along a nerve fiber to trigger a quick compensatory contraction that lifts the weight back."
+    },
+    {
+      "number": "13",
+      "title": "Robotic Actuator Mimicking Muscle Contraction",
+      "description": "A mechanical model shows a bundle of contractile “artificial muscles” (thin cylinders) that shorten when “energized” and pull a robot arm segment upward, with visual electric pulses traveling along cables and force arrows growing as more actuators engage.",
+      "seed": "Robotic Actuator Mimicking Muscle Contraction: A mechanical model shows a bundle of contractile “artificial muscles” (thin cylinders) that shorten when “energized” and pull a robot arm segment upward, with visual electric pulses traveling along cables and force arrows growing as more actuators engage."
+    },
+    {
+      "number": "14",
+      "title": "Isometric vs Isotonic Muscle Contraction Demo",
+      "description": "Two identical muscle blocks connect to different setups: one pulls a locked bar (length fixed) while tension meters glow and rise, the other lifts a movable weight while length changes; users can adjust load and see contrasting shortening and tension patterns.",
+      "seed": "Isometric vs Isotonic Muscle Contraction Demo: Two identical muscle blocks connect to different setups: one pulls a locked bar (length fixed) while tension meters glow and rise, the other lifts a movable weight while length changes; users can adjust load and see contrasting shortening and tension patterns."
+    },
+    {
+      "number": "15",
+      "title": "3D Fascicle Architecture Comparison",
+      "description": "Multiple muscles arranged side by side (parallel, pennate, circular) each made of visible fascicle bundles; when they all contract with the same fiber shortening, the scene shows different overall shape changes, force arrows, and range-of-motion outcomes.",
+      "seed": "3D Fascicle Architecture Comparison: Multiple muscles arranged side by side (parallel, pennate, circular) each made of visible fascicle bundles; when they all contract with the same fiber shortening, the scene shows different overall shape changes, force arrows, and range-of-motion outcomes."
+    },
+    {
+      "number": "16",
+      "title": "Muscle Tear and Repair Over Time",
+      "description": "A muscle segment with fiber bundles experiences a sudden over-stretch, causing some fibers to snap and glow red at the rupture; over simulated time, transparent repair patches bridge gaps, then remodel into new fibers that gradually regain contraction strength.",
+      "seed": "Muscle Tear and Repair Over Time: A muscle segment with fiber bundles experiences a sudden over-stretch, causing some fibers to snap and glow red at the rupture; over simulated time, transparent repair patches bridge gaps, then remodel into new fibers that gradually regain contraction strength."
+    },
+    {
+      "number": "17",
+      "title": "EMG Signal to Muscle Contraction Visualizer",
+      "description": "Above a contracting muscle block, a floating line graph scrolls by showing EMG-like spikes synchronized with glowing activation waves inside the muscle, and the contraction amplitude of the muscle and joint rotation below respond to signal intensity.",
+      "seed": "EMG Signal to Muscle Contraction Visualizer: Above a contracting muscle block, a floating line graph scrolls by showing EMG-like spikes synchronized with glowing activation waves inside the muscle, and the contraction amplitude of the muscle and joint rotation below respond to signal intensity."
+    },
+    {
+      "number": "18",
+      "title": "Diaphragm Contraction and Lung Expansion",
+      "description": "A domed diaphragm sheet contracts and flattens downward, pulling open a transparent ribcage and expanding semi-transparent lung balloons filled with blue air particles that flow in and out through a trachea tube, with volume labels updating.",
+      "seed": "Diaphragm Contraction and Lung Expansion: A domed diaphragm sheet contracts and flattens downward, pulling open a transparent ribcage and expanding semi-transparent lung balloons filled with blue air particles that flow in and out through a trachea tube, with volume labels updating."
+    },
+    {
+      "number": "19",
+      "title": "Wave-Like Skeletal Muscle Twitch Summation",
+      "description": "A row of identical muscle segments receives repeated activation pulses at adjustable intervals; each segment’s contraction curve overlaps in time, visually stacking as the red blocks’ shortening grows from single twitches to fused tetanus with continuous glow.",
+      "seed": "Wave-Like Skeletal Muscle Twitch Summation: A row of identical muscle segments receives repeated activation pulses at adjustable intervals; each segment’s contraction curve overlaps in time, visually stacking as the red blocks’ shortening grows from single twitches to fused tetanus with continuous glow."
+    },
+    {
+      "number": "20",
+      "title": "Muscle Contraction and Heat Generation",
+      "description": "A muscle block repeatedly contracts while its color gradually shifts from cool blue to warm orange/red; small red heat particles drift outward and are carried away by a surrounding semi-transparent fluid, with a temperature bar rising and falling.",
+      "seed": "Muscle Contraction and Heat Generation: A muscle block repeatedly contracts while its color gradually shifts from cool blue to warm orange/red; small red heat particles drift outward and are carried away by a surrounding semi-transparent fluid, with a temperature bar rising and falling."
+    },
+    {
+      "number": "21",
+      "title": "Cross-Sectional Muscle Contraction Thickness Change",
+      "description": "A circular cross-section slice of muscle shows many polygonal fibers that contract and bulge radially, making the entire cross-section expand in diameter while end-to-end length shrinks, with a dynamic radius meter and fiber labels.",
+      "seed": "Cross-Sectional Muscle Contraction Thickness Change: A circular cross-section slice of muscle shows many polygonal fibers that contract and bulge radially, making the entire cross-section expand in diameter while end-to-end length shrinks, with a dynamic radius meter and fiber labels."
+    },
+    {
+      "number": "22",
+      "title": "Cardiac Conduction to Synchronized Muscle Contraction",
+      "description": "A semi-transparent heart shows a bright conduction wave traveling from SA node through atria to ventricles; as the wave reaches each region, local muscle fibers contract in sequence, with small arrows showing blood flow direction through chambers.",
+      "seed": "Cardiac Conduction to Synchronized Muscle Contraction: A semi-transparent heart shows a bright conduction wave traveling from SA node through atria to ventricles; as the wave reaches each region, local muscle fibers contract in sequence, with small arrows showing blood flow direction through chambers."
+    },
+    {
+      "number": "23",
+      "title": "Muscle Pump and Blood Flow in Veins",
+      "description": "A contracting calf muscle block surrounds a flexible vein tube filled with red blood particles and one-way valve flaps; as the muscle rhythmically contracts and relaxes, it compresses the vein, pushing particles upward while valves prevent backflow.",
+      "seed": "Muscle Pump and Blood Flow in Veins: A contracting calf muscle block surrounds a flexible vein tube filled with red blood particles and one-way valve flaps; as the muscle rhythmically contracts and relaxes, it compresses the vein, pushing particles upward while valves prevent backflow."
+    },
+    {
+      "number": "24",
+      "title": "Microscopic Actin-Myosin Network in Cell Cortex",
+      "description": "A flat, semi-transparent cell disc shows a mesh of actin filaments with myosin mini-filaments pulling them together; as myosin clusters contract, the network condenses and wrinkles the cell surface, with glowing nodes at high-tension junctions.",
+      "seed": "Microscopic Actin-Myosin Network in Cell Cortex: A flat, semi-transparent cell disc shows a mesh of actin filaments with myosin mini-filaments pulling them together; as myosin clusters contract, the network condenses and wrinkles the cell surface, with glowing nodes at high-tension junctions."
+    },
+    {
+      "number": "25",
+      "title": "Symbolic “Muscle of Society” Contraction Model",
+      "description": "A central “muscle” ring formed by many small agent spheres contracts inward when connected “effort links” between them glow; the ring’s contraction pulls on a set of external blocks representing goals, moving them closer as more agents synchronize and attach.",
+      "seed": "Symbolic “Muscle of Society” Contraction Model: A central “muscle” ring formed by many small agent spheres contracts inward when connected “effort links” between them glow; the ring’s contraction pulls on a set of external blocks representing goals, moving them closer as more agents synchronize and attach."
+    }
+  ],
+  "raw_output": "Here are strong **Muscle contraction simulation inputs** you can plug into your prompt:\n\n1. **Sliding Filament Sarcomere Zoom-In**\n   A transparent cylindrical muscle fiber contains repeating sarcomere units where red thick filaments and blue thin filaments slide past each other as calcium spheres attach to green troponin nodes, with labels and a length meter changing as the fiber shortens.\n\n2. **Biceps Tendon–Bone Lever System**\n   A 3D arm model with a rigid bone bar, a red cylindrical muscle that shortens and thickens, and white tendons that pull on a jointed forearm, showing rotation at the elbow with angle labels and a torque meter as the muscle contracts and relaxes.\n\n3. **Calcium Wave Triggering Muscle Contraction**\n   A long muscle fiber tube shows a traveling wave of yellow calcium particles diffusing from a central point along branching T-tubules, causing local segments of red contractile bands to shorten and glow briefly as the wave passes.\n\n4. **ATP-Powered Myosin Cross-Bridge Cycling**\n   Inside a single sarcomere, green myosin heads pivot and attach/detach from blue actin filaments as small glowing ATP spheres collide, split into ADP + Pi particles, and transfer energy, with slow-motion toggles and labels on each state.\n\n5. **Antagonistic Muscle Pair Around a Joint**\n   Two opposing muscle cylinders (red flexor, blue extensor) wrap around a central hinge joint; when one contracts and shortens the other lengthens and thins, rotating a central bone bar, with arrows and color-changing labels indicating active vs relaxed muscle.\n\n6. **Muscle Fatigue Particle Build-Up**\n   A contracting muscle block repeatedly shortens and lengthens while small purple “fatigue” particles (lactate or H+) accumulate inside; as particle density rises, contraction amplitude and speed gradually decrease, tracked by a performance graph.\n\n7. **Heart Ventricular Wall Contraction**\n   A semi-transparent heart ventricle shell shows synchronized radial contraction of red muscle fibers that wrap helically around it, ejecting blue blood particles through a valve ring, with a beat rate slider and stroke volume meter.\n\n8. **Peristaltic Smooth Muscle Contraction in Intestine**\n   A pale cylindrical tube with circular muscle rings periodically contracts in a traveling wave, squeezing green food particle clusters along the lumen, with each ring briefly changing color as it contracts and relaxes.\n\n9. **Muscle Fiber Recruitment in a Whole Muscle**\n   A larger muscle cylinder is subdivided into many thin fiber bundles that light up and begin contracting in groups as load (a hanging weight block) increases, showing more fibers activating, thickening, and pulling down a spring scale.\n\n10. **Neuromuscular Junction Activation**\n    A motor neuron axon branches into several terminals that hover over a flat muscle surface; when an action potential glow runs down the axon, vesicles release neurotransmitter particles that diffuse across a synaptic cleft, causing local muscle patches to shorten and ripple outward.\n\n11. **3D Myofibril Lattice Contraction**\n    A cubic lattice of sarcomeres spans between fixed transparent frames; when activated, each unit cell shortens along one axis, causing the whole cube to contract, bulge, and slightly rotate, with color-coded stress lines and displacement vectors.\n\n12. **Muscle Spindle Stretch Reflex**\n    A muscle cylinder with embedded spindle sensors stretches when a weight pulls on a connected tendon; spindle capsules elongate and glow, sending a signal along a nerve fiber to trigger a quick compensatory contraction that lifts the weight back.\n\n13. **Robotic Actuator Mimicking Muscle Contraction**\n    A mechanical model shows a bundle of contractile “artificial muscles” (thin cylinders) that shorten when “energized” and pull a robot arm segment upward, with visual electric pulses traveling along cables and force arrows growing as more actuators engage.\n\n14. **Isometric vs Isotonic Muscle Contraction Demo**\n    Two identical muscle blocks connect to different setups: one pulls a locked bar (length fixed) while tension meters glow and rise, the other lifts a movable weight while length changes; users can adjust load and see contrasting shortening and tension patterns.\n\n15. **3D Fascicle Architecture Comparison**\n    Multiple muscles arranged side by side (parallel, pennate, circular) each made of visible fascicle bundles; when they all contract with the same fiber shortening, the scene shows different overall shape changes, force arrows, and range-of-motion outcomes.\n\n16. **Muscle Tear and Repair Over Time**\n    A muscle segment with fiber bundles experiences a sudden over-stretch, causing some fibers to snap and glow red at the rupture; over simulated time, transparent repair patches bridge gaps, then remodel into new fibers that gradually regain contraction strength.\n\n17. **EMG Signal to Muscle Contraction Visualizer**\n    Above a contracting muscle block, a floating line graph scrolls by showing EMG-like spikes synchronized with glowing activation waves inside the muscle, and the contraction amplitude of the muscle and joint rotation below respond to signal intensity.\n\n18. **Diaphragm Contraction and Lung Expansion**\n    A domed diaphragm sheet contracts and flattens downward, pulling open a transparent ribcage and expanding semi-transparent lung balloons filled with blue air particles that flow in and out through a trachea tube, with volume labels updating.\n\n19. **Wave-Like Skeletal Muscle Twitch Summation**\n    A row of identical muscle segments receives repeated activation pulses at adjustable intervals; each segment’s contraction curve overlaps in time, visually stacking as the red blocks’ shortening grows from single twitches to fused tetanus with continuous glow.\n\n20. **Muscle Contraction and Heat Generation**\n    A muscle block repeatedly contracts while its color gradually shifts from cool blue to warm orange/red; small red heat particles drift outward and are carried away by a surrounding semi-transparent fluid, with a temperature bar rising and falling.\n\n21. **Cross-Sectional Muscle Contraction Thickness Change**\n    A circular cross-section slice of muscle shows many polygonal fibers that contract and bulge radially, making the entire cross-section expand in diameter while end-to-end length shrinks, with a dynamic radius meter and fiber labels.\n\n22. **Cardiac Conduction to Synchronized Muscle Contraction**\n    A semi-transparent heart shows a bright conduction wave traveling from SA node through atria to ventricles; as the wave reaches each region, local muscle fibers contract in sequence, with small arrows showing blood flow direction through chambers.\n\n23. **Muscle Pump and Blood Flow in Veins**\n    A contracting calf muscle block surrounds a flexible vein tube filled with red blood particles and one-way valve flaps; as the muscle rhythmically contracts and relaxes, it compresses the vein, pushing particles upward while valves prevent backflow.\n\n24. **Microscopic Actin-Myosin Network in Cell Cortex**\n    A flat, semi-transparent cell disc shows a mesh of actin filaments with myosin mini-filaments pulling them together; as myosin clusters contract, the network condenses and wrinkles the cell surface, with glowing nodes at high-tension junctions.\n\n25. **Symbolic “Muscle of Society” Contraction Model**\n    A central “muscle” ring formed by many small agent spheres contracts inward when connected “effort links” between them glow; the ring’s contraction pulls on a set of external blocks representing goals, moving them closer as more agents synchronize and attach."
+}

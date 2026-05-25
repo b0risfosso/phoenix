@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Sorting systems",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:01:22",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Gravity-Driven Ball Sorting Ramp",
+      "description": "A 3D system of sloped transparent chutes where colored spheres roll down, collide with pegs, and are sorted into labeled bins by size and color, with trails showing their paths and counters above each bin.",
+      "seed": "Gravity-Driven Ball Sorting Ramp: A 3D system of sloped transparent chutes where colored spheres roll down, collide with pegs, and are sorted into labeled bins by size and color, with trails showing their paths and counters above each bin."
+    },
+    {
+      "number": "2",
+      "title": "Robotic Arm Package Sorter",
+      "description": "A network of conveyor belts carries differently sized boxes while robotic arms pivot, grab, and place them into color-coded platforms based on labels on their sides, with glowing lines briefly attaching arm grippers to boxes during transfer.",
+      "seed": "Robotic Arm Package Sorter: A network of conveyor belts carries differently sized boxes while robotic arms pivot, grab, and place them into color-coded platforms based on labels on their sides, with glowing lines briefly attaching arm grippers to boxes during transfer."
+    },
+    {
+      "number": "3",
+      "title": "Air-Jet Particle Sorter",
+      "description": "Tiny particles fall through a clear vertical chamber and get deflected left or right by timed air jets that push them into separate tubes by mass (light ones float further), with swirling dust particles and digital meters counting each output stream.",
+      "seed": "Air-Jet Particle Sorter: Tiny particles fall through a clear vertical chamber and get deflected left or right by timed air jets that push them into separate tubes by mass (light ones float further), with swirling dust particles and digital meters counting each output stream."
+    },
+    {
+      "number": "4",
+      "title": "Magnetic Recycling Sort Line",
+      "description": "Mixed metal and plastic objects move along a belt over spinning magnetic drums that attract and lift ferrous pieces up into one chute while non-magnetic items continue into others, with visible magnetic field lines and colored halos around attracted items.",
+      "seed": "Magnetic Recycling Sort Line: Mixed metal and plastic objects move along a belt over spinning magnetic drums that attract and lift ferrous pieces up into one chute while non-magnetic items continue into others, with visible magnetic field lines and colored halos around attracted items."
+    },
+    {
+      "number": "5",
+      "title": "Floating Bubble Color Sorter",
+      "description": "Semi-transparent bubbles of different colors rise in a tall water column where rotating paddles and gentle currents nudge them into matching-colored ring gates that glow when the correct bubble passes through.",
+      "seed": "Floating Bubble Color Sorter: Semi-transparent bubbles of different colors rise in a tall water column where rotating paddles and gentle currents nudge them into matching-colored ring gates that glow when the correct bubble passes through."
+    },
+    {
+      "number": "6",
+      "title": "Size-Based Marble Sieve Tower",
+      "description": "A vertical stack of vibrating sieve plates with decreasing hole sizes lets marbles drop and bounce from level to level until they get trapped in the first plate that can’t pass them, with each level color-coded and labeled from largest to smallest.",
+      "seed": "Size-Based Marble Sieve Tower: A vertical stack of vibrating sieve plates with decreasing hole sizes lets marbles drop and bounce from level to level until they get trapped in the first plate that can’t pass them, with each level color-coded and labeled from largest to smallest."
+    },
+    {
+      "number": "7",
+      "title": "DNA Strand Sorting Nanobot Swarm",
+      "description": "In a translucent cell-like chamber, short colored “DNA” rods drift while tiny nanobots orbit, scan, and then attach to specific color patterns, towing matching rods into separate glowing compartments that seal behind them.",
+      "seed": "DNA Strand Sorting Nanobot Swarm: In a translucent cell-like chamber, short colored “DNA” rods drift while tiny nanobots orbit, scan, and then attach to specific color patterns, towing matching rods into separate glowing compartments that seal behind them."
+    },
+    {
+      "number": "8",
+      "title": "Airport Luggage Carousel Sorter",
+      "description": "Suitcases with different colored tags ride on intersecting conveyor loops while overhead scanners flash and trigger diverter arms that rotate and push each bag down a ramp to the correct carousel, with floating label text above each moving bag.",
+      "seed": "Airport Luggage Carousel Sorter: Suitcases with different colored tags ride on intersecting conveyor loops while overhead scanners flash and trigger diverter arms that rotate and push each bag down a ramp to the correct carousel, with floating label text above each moving bag."
+    },
+    {
+      "number": "9",
+      "title": "Branching River Sediment Sorter",
+      "description": "A transparent riverbed model shows water carrying particles of sand, gravel, and pebbles that settle and slide differently as the flow splits around rocks; heavier particles drop into deeper channels while lighter ones continue, forming layered bars.",
+      "seed": "Branching River Sediment Sorter: A transparent riverbed model shows water carrying particles of sand, gravel, and pebbles that settle and slide differently as the flow splits around rocks; heavier particles drop into deeper channels while lighter ones continue, forming layered bars."
+    },
+    {
+      "number": "10",
+      "title": "Planetary Debris Orbital Sorter",
+      "description": "Shards of space debris orbit a central planet while adjustable ring-shaped “capture orbits” glow and gently attract objects of specific mass and velocity, causing some to spiral in and others to be flung outward into labeled orbital bands.",
+      "seed": "Planetary Debris Orbital Sorter: Shards of space debris orbit a central planet while adjustable ring-shaped “capture orbits” glow and gently attract objects of specific mass and velocity, causing some to spiral in and others to be flung outward into labeled orbital bands."
+    },
+    {
+      "number": "11",
+      "title": "Warehouse Drone Shelf Sorter",
+      "description": "Small flying drones pick up cubic packages from a central intake platform and then navigate 3D shelf aisles, hovering, rotating, and inserting each package into a matching-color shelf slot, leaving faint path trails that fade over time.",
+      "seed": "Warehouse Drone Shelf Sorter: Small flying drones pick up cubic packages from a central intake platform and then navigate 3D shelf aisles, hovering, rotating, and inserting each package into a matching-color shelf slot, leaving faint path trails that fade over time."
+    },
+    {
+      "number": "12",
+      "title": "Thermal Density Liquid Column Sorter",
+      "description": "Colored droplets of different densities are released in a tall transparent cylinder with a vertical temperature gradient so they rise, sink, or hover at different levels, gradually forming stratified layers that pulse gently with convection currents.",
+      "seed": "Thermal Density Liquid Column Sorter: Colored droplets of different densities are released in a tall transparent cylinder with a vertical temperature gradient so they rise, sink, or hover at different levels, gradually forming stratified layers that pulse gently with convection currents."
+    },
+    {
+      "number": "13",
+      "title": "Sound Wave Ball Sorting Tunnel",
+      "description": "A clear horizontal tube has standing sound waves that create nodes and antinodes; light balls get trapped and bounced in high-vibration zones while heavy balls roll through to the end, splitting into two labeled collection areas.",
+      "seed": "Sound Wave Ball Sorting Tunnel: A clear horizontal tube has standing sound waves that create nodes and antinodes; light balls get trapped and bounced in high-vibration zones while heavy balls roll through to the end, splitting into two labeled collection areas."
+    },
+    {
+      "number": "14",
+      "title": "Coin Thickness and Diameter Sort Machine",
+      "description": "Spinning discs, tilted ramps, and narrow slots sort falling coins by letting only certain diameters pass, while thicker coins get stuck and redirected by rotating gates, with metallic clinks, subtle spins, and counters updating above each chute.",
+      "seed": "Coin Thickness and Diameter Sort Machine: Spinning discs, tilted ramps, and narrow slots sort falling coins by letting only certain diameters pass, while thicker coins get stuck and redirected by rotating gates, with metallic clinks, subtle spins, and counters updating above each chute."
+    },
+    {
+      "number": "15",
+      "title": "Traffic Intersection Route Sorter",
+      "description": "A 3D model of a multi-level overpass shows tiny cars of different colors approaching and then being directed by switching lanes, rising ramps, and merging tunnels into designated color-coded exits, leaving short fading light trails behind them.",
+      "seed": "Traffic Intersection Route Sorter: A 3D model of a multi-level overpass shows tiny cars of different colors approaching and then being directed by switching lanes, rising ramps, and merging tunnels into designated color-coded exits, leaving short fading light trails behind them."
+    },
+    {
+      "number": "16",
+      "title": "Mail Tube Pneumatic Sort Network",
+      "description": "Cylindrical mail capsules shoot through a transparent 3D maze of pneumatic tubes, splitting at branching junctions where pressure valves glow and reroute them to different floors, with arrows and labels hovering at each node.",
+      "seed": "Mail Tube Pneumatic Sort Network: Cylindrical mail capsules shoot through a transparent 3D maze of pneumatic tubes, splitting at branching junctions where pressure valves glow and reroute them to different floors, with arrows and labels hovering at each node."
+    },
+    {
+      "number": "17",
+      "title": "Factory Part Gravity Spiral Sorter",
+      "description": "Mixed mechanical parts slide down a wide spiral ramp with adjustable barriers and small rotating paddles that guide them into side channels based on shape (gear, rod, plate), with each part type glowing its own color when entering the right slot.",
+      "seed": "Factory Part Gravity Spiral Sorter: Mixed mechanical parts slide down a wide spiral ramp with adjustable barriers and small rotating paddles that guide them into side channels based on shape (gear, rod, plate), with each part type glowing its own color when entering the right slot."
+    },
+    {
+      "number": "18",
+      "title": "Library Book Robot Sort Stacks",
+      "description": "Autonomous wheeled robots carry books (colored spines) along floor tracks, scan their labels with small cone-shaped scanners, and then rise on vertical lifts to deposit them on specific shelves, with hovering labels showing classification codes.",
+      "seed": "Library Book Robot Sort Stacks: Autonomous wheeled robots carry books (colored spines) along floor tracks, scan their labels with small cone-shaped scanners, and then rise on vertical lifts to deposit them on specific shelves, with hovering labels showing classification codes."
+    },
+    {
+      "number": "19",
+      "title": "Mag-Lev Chip Sorting Carousel",
+      "description": "Computer chips levitate slightly over a circular track using magnetic fields; as the track rotates, electromagnets pulse on and off to pull different chip types into radial lanes, where they slide inward and stack into neat columns.",
+      "seed": "Mag-Lev Chip Sorting Carousel: Computer chips levitate slightly over a circular track using magnetic fields; as the track rotates, electromagnets pulse on and off to pull different chip types into radial lanes, where they slide inward and stack into neat columns."
+    },
+    {
+      "number": "20",
+      "title": "Bubble-Up Gas Sorting Columns",
+      "description": "In multiple side-by-side transparent columns, gas bubbles of different sizes rise through viscous liquid, merging, splitting, and changing speed; baffles and angled plates guide different bubble sizes into separate collection chambers at the top.",
+      "seed": "Bubble-Up Gas Sorting Columns: In multiple side-by-side transparent columns, gas bubbles of different sizes rise through viscous liquid, merging, splitting, and changing speed; baffles and angled plates guide different bubble sizes into separate collection chambers at the top."
+    },
+    {
+      "number": "21",
+      "title": "Crystal Growth Impurity Sorter",
+      "description": "In a slowly cooling transparent solution, different colored ions drift and then either attach to a growing central crystal or are repelled and drift into side collectors, visually separating “pure” and “impurity” particles by their bonding behavior.",
+      "seed": "Crystal Growth Impurity Sorter: In a slowly cooling transparent solution, different colored ions drift and then either attach to a growing central crystal or are repelled and drift into side collectors, visually separating “pure” and “impurity” particles by their bonding behavior."
+    },
+    {
+      "number": "22",
+      "title": "Robotic Fruit Grader and Sorter",
+      "description": "Fruits roll along a gently sloped belt past a scanning arch that projects colored beams; robotic paddles nudge them into bins based on size and color, while bruised fruits (marked with darker textures) get diverted into a separate transparent chute.",
+      "seed": "Robotic Fruit Grader and Sorter: Fruits roll along a gently sloped belt past a scanning arch that projects colored beams; robotic paddles nudge them into bins based on size and color, while bruised fruits (marked with darker textures) get diverted into a separate transparent chute."
+    },
+    {
+      "number": "23",
+      "title": "Wastewater Particle Settling Sorter",
+      "description": "A clear settling tank shows suspended particles swirling in, then gradually sinking, floating, or staying mid-water; rotating skimmers and bottom scrapers move to collect floating and settled layers into labeled compartments.",
+      "seed": "Wastewater Particle Settling Sorter: A clear settling tank shows suspended particles swirling in, then gradually sinking, floating, or staying mid-water; rotating skimmers and bottom scrapers move to collect floating and settled layers into labeled compartments."
+    },
+    {
+      "number": "24",
+      "title": "3D Printer Filament Color Sort Feeder",
+      "description": "Multiple colored filament spools rotate on a frame while a central feeder arm slides and pivots to grab and plug one filament at a time into a print head, detaching and reattaching as it sorts and queues colors in a visible transparent guide tube.",
+      "seed": "3D Printer Filament Color Sort Feeder: Multiple colored filament spools rotate on a frame while a central feeder arm slides and pivots to grab and plug one filament at a time into a print head, detaching and reattaching as it sorts and queues colors in a visible transparent guide tube."
+    },
+    {
+      "number": "25",
+      "title": "Data Packet Routing Network Sorter",
+      "description": "Glowing cubes representing data packets pulse along 3D wireframe network paths; at each node, they are sorted by color and priority into different conduits that brighten briefly as packets flow through, with counters floating above each endpoint.",
+      "seed": "Data Packet Routing Network Sorter: Glowing cubes representing data packets pulse along 3D wireframe network paths; at each node, they are sorted by color and priority into different conduits that brighten briefly as packets flow through, with counters floating above each endpoint."
+    }
+  ],
+  "raw_output": "Here are strong **Sorting systems simulation inputs** you can plug into your prompt:\n\n1. **Gravity-Driven Ball Sorting Ramp**\n   A 3D system of sloped transparent chutes where colored spheres roll down, collide with pegs, and are sorted into labeled bins by size and color, with trails showing their paths and counters above each bin.\n\n2. **Robotic Arm Package Sorter**\n   A network of conveyor belts carries differently sized boxes while robotic arms pivot, grab, and place them into color-coded platforms based on labels on their sides, with glowing lines briefly attaching arm grippers to boxes during transfer.\n\n3. **Air-Jet Particle Sorter**\n   Tiny particles fall through a clear vertical chamber and get deflected left or right by timed air jets that push them into separate tubes by mass (light ones float further), with swirling dust particles and digital meters counting each output stream.\n\n4. **Magnetic Recycling Sort Line**\n   Mixed metal and plastic objects move along a belt over spinning magnetic drums that attract and lift ferrous pieces up into one chute while non-magnetic items continue into others, with visible magnetic field lines and colored halos around attracted items.\n\n5. **Floating Bubble Color Sorter**\n   Semi-transparent bubbles of different colors rise in a tall water column where rotating paddles and gentle currents nudge them into matching-colored ring gates that glow when the correct bubble passes through.\n\n6. **Size-Based Marble Sieve Tower**\n   A vertical stack of vibrating sieve plates with decreasing hole sizes lets marbles drop and bounce from level to level until they get trapped in the first plate that can’t pass them, with each level color-coded and labeled from largest to smallest.\n\n7. **DNA Strand Sorting Nanobot Swarm**\n   In a translucent cell-like chamber, short colored “DNA” rods drift while tiny nanobots orbit, scan, and then attach to specific color patterns, towing matching rods into separate glowing compartments that seal behind them.\n\n8. **Airport Luggage Carousel Sorter**\n   Suitcases with different colored tags ride on intersecting conveyor loops while overhead scanners flash and trigger diverter arms that rotate and push each bag down a ramp to the correct carousel, with floating label text above each moving bag.\n\n9. **Branching River Sediment Sorter**\n   A transparent riverbed model shows water carrying particles of sand, gravel, and pebbles that settle and slide differently as the flow splits around rocks; heavier particles drop into deeper channels while lighter ones continue, forming layered bars.\n\n10. **Planetary Debris Orbital Sorter**\n    Shards of space debris orbit a central planet while adjustable ring-shaped “capture orbits” glow and gently attract objects of specific mass and velocity, causing some to spiral in and others to be flung outward into labeled orbital bands.\n\n11. **Warehouse Drone Shelf Sorter**\n    Small flying drones pick up cubic packages from a central intake platform and then navigate 3D shelf aisles, hovering, rotating, and inserting each package into a matching-color shelf slot, leaving faint path trails that fade over time.\n\n12. **Thermal Density Liquid Column Sorter**\n    Colored droplets of different densities are released in a tall transparent cylinder with a vertical temperature gradient so they rise, sink, or hover at different levels, gradually forming stratified layers that pulse gently with convection currents.\n\n13. **Sound Wave Ball Sorting Tunnel**\n    A clear horizontal tube has standing sound waves that create nodes and antinodes; light balls get trapped and bounced in high-vibration zones while heavy balls roll through to the end, splitting into two labeled collection areas.\n\n14. **Coin Thickness and Diameter Sort Machine**\n    Spinning discs, tilted ramps, and narrow slots sort falling coins by letting only certain diameters pass, while thicker coins get stuck and redirected by rotating gates, with metallic clinks, subtle spins, and counters updating above each chute.\n\n15. **Traffic Intersection Route Sorter**\n    A 3D model of a multi-level overpass shows tiny cars of different colors approaching and then being directed by switching lanes, rising ramps, and merging tunnels into designated color-coded exits, leaving short fading light trails behind them.\n\n16. **Mail Tube Pneumatic Sort Network**\n    Cylindrical mail capsules shoot through a transparent 3D maze of pneumatic tubes, splitting at branching junctions where pressure valves glow and reroute them to different floors, with arrows and labels hovering at each node.\n\n17. **Factory Part Gravity Spiral Sorter**\n    Mixed mechanical parts slide down a wide spiral ramp with adjustable barriers and small rotating paddles that guide them into side channels based on shape (gear, rod, plate), with each part type glowing its own color when entering the right slot.\n\n18. **Library Book Robot Sort Stacks**\n    Autonomous wheeled robots carry books (colored spines) along floor tracks, scan their labels with small cone-shaped scanners, and then rise on vertical lifts to deposit them on specific shelves, with hovering labels showing classification codes.\n\n19. **Mag-Lev Chip Sorting Carousel**\n    Computer chips levitate slightly over a circular track using magnetic fields; as the track rotates, electromagnets pulse on and off to pull different chip types into radial lanes, where they slide inward and stack into neat columns.\n\n20. **Bubble-Up Gas Sorting Columns**\n    In multiple side-by-side transparent columns, gas bubbles of different sizes rise through viscous liquid, merging, splitting, and changing speed; baffles and angled plates guide different bubble sizes into separate collection chambers at the top.\n\n21. **Crystal Growth Impurity Sorter**\n    In a slowly cooling transparent solution, different colored ions drift and then either attach to a growing central crystal or are repelled and drift into side collectors, visually separating “pure” and “impurity” particles by their bonding behavior.\n\n22. **Robotic Fruit Grader and Sorter**\n    Fruits roll along a gently sloped belt past a scanning arch that projects colored beams; robotic paddles nudge them into bins based on size and color, while bruised fruits (marked with darker textures) get diverted into a separate transparent chute.\n\n23. **Wastewater Particle Settling Sorter**\n    A clear settling tank shows suspended particles swirling in, then gradually sinking, floating, or staying mid-water; rotating skimmers and bottom scrapers move to collect floating and settled layers into labeled compartments.\n\n24. **3D Printer Filament Color Sort Feeder**\n    Multiple colored filament spools rotate on a frame while a central feeder arm slides and pivots to grab and plug one filament at a time into a print head, detaching and reattaching as it sorts and queues colors in a visible transparent guide tube.\n\n25. **Data Packet Routing Network Sorter**\n    Glowing cubes representing data packets pulse along 3D wireframe network paths; at each node, they are sorted by color and priority into different conduits that brighten briefly as packets flow through, with counters floating above each endpoint."
+}

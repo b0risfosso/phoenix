@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Precipitation",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:44:15",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Cloud-to-Rain Cycle in a Mini Atmosphere Box",
+      "description": "A transparent box containing floating vapor particles that slowly condense into clustered droplets inside a semi-transparent cloud volume, then detach and fall as raindrops onto a textured ground plane, forming shallow puddles that grow and ripple on impact.",
+      "seed": "Cloud-to-Rain Cycle in a Mini Atmosphere Box: A transparent box containing floating vapor particles that slowly condense into clustered droplets inside a semi-transparent cloud volume, then detach and fall as raindrops onto a textured ground plane, forming shallow puddles that grow and ripple on impact."
+    },
+    {
+      "number": "2",
+      "title": "Raindrop Formation on a Cooling Metal Plate",
+      "description": "A horizontal, slightly tilted metallic plate above a heat source with rising warm vapor particles that cool, attach as tiny droplets, merge into larger drops that slide and leave wet trails before dripping off the edge into a collecting tray with a filling-level meter.",
+      "seed": "Raindrop Formation on a Cooling Metal Plate: A horizontal, slightly tilted metallic plate above a heat source with rising warm vapor particles that cool, attach as tiny droplets, merge into larger drops that slide and leave wet trails before dripping off the edge into a collecting tray with a filling-level meter."
+    },
+    {
+      "number": "3",
+      "title": "Snowflake Growth and Descent",
+      "description": "Hexagonal seed crystals suspended in a cold transparent chamber that grow branching arms as vapor particles attach to them, then slowly fall with tumbling rotation, colliding and bouncing softly off a textured ground covered by an accumulating, height-varying snow layer.",
+      "seed": "Snowflake Growth and Descent: Hexagonal seed crystals suspended in a cold transparent chamber that grow branching arms as vapor particles attach to them, then slowly fall with tumbling rotation, colliding and bouncing softly off a textured ground covered by an accumulating, height-varying snow layer."
+    },
+    {
+      "number": "4",
+      "title": "Thunderstorm Cell with Updrafts and Downdrafts",
+      "description": "A tall atmospheric column where warm air parcels rise in spiraling tubes, water droplets condense into a darkening cloud, merge into heavier raindrops that fall in concentrated shafts, some evaporating midair, with colored arrows and labels for updraft, downdraft, and precipitation intensity.",
+      "seed": "Thunderstorm Cell with Updrafts and Downdrafts: A tall atmospheric column where warm air parcels rise in spiraling tubes, water droplets condense into a darkening cloud, merge into heavier raindrops that fall in concentrated shafts, some evaporating midair, with colored arrows and labels for updraft, downdraft, and precipitation intensity."
+    },
+    {
+      "number": "5",
+      "title": "Hailstone Layering Inside a Storm Cloud",
+      "description": "Spherical ice pellets circulate inside a rotating cloud volume, repeatedly lifted and dropped by animated vertical wind tubes, freezing new transparent layers each cycle, then finally falling out as multi-layered hailstones that bounce and roll across the ground on impact.",
+      "seed": "Hailstone Layering Inside a Storm Cloud: Spherical ice pellets circulate inside a rotating cloud volume, repeatedly lifted and dropped by animated vertical wind tubes, freezing new transparent layers each cycle, then finally falling out as multi-layered hailstones that bounce and roll across the ground on impact."
+    },
+    {
+      "number": "6",
+      "title": "Orographic Rain Over a Mountain Ridge",
+      "description": "A moving air mass represented by drifting particle clouds approaches a 3D mountain range, rises along the slope, condenses into denser clouds that produce rain on the windward side, while the leeward side stays dry, with color-coded humidity and rainfall intensity on the terrain.",
+      "seed": "Orographic Rain Over a Mountain Ridge: A moving air mass represented by drifting particle clouds approaches a 3D mountain range, rises along the slope, condenses into denser clouds that produce rain on the windward side, while the leeward side stays dry, with color-coded humidity and rainfall intensity on the terrain."
+    },
+    {
+      "number": "7",
+      "title": "Urban Rainfall and Runoff System",
+      "description": "A city block with roofs, roads, and drains where falling raindrop particles hit surfaces, some sticking as puddles that grow and merge, while others flow as shallow streams toward storm drains, tracked by colored flow lines and an animated gauge showing runoff volume over time.",
+      "seed": "Urban Rainfall and Runoff System: A city block with roofs, roads, and drains where falling raindrop particles hit surfaces, some sticking as puddles that grow and merge, while others flow as shallow streams toward storm drains, tracked by colored flow lines and an animated gauge showing runoff volume over time."
+    },
+    {
+      "number": "8",
+      "title": "Microscopic Crystal Precipitation in a Beaker",
+      "description": "A transparent beaker filled with a colored solution where invisible ions are represented by tiny particles that diffuse and occasionally bind to growing crystalline clusters, which branch and stack in 3D, while a turbidity meter bar gently rises as more solid precipitate forms and settles.",
+      "seed": "Microscopic Crystal Precipitation in a Beaker: A transparent beaker filled with a colored solution where invisible ions are represented by tiny particles that diffuse and occasionally bind to growing crystalline clusters, which branch and stack in 3D, while a turbidity meter bar gently rises as more solid precipitate forms and settles."
+    },
+    {
+      "number": "9",
+      "title": "Formation of Stalactites from Dripping Mineral Water",
+      "description": "A cave ceiling where mineral-rich droplets form at small nozzles, detach, and fall, leaving behind thin mineral rings that gradually grow into pointed stalactites, while droplets that hit the ground create stalagmites, with slow growth visualized via subtly expanding solid shapes over time.",
+      "seed": "Formation of Stalactites from Dripping Mineral Water: A cave ceiling where mineral-rich droplets form at small nozzles, detach, and fall, leaving behind thin mineral rings that gradually grow into pointed stalactites, while droplets that hit the ground create stalagmites, with slow growth visualized via subtly expanding solid shapes over time."
+    },
+    {
+      "number": "10",
+      "title": "Cloud Seeding Aircraft and Induced Rainfall",
+      "description": "A small plane model flies through a semi-transparent cloud volume, releasing streams of bright seed particles that trigger nearby vapor particles to condense into droplet clusters, which then merge and fall as enhanced rain under the flight path, with on/off toggles for seeding.",
+      "seed": "Cloud Seeding Aircraft and Induced Rainfall: A small plane model flies through a semi-transparent cloud volume, releasing streams of bright seed particles that trigger nearby vapor particles to condense into droplet clusters, which then merge and fall as enhanced rain under the flight path, with on/off toggles for seeding."
+    },
+    {
+      "number": "11",
+      "title": "Mixed-Phase Precipitation: Rain, Sleet, and Snow Layers",
+      "description": "A vertical atmospheric column sliced into temperature layers where snowflakes form at the top, partially melt into sleet in a mid-warm layer, and fully melt into raindrops in the lowest warm layer, with particles changing shape and color as they pass through each region.",
+      "seed": "Mixed-Phase Precipitation: Rain, Sleet, and Snow Layers: A vertical atmospheric column sliced into temperature layers where snowflakes form at the top, partially melt into sleet in a mid-warm layer, and fully melt into raindrops in the lowest warm layer, with particles changing shape and color as they pass through each region."
+    },
+    {
+      "number": "12",
+      "title": "Acid Rain Impact on a Marble Statue",
+      "description": "A classical statue stands on a pedestal while mildly acidic raindrops fall from a cloud above; each impact slowly erodes the surface, changing its texture and slightly rounding details over time, with a color-changing pH indicator pool collecting dripping water at the base.",
+      "seed": "Acid Rain Impact on a Marble Statue: A classical statue stands on a pedestal while mildly acidic raindrops fall from a cloud above; each impact slowly erodes the surface, changing its texture and slightly rounding details over time, with a color-changing pH indicator pool collecting dripping water at the base."
+    },
+    {
+      "number": "13",
+      "title": "Lake-Effect Snow over a Warm Water Body",
+      "description": "Cold air, visualized as a moving transparent slab with arrows, travels over a warmer blue lake surface where vapor rises, condenses into narrow snow bands, and then deposits snow heavily on the downwind shore, with animated snow depth bars along the land margin.",
+      "seed": "Lake-Effect Snow over a Warm Water Body: Cold air, visualized as a moving transparent slab with arrows, travels over a warmer blue lake surface where vapor rises, condenses into narrow snow bands, and then deposits snow heavily on the downwind shore, with animated snow depth bars along the land margin."
+    },
+    {
+      "number": "14",
+      "title": "Precipitation of Polymer Chains from a Cooling Solution",
+      "description": "Long, flexible chain particles float in a warm transparent solvent cube, staying dissolved and moving freely until the temperature slider is lowered, causing chains to slow, stick together, and precipitate into a tangled, semi-solid cluster that sinks and compacts at the bottom.",
+      "seed": "Precipitation of Polymer Chains from a Cooling Solution: Long, flexible chain particles float in a warm transparent solvent cube, staying dissolved and moving freely until the temperature slider is lowered, causing chains to slow, stick together, and precipitate into a tangled, semi-solid cluster that sinks and compacts at the bottom."
+    },
+    {
+      "number": "15",
+      "title": "Precipitation Radar Volume with Falling Particles",
+      "description": "A 3D grid cell volume of atmosphere is filled with falling hydrometeor particles (rain, snow, hail) of different sizes and colors; a rotating radar beam scans the volume, and each particle’s reflectivity contributes to a dynamic semi-transparent colored radar cube that updates as particles move.",
+      "seed": "Precipitation Radar Volume with Falling Particles: A 3D grid cell volume of atmosphere is filled with falling hydrometeor particles (rain, snow, hail) of different sizes and colors; a rotating radar beam scans the volume, and each particle’s reflectivity contributes to a dynamic semi-transparent colored radar cube that updates as particles move."
+    },
+    {
+      "number": "16",
+      "title": "Chemical Double-Displacement Reaction with Solid Precipitate",
+      "description": "Two transparent liquid streams of different colors pour into a central reaction chamber where they mix; after a delay, tiny solid particles of a third color nucleate and grow, forming clumps that settle as a granular layer, while a concentration bar graph and labels update at the side.",
+      "seed": "Chemical Double-Displacement Reaction with Solid Precipitate: Two transparent liquid streams of different colors pour into a central reaction chamber where they mix; after a delay, tiny solid particles of a third color nucleate and grow, forming clumps that settle as a granular layer, while a concentration bar graph and labels update at the side."
+    },
+    {
+      "number": "17",
+      "title": "Supersaturation and Sudden Crystal Burst",
+      "description": "A clear solution remains visually uniform while invisible supersaturation builds (shown by a rising meter), then after a trigger, numerous tiny crystals simultaneously appear throughout the volume, rapidly growing and colliding until they form a dense cloudy precipitate that settles.",
+      "seed": "Supersaturation and Sudden Crystal Burst: A clear solution remains visually uniform while invisible supersaturation builds (shown by a rising meter), then after a trigger, numerous tiny crystals simultaneously appear throughout the volume, rapidly growing and colliding until they form a dense cloudy precipitate that settles."
+    },
+    {
+      "number": "18",
+      "title": "Precipitation as a Resource in a Watershed Model",
+      "description": "A small 3D landscape with hills, a river, and a reservoir receives moving precipitation bands; raindrops fall more heavily in some zones, filling soil storage, runoff channels, and the reservoir, with animated water-level changes and color-coded soil moisture that gradually drains between storms.",
+      "seed": "Precipitation as a Resource in a Watershed Model: A small 3D landscape with hills, a river, and a reservoir receives moving precipitation bands; raindrops fall more heavily in some zones, filling soil storage, runoff channels, and the reservoir, with animated water-level changes and color-coded soil moisture that gradually drains between storms."
+    },
+    {
+      "number": "19",
+      "title": "3D Snowfall on a Rotating Globe",
+      "description": "A slowly rotating Earth sphere with simplified continents experiences shifting snow belts where particle snowflakes fall only in cold latitude bands and high elevations, accumulating as a white layer whose thickness is indicated by subtle vertical extrusions and contour-like rings.",
+      "seed": "3D Snowfall on a Rotating Globe: A slowly rotating Earth sphere with simplified continents experiences shifting snow belts where particle snowflakes fall only in cold latitude bands and high elevations, accumulating as a white layer whose thickness is indicated by subtle vertical extrusions and contour-like rings."
+    },
+    {
+      "number": "20",
+      "title": "Electrostatic Precipitation in a Flue Gas Cleaner",
+      "description": "Charged dust particles flow through a transparent duct between parallel plates with an electric field; particles drift toward the plates, attach and build up a dust layer, then periodically detach and fall into a collection hopper, with field lines and particle charge color-coded.",
+      "seed": "Electrostatic Precipitation in a Flue Gas Cleaner: Charged dust particles flow through a transparent duct between parallel plates with an electric field; particles drift toward the plates, attach and build up a dust layer, then periodically detach and fall into a collection hopper, with field lines and particle charge color-coded."
+    },
+    {
+      "number": "21",
+      "title": "Precipitation as Musical Notes in a Sound Field",
+      "description": "A floating cloud of note-sphere particles slowly condenses and “rains” down onto a horizontal keyboard plane; each collision triggers a brief glow and a bouncing note-sphere with a trailing line, while the density of precipitation visually corresponds to the intensity of an invisible soundtrack.",
+      "seed": "Precipitation as Musical Notes in a Sound Field: A floating cloud of note-sphere particles slowly condenses and “rains” down onto a horizontal keyboard plane; each collision triggers a brief glow and a bouncing note-sphere with a trailing line, while the density of precipitation visually corresponds to the intensity of an invisible soundtrack."
+    },
+    {
+      "number": "22",
+      "title": "Fog Droplet Precipitation on a Spiderweb",
+      "description": "A delicate 3D spiderweb hangs in moist air filled with tiny drifting droplets that attach to strands, forming growing beads that merge and eventually detach as larger drops, which fall and leave the web slightly deforming and vibrating when impacted.",
+      "seed": "Fog Droplet Precipitation on a Spiderweb: A delicate 3D spiderweb hangs in moist air filled with tiny drifting droplets that attach to strands, forming growing beads that merge and eventually detach as larger drops, which fall and leave the web slightly deforming and vibrating when impacted."
+    },
+    {
+      "number": "23",
+      "title": "Precipitation of Rust on a Wet Iron Beam",
+      "description": "An iron beam under a dripping water pipe accumulates thin transparent water films where droplets land; over time, orange-brown rust patches precipitate and spread from wet regions, thickening into slightly rough, bumpy textures whose growth speed depends on how often they are wetted.",
+      "seed": "Precipitation of Rust on a Wet Iron Beam: An iron beam under a dripping water pipe accumulates thin transparent water films where droplets land; over time, orange-brown rust patches precipitate and spread from wet regions, thickening into slightly rough, bumpy textures whose growth speed depends on how often they are wetted."
+    },
+    {
+      "number": "24",
+      "title": "Melting Snowpack and Delayed Runoff",
+      "description": "A sloped terrain hosts a deep snow layer built by previous snowfall; as a sun-lamp object brightens, the snowpack gradually shrinks and releases meltwater that trickles downslope in branching channels, with separate visual meters for remaining snow water equivalent and current runoff rate.",
+      "seed": "Melting Snowpack and Delayed Runoff: A sloped terrain hosts a deep snow layer built by previous snowfall; as a sun-lamp object brightens, the snowpack gradually shrinks and releases meltwater that trickles downslope in branching channels, with separate visual meters for remaining snow water equivalent and current runoff rate."
+    },
+    {
+      "number": "25",
+      "title": "Precipitation-Driven Landslide Trigger",
+      "description": "A steep hillside made of layered soil blocks receives repeated bursts of heavy rain from above; as raindrops infiltrate, soil saturation bars under each layer fill until a threshold is reached, after which part of the slope detaches and slides downslope as a coherent mass, leaving a scar and debris fan.",
+      "seed": "Precipitation-Driven Landslide Trigger: A steep hillside made of layered soil blocks receives repeated bursts of heavy rain from above; as raindrops infiltrate, soil saturation bars under each layer fill until a threshold is reached, after which part of the slope detaches and slides downslope as a coherent mass, leaving a scar and debris fan."
+    }
+  ],
+  "raw_output": "Here are strong **Precipitation simulation inputs** you can plug into your prompt:\n\n1. **Cloud-to-Rain Cycle in a Mini Atmosphere Box**\n   A transparent box containing floating vapor particles that slowly condense into clustered droplets inside a semi-transparent cloud volume, then detach and fall as raindrops onto a textured ground plane, forming shallow puddles that grow and ripple on impact.\n\n2. **Raindrop Formation on a Cooling Metal Plate**\n   A horizontal, slightly tilted metallic plate above a heat source with rising warm vapor particles that cool, attach as tiny droplets, merge into larger drops that slide and leave wet trails before dripping off the edge into a collecting tray with a filling-level meter.\n\n3. **Snowflake Growth and Descent**\n   Hexagonal seed crystals suspended in a cold transparent chamber that grow branching arms as vapor particles attach to them, then slowly fall with tumbling rotation, colliding and bouncing softly off a textured ground covered by an accumulating, height-varying snow layer.\n\n4. **Thunderstorm Cell with Updrafts and Downdrafts**\n   A tall atmospheric column where warm air parcels rise in spiraling tubes, water droplets condense into a darkening cloud, merge into heavier raindrops that fall in concentrated shafts, some evaporating midair, with colored arrows and labels for updraft, downdraft, and precipitation intensity.\n\n5. **Hailstone Layering Inside a Storm Cloud**\n   Spherical ice pellets circulate inside a rotating cloud volume, repeatedly lifted and dropped by animated vertical wind tubes, freezing new transparent layers each cycle, then finally falling out as multi-layered hailstones that bounce and roll across the ground on impact.\n\n6. **Orographic Rain Over a Mountain Ridge**\n   A moving air mass represented by drifting particle clouds approaches a 3D mountain range, rises along the slope, condenses into denser clouds that produce rain on the windward side, while the leeward side stays dry, with color-coded humidity and rainfall intensity on the terrain.\n\n7. **Urban Rainfall and Runoff System**\n   A city block with roofs, roads, and drains where falling raindrop particles hit surfaces, some sticking as puddles that grow and merge, while others flow as shallow streams toward storm drains, tracked by colored flow lines and an animated gauge showing runoff volume over time.\n\n8. **Microscopic Crystal Precipitation in a Beaker**\n   A transparent beaker filled with a colored solution where invisible ions are represented by tiny particles that diffuse and occasionally bind to growing crystalline clusters, which branch and stack in 3D, while a turbidity meter bar gently rises as more solid precipitate forms and settles.\n\n9. **Formation of Stalactites from Dripping Mineral Water**\n   A cave ceiling where mineral-rich droplets form at small nozzles, detach, and fall, leaving behind thin mineral rings that gradually grow into pointed stalactites, while droplets that hit the ground create stalagmites, with slow growth visualized via subtly expanding solid shapes over time.\n\n10. **Cloud Seeding Aircraft and Induced Rainfall**\n    A small plane model flies through a semi-transparent cloud volume, releasing streams of bright seed particles that trigger nearby vapor particles to condense into droplet clusters, which then merge and fall as enhanced rain under the flight path, with on/off toggles for seeding.\n\n11. **Mixed-Phase Precipitation: Rain, Sleet, and Snow Layers**\n    A vertical atmospheric column sliced into temperature layers where snowflakes form at the top, partially melt into sleet in a mid-warm layer, and fully melt into raindrops in the lowest warm layer, with particles changing shape and color as they pass through each region.\n\n12. **Acid Rain Impact on a Marble Statue**\n    A classical statue stands on a pedestal while mildly acidic raindrops fall from a cloud above; each impact slowly erodes the surface, changing its texture and slightly rounding details over time, with a color-changing pH indicator pool collecting dripping water at the base.\n\n13. **Lake-Effect Snow over a Warm Water Body**\n    Cold air, visualized as a moving transparent slab with arrows, travels over a warmer blue lake surface where vapor rises, condenses into narrow snow bands, and then deposits snow heavily on the downwind shore, with animated snow depth bars along the land margin.\n\n14. **Precipitation of Polymer Chains from a Cooling Solution**\n    Long, flexible chain particles float in a warm transparent solvent cube, staying dissolved and moving freely until the temperature slider is lowered, causing chains to slow, stick together, and precipitate into a tangled, semi-solid cluster that sinks and compacts at the bottom.\n\n15. **Precipitation Radar Volume with Falling Particles**\n    A 3D grid cell volume of atmosphere is filled with falling hydrometeor particles (rain, snow, hail) of different sizes and colors; a rotating radar beam scans the volume, and each particle’s reflectivity contributes to a dynamic semi-transparent colored radar cube that updates as particles move.\n\n16. **Chemical Double-Displacement Reaction with Solid Precipitate**\n    Two transparent liquid streams of different colors pour into a central reaction chamber where they mix; after a delay, tiny solid particles of a third color nucleate and grow, forming clumps that settle as a granular layer, while a concentration bar graph and labels update at the side.\n\n17. **Supersaturation and Sudden Crystal Burst**\n    A clear solution remains visually uniform while invisible supersaturation builds (shown by a rising meter), then after a trigger, numerous tiny crystals simultaneously appear throughout the volume, rapidly growing and colliding until they form a dense cloudy precipitate that settles.\n\n18. **Precipitation as a Resource in a Watershed Model**\n    A small 3D landscape with hills, a river, and a reservoir receives moving precipitation bands; raindrops fall more heavily in some zones, filling soil storage, runoff channels, and the reservoir, with animated water-level changes and color-coded soil moisture that gradually drains between storms.\n\n19. **3D Snowfall on a Rotating Globe**\n    A slowly rotating Earth sphere with simplified continents experiences shifting snow belts where particle snowflakes fall only in cold latitude bands and high elevations, accumulating as a white layer whose thickness is indicated by subtle vertical extrusions and contour-like rings.\n\n20. **Electrostatic Precipitation in a Flue Gas Cleaner**\n    Charged dust particles flow through a transparent duct between parallel plates with an electric field; particles drift toward the plates, attach and build up a dust layer, then periodically detach and fall into a collection hopper, with field lines and particle charge color-coded.\n\n21. **Precipitation as Musical Notes in a Sound Field**\n    A floating cloud of note-sphere particles slowly condenses and “rains” down onto a horizontal keyboard plane; each collision triggers a brief glow and a bouncing note-sphere with a trailing line, while the density of precipitation visually corresponds to the intensity of an invisible soundtrack.\n\n22. **Fog Droplet Precipitation on a Spiderweb**\n    A delicate 3D spiderweb hangs in moist air filled with tiny drifting droplets that attach to strands, forming growing beads that merge and eventually detach as larger drops, which fall and leave the web slightly deforming and vibrating when impacted.\n\n23. **Precipitation of Rust on a Wet Iron Beam**\n    An iron beam under a dripping water pipe accumulates thin transparent water films where droplets land; over time, orange-brown rust patches precipitate and spread from wet regions, thickening into slightly rough, bumpy textures whose growth speed depends on how often they are wetted.\n\n24. **Melting Snowpack and Delayed Runoff**\n    A sloped terrain hosts a deep snow layer built by previous snowfall; as a sun-lamp object brightens, the snowpack gradually shrinks and releases meltwater that trickles downslope in branching channels, with separate visual meters for remaining snow water equivalent and current runoff rate.\n\n25. **Precipitation-Driven Landslide Trigger**\n    A steep hillside made of layered soil blocks receives repeated bursts of heavy rain from above; as raindrops infiltrate, soil saturation bars under each layer fill until a threshold is reached, after which part of the slope detaches and slides downslope as a coherent mass, leaving a scar and debris fan."
+}

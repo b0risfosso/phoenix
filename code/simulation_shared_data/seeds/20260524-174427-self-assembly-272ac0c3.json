@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Self-assembly",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:44:27",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Floating Molecules Forming a Crystal Lattice",
+      "description": "A cloud of colored spheres (molecules) randomly floating in a transparent box gradually snap into a growing 3D crystal lattice, with each attachment glowing briefly and misaligned collisions causing bouncing and detachment.",
+      "seed": "Floating Molecules Forming a Crystal Lattice: A cloud of colored spheres (molecules) randomly floating in a transparent box gradually snap into a growing 3D crystal lattice, with each attachment glowing briefly and misaligned collisions causing bouncing and detachment."
+    },
+    {
+      "number": "2",
+      "title": "Magnetic Rods Building a Geometric Cage",
+      "description": "Short magnetic rods with colored ends drift in space, rotate to align their poles, and self-assemble into a wireframe icosahedral cage that can partially collapse and re-form when rods detach after strong impacts.",
+      "seed": "Magnetic Rods Building a Geometric Cage: Short magnetic rods with colored ends drift in space, rotate to align their poles, and self-assemble into a wireframe icosahedral cage that can partially collapse and re-form when rods detach after strong impacts."
+    },
+    {
+      "number": "3",
+      "title": "Nanobots Assembling a Bridge",
+      "description": "Tiny cube-shaped nanobots swim through a clear fluid from two opposite platforms and self-attach at their faces to construct a glowing, segmented bridge, with misaligned bots sliding off and falling back into the fluid.",
+      "seed": "Nanobots Assembling a Bridge: Tiny cube-shaped nanobots swim through a clear fluid from two opposite platforms and self-attach at their faces to construct a glowing, segmented bridge, with misaligned bots sliding off and falling back into the fluid."
+    },
+    {
+      "number": "4",
+      "title": "Lego-like Blocks Building a Spiral Tower",
+      "description": "Floating rectangular blocks with connector studs rotate and snap together only when correctly oriented, gradually forming an upward spiral tower that can sway, lose pieces, and repair gaps as new blocks attach.",
+      "seed": "Lego-like Blocks Building a Spiral Tower: Floating rectangular blocks with connector studs rotate and snap together only when correctly oriented, gradually forming an upward spiral tower that can sway, lose pieces, and repair gaps as new blocks attach."
+    },
+    {
+      "number": "5",
+      "title": "Protein Folding and Self-Assembly Into a Shell",
+      "description": "Flexible chains of connected spheres fold into specific shapes via spring forces, then multiple folded units self-assemble into a hollow, semi-transparent viral capsid shell that pulses and briefly glows as each unit docks.",
+      "seed": "Protein Folding and Self-Assembly Into a Shell: Flexible chains of connected spheres fold into specific shapes via spring forces, then multiple folded units self-assemble into a hollow, semi-transparent viral capsid shell that pulses and briefly glows as each unit docks."
+    },
+    {
+      "number": "6",
+      "title": "Planetary Ring Particles Forming a Moonlet",
+      "description": "Thousands of tiny icy particles orbit a planet in a flat ring and collide, stick, and cluster under gravity into a growing moonlet, with trails showing orbits and occasional collisions ejecting fragments that rejoin later.",
+      "seed": "Planetary Ring Particles Forming a Moonlet: Thousands of tiny icy particles orbit a planet in a flat ring and collide, stick, and cluster under gravity into a growing moonlet, with trails showing orbits and occasional collisions ejecting fragments that rejoin later."
+    },
+    {
+      "number": "7",
+      "title": "City Blocks Self-Assembling from Traffic Flows",
+      "description": "Individual car-like agents follow color-coded paths and, when enough meet at intersections, they snap into transparent “building” blocks that stack into a city skyline whose height reflects local traffic density.",
+      "seed": "City Blocks Self-Assembling from Traffic Flows: Individual car-like agents follow color-coded paths and, when enough meet at intersections, they snap into transparent “building” blocks that stack into a city skyline whose height reflects local traffic density."
+    },
+    {
+      "number": "8",
+      "title": "Self-Assembling Solar Panel Swarm in Orbit",
+      "description": "Flat, thin rectangular panels slowly tumble in orbit around a central hub and, when they enter a capture radius, align, slide into place, and lock to form an expanding circular solar array that tracks an invisible sun vector.",
+      "seed": "Self-Assembling Solar Panel Swarm in Orbit: Flat, thin rectangular panels slowly tumble in orbit around a central hub and, when they enter a capture radius, align, slide into place, and lock to form an expanding circular solar array that tracks an invisible sun vector."
+    },
+    {
+      "number": "9",
+      "title": "Colloidal Particles Forming a 3D Gel Network",
+      "description": "Soft, semi-transparent spheres diffuse in a fluid-filled cube, weakly sticking on contact to form branching filaments and a percolating 3D gel network that can partially dissolve when shaken by periodic waves.",
+      "seed": "Colloidal Particles Forming a 3D Gel Network: Soft, semi-transparent spheres diffuse in a fluid-filled cube, weakly sticking on contact to form branching filaments and a percolating 3D gel network that can partially dissolve when shaken by periodic waves."
+    },
+    {
+      "number": "10",
+      "title": "Robot Modules Assembling Into Different Creatures",
+      "description": "Dozens of identical cubic robot modules with glowing connector nodes crawl and rotate on a floor, seeking neighbors to attach into different predefined shapes (snake, spider, tower), then detach and reconfigure when a timer resets.",
+      "seed": "Robot Modules Assembling Into Different Creatures: Dozens of identical cubic robot modules with glowing connector nodes crawl and rotate on a floor, seeking neighbors to attach into different predefined shapes (snake, spider, tower), then detach and reconfigure when a timer resets."
+    },
+    {
+      "number": "11",
+      "title": "DNA Bricks Building a Pixelated Sculpture",
+      "description": "Tiny color-coded bricks with labeled faces drift in a box and only attach when complementary labels meet, gradually self-assembling into a low-resolution 3D sculpture that becomes opaque as it completes.",
+      "seed": "DNA Bricks Building a Pixelated Sculpture: Tiny color-coded bricks with labeled faces drift in a box and only attach when complementary labels meet, gradually self-assembling into a low-resolution 3D sculpture that becomes opaque as it completes."
+    },
+    {
+      "number": "12",
+      "title": "Floating Furniture Assembling an Apartment",
+      "description": "Chairs, tables, shelves, and lamps float around an empty room and, guided by invisible attraction zones, slide, rotate, and snap into stable positions to self-assemble a furnished layout, with each successful placement briefly pulsing in color.",
+      "seed": "Floating Furniture Assembling an Apartment: Chairs, tables, shelves, and lamps float around an empty room and, guided by invisible attraction zones, slide, rotate, and snap into stable positions to self-assemble a furnished layout, with each successful placement briefly pulsing in color."
+    },
+    {
+      "number": "13",
+      "title": "Sand Grains Self-Assembling Dunes Under Wind",
+      "description": "Thousands of tiny beige particles slide and bounce over a light plane under a directional “wind,” colliding, sticking, and gradually self-organizing into shifting dune shapes that can split and merge as wind direction changes.",
+      "seed": "Sand Grains Self-Assembling Dunes Under Wind: Thousands of tiny beige particles slide and bounce over a light plane under a directional “wind,” colliding, sticking, and gradually self-organizing into shifting dune shapes that can split and merge as wind direction changes."
+    },
+    {
+      "number": "14",
+      "title": "Self-Assembling Space Station Modules",
+      "description": "Cylindrical and spherical modules slowly orbit a central docking node, using thrusters to align and attach into a modular space station whose shape evolves as new modules arrive, detach, and re-dock at different ports.",
+      "seed": "Self-Assembling Space Station Modules: Cylindrical and spherical modules slowly orbit a central docking node, using thrusters to align and attach into a modular space station whose shape evolves as new modules arrive, detach, and re-dock at different ports."
+    },
+    {
+      "number": "15",
+      "title": "Crystal Garden Growing from Seed Crystals",
+      "description": "Several seed cubes anchored on a plate attract drifting ions (small spheres) from a solution, which attach to flat faces to grow branching, transparent crystal structures with color gradients and faint growth trails.",
+      "seed": "Crystal Garden Growing from Seed Crystals: Several seed cubes anchored on a plate attract drifting ions (small spheres) from a solution, which attach to flat faces to grow branching, transparent crystal structures with color gradients and faint growth trails."
+    },
+    {
+      "number": "16",
+      "title": "Social Groups Self-Assembling Around Interests",
+      "description": "Person-like spheres of different colors wander in a plaza, and when near matching “interest beacons” they slow, orbit, and cluster, forming and dissolving groups that wrap around beacons and leave trails showing group histories.",
+      "seed": "Social Groups Self-Assembling Around Interests: Person-like spheres of different colors wander in a plaza, and when near matching “interest beacons” they slow, orbit, and cluster, forming and dissolving groups that wrap around beacons and leave trails showing group histories."
+    },
+    {
+      "number": "17",
+      "title": "Self-Assembling Circuit Board with Moving Components",
+      "description": "Loose electronic components (resistor-like cylinders, chip-like boxes) slide over a flat green board, rotate to align with glowing pads, then drop into place and lock, with thin glowing lines appearing to show auto-routed connections.",
+      "seed": "Self-Assembling Circuit Board with Moving Components: Loose electronic components (resistor-like cylinders, chip-like boxes) slide over a flat green board, rotate to align with glowing pads, then drop into place and lock, with thin glowing lines appearing to show auto-routed connections."
+    },
+    {
+      "number": "18",
+      "title": "Virus Capsids Assembling Around a Genome Strand",
+      "description": "A flexible, wiggling chain (genome) floats in solution while triangular protein subunits orbit and attach around it, gradually wrapping and closing into a complete icosahedral capsid; incorrect attachments detach after a small delay.",
+      "seed": "Virus Capsids Assembling Around a Genome Strand: A flexible, wiggling chain (genome) floats in solution while triangular protein subunits orbit and attach around it, gradually wrapping and closing into a complete icosahedral capsid; incorrect attachments detach after a small delay."
+    },
+    {
+      "number": "19",
+      "title": "Bubble Clusters Self-Assembling into Foams",
+      "description": "Spherical, semi-transparent bubbles move upward in a liquid column, merge on contact into larger polyhedral cells, and gradually form a connected foam layer at the top that can thin, break, and reassemble as new bubbles arrive.",
+      "seed": "Bubble Clusters Self-Assembling into Foams: Spherical, semi-transparent bubbles move upward in a liquid column, merge on contact into larger polyhedral cells, and gradually form a connected foam layer at the top that can thin, break, and reassemble as new bubbles arrive."
+    },
+    {
+      "number": "20",
+      "title": "Self-Organizing Drone Swarm Building a Tower",
+      "description": "Small quadcopter-like drones pick up block units from a supply zone and, following local rules, fly, hover, and place blocks to assemble a tall, patterned tower whose stability is visualized with color changes as it grows.",
+      "seed": "Self-Organizing Drone Swarm Building a Tower: Small quadcopter-like drones pick up block units from a supply zone and, following local rules, fly, hover, and place blocks to assemble a tall, patterned tower whose stability is visualized with color changes as it grows."
+    },
+    {
+      "number": "21",
+      "title": "Self-Assembling Railway Network from Trains",
+      "description": "Individual train cars roam a landscape and, when enough align along common paths, they snap together and lay semi-transparent tracks behind them, gradually forming a branching railway network whose active segments glow.",
+      "seed": "Self-Assembling Railway Network from Trains: Individual train cars roam a landscape and, when enough align along common paths, they snap together and lay semi-transparent tracks behind them, gradually forming a branching railway network whose active segments glow."
+    },
+    {
+      "number": "22",
+      "title": "Micelles and Vesicles Self-Assembling in Solution",
+      "description": "Amphiphilic rod-like molecules swim in a box of water particles and spontaneously form spherical micelles and larger bilayer vesicles, with hydrophobic ends clustering inside and entire structures fusing and splitting over time.",
+      "seed": "Micelles and Vesicles Self-Assembling in Solution: Amphiphilic rod-like molecules swim in a box of water particles and spontaneously form spherical micelles and larger bilayer vesicles, with hydrophobic ends clustering inside and entire structures fusing and splitting over time."
+    },
+    {
+      "number": "23",
+      "title": "Asteroid Rubble Pile Self-Assembling Under Gravity",
+      "description": "Irregular rocky chunks float slowly in space and, under mutual gravity, spiral inward, collide, bounce, and gradually stick to form a lumpy rubble-pile asteroid that can shed fragments and reaccrete them.",
+      "seed": "Asteroid Rubble Pile Self-Assembling Under Gravity: Irregular rocky chunks float slowly in space and, under mutual gravity, spiral inward, collide, bounce, and gradually stick to form a lumpy rubble-pile asteroid that can shed fragments and reaccrete them."
+    },
+    {
+      "number": "24",
+      "title": "Self-Assembling Mechanical Clock from Gears",
+      "description": "Individual gears, rods, and weights slide on a flat surface and are attracted to compatible connection points, rotating to align teeth and pin holes, then snapping together into a functioning clock whose ticking motion and swinging pendulum emerge.",
+      "seed": "Self-Assembling Mechanical Clock from Gears: Individual gears, rods, and weights slide on a flat surface and are attracted to compatible connection points, rotating to align teeth and pin holes, then snapping together into a functioning clock whose ticking motion and swinging pendulum emerge."
+    },
+    {
+      "number": "25",
+      "title": "Fiber Network Self-Assembling into a Spider Web",
+      "description": "Tiny sticky nodes drift in a light box and, on contact, spawn tensioned threads that stretch, attach, and rearrange, gradually forming a planar, radial spider-web-like network that can deform under simulated wind and then self-repair.",
+      "seed": "Fiber Network Self-Assembling into a Spider Web: Tiny sticky nodes drift in a light box and, on contact, spawn tensioned threads that stretch, attach, and rearrange, gradually forming a planar, radial spider-web-like network that can deform under simulated wind and then self-repair."
+    }
+  ],
+  "raw_output": "Here are strong **Self-assembly simulation inputs** you can plug into your prompt:\n\n1. **Floating Molecules Forming a Crystal Lattice**\n   A cloud of colored spheres (molecules) randomly floating in a transparent box gradually snap into a growing 3D crystal lattice, with each attachment glowing briefly and misaligned collisions causing bouncing and detachment.\n\n2. **Magnetic Rods Building a Geometric Cage**\n   Short magnetic rods with colored ends drift in space, rotate to align their poles, and self-assemble into a wireframe icosahedral cage that can partially collapse and re-form when rods detach after strong impacts.\n\n3. **Nanobots Assembling a Bridge**\n   Tiny cube-shaped nanobots swim through a clear fluid from two opposite platforms and self-attach at their faces to construct a glowing, segmented bridge, with misaligned bots sliding off and falling back into the fluid.\n\n4. **Lego-like Blocks Building a Spiral Tower**\n   Floating rectangular blocks with connector studs rotate and snap together only when correctly oriented, gradually forming an upward spiral tower that can sway, lose pieces, and repair gaps as new blocks attach.\n\n5. **Protein Folding and Self-Assembly Into a Shell**\n   Flexible chains of connected spheres fold into specific shapes via spring forces, then multiple folded units self-assemble into a hollow, semi-transparent viral capsid shell that pulses and briefly glows as each unit docks.\n\n6. **Planetary Ring Particles Forming a Moonlet**\n   Thousands of tiny icy particles orbit a planet in a flat ring and collide, stick, and cluster under gravity into a growing moonlet, with trails showing orbits and occasional collisions ejecting fragments that rejoin later.\n\n7. **City Blocks Self-Assembling from Traffic Flows**\n   Individual car-like agents follow color-coded paths and, when enough meet at intersections, they snap into transparent “building” blocks that stack into a city skyline whose height reflects local traffic density.\n\n8. **Self-Assembling Solar Panel Swarm in Orbit**\n   Flat, thin rectangular panels slowly tumble in orbit around a central hub and, when they enter a capture radius, align, slide into place, and lock to form an expanding circular solar array that tracks an invisible sun vector.\n\n9. **Colloidal Particles Forming a 3D Gel Network**\n   Soft, semi-transparent spheres diffuse in a fluid-filled cube, weakly sticking on contact to form branching filaments and a percolating 3D gel network that can partially dissolve when shaken by periodic waves.\n\n10. **Robot Modules Assembling Into Different Creatures**\n    Dozens of identical cubic robot modules with glowing connector nodes crawl and rotate on a floor, seeking neighbors to attach into different predefined shapes (snake, spider, tower), then detach and reconfigure when a timer resets.\n\n11. **DNA Bricks Building a Pixelated Sculpture**\n   Tiny color-coded bricks with labeled faces drift in a box and only attach when complementary labels meet, gradually self-assembling into a low-resolution 3D sculpture that becomes opaque as it completes.\n\n12. **Floating Furniture Assembling an Apartment**\n   Chairs, tables, shelves, and lamps float around an empty room and, guided by invisible attraction zones, slide, rotate, and snap into stable positions to self-assemble a furnished layout, with each successful placement briefly pulsing in color.\n\n13. **Sand Grains Self-Assembling Dunes Under Wind**\n   Thousands of tiny beige particles slide and bounce over a light plane under a directional “wind,” colliding, sticking, and gradually self-organizing into shifting dune shapes that can split and merge as wind direction changes.\n\n14. **Self-Assembling Space Station Modules**\n   Cylindrical and spherical modules slowly orbit a central docking node, using thrusters to align and attach into a modular space station whose shape evolves as new modules arrive, detach, and re-dock at different ports.\n\n15. **Crystal Garden Growing from Seed Crystals**\n   Several seed cubes anchored on a plate attract drifting ions (small spheres) from a solution, which attach to flat faces to grow branching, transparent crystal structures with color gradients and faint growth trails.\n\n16. **Social Groups Self-Assembling Around Interests**\n   Person-like spheres of different colors wander in a plaza, and when near matching “interest beacons” they slow, orbit, and cluster, forming and dissolving groups that wrap around beacons and leave trails showing group histories.\n\n17. **Self-Assembling Circuit Board with Moving Components**\n   Loose electronic components (resistor-like cylinders, chip-like boxes) slide over a flat green board, rotate to align with glowing pads, then drop into place and lock, with thin glowing lines appearing to show auto-routed connections.\n\n18. **Virus Capsids Assembling Around a Genome Strand**\n   A flexible, wiggling chain (genome) floats in solution while triangular protein subunits orbit and attach around it, gradually wrapping and closing into a complete icosahedral capsid; incorrect attachments detach after a small delay.\n\n19. **Bubble Clusters Self-Assembling into Foams**\n   Spherical, semi-transparent bubbles move upward in a liquid column, merge on contact into larger polyhedral cells, and gradually form a connected foam layer at the top that can thin, break, and reassemble as new bubbles arrive.\n\n20. **Self-Organizing Drone Swarm Building a Tower**\n   Small quadcopter-like drones pick up block units from a supply zone and, following local rules, fly, hover, and place blocks to assemble a tall, patterned tower whose stability is visualized with color changes as it grows.\n\n21. **Self-Assembling Railway Network from Trains**\n   Individual train cars roam a landscape and, when enough align along common paths, they snap together and lay semi-transparent tracks behind them, gradually forming a branching railway network whose active segments glow.\n\n22. **Micelles and Vesicles Self-Assembling in Solution**\n   Amphiphilic rod-like molecules swim in a box of water particles and spontaneously form spherical micelles and larger bilayer vesicles, with hydrophobic ends clustering inside and entire structures fusing and splitting over time.\n\n23. **Asteroid Rubble Pile Self-Assembling Under Gravity**\n   Irregular rocky chunks float slowly in space and, under mutual gravity, spiral inward, collide, bounce, and gradually stick to form a lumpy rubble-pile asteroid that can shed fragments and reaccrete them.\n\n24. **Self-Assembling Mechanical Clock from Gears**\n   Individual gears, rods, and weights slide on a flat surface and are attracted to compatible connection points, rotating to align teeth and pin holes, then snapping together into a functioning clock whose ticking motion and swinging pendulum emerge.\n\n25. **Fiber Network Self-Assembling into a Spider Web**\n   Tiny sticky nodes drift in a light box and, on contact, spawn tensioned threads that stretch, attach, and rearrange, gradually forming a planar, radial spider-web-like network that can deform under simulated wind and then self-repair."
+}

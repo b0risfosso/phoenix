@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Competition and cooperation",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:12:44",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Flocking birds competing for food and avoiding predators",
+      "description": "A 3D flock of colored spheres (birds) that cooperate to align and stay together while competing to reach randomly appearing food pellets first, all while avoiding larger predator objects that chase and scatter them, with trails showing flight paths and labels for flock centers.",
+      "seed": "Flocking birds competing for food and avoiding predators: A 3D flock of colored spheres (birds) that cooperate to align and stay together while competing to reach randomly appearing food pellets first, all while avoiding larger predator objects that chase and scatter them, with trails showing flight paths and labels for flock centers."
+    },
+    {
+      "number": "2",
+      "title": "Chemical species competing and cooperating in a reaction chamber",
+      "description": "Multiple types of translucent particles in a box that randomly move, collide, and either bond (cooperate) into larger composite molecules or steal components (compete) to form more stable structures, with color changes and glowing bonds on successful reactions.",
+      "seed": "Chemical species competing and cooperating in a reaction chamber: Multiple types of translucent particles in a box that randomly move, collide, and either bond (cooperate) into larger composite molecules or steal components (compete) to form more stable structures, with color changes and glowing bonds on successful reactions."
+    },
+    {
+      "number": "3",
+      "title": "Trees competing for light and sharing nutrients underground",
+      "description": "Vertical cylinders (tree trunks) that grow branches upward into a shared light volume while underground root networks spread as semi-transparent tubes that occasionally connect and pulse with glowing nutrient particles, showing competition for light above and cooperative resource sharing below.",
+      "seed": "Trees competing for light and sharing nutrients underground: Vertical cylinders (tree trunks) that grow branches upward into a shared light volume while underground root networks spread as semi-transparent tubes that occasionally connect and pulse with glowing nutrient particles, showing competition for light above and cooperative resource sharing below."
+    },
+    {
+      "number": "4",
+      "title": "Predator-prey herds with cooperative defense formations",
+      "description": "A herd of small spheres (prey) that normally graze and wander but quickly form rotating defensive rings or clusters when larger predator objects approach, with different colored health bars floating above each agent and collision-based captures decreasing herd size.",
+      "seed": "Predator-prey herds with cooperative defense formations: A herd of small spheres (prey) that normally graze and wander but quickly form rotating defensive rings or clusters when larger predator objects approach, with different colored health bars floating above each agent and collision-based captures decreasing herd size."
+    },
+    {
+      "number": "5",
+      "title": "Robotic swarms competing to build structures from shared blocks",
+      "description": "Dozens of small mobile robots (boxes with wheels) navigate a 3D arena, picking up scattered small cubes and either cooperating to assemble a larger target structure in their team color or bumping and blocking the other team’s bots from accessing key blocks, with progress meters above each structure.",
+      "seed": "Robotic swarms competing to build structures from shared blocks: Dozens of small mobile robots (boxes with wheels) navigate a 3D arena, picking up scattered small cubes and either cooperating to assemble a larger target structure in their team color or bumping and blocking the other team’s bots from accessing key blocks, with progress meters above each structure."
+    },
+    {
+      "number": "6",
+      "title": "Galaxies merging and competing for orbiting star clusters",
+      "description": "Two swirling, colored disks of particles (galaxies) orbiting a central point slowly approach, tugging on smaller star-cluster spheres that can detach from one galaxy and be captured by the other, visualized with orbital trails and dynamic gravitational lines.",
+      "seed": "Galaxies merging and competing for orbiting star clusters: Two swirling, colored disks of particles (galaxies) orbiting a central point slowly approach, tugging on smaller star-cluster spheres that can detach from one galaxy and be captured by the other, visualized with orbital trails and dynamic gravitational lines."
+    },
+    {
+      "number": "7",
+      "title": "Ant colonies foraging and competing over food sources",
+      "description": "Two or three ant colonies (colored nests) send out small ant particles that leave faint pheromone trails, cooperate to carry food spheres back to their nest, and compete by stealing dropped resources or blocking paths around contested food piles placed in the arena.",
+      "seed": "Ant colonies foraging and competing over food sources: Two or three ant colonies (colored nests) send out small ant particles that leave faint pheromone trails, cooperate to carry food spheres back to their nest, and compete by stealing dropped resources or blocking paths around contested food piles placed in the arena."
+    },
+    {
+      "number": "8",
+      "title": "Market agents competing and forming cooperative trade networks",
+      "description": "Floating agents (small shapes of different colors) move in a 3D space, forming and breaking glowing link lines when they trade resources; agents with complementary resources are attracted to each other (cooperation) while agents with the same needs repel or compete, with bar charts above each agent showing their resource levels.",
+      "seed": "Market agents competing and forming cooperative trade networks: Floating agents (small shapes of different colors) move in a 3D space, forming and breaking glowing link lines when they trade resources; agents with complementary resources are attracted to each other (cooperation) while agents with the same needs repel or compete, with bar charts above each agent showing their resource levels."
+    },
+    {
+      "number": "9",
+      "title": "Cell populations competing and cooperating in tissue growth",
+      "description": "Colored spheres (cells) on a flat substrate grow, divide, and push against each other; some cell types secrete transparent nutrient clouds that nearby friendly cells benefit from, while competing cell types expand aggressively and compress neighbors, with dynamic outlines showing tissue boundaries.",
+      "seed": "Cell populations competing and cooperating in tissue growth: Colored spheres (cells) on a flat substrate grow, divide, and push against each other; some cell types secrete transparent nutrient clouds that nearby friendly cells benefit from, while competing cell types expand aggressively and compress neighbors, with dynamic outlines showing tissue boundaries."
+    },
+    {
+      "number": "10",
+      "title": "Fish schools avoiding predators and competing for plankton clouds",
+      "description": "A school of fish-shaped objects moves cohesively through a light blue 3D water volume, dodging larger predator objects while racing toward drifting semi-transparent plankton clouds that shrink as they are consumed, with trails and color intensity indicating recent feeding success.",
+      "seed": "Fish schools avoiding predators and competing for plankton clouds: A school of fish-shaped objects moves cohesively through a light blue 3D water volume, dodging larger predator objects while racing toward drifting semi-transparent plankton clouds that shrink as they are consumed, with trails and color intensity indicating recent feeding success."
+    },
+    {
+      "number": "11",
+      "title": "Competing and cooperating satellites in orbital slots",
+      "description": "Multiple satellites as small boxes with solar panel wings orbit a planet, adjusting their orbits to avoid collisions (cooperation) while trying to occupy the most desirable orbital slots marked as glowing rings; satellites can temporarily link to share data, visualized by pulsing lines.",
+      "seed": "Competing and cooperating satellites in orbital slots: Multiple satellites as small boxes with solar panel wings orbit a planet, adjusting their orbits to avoid collisions (cooperation) while trying to occupy the most desirable orbital slots marked as glowing rings; satellites can temporarily link to share data, visualized by pulsing lines."
+    },
+    {
+      "number": "12",
+      "title": "Bacterial colonies competing for nutrients and exchanging plasmids",
+      "description": "Small spheres (bacteria) on a flat transparent plate move randomly; nutrient particles diffuse across the surface, and bacteria compete for them while occasionally attaching via thin tubes to exchange glowing plasmid rings, changing their color to show acquired traits.",
+      "seed": "Bacterial colonies competing for nutrients and exchanging plasmids: Small spheres (bacteria) on a flat transparent plate move randomly; nutrient particles diffuse across the surface, and bacteria compete for them while occasionally attaching via thin tubes to exchange glowing plasmid rings, changing their color to show acquired traits."
+    },
+    {
+      "number": "13",
+      "title": "Traffic at a multi-lane intersection with cooperative merging and lane competition",
+      "description": "Car-shaped boxes move along 3D roadways that cross and merge; cars must compete to enter congested lanes while some slow down and create gaps to let others merge (cooperation), with turn signals, brake lights, and overhead counters tracking throughput and collisions.",
+      "seed": "Traffic at a multi-lane intersection with cooperative merging and lane competition: Car-shaped boxes move along 3D roadways that cross and merge; cars must compete to enter congested lanes while some slow down and create gaps to let others merge (cooperation), with turn signals, brake lights, and overhead counters tracking throughput and collisions."
+    },
+    {
+      "number": "14",
+      "title": "Pack hunters coordinating to corner faster prey",
+      "description": "A few prey spheres with higher speed zigzag randomly in an arena while a team of slower, cooperating hunter objects coordinate by spreading out, circling, and closing in from multiple directions, visualized with dashed planning lines between hunters and colored capture zones.",
+      "seed": "Pack hunters coordinating to corner faster prey: A few prey spheres with higher speed zigzag randomly in an arena while a team of slower, cooperating hunter objects coordinate by spreading out, circling, and closing in from multiple directions, visualized with dashed planning lines between hunters and colored capture zones."
+    },
+    {
+      "number": "15",
+      "title": "Resource-mining drones competing and sharing power from charging stations",
+      "description": "Dozens of drone spheres fly through a 3D asteroid field, collecting small ore chunks; they must visit limited charging pads (glowing platforms) that can only serve a few drones at once, forcing competition, while drones from the same team can dock side-by-side to transfer energy.",
+      "seed": "Resource-mining drones competing and sharing power from charging stations: Dozens of drone spheres fly through a 3D asteroid field, collecting small ore chunks; they must visit limited charging pads (glowing platforms) that can only serve a few drones at once, forcing competition, while drones from the same team can dock side-by-side to transfer energy."
+    },
+    {
+      "number": "16",
+      "title": "Network routers competing for bandwidth and cooperating via load balancing",
+      "description": "Stationary router nodes (pillars) are linked by semi-transparent tubes (cables) through which packets (small glowing spheres) flow; routers compete for limited link capacity, visibly congesting some paths, while load-balancing algorithms reroute packets through alternative routes, causing links to brighten or dim.",
+      "seed": "Network routers competing for bandwidth and cooperating via load balancing: Stationary router nodes (pillars) are linked by semi-transparent tubes (cables) through which packets (small glowing spheres) flow; routers compete for limited link capacity, visibly congesting some paths, while load-balancing algorithms reroute packets through alternative routes, causing links to brighten or dim."
+    },
+    {
+      "number": "17",
+      "title": "Plant vines competing to climb a shared trellis and cooperating via mutual support",
+      "description": "Flexible vine segments grow upward from the ground, wrapping around a stationary trellis and occasionally each other; vines can both compete to reach top light panels and also brace one another, with sections changing color where mutual support reduces sagging.",
+      "seed": "Plant vines competing to climb a shared trellis and cooperating via mutual support: Flexible vine segments grow upward from the ground, wrapping around a stationary trellis and occasionally each other; vines can both compete to reach top light panels and also brace one another, with sections changing color where mutual support reduces sagging."
+    },
+    {
+      "number": "18",
+      "title": "Teams of construction bots assembling competing towers from shared pieces",
+      "description": "Two or more teams of small cube-like bots move across a platform, picking up scattered building blocks and stacking them into tall towers in their team zones; bots can cooperate to stabilize tall towers by attaching side supports or bump into rival towers to trigger collapses.",
+      "seed": "Teams of construction bots assembling competing towers from shared pieces: Two or more teams of small cube-like bots move across a platform, picking up scattered building blocks and stacking them into tall towers in their team zones; bots can cooperate to stabilize tall towers by attaching side supports or bump into rival towers to trigger collapses."
+    },
+    {
+      "number": "19",
+      "title": "Fire spread vs. firefighter drones cooperating to contain it",
+      "description": "A patchy forest of cylinders (trees) gradually ignites, with fire visualized as expanding glowing halos that can jump between close trees; firefighter drones fly in, dropping transparent water volumes that slow fire spread, while wind arrows push flames, creating a competition between spreading and suppression.",
+      "seed": "Fire spread vs. firefighter drones cooperating to contain it: A patchy forest of cylinders (trees) gradually ignites, with fire visualized as expanding glowing halos that can jump between close trees; firefighter drones fly in, dropping transparent water volumes that slow fire spread, while wind arrows push flames, creating a competition between spreading and suppression."
+    },
+    {
+      "number": "20",
+      "title": "Competing flocks at a shared watering hole with cooperative warning signals",
+      "description": "Several differently colored flocks of birds (spheres) converge on a central water pool; they compete for limited drinking spots along the rim, but when one bird detects an approaching predator it emits a flashing signal that propagates through all flocks, triggering a coordinated takeoff.",
+      "seed": "Competing flocks at a shared watering hole with cooperative warning signals: Several differently colored flocks of birds (spheres) converge on a central water pool; they compete for limited drinking spots along the rim, but when one bird detects an approaching predator it emits a flashing signal that propagates through all flocks, triggering a coordinated takeoff."
+    },
+    {
+      "number": "21",
+      "title": "Robot soccer match with passing, blocking, and contested ball control",
+      "description": "Two teams of wheeled robots chase a ball sphere on a rectangular field; robots can pass (briefly linking with a glowing line) to teammates, block opponents by intercepting paths, and collide with the ball to change its velocity, with score counters and team-colored trails.",
+      "seed": "Robot soccer match with passing, blocking, and contested ball control: Two teams of wheeled robots chase a ball sphere on a rectangular field; robots can pass (briefly linking with a glowing line) to teammates, block opponents by intercepting paths, and collide with the ball to change its velocity, with score counters and team-colored trails."
+    },
+    {
+      "number": "22",
+      "title": "Competing crystal structures forming and merging in a cooling solution",
+      "description": "In a transparent 3D box, seed crystals of different colors grow by attaching passing particles; neighboring crystals compete for space and can either form clean boundaries or partially merge, with lattice edges outlined and growth rates visualized by pulsing brightness.",
+      "seed": "Competing crystal structures forming and merging in a cooling solution: In a transparent 3D box, seed crystals of different colors grow by attaching passing particles; neighboring crystals compete for space and can either form clean boundaries or partially merge, with lattice edges outlined and growth rates visualized by pulsing brightness."
+    },
+    {
+      "number": "23",
+      "title": "Bees from different hives competing for flowers and sharing waggle-dance info",
+      "description": "Colored bee particles fly from their respective hives to flower clusters that slowly refill nectar; bees compete for the richest flowers but return to their hive to perform a “waggle” pattern (circular path and directional arrow) that aligns outgoing bees toward profitable patches.",
+      "seed": "Bees from different hives competing for flowers and sharing waggle-dance info: Colored bee particles fly from their respective hives to flower clusters that slowly refill nectar; bees compete for the richest flowers but return to their hive to perform a “waggle” pattern (circular path and directional arrow) that aligns outgoing bees toward profitable patches."
+    },
+    {
+      "number": "24",
+      "title": "Competing viruses and immune cells in a bloodstream environment",
+      "description": "Virus particles drift along a flowing stream of red blood cells, attaching to and infecting stationary wall cells, while immune cells actively chase and engulf viruses; engulfed viruses cause immune cells to glow brighter, and infection spread vs. clearance is tracked by colored meters.",
+      "seed": "Competing viruses and immune cells in a bloodstream environment: Virus particles drift along a flowing stream of red blood cells, attaching to and infecting stationary wall cells, while immune cells actively chase and engulf viruses; engulfed viruses cause immune cells to glow brighter, and infection spread vs. clearance is tracked by colored meters."
+    },
+    {
+      "number": "25",
+      "title": "Urban developers competing for land while sharing public infrastructure",
+      "description": "Several developer agents place and grow semi-transparent building blocks on a shared terrain, competing to occupy high-value zones marked in bright colors, while all benefit from and expand shared infrastructure lines (roads, power) that appear as glowing paths connecting their districts.",
+      "seed": "Urban developers competing for land while sharing public infrastructure: Several developer agents place and grow semi-transparent building blocks on a shared terrain, competing to occupy high-value zones marked in bright colors, while all benefit from and expand shared infrastructure lines (roads, power) that appear as glowing paths connecting their districts."
+    }
+  ],
+  "raw_output": "Here are strong **Competition and cooperation simulation inputs** you can plug into your prompt:\n\n1. **Flocking birds competing for food and avoiding predators**  \n   A 3D flock of colored spheres (birds) that cooperate to align and stay together while competing to reach randomly appearing food pellets first, all while avoiding larger predator objects that chase and scatter them, with trails showing flight paths and labels for flock centers.\n\n2. **Chemical species competing and cooperating in a reaction chamber**  \n   Multiple types of translucent particles in a box that randomly move, collide, and either bond (cooperate) into larger composite molecules or steal components (compete) to form more stable structures, with color changes and glowing bonds on successful reactions.\n\n3. **Trees competing for light and sharing nutrients underground**  \n   Vertical cylinders (tree trunks) that grow branches upward into a shared light volume while underground root networks spread as semi-transparent tubes that occasionally connect and pulse with glowing nutrient particles, showing competition for light above and cooperative resource sharing below.\n\n4. **Predator-prey herds with cooperative defense formations**  \n   A herd of small spheres (prey) that normally graze and wander but quickly form rotating defensive rings or clusters when larger predator objects approach, with different colored health bars floating above each agent and collision-based captures decreasing herd size.\n\n5. **Robotic swarms competing to build structures from shared blocks**  \n   Dozens of small mobile robots (boxes with wheels) navigate a 3D arena, picking up scattered small cubes and either cooperating to assemble a larger target structure in their team color or bumping and blocking the other team’s bots from accessing key blocks, with progress meters above each structure.\n\n6. **Galaxies merging and competing for orbiting star clusters**  \n   Two swirling, colored disks of particles (galaxies) orbiting a central point slowly approach, tugging on smaller star-cluster spheres that can detach from one galaxy and be captured by the other, visualized with orbital trails and dynamic gravitational lines.\n\n7. **Ant colonies foraging and competing over food sources**  \n   Two or three ant colonies (colored nests) send out small ant particles that leave faint pheromone trails, cooperate to carry food spheres back to their nest, and compete by stealing dropped resources or blocking paths around contested food piles placed in the arena.\n\n8. **Market agents competing and forming cooperative trade networks**  \n   Floating agents (small shapes of different colors) move in a 3D space, forming and breaking glowing link lines when they trade resources; agents with complementary resources are attracted to each other (cooperation) while agents with the same needs repel or compete, with bar charts above each agent showing their resource levels.\n\n9. **Cell populations competing and cooperating in tissue growth**  \n   Colored spheres (cells) on a flat substrate grow, divide, and push against each other; some cell types secrete transparent nutrient clouds that nearby friendly cells benefit from, while competing cell types expand aggressively and compress neighbors, with dynamic outlines showing tissue boundaries.\n\n10. **Fish schools avoiding predators and competing for plankton clouds**  \n    A school of fish-shaped objects moves cohesively through a light blue 3D water volume, dodging larger predator objects while racing toward drifting semi-transparent plankton clouds that shrink as they are consumed, with trails and color intensity indicating recent feeding success.\n\n11. **Competing and cooperating satellites in orbital slots**  \n    Multiple satellites as small boxes with solar panel wings orbit a planet, adjusting their orbits to avoid collisions (cooperation) while trying to occupy the most desirable orbital slots marked as glowing rings; satellites can temporarily link to share data, visualized by pulsing lines.\n\n12. **Bacterial colonies competing for nutrients and exchanging plasmids**  \n    Small spheres (bacteria) on a flat transparent plate move randomly; nutrient particles diffuse across the surface, and bacteria compete for them while occasionally attaching via thin tubes to exchange glowing plasmid rings, changing their color to show acquired traits.\n\n13. **Traffic at a multi-lane intersection with cooperative merging and lane competition**  \n    Car-shaped boxes move along 3D roadways that cross and merge; cars must compete to enter congested lanes while some slow down and create gaps to let others merge (cooperation), with turn signals, brake lights, and overhead counters tracking throughput and collisions.\n\n14. **Pack hunters coordinating to corner faster prey**  \n    A few prey spheres with higher speed zigzag randomly in an arena while a team of slower, cooperating hunter objects coordinate by spreading out, circling, and closing in from multiple directions, visualized with dashed planning lines between hunters and colored capture zones.\n\n15. **Resource-mining drones competing and sharing power from charging stations**  \n    Dozens of drone spheres fly through a 3D asteroid field, collecting small ore chunks; they must visit limited charging pads (glowing platforms) that can only serve a few drones at once, forcing competition, while drones from the same team can dock side-by-side to transfer energy.\n\n16. **Network routers competing for bandwidth and cooperating via load balancing**  \n    Stationary router nodes (pillars) are linked by semi-transparent tubes (cables) through which packets (small glowing spheres) flow; routers compete for limited link capacity, visibly congesting some paths, while load-balancing algorithms reroute packets through alternative routes, causing links to brighten or dim.\n\n17. **Plant vines competing to climb a shared trellis and cooperating via mutual support**  \n    Flexible vine segments grow upward from the ground, wrapping around a stationary trellis and occasionally each other; vines can both compete to reach top light panels and also brace one another, with sections changing color where mutual support reduces sagging.\n\n18. **Teams of construction bots assembling competing towers from shared pieces**  \n    Two or more teams of small cube-like bots move across a platform, picking up scattered building blocks and stacking them into tall towers in their team zones; bots can cooperate to stabilize tall towers by attaching side supports or bump into rival towers to trigger collapses.\n\n19. **Fire spread vs. firefighter drones cooperating to contain it**  \n    A patchy forest of cylinders (trees) gradually ignites, with fire visualized as expanding glowing halos that can jump between close trees; firefighter drones fly in, dropping transparent water volumes that slow fire spread, while wind arrows push flames, creating a competition between spreading and suppression.\n\n20. **Competing flocks at a shared watering hole with cooperative warning signals**  \n    Several differently colored flocks of birds (spheres) converge on a central water pool; they compete for limited drinking spots along the rim, but when one bird detects an approaching predator it emits a flashing signal that propagates through all flocks, triggering a coordinated takeoff.\n\n21. **Robot soccer match with passing, blocking, and contested ball control**  \n    Two teams of wheeled robots chase a ball sphere on a rectangular field; robots can pass (briefly linking with a glowing line) to teammates, block opponents by intercepting paths, and collide with the ball to change its velocity, with score counters and team-colored trails.\n\n22. **Competing crystal structures forming and merging in a cooling solution**  \n    In a transparent 3D box, seed crystals of different colors grow by attaching passing particles; neighboring crystals compete for space and can either form clean boundaries or partially merge, with lattice edges outlined and growth rates visualized by pulsing brightness.\n\n23. **Bees from different hives competing for flowers and sharing waggle-dance info**  \n    Colored bee particles fly from their respective hives to flower clusters that slowly refill nectar; bees compete for the richest flowers but return to their hive to perform a “waggle” pattern (circular path and directional arrow) that aligns outgoing bees toward profitable patches.\n\n24. **Competing viruses and immune cells in a bloodstream environment**  \n    Virus particles drift along a flowing stream of red blood cells, attaching to and infecting stationary wall cells, while immune cells actively chase and engulf viruses; engulfed viruses cause immune cells to glow brighter, and infection spread vs. clearance is tracked by colored meters.\n\n25. **Urban developers competing for land while sharing public infrastructure**  \n    Several developer agents place and grow semi-transparent building blocks on a shared terrain, competing to occupy high-value zones marked in bright colors, while all benefit from and expand shared infrastructure lines (roads, power) that appear as glowing paths connecting their districts."
+}

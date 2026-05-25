@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Voting/consensus behavior",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:05:22",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Opinion Particles in a Consensus Box",
+      "description": "A cloud of colored spheres (agents) float in a clear box, gently bumping and briefly attaching to swap colors toward local majority opinions, with trails showing their recent color changes and a side bar graph updating the global vote distribution.",
+      "seed": "Opinion Particles in a Consensus Box: A cloud of colored spheres (agents) float in a clear box, gently bumping and briefly attaching to swap colors toward local majority opinions, with trails showing their recent color changes and a side bar graph updating the global vote distribution."
+    },
+    {
+      "number": "2",
+      "title": "Rotating Council Table with Voting Lights",
+      "description": "A circular table of fixed cylinders (delegates) around a central transparent sphere flashes colored beams toward the center to cast votes, with beams colliding and merging into a growing central “consensus” light whose color and brightness change as more aligned votes arrive.",
+      "seed": "Rotating Council Table with Voting Lights: A circular table of fixed cylinders (delegates) around a central transparent sphere flashes colored beams toward the center to cast votes, with beams colliding and merging into a growing central “consensus” light whose color and brightness change as more aligned votes arrive."
+    },
+    {
+      "number": "3",
+      "title": "Network of Voting Nodes on a Floating Lattice",
+      "description": "A 3D lattice of small spheres (nodes) connected by thin translucent edges passes vote tokens as glowing particles that travel, split, and merge along edges, while each node changes color based on its current local majority and displays its count as a hovering label.",
+      "seed": "Network of Voting Nodes on a Floating Lattice: A 3D lattice of small spheres (nodes) connected by thin translucent edges passes vote tokens as glowing particles that travel, split, and merge along edges, while each node changes color based on its current local majority and displays its count as a hovering label."
+    },
+    {
+      "number": "4",
+      "title": "Flocking Voters Aligning Opinions",
+      "description": "A swarm of flying spheres with arrow-shaped tails wander in 3D, steering to stay near neighbors and slowly rotating their tail arrows and colors toward the average orientation/opinion of their neighbors, leaving short fading trails to show shifts toward consensus.",
+      "seed": "Flocking Voters Aligning Opinions: A swarm of flying spheres with arrow-shaped tails wander in 3D, steering to stay near neighbors and slowly rotating their tail arrows and colors toward the average orientation/opinion of their neighbors, leaving short fading trails to show shifts toward consensus."
+    },
+    {
+      "number": "5",
+      "title": "Two-Party Voting Clusters with Boundary Dynamics",
+      "description": "Red and blue spheres randomly move and elastically collide in a box divided by a transparent plane; when spheres collide near the plane, one may flip color probabilistically, letting the dividing plane slide and rotate as a dynamic “consensus boundary” with its position labeled.",
+      "seed": "Two-Party Voting Clusters with Boundary Dynamics: Red and blue spheres randomly move and elastically collide in a box divided by a transparent plane; when spheres collide near the plane, one may flip color probabilistically, letting the dividing plane slide and rotate as a dynamic “consensus boundary” with its position labeled."
+    },
+    {
+      "number": "6",
+      "title": "Spinning Planet of Voters with Regional Consensus",
+      "description": "Small colored spheres sit on the surface of a slowly rotating transparent globe, diffusing along the surface and exchanging colors with nearest neighbors, while semi-transparent patches form and dissolve showing regional consensus zones that grow, split, and merge.",
+      "seed": "Spinning Planet of Voters with Regional Consensus: Small colored spheres sit on the surface of a slowly rotating transparent globe, diffusing along the surface and exchanging colors with nearest neighbors, while semi-transparent patches form and dissolve showing regional consensus zones that grow, split, and merge."
+    },
+    {
+      "number": "7",
+      "title": "Opinion Diffusion in a 3D Grid City",
+      "description": "A stationary 3D grid of buildings (boxes) each contains one visible colored sphere (opinion) that occasionally “broadcasts” semi-transparent pulses to neighbors, nudging them toward its color, while an overhead heatmap plane floats above the city showing consensus intensity.",
+      "seed": "Opinion Diffusion in a 3D Grid City: A stationary 3D grid of buildings (boxes) each contains one visible colored sphere (opinion) that occasionally “broadcasts” semi-transparent pulses to neighbors, nudging them toward its color, while an overhead heatmap plane floats above the city showing consensus intensity."
+    },
+    {
+      "number": "8",
+      "title": "Jury Deliberation Chamber",
+      "description": "Twelve labeled spheres sit around a stationary circular table and periodically float up to connect with glowing rods when they speak; when a sphere is influenced, it smoothly morphs its color toward the speaking sphere’s color, and a central meter tracks how close they are to unanimity.",
+      "seed": "Jury Deliberation Chamber: Twelve labeled spheres sit around a stationary circular table and periodically float up to connect with glowing rods when they speak; when a sphere is influenced, it smoothly morphs its color toward the speaking sphere’s color, and a central meter tracks how close they are to unanimity."
+    },
+    {
+      "number": "9",
+      "title": "Opinion Islands Connected by Voting Ferries",
+      "description": "Separate platforms (islands) hover in space with clusters of differently colored spheres on each; small ferry platforms shuttle spheres between islands, where arrivals can cause local color shifts, while thin translucent bridges fade in when two islands reach similar consensus.",
+      "seed": "Opinion Islands Connected by Voting Ferries: Separate platforms (islands) hover in space with clusters of differently colored spheres on each; small ferry platforms shuttle spheres between islands, where arrivals can cause local color shifts, while thin translucent bridges fade in when two islands reach similar consensus."
+    },
+    {
+      "number": "10",
+      "title": "Swarm Robots Reaching Spatial Consensus",
+      "description": "Dozens of small mobile boxes (“robots”) roam a flat floor, each carrying a vertical colored pillar showing its current choice; robots that come within range exchange pulses and slowly adjust their pillar color and height, with the floor displaying a shifting shadow map of consensus strength.",
+      "seed": "Swarm Robots Reaching Spatial Consensus: Dozens of small mobile boxes (“robots”) roam a flat floor, each carrying a vertical colored pillar showing its current choice; robots that come within range exchange pulses and slowly adjust their pillar color and height, with the floor displaying a shifting shadow map of consensus strength."
+    },
+    {
+      "number": "11",
+      "title": "3D Opinion Crystal Growth",
+      "description": "A central seed cube grows a branching 3D crystal as small colored cubes (votes) drift in from all directions and attach to exposed faces, changing their color upon attachment according to a local majority rule of neighboring cubes, creating visible consensus layers and patterns.",
+      "seed": "3D Opinion Crystal Growth: A central seed cube grows a branching 3D crystal as small colored cubes (votes) drift in from all directions and attach to exposed faces, changing their color upon attachment according to a local majority rule of neighboring cubes, creating visible consensus layers and patterns."
+    },
+    {
+      "number": "12",
+      "title": "Voter Attraction to Competing Leaders",
+      "description": "Two or more large stationary spheres (leaders) sit apart, each radiating a distinct colored field; many smaller neutral spheres wander and gradually get pulled toward and orbit a leader, changing to its color, occasionally hopping or “defecting” to a different leader if nearby colors shift.",
+      "seed": "Voter Attraction to Competing Leaders: Two or more large stationary spheres (leaders) sit apart, each radiating a distinct colored field; many smaller neutral spheres wander and gradually get pulled toward and orbit a leader, changing to its color, occasionally hopping or “defecting” to a different leader if nearby colors shift."
+    },
+    {
+      "number": "13",
+      "title": "Liquid Vote Mixing in Connected Tanks",
+      "description": "Several transparent tanks filled with differently colored liquids (opinions) connect via tubes; small valves open and close, letting colored fluids flow, mix, and stratify, while floating markers in each tank show the majority color and a hovering label displays the current vote ratio.",
+      "seed": "Liquid Vote Mixing in Connected Tanks: Several transparent tanks filled with differently colored liquids (opinions) connect via tubes; small valves open and close, letting colored fluids flow, mix, and stratify, while floating markers in each tank show the majority color and a hovering label displays the current vote ratio."
+    },
+    {
+      "number": "14",
+      "title": "Consensus via Magnetic Alignment",
+      "description": "Needle-like arrows on pivoting bases are scattered over a flat platform and jitter randomly; when close, they exert magnetic-like torques on each other, gradually aligning their directions and colors, while the platform displays a circular gauge of global alignment.",
+      "seed": "Consensus via Magnetic Alignment: Needle-like arrows on pivoting bases are scattered over a flat platform and jitter randomly; when close, they exert magnetic-like torques on each other, gradually aligning their directions and colors, while the platform displays a circular gauge of global alignment."
+    },
+    {
+      "number": "15",
+      "title": "Blockchain-Style Voting Blocks Forming a Chain",
+      "description": "Cubes (blocks) drift in from one side, each with small colored dots indicating votes inside; they try to attach in a line, but blocks only lock and glow when a threshold of nearby blocks share a similar dot color pattern, building a luminous chain that occasionally forks and rejoins.",
+      "seed": "Blockchain-Style Voting Blocks Forming a Chain: Cubes (blocks) drift in from one side, each with small colored dots indicating votes inside; they try to attach in a line, but blocks only lock and glow when a threshold of nearby blocks share a similar dot color pattern, building a luminous chain that occasionally forks and rejoins."
+    },
+    {
+      "number": "16",
+      "title": "3D Ant Colony Choosing a Food Source",
+      "description": "A nest on one side of a floor sends out ant-like spheres that leave faint colored pheromone trails toward two food sources; as more ants choose a path, trails brighten and attract more ants, and the colony’s internal chamber slowly changes color toward the dominant path’s color.",
+      "seed": "3D Ant Colony Choosing a Food Source: A nest on one side of a floor sends out ant-like spheres that leave faint colored pheromone trails toward two food sources; as more ants choose a path, trails brighten and attract more ants, and the colony’s internal chamber slowly changes color toward the dominant path’s color."
+    },
+    {
+      "number": "17",
+      "title": "Spiral Stadium with Voting Spectators",
+      "description": "Layers of seats spiral upward around a central stage, each seat holding a small sphere that can flip colors to cast a vote; sound-like pulses from performers in the center travel outward, nudging nearby spectators to change, while a hovering display shows vote counts per spiral layer.",
+      "seed": "Spiral Stadium with Voting Spectators: Layers of seats spiral upward around a central stage, each seat holding a small sphere that can flip colors to cast a vote; sound-like pulses from performers in the center travel outward, nudging nearby spectators to change, while a hovering display shows vote counts per spiral layer."
+    },
+    {
+      "number": "18",
+      "title": "Opinion Cascades on a Social Network Sphere",
+      "description": "A large transparent sphere hosts nodes (small spheres) on its surface connected by glowing lines; when a node changes color, a wave of bright particles shoots along its links, causing neighbors to probabilistically adopt that color, with cascades wrapping around the globe in waves.",
+      "seed": "Opinion Cascades on a Social Network Sphere: A large transparent sphere hosts nodes (small spheres) on its surface connected by glowing lines; when a node changes color, a wave of bright particles shoots along its links, causing neighbors to probabilistically adopt that color, with cascades wrapping around the globe in waves."
+    },
+    {
+      "number": "19",
+      "title": "Deliberative Ring of Rotating Panels",
+      "description": "Vertical rectangular panels form a ring, each panel slowly rotating to show its current colored face (vote); when neighboring panels briefly align edges, colored pulses pass between them, shifting their hues, while an overhead ring chart shows sector-by-sector consensus.",
+      "seed": "Deliberative Ring of Rotating Panels: Vertical rectangular panels form a ring, each panel slowly rotating to show its current colored face (vote); when neighboring panels briefly align edges, colored pulses pass between them, shifting their hues, while an overhead ring chart shows sector-by-sector consensus."
+    },
+    {
+      "number": "20",
+      "title": "Market of Ideas with Attractive Stalls",
+      "description": "Multiple stalls (colored pillars) stand on a flat plaza, and small spheres wander as “people” who temporarily orbit a stall when convinced; spheres that cluster around a stall deepen its color and grow its height, while unpopular stalls shrink and fade, possibly disappearing.",
+      "seed": "Market of Ideas with Attractive Stalls: Multiple stalls (colored pillars) stand on a flat plaza, and small spheres wander as “people” who temporarily orbit a stall when convinced; spheres that cluster around a stall deepen its color and grow its height, while unpopular stalls shrink and fade, possibly disappearing."
+    },
+    {
+      "number": "21",
+      "title": "Consensus Waves in a 3D Cellular Automaton",
+      "description": "A 3D lattice of small cubes changes color based on the majority color in a local neighborhood each step, with the cubes pulsing slightly as they update and sending out short-lived translucent shockwaves when large patches flip simultaneously.",
+      "seed": "Consensus Waves in a 3D Cellular Automaton: A 3D lattice of small cubes changes color based on the majority color in a local neighborhood each step, with the cubes pulsing slightly as they update and sending out short-lived translucent shockwaves when large patches flip simultaneously."
+    },
+    {
+      "number": "22",
+      "title": "Two-Chamber Referendum with a Shared Corridor",
+      "description": "Two separate rooms of floating spheres each vote independently, with a narrow transparent corridor between them that occasionally opens to let a few spheres drift through, carrying their colors; corridor traffic allows one chamber’s consensus color to slowly invade the other.",
+      "seed": "Two-Chamber Referendum with a Shared Corridor: Two separate rooms of floating spheres each vote independently, with a narrow transparent corridor between them that occasionally opens to let a few spheres drift through, carrying their colors; corridor traffic allows one chamber’s consensus color to slowly invade the other."
+    },
+    {
+      "number": "23",
+      "title": "Opinion Fireflies Synchronizing Blinks",
+      "description": "Dozens of small spheres hover in 3D space, each pulsing its own colored light on a cycle; when a firefly sees nearby flashes, it adjusts its timing and possibly its color, leading to synchronized blinking clusters whose colors gradually merge as groups reach consensus.",
+      "seed": "Opinion Fireflies Synchronizing Blinks: Dozens of small spheres hover in 3D space, each pulsing its own colored light on a cycle; when a firefly sees nearby flashes, it adjusts its timing and possibly its color, leading to synchronized blinking clusters whose colors gradually merge as groups reach consensus."
+    },
+    {
+      "number": "24",
+      "title": "Negotiation Between Rotating Polyhedra",
+      "description": "A few large polyhedra (parties) float and slowly rotate, each face showing a different colored proposal; smaller spheres orbit and periodically attach to faces to “vote,” causing the polyhedron to subtly reorient and expand faces with more attached voters, visually shifting toward consensus faces.",
+      "seed": "Negotiation Between Rotating Polyhedra: A few large polyhedra (parties) float and slowly rotate, each face showing a different colored proposal; smaller spheres orbit and periodically attach to faces to “vote,” causing the polyhedron to subtly reorient and expand faces with more attached voters, visually shifting toward consensus faces."
+    },
+    {
+      "number": "25",
+      "title": "Three-Way Consensus on a Ternary Pyramid",
+      "description": "A triangular pyramid base holds three big colored vertices (options) with many small spheres moving on the base; spheres are pulled toward vertices whose color matches nearby neighbors, and the overall center of mass of the spheres is marked and trailed to show how consensus drifts over time.",
+      "seed": "Three-Way Consensus on a Ternary Pyramid: A triangular pyramid base holds three big colored vertices (options) with many small spheres moving on the base; spheres are pulled toward vertices whose color matches nearby neighbors, and the overall center of mass of the spheres is marked and trailed to show how consensus drifts over time."
+    }
+  ],
+  "raw_output": "Here are strong **Voting/consensus behavior simulation inputs** you can plug into your prompt:\n\n1. **Opinion Particles in a Consensus Box**\n   A cloud of colored spheres (agents) float in a clear box, gently bumping and briefly attaching to swap colors toward local majority opinions, with trails showing their recent color changes and a side bar graph updating the global vote distribution.\n\n2. **Rotating Council Table with Voting Lights**\n   A circular table of fixed cylinders (delegates) around a central transparent sphere flashes colored beams toward the center to cast votes, with beams colliding and merging into a growing central “consensus” light whose color and brightness change as more aligned votes arrive.\n\n3. **Network of Voting Nodes on a Floating Lattice**\n   A 3D lattice of small spheres (nodes) connected by thin translucent edges passes vote tokens as glowing particles that travel, split, and merge along edges, while each node changes color based on its current local majority and displays its count as a hovering label.\n\n4. **Flocking Voters Aligning Opinions**\n   A swarm of flying spheres with arrow-shaped tails wander in 3D, steering to stay near neighbors and slowly rotating their tail arrows and colors toward the average orientation/opinion of their neighbors, leaving short fading trails to show shifts toward consensus.\n\n5. **Two-Party Voting Clusters with Boundary Dynamics**\n   Red and blue spheres randomly move and elastically collide in a box divided by a transparent plane; when spheres collide near the plane, one may flip color probabilistically, letting the dividing plane slide and rotate as a dynamic “consensus boundary” with its position labeled.\n\n6. **Spinning Planet of Voters with Regional Consensus**\n   Small colored spheres sit on the surface of a slowly rotating transparent globe, diffusing along the surface and exchanging colors with nearest neighbors, while semi-transparent patches form and dissolve showing regional consensus zones that grow, split, and merge.\n\n7. **Opinion Diffusion in a 3D Grid City**\n   A stationary 3D grid of buildings (boxes) each contains one visible colored sphere (opinion) that occasionally “broadcasts” semi-transparent pulses to neighbors, nudging them toward its color, while an overhead heatmap plane floats above the city showing consensus intensity.\n\n8. **Jury Deliberation Chamber**\n   Twelve labeled spheres sit around a stationary circular table and periodically float up to connect with glowing rods when they speak; when a sphere is influenced, it smoothly morphs its color toward the speaking sphere’s color, and a central meter tracks how close they are to unanimity.\n\n9. **Opinion Islands Connected by Voting Ferries**\n   Separate platforms (islands) hover in space with clusters of differently colored spheres on each; small ferry platforms shuttle spheres between islands, where arrivals can cause local color shifts, while thin translucent bridges fade in when two islands reach similar consensus.\n\n10. **Swarm Robots Reaching Spatial Consensus**\n    Dozens of small mobile boxes (“robots”) roam a flat floor, each carrying a vertical colored pillar showing its current choice; robots that come within range exchange pulses and slowly adjust their pillar color and height, with the floor displaying a shifting shadow map of consensus strength.\n\n11. **3D Opinion Crystal Growth**\n    A central seed cube grows a branching 3D crystal as small colored cubes (votes) drift in from all directions and attach to exposed faces, changing their color upon attachment according to a local majority rule of neighboring cubes, creating visible consensus layers and patterns.\n\n12. **Voter Attraction to Competing Leaders**\n    Two or more large stationary spheres (leaders) sit apart, each radiating a distinct colored field; many smaller neutral spheres wander and gradually get pulled toward and orbit a leader, changing to its color, occasionally hopping or “defecting” to a different leader if nearby colors shift.\n\n13. **Liquid Vote Mixing in Connected Tanks**\n    Several transparent tanks filled with differently colored liquids (opinions) connect via tubes; small valves open and close, letting colored fluids flow, mix, and stratify, while floating markers in each tank show the majority color and a hovering label displays the current vote ratio.\n\n14. **Consensus via Magnetic Alignment**\n    Needle-like arrows on pivoting bases are scattered over a flat platform and jitter randomly; when close, they exert magnetic-like torques on each other, gradually aligning their directions and colors, while the platform displays a circular gauge of global alignment.\n\n15. **Blockchain-Style Voting Blocks Forming a Chain**\n    Cubes (blocks) drift in from one side, each with small colored dots indicating votes inside; they try to attach in a line, but blocks only lock and glow when a threshold of nearby blocks share a similar dot color pattern, building a luminous chain that occasionally forks and rejoins.\n\n16. **3D Ant Colony Choosing a Food Source**\n    A nest on one side of a floor sends out ant-like spheres that leave faint colored pheromone trails toward two food sources; as more ants choose a path, trails brighten and attract more ants, and the colony’s internal chamber slowly changes color toward the dominant path’s color.\n\n17. **Spiral Stadium with Voting Spectators**\n    Layers of seats spiral upward around a central stage, each seat holding a small sphere that can flip colors to cast a vote; sound-like pulses from performers in the center travel outward, nudging nearby spectators to change, while a hovering display shows vote counts per spiral layer.\n\n18. **Opinion Cascades on a Social Network Sphere**\n    A large transparent sphere hosts nodes (small spheres) on its surface connected by glowing lines; when a node changes color, a wave of bright particles shoots along its links, causing neighbors to probabilistically adopt that color, with cascades wrapping around the globe in waves.\n\n19. **Deliberative Ring of Rotating Panels**\n    Vertical rectangular panels form a ring, each panel slowly rotating to show its current colored face (vote); when neighboring panels briefly align edges, colored pulses pass between them, shifting their hues, while an overhead ring chart shows sector-by-sector consensus.\n\n20. **Market of Ideas with Attractive Stalls**\n    Multiple stalls (colored pillars) stand on a flat plaza, and small spheres wander as “people” who temporarily orbit a stall when convinced; spheres that cluster around a stall deepen its color and grow its height, while unpopular stalls shrink and fade, possibly disappearing.\n\n21. **Consensus Waves in a 3D Cellular Automaton**\n    A 3D lattice of small cubes changes color based on the majority color in a local neighborhood each step, with the cubes pulsing slightly as they update and sending out short-lived translucent shockwaves when large patches flip simultaneously.\n\n22. **Two-Chamber Referendum with a Shared Corridor**\n    Two separate rooms of floating spheres each vote independently, with a narrow transparent corridor between them that occasionally opens to let a few spheres drift through, carrying their colors; corridor traffic allows one chamber’s consensus color to slowly invade the other.\n\n23. **Opinion Fireflies Synchronizing Blinks**\n    Dozens of small spheres hover in 3D space, each pulsing its own colored light on a cycle; when a firefly sees nearby flashes, it adjusts its timing and possibly its color, leading to synchronized blinking clusters whose colors gradually merge as groups reach consensus.\n\n24. **Negotiation Between Rotating Polyhedra**\n    A few large polyhedra (parties) float and slowly rotate, each face showing a different colored proposal; smaller spheres orbit and periodically attach to faces to “vote,” causing the polyhedron to subtly reorient and expand faces with more attached voters, visually shifting toward consensus faces.\n\n25. **Three-Way Consensus on a Ternary Pyramid**\n    A triangular pyramid base holds three big colored vertices (options) with many small spheres moving on the base; spheres are pulled toward vertices whose color matches nearby neighbors, and the overall center of mass of the spheres is marked and trailed to show how consensus drifts over time."
+}

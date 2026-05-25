@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Pendulums and oscillators",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:38:08",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Coupled Double Pendulum Chain",
+      "description": "A row of 10 pendulums hangs from a light beam, each bob connected to its neighbors by springs so that when one is displaced the oscillations transfer and spread along the chain with trails and energy meters displayed.",
+      "seed": "Coupled Double Pendulum Chain: A row of 10 pendulums hangs from a light beam, each bob connected to its neighbors by springs so that when one is displaced the oscillations transfer and spread along the chain with trails and energy meters displayed."
+    },
+    {
+      "number": "2",
+      "title": "Chaotic Double Pendulum Explorer",
+      "description": "A transparent support rod holds a classic double pendulum with colored arms and a glowing bob that leaves a 3D trail, while on-screen labels show angle, angular velocity, and energy as the motion shifts from periodic to chaotic.",
+      "seed": "Chaotic Double Pendulum Explorer: A transparent support rod holds a classic double pendulum with colored arms and a glowing bob that leaves a 3D trail, while on-screen labels show angle, angular velocity, and energy as the motion shifts from periodic to chaotic."
+    },
+    {
+      "number": "3",
+      "title": "Foucault Pendulum over Rotating Globe",
+      "description": "A long pendulum with a heavy bob swings over a lightly textured Earth sphere that slowly rotates, with the bob’s path marking a precessing trace on a circular floor dial marked with compass directions.",
+      "seed": "Foucault Pendulum over Rotating Globe: A long pendulum with a heavy bob swings over a lightly textured Earth sphere that slowly rotates, with the bob’s path marking a precessing trace on a circular floor dial marked with compass directions."
+    },
+    {
+      "number": "4",
+      "title": "Pendulum Wave Art Installation",
+      "description": "Twenty pendulums of increasing length are aligned along a horizontal beam so they swing in and out of mesmerizing wave patterns, each bob glowing a different pastel color and leaving faint fading trails.",
+      "seed": "Pendulum Wave Art Installation: Twenty pendulums of increasing length are aligned along a horizontal beam so they swing in and out of mesmerizing wave patterns, each bob glowing a different pastel color and leaving faint fading trails."
+    },
+    {
+      "number": "5",
+      "title": "Mass–Spring–Pendulum Hybrid",
+      "description": "A mass hangs from a spring that itself is attached to a pivot, so the mass can both bounce vertically and swing like a pendulum, with arrows showing forces and color changes indicating stretching and compression.",
+      "seed": "Mass–Spring–Pendulum Hybrid: A mass hangs from a spring that itself is attached to a pivot, so the mass can both bounce vertically and swing like a pendulum, with arrows showing forces and color changes indicating stretching and compression."
+    },
+    {
+      "number": "6",
+      "title": "Driven Damped Pendulum with Torque Motor",
+      "description": "A single pendulum is attached to a motorized pivot that applies a sinusoidal torque; the bob swings in 3D while a small dial and arrow at the pivot show driving phase, and a semi-transparent “air” field applies damping.",
+      "seed": "Driven Damped Pendulum with Torque Motor: A single pendulum is attached to a motorized pivot that applies a sinusoidal torque; the bob swings in 3D while a small dial and arrow at the pivot show driving phase, and a semi-transparent “air” field applies damping."
+    },
+    {
+      "number": "7",
+      "title": "Newton’s Cradle with Flexible Strings",
+      "description": "A 3D Newton’s cradle features five metallic spheres on visible strings; collisions transfer momentum and cause bouncing and slight swinging out of plane, with impact flashes and tiny sound-wave-like particle ripples.",
+      "seed": "Newton’s Cradle with Flexible Strings: A 3D Newton’s cradle features five metallic spheres on visible strings; collisions transfer momentum and cause bouncing and slight swinging out of plane, with impact flashes and tiny sound-wave-like particle ripples."
+    },
+    {
+      "number": "8",
+      "title": "Pendulum Clock Mechanism",
+      "description": "A pendulum swings beneath a transparent casing, engaging an escapement mechanism that ticks a gear train driving clock hands on a dial, with moving teeth, collisions between pallets and gear, and labels for key components.",
+      "seed": "Pendulum Clock Mechanism: A pendulum swings beneath a transparent casing, engaging an escapement mechanism that ticks a gear train driving clock hands on a dial, with moving teeth, collisions between pallets and gear, and labels for key components."
+    },
+    {
+      "number": "9",
+      "title": "3D Lissajous Pendulum with Orthogonal Drives",
+      "description": "A bob is suspended by two perpendicular driving arms that oscillate in x and y with different frequencies and phases, tracing glowing 3D Lissajous figures in space while leaving a fading path and showing frequency sliders.",
+      "seed": "3D Lissajous Pendulum with Orthogonal Drives: A bob is suspended by two perpendicular driving arms that oscillate in x and y with different frequencies and phases, tracing glowing 3D Lissajous figures in space while leaving a fading path and showing frequency sliders."
+    },
+    {
+      "number": "10",
+      "title": "Spherical Pendulum in a Gravitational Well",
+      "description": "A bob on a long string swings freely in all directions from a fixed point, precessing over a shallow bowl-shaped surface that shows its projected path as a colored line that slowly wraps around.",
+      "seed": "Spherical Pendulum in a Gravitational Well: A bob on a long string swings freely in all directions from a fixed point, precessing over a shallow bowl-shaped surface that shows its projected path as a colored line that slowly wraps around."
+    },
+    {
+      "number": "11",
+      "title": "Coupled Oscillating Bridge with Pedestrians",
+      "description": "A light-colored bridge deck modeled as a spring–mass system oscillates vertically and torsionally while small walking capsules (pedestrians) move across it, their synchronized steps amplifying oscillations that can cause the deck to twist and bounce.",
+      "seed": "Coupled Oscillating Bridge with Pedestrians: A light-colored bridge deck modeled as a spring–mass system oscillates vertically and torsionally while small walking capsules (pedestrians) move across it, their synchronized steps amplifying oscillations that can cause the deck to twist and bounce."
+    },
+    {
+      "number": "12",
+      "title": "Quantum-Like Energy Level Pendulum Ladder",
+      "description": "Several pendulums of different lengths are aligned vertically, each bob glowing brighter as its amplitude increases; energy can “tunnel” between them via short-lived glowing links when they reach matching frequencies.",
+      "seed": "Quantum-Like Energy Level Pendulum Ladder: Several pendulums of different lengths are aligned vertically, each bob glowing brighter as its amplitude increases; energy can “tunnel” between them via short-lived glowing links when they reach matching frequencies."
+    },
+    {
+      "number": "13",
+      "title": "Metronome Synchronization on a Moving Board",
+      "description": "Ten metronomes are modeled as inverted pendulums mounted on a shared board that can slide on low-friction rollers, so their ticking causes the board to move and gradually synchronize all metronomes, with phase indicators above each.",
+      "seed": "Metronome Synchronization on a Moving Board: Ten metronomes are modeled as inverted pendulums mounted on a shared board that can slide on low-friction rollers, so their ticking causes the board to move and gradually synchronize all metronomes, with phase indicators above each."
+    },
+    {
+      "number": "14",
+      "title": "Pendulum Crane with Swinging Load",
+      "description": "A tower crane rotates slowly while a suspended load swings as a pendulum; the operator’s cabin and boom are rigid, the cable is flexible, and the load can collide with nearby transparent obstacles and leave a faint motion path.",
+      "seed": "Pendulum Crane with Swinging Load: A tower crane rotates slowly while a suspended load swings as a pendulum; the operator’s cabin and boom are rigid, the cable is flexible, and the load can collide with nearby transparent obstacles and leave a faint motion path."
+    },
+    {
+      "number": "15",
+      "title": "Damped Harmonic Oscillator Field",
+      "description": "A 3D grid of small masses on springs oscillates around equilibrium, each point bobbing with slightly different frequencies and damping; waves propagate when one corner is disturbed, and the entire field is color-coded by instantaneous displacement.",
+      "seed": "Damped Harmonic Oscillator Field: A 3D grid of small masses on springs oscillates around equilibrium, each point bobbing with slightly different frequencies and damping; waves propagate when one corner is disturbed, and the entire field is color-coded by instantaneous displacement."
+    },
+    {
+      "number": "16",
+      "title": "Magnetic Pendulum Attractor Map",
+      "description": "A pendulum bob swings over a horizontal plane where several fixed colored magnets sit; as the bob slows, it is captured by one magnet, and the floor gradually fills with colored dots marking where releases lead to which attractor.",
+      "seed": "Magnetic Pendulum Attractor Map: A pendulum bob swings over a horizontal plane where several fixed colored magnets sit; as the bob slows, it is captured by one magnet, and the floor gradually fills with colored dots marking where releases lead to which attractor."
+    },
+    {
+      "number": "17",
+      "title": "Planetary Pendulum in a Rotating Space Station",
+      "description": "Inside a transparent rotating ring (simulated space station), a short pendulum hangs from the inner wall; the station rotates, creating a pseudo-gravity direction that changes the pendulum’s apparent motion while the external frame stays stationary.",
+      "seed": "Planetary Pendulum in a Rotating Space Station: Inside a transparent rotating ring (simulated space station), a short pendulum hangs from the inner wall; the station rotates, creating a pseudo-gravity direction that changes the pendulum’s apparent motion while the external frame stays stationary."
+    },
+    {
+      "number": "18",
+      "title": "Bouncing Pendulum with Elastic Floor",
+      "description": "A pendulum bob can swing and also bounce on a slightly elastic floor beneath its equilibrium point, transferring energy between swinging and bouncing modes, with deformation of the floor and color changes on impact.",
+      "seed": "Bouncing Pendulum with Elastic Floor: A pendulum bob can swing and also bounce on a slightly elastic floor beneath its equilibrium point, transferring energy between swinging and bouncing modes, with deformation of the floor and color changes on impact."
+    },
+    {
+      "number": "19",
+      "title": "Multi-Level Pendulum Mobile Sculpture",
+      "description": "Several tiers of rods hang from the ceiling, each rod holding multiple pendulums of different lengths; motion at one level gently transfers through joints, producing complex oscillations with pastel colors and thin trails.",
+      "seed": "Multi-Level Pendulum Mobile Sculpture: Several tiers of rods hang from the ceiling, each rod holding multiple pendulums of different lengths; motion at one level gently transfers through joints, producing complex oscillations with pastel colors and thin trails."
+    },
+    {
+      "number": "20",
+      "title": "Coupled Torsional Oscillator Bars",
+      "description": "A series of vertical rods are attached to the floor by torsion springs and coupled at their tops by a light beam; when one rod is twisted and released, torsional oscillations propagate along the line with angle indicators and phase coloration.",
+      "seed": "Coupled Torsional Oscillator Bars: A series of vertical rods are attached to the floor by torsion springs and coupled at their tops by a light beam; when one rod is twisted and released, torsional oscillations propagate along the line with angle indicators and phase coloration."
+    },
+    {
+      "number": "21",
+      "title": "Pendulum-Driven Water Surface Ripples",
+      "description": "A pendulum bob periodically dips into a shallow transparent water pool, each touch generating circular ripples that propagate and interfere, while the bob’s height and speed control ripple size and brightness.",
+      "seed": "Pendulum-Driven Water Surface Ripples: A pendulum bob periodically dips into a shallow transparent water pool, each touch generating circular ripples that propagate and interfere, while the bob’s height and speed control ripple size and brightness."
+    },
+    {
+      "number": "22",
+      "title": "Spring-Pendulum Planetary System",
+      "description": "Several small “planets” hang from a central ring by springs, able to swing like pendulums and stretch radially; as the ring rotates, the planets oscillate, sometimes colliding, sometimes aligning into rotating patterns with trails.",
+      "seed": "Spring-Pendulum Planetary System: Several small “planets” hang from a central ring by springs, able to swing like pendulums and stretch radially; as the ring rotates, the planets oscillate, sometimes colliding, sometimes aligning into rotating patterns with trails."
+    },
+    {
+      "number": "23",
+      "title": "Social Synchronization as Oscillating Avatars",
+      "description": "Simple humanoid figures arranged in a circle each have an arm modeled as a pendulum; weak coupling causes their arm swings to gradually synchronize, with glowing links indicating social ties and color shifts as groups lock into shared rhythm.",
+      "seed": "Social Synchronization as Oscillating Avatars: Simple humanoid figures arranged in a circle each have an arm modeled as a pendulum; weak coupling causes their arm swings to gradually synchronize, with glowing links indicating social ties and color shifts as groups lock into shared rhythm."
+    },
+    {
+      "number": "24",
+      "title": "Microscopic Molecular Bond Oscillators",
+      "description": "Atoms are represented as colored spheres connected by springs that oscillate like tiny pendulums and stretchers; collisions, energy transfer, and occasional bond breaking occur, with vibrational modes highlighted by changing transparency.",
+      "seed": "Microscopic Molecular Bond Oscillators: Atoms are represented as colored spheres connected by springs that oscillate like tiny pendulums and stretchers; collisions, energy transfer, and occasional bond breaking occur, with vibrational modes highlighted by changing transparency."
+    },
+    {
+      "number": "25",
+      "title": "Pendulum Elevator with Variable Gravity",
+      "description": "A pendulum is inside an elevator car that accelerates up and down on a vertical track; the effective gravity changes, altering the pendulum’s period and amplitude while the car floor, walls, and outside shaft remain clearly visible.",
+      "seed": "Pendulum Elevator with Variable Gravity: A pendulum is inside an elevator car that accelerates up and down on a vertical track; the effective gravity changes, altering the pendulum’s period and amplitude while the car floor, walls, and outside shaft remain clearly visible."
+    }
+  ],
+  "raw_output": "Here are strong **Pendulums and oscillators simulation inputs** you can plug into your prompt:\n\n1. **Coupled Double Pendulum Chain**\n   A row of 10 pendulums hangs from a light beam, each bob connected to its neighbors by springs so that when one is displaced the oscillations transfer and spread along the chain with trails and energy meters displayed.\n\n2. **Chaotic Double Pendulum Explorer**\n   A transparent support rod holds a classic double pendulum with colored arms and a glowing bob that leaves a 3D trail, while on-screen labels show angle, angular velocity, and energy as the motion shifts from periodic to chaotic.\n\n3. **Foucault Pendulum over Rotating Globe**\n   A long pendulum with a heavy bob swings over a lightly textured Earth sphere that slowly rotates, with the bob’s path marking a precessing trace on a circular floor dial marked with compass directions.\n\n4. **Pendulum Wave Art Installation**\n   Twenty pendulums of increasing length are aligned along a horizontal beam so they swing in and out of mesmerizing wave patterns, each bob glowing a different pastel color and leaving faint fading trails.\n\n5. **Mass–Spring–Pendulum Hybrid**\n   A mass hangs from a spring that itself is attached to a pivot, so the mass can both bounce vertically and swing like a pendulum, with arrows showing forces and color changes indicating stretching and compression.\n\n6. **Driven Damped Pendulum with Torque Motor**\n   A single pendulum is attached to a motorized pivot that applies a sinusoidal torque; the bob swings in 3D while a small dial and arrow at the pivot show driving phase, and a semi-transparent “air” field applies damping.\n\n7. **Newton’s Cradle with Flexible Strings**\n   A 3D Newton’s cradle features five metallic spheres on visible strings; collisions transfer momentum and cause bouncing and slight swinging out of plane, with impact flashes and tiny sound-wave-like particle ripples.\n\n8. **Pendulum Clock Mechanism**\n   A pendulum swings beneath a transparent casing, engaging an escapement mechanism that ticks a gear train driving clock hands on a dial, with moving teeth, collisions between pallets and gear, and labels for key components.\n\n9. **3D Lissajous Pendulum with Orthogonal Drives**\n   A bob is suspended by two perpendicular driving arms that oscillate in x and y with different frequencies and phases, tracing glowing 3D Lissajous figures in space while leaving a fading path and showing frequency sliders.\n\n10. **Spherical Pendulum in a Gravitational Well**\n    A bob on a long string swings freely in all directions from a fixed point, precessing over a shallow bowl-shaped surface that shows its projected path as a colored line that slowly wraps around.\n\n11. **Coupled Oscillating Bridge with Pedestrians**\n    A light-colored bridge deck modeled as a spring–mass system oscillates vertically and torsionally while small walking capsules (pedestrians) move across it, their synchronized steps amplifying oscillations that can cause the deck to twist and bounce.\n\n12. **Quantum-Like Energy Level Pendulum Ladder**\n    Several pendulums of different lengths are aligned vertically, each bob glowing brighter as its amplitude increases; energy can “tunnel” between them via short-lived glowing links when they reach matching frequencies.\n\n13. **Metronome Synchronization on a Moving Board**\n    Ten metronomes are modeled as inverted pendulums mounted on a shared board that can slide on low-friction rollers, so their ticking causes the board to move and gradually synchronize all metronomes, with phase indicators above each.\n\n14. **Pendulum Crane with Swinging Load**\n    A tower crane rotates slowly while a suspended load swings as a pendulum; the operator’s cabin and boom are rigid, the cable is flexible, and the load can collide with nearby transparent obstacles and leave a faint motion path.\n\n15. **Damped Harmonic Oscillator Field**\n    A 3D grid of small masses on springs oscillates around equilibrium, each point bobbing with slightly different frequencies and damping; waves propagate when one corner is disturbed, and the entire field is color-coded by instantaneous displacement.\n\n16. **Magnetic Pendulum Attractor Map**\n    A pendulum bob swings over a horizontal plane where several fixed colored magnets sit; as the bob slows, it is captured by one magnet, and the floor gradually fills with colored dots marking where releases lead to which attractor.\n\n17. **Planetary Pendulum in a Rotating Space Station**\n    Inside a transparent rotating ring (simulated space station), a short pendulum hangs from the inner wall; the station rotates, creating a pseudo-gravity direction that changes the pendulum’s apparent motion while the external frame stays stationary.\n\n18. **Bouncing Pendulum with Elastic Floor**\n    A pendulum bob can swing and also bounce on a slightly elastic floor beneath its equilibrium point, transferring energy between swinging and bouncing modes, with deformation of the floor and color changes on impact.\n\n19. **Multi-Level Pendulum Mobile Sculpture**\n    Several tiers of rods hang from the ceiling, each rod holding multiple pendulums of different lengths; motion at one level gently transfers through joints, producing complex oscillations with pastel colors and thin trails.\n\n20. **Coupled Torsional Oscillator Bars**\n    A series of vertical rods are attached to the floor by torsion springs and coupled at their tops by a light beam; when one rod is twisted and released, torsional oscillations propagate along the line with angle indicators and phase coloration.\n\n21. **Pendulum-Driven Water Surface Ripples**\n    A pendulum bob periodically dips into a shallow transparent water pool, each touch generating circular ripples that propagate and interfere, while the bob’s height and speed control ripple size and brightness.\n\n22. **Spring-Pendulum Planetary System**\n    Several small “planets” hang from a central ring by springs, able to swing like pendulums and stretch radially; as the ring rotates, the planets oscillate, sometimes colliding, sometimes aligning into rotating patterns with trails.\n\n23. **Social Synchronization as Oscillating Avatars**\n    Simple humanoid figures arranged in a circle each have an arm modeled as a pendulum; weak coupling causes their arm swings to gradually synchronize, with glowing links indicating social ties and color shifts as groups lock into shared rhythm.\n\n24. **Microscopic Molecular Bond Oscillators**\n    Atoms are represented as colored spheres connected by springs that oscillate like tiny pendulums and stretchers; collisions, energy transfer, and occasional bond breaking occur, with vibrational modes highlighted by changing transparency.\n\n25. **Pendulum Elevator with Variable Gravity**\n    A pendulum is inside an elevator car that accelerates up and down on a vertical track; the effective gravity changes, altering the pendulum’s period and amplitude while the car floor, walls, and outside shaft remain clearly visible."
+}

@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Forest growth",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:48:21",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Seed Dispersal and Sapling Growth Field",
+      "description": "A 3D clearing with a few tall parent trees that periodically eject small glowing seed spheres which float, drift with a light wind, land on a textured ground plane, attach to soil patches, and slowly grow into semi-transparent green cylinders that thicken, branch upward, and change color as they mature, with labels showing age and height.",
+      "seed": "Seed Dispersal and Sapling Growth Field: A 3D clearing with a few tall parent trees that periodically eject small glowing seed spheres which float, drift with a light wind, land on a textured ground plane, attach to soil patches, and slowly grow into semi-transparent green cylinders that thicken, branch upward, and change color as they mature, with labels showing age and height."
+    },
+    {
+      "number": "2",
+      "title": "Competing Trees for Light and Space",
+      "description": "A grid of young tree cylinders that grow upward and outward while semi-transparent yellow light beams from above are blocked by taller neighbors, causing shaded trees to slow, bend toward gaps, or stop growing, with dynamic height meters and color shifts to show competition intensity.",
+      "seed": "Competing Trees for Light and Space: A grid of young tree cylinders that grow upward and outward while semi-transparent yellow light beams from above are blocked by taller neighbors, causing shaded trees to slow, bend toward gaps, or stop growing, with dynamic height meters and color shifts to show competition intensity."
+    },
+    {
+      "number": "3",
+      "title": "Forest Succession After a Fire Front",
+      "description": "A forest scene where a moving semi-transparent red “fire wall” passes through and turns trees blackened and leafless, followed over time by sprouting green seedling particles that appear around burned trunks, grow, and eventually replace them, with a timeline slider and labels for pioneer vs. mature species.",
+      "seed": "Forest Succession After a Fire Front: A forest scene where a moving semi-transparent red “fire wall” passes through and turns trees blackened and leafless, followed over time by sprouting green seedling particles that appear around burned trunks, grow, and eventually replace them, with a timeline slider and labels for pioneer vs. mature species."
+    },
+    {
+      "number": "4",
+      "title": "Root Network Underground Expansion",
+      "description": "Trees above a semi-transparent soil box send branching root tubes downward and outward, which grow, split, and sometimes collide or wrap around rocks, with roots changing color where they overlap and a toggle to hide the surface canopy and reveal the glowing underground network.",
+      "seed": "Root Network Underground Expansion: Trees above a semi-transparent soil box send branching root tubes downward and outward, which grow, split, and sometimes collide or wrap around rocks, with roots changing color where they overlap and a toggle to hide the surface canopy and reveal the glowing underground network."
+    },
+    {
+      "number": "5",
+      "title": "Seasonal Forest Canopy Cycle",
+      "description": "A stand of trees with static trunks but dynamic canopy spheres that grow, change color from pale green to deep green, then yellow/orange, then shrink and detach as leaf particles that drift to the ground and form a thin, growing leaf layer, with a “season” dial controlling speed.",
+      "seed": "Seasonal Forest Canopy Cycle: A stand of trees with static trunks but dynamic canopy spheres that grow, change color from pale green to deep green, then yellow/orange, then shrink and detach as leaf particles that drift to the ground and form a thin, growing leaf layer, with a “season” dial controlling speed."
+    },
+    {
+      "number": "6",
+      "title": "Rainfall, Soil Moisture, and Tree Growth Feedback",
+      "description": "A light-background scene where blue raindrop particles fall onto a gently sloped, textured terrain, seep into a semi-transparent soil volume, and raise local water level bars near each tree, which then grow faster or slower depending on water bars, with evaporating mist particles above drier zones.",
+      "seed": "Rainfall, Soil Moisture, and Tree Growth Feedback: A light-background scene where blue raindrop particles fall onto a gently sloped, textured terrain, seep into a semi-transparent soil volume, and raise local water level bars near each tree, which then grow faster or slower depending on water bars, with evaporating mist particles above drier zones."
+    },
+    {
+      "number": "7",
+      "title": "Canopy Gap Formation and Regeneration",
+      "description": "A dense canopy of overlapping green domes representing tree crowns where random trees “fall” (trunks tilt, detach, and slowly collapse to the ground), opening bright circular light patches that trigger faster growth and branching of nearby saplings in the gap, with arrows showing light direction.",
+      "seed": "Canopy Gap Formation and Regeneration: A dense canopy of overlapping green domes representing tree crowns where random trees “fall” (trunks tilt, detach, and slowly collapse to the ground), opening bright circular light patches that trigger faster growth and branching of nearby saplings in the gap, with arrows showing light direction."
+    },
+    {
+      "number": "8",
+      "title": "Mycorrhizal Fungal Network and Resource Transfer",
+      "description": "Multiple tree trunks connected underground by thin glowing tubes that branch like fungal hyphae, where colored resource pulses (e.g., blue for water, orange for sugars) travel along the tubes between trees, with labels showing donors and receivers and the network thickening where traffic is heavier.",
+      "seed": "Mycorrhizal Fungal Network and Resource Transfer: Multiple tree trunks connected underground by thin glowing tubes that branch like fungal hyphae, where colored resource pulses (e.g., blue for water, orange for sugars) travel along the tubes between trees, with labels showing donors and receivers and the network thickening where traffic is heavier."
+    },
+    {
+      "number": "9",
+      "title": "Forest Edge vs. Interior Growth Gradient",
+      "description": "A rectangular forest block where trees along the bright, open edges grow taller and bushier, while interior trees grow slower and more slender, with a movable “sun” light source and semi-transparent yellow light gradients that fade toward the center, plus on-hover labels with growth rates.",
+      "seed": "Forest Edge vs. Interior Growth Gradient: A rectangular forest block where trees along the bright, open edges grow taller and bushier, while interior trees grow slower and more slender, with a movable “sun” light source and semi-transparent yellow light gradients that fade toward the center, plus on-hover labels with growth rates."
+    },
+    {
+      "number": "10",
+      "title": "Slope, Erosion, and Tree Stability",
+      "description": "A sloped terrain with scattered trees whose roots (semi-transparent cones) grow into the hillside; when heavy rain bursts of blue particles hit, soil cubes can detach and slide downslope, destabilizing trees whose roots are too shallow, causing them to tilt, uproot, and slide while others remain anchored.",
+      "seed": "Slope, Erosion, and Tree Stability: A sloped terrain with scattered trees whose roots (semi-transparent cones) grow into the hillside; when heavy rain bursts of blue particles hit, soil cubes can detach and slide downslope, destabilizing trees whose roots are too shallow, causing them to tilt, uproot, and slide while others remain anchored."
+    },
+    {
+      "number": "11",
+      "title": "Patchy Forest Regeneration on a Checkerboard Landscape",
+      "description": "A checkerboard of soil quality tiles (green = fertile, brown = poor, gray = rock) where seeds rain down from above and only germinate on suitable tiles, then grow into trees that cast circular shadow disks and spread more seeds preferentially into nearby fertile tiles, with each tile labeled and color-coded.",
+      "seed": "Patchy Forest Regeneration on a Checkerboard Landscape: A checkerboard of soil quality tiles (green = fertile, brown = poor, gray = rock) where seeds rain down from above and only germinate on suitable tiles, then grow into trees that cast circular shadow disks and spread more seeds preferentially into nearby fertile tiles, with each tile labeled and color-coded."
+    },
+    {
+      "number": "12",
+      "title": "Invasive Species Overtaking a Young Forest",
+      "description": "Native saplings (soft green cylinders) grow slowly across a clearing while an invasive shrub species (bright red, bushy shapes) rapidly spreads by sending out horizontally expanding clones that attach to ground patches, crowd natives, and dim their color as they lose resources, with a live count display.",
+      "seed": "Invasive Species Overtaking a Young Forest: Native saplings (soft green cylinders) grow slowly across a clearing while an invasive shrub species (bright red, bushy shapes) rapidly spreads by sending out horizontally expanding clones that attach to ground patches, crowd natives, and dim their color as they lose resources, with a live count display."
+    },
+    {
+      "number": "13",
+      "title": "Vertical Forest Stratification: Understory to Emergent Trees",
+      "description": "Layers of plants from low ferns and shrubs up to mid-story trees and emergent giants, where each layer grows at different speeds and reacts to light penetration from above, with semi-transparent planes indicating strata heights and cross-section mode to watch vertical growth and branching patterns.",
+      "seed": "Vertical Forest Stratification: Understory to Emergent Trees: Layers of plants from low ferns and shrubs up to mid-story trees and emergent giants, where each layer grows at different speeds and reacts to light penetration from above, with semi-transparent planes indicating strata heights and cross-section mode to watch vertical growth and branching patterns."
+    },
+    {
+      "number": "14",
+      "title": "Wind-Driven Tree Sway and Branch Breakage",
+      "description": "A grove of tall trees with flexible segmented trunks and branches that bend, sway, and sometimes snap off as invisible wind strength (shown by moving arrow fields) increases and pulses, with broken branches falling, bouncing, and leaving scars highlighted in red on trunks.",
+      "seed": "Wind-Driven Tree Sway and Branch Breakage: A grove of tall trees with flexible segmented trunks and branches that bend, sway, and sometimes snap off as invisible wind strength (shown by moving arrow fields) increases and pulses, with broken branches falling, bouncing, and leaving scars highlighted in red on trunks."
+    },
+    {
+      "number": "15",
+      "title": "Urban Tree Planting and Growth Along a Street",
+      "description": "A straight road with buildings as stationary boxes and newly planted small trees in sidewalk pits that gradually grow crowns which extend toward light gaps between buildings, avoiding collisions with building faces and occasional passing vehicles, with labels tracking each tree’s height and crown width.",
+      "seed": "Urban Tree Planting and Growth Along a Street: A straight road with buildings as stationary boxes and newly planted small trees in sidewalk pits that gradually grow crowns which extend toward light gaps between buildings, avoiding collisions with building faces and occasional passing vehicles, with labels tracking each tree’s height and crown width."
+    },
+    {
+      "number": "16",
+      "title": "Forest Carbon Stock Accumulation Over Time",
+      "description": "A forest plot where each tree grows in diameter and height while a floating transparent bar or sphere above it fills with darker green to represent accumulated carbon, and a large aggregated carbon meter on the side rises as the forest matures, with dead trees turning gray and losing part of their carbon.",
+      "seed": "Forest Carbon Stock Accumulation Over Time: A forest plot where each tree grows in diameter and height while a floating transparent bar or sphere above it fills with darker green to represent accumulated carbon, and a large aggregated carbon meter on the side rises as the forest matures, with dead trees turning gray and losing part of their carbon."
+    },
+    {
+      "number": "17",
+      "title": "Micro-Scale Leaf Emergence on a Growing Twig",
+      "description": "A zoomed-in single twig that lengthens over time with buds (small bumps) that swell, split open, and unfold into semi-transparent leaves that rotate to face a moving light source, with faint green growth rings appearing along the twig as it elongates.",
+      "seed": "Micro-Scale Leaf Emergence on a Growing Twig: A zoomed-in single twig that lengthens over time with buds (small bumps) that swell, split open, and unfold into semi-transparent leaves that rotate to face a moving light source, with faint green growth rings appearing along the twig as it elongates."
+    },
+    {
+      "number": "18",
+      "title": "Forest Growth Along a River Corridor",
+      "description": "A winding blue river through a valley where tree seeds preferentially germinate near the moist banks, creating dense green bands that thicken and stretch outward over time, with occasional flood events causing water level to rise, uprooting some trees and depositing new seeds downstream.",
+      "seed": "Forest Growth Along a River Corridor: A winding blue river through a valley where tree seeds preferentially germinate near the moist banks, creating dense green bands that thicken and stretch outward over time, with occasional flood events causing water level to rise, uprooting some trees and depositing new seeds downstream."
+    },
+    {
+      "number": "19",
+      "title": "Animal-Assisted Seed Dispersal in a Young Forest",
+      "description": "A few fruiting trees generate colored fruit spheres that attract simple animal agents (small moving shapes) which pick up fruits, carry them with visible trails, and drop seed particles in new locations where they germinate and grow, with lines showing the paths that created each new tree.",
+      "seed": "Animal-Assisted Seed Dispersal in a Young Forest: A few fruiting trees generate colored fruit spheres that attract simple animal agents (small moving shapes) which pick up fruits, carry them with visible trails, and drop seed particles in new locations where they germinate and grow, with lines showing the paths that created each new tree."
+    },
+    {
+      "number": "20",
+      "title": "Forest Growth on Expanding Islands of Soil",
+      "description": "Small floating soil platforms appear in a light sky-like environment, slowly drift, merge, and split while seeds land on them, attach, and grow into miniature trees whose roots wrap around and sometimes bridge between nearby platforms, gradually forming connected “islands” of forest.",
+      "seed": "Forest Growth on Expanding Islands of Soil: Small floating soil platforms appear in a light sky-like environment, slowly drift, merge, and split while seeds land on them, attach, and grow into miniature trees whose roots wrap around and sometimes bridge between nearby platforms, gradually forming connected “islands” of forest."
+    },
+    {
+      "number": "21",
+      "title": "Tree Line Advance Up a Mountain Slope",
+      "description": "A mountain cross-section where temperature and oxygen gradients are shown as colored bands, with trees growing and creeping higher over time as climate warms (bands shift upward), while above the tree line only small shrubs appear and disappear, with a slider controlling warming rate.",
+      "seed": "Tree Line Advance Up a Mountain Slope: A mountain cross-section where temperature and oxygen gradients are shown as colored bands, with trees growing and creeping higher over time as climate warms (bands shift upward), while above the tree line only small shrubs appear and disappear, with a slider controlling warming rate."
+    },
+    {
+      "number": "22",
+      "title": "Forest Canopy as a Living Wave Surface",
+      "description": "Many trees form a nearly continuous canopy “surface” where crown tops are visualized as a flexible, semi-transparent mesh that rises as individual trees grow, dips where trees die and fall, and slowly smooths as neighbors fill the gaps, with the mesh colored by crown age.",
+      "seed": "Forest Canopy as a Living Wave Surface: Many trees form a nearly continuous canopy “surface” where crown tops are visualized as a flexible, semi-transparent mesh that rises as individual trees grow, dips where trees die and fall, and slowly smooths as neighbors fill the gaps, with the mesh colored by crown age."
+    },
+    {
+      "number": "23",
+      "title": "Rewilding an Abandoned Farmland Patch",
+      "description": "A flat field marked by faded fence posts and a central barn box where grasses appear first, followed by scattered shrubs and then trees that colonize from the margins, with different plant types shown in distinct colors and a time slider to watch the field transition into a closed-canopy forest.",
+      "seed": "Rewilding an Abandoned Farmland Patch: A flat field marked by faded fence posts and a central barn box where grasses appear first, followed by scattered shrubs and then trees that colonize from the margins, with different plant types shown in distinct colors and a time slider to watch the field transition into a closed-canopy forest."
+    },
+    {
+      "number": "24",
+      "title": "Competition Between Fast-Growing and Long-Lived Trees",
+      "description": "Two contrasting species (e.g., pale-green fast growers and dark-green slow giants) start together as seedlings; fast species grow quickly but turn orange and die earlier, while slow species steadily overtop them, with collisions when crowns meet and a side panel graph showing each species’ live count.",
+      "seed": "Competition Between Fast-Growing and Long-Lived Trees: Two contrasting species (e.g., pale-green fast growers and dark-green slow giants) start together as seedlings; fast species grow quickly but turn orange and die earlier, while slow species steadily overtop them, with collisions when crowns meet and a side panel graph showing each species’ live count."
+    },
+    {
+      "number": "25",
+      "title": "3D Forest Growth on a Rotating Planet Fragment",
+      "description": "A curved, rotating terrain patch like a small planet fragment where climate zones (wet vs. dry) sweep over as the fragment slowly tilts, causing forest patches to grow, shrink, and migrate, with trees in favorable zones bright green and those entering harsh zones fading and dying, leaving gray trunks.",
+      "seed": "3D Forest Growth on a Rotating Planet Fragment: A curved, rotating terrain patch like a small planet fragment where climate zones (wet vs. dry) sweep over as the fragment slowly tilts, causing forest patches to grow, shrink, and migrate, with trees in favorable zones bright green and those entering harsh zones fading and dying, leaving gray trunks."
+    }
+  ],
+  "raw_output": "Here are strong **Forest growth simulation inputs** you can plug into your prompt:\n\n1. **Seed Dispersal and Sapling Growth Field**\n   A 3D clearing with a few tall parent trees that periodically eject small glowing seed spheres which float, drift with a light wind, land on a textured ground plane, attach to soil patches, and slowly grow into semi-transparent green cylinders that thicken, branch upward, and change color as they mature, with labels showing age and height.\n\n2. **Competing Trees for Light and Space**\n   A grid of young tree cylinders that grow upward and outward while semi-transparent yellow light beams from above are blocked by taller neighbors, causing shaded trees to slow, bend toward gaps, or stop growing, with dynamic height meters and color shifts to show competition intensity.\n\n3. **Forest Succession After a Fire Front**\n   A forest scene where a moving semi-transparent red “fire wall” passes through and turns trees blackened and leafless, followed over time by sprouting green seedling particles that appear around burned trunks, grow, and eventually replace them, with a timeline slider and labels for pioneer vs. mature species.\n\n4. **Root Network Underground Expansion**\n   Trees above a semi-transparent soil box send branching root tubes downward and outward, which grow, split, and sometimes collide or wrap around rocks, with roots changing color where they overlap and a toggle to hide the surface canopy and reveal the glowing underground network.\n\n5. **Seasonal Forest Canopy Cycle**\n   A stand of trees with static trunks but dynamic canopy spheres that grow, change color from pale green to deep green, then yellow/orange, then shrink and detach as leaf particles that drift to the ground and form a thin, growing leaf layer, with a “season” dial controlling speed.\n\n6. **Rainfall, Soil Moisture, and Tree Growth Feedback**\n   A light-background scene where blue raindrop particles fall onto a gently sloped, textured terrain, seep into a semi-transparent soil volume, and raise local water level bars near each tree, which then grow faster or slower depending on water bars, with evaporating mist particles above drier zones.\n\n7. **Canopy Gap Formation and Regeneration**\n   A dense canopy of overlapping green domes representing tree crowns where random trees “fall” (trunks tilt, detach, and slowly collapse to the ground), opening bright circular light patches that trigger faster growth and branching of nearby saplings in the gap, with arrows showing light direction.\n\n8. **Mycorrhizal Fungal Network and Resource Transfer**\n   Multiple tree trunks connected underground by thin glowing tubes that branch like fungal hyphae, where colored resource pulses (e.g., blue for water, orange for sugars) travel along the tubes between trees, with labels showing donors and receivers and the network thickening where traffic is heavier.\n\n9. **Forest Edge vs. Interior Growth Gradient**\n   A rectangular forest block where trees along the bright, open edges grow taller and bushier, while interior trees grow slower and more slender, with a movable “sun” light source and semi-transparent yellow light gradients that fade toward the center, plus on-hover labels with growth rates.\n\n10. **Slope, Erosion, and Tree Stability**\n    A sloped terrain with scattered trees whose roots (semi-transparent cones) grow into the hillside; when heavy rain bursts of blue particles hit, soil cubes can detach and slide downslope, destabilizing trees whose roots are too shallow, causing them to tilt, uproot, and slide while others remain anchored.\n\n11. **Patchy Forest Regeneration on a Checkerboard Landscape**\n    A checkerboard of soil quality tiles (green = fertile, brown = poor, gray = rock) where seeds rain down from above and only germinate on suitable tiles, then grow into trees that cast circular shadow disks and spread more seeds preferentially into nearby fertile tiles, with each tile labeled and color-coded.\n\n12. **Invasive Species Overtaking a Young Forest**\n    Native saplings (soft green cylinders) grow slowly across a clearing while an invasive shrub species (bright red, bushy shapes) rapidly spreads by sending out horizontally expanding clones that attach to ground patches, crowd natives, and dim their color as they lose resources, with a live count display.\n\n13. **Vertical Forest Stratification: Understory to Emergent Trees**\n    Layers of plants from low ferns and shrubs up to mid-story trees and emergent giants, where each layer grows at different speeds and reacts to light penetration from above, with semi-transparent planes indicating strata heights and cross-section mode to watch vertical growth and branching patterns.\n\n14. **Wind-Driven Tree Sway and Branch Breakage**\n    A grove of tall trees with flexible segmented trunks and branches that bend, sway, and sometimes snap off as invisible wind strength (shown by moving arrow fields) increases and pulses, with broken branches falling, bouncing, and leaving scars highlighted in red on trunks.\n\n15. **Urban Tree Planting and Growth Along a Street**\n    A straight road with buildings as stationary boxes and newly planted small trees in sidewalk pits that gradually grow crowns which extend toward light gaps between buildings, avoiding collisions with building faces and occasional passing vehicles, with labels tracking each tree’s height and crown width.\n\n16. **Forest Carbon Stock Accumulation Over Time**\n    A forest plot where each tree grows in diameter and height while a floating transparent bar or sphere above it fills with darker green to represent accumulated carbon, and a large aggregated carbon meter on the side rises as the forest matures, with dead trees turning gray and losing part of their carbon.\n\n17. **Micro-Scale Leaf Emergence on a Growing Twig**\n    A zoomed-in single twig that lengthens over time with buds (small bumps) that swell, split open, and unfold into semi-transparent leaves that rotate to face a moving light source, with faint green growth rings appearing along the twig as it elongates.\n\n18. **Forest Growth Along a River Corridor**\n    A winding blue river through a valley where tree seeds preferentially germinate near the moist banks, creating dense green bands that thicken and stretch outward over time, with occasional flood events causing water level to rise, uprooting some trees and depositing new seeds downstream.\n\n19. **Animal-Assisted Seed Dispersal in a Young Forest**\n    A few fruiting trees generate colored fruit spheres that attract simple animal agents (small moving shapes) which pick up fruits, carry them with visible trails, and drop seed particles in new locations where they germinate and grow, with lines showing the paths that created each new tree.\n\n20. **Forest Growth on Expanding Islands of Soil**\n    Small floating soil platforms appear in a light sky-like environment, slowly drift, merge, and split while seeds land on them, attach, and grow into miniature trees whose roots wrap around and sometimes bridge between nearby platforms, gradually forming connected “islands” of forest.\n\n21. **Tree Line Advance Up a Mountain Slope**\n    A mountain cross-section where temperature and oxygen gradients are shown as colored bands, with trees growing and creeping higher over time as climate warms (bands shift upward), while above the tree line only small shrubs appear and disappear, with a slider controlling warming rate.\n\n22. **Forest Canopy as a Living Wave Surface**\n    Many trees form a nearly continuous canopy “surface” where crown tops are visualized as a flexible, semi-transparent mesh that rises as individual trees grow, dips where trees die and fall, and slowly smooths as neighbors fill the gaps, with the mesh colored by crown age.\n\n23. **Rewilding an Abandoned Farmland Patch**\n    A flat field marked by faded fence posts and a central barn box where grasses appear first, followed by scattered shrubs and then trees that colonize from the margins, with different plant types shown in distinct colors and a time slider to watch the field transition into a closed-canopy forest.\n\n24. **Competition Between Fast-Growing and Long-Lived Trees**\n    Two contrasting species (e.g., pale-green fast growers and dark-green slow giants) start together as seedlings; fast species grow quickly but turn orange and die earlier, while slow species steadily overtop them, with collisions when crowns meet and a side panel graph showing each species’ live count.\n\n25. **3D Forest Growth on a Rotating Planet Fragment**\n    A curved, rotating terrain patch like a small planet fragment where climate zones (wet vs. dry) sweep over as the fragment slowly tilts, causing forest patches to grow, shrink, and migrate, with trees in favorable zones bright green and those entering harsh zones fading and dying, leaving gray trunks."
+}

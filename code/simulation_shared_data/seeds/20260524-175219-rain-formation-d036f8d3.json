@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Rain formation",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:52:19",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Rising Warm Air and Cooling Cloud Box",
+      "description": "A transparent cube of air with colored spheres representing warm moist parcels rising, cooling as they ascend (color shifting), condensing into clustered semi-transparent droplets that grow, merge, and eventually fall as rain particles.",
+      "seed": "Rising Warm Air and Cooling Cloud Box: A transparent cube of air with colored spheres representing warm moist parcels rising, cooling as they ascend (color shifting), condensing into clustered semi-transparent droplets that grow, merge, and eventually fall as rain particles."
+    },
+    {
+      "number": "2",
+      "title": "Cloud Droplet Nucleation Chamber",
+      "description": "A clear vertical chamber where tiny dust particles (small gray spheres) float and attract surrounding water vapor particles (tiny blue dots), gradually forming larger semi-transparent droplets that detach from the dust and drift downward as rain.",
+      "seed": "Cloud Droplet Nucleation Chamber: A clear vertical chamber where tiny dust particles (small gray spheres) float and attract surrounding water vapor particles (tiny blue dots), gradually forming larger semi-transparent droplets that detach from the dust and drift downward as rain."
+    },
+    {
+      "number": "3",
+      "title": "Mountain-Induced Rainfall (Orographic Lift)",
+      "description": "A moving stream of warm air particles (orange arrows) flows toward a 3D mountain, is forced upward along the slope, cools and condenses into a forming cloud layer on the windward side, then releases falling raindrops and casts a dry “rain shadow” on the leeward side.",
+      "seed": "Mountain-Induced Rainfall (Orographic Lift): A moving stream of warm air particles (orange arrows) flows toward a 3D mountain, is forced upward along the slope, cools and condenses into a forming cloud layer on the windward side, then releases falling raindrops and casts a dry “rain shadow” on the leeward side."
+    },
+    {
+      "number": "4",
+      "title": "Cold Front Collision and Rain Band",
+      "description": "Two colored air masses (a blue cold-front wedge and a red warm-front slab) slide and collide, forcing the warm air upward where water vapor particles condense into a slanted band of cloud droplets that grow, merge, and fall as streaks of rain with trails.",
+      "seed": "Cold Front Collision and Rain Band: Two colored air masses (a blue cold-front wedge and a red warm-front slab) slide and collide, forcing the warm air upward where water vapor particles condense into a slanted band of cloud droplets that grow, merge, and fall as streaks of rain with trails."
+    },
+    {
+      "number": "5",
+      "title": "Microscopic Droplet Coalescence in a Cloud Slice",
+      "description": "Inside a semi-transparent white cloud volume, many small, slowly drifting droplets randomly collide, stick, and merge into larger droplets whose size is shown by radius and color, until heavy droplets detach and accelerate downward leaving faint motion trails.",
+      "seed": "Microscopic Droplet Coalescence in a Cloud Slice: Inside a semi-transparent white cloud volume, many small, slowly drifting droplets randomly collide, stick, and merge into larger droplets whose size is shown by radius and color, until heavy droplets detach and accelerate downward leaving faint motion trails."
+    },
+    {
+      "number": "6",
+      "title": "Raindrop Growth on Hygroscopic Aerosols",
+      "description": "A floating swarm of colored aerosol particles serves as condensation nuclei, attracting tiny water particles that orbit, attach, and build layered shells of water, visually growing into clear beads that eventually detach from the nuclei and fall as rain.",
+      "seed": "Raindrop Growth on Hygroscopic Aerosols: A floating swarm of colored aerosol particles serves as condensation nuclei, attracting tiny water particles that orbit, attach, and build layered shells of water, visually growing into clear beads that eventually detach from the nuclei and fall as rain."
+    },
+    {
+      "number": "7",
+      "title": "Convective Cumulus Cloud Tower with Showers",
+      "description": "A flat warm ground plane heats parcels of air (glowing orange spheres) that rise in columns, expand and cool (color fading), forming a towering semi-transparent cumulus cloud whose upper regions spawn rain droplets that fall and splash lightly on the ground.",
+      "seed": "Convective Cumulus Cloud Tower with Showers: A flat warm ground plane heats parcels of air (glowing orange spheres) that rise in columns, expand and cool (color fading), forming a towering semi-transparent cumulus cloud whose upper regions spawn rain droplets that fall and splash lightly on the ground."
+    },
+    {
+      "number": "8",
+      "title": "Supersaturated Vapor and Sudden Condensation Burst",
+      "description": "A box filled with fast-moving blue vapor particles gradually increases in humidity (displayed on a 3D meter), until a threshold triggers a rapid condensation event where many vapor particles instantly cluster into droplets, releasing a burst of falling rain.",
+      "seed": "Supersaturated Vapor and Sudden Condensation Burst: A box filled with fast-moving blue vapor particles gradually increases in humidity (displayed on a 3D meter), until a threshold triggers a rapid condensation event where many vapor particles instantly cluster into droplets, releasing a burst of falling rain."
+    },
+    {
+      "number": "9",
+      "title": "Raindrop Shape Evolution During Fall",
+      "description": "Large raindrop spheres spawn at a cloud base and fall through a column of air, gradually flattening and oscillating in shape (from spherical to oblate) as they accelerate, with color intensity tied to speed and a faint trail marking their paths.",
+      "seed": "Raindrop Shape Evolution During Fall: Large raindrop spheres spawn at a cloud base and fall through a column of air, gradually flattening and oscillating in shape (from spherical to oblate) as they accelerate, with color intensity tied to speed and a faint trail marking their paths."
+    },
+    {
+      "number": "10",
+      "title": "Urban Heat Island and Patchy Rain Formation",
+      "description": "A cityscape with blocks of buildings on a light ground plane shows hotter urban surfaces emitting rising air columns, which condense into localized small clouds above the city that produce intermittent rain streaks, while cooler rural areas at the edges remain mostly dry.",
+      "seed": "Urban Heat Island and Patchy Rain Formation: A cityscape with blocks of buildings on a light ground plane shows hotter urban surfaces emitting rising air columns, which condense into localized small clouds above the city that produce intermittent rain streaks, while cooler rural areas at the edges remain mostly dry."
+    },
+    {
+      "number": "11",
+      "title": "Cyclonic System with Spiral Rain Bands",
+      "description": "A rotating low-pressure disk at the center of a flat map pulls moist air inward, where spiral arms of dense moisture condense into rotating cloud bands, spawning curved streams of raindrops that orbit the center while falling toward the ground plane.",
+      "seed": "Cyclonic System with Spiral Rain Bands: A rotating low-pressure disk at the center of a flat map pulls moist air inward, where spiral arms of dense moisture condense into rotating cloud bands, spawning curved streams of raindrops that orbit the center while falling toward the ground plane."
+    },
+    {
+      "number": "12",
+      "title": "Forest Transpiration Feeding Afternoon Rain",
+      "description": "A grid of semi-transparent green tree models emits upward streams of water vapor particles that accumulate as a hovering moist layer, which thickens into a floating cloud slab that eventually condenses and releases rain directly over the forest.",
+      "seed": "Forest Transpiration Feeding Afternoon Rain: A grid of semi-transparent green tree models emits upward streams of water vapor particles that accumulate as a hovering moist layer, which thickens into a floating cloud slab that eventually condenses and releases rain directly over the forest."
+    },
+    {
+      "number": "13",
+      "title": "Temperature Gradient Column and Cloud Base Height",
+      "description": "A vertical atmospheric column shows a color-coded temperature gradient from warm ground to cold upper air; rising moist parcels cool with height until they reach the level where condensation starts, forming a visible flat cloud base from which rain begins to fall.",
+      "seed": "Temperature Gradient Column and Cloud Base Height: A vertical atmospheric column shows a color-coded temperature gradient from warm ground to cold upper air; rising moist parcels cool with height until they reach the level where condensation starts, forming a visible flat cloud base from which rain begins to fall."
+    },
+    {
+      "number": "14",
+      "title": "Sea Breeze and Coastal Rain Formation",
+      "description": "A sea and land plane meet at a coastline, with daytime heating causing warm air over land to rise and cooler air from the sea to flow in; water vapor from the sea is carried inland, condensing into clouds that form over land and produce rain drifting back toward the coast.",
+      "seed": "Sea Breeze and Coastal Rain Formation: A sea and land plane meet at a coastline, with daytime heating causing warm air over land to rise and cooler air from the sea to flow in; water vapor from the sea is carried inland, condensing into clouds that form over land and produce rain drifting back toward the coast."
+    },
+    {
+      "number": "15",
+      "title": "Microphysics of Collision–Breakup in Heavy Rain",
+      "description": "Large falling droplets inside a vertical tube occasionally collide and shatter into multiple smaller droplets that scatter, some re-merging as they fall; droplet size is indicated by color and radius, and their paths are visualized with short fading trails.",
+      "seed": "Microphysics of Collision–Breakup in Heavy Rain: Large falling droplets inside a vertical tube occasionally collide and shatter into multiple smaller droplets that scatter, some re-merging as they fall; droplet size is indicated by color and radius, and their paths are visualized with short fading trails."
+    },
+    {
+      "number": "16",
+      "title": "Symbolic “Rain of Ideas” Condensing from a Cloud of Thoughts",
+      "description": "A floating semi-transparent “thought cloud” filled with small glowing particles that drift and cluster into labeled “idea droplets,” which grow, detach, and fall gently toward a plane of books, where they leave brief glowing marks when they land.",
+      "seed": "Symbolic “Rain of Ideas” Condensing from a Cloud of Thoughts: A floating semi-transparent “thought cloud” filled with small glowing particles that drift and cluster into labeled “idea droplets,” which grow, detach, and fall gently toward a plane of books, where they leave brief glowing marks when they land."
+    },
+    {
+      "number": "17",
+      "title": "Industrial Cooling Tower Plume and Downwind Rain",
+      "description": "A cooling tower on a ground plane emits a warm moist plume that rises and bends with a steady wind, gradually cooling and forming a downwind cloud streak that thickens until condensation produces patchy rain falling onto the landscape beneath.",
+      "seed": "Industrial Cooling Tower Plume and Downwind Rain: A cooling tower on a ground plane emits a warm moist plume that rises and bends with a steady wind, gradually cooling and forming a downwind cloud streak that thickens until condensation produces patchy rain falling onto the landscape beneath."
+    },
+    {
+      "number": "18",
+      "title": "3D Radar Volume Scanning Growing Rain Cells",
+      "description": "A rotating radar dish on the ground sends out sweeping beams through a semi-transparent 3D volume where small cloud cells form, grow, and intensify into colored rain cores; the beams briefly highlight regions of higher droplet density with brighter colors.",
+      "seed": "3D Radar Volume Scanning Growing Rain Cells: A rotating radar dish on the ground sends out sweeping beams through a semi-transparent 3D volume where small cloud cells form, grow, and intensify into colored rain cores; the beams briefly highlight regions of higher droplet density with brighter colors."
+    },
+    {
+      "number": "19",
+      "title": "Gravity Waves Triggering Cloud Ripples and Rain Stripes",
+      "description": "A layered atmosphere contains gentle vertical oscillations (gravity waves) that periodically lift and lower moist air, creating alternating bands of enhanced condensation as rippled cloud layers, with narrow vertical curtains of rain falling from the peaks.",
+      "seed": "Gravity Waves Triggering Cloud Ripples and Rain Stripes: A layered atmosphere contains gentle vertical oscillations (gravity waves) that periodically lift and lower moist air, creating alternating bands of enhanced condensation as rippled cloud layers, with narrow vertical curtains of rain falling from the peaks."
+    },
+    {
+      "number": "20",
+      "title": "Warm Front Sliding Over Cool Air with Steady Rain",
+      "description": "A sloped boundary shows warm air gliding over cooler dense air, with water vapor particles rising along the gentle incline to form an extended, semi-transparent stratiform cloud layer that steadily releases fine, uniform rain over a large ground area.",
+      "seed": "Warm Front Sliding Over Cool Air with Steady Rain: A sloped boundary shows warm air gliding over cooler dense air, with water vapor particles rising along the gentle incline to form an extended, semi-transparent stratiform cloud layer that steadily releases fine, uniform rain over a large ground area."
+    },
+    {
+      "number": "21",
+      "title": "Tropical Convection Cell Over Warm Ocean",
+      "description": "A patch of warm ocean emits upward heat flux and water vapor particles that rise, condense into a towering cloud with a flat anvil top, and then produce intense, localized rain shafts that spread out as a cool pool when they reach the ocean surface.",
+      "seed": "Tropical Convection Cell Over Warm Ocean: A patch of warm ocean emits upward heat flux and water vapor particles that rise, condense into a towering cloud with a flat anvil top, and then produce intense, localized rain shafts that spread out as a cool pool when they reach the ocean surface."
+    },
+    {
+      "number": "22",
+      "title": "Raindrop Evaporation in Dry Air (Virga)",
+      "description": "Long streaks of raindrops fall from a high cloud base into a dry mid-level layer, where individual droplets shrink (radius decreases) and sometimes fully evaporate before reaching the ground, leaving fading trails that illustrate virga.",
+      "seed": "Raindrop Evaporation in Dry Air (Virga): Long streaks of raindrops fall from a high cloud base into a dry mid-level layer, where individual droplets shrink (radius decreases) and sometimes fully evaporate before reaching the ground, leaving fading trails that illustrate virga."
+    },
+    {
+      "number": "23",
+      "title": "Cloud Seeding and Enhanced Rainfall",
+      "description": "A small aircraft model flies through a cloud volume, releasing special seeding particles that attract nearby water vapor and droplets; seeded regions grow denser and darker, then produce thicker, more frequent raindrop streams than unseeded regions.",
+      "seed": "Cloud Seeding and Enhanced Rainfall: A small aircraft model flies through a cloud volume, releasing special seeding particles that attract nearby water vapor and droplets; seeded regions grow denser and darker, then produce thicker, more frequent raindrop streams than unseeded regions."
+    },
+    {
+      "number": "24",
+      "title": "Terrain-Driven Convergence and Afternoon Showers",
+      "description": "Several low hills on a plain cause converging surface winds that push moist air upward over the central area, where a compact cloud bubble rapidly swells and erupts into brief, intense rainfall exactly above the convergence zone.",
+      "seed": "Terrain-Driven Convergence and Afternoon Showers: Several low hills on a plain cause converging surface winds that push moist air upward over the central area, where a compact cloud bubble rapidly swells and erupts into brief, intense rainfall exactly above the convergence zone."
+    },
+    {
+      "number": "25",
+      "title": "Time-Lapse Evolution of a Storm Cell and Its Rain Core",
+      "description": "A single storm cell represented as a semi-transparent 3D blob grows from small to large while internal droplet density increases, then the core darkens and releases a concentrated column of rain, after which the cloud gradually dissipates as rainfall tapers off.",
+      "seed": "Time-Lapse Evolution of a Storm Cell and Its Rain Core: A single storm cell represented as a semi-transparent 3D blob grows from small to large while internal droplet density increases, then the core darkens and releases a concentrated column of rain, after which the cloud gradually dissipates as rainfall tapers off."
+    }
+  ],
+  "raw_output": "Here are strong **Rain formation simulation inputs** you can plug into your prompt:\n\n1. **Rising Warm Air and Cooling Cloud Box**\n   A transparent cube of air with colored spheres representing warm moist parcels rising, cooling as they ascend (color shifting), condensing into clustered semi-transparent droplets that grow, merge, and eventually fall as rain particles.\n\n2. **Cloud Droplet Nucleation Chamber**\n   A clear vertical chamber where tiny dust particles (small gray spheres) float and attract surrounding water vapor particles (tiny blue dots), gradually forming larger semi-transparent droplets that detach from the dust and drift downward as rain.\n\n3. **Mountain-Induced Rainfall (Orographic Lift)**\n   A moving stream of warm air particles (orange arrows) flows toward a 3D mountain, is forced upward along the slope, cools and condenses into a forming cloud layer on the windward side, then releases falling raindrops and casts a dry “rain shadow” on the leeward side.\n\n4. **Cold Front Collision and Rain Band**\n   Two colored air masses (a blue cold-front wedge and a red warm-front slab) slide and collide, forcing the warm air upward where water vapor particles condense into a slanted band of cloud droplets that grow, merge, and fall as streaks of rain with trails.\n\n5. **Microscopic Droplet Coalescence in a Cloud Slice**\n   Inside a semi-transparent white cloud volume, many small, slowly drifting droplets randomly collide, stick, and merge into larger droplets whose size is shown by radius and color, until heavy droplets detach and accelerate downward leaving faint motion trails.\n\n6. **Raindrop Growth on Hygroscopic Aerosols**\n   A floating swarm of colored aerosol particles serves as condensation nuclei, attracting tiny water particles that orbit, attach, and build layered shells of water, visually growing into clear beads that eventually detach from the nuclei and fall as rain.\n\n7. **Convective Cumulus Cloud Tower with Showers**\n   A flat warm ground plane heats parcels of air (glowing orange spheres) that rise in columns, expand and cool (color fading), forming a towering semi-transparent cumulus cloud whose upper regions spawn rain droplets that fall and splash lightly on the ground.\n\n8. **Supersaturated Vapor and Sudden Condensation Burst**\n   A box filled with fast-moving blue vapor particles gradually increases in humidity (displayed on a 3D meter), until a threshold triggers a rapid condensation event where many vapor particles instantly cluster into droplets, releasing a burst of falling rain.\n\n9. **Raindrop Shape Evolution During Fall**\n   Large raindrop spheres spawn at a cloud base and fall through a column of air, gradually flattening and oscillating in shape (from spherical to oblate) as they accelerate, with color intensity tied to speed and a faint trail marking their paths.\n\n10. **Urban Heat Island and Patchy Rain Formation**\n    A cityscape with blocks of buildings on a light ground plane shows hotter urban surfaces emitting rising air columns, which condense into localized small clouds above the city that produce intermittent rain streaks, while cooler rural areas at the edges remain mostly dry.\n\n11. **Cyclonic System with Spiral Rain Bands**\n    A rotating low-pressure disk at the center of a flat map pulls moist air inward, where spiral arms of dense moisture condense into rotating cloud bands, spawning curved streams of raindrops that orbit the center while falling toward the ground plane.\n\n12. **Forest Transpiration Feeding Afternoon Rain**\n    A grid of semi-transparent green tree models emits upward streams of water vapor particles that accumulate as a hovering moist layer, which thickens into a floating cloud slab that eventually condenses and releases rain directly over the forest.\n\n13. **Temperature Gradient Column and Cloud Base Height**\n    A vertical atmospheric column shows a color-coded temperature gradient from warm ground to cold upper air; rising moist parcels cool with height until they reach the level where condensation starts, forming a visible flat cloud base from which rain begins to fall.\n\n14. **Sea Breeze and Coastal Rain Formation**\n    A sea and land plane meet at a coastline, with daytime heating causing warm air over land to rise and cooler air from the sea to flow in; water vapor from the sea is carried inland, condensing into clouds that form over land and produce rain drifting back toward the coast.\n\n15. **Microphysics of Collision–Breakup in Heavy Rain**\n    Large falling droplets inside a vertical tube occasionally collide and shatter into multiple smaller droplets that scatter, some re-merging as they fall; droplet size is indicated by color and radius, and their paths are visualized with short fading trails.\n\n16. **Symbolic “Rain of Ideas” Condensing from a Cloud of Thoughts**\n    A floating semi-transparent “thought cloud” filled with small glowing particles that drift and cluster into labeled “idea droplets,” which grow, detach, and fall gently toward a plane of books, where they leave brief glowing marks when they land.\n\n17. **Industrial Cooling Tower Plume and Downwind Rain**\n    A cooling tower on a ground plane emits a warm moist plume that rises and bends with a steady wind, gradually cooling and forming a downwind cloud streak that thickens until condensation produces patchy rain falling onto the landscape beneath.\n\n18. **3D Radar Volume Scanning Growing Rain Cells**\n    A rotating radar dish on the ground sends out sweeping beams through a semi-transparent 3D volume where small cloud cells form, grow, and intensify into colored rain cores; the beams briefly highlight regions of higher droplet density with brighter colors.\n\n19. **Gravity Waves Triggering Cloud Ripples and Rain Stripes**\n    A layered atmosphere contains gentle vertical oscillations (gravity waves) that periodically lift and lower moist air, creating alternating bands of enhanced condensation as rippled cloud layers, with narrow vertical curtains of rain falling from the peaks.\n\n20. **Warm Front Sliding Over Cool Air with Steady Rain**\n    A sloped boundary shows warm air gliding over cooler dense air, with water vapor particles rising along the gentle incline to form an extended, semi-transparent stratiform cloud layer that steadily releases fine, uniform rain over a large ground area.\n\n21. **Tropical Convection Cell Over Warm Ocean**\n    A patch of warm ocean emits upward heat flux and water vapor particles that rise, condense into a towering cloud with a flat anvil top, and then produce intense, localized rain shafts that spread out as a cool pool when they reach the ocean surface.\n\n22. **Raindrop Evaporation in Dry Air (Virga)**\n    Long streaks of raindrops fall from a high cloud base into a dry mid-level layer, where individual droplets shrink (radius decreases) and sometimes fully evaporate before reaching the ground, leaving fading trails that illustrate virga.\n\n23. **Cloud Seeding and Enhanced Rainfall**\n    A small aircraft model flies through a cloud volume, releasing special seeding particles that attract nearby water vapor and droplets; seeded regions grow denser and darker, then produce thicker, more frequent raindrop streams than unseeded regions.\n\n24. **Terrain-Driven Convergence and Afternoon Showers**\n    Several low hills on a plain cause converging surface winds that push moist air upward over the central area, where a compact cloud bubble rapidly swells and erupts into brief, intense rainfall exactly above the convergence zone.\n\n25. **Time-Lapse Evolution of a Storm Cell and Its Rain Core**\n    A single storm cell represented as a semi-transparent 3D blob grows from small to large while internal droplet density increases, then the core darkens and releases a concentrated column of rain, after which the cloud gradually dissipates as rainfall tapers off."
+}

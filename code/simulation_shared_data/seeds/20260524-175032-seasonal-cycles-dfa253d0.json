@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Seasonal cycles",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:50:32",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Tilted Planet with Orbiting Seasons",
+      "description": "A tilted Earth-like sphere orbits a glowing sun, with rotating axial tilt, shifting daylight bands, and color-changing latitude zones to show seasonal temperature gradients plus labeled solstices and equinoxes.",
+      "seed": "Tilted Planet with Orbiting Seasons: A tilted Earth-like sphere orbits a glowing sun, with rotating axial tilt, shifting daylight bands, and color-changing latitude zones to show seasonal temperature gradients plus labeled solstices and equinoxes."
+    },
+    {
+      "number": "2",
+      "title": "Tree Through the Seasons",
+      "description": "A central branching tree model cycles through spring bud growth, summer leaf expansion, autumn color change and leaf fall, and winter bare branches with snow particles accumulating and melting at its base.",
+      "seed": "Tree Through the Seasons: A central branching tree model cycles through spring bud growth, summer leaf expansion, autumn color change and leaf fall, and winter bare branches with snow particles accumulating and melting at its base."
+    },
+    {
+      "number": "3",
+      "title": "Seasonal Ocean–Atmosphere Circulation",
+      "description": "A blue semi-transparent Earth with rotating arrows of atmospheric winds and ocean currents that strengthen, weaken, and shift latitude with seasons, using colored trails and particle clouds of moisture and heat.",
+      "seed": "Seasonal Ocean–Atmosphere Circulation: A blue semi-transparent Earth with rotating arrows of atmospheric winds and ocean currents that strengthen, weaken, and shift latitude with seasons, using colored trails and particle clouds of moisture and heat."
+    },
+    {
+      "number": "4",
+      "title": "Mountain Snowpack and River Flow Cycle",
+      "description": "A 3D mountain valley where snow layers build up on peaks in winter, slowly melt and drip into streams in spring, create rising river levels and moving water particles, then drop to low, clear flow in summer and fall.",
+      "seed": "Mountain Snowpack and River Flow Cycle: A 3D mountain valley where snow layers build up on peaks in winter, slowly melt and drip into streams in spring, create rising river levels and moving water particles, then drop to low, clear flow in summer and fall."
+    },
+    {
+      "number": "5",
+      "title": "Urban Energy Use Over the Year",
+      "description": "A small city block with buildings whose window colors and rooftop HVAC units pulse and change intensity with simulated seasonal temperatures, while energy flow bars and rotating meters show demand rising and falling.",
+      "seed": "Urban Energy Use Over the Year: A small city block with buildings whose window colors and rooftop HVAC units pulse and change intensity with simulated seasonal temperatures, while energy flow bars and rotating meters show demand rising and falling."
+    },
+    {
+      "number": "6",
+      "title": "Seasonal Animal Migration Paths",
+      "description": "A globe with multiple flocks or herds as colored particle clusters that migrate between summer and winter ranges, leaving curved path trails, pausing at stopover sites, and reacting to shifting temperature bands.",
+      "seed": "Seasonal Animal Migration Paths: A globe with multiple flocks or herds as colored particle clusters that migrate between summer and winter ranges, leaving curved path trails, pausing at stopover sites, and reacting to shifting temperature bands."
+    },
+    {
+      "number": "7",
+      "title": "Seasonal Polar Ice Cap Dynamics",
+      "description": "A rotating planet with transparent atmosphere and bright polar regions where ice caps grow outward and thicken in winter, then retreat and thin in summer, with floating sea-ice plates that split, collide, and merge.",
+      "seed": "Seasonal Polar Ice Cap Dynamics: A rotating planet with transparent atmosphere and bright polar regions where ice caps grow outward and thicken in winter, then retreat and thin in summer, with floating sea-ice plates that split, collide, and merge."
+    },
+    {
+      "number": "8",
+      "title": "Seasonal Crop Field Growth Cycle",
+      "description": "A flat farm grid of plots where seeds appear, sprout, grow into tall plants, change color as they mature, then are harvested and leave stubble, with rainfall particles, irrigation streams, and a soil moisture color map.",
+      "seed": "Seasonal Crop Field Growth Cycle: A flat farm grid of plots where seeds appear, sprout, grow into tall plants, change color as they mature, then are harvested and leave stubble, with rainfall particles, irrigation streams, and a soil moisture color map."
+    },
+    {
+      "number": "9",
+      "title": "Seasonal Monsoon Rainfall System",
+      "description": "A 3D land–ocean interface showing warm air plumes rising from land in summer to pull in moist air from the sea, forming tall cloud columns and heavy rain particles, then reversing with dry winds in winter.",
+      "seed": "Seasonal Monsoon Rainfall System: A 3D land–ocean interface showing warm air plumes rising from land in summer to pull in moist air from the sea, forming tall cloud columns and heavy rain particles, then reversing with dry winds in winter."
+    },
+    {
+      "number": "10",
+      "title": "Four-Season Park Cross-Section",
+      "description": "A park divided into four quadrants, each cycling through seasonal states—flowers blooming, leaves thickening, foliage reddening and falling, snow covering benches—while people-spheres wander, change outfits, and leave footprints in snow or grass.",
+      "seed": "Four-Season Park Cross-Section: A park divided into four quadrants, each cycling through seasonal states—flowers blooming, leaves thickening, foliage reddening and falling, snow covering benches—while people-spheres wander, change outfits, and leave footprints in snow or grass."
+    },
+    {
+      "number": "11",
+      "title": "Seasonal CO₂ Uptake in a Forest",
+      "description": "A forest canopy where green leaves absorb red CO₂ particles from the air more strongly in summer than winter, with seasonal leaf density changes and a floating graph panel showing atmospheric CO₂ level shifting.",
+      "seed": "Seasonal CO₂ Uptake in a Forest: A forest canopy where green leaves absorb red CO₂ particles from the air more strongly in summer than winter, with seasonal leaf density changes and a floating graph panel showing atmospheric CO₂ level shifting."
+    },
+    {
+      "number": "12",
+      "title": "Seasonal Lake Turnover and Stratification",
+      "description": "A deep lake cross-section with colored temperature layers that stratify in summer, then mix and overturn in spring and fall, with bubble particles rising, nutrients as colored dots mixing, and ice forming and melting on the surface.",
+      "seed": "Seasonal Lake Turnover and Stratification: A deep lake cross-section with colored temperature layers that stratify in summer, then mix and overturn in spring and fall, with bubble particles rising, nutrients as colored dots mixing, and ice forming and melting on the surface."
+    },
+    {
+      "number": "13",
+      "title": "Seasonal Eclipse of a Binary Planet System",
+      "description": "Two orbiting planets around a star where one’s axial tilt and orbit cause animated “seasons” (surface color and cloud cover changes) while the companion periodically eclipses the star, briefly cooling regions and shifting seasonal bands.",
+      "seed": "Seasonal Eclipse of a Binary Planet System: Two orbiting planets around a star where one’s axial tilt and orbit cause animated “seasons” (surface color and cloud cover changes) while the companion periodically eclipses the star, briefly cooling regions and shifting seasonal bands."
+    },
+    {
+      "number": "14",
+      "title": "Seasonal Retail Flow in a Shopping Mall",
+      "description": "A multi-level mall layout with shopper spheres moving faster and in greater numbers during “holiday seasons,” with store fronts that glow brighter, sale banners that appear and disappear, and money-flow arrows that thicken seasonally.",
+      "seed": "Seasonal Retail Flow in a Shopping Mall: A multi-level mall layout with shopper spheres moving faster and in greater numbers during “holiday seasons,” with store fronts that glow brighter, sale banners that appear and disappear, and money-flow arrows that thicken seasonally."
+    },
+    {
+      "number": "15",
+      "title": "Seasonal Bee Activity Around a Hive",
+      "description": "A hive at the center with bee particles that swarm densely in spring and summer collecting pollen from flowers, then reduce flights and cluster tightly around the hive in fall and winter, with nectar and pollen flows as colored trails.",
+      "seed": "Seasonal Bee Activity Around a Hive: A hive at the center with bee particles that swarm densely in spring and summer collecting pollen from flowers, then reduce flights and cluster tightly around the hive in fall and winter, with nectar and pollen flows as colored trails."
+    },
+    {
+      "number": "16",
+      "title": "Seasonal River Delta Sediment and Flooding",
+      "description": "A river flowing into a delta where water level rises and falls with seasonal rain, carrying sediment particles that settle, build sandbars, and are eroded again, with floodplain areas flashing and filling when levels exceed banks.",
+      "seed": "Seasonal River Delta Sediment and Flooding: A river flowing into a delta where water level rises and falls with seasonal rain, carrying sediment particles that settle, build sandbars, and are eroded again, with floodplain areas flashing and filling when levels exceed banks."
+    },
+    {
+      "number": "17",
+      "title": "Seasonal Daylight and Shadow Simulation in a City",
+      "description": "A small cluster of buildings with the sun’s angle changing over an animated year, casting long and short shadows that sweep across the ground, while solar panels on roofs change output levels with seasonally varying sun paths.",
+      "seed": "Seasonal Daylight and Shadow Simulation in a City: A small cluster of buildings with the sun’s angle changing over an animated year, casting long and short shadows that sweep across the ground, while solar panels on roofs change output levels with seasonally varying sun paths."
+    },
+    {
+      "number": "18",
+      "title": "Seasonal Glacier Advance and Retreat",
+      "description": "A valley glacier that slowly creeps downhill, thickening with blue ice layers in colder “years” and thinning with melt in warmer ones, shedding ice blocks that slide, collide, and melt into flowing meltwater channels.",
+      "seed": "Seasonal Glacier Advance and Retreat: A valley glacier that slowly creeps downhill, thickening with blue ice layers in colder “years” and thinning with melt in warmer ones, shedding ice blocks that slide, collide, and melt into flowing meltwater channels."
+    },
+    {
+      "number": "19",
+      "title": "Seasonal Mood Ring Planet",
+      "description": "A symbolic planet whose surface patches change color through a repeating “emotional” seasonal cycle—growth, peak, decay, rest—with zones that spread, merge, and shrink, and glowing arcs showing transitions between regions.",
+      "seed": "Seasonal Mood Ring Planet: A symbolic planet whose surface patches change color through a repeating “emotional” seasonal cycle—growth, peak, decay, rest—with zones that spread, merge, and shrink, and glowing arcs showing transitions between regions."
+    },
+    {
+      "number": "20",
+      "title": "Seasonal Life Cycle in a Pond Ecosystem",
+      "description": "A pond cross-section where algae blooms, zooplankton, and fish populations appear as colored particles that grow, split, and die back seasonally, with ice cover formation, leaf litter fall, and oxygen bubbles forming and dissolving.",
+      "seed": "Seasonal Life Cycle in a Pond Ecosystem: A pond cross-section where algae blooms, zooplankton, and fish populations appear as colored particles that grow, split, and die back seasonally, with ice cover formation, leaf litter fall, and oxygen bubbles forming and dissolving."
+    },
+    {
+      "number": "21",
+      "title": "Seasonal Spread of a Forest Fire Risk",
+      "description": "A forest grid where vegetation dryness increases with hot seasons (colors shifting from green to brown), and occasional sparks cause fires that spread, branch, and extinguish more easily in wet seasons, leaving charred patches that slowly regrow.",
+      "seed": "Seasonal Spread of a Forest Fire Risk: A forest grid where vegetation dryness increases with hot seasons (colors shifting from green to brown), and occasional sparks cause fires that spread, branch, and extinguish more easily in wet seasons, leaving charred patches that slowly regrow."
+    },
+    {
+      "number": "22",
+      "title": "Seasonal Clothing and Traffic Flow in a Town Square",
+      "description": "A central plaza with human-like capsules changing clothing colors and thickness with seasons, while vehicle blocks move slower in snowy winter (sliding, leaving skid marks) and faster in clear summer, with a traffic density meter cycling.",
+      "seed": "Seasonal Clothing and Traffic Flow in a Town Square: A central plaza with human-like capsules changing clothing colors and thickness with seasons, while vehicle blocks move slower in snowy winter (sliding, leaving skid marks) and faster in clear summer, with a traffic density meter cycling."
+    },
+    {
+      "number": "23",
+      "title": "Seasonal Greenhouse Operation",
+      "description": "A glass greenhouse where transparency, internal lights, and vents change with the time of year, plants grow faster or slower, heaters glow in winter, and humidity particles condense on walls and evaporate again.",
+      "seed": "Seasonal Greenhouse Operation: A glass greenhouse where transparency, internal lights, and vents change with the time of year, plants grow faster or slower, heaters glow in winter, and humidity particles condense on walls and evaporate again."
+    },
+    {
+      "number": "24",
+      "title": "Seasonal Starfield Visibility and Constellations",
+      "description": "A tilted Earth observer under a transparent dome of stars, where Earth orbits the sun and different constellations rotate into night-time view each “season,” with visible constellations highlighted, labeled, and leaving faint trails.",
+      "seed": "Seasonal Starfield Visibility and Constellations: A tilted Earth observer under a transparent dome of stars, where Earth orbits the sun and different constellations rotate into night-time view each “season,” with visible constellations highlighted, labeled, and leaving faint trails."
+    },
+    {
+      "number": "25",
+      "title": "Seasonal Cycling of Urban Trees and Air Quality",
+      "description": "A street canyon with trees along sidewalks whose foliage density changes with seasons, absorbing floating pollutant particles more in leafy months and less in winter, while an air-quality bar and color haze respond dynamically.",
+      "seed": "Seasonal Cycling of Urban Trees and Air Quality: A street canyon with trees along sidewalks whose foliage density changes with seasons, absorbing floating pollutant particles more in leafy months and less in winter, while an air-quality bar and color haze respond dynamically."
+    }
+  ],
+  "raw_output": "Here are strong **Seasonal cycles simulation inputs** you can plug into your prompt:\n\n1. **Tilted Planet with Orbiting Seasons**\n   A tilted Earth-like sphere orbits a glowing sun, with rotating axial tilt, shifting daylight bands, and color-changing latitude zones to show seasonal temperature gradients plus labeled solstices and equinoxes.\n\n2. **Tree Through the Seasons**\n   A central branching tree model cycles through spring bud growth, summer leaf expansion, autumn color change and leaf fall, and winter bare branches with snow particles accumulating and melting at its base.\n\n3. **Seasonal Ocean–Atmosphere Circulation**\n   A blue semi-transparent Earth with rotating arrows of atmospheric winds and ocean currents that strengthen, weaken, and shift latitude with seasons, using colored trails and particle clouds of moisture and heat.\n\n4. **Mountain Snowpack and River Flow Cycle**\n   A 3D mountain valley where snow layers build up on peaks in winter, slowly melt and drip into streams in spring, create rising river levels and moving water particles, then drop to low, clear flow in summer and fall.\n\n5. **Urban Energy Use Over the Year**\n   A small city block with buildings whose window colors and rooftop HVAC units pulse and change intensity with simulated seasonal temperatures, while energy flow bars and rotating meters show demand rising and falling.\n\n6. **Seasonal Animal Migration Paths**\n   A globe with multiple flocks or herds as colored particle clusters that migrate between summer and winter ranges, leaving curved path trails, pausing at stopover sites, and reacting to shifting temperature bands.\n\n7. **Seasonal Polar Ice Cap Dynamics**\n   A rotating planet with transparent atmosphere and bright polar regions where ice caps grow outward and thicken in winter, then retreat and thin in summer, with floating sea-ice plates that split, collide, and merge.\n\n8. **Seasonal Crop Field Growth Cycle**\n   A flat farm grid of plots where seeds appear, sprout, grow into tall plants, change color as they mature, then are harvested and leave stubble, with rainfall particles, irrigation streams, and a soil moisture color map.\n\n9. **Seasonal Monsoon Rainfall System**\n   A 3D land–ocean interface showing warm air plumes rising from land in summer to pull in moist air from the sea, forming tall cloud columns and heavy rain particles, then reversing with dry winds in winter.\n\n10. **Four-Season Park Cross-Section**\n    A park divided into four quadrants, each cycling through seasonal states—flowers blooming, leaves thickening, foliage reddening and falling, snow covering benches—while people-spheres wander, change outfits, and leave footprints in snow or grass.\n\n11. **Seasonal CO₂ Uptake in a Forest**\n    A forest canopy where green leaves absorb red CO₂ particles from the air more strongly in summer than winter, with seasonal leaf density changes and a floating graph panel showing atmospheric CO₂ level shifting.\n\n12. **Seasonal Lake Turnover and Stratification**\n    A deep lake cross-section with colored temperature layers that stratify in summer, then mix and overturn in spring and fall, with bubble particles rising, nutrients as colored dots mixing, and ice forming and melting on the surface.\n\n13. **Seasonal Eclipse of a Binary Planet System**\n    Two orbiting planets around a star where one’s axial tilt and orbit cause animated “seasons” (surface color and cloud cover changes) while the companion periodically eclipses the star, briefly cooling regions and shifting seasonal bands.\n\n14. **Seasonal Retail Flow in a Shopping Mall**\n    A multi-level mall layout with shopper spheres moving faster and in greater numbers during “holiday seasons,” with store fronts that glow brighter, sale banners that appear and disappear, and money-flow arrows that thicken seasonally.\n\n15. **Seasonal Bee Activity Around a Hive**\n    A hive at the center with bee particles that swarm densely in spring and summer collecting pollen from flowers, then reduce flights and cluster tightly around the hive in fall and winter, with nectar and pollen flows as colored trails.\n\n16. **Seasonal River Delta Sediment and Flooding**\n    A river flowing into a delta where water level rises and falls with seasonal rain, carrying sediment particles that settle, build sandbars, and are eroded again, with floodplain areas flashing and filling when levels exceed banks.\n\n17. **Seasonal Daylight and Shadow Simulation in a City**\n    A small cluster of buildings with the sun’s angle changing over an animated year, casting long and short shadows that sweep across the ground, while solar panels on roofs change output levels with seasonally varying sun paths.\n\n18. **Seasonal Glacier Advance and Retreat**\n    A valley glacier that slowly creeps downhill, thickening with blue ice layers in colder “years” and thinning with melt in warmer ones, shedding ice blocks that slide, collide, and melt into flowing meltwater channels.\n\n19. **Seasonal Mood Ring Planet**\n    A symbolic planet whose surface patches change color through a repeating “emotional” seasonal cycle—growth, peak, decay, rest—with zones that spread, merge, and shrink, and glowing arcs showing transitions between regions.\n\n20. **Seasonal Life Cycle in a Pond Ecosystem**\n    A pond cross-section where algae blooms, zooplankton, and fish populations appear as colored particles that grow, split, and die back seasonally, with ice cover formation, leaf litter fall, and oxygen bubbles forming and dissolving.\n\n21. **Seasonal Spread of a Forest Fire Risk**\n    A forest grid where vegetation dryness increases with hot seasons (colors shifting from green to brown), and occasional sparks cause fires that spread, branch, and extinguish more easily in wet seasons, leaving charred patches that slowly regrow.\n\n22. **Seasonal Clothing and Traffic Flow in a Town Square**\n    A central plaza with human-like capsules changing clothing colors and thickness with seasons, while vehicle blocks move slower in snowy winter (sliding, leaving skid marks) and faster in clear summer, with a traffic density meter cycling.\n\n23. **Seasonal Greenhouse Operation**\n    A glass greenhouse where transparency, internal lights, and vents change with the time of year, plants grow faster or slower, heaters glow in winter, and humidity particles condense on walls and evaporate again.\n\n24. **Seasonal Starfield Visibility and Constellations**\n    A tilted Earth observer under a transparent dome of stars, where Earth orbits the sun and different constellations rotate into night-time view each “season,” with visible constellations highlighted, labeled, and leaving faint trails.\n\n25. **Seasonal Cycling of Urban Trees and Air Quality**\n    A street canyon with trees along sidewalks whose foliage density changes with seasons, absorbing floating pollutant particles more in leafy months and less in winter, while an air-quality bar and color haze respond dynamically."
+}

@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Lightning",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:53:10",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Branching Thundercloud Lightning Lab",
+      "description": "A tall transparent cloud volume hovers over a flat landscape with trees and buildings, where charged particles drift, electric field vectors grow, and branching glowing leaders descend from the cloud to strike grounded objects, leaving fading light trails and labels showing charge transfer and strike points.",
+      "seed": "Branching Thundercloud Lightning Lab: A tall transparent cloud volume hovers over a flat landscape with trees and buildings, where charged particles drift, electric field vectors grow, and branching glowing leaders descend from the cloud to strike grounded objects, leaving fading light trails and labels showing charge transfer and strike points."
+    },
+    {
+      "number": "2",
+      "title": "Jacob’s Ladder Lightning Climber",
+      "description": "Two vertical metal rods rise from a base, with glowing plasma “lightning” arcs that attach to both rods, rise upward as they heat the air, detach at the top, and then reattach at the bottom, with current meters and changing colors indicating arc intensity.",
+      "seed": "Jacob’s Ladder Lightning Climber: Two vertical metal rods rise from a base, with glowing plasma “lightning” arcs that attach to both rods, rise upward as they heat the air, detach at the top, and then reattach at the bottom, with current meters and changing colors indicating arc intensity."
+    },
+    {
+      "number": "3",
+      "title": "Lightning Rod Protection Test Field",
+      "description": "A small village of simple houses and trees stands on a plane while overhead a charged cloud disk forms step leaders that seek paths to ground, sometimes hitting a tall lightning rod on a hill, sometimes striking buildings, with bright bolt animations, soundless shockwave pulses, and labels showing hit statistics.",
+      "seed": "Lightning Rod Protection Test Field: A small village of simple houses and trees stands on a plane while overhead a charged cloud disk forms step leaders that seek paths to ground, sometimes hitting a tall lightning rod on a hill, sometimes striking buildings, with bright bolt animations, soundless shockwave pulses, and labels showing hit statistics."
+    },
+    {
+      "number": "4",
+      "title": "Inside a Lightning Channel: Ionized Air Tunnel",
+      "description": "A long, slightly transparent cylinder represents an ionized lightning channel where ions and electrons stream in opposite directions, collide, and glow, with branching side channels forming and collapsing, and the main channel pulsing in brightness as charge packets transfer along its length.",
+      "seed": "Inside a Lightning Channel: Ionized Air Tunnel: A long, slightly transparent cylinder represents an ionized lightning channel where ions and electrons stream in opposite directions, collide, and glow, with branching side channels forming and collapsing, and the main channel pulsing in brightness as charge packets transfer along its length."
+    },
+    {
+      "number": "5",
+      "title": "Microscopic Lightning in a Neuron Network",
+      "description": "A 3D web of neuron-like branches floats in space, and “lightning” impulses of glowing particles race along axons, split at branch points, merge at synapses, and leave fading trails, with transparency on the surrounding medium and labels for firing rate and path length.",
+      "seed": "Microscopic Lightning in a Neuron Network: A 3D web of neuron-like branches floats in space, and “lightning” impulses of glowing particles race along axons, split at branch points, merge at synapses, and leave fading trails, with transparency on the surrounding medium and labels for firing rate and path length."
+    },
+    {
+      "number": "6",
+      "title": "Volcanic Ash Lightning Storm",
+      "description": "A conical volcano emits a rising column of dark ash particles inside a transparent bounding box, where collisions of charged ash clumps cause sudden branching lightning bolts between regions of the cloud and the ground, illuminating the ash momentarily and leaving brief glowing afterimages.",
+      "seed": "Volcanic Ash Lightning Storm: A conical volcano emits a rising column of dark ash particles inside a transparent bounding box, where collisions of charged ash clumps cause sudden branching lightning bolts between regions of the cloud and the ground, illuminating the ash momentarily and leaving brief glowing afterimages."
+    },
+    {
+      "number": "7",
+      "title": "Planetary Lightning from Space",
+      "description": "A small rotating planet sphere with clouds orbits in the center while an observing satellite box orbits above; lightning bolts flash between cloud layers and ground on the sunlit side as brief branching lines, with the satellite’s camera cone scanning and marking detected strike locations as glowing points on a map overlay.",
+      "seed": "Planetary Lightning from Space: A small rotating planet sphere with clouds orbits in the center while an observing satellite box orbits above; lightning bolts flash between cloud layers and ground on the sunlit side as brief branching lines, with the satellite’s camera cone scanning and marking detected strike locations as glowing points on a map overlay."
+    },
+    {
+      "number": "8",
+      "title": "Tesla Coil Lightning Fountain",
+      "description": "A tall cylindrical Tesla coil stands on a platform, its top torus emitting branching purple lightning arcs that seek nearby metal spheres on stands, attach, detach, and occasionally jump between moving conductive drones, with adjustable coil power and arc length meters displayed.",
+      "seed": "Tesla Coil Lightning Fountain: A tall cylindrical Tesla coil stands on a platform, its top torus emitting branching purple lightning arcs that seek nearby metal spheres on stands, attach, detach, and occasionally jump between moving conductive drones, with adjustable coil power and arc length meters displayed."
+    },
+    {
+      "number": "9",
+      "title": "Lightning-Induced Tree Damage Visualizer",
+      "description": "A detailed tree model stands on a grassy plane under a charged cloud; when a lightning bolt hits, a bright channel travels down the trunk, bark fragments (small boxes) detach and fly outward, steam particles rise, and color-coded segments of the tree change from green to brown to indicate damage.",
+      "seed": "Lightning-Induced Tree Damage Visualizer: A detailed tree model stands on a grassy plane under a charged cloud; when a lightning bolt hits, a bright channel travels down the trunk, bark fragments (small boxes) detach and fly outward, steam particles rise, and color-coded segments of the tree change from green to brown to indicate damage."
+    },
+    {
+      "number": "10",
+      "title": "Storm Cloud Charge Separation Simulator",
+      "description": "A large semi-transparent cloud volume floats over a ground plane while ice and water droplets (small spheres) move in convection loops, collide, exchange charge, and drift to upper or lower cloud regions, building red (positive) and blue (negative) zones until a lightning bolt suddenly connects them to the ground or within the cloud.",
+      "seed": "Storm Cloud Charge Separation Simulator: A large semi-transparent cloud volume floats over a ground plane while ice and water droplets (small spheres) move in convection loops, collide, exchange charge, and drift to upper or lower cloud regions, building red (positive) and blue (negative) zones until a lightning bolt suddenly connects them to the ground or within the cloud."
+    },
+    {
+      "number": "11",
+      "title": "Lightning Maze Escape Game Board",
+      "description": "A 3D maze of walls stands on a light floor, with a small player sphere trying to reach an exit while random lightning bolts branch from a charged ceiling plate to walls and floor tiles, temporarily electrifying them (color change and glow), forcing the player to time movements to avoid collisions with active strike zones.",
+      "seed": "Lightning Maze Escape Game Board: A 3D maze of walls stands on a light floor, with a small player sphere trying to reach an exit while random lightning bolts branch from a charged ceiling plate to walls and floor tiles, temporarily electrifying them (color change and glow), forcing the player to time movements to avoid collisions with active strike zones."
+    },
+    {
+      "number": "12",
+      "title": "Lightning in a Plasma Globe",
+      "description": "A glass sphere sits on a pedestal with a glowing center electrode; multiple thin, branching lightning filaments extend from the center to the inner surface, attach, detach, and wiggle; when a user-controlled touch-point sphere moves along the outside, filaments bend and converge toward that region, intensifying and changing color.",
+      "seed": "Lightning in a Plasma Globe: A glass sphere sits on a pedestal with a glowing center electrode; multiple thin, branching lightning filaments extend from the center to the inner surface, attach, detach, and wiggle; when a user-controlled touch-point sphere moves along the outside, filaments bend and converge toward that region, intensifying and changing color."
+    },
+    {
+      "number": "13",
+      "title": "Lightning Over an Ocean with Surface Reflections",
+      "description": "A wide, gently wavy semi-reflective water plane stretches under a line of moving storm clouds, where lightning bolts strike the water surface, creating mirrored light streaks below, splashes of glowing droplets, and spreading circular ripples that collide and mix with existing waves.",
+      "seed": "Lightning Over an Ocean with Surface Reflections: A wide, gently wavy semi-reflective water plane stretches under a line of moving storm clouds, where lightning bolts strike the water surface, creating mirrored light streaks below, splashes of glowing droplets, and spreading circular ripples that collide and mix with existing waves."
+    },
+    {
+      "number": "14",
+      "title": "High-Voltage Laboratory Gap Discharge",
+      "description": "Two adjustable metal spheres on insulating stands face each other across a controllable gap, with a voltage meter and field lines drawn between them; as voltage increases, corona discharges appear, then full lightning-like arcs branch and bridge the gap, heating the air (color shift) and leaving short-lived plasma trails.",
+      "seed": "High-Voltage Laboratory Gap Discharge: Two adjustable metal spheres on insulating stands face each other across a controllable gap, with a voltage meter and field lines drawn between them; as voltage increases, corona discharges appear, then full lightning-like arcs branch and bridge the gap, heating the air (color shift) and leaving short-lived plasma trails."
+    },
+    {
+      "number": "15",
+      "title": "Lightning Network on a Power Grid Map",
+      "description": "A simplified power grid of towers and cables crosses a terrain plane; storm clouds roll overhead, and lightning bolts can strike towers, causing current surges to propagate along cables as traveling glowing pulses, which may trip circuit breakers (objects detach/open), reroute power, and dim or brighten distant substations.",
+      "seed": "Lightning Network on a Power Grid Map: A simplified power grid of towers and cables crosses a terrain plane; storm clouds roll overhead, and lightning bolts can strike towers, causing current surges to propagate along cables as traveling glowing pulses, which may trip circuit breakers (objects detach/open), reroute power, and dim or brighten distant substations."
+    },
+    {
+      "number": "16",
+      "title": "Lightning-Rod Forest Optimization",
+      "description": "A field of many small houses stands under a moving charged cloud; the simulation lets lightning rods be added, removed, or moved, then repeatedly spawns branching trial leaders from the cloud toward the ground, showing which rods or houses attract strikes via glowing hit markers and a running protection efficiency meter.",
+      "seed": "Lightning-Rod Forest Optimization: A field of many small houses stands under a moving charged cloud; the simulation lets lightning rods be added, removed, or moved, then repeatedly spawns branching trial leaders from the cloud toward the ground, showing which rods or houses attract strikes via glowing hit markers and a running protection efficiency meter."
+    },
+    {
+      "number": "17",
+      "title": "Ball Lightning Drift Through a Room",
+      "description": "A simple furnished room is modeled with walls, table, and chairs; a glowing, semi-transparent ball lightning sphere enters through a window, floats erratically, leaves a faint ionization trail, sometimes “sticks” briefly to metal surfaces (color-shift on contact), passes through door gaps, and gradually fades or suddenly vanishes.",
+      "seed": "Ball Lightning Drift Through a Room: A simple furnished room is modeled with walls, table, and chairs; a glowing, semi-transparent ball lightning sphere enters through a window, floats erratically, leaves a faint ionization trail, sometimes “sticks” briefly to metal surfaces (color-shift on contact), passes through door gaps, and gradually fades or suddenly vanishes."
+    },
+    {
+      "number": "18",
+      "title": "Lightning in a Dusty Martian Canyon",
+      "description": "A narrow canyon with stratified walls holds a thin atmosphere with blowing dust particles; charge builds along the canyon walls and in dust plumes until rare, thin, forked lightning bolts jump between wall surfaces and the canyon floor, briefly lighting up dust and leaving smoky particle plumes.",
+      "seed": "Lightning in a Dusty Martian Canyon: A narrow canyon with stratified walls holds a thin atmosphere with blowing dust particles; charge builds along the canyon walls and in dust plumes until rare, thin, forked lightning bolts jump between wall surfaces and the canyon floor, briefly lighting up dust and leaving smoky particle plumes."
+    },
+    {
+      "number": "19",
+      "title": "Symbolic Lightning of Ideas Between People",
+      "description": "Several human-figure icons stand on a platform, each with a glowing “idea cloud” above their head; when one person “thinks” (button press), a stylized lightning bolt arcs from their idea cloud to nearby people’s clouds, branching, merging, and changing colors as ideas spread, with labels tracking how many have been “struck.”",
+      "seed": "Symbolic Lightning of Ideas Between People: Several human-figure icons stand on a platform, each with a glowing “idea cloud” above their head; when one person “thinks” (button press), a stylized lightning bolt arcs from their idea cloud to nearby people’s clouds, branching, merging, and changing colors as ideas spread, with labels tracking how many have been “struck.”"
+    },
+    {
+      "number": "20",
+      "title": "Lightning Formation in a Rotating Supercell Storm",
+      "description": "A rotating cylindrical updraft tower of cloud spins over a flat plain, pulling colored air parcels upward; charge-labeled particles separate inside, and intracloud and cloud-to-ground lightning bolts branch along rotating paths, sometimes wrapping partially around the updraft core, with trails showing how rotation distorts the strike paths.",
+      "seed": "Lightning Formation in a Rotating Supercell Storm: A rotating cylindrical updraft tower of cloud spins over a flat plain, pulling colored air parcels upward; charge-labeled particles separate inside, and intracloud and cloud-to-ground lightning bolts branch along rotating paths, sometimes wrapping partially around the updraft core, with trails showing how rotation distorts the strike paths."
+    },
+    {
+      "number": "21",
+      "title": "Circuit Board Micro-Lightning Breakdown",
+      "description": "A 3D circuit board with traces, components, and thin insulating gaps is placed under increasing voltage; when electric fields exceed thresholds, tiny lightning-like arcs bridge gaps between traces and component leads, causing glowing burn marks that spread, change material colors, and gradually “scar” the board.",
+      "seed": "Circuit Board Micro-Lightning Breakdown: A 3D circuit board with traces, components, and thin insulating gaps is placed under increasing voltage; when electric fields exceed thresholds, tiny lightning-like arcs bridge gaps between traces and component leads, causing glowing burn marks that spread, change material colors, and gradually “scar” the board."
+    },
+    {
+      "number": "22",
+      "title": "Lightning Chain Between Floating Airships",
+      "description": "Several metallic airships hover at different heights above the ground; a strong storm cloud overhead sends lightning bolts that can attach to one ship and then jump between ships in a chain, with arcs that wrap around hulls, split, and merge as the airships slowly drift, and damage indicators appearing at strike points.",
+      "seed": "Lightning Chain Between Floating Airships: Several metallic airships hover at different heights above the ground; a strong storm cloud overhead sends lightning bolts that can attach to one ship and then jump between ships in a chain, with arcs that wrap around hulls, split, and merge as the airships slowly drift, and damage indicators appearing at strike points."
+    },
+    {
+      "number": "23",
+      "title": "Lightning-Induced Wildfire Ignition",
+      "description": "A dry forest of tree and grass objects covers a terrain plane; lightning bolts strike random locations, igniting trees which begin to glow and emit particle flames and smoke, and the fire spreads via heat transfer and falling embers, with labels tracking area burned and number of lightning-caused ignition points.",
+      "seed": "Lightning-Induced Wildfire Ignition: A dry forest of tree and grass objects covers a terrain plane; lightning bolts strike random locations, igniting trees which begin to glow and emit particle flames and smoke, and the fire spreads via heat transfer and falling embers, with labels tracking area burned and number of lightning-caused ignition points."
+    },
+    {
+      "number": "24",
+      "title": "Sprite and Jet Lightning High Above Storms",
+      "description": "A storm cloud layer floats above a ground plane, and high above it extends a thin, transparent upper-atmosphere volume; when a cloud-to-ground lightning strike occurs, red sprite-like branching structures shoot upward and blue jets extend from cloud tops, all as faint, semi-transparent filaments that quickly fade.",
+      "seed": "Sprite and Jet Lightning High Above Storms: A storm cloud layer floats above a ground plane, and high above it extends a thin, transparent upper-atmosphere volume; when a cloud-to-ground lightning strike occurs, red sprite-like branching structures shoot upward and blue jets extend from cloud tops, all as faint, semi-transparent filaments that quickly fade."
+    },
+    {
+      "number": "25",
+      "title": "Lightning-Powered Kinetic Sculpture",
+      "description": "A metal kinetic sculpture with rotating arms, hanging conductive spheres, and pivot joints stands on an insulating base; simulated lightning arcs from a charged overhead plate to different parts of the sculpture, transferring “energy” that starts or speeds up rotations, causes arms to swing, and occasionally welds or detaches joints, with glowing contact points and motion trails.",
+      "seed": "Lightning-Powered Kinetic Sculpture: A metal kinetic sculpture with rotating arms, hanging conductive spheres, and pivot joints stands on an insulating base; simulated lightning arcs from a charged overhead plate to different parts of the sculpture, transferring “energy” that starts or speeds up rotations, causes arms to swing, and occasionally welds or detaches joints, with glowing contact points and motion trails."
+    }
+  ],
+  "raw_output": "Here are strong **Lightning simulation inputs** you can plug into your prompt:\n\n1. **Branching Thundercloud Lightning Lab**\n   A tall transparent cloud volume hovers over a flat landscape with trees and buildings, where charged particles drift, electric field vectors grow, and branching glowing leaders descend from the cloud to strike grounded objects, leaving fading light trails and labels showing charge transfer and strike points.\n\n2. **Jacob’s Ladder Lightning Climber**\n   Two vertical metal rods rise from a base, with glowing plasma “lightning” arcs that attach to both rods, rise upward as they heat the air, detach at the top, and then reattach at the bottom, with current meters and changing colors indicating arc intensity.\n\n3. **Lightning Rod Protection Test Field**\n   A small village of simple houses and trees stands on a plane while overhead a charged cloud disk forms step leaders that seek paths to ground, sometimes hitting a tall lightning rod on a hill, sometimes striking buildings, with bright bolt animations, soundless shockwave pulses, and labels showing hit statistics.\n\n4. **Inside a Lightning Channel: Ionized Air Tunnel**\n   A long, slightly transparent cylinder represents an ionized lightning channel where ions and electrons stream in opposite directions, collide, and glow, with branching side channels forming and collapsing, and the main channel pulsing in brightness as charge packets transfer along its length.\n\n5. **Microscopic Lightning in a Neuron Network**\n   A 3D web of neuron-like branches floats in space, and “lightning” impulses of glowing particles race along axons, split at branch points, merge at synapses, and leave fading trails, with transparency on the surrounding medium and labels for firing rate and path length.\n\n6. **Volcanic Ash Lightning Storm**\n   A conical volcano emits a rising column of dark ash particles inside a transparent bounding box, where collisions of charged ash clumps cause sudden branching lightning bolts between regions of the cloud and the ground, illuminating the ash momentarily and leaving brief glowing afterimages.\n\n7. **Planetary Lightning from Space**\n   A small rotating planet sphere with clouds orbits in the center while an observing satellite box orbits above; lightning bolts flash between cloud layers and ground on the sunlit side as brief branching lines, with the satellite’s camera cone scanning and marking detected strike locations as glowing points on a map overlay.\n\n8. **Tesla Coil Lightning Fountain**\n   A tall cylindrical Tesla coil stands on a platform, its top torus emitting branching purple lightning arcs that seek nearby metal spheres on stands, attach, detach, and occasionally jump between moving conductive drones, with adjustable coil power and arc length meters displayed.\n\n9. **Lightning-Induced Tree Damage Visualizer**\n   A detailed tree model stands on a grassy plane under a charged cloud; when a lightning bolt hits, a bright channel travels down the trunk, bark fragments (small boxes) detach and fly outward, steam particles rise, and color-coded segments of the tree change from green to brown to indicate damage.\n\n10. **Storm Cloud Charge Separation Simulator**\n    A large semi-transparent cloud volume floats over a ground plane while ice and water droplets (small spheres) move in convection loops, collide, exchange charge, and drift to upper or lower cloud regions, building red (positive) and blue (negative) zones until a lightning bolt suddenly connects them to the ground or within the cloud.\n\n11. **Lightning Maze Escape Game Board**\n    A 3D maze of walls stands on a light floor, with a small player sphere trying to reach an exit while random lightning bolts branch from a charged ceiling plate to walls and floor tiles, temporarily electrifying them (color change and glow), forcing the player to time movements to avoid collisions with active strike zones.\n\n12. **Lightning in a Plasma Globe**\n    A glass sphere sits on a pedestal with a glowing center electrode; multiple thin, branching lightning filaments extend from the center to the inner surface, attach, detach, and wiggle; when a user-controlled touch-point sphere moves along the outside, filaments bend and converge toward that region, intensifying and changing color.\n\n13. **Lightning Over an Ocean with Surface Reflections**\n    A wide, gently wavy semi-reflective water plane stretches under a line of moving storm clouds, where lightning bolts strike the water surface, creating mirrored light streaks below, splashes of glowing droplets, and spreading circular ripples that collide and mix with existing waves.\n\n14. **High-Voltage Laboratory Gap Discharge**\n    Two adjustable metal spheres on insulating stands face each other across a controllable gap, with a voltage meter and field lines drawn between them; as voltage increases, corona discharges appear, then full lightning-like arcs branch and bridge the gap, heating the air (color shift) and leaving short-lived plasma trails.\n\n15. **Lightning Network on a Power Grid Map**\n    A simplified power grid of towers and cables crosses a terrain plane; storm clouds roll overhead, and lightning bolts can strike towers, causing current surges to propagate along cables as traveling glowing pulses, which may trip circuit breakers (objects detach/open), reroute power, and dim or brighten distant substations.\n\n16. **Lightning-Rod Forest Optimization**\n    A field of many small houses stands under a moving charged cloud; the simulation lets lightning rods be added, removed, or moved, then repeatedly spawns branching trial leaders from the cloud toward the ground, showing which rods or houses attract strikes via glowing hit markers and a running protection efficiency meter.\n\n17. **Ball Lightning Drift Through a Room**\n    A simple furnished room is modeled with walls, table, and chairs; a glowing, semi-transparent ball lightning sphere enters through a window, floats erratically, leaves a faint ionization trail, sometimes “sticks” briefly to metal surfaces (color-shift on contact), passes through door gaps, and gradually fades or suddenly vanishes.\n\n18. **Lightning in a Dusty Martian Canyon**\n    A narrow canyon with stratified walls holds a thin atmosphere with blowing dust particles; charge builds along the canyon walls and in dust plumes until rare, thin, forked lightning bolts jump between wall surfaces and the canyon floor, briefly lighting up dust and leaving smoky particle plumes.\n\n19. **Symbolic Lightning of Ideas Between People**\n    Several human-figure icons stand on a platform, each with a glowing “idea cloud” above their head; when one person “thinks” (button press), a stylized lightning bolt arcs from their idea cloud to nearby people’s clouds, branching, merging, and changing colors as ideas spread, with labels tracking how many have been “struck.”\n\n20. **Lightning Formation in a Rotating Supercell Storm**\n    A rotating cylindrical updraft tower of cloud spins over a flat plain, pulling colored air parcels upward; charge-labeled particles separate inside, and intracloud and cloud-to-ground lightning bolts branch along rotating paths, sometimes wrapping partially around the updraft core, with trails showing how rotation distorts the strike paths.\n\n21. **Circuit Board Micro-Lightning Breakdown**\n    A 3D circuit board with traces, components, and thin insulating gaps is placed under increasing voltage; when electric fields exceed thresholds, tiny lightning-like arcs bridge gaps between traces and component leads, causing glowing burn marks that spread, change material colors, and gradually “scar” the board.\n\n22. **Lightning Chain Between Floating Airships**\n    Several metallic airships hover at different heights above the ground; a strong storm cloud overhead sends lightning bolts that can attach to one ship and then jump between ships in a chain, with arcs that wrap around hulls, split, and merge as the airships slowly drift, and damage indicators appearing at strike points.\n\n23. **Lightning-Induced Wildfire Ignition**\n    A dry forest of tree and grass objects covers a terrain plane; lightning bolts strike random locations, igniting trees which begin to glow and emit particle flames and smoke, and the fire spreads via heat transfer and falling embers, with labels tracking area burned and number of lightning-caused ignition points.\n\n24. **Sprite and Jet Lightning High Above Storms**\n    A storm cloud layer floats above a ground plane, and high above it extends a thin, transparent upper-atmosphere volume; when a cloud-to-ground lightning strike occurs, red sprite-like branching structures shoot upward and blue jets extend from cloud tops, all as faint, semi-transparent filaments that quickly fade.\n\n25. **Lightning-Powered Kinetic Sculpture**\n    A metal kinetic sculpture with rotating arms, hanging conductive spheres, and pivot joints stands on an insulating base; simulated lightning arcs from a charged overhead plate to different parts of the sculpture, transferring “energy” that starts or speeds up rotations, causes arms to swing, and occasionally welds or detaches joints, with glowing contact points and motion trails."
+}

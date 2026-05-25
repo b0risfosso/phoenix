@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Light and optics",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:35:54",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Prism Rainbow Splitter Room",
+      "description": "A bright white light beam enters a rotating glass prism in the center of the scene, splits into colored beams that fan out, bounce off adjustable mirrors, and paint color-coded trails on a light floor with labels for wavelength and angle.",
+      "seed": "Prism Rainbow Splitter Room: A bright white light beam enters a rotating glass prism in the center of the scene, splits into colored beams that fan out, bounce off adjustable mirrors, and paint color-coded trails on a light floor with labels for wavelength and angle."
+    },
+    {
+      "number": "2",
+      "title": "Concave and Convex Lens Playground",
+      "description": "Multiple transparent lenses (concave, convex, cylindrical) float in space while a movable point light source and target screen slide along a rail, showing rays bending, focusing, or diverging with color-coded paths, focal point markers, and adjustable lens positions.",
+      "seed": "Concave and Convex Lens Playground: Multiple transparent lenses (concave, convex, cylindrical) float in space while a movable point light source and target screen slide along a rail, showing rays bending, focusing, or diverging with color-coded paths, focal point markers, and adjustable lens positions."
+    },
+    {
+      "number": "3",
+      "title": "Fiber Optic Cable Cross-Section",
+      "description": "A thick transparent cylinder represents a fiber optic core with a different-index cladding, into which pulsed light rays enter, bounce by total internal reflection along the fiber, and visibly leak or escape when the fiber is bent or cracked at certain locations.",
+      "seed": "Fiber Optic Cable Cross-Section: A thick transparent cylinder represents a fiber optic core with a different-index cladding, into which pulsed light rays enter, bounce by total internal reflection along the fiber, and visibly leak or escape when the fiber is bent or cracked at certain locations."
+    },
+    {
+      "number": "4",
+      "title": "Double-Slit Interference Tank",
+      "description": "A plane of parallel light rays passes through a wall with two narrow slits and projects onto a distant screen, with individual photons represented as particles that hit the screen and gradually build an interference pattern with growing intensity bars and labels.",
+      "seed": "Double-Slit Interference Tank: A plane of parallel light rays passes through a wall with two narrow slits and projects onto a distant screen, with individual photons represented as particles that hit the screen and gradually build an interference pattern with growing intensity bars and labels."
+    },
+    {
+      "number": "5",
+      "title": "Mirrored Kaleidoscope Tunnel",
+      "description": "Three long reflective planes form a triangular tunnel in which colorful glowing particles and beams enter, reflect repeatedly, and create symmetric patterns, with the user able to rotate the tunnel and change mirror angles to see the patterns stretch and branch.",
+      "seed": "Mirrored Kaleidoscope Tunnel: Three long reflective planes form a triangular tunnel in which colorful glowing particles and beams enter, reflect repeatedly, and create symmetric patterns, with the user able to rotate the tunnel and change mirror angles to see the patterns stretch and branch."
+    },
+    {
+      "number": "6",
+      "title": "Rotating Polarizer Stack",
+      "description": "A beam of linearly polarized light passes through two or three semi-transparent rectangular panels (polarizing filters) that the user can rotate independently, showing the beam’s intensity bar shrinking or growing and the polarization axis rotating as labeled arrows.",
+      "seed": "Rotating Polarizer Stack: A beam of linearly polarized light passes through two or three semi-transparent rectangular panels (polarizing filters) that the user can rotate independently, showing the beam’s intensity bar shrinking or growing and the polarization axis rotating as labeled arrows."
+    },
+    {
+      "number": "7",
+      "title": "Periscope and Mirror Maze Lab",
+      "description": "A movable periscope made of two mirrors reflects a beam from a hidden source around obstacles to a target, while additional free mirrors can be grabbed and rotated to create alternate paths, with ray lines that bounce and leave subtle fading trails.",
+      "seed": "Periscope and Mirror Maze Lab: A movable periscope made of two mirrors reflects a beam from a hidden source around obstacles to a target, while additional free mirrors can be grabbed and rotated to create alternate paths, with ray lines that bounce and leave subtle fading trails."
+    },
+    {
+      "number": "8",
+      "title": "Curved Mirror Solar Cooker",
+      "description": "A large concave reflective dish focuses parallel sunlight rays onto a small absorbing sphere that heats up and gradually glows brighter or changes color, with adjustable dish curvature and sphere position to show how focus and intensity change.",
+      "seed": "Curved Mirror Solar Cooker: A large concave reflective dish focuses parallel sunlight rays onto a small absorbing sphere that heats up and gradually glows brighter or changes color, with adjustable dish curvature and sphere position to show how focus and intensity change."
+    },
+    {
+      "number": "9",
+      "title": "Refracting Aquarium with Moving Fish Shadows",
+      "description": "A transparent water-filled box with varying depth sits on a bright floor grid, while a spotlight above creates refracted beams that bend at the air–water interface and cast distorted, moving shadows of simple fish-shaped objects swimming inside.",
+      "seed": "Refracting Aquarium with Moving Fish Shadows: A transparent water-filled box with varying depth sits on a bright floor grid, while a spotlight above creates refracted beams that bend at the air–water interface and cast distorted, moving shadows of simple fish-shaped objects swimming inside."
+    },
+    {
+      "number": "10",
+      "title": "Atmospheric Mirage and Refraction Layers",
+      "description": "A desert-like flat plane with a vertical temperature gradient shows a car-shaped object in the distance while horizontal light rays curve through stacked transparent layers of varying index, creating displaced and inverted “mirage” images on a viewing screen.",
+      "seed": "Atmospheric Mirage and Refraction Layers: A desert-like flat plane with a vertical temperature gradient shows a car-shaped object in the distance while horizontal light rays curve through stacked transparent layers of varying index, creating displaced and inverted “mirage” images on a viewing screen."
+    },
+    {
+      "number": "11",
+      "title": "Simple Optical Telescope Assembly",
+      "description": "Two sliding lenses on a rail form a telescope between a distant glowing object (like a small “planet” sphere) and an eyepiece screen, showing how image size, orientation, and focus change as the lenses move, with rays drawn and focal points labeled.",
+      "seed": "Simple Optical Telescope Assembly: Two sliding lenses on a rail form a telescope between a distant glowing object (like a small “planet” sphere) and an eyepiece screen, showing how image size, orientation, and focus change as the lenses move, with rays drawn and focal points labeled."
+    },
+    {
+      "number": "12",
+      "title": "Laser Beam Through Fog with Scattering Particles",
+      "description": "A narrow red laser beam passes through a box filled with floating semi-transparent particles that drift and slowly settle, causing visible scattering; the user can change particle density and watch the beam’s brightness and spread change, with intensity meters.",
+      "seed": "Laser Beam Through Fog with Scattering Particles: A narrow red laser beam passes through a box filled with floating semi-transparent particles that drift and slowly settle, causing visible scattering; the user can change particle density and watch the beam’s brightness and spread change, with intensity meters."
+    },
+    {
+      "number": "13",
+      "title": "Holographic Grating and Diffraction Orders",
+      "description": "A monochromatic beam hits a rectangular diffraction grating that can rotate, producing multiple colored or intensity-coded diffraction orders on a curved screen that wraps around, with each order labeled and its angle updating as the grating rotates.",
+      "seed": "Holographic Grating and Diffraction Orders: A monochromatic beam hits a rectangular diffraction grating that can rotate, producing multiple colored or intensity-coded diffraction orders on a curved screen that wraps around, with each order labeled and its angle updating as the grating rotates."
+    },
+    {
+      "number": "14",
+      "title": "Optical Fiber Network Map",
+      "description": "A network of transparent tubes connects several glowing “server” boxes on a plane; pulses of colored light travel along the fibers, split at junctions, merge at hubs, and dim with distance, while bandwidth meters and labels float near each connection.",
+      "seed": "Optical Fiber Network Map: A network of transparent tubes connects several glowing “server” boxes on a plane; pulses of colored light travel along the fibers, split at junctions, merge at hubs, and dim with distance, while bandwidth meters and labels float near each connection."
+    },
+    {
+      "number": "15",
+      "title": "Light Clock for Relativity Concept",
+      "description": "Two parallel mirrors hold a photon particle that bounces up and down between them, leaving a faint vertical trail, while the whole light clock can slide horizontally so observers at different positions see its diagonal or vertical path with labeled time intervals.",
+      "seed": "Light Clock for Relativity Concept: Two parallel mirrors hold a photon particle that bounces up and down between them, leaving a faint vertical trail, while the whole light clock can slide horizontally so observers at different positions see its diagonal or vertical path with labeled time intervals."
+    },
+    {
+      "number": "16",
+      "title": "Luminous Crystal with Internal Reflections",
+      "description": "A faceted transparent crystal floats in space while a white beam enters and splits into multiple rays that internally reflect and refract out of different faces, creating a moving pattern of colored spots on a surrounding spherical screen as the crystal slowly rotates.",
+      "seed": "Luminous Crystal with Internal Reflections: A faceted transparent crystal floats in space while a white beam enters and splits into multiple rays that internally reflect and refract out of different faces, creating a moving pattern of colored spots on a surrounding spherical screen as the crystal slowly rotates."
+    },
+    {
+      "number": "17",
+      "title": "Camera Obscura and Pinhole Projection Box",
+      "description": "A bright outdoor scene with a glowing “sun” and moving objects sits outside a closed box with a tiny pinhole; inside, a screen on the back wall shows an inverted projected image that updates in real time as objects move and the pinhole size is changed.",
+      "seed": "Camera Obscura and Pinhole Projection Box: A bright outdoor scene with a glowing “sun” and moving objects sits outside a closed box with a tiny pinhole; inside, a screen on the back wall shows an inverted projected image that updates in real time as objects move and the pinhole size is changed."
+    },
+    {
+      "number": "18",
+      "title": "Optical Fiber Bending Loss Demonstrator",
+      "description": "A flexible transparent tube carrying a pulsed beam can be grabbed and bent; as curvature increases, some rays leak out, represented by glowing particles that escape into the environment, while intensity bars at the output show transmitted vs lost light.",
+      "seed": "Optical Fiber Bending Loss Demonstrator: A flexible transparent tube carrying a pulsed beam can be grabbed and bent; as curvature increases, some rays leak out, represented by glowing particles that escape into the environment, while intensity bars at the output show transmitted vs lost light."
+    },
+    {
+      "number": "19",
+      "title": "Color Mixing Spotlights on a White Screen",
+      "description": "Three adjustable colored spotlights (red, green, blue) cast overlapping circles on a vertical white plane, with each spotlight movable and dimmable; overlapping regions show additive color mixing and are labeled with resulting color names and RGB ratios.",
+      "seed": "Color Mixing Spotlights on a White Screen: Three adjustable colored spotlights (red, green, blue) cast overlapping circles on a vertical white plane, with each spotlight movable and dimmable; overlapping regions show additive color mixing and are labeled with resulting color names and RGB ratios."
+    },
+    {
+      "number": "20",
+      "title": "Light Pipe and Total Internal Reflection Staircase",
+      "description": "A stepped transparent structure guides light from a source at the top through multiple right-angle turns, with rays bouncing along the interior surfaces; the user can change the material index or fill gaps with another medium to see when rays spill out instead.",
+      "seed": "Light Pipe and Total Internal Reflection Staircase: A stepped transparent structure guides light from a source at the top through multiple right-angle turns, with rays bouncing along the interior surfaces; the user can change the material index or fill gaps with another medium to see when rays spill out instead."
+    },
+    {
+      "number": "21",
+      "title": "Optical Bench with Moving Components",
+      "description": "A long rail holds a light source, one or more lenses, a prism, and a screen that can all slide and lock into place; as the user rearranges them, rays update to show focusing, splitting, and dispersion, with each component labeled and leaving ghosted past positions.",
+      "seed": "Optical Bench with Moving Components: A long rail holds a light source, one or more lenses, a prism, and a screen that can all slide and lock into place; as the user rearranges them, rays update to show focusing, splitting, and dispersion, with each component labeled and leaving ghosted past positions."
+    },
+    {
+      "number": "22",
+      "title": "Standing Light Wave in an Optical Cavity",
+      "description": "Two parallel semi-reflective mirrors facing each other trap a coherent beam that bounces back and forth and forms a standing wave pattern represented by bright and dim regions along the axis, with nodes and antinodes marked as the cavity length is adjusted.",
+      "seed": "Standing Light Wave in an Optical Cavity: Two parallel semi-reflective mirrors facing each other trap a coherent beam that bounces back and forth and forms a standing wave pattern represented by bright and dim regions along the axis, with nodes and antinodes marked as the cavity length is adjusted."
+    },
+    {
+      "number": "23",
+      "title": "Microscope Objective and Sample Layer",
+      "description": "A transparent slide with small glowing particles (cells) sits under a converging lens objective that can move up and down; rays from each particle pass through the lens and converge onto a movable image plane, showing magnification and blur when out of focus.",
+      "seed": "Microscope Objective and Sample Layer: A transparent slide with small glowing particles (cells) sits under a converging lens objective that can move up and down; rays from each particle pass through the lens and converge onto a movable image plane, showing magnification and blur when out of focus."
+    },
+    {
+      "number": "24",
+      "title": "Rainbow in a Water Droplet Cloud",
+      "description": "A cluster of spherical transparent droplets floats in a light sky, with a collimated beam of white light entering from one side; each droplet refracts and internally reflects light, creating arcs of colored rays that converge to form a rainbow on a distant screen.",
+      "seed": "Rainbow in a Water Droplet Cloud: A cluster of spherical transparent droplets floats in a light sky, with a collimated beam of white light entering from one side; each droplet refracts and internally reflects light, creating arcs of colored rays that converge to form a rainbow on a distant screen."
+    },
+    {
+      "number": "25",
+      "title": "Optical Illusion Room with Light and Shadows",
+      "description": "A skewed “Ames room” with slanted walls and floor is lit by a movable point source; simple human-shaped figures slide along the floor, and their size and shadow distortions are visualized with lines, labels, and adjustable camera viewpoint to show the illusion.",
+      "seed": "Optical Illusion Room with Light and Shadows: A skewed “Ames room” with slanted walls and floor is lit by a movable point source; simple human-shaped figures slide along the floor, and their size and shadow distortions are visualized with lines, labels, and adjustable camera viewpoint to show the illusion."
+    }
+  ],
+  "raw_output": "Here are strong **Light and optics simulation inputs** you can plug into your prompt:\n\n1. **Prism Rainbow Splitter Room**\n   A bright white light beam enters a rotating glass prism in the center of the scene, splits into colored beams that fan out, bounce off adjustable mirrors, and paint color-coded trails on a light floor with labels for wavelength and angle.\n\n2. **Concave and Convex Lens Playground**\n   Multiple transparent lenses (concave, convex, cylindrical) float in space while a movable point light source and target screen slide along a rail, showing rays bending, focusing, or diverging with color-coded paths, focal point markers, and adjustable lens positions.\n\n3. **Fiber Optic Cable Cross-Section**\n   A thick transparent cylinder represents a fiber optic core with a different-index cladding, into which pulsed light rays enter, bounce by total internal reflection along the fiber, and visibly leak or escape when the fiber is bent or cracked at certain locations.\n\n4. **Double-Slit Interference Tank**\n   A plane of parallel light rays passes through a wall with two narrow slits and projects onto a distant screen, with individual photons represented as particles that hit the screen and gradually build an interference pattern with growing intensity bars and labels.\n\n5. **Mirrored Kaleidoscope Tunnel**\n   Three long reflective planes form a triangular tunnel in which colorful glowing particles and beams enter, reflect repeatedly, and create symmetric patterns, with the user able to rotate the tunnel and change mirror angles to see the patterns stretch and branch.\n\n6. **Rotating Polarizer Stack**\n   A beam of linearly polarized light passes through two or three semi-transparent rectangular panels (polarizing filters) that the user can rotate independently, showing the beam’s intensity bar shrinking or growing and the polarization axis rotating as labeled arrows.\n\n7. **Periscope and Mirror Maze Lab**\n   A movable periscope made of two mirrors reflects a beam from a hidden source around obstacles to a target, while additional free mirrors can be grabbed and rotated to create alternate paths, with ray lines that bounce and leave subtle fading trails.\n\n8. **Curved Mirror Solar Cooker**\n   A large concave reflective dish focuses parallel sunlight rays onto a small absorbing sphere that heats up and gradually glows brighter or changes color, with adjustable dish curvature and sphere position to show how focus and intensity change.\n\n9. **Refracting Aquarium with Moving Fish Shadows**\n   A transparent water-filled box with varying depth sits on a bright floor grid, while a spotlight above creates refracted beams that bend at the air–water interface and cast distorted, moving shadows of simple fish-shaped objects swimming inside.\n\n10. **Atmospheric Mirage and Refraction Layers**\n    A desert-like flat plane with a vertical temperature gradient shows a car-shaped object in the distance while horizontal light rays curve through stacked transparent layers of varying index, creating displaced and inverted “mirage” images on a viewing screen.\n\n11. **Simple Optical Telescope Assembly**\n    Two sliding lenses on a rail form a telescope between a distant glowing object (like a small “planet” sphere) and an eyepiece screen, showing how image size, orientation, and focus change as the lenses move, with rays drawn and focal points labeled.\n\n12. **Laser Beam Through Fog with Scattering Particles**\n    A narrow red laser beam passes through a box filled with floating semi-transparent particles that drift and slowly settle, causing visible scattering; the user can change particle density and watch the beam’s brightness and spread change, with intensity meters.\n\n13. **Holographic Grating and Diffraction Orders**\n    A monochromatic beam hits a rectangular diffraction grating that can rotate, producing multiple colored or intensity-coded diffraction orders on a curved screen that wraps around, with each order labeled and its angle updating as the grating rotates.\n\n14. **Optical Fiber Network Map**\n    A network of transparent tubes connects several glowing “server” boxes on a plane; pulses of colored light travel along the fibers, split at junctions, merge at hubs, and dim with distance, while bandwidth meters and labels float near each connection.\n\n15. **Light Clock for Relativity Concept**\n    Two parallel mirrors hold a photon particle that bounces up and down between them, leaving a faint vertical trail, while the whole light clock can slide horizontally so observers at different positions see its diagonal or vertical path with labeled time intervals.\n\n16. **Luminous Crystal with Internal Reflections**\n    A faceted transparent crystal floats in space while a white beam enters and splits into multiple rays that internally reflect and refract out of different faces, creating a moving pattern of colored spots on a surrounding spherical screen as the crystal slowly rotates.\n\n17. **Camera Obscura and Pinhole Projection Box**\n    A bright outdoor scene with a glowing “sun” and moving objects sits outside a closed box with a tiny pinhole; inside, a screen on the back wall shows an inverted projected image that updates in real time as objects move and the pinhole size is changed.\n\n18. **Optical Fiber Bending Loss Demonstrator**\n    A flexible transparent tube carrying a pulsed beam can be grabbed and bent; as curvature increases, some rays leak out, represented by glowing particles that escape into the environment, while intensity bars at the output show transmitted vs lost light.\n\n19. **Color Mixing Spotlights on a White Screen**\n    Three adjustable colored spotlights (red, green, blue) cast overlapping circles on a vertical white plane, with each spotlight movable and dimmable; overlapping regions show additive color mixing and are labeled with resulting color names and RGB ratios.\n\n20. **Light Pipe and Total Internal Reflection Staircase**\n    A stepped transparent structure guides light from a source at the top through multiple right-angle turns, with rays bouncing along the interior surfaces; the user can change the material index or fill gaps with another medium to see when rays spill out instead.\n\n21. **Optical Bench with Moving Components**\n    A long rail holds a light source, one or more lenses, a prism, and a screen that can all slide and lock into place; as the user rearranges them, rays update to show focusing, splitting, and dispersion, with each component labeled and leaving ghosted past positions.\n\n22. **Standing Light Wave in an Optical Cavity**\n    Two parallel semi-reflective mirrors facing each other trap a coherent beam that bounces back and forth and forms a standing wave pattern represented by bright and dim regions along the axis, with nodes and antinodes marked as the cavity length is adjusted.\n\n23. **Microscope Objective and Sample Layer**\n    A transparent slide with small glowing particles (cells) sits under a converging lens objective that can move up and down; rays from each particle pass through the lens and converge onto a movable image plane, showing magnification and blur when out of focus.\n\n24. **Rainbow in a Water Droplet Cloud**\n    A cluster of spherical transparent droplets floats in a light sky, with a collimated beam of white light entering from one side; each droplet refracts and internally reflects light, creating arcs of colored rays that converge to form a rainbow on a distant screen.\n\n25. **Optical Illusion Room with Light and Shadows**\n    A skewed “Ames room” with slanted walls and floor is lit by a movable point source; simple human-shaped figures slide along the floor, and their size and shadow distortions are visualized with lines, labels, and adjustable camera viewpoint to show the illusion."
+}

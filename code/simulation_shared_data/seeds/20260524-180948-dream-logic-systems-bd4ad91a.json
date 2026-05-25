@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Dream logic systems",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:09:48",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Floating Staircase Logic Machine",
+      "description": "A spiral staircase made of semi-transparent blocks floats in midair, where each step that is touched detaches, rotates slowly, reattaches in a different place, and changes color while glowing arrows and labels show the “logical path” constantly rewiring itself.",
+      "seed": "Floating Staircase Logic Machine: A spiral staircase made of semi-transparent blocks floats in midair, where each step that is touched detaches, rotates slowly, reattaches in a different place, and changes color while glowing arrows and labels show the “logical path” constantly rewiring itself."
+    },
+    {
+      "number": "2",
+      "title": "Colliding Thought Bubbles",
+      "description": "Colorful transparent spheres labeled with short words drift in 3D space, collide gently to merge into new larger bubbles with blended colors and combined labels, then split back into smaller bubbles that leave fading trails.",
+      "seed": "Colliding Thought Bubbles: Colorful transparent spheres labeled with short words drift in 3D space, collide gently to merge into new larger bubbles with blended colors and combined labels, then split back into smaller bubbles that leave fading trails."
+    },
+    {
+      "number": "3",
+      "title": "Impossible Gear Room",
+      "description": "A set of pastel-colored gears arranged in an Escher-like impossible loop rotate in contradictory directions; when one gear slows or reverses, the others stretch, detach, and snap into new impossible configurations, with thin glowing lines tracing force paths.",
+      "seed": "Impossible Gear Room: A set of pastel-colored gears arranged in an Escher-like impossible loop rotate in contradictory directions; when one gear slows or reverses, the others stretch, detach, and snap into new impossible configurations, with thin glowing lines tracing force paths."
+    },
+    {
+      "number": "4",
+      "title": "Logic River of Symbols",
+      "description": "A slow, floating “river” of small 3D symbols (letters, numbers, icons) flows along an invisible path in midair, occasionally clustering into transparent cubes that pulse, rotate, then dissolve into particles that drift upward and rejoin the river.",
+      "seed": "Logic River of Symbols: A slow, floating “river” of small 3D symbols (letters, numbers, icons) flows along an invisible path in midair, occasionally clustering into transparent cubes that pulse, rotate, then dissolve into particles that drift upward and rejoin the river."
+    },
+    {
+      "number": "5",
+      "title": "Dream City of Shifting Roads",
+      "description": "A light-colored city grid of thin roads and hovering houses constantly rewires itself: roads detach, bend, and reattach, houses float up, rotate, and settle onto new roads, while glowing paths show “shortest routes” that keep changing.",
+      "seed": "Dream City of Shifting Roads: A light-colored city grid of thin roads and hovering houses constantly rewires itself: roads detach, bend, and reattach, houses float up, rotate, and settle onto new roads, while glowing paths show “shortest routes” that keep changing."
+    },
+    {
+      "number": "6",
+      "title": "Orbiting Memory Nodes",
+      "description": "Semi-transparent spheres representing memories orbit around a central glowing core; when two paths intersect they collide softly, swap orbital levels, and briefly flash images (textures) on their surfaces before leaving colored trails that slowly fade.",
+      "seed": "Orbiting Memory Nodes: Semi-transparent spheres representing memories orbit around a central glowing core; when two paths intersect they collide softly, swap orbital levels, and briefly flash images (textures) on their surfaces before leaving colored trails that slowly fade."
+    },
+    {
+      "number": "7",
+      "title": "Logic Domino Cloud",
+      "description": "A floating lattice of pastel domino-like tiles hovers in 3D; tapping one causes a branching cascade where tiles rotate, fall in slow motion, bounce back up, rearrange into new logic patterns, and project faint glowing arrows showing cause and effect.",
+      "seed": "Logic Domino Cloud: A floating lattice of pastel domino-like tiles hovers in 3D; tapping one causes a branching cascade where tiles rotate, fall in slow motion, bounce back up, rearrange into new logic patterns, and project faint glowing arrows showing cause and effect."
+    },
+    {
+      "number": "8",
+      "title": "Rewriting Chalkboard Cubes",
+      "description": "A cluster of white cubes with dark, chalk-like scribbles drifts above a plane; when cubes collide they stick, rotate as a group, erase parts of their scribbles, and redraw new connected diagrams while soft dust particles spill and settle below.",
+      "seed": "Rewriting Chalkboard Cubes: A cluster of white cubes with dark, chalk-like scribbles drifts above a plane; when cubes collide they stick, rotate as a group, erase parts of their scribbles, and redraw new connected diagrams while soft dust particles spill and settle below."
+    },
+    {
+      "number": "9",
+      "title": "Ladder of Transforming Rules",
+      "description": "A tall, vertical ladder made of segments that can stretch, fold, and rotate floats in space; when a sphere “idea” climbs by bouncing from rung to rung, each rung it touches changes shape and color, then reorders itself in the ladder.",
+      "seed": "Ladder of Transforming Rules: A tall, vertical ladder made of segments that can stretch, fold, and rotate floats in space; when a sphere “idea” climbs by bouncing from rung to rung, each rung it touches changes shape and color, then reorders itself in the ladder."
+    },
+    {
+      "number": "10",
+      "title": "Dream Clockwork with Melting Time",
+      "description": "Multiple light-colored clock faces orbit a central axis, their hands bending and melting like soft ribbons; when clocks approach each other they exchange hands, which detach and wrap around neighboring clocks, changing their rotation speed.",
+      "seed": "Dream Clockwork with Melting Time: Multiple light-colored clock faces orbit a central axis, their hands bending and melting like soft ribbons; when clocks approach each other they exchange hands, which detach and wrap around neighboring clocks, changing their rotation speed."
+    },
+    {
+      "number": "11",
+      "title": "Branching Narrative Tree",
+      "description": "A glowing trunk in the center sprouts transparent branches that split and merge in real time; small labeled orbs travel along branches, causing them to grow, curl, or dissolve into sparkling particles that condense into new branches elsewhere.",
+      "seed": "Branching Narrative Tree: A glowing trunk in the center sprouts transparent branches that split and merge in real time; small labeled orbs travel along branches, causing them to grow, curl, or dissolve into sparkling particles that condense into new branches elsewhere."
+    },
+    {
+      "number": "12",
+      "title": "Logic Marble Maze in Zero Gravity",
+      "description": "A 3D lattice of translucent tubes and panels floats while marbles of different colors drift through; panels rotate, detach, and reattach to reroute paths whenever a marble passes, leaving colored trails and showing how “rules” reshuffle.",
+      "seed": "Logic Marble Maze in Zero Gravity: A 3D lattice of translucent tubes and panels floats while marbles of different colors drift through; panels rotate, detach, and reattach to reroute paths whenever a marble passes, leaving colored trails and showing how “rules” reshuffle."
+    },
+    {
+      "number": "13",
+      "title": "Dream Traffic of Flying Doors",
+      "description": "Doors of various sizes float and slowly rotate in 3D, occasionally opening to emit small glowing cubes that pass through other doors; collisions cause doors to swap places, rotate, or fold into themselves, with faint labels hovering near each door.",
+      "seed": "Dream Traffic of Flying Doors: Doors of various sizes float and slowly rotate in 3D, occasionally opening to emit small glowing cubes that pass through other doors; collisions cause doors to swap places, rotate, or fold into themselves, with faint labels hovering near each door."
+    },
+    {
+      "number": "14",
+      "title": "Puzzle Tiles that Refuse to Settle",
+      "description": "A square frame in midair contains sliding pastel tiles that constantly try to form a picture; when almost complete, one tile pops out, floats around, and reattaches in a different place, triggering a gentle ripple of sliding, rotating tiles.",
+      "seed": "Puzzle Tiles that Refuse to Settle: A square frame in midair contains sliding pastel tiles that constantly try to form a picture; when almost complete, one tile pops out, floats around, and reattaches in a different place, triggering a gentle ripple of sliding, rotating tiles."
+    },
+    {
+      "number": "15",
+      "title": "Logic Constellation Rewiring",
+      "description": "Points of light form a 3D constellation connected by thin lines; when a point is clicked or touched by a passing sphere, lines detach, reconnect to different stars, and redraw the constellation into new symbolic shapes with labels that fade in and out.",
+      "seed": "Logic Constellation Rewiring: Points of light form a 3D constellation connected by thin lines; when a point is clicked or touched by a passing sphere, lines detach, reconnect to different stars, and redraw the constellation into new symbolic shapes with labels that fade in and out."
+    },
+    {
+      "number": "16",
+      "title": "Folding Dream Cube",
+      "description": "A hollow semi-transparent cube repeatedly unfolds into a flat cross shape and refolds into new cube configurations; small colored balls move inside, bouncing off faces that appear or disappear as the cube folds, sometimes spilling out and reentering.",
+      "seed": "Folding Dream Cube: A hollow semi-transparent cube repeatedly unfolds into a flat cross shape and refolds into new cube configurations; small colored balls move inside, bouncing off faces that appear or disappear as the cube folds, sometimes spilling out and reentering."
+    },
+    {
+      "number": "17",
+      "title": "Elevator of Shifting Floors",
+      "description": "An open-frame elevator car rises and falls between invisible floors that appear only when approached; floors materialize as translucent planes, slide sideways, rotate, and sometimes detach to orbit the elevator, with arrows indicating “up” and “down” that keep flipping.",
+      "seed": "Elevator of Shifting Floors: An open-frame elevator car rises and falls between invisible floors that appear only when approached; floors materialize as translucent planes, slide sideways, rotate, and sometimes detach to orbit the elevator, with arrows indicating “up” and “down” that keep flipping."
+    },
+    {
+      "number": "18",
+      "title": "Cause-and-Effect Pendulums",
+      "description": "Multiple pendulums with glowing bob colors hang from a transparent frame; when one swings and collides with another, others in distant corners begin to pulse, detach, and reattach to new pivot points, redrawing the system’s structure in midair.",
+      "seed": "Cause-and-Effect Pendulums: Multiple pendulums with glowing bob colors hang from a transparent frame; when one swings and collides with another, others in distant corners begin to pulse, detach, and reattach to new pivot points, redrawing the system’s structure in midair."
+    },
+    {
+      "number": "19",
+      "title": "Dream Library of Floating Shelves",
+      "description": "Books and shelves float in a pale 3D room; when a book collides with another or with a shelf, both rotate and reshelve themselves elsewhere, leaving colored ghost images of their previous positions that slowly fade.",
+      "seed": "Dream Library of Floating Shelves: Books and shelves float in a pale 3D room; when a book collides with another or with a shelf, both rotate and reshelve themselves elsewhere, leaving colored ghost images of their previous positions that slowly fade."
+    },
+    {
+      "number": "20",
+      "title": "Reversible Gravity Logic Well",
+      "description": "A shallow transparent bowl in the air holds many small spheres; occasionally gravity inverts so spheres drift up, stick to an invisible “ceiling bowl,” then gravity flips again, causing spheres to fall, bounce, and cluster into new patterns each cycle.",
+      "seed": "Reversible Gravity Logic Well: A shallow transparent bowl in the air holds many small spheres; occasionally gravity inverts so spheres drift up, stick to an invisible “ceiling bowl,” then gravity flips again, causing spheres to fall, bounce, and cluster into new patterns each cycle."
+    },
+    {
+      "number": "21",
+      "title": "Morphing Mask Network",
+      "description": "A network of thin lines suspends several semi-transparent masks that slowly rotate; when two masks face each other closely, their features blend, the lines between them reroute and glow, and a new mask splits off, drifting to a new node.",
+      "seed": "Morphing Mask Network: A network of thin lines suspends several semi-transparent masks that slowly rotate; when two masks face each other closely, their features blend, the lines between them reroute and glow, and a new mask splits off, drifting to a new node."
+    },
+    {
+      "number": "22",
+      "title": "Dream Chessboard of Melting Rules",
+      "description": "A 3D chessboard floats with pieces that move on their own; when a piece attempts a move, the board’s squares lift, tilt, or slide away, pieces stretch or shrink, swap movement styles, and faint text labels show “rule changes” above them.",
+      "seed": "Dream Chessboard of Melting Rules: A 3D chessboard floats with pieces that move on their own; when a piece attempts a move, the board’s squares lift, tilt, or slide away, pieces stretch or shrink, swap movement styles, and faint text labels show “rule changes” above them."
+    },
+    {
+      "number": "23",
+      "title": "Fractal Stair Loops",
+      "description": "Multiple staircases spiral upward and downward, occasionally merging into loops; tiny glowing walkers move along them, and when two walkers meet, the staircase segment between them folds, detaches, and reconnects elsewhere, creating new infinite loops.",
+      "seed": "Fractal Stair Loops: Multiple staircases spiral upward and downward, occasionally merging into loops; tiny glowing walkers move along them, and when two walkers meet, the staircase segment between them folds, detaches, and reconnects elsewhere, creating new infinite loops."
+    },
+    {
+      "number": "24",
+      "title": "Color Logic Mixer",
+      "description": "Streams of colored particles flow from several hovering funnels into a central transparent sphere; inside, particles swirl, mix, and periodically shoot out as new colored jets that wrap around the funnels and re-enter, while a floating meter shows “coherence” levels.",
+      "seed": "Color Logic Mixer: Streams of colored particles flow from several hovering funnels into a central transparent sphere; inside, particles swirl, mix, and periodically shoot out as new colored jets that wrap around the funnels and re-enter, while a floating meter shows “coherence” levels."
+    },
+    {
+      "number": "25",
+      "title": "Dream Argument Arena",
+      "description": "Two clusters of colored orbs labeled with short phrases hover on opposite sides; orbs slowly drift, collide, and either merge into stronger, brighter orbs or dissolve into faint dust, while thin lines of influence connect and disconnect between clusters.",
+      "seed": "Dream Argument Arena: Two clusters of colored orbs labeled with short phrases hover on opposite sides; orbs slowly drift, collide, and either merge into stronger, brighter orbs or dissolve into faint dust, while thin lines of influence connect and disconnect between clusters."
+    }
+  ],
+  "raw_output": "Here are strong **Dream logic systems simulation inputs** you can plug into your prompt:\n\n1. **Floating Staircase Logic Machine**\n   A spiral staircase made of semi-transparent blocks floats in midair, where each step that is touched detaches, rotates slowly, reattaches in a different place, and changes color while glowing arrows and labels show the “logical path” constantly rewiring itself.\n\n2. **Colliding Thought Bubbles**\n   Colorful transparent spheres labeled with short words drift in 3D space, collide gently to merge into new larger bubbles with blended colors and combined labels, then split back into smaller bubbles that leave fading trails.\n\n3. **Impossible Gear Room**\n   A set of pastel-colored gears arranged in an Escher-like impossible loop rotate in contradictory directions; when one gear slows or reverses, the others stretch, detach, and snap into new impossible configurations, with thin glowing lines tracing force paths.\n\n4. **Logic River of Symbols**\n   A slow, floating “river” of small 3D symbols (letters, numbers, icons) flows along an invisible path in midair, occasionally clustering into transparent cubes that pulse, rotate, then dissolve into particles that drift upward and rejoin the river.\n\n5. **Dream City of Shifting Roads**\n   A light-colored city grid of thin roads and hovering houses constantly rewires itself: roads detach, bend, and reattach, houses float up, rotate, and settle onto new roads, while glowing paths show “shortest routes” that keep changing.\n\n6. **Orbiting Memory Nodes**\n   Semi-transparent spheres representing memories orbit around a central glowing core; when two paths intersect they collide softly, swap orbital levels, and briefly flash images (textures) on their surfaces before leaving colored trails that slowly fade.\n\n7. **Logic Domino Cloud**\n   A floating lattice of pastel domino-like tiles hovers in 3D; tapping one causes a branching cascade where tiles rotate, fall in slow motion, bounce back up, rearrange into new logic patterns, and project faint glowing arrows showing cause and effect.\n\n8. **Rewriting Chalkboard Cubes**\n   A cluster of white cubes with dark, chalk-like scribbles drifts above a plane; when cubes collide they stick, rotate as a group, erase parts of their scribbles, and redraw new connected diagrams while soft dust particles spill and settle below.\n\n9. **Ladder of Transforming Rules**\n   A tall, vertical ladder made of segments that can stretch, fold, and rotate floats in space; when a sphere “idea” climbs by bouncing from rung to rung, each rung it touches changes shape and color, then reorders itself in the ladder.\n\n10. **Dream Clockwork with Melting Time**\n    Multiple light-colored clock faces orbit a central axis, their hands bending and melting like soft ribbons; when clocks approach each other they exchange hands, which detach and wrap around neighboring clocks, changing their rotation speed.\n\n11. **Branching Narrative Tree**\n    A glowing trunk in the center sprouts transparent branches that split and merge in real time; small labeled orbs travel along branches, causing them to grow, curl, or dissolve into sparkling particles that condense into new branches elsewhere.\n\n12. **Logic Marble Maze in Zero Gravity**\n    A 3D lattice of translucent tubes and panels floats while marbles of different colors drift through; panels rotate, detach, and reattach to reroute paths whenever a marble passes, leaving colored trails and showing how “rules” reshuffle.\n\n13. **Dream Traffic of Flying Doors**\n    Doors of various sizes float and slowly rotate in 3D, occasionally opening to emit small glowing cubes that pass through other doors; collisions cause doors to swap places, rotate, or fold into themselves, with faint labels hovering near each door.\n\n14. **Puzzle Tiles that Refuse to Settle**\n    A square frame in midair contains sliding pastel tiles that constantly try to form a picture; when almost complete, one tile pops out, floats around, and reattaches in a different place, triggering a gentle ripple of sliding, rotating tiles.\n\n15. **Logic Constellation Rewiring**\n    Points of light form a 3D constellation connected by thin lines; when a point is clicked or touched by a passing sphere, lines detach, reconnect to different stars, and redraw the constellation into new symbolic shapes with labels that fade in and out.\n\n16. **Folding Dream Cube**\n    A hollow semi-transparent cube repeatedly unfolds into a flat cross shape and refolds into new cube configurations; small colored balls move inside, bouncing off faces that appear or disappear as the cube folds, sometimes spilling out and reentering.\n\n17. **Elevator of Shifting Floors**\n    An open-frame elevator car rises and falls between invisible floors that appear only when approached; floors materialize as translucent planes, slide sideways, rotate, and sometimes detach to orbit the elevator, with arrows indicating “up” and “down” that keep flipping.\n\n18. **Cause-and-Effect Pendulums**\n    Multiple pendulums with glowing bob colors hang from a transparent frame; when one swings and collides with another, others in distant corners begin to pulse, detach, and reattach to new pivot points, redrawing the system’s structure in midair.\n\n19. **Dream Library of Floating Shelves**\n    Books and shelves float in a pale 3D room; when a book collides with another or with a shelf, both rotate and reshelve themselves elsewhere, leaving colored ghost images of their previous positions that slowly fade.\n\n20. **Reversible Gravity Logic Well**\n    A shallow transparent bowl in the air holds many small spheres; occasionally gravity inverts so spheres drift up, stick to an invisible “ceiling bowl,” then gravity flips again, causing spheres to fall, bounce, and cluster into new patterns each cycle.\n\n21. **Morphing Mask Network**\n    A network of thin lines suspends several semi-transparent masks that slowly rotate; when two masks face each other closely, their features blend, the lines between them reroute and glow, and a new mask splits off, drifting to a new node.\n\n22. **Dream Chessboard of Melting Rules**\n    A 3D chessboard floats with pieces that move on their own; when a piece attempts a move, the board’s squares lift, tilt, or slide away, pieces stretch or shrink, swap movement styles, and faint text labels show “rule changes” above them.\n\n23. **Fractal Stair Loops**\n    Multiple staircases spiral upward and downward, occasionally merging into loops; tiny glowing walkers move along them, and when two walkers meet, the staircase segment between them folds, detaches, and reconnects elsewhere, creating new infinite loops.\n\n24. **Color Logic Mixer**\n    Streams of colored particles flow from several hovering funnels into a central transparent sphere; inside, particles swirl, mix, and periodically shoot out as new colored jets that wrap around the funnels and re-enter, while a floating meter shows “coherence” levels.\n\n25. **Dream Argument Arena**\n    Two clusters of colored orbs labeled with short phrases hover on opposite sides; orbs slowly drift, collide, and either merge into stronger, brighter orbs or dissolve into faint dust, while thin lines of influence connect and disconnect between clusters."
+}

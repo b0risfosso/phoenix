@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Ice cracking",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:54:33",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Lake Ice Sheet Under Stress",
+      "description": "A large transparent ice plate floats on pale blue water while a moving heavy sphere presses down and slides, causing branching crack lines to grow, split, and glow briefly as they propagate, with labels showing stress and a meter tracking total crack length.",
+      "seed": "Lake Ice Sheet Under Stress: A large transparent ice plate floats on pale blue water while a moving heavy sphere presses down and slides, causing branching crack lines to grow, split, and glow briefly as they propagate, with labels showing stress and a meter tracking total crack length."
+    },
+    {
+      "number": "2",
+      "title": "Frozen Pond Thawing From a Central Heater",
+      "description": "A circular ice disk on top of water has a small warm sphere at its center that pulses heat outward, melting a growing transparent hole while crack patterns radiate, detach chunks that float and rotate, and small water droplets spill and ripple the surface.",
+      "seed": "Frozen Pond Thawing From a Central Heater: A circular ice disk on top of water has a small warm sphere at its center that pulses heat outward, melting a growing transparent hole while crack patterns radiate, detach chunks that float and rotate, and small water droplets spill and ripple the surface."
+    },
+    {
+      "number": "3",
+      "title": "Footsteps Cracking Thin Ice",
+      "description": "A human-sized footprint-shaped object repeatedly steps across a thin ice sheet over dark water, each step spawning localized star-shaped cracks that expand, connect with neighbors, and sometimes break free ice fragments that bob and collide, leaving labeled footprints.",
+      "seed": "Footsteps Cracking Thin Ice: A human-sized footprint-shaped object repeatedly steps across a thin ice sheet over dark water, each step spawning localized star-shaped cracks that expand, connect with neighbors, and sometimes break free ice fragments that bob and collide, leaving labeled footprints."
+    },
+    {
+      "number": "4",
+      "title": "Iceberg Colliding With a Pier",
+      "description": "A moving iceberg block slowly drifts into stationary pier pylons, generating sharp fracture planes and chipped-off transparent shards that bounce, rotate, and sink or float, with color-coded stress zones on the iceberg and trails marking the path of broken pieces.",
+      "seed": "Iceberg Colliding With a Pier: A moving iceberg block slowly drifts into stationary pier pylons, generating sharp fracture planes and chipped-off transparent shards that bounce, rotate, and sink or float, with color-coded stress zones on the iceberg and trails marking the path of broken pieces."
+    },
+    {
+      "number": "5",
+      "title": "Slow-Motion Bullet Through Ice Block",
+      "description": "A small high-speed sphere passes through a thick ice cube, creating a cylindrical tunnel, conical fracture planes, and radial cracks that grow and branch in slow motion, while tiny particle fragments spray out, bounce on the ground, and fade.",
+      "seed": "Slow-Motion Bullet Through Ice Block: A small high-speed sphere passes through a thick ice cube, creating a cylindrical tunnel, conical fracture planes, and radial cracks that grow and branch in slow motion, while tiny particle fragments spray out, bounce on the ground, and fade."
+    },
+    {
+      "number": "6",
+      "title": "Car Tire on Frozen Road",
+      "description": "A rotating tire rolls along a flat icy road, with friction hotspots appearing as glowing patches where micro-cracks spawn, crawl backward under the tire, merge into larger fractures, and occasionally eject thin slabs that slide aside, leaving a roughened track.",
+      "seed": "Car Tire on Frozen Road: A rotating tire rolls along a flat icy road, with friction hotspots appearing as glowing patches where micro-cracks spawn, crawl backward under the tire, merge into larger fractures, and occasionally eject thin slabs that slide aside, leaving a roughened track."
+    },
+    {
+      "number": "7",
+      "title": "Ice Crystals Cracking Under Thermal Shock",
+      "description": "A cluster of needle-like ice crystals is suddenly hit by a hot air pulse from one side, causing the crystals to bend, snap, and fracture into smaller shards that drift and rotate, with crack paths highlighted and a thermometer bar tracking temperature.",
+      "seed": "Ice Crystals Cracking Under Thermal Shock: A cluster of needle-like ice crystals is suddenly hit by a hot air pulse from one side, causing the crystals to bend, snap, and fracture into smaller shards that drift and rotate, with crack paths highlighted and a thermometer bar tracking temperature."
+    },
+    {
+      "number": "8",
+      "title": "Frozen River Breaking During Spring Melt",
+      "description": "Long ice floes form a cracked sheet over a flowing river; as the water flow increases, large fracture lines open, floes detach, bump, spin, stack, and sometimes reattach at edges, while spray particles rise at collisions and a label shows total moving ice mass.",
+      "seed": "Frozen River Breaking During Spring Melt: Long ice floes form a cracked sheet over a flowing river; as the water flow increases, large fracture lines open, floes detach, bump, spin, stack, and sometimes reattach at edges, while spray particles rise at collisions and a label shows total moving ice mass."
+    },
+    {
+      "number": "9",
+      "title": "Microscopic View of Crack Propagation in Ice Grain",
+      "description": "A single translucent ice grain is shown under imaginary “load” from two opposite plates; as the plates slowly move together, an internal crack plane nucleates, branches through the grain in 3D, changes color with stress intensity, and eventually splits the grain.",
+      "seed": "Microscopic View of Crack Propagation in Ice Grain: A single translucent ice grain is shown under imaginary “load” from two opposite plates; as the plates slowly move together, an internal crack plane nucleates, branches through the grain in 3D, changes color with stress intensity, and eventually splits the grain."
+    },
+    {
+      "number": "10",
+      "title": "Dropping a Rock Onto a Frozen Puddle",
+      "description": "A rock sphere falls from above onto a thin ice disk over shallow water, making concentric crack rings and radial arms that race outward and fade, with some regions fully breaking into fragments that bob, collide, and drift outward from the impact point.",
+      "seed": "Dropping a Rock Onto a Frozen Puddle: A rock sphere falls from above onto a thin ice disk over shallow water, making concentric crack rings and radial arms that race outward and fade, with some regions fully breaking into fragments that bob, collide, and drift outward from the impact point."
+    },
+    {
+      "number": "11",
+      "title": "Shattering Icicle From Vibration",
+      "description": "A tall hanging icicle cylinder is attached to a beam that vibrates sinusoidally; as vibration amplitude increases, small fractures appear at high-bend regions, grow, merge, and eventually cause segments to detach, tumble, and shatter on the ground into tiny shards.",
+      "seed": "Shattering Icicle From Vibration: A tall hanging icicle cylinder is attached to a beam that vibrates sinusoidally; as vibration amplitude increases, small fractures appear at high-bend regions, grow, merge, and eventually cause segments to detach, tumble, and shatter on the ground into tiny shards."
+    },
+    {
+      "number": "12",
+      "title": "Spaceship Landing on an Icy Moon",
+      "description": "A small lander descends onto a flat icy moon surface; its landing legs press into the surface, creating branching cracks that radiate, intersect craters, and cause some crust plates to tilt and lift, while a HUD overlays stress lines and labels key fracture junctions.",
+      "seed": "Spaceship Landing on an Icy Moon: A small lander descends onto a flat icy moon surface; its landing legs press into the surface, creating branching cracks that radiate, intersect craters, and cause some crust plates to tilt and lift, while a HUD overlays stress lines and labels key fracture junctions."
+    },
+    {
+      "number": "13",
+      "title": "Ice Wall Under Repeated Hammer Blows",
+      "description": "A vertical ice wall stands on the ground while a swinging hammer object repeatedly hits it at different spots, each impact generating localized spiderweb cracks that either self-heal slowly or accumulate until a large chunk detaches and slides away.",
+      "seed": "Ice Wall Under Repeated Hammer Blows: A vertical ice wall stands on the ground while a swinging hammer object repeatedly hits it at different spots, each impact generating localized spiderweb cracks that either self-heal slowly or accumulate until a large chunk detaches and slides away."
+    },
+    {
+      "number": "14",
+      "title": "Glacier Crevasse Formation Over Time",
+      "description": "A long sloping ice slab slowly flows downslope, with underlying bedrock exerting friction; as the slab stretches, crevasse cracks open, deepen, and widen, some linking up to form large gaps, while markers track individual crevasses and their growth rates.",
+      "seed": "Glacier Crevasse Formation Over Time: A long sloping ice slab slowly flows downslope, with underlying bedrock exerting friction; as the slab stretches, crevasse cracks open, deepen, and widen, some linking up to form large gaps, while markers track individual crevasses and their growth rates."
+    },
+    {
+      "number": "15",
+      "title": "Freezer Block Cracking Around Expanding Object",
+      "description": "A small metal sphere embedded in a transparent ice cube gradually heats and expands, pushing against the ice and creating radiating cracks, curved fracture surfaces, and eventually a shell that splits into petals that peel back and rotate away.",
+      "seed": "Freezer Block Cracking Around Expanding Object: A small metal sphere embedded in a transparent ice cube gradually heats and expands, pushing against the ice and creating radiating cracks, curved fracture surfaces, and eventually a shell that splits into petals that peel back and rotate away."
+    },
+    {
+      "number": "16",
+      "title": "Sound Wave Causing Resonant Ice Cracking",
+      "description": "A flat ice plate is mounted between two supports while a source emits visible sinusoidal sound waves; as frequency sweeps, nodes and antinodes appear on the plate, and at resonance the plate develops standing-wave crack patterns that glow and then break into segments.",
+      "seed": "Sound Wave Causing Resonant Ice Cracking: A flat ice plate is mounted between two supports while a source emits visible sinusoidal sound waves; as frequency sweeps, nodes and antinodes appear on the plate, and at resonance the plate develops standing-wave crack patterns that glow and then break into segments."
+    },
+    {
+      "number": "17",
+      "title": "Ice Sculpture Breaking Under Falling Debris",
+      "description": "A detailed ice sculpture (simple stacked shapes) stands under a chute that drops small blocks from above; each impact chips off fragments, triggers successive cracks through connected parts, and can cause entire sections to topple and shatter on the floor.",
+      "seed": "Ice Sculpture Breaking Under Falling Debris: A detailed ice sculpture (simple stacked shapes) stands under a chute that drops small blocks from above; each impact chips off fragments, triggers successive cracks through connected parts, and can cause entire sections to topple and shatter on the floor."
+    },
+    {
+      "number": "18",
+      "title": "Cracking Sea Ice Pack Under Moving Ship",
+      "description": "A ship hull prism pushes slowly through a large sea-ice sheet, splitting it into polygonal plates that rotate, bounce, and slide along the hull; behind the ship, a channel of fragmented ice forms, with color-coded thickness and animated cracking at the bow.",
+      "seed": "Cracking Sea Ice Pack Under Moving Ship: A ship hull prism pushes slowly through a large sea-ice sheet, splitting it into polygonal plates that rotate, bounce, and slide along the hull; behind the ship, a channel of fragmented ice forms, with color-coded thickness and animated cracking at the bow."
+    },
+    {
+      "number": "19",
+      "title": "Laser Cutting Patterns in Ice Plate",
+      "description": "A moving laser point glides over a flat ice sheet, leaving a glowing heated trail; where it passes, fine cracks appear, follow the path, and sometimes jump outward into branching patterns, with cut-out segments eventually detaching and sliding slightly aside.",
+      "seed": "Laser Cutting Patterns in Ice Plate: A moving laser point glides over a flat ice sheet, leaving a glowing heated trail; where it passes, fine cracks appear, follow the path, and sometimes jump outward into branching patterns, with cut-out segments eventually detaching and sliding slightly aside."
+    },
+    {
+      "number": "20",
+      "title": "Metaphorical ‘Ice Between People’ Cracking",
+      "description": "Two humanoid figures stand apart with a translucent ice barrier between them; as they move closer and a glowing “connection line” strengthens, the barrier develops cracks that spider across its surface, pieces detach and dissolve into particles, and labels track “tension” and “warmth.”",
+      "seed": "Metaphorical ‘Ice Between People’ Cracking: Two humanoid figures stand apart with a translucent ice barrier between them; as they move closer and a glowing “connection line” strengthens, the barrier develops cracks that spider across its surface, pieces detach and dissolve into particles, and labels track “tension” and “warmth.”"
+    },
+    {
+      "number": "21",
+      "title": "Cracking of Ice on a Rotating Sphere Planet",
+      "description": "A rotating icy planet slowly increases its spin rate, causing stress belts at mid-latitudes where surface ice plates crack, open, and shift; cracks wrap around the sphere, some reconnect at the backside, and small ice chunks detach and orbit briefly before falling back.",
+      "seed": "Cracking of Ice on a Rotating Sphere Planet: A rotating icy planet slowly increases its spin rate, causing stress belts at mid-latitudes where surface ice plates crack, open, and shift; cracks wrap around the sphere, some reconnect at the backside, and small ice chunks detach and orbit briefly before falling back."
+    },
+    {
+      "number": "22",
+      "title": "Ice Road Cracking Under Moving Convoy",
+      "description": "Several boxy trucks drive along a straight ice road over water, each truck causing localized deflection and expanding cracks that trail behind, intersect with neighboring tracks, and occasionally form a full-width fracture that drops a road slab into the water.",
+      "seed": "Ice Road Cracking Under Moving Convoy: Several boxy trucks drive along a straight ice road over water, each truck causing localized deflection and expanding cracks that trail behind, intersect with neighboring tracks, and occasionally form a full-width fracture that drops a road slab into the water."
+    },
+    {
+      "number": "23",
+      "title": "Skater’s Path Carving and Cracking Ice",
+      "description": "A moving skater object glides and turns across a rink; their blades leave shallow etched lines in the ice, and sharp turns or jumps cause sudden branching cracks that glow and fade, while a trail shows their path and labels indicate crack length per move.",
+      "seed": "Skater’s Path Carving and Cracking Ice: A moving skater object glides and turns across a rink; their blades leave shallow etched lines in the ice, and sharp turns or jumps cause sudden branching cracks that glow and fade, while a trail shows their path and labels indicate crack length per move."
+    },
+    {
+      "number": "24",
+      "title": "Frozen Pipe Bursting",
+      "description": "A long transparent pipe filled with expanding ice sits between two rigid supports; as internal pressure increases, tiny circumferential cracks appear, grow into a spiral fracture, and suddenly burst a segment, ejecting particle jets of ice shards and water.",
+      "seed": "Frozen Pipe Bursting: A long transparent pipe filled with expanding ice sits between two rigid supports; as internal pressure increases, tiny circumferential cracks appear, grow into a spiral fracture, and suddenly burst a segment, ejecting particle jets of ice shards and water."
+    },
+    {
+      "number": "25",
+      "title": "Cracking Ice Sheet on a Tilted Table",
+      "description": "A rectangular ice plate lies on a table that slowly tilts; as the angle increases, gravity-driven sliding triggers tension cracks at the upper edge and shear cracks mid-plate, with broken slabs starting to slide, collide, and stack at the lower end.",
+      "seed": "Cracking Ice Sheet on a Tilted Table: A rectangular ice plate lies on a table that slowly tilts; as the angle increases, gravity-driven sliding triggers tension cracks at the upper edge and shear cracks mid-plate, with broken slabs starting to slide, collide, and stack at the lower end."
+    }
+  ],
+  "raw_output": "Here are strong **Ice cracking simulation inputs** you can plug into your prompt:\n\n1. **Lake Ice Sheet Under Stress**\n   A large transparent ice plate floats on pale blue water while a moving heavy sphere presses down and slides, causing branching crack lines to grow, split, and glow briefly as they propagate, with labels showing stress and a meter tracking total crack length.\n\n2. **Frozen Pond Thawing From a Central Heater**\n   A circular ice disk on top of water has a small warm sphere at its center that pulses heat outward, melting a growing transparent hole while crack patterns radiate, detach chunks that float and rotate, and small water droplets spill and ripple the surface.\n\n3. **Footsteps Cracking Thin Ice**\n   A human-sized footprint-shaped object repeatedly steps across a thin ice sheet over dark water, each step spawning localized star-shaped cracks that expand, connect with neighbors, and sometimes break free ice fragments that bob and collide, leaving labeled footprints.\n\n4. **Iceberg Colliding With a Pier**\n   A moving iceberg block slowly drifts into stationary pier pylons, generating sharp fracture planes and chipped-off transparent shards that bounce, rotate, and sink or float, with color-coded stress zones on the iceberg and trails marking the path of broken pieces.\n\n5. **Slow-Motion Bullet Through Ice Block**\n   A small high-speed sphere passes through a thick ice cube, creating a cylindrical tunnel, conical fracture planes, and radial cracks that grow and branch in slow motion, while tiny particle fragments spray out, bounce on the ground, and fade.\n\n6. **Car Tire on Frozen Road**\n   A rotating tire rolls along a flat icy road, with friction hotspots appearing as glowing patches where micro-cracks spawn, crawl backward under the tire, merge into larger fractures, and occasionally eject thin slabs that slide aside, leaving a roughened track.\n\n7. **Ice Crystals Cracking Under Thermal Shock**\n   A cluster of needle-like ice crystals is suddenly hit by a hot air pulse from one side, causing the crystals to bend, snap, and fracture into smaller shards that drift and rotate, with crack paths highlighted and a thermometer bar tracking temperature.\n\n8. **Frozen River Breaking During Spring Melt**\n   Long ice floes form a cracked sheet over a flowing river; as the water flow increases, large fracture lines open, floes detach, bump, spin, stack, and sometimes reattach at edges, while spray particles rise at collisions and a label shows total moving ice mass.\n\n9. **Microscopic View of Crack Propagation in Ice Grain**\n   A single translucent ice grain is shown under imaginary “load” from two opposite plates; as the plates slowly move together, an internal crack plane nucleates, branches through the grain in 3D, changes color with stress intensity, and eventually splits the grain.\n\n10. **Dropping a Rock Onto a Frozen Puddle**\n    A rock sphere falls from above onto a thin ice disk over shallow water, making concentric crack rings and radial arms that race outward and fade, with some regions fully breaking into fragments that bob, collide, and drift outward from the impact point.\n\n11. **Shattering Icicle From Vibration**\n    A tall hanging icicle cylinder is attached to a beam that vibrates sinusoidally; as vibration amplitude increases, small fractures appear at high-bend regions, grow, merge, and eventually cause segments to detach, tumble, and shatter on the ground into tiny shards.\n\n12. **Spaceship Landing on an Icy Moon**\n    A small lander descends onto a flat icy moon surface; its landing legs press into the surface, creating branching cracks that radiate, intersect craters, and cause some crust plates to tilt and lift, while a HUD overlays stress lines and labels key fracture junctions.\n\n13. **Ice Wall Under Repeated Hammer Blows**\n    A vertical ice wall stands on the ground while a swinging hammer object repeatedly hits it at different spots, each impact generating localized spiderweb cracks that either self-heal slowly or accumulate until a large chunk detaches and slides away.\n\n14. **Glacier Crevasse Formation Over Time**\n    A long sloping ice slab slowly flows downslope, with underlying bedrock exerting friction; as the slab stretches, crevasse cracks open, deepen, and widen, some linking up to form large gaps, while markers track individual crevasses and their growth rates.\n\n15. **Freezer Block Cracking Around Expanding Object**\n    A small metal sphere embedded in a transparent ice cube gradually heats and expands, pushing against the ice and creating radiating cracks, curved fracture surfaces, and eventually a shell that splits into petals that peel back and rotate away.\n\n16. **Sound Wave Causing Resonant Ice Cracking**\n    A flat ice plate is mounted between two supports while a source emits visible sinusoidal sound waves; as frequency sweeps, nodes and antinodes appear on the plate, and at resonance the plate develops standing-wave crack patterns that glow and then break into segments.\n\n17. **Ice Sculpture Breaking Under Falling Debris**\n    A detailed ice sculpture (simple stacked shapes) stands under a chute that drops small blocks from above; each impact chips off fragments, triggers successive cracks through connected parts, and can cause entire sections to topple and shatter on the floor.\n\n18. **Cracking Sea Ice Pack Under Moving Ship**\n    A ship hull prism pushes slowly through a large sea-ice sheet, splitting it into polygonal plates that rotate, bounce, and slide along the hull; behind the ship, a channel of fragmented ice forms, with color-coded thickness and animated cracking at the bow.\n\n19. **Laser Cutting Patterns in Ice Plate**\n    A moving laser point glides over a flat ice sheet, leaving a glowing heated trail; where it passes, fine cracks appear, follow the path, and sometimes jump outward into branching patterns, with cut-out segments eventually detaching and sliding slightly aside.\n\n20. **Metaphorical ‘Ice Between People’ Cracking**\n    Two humanoid figures stand apart with a translucent ice barrier between them; as they move closer and a glowing “connection line” strengthens, the barrier develops cracks that spider across its surface, pieces detach and dissolve into particles, and labels track “tension” and “warmth.”\n\n21. **Cracking of Ice on a Rotating Sphere Planet**\n    A rotating icy planet slowly increases its spin rate, causing stress belts at mid-latitudes where surface ice plates crack, open, and shift; cracks wrap around the sphere, some reconnect at the backside, and small ice chunks detach and orbit briefly before falling back.\n\n22. **Ice Road Cracking Under Moving Convoy**\n    Several boxy trucks drive along a straight ice road over water, each truck causing localized deflection and expanding cracks that trail behind, intersect with neighboring tracks, and occasionally form a full-width fracture that drops a road slab into the water.\n\n23. **Skater’s Path Carving and Cracking Ice**\n    A moving skater object glides and turns across a rink; their blades leave shallow etched lines in the ice, and sharp turns or jumps cause sudden branching cracks that glow and fade, while a trail shows their path and labels indicate crack length per move.\n\n24. **Frozen Pipe Bursting**\n    A long transparent pipe filled with expanding ice sits between two rigid supports; as internal pressure increases, tiny circumferential cracks appear, grow into a spiral fracture, and suddenly burst a segment, ejecting particle jets of ice shards and water.\n\n25. **Cracking Ice Sheet on a Tilted Table**\n    A rectangular ice plate lies on a table that slowly tilts; as the angle increases, gravity-driven sliding triggers tension cracks at the upper edge and shear cracks mid-plate, with broken slabs starting to slide, collide, and stack at the lower end."
+}

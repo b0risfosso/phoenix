@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Springs, tension, elasticity",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:37:57",
+  "entries": [
+    {
+      "number": "1",
+      "title": "3D Mass–Spring Lattice Under Gravity",
+      "description": "A cube-shaped lattice of small spheres connected by elastic springs stretches, compresses, and vibrates when dropped onto a plane, with color-changing springs indicating tension and small trails showing motion paths.",
+      "seed": "3D Mass–Spring Lattice Under Gravity: A cube-shaped lattice of small spheres connected by elastic springs stretches, compresses, and vibrates when dropped onto a plane, with color-changing springs indicating tension and small trails showing motion paths."
+    },
+    {
+      "number": "2",
+      "title": "Vertical Spring–Mass Oscillator Wall",
+      "description": "Several colored masses hang from ceiling-mounted springs in a row, each with different stiffness and damping, bouncing up and down with labels for frequency and amplitude and a light grid wall behind them.",
+      "seed": "Vertical Spring–Mass Oscillator Wall: Several colored masses hang from ceiling-mounted springs in a row, each with different stiffness and damping, bouncing up and down with labels for frequency and amplitude and a light grid wall behind them."
+    },
+    {
+      "number": "3",
+      "title": "Elastic Suspension Bridge Deck",
+      "description": "A simplified bridge deck made of connected masses and springs sags under moving box “cars,” with cables modeled as elastic elements that stretch, vibrate, and occasionally resonate, all over a pale blue river plane.",
+      "seed": "Elastic Suspension Bridge Deck: A simplified bridge deck made of connected masses and springs sags under moving box “cars,” with cables modeled as elastic elements that stretch, vibrate, and occasionally resonate, all over a pale blue river plane."
+    },
+    {
+      "number": "4",
+      "title": "Tensioned Spider Web With Prey Impact",
+      "description": "A circular spider web made of thin elastic strands between fixed posts deforms and ripples when a small “insect” sphere collides and sticks to it, sending visible tension waves along the strands that change color with strain.",
+      "seed": "Tensioned Spider Web With Prey Impact: A circular spider web made of thin elastic strands between fixed posts deforms and ripples when a small “insect” sphere collides and sticks to it, sending visible tension waves along the strands that change color with strain."
+    },
+    {
+      "number": "5",
+      "title": "Bungee Jumper Over a Canyon",
+      "description": "A human-shaped rigid body attached to a long elastic cord jumps off a platform above a valley floor, with the cord stretching, recoiling, and swinging the jumper in 3D while a tension gauge bar updates in real time.",
+      "seed": "Bungee Jumper Over a Canyon: A human-shaped rigid body attached to a long elastic cord jumps off a platform above a valley floor, with the cord stretching, recoiling, and swinging the jumper in 3D while a tension gauge bar updates in real time."
+    },
+    {
+      "number": "6",
+      "title": "Elastic Collision Chain of Hanging Balls",
+      "description": "A 3D Newton’s cradle with slightly elastic strings and balls swings, collides, and gradually twists out of plane, with arcs traced as faint trails and impact forces visualized as brief expanding rings at contact points.",
+      "seed": "Elastic Collision Chain of Hanging Balls: A 3D Newton’s cradle with slightly elastic strings and balls swings, collides, and gradually twists out of plane, with arcs traced as faint trails and impact forces visualized as brief expanding rings at contact points."
+    },
+    {
+      "number": "7",
+      "title": "Spring-Loaded Cube Jello Block",
+      "description": "A semi-transparent “jelly” cube represented by interior mass points and springs wobbles, squashes, and bounces when dropped or poked by a moving sphere, with internal springs visible and changing from blue to red with stretch.",
+      "seed": "Spring-Loaded Cube Jello Block: A semi-transparent “jelly” cube represented by interior mass points and springs wobbles, squashes, and bounces when dropped or poked by a moving sphere, with internal springs visible and changing from blue to red with stretch."
+    },
+    {
+      "number": "8",
+      "title": "Molecular Crystal Lattice Vibrations",
+      "description": "Atoms arranged in a cubic lattice are linked by springs as chemical bonds, vibrating thermally and responding to a passing “shock” pulse that travels through the crystal, with bond lengths and angles shown and temperature as a color gradient.",
+      "seed": "Molecular Crystal Lattice Vibrations: Atoms arranged in a cubic lattice are linked by springs as chemical bonds, vibrating thermally and responding to a passing “shock” pulse that travels through the crystal, with bond lengths and angles shown and temperature as a color gradient."
+    },
+    {
+      "number": "9",
+      "title": "Elastic Rope Tug-of-War",
+      "description": "Two teams of blocky characters stand on opposite ends of a 3D elastic rope made of spring-linked segments, pulling and stepping back as the rope stretches, sags, and occasionally snaps with particles and labels showing tension distribution.",
+      "seed": "Elastic Rope Tug-of-War: Two teams of blocky characters stand on opposite ends of a 3D elastic rope made of spring-linked segments, pulling and stepping back as the rope stretches, sags, and occasionally snaps with particles and labels showing tension distribution."
+    },
+    {
+      "number": "10",
+      "title": "Tensegrity Tower Under Wind",
+      "description": "A floating tensegrity structure of rigid rods connected only by elastic cables flexes and vibrates as a simulated wind force sweeps through, with stationary ground anchors, color-coded cables for compression/tension, and gentle camera rotation.",
+      "seed": "Tensegrity Tower Under Wind: A floating tensegrity structure of rigid rods connected only by elastic cables flexes and vibrates as a simulated wind force sweeps through, with stationary ground anchors, color-coded cables for compression/tension, and gentle camera rotation."
+    },
+    {
+      "number": "11",
+      "title": "Slingshot Launch of Elastic Projectile",
+      "description": "An elastic Y-shaped band attached to two fixed posts is pulled back by a small projectile sphere, showing band stretch and angle, then released to launch the sphere in an arc with a dotted trajectory trail and impact deformation of a soft target.",
+      "seed": "Slingshot Launch of Elastic Projectile: An elastic Y-shaped band attached to two fixed posts is pulled back by a small projectile sphere, showing band stretch and angle, then released to launch the sphere in an arc with a dotted trajectory trail and impact deformation of a soft target."
+    },
+    {
+      "number": "12",
+      "title": "Elastic Trampoline With Jumping Sphere",
+      "description": "A circular trampoline bed modeled as a radial mass–spring mesh stretches downward and rebounds when a heavy sphere repeatedly falls and bounces on it, with the rim rigid, the mat semi-transparent, and vertical displacement visualized as a contour.",
+      "seed": "Elastic Trampoline With Jumping Sphere: A circular trampoline bed modeled as a radial mass–spring mesh stretches downward and rebounds when a heavy sphere repeatedly falls and bounces on it, with the rim rigid, the mat semi-transparent, and vertical displacement visualized as a contour."
+    },
+    {
+      "number": "13",
+      "title": "Rubber Band Chain Around Rotating Cylinders",
+      "description": "Multiple small cylinders rotate at different speeds while a continuous rubber band loop (a chain of springs) wraps around them, stretching, slipping, and sometimes detaching to reattach elsewhere, with frictional heating shown as glow intensity.",
+      "seed": "Rubber Band Chain Around Rotating Cylinders: Multiple small cylinders rotate at different speeds while a continuous rubber band loop (a chain of springs) wraps around them, stretching, slipping, and sometimes detaching to reattach elsewhere, with frictional heating shown as glow intensity."
+    },
+    {
+      "number": "14",
+      "title": "Orbiting Satellites Linked by Tethers",
+      "description": "Several small satellites orbit a central planet while connected by long elastic tethers that stretch and slacken as their paths diverge, with tension visualized as line thickness and occasional tether break events scattering fragments.",
+      "seed": "Orbiting Satellites Linked by Tethers: Several small satellites orbit a central planet while connected by long elastic tethers that stretch and slacken as their paths diverge, with tension visualized as line thickness and occasional tether break events scattering fragments."
+    },
+    {
+      "number": "15",
+      "title": "3D Elastic Cloth Draped Over Objects",
+      "description": "A rectangular cloth modeled as a spring mesh falls and drapes over a set of stationary boxes and spheres, folding, stretching at corners, and sliding slightly, with seams highlighted and regions of high strain tinted red.",
+      "seed": "3D Elastic Cloth Draped Over Objects: A rectangular cloth modeled as a spring mesh falls and drapes over a set of stationary boxes and spheres, folding, stretching at corners, and sliding slightly, with seams highlighted and regions of high strain tinted red."
+    },
+    {
+      "number": "16",
+      "title": "Spring-Driven Mechanical Clock Core",
+      "description": "A coiled flat spring inside a transparent casing gradually unwinds, transferring torque through gears and a balance wheel on elastic pivots, with the main spring tightening/loosening, gear teeth colliding, and small labels marking energy flow.",
+      "seed": "Spring-Driven Mechanical Clock Core: A coiled flat spring inside a transparent casing gradually unwinds, transferring torque through gears and a balance wheel on elastic pivots, with the main spring tightening/loosening, gear teeth colliding, and small labels marking energy flow."
+    },
+    {
+      "number": "17",
+      "title": "Chain of Elastic Pendulums With Coupling Springs",
+      "description": "A line of pendulums hangs from a rigid bar, each bob connected to its neighbors by horizontal springs, creating complex coupled oscillations and wave patterns along the chain, with phase differences color-coded on the bobs.",
+      "seed": "Chain of Elastic Pendulums With Coupling Springs: A line of pendulums hangs from a rigid bar, each bob connected to its neighbors by horizontal springs, creating complex coupled oscillations and wave patterns along the chain, with phase differences color-coded on the bobs."
+    },
+    {
+      "number": "18",
+      "title": "Stretchable Space Elevator Cable Segment",
+      "description": "A vertical segment of an elastic “space elevator” cable between Earth and a counterweight is simulated with small climber cars moving along it, causing local stretching, oscillations, and waves that travel up and down the cable.",
+      "seed": "Stretchable Space Elevator Cable Segment: A vertical segment of an elastic “space elevator” cable between Earth and a counterweight is simulated with small climber cars moving along it, causing local stretching, oscillations, and waves that travel up and down the cable."
+    },
+    {
+      "number": "19",
+      "title": "Elastic Blood Vessel Under Pulsing Pressure",
+      "description": "A semi-transparent cylindrical vessel with spring-like wall elements expands and contracts as pressure pulses from a moving “blood” fluid column, with vessel radius changing, wall tension indicated by color, and small particles flowing inside.",
+      "seed": "Elastic Blood Vessel Under Pulsing Pressure: A semi-transparent cylindrical vessel with spring-like wall elements expands and contracts as pressure pulses from a moving “blood” fluid column, with vessel radius changing, wall tension indicated by color, and small particles flowing inside."
+    },
+    {
+      "number": "20",
+      "title": "3D Rubber Band Ball Compression Test",
+      "description": "A sphere made from many wrapped elastic bands (spring loops) is squeezed between two flat plates that move together and apart, showing how the bands stretch, slide, and occasionally snap with particles and sound markers at break points.",
+      "seed": "3D Rubber Band Ball Compression Test: A sphere made from many wrapped elastic bands (spring loops) is squeezed between two flat plates that move together and apart, showing how the bands stretch, slide, and occasionally snap with particles and sound markers at break points."
+    },
+    {
+      "number": "21",
+      "title": "Spring-Based 3D Character Ragdoll",
+      "description": "A simple humanoid figure with limbs connected by elastic joints and spine springs falls into a scene with obstacles, bouncing, stretching, and recoiling at joints as it collides and comes to rest, with joint torques labeled.",
+      "seed": "Spring-Based 3D Character Ragdoll: A simple humanoid figure with limbs connected by elastic joints and spine springs falls into a scene with obstacles, bouncing, stretching, and recoiling at joints as it collides and comes to rest, with joint torques labeled."
+    },
+    {
+      "number": "22",
+      "title": "Elastic Tethered Drone Swarm",
+      "description": "Several small drones (boxes with propellers) hover while connected to a central hub by elastic tethers; as some move outward or upward the tethers stretch, pull others, and create collective oscillations, with tether forces drawn as dynamic arrows.",
+      "seed": "Elastic Tethered Drone Swarm: Several small drones (boxes with propellers) hover while connected to a central hub by elastic tethers; as some move outward or upward the tethers stretch, pull others, and create collective oscillations, with tether forces drawn as dynamic arrows."
+    },
+    {
+      "number": "23",
+      "title": "Micro-Scale Polymer Chain in Fluid",
+      "description": "A long flexible polymer modeled as a chain of beads and springs floats in a box of moving fluid particles, stretching, folding, and occasionally wrapping around obstacles, with end-to-end distance tracked in a small side meter.",
+      "seed": "Micro-Scale Polymer Chain in Fluid: A long flexible polymer modeled as a chain of beads and springs floats in a box of moving fluid particles, stretching, folding, and occasionally wrapping around obstacles, with end-to-end distance tracked in a small side meter."
+    },
+    {
+      "number": "24",
+      "title": "Sprung Car Suspension Over Bumpy Road",
+      "description": "A simple car body is supported by four vertical springs as it moves over a 3D wavy road surface, with wheels colliding with bumps, springs compressing and rebounding, and body pitch/roll visualized with faint rotational trails.",
+      "seed": "Sprung Car Suspension Over Bumpy Road: A simple car body is supported by four vertical springs as it moves over a 3D wavy road surface, with wheels colliding with bumps, springs compressing and rebounding, and body pitch/roll visualized with faint rotational trails."
+    },
+    {
+      "number": "25",
+      "title": "Elastic Ring Under Rotating Load",
+      "description": "A circular ring of masses and springs lies on a plane while a small heavy mass moves around its circumference, locally stretching and compressing the ring and causing traveling waves, with amplitude highlighted and peaks leaving short-lived glow trails.",
+      "seed": "Elastic Ring Under Rotating Load: A circular ring of masses and springs lies on a plane while a small heavy mass moves around its circumference, locally stretching and compressing the ring and causing traveling waves, with amplitude highlighted and peaks leaving short-lived glow trails."
+    }
+  ],
+  "raw_output": "Here are strong **Springs, tension, elasticity simulation inputs** you can plug into your prompt:\n\n1. **3D Mass–Spring Lattice Under Gravity**\n   A cube-shaped lattice of small spheres connected by elastic springs stretches, compresses, and vibrates when dropped onto a plane, with color-changing springs indicating tension and small trails showing motion paths.\n\n2. **Vertical Spring–Mass Oscillator Wall**\n   Several colored masses hang from ceiling-mounted springs in a row, each with different stiffness and damping, bouncing up and down with labels for frequency and amplitude and a light grid wall behind them.\n\n3. **Elastic Suspension Bridge Deck**\n   A simplified bridge deck made of connected masses and springs sags under moving box “cars,” with cables modeled as elastic elements that stretch, vibrate, and occasionally resonate, all over a pale blue river plane.\n\n4. **Tensioned Spider Web With Prey Impact**\n   A circular spider web made of thin elastic strands between fixed posts deforms and ripples when a small “insect” sphere collides and sticks to it, sending visible tension waves along the strands that change color with strain.\n\n5. **Bungee Jumper Over a Canyon**\n   A human-shaped rigid body attached to a long elastic cord jumps off a platform above a valley floor, with the cord stretching, recoiling, and swinging the jumper in 3D while a tension gauge bar updates in real time.\n\n6. **Elastic Collision Chain of Hanging Balls**\n   A 3D Newton’s cradle with slightly elastic strings and balls swings, collides, and gradually twists out of plane, with arcs traced as faint trails and impact forces visualized as brief expanding rings at contact points.\n\n7. **Spring-Loaded Cube Jello Block**\n   A semi-transparent “jelly” cube represented by interior mass points and springs wobbles, squashes, and bounces when dropped or poked by a moving sphere, with internal springs visible and changing from blue to red with stretch.\n\n8. **Molecular Crystal Lattice Vibrations**\n   Atoms arranged in a cubic lattice are linked by springs as chemical bonds, vibrating thermally and responding to a passing “shock” pulse that travels through the crystal, with bond lengths and angles shown and temperature as a color gradient.\n\n9. **Elastic Rope Tug-of-War**\n   Two teams of blocky characters stand on opposite ends of a 3D elastic rope made of spring-linked segments, pulling and stepping back as the rope stretches, sags, and occasionally snaps with particles and labels showing tension distribution.\n\n10. **Tensegrity Tower Under Wind**\n    A floating tensegrity structure of rigid rods connected only by elastic cables flexes and vibrates as a simulated wind force sweeps through, with stationary ground anchors, color-coded cables for compression/tension, and gentle camera rotation.\n\n11. **Slingshot Launch of Elastic Projectile**\n    An elastic Y-shaped band attached to two fixed posts is pulled back by a small projectile sphere, showing band stretch and angle, then released to launch the sphere in an arc with a dotted trajectory trail and impact deformation of a soft target.\n\n12. **Elastic Trampoline With Jumping Sphere**\n    A circular trampoline bed modeled as a radial mass–spring mesh stretches downward and rebounds when a heavy sphere repeatedly falls and bounces on it, with the rim rigid, the mat semi-transparent, and vertical displacement visualized as a contour.\n\n13. **Rubber Band Chain Around Rotating Cylinders**\n    Multiple small cylinders rotate at different speeds while a continuous rubber band loop (a chain of springs) wraps around them, stretching, slipping, and sometimes detaching to reattach elsewhere, with frictional heating shown as glow intensity.\n\n14. **Orbiting Satellites Linked by Tethers**\n    Several small satellites orbit a central planet while connected by long elastic tethers that stretch and slacken as their paths diverge, with tension visualized as line thickness and occasional tether break events scattering fragments.\n\n15. **3D Elastic Cloth Draped Over Objects**\n    A rectangular cloth modeled as a spring mesh falls and drapes over a set of stationary boxes and spheres, folding, stretching at corners, and sliding slightly, with seams highlighted and regions of high strain tinted red.\n\n16. **Spring-Driven Mechanical Clock Core**\n    A coiled flat spring inside a transparent casing gradually unwinds, transferring torque through gears and a balance wheel on elastic pivots, with the main spring tightening/loosening, gear teeth colliding, and small labels marking energy flow.\n\n17. **Chain of Elastic Pendulums With Coupling Springs**\n    A line of pendulums hangs from a rigid bar, each bob connected to its neighbors by horizontal springs, creating complex coupled oscillations and wave patterns along the chain, with phase differences color-coded on the bobs.\n\n18. **Stretchable Space Elevator Cable Segment**\n    A vertical segment of an elastic “space elevator” cable between Earth and a counterweight is simulated with small climber cars moving along it, causing local stretching, oscillations, and waves that travel up and down the cable.\n\n19. **Elastic Blood Vessel Under Pulsing Pressure**\n    A semi-transparent cylindrical vessel with spring-like wall elements expands and contracts as pressure pulses from a moving “blood” fluid column, with vessel radius changing, wall tension indicated by color, and small particles flowing inside.\n\n20. **3D Rubber Band Ball Compression Test**\n    A sphere made from many wrapped elastic bands (spring loops) is squeezed between two flat plates that move together and apart, showing how the bands stretch, slide, and occasionally snap with particles and sound markers at break points.\n\n21. **Spring-Based 3D Character Ragdoll**\n    A simple humanoid figure with limbs connected by elastic joints and spine springs falls into a scene with obstacles, bouncing, stretching, and recoiling at joints as it collides and comes to rest, with joint torques labeled.\n\n22. **Elastic Tethered Drone Swarm**\n    Several small drones (boxes with propellers) hover while connected to a central hub by elastic tethers; as some move outward or upward the tethers stretch, pull others, and create collective oscillations, with tether forces drawn as dynamic arrows.\n\n23. **Micro-Scale Polymer Chain in Fluid**\n    A long flexible polymer modeled as a chain of beads and springs floats in a box of moving fluid particles, stretching, folding, and occasionally wrapping around obstacles, with end-to-end distance tracked in a small side meter.\n\n24. **Sprung Car Suspension Over Bumpy Road**\n    A simple car body is supported by four vertical springs as it moves over a 3D wavy road surface, with wheels colliding with bumps, springs compressing and rebounding, and body pitch/roll visualized with faint rotational trails.\n\n25. **Elastic Ring Under Rotating Load**\n    A circular ring of masses and springs lies on a plane while a small heavy mass moves around its circumference, locally stretching and compressing the ring and causing traveling waves, with amplitude highlighted and peaks leaving short-lived glow trails."
+}

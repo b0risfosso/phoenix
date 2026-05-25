@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Friction, wear, erosion",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:37:45",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Rotating Sandpaper Disk Wearing Down a Color-Layered Block",
+      "description": "A spinning disk (sandpaper texture) slowly grinds away a multi-layer colored cube, with dust particles emitting, the cube shrinking and changing color as layers are exposed, and a wear-depth meter updating over time.",
+      "seed": "Rotating Sandpaper Disk Wearing Down a Color-Layered Block: A spinning disk (sandpaper texture) slowly grinds away a multi-layer colored cube, with dust particles emitting, the cube shrinking and changing color as layers are exposed, and a wear-depth meter updating over time."
+    },
+    {
+      "number": "2",
+      "title": "Rock Tumbler Polishing Rough Stones",
+      "description": "A transparent rotating drum partially filled with water and multiple jagged stones that collide, chip, and gradually become smoother and rounder, with small debris particles clouding and settling at the bottom.",
+      "seed": "Rock Tumbler Polishing Rough Stones: A transparent rotating drum partially filled with water and multiple jagged stones that collide, chip, and gradually become smoother and rounder, with small debris particles clouding and settling at the bottom."
+    },
+    {
+      "number": "3",
+      "title": "River Flow Eroding a Layered Riverbank",
+      "description": "A flowing stream of particles moves through a channel, gradually removing voxels from a layered riverbank wall so that the bank recedes and undercuts, with color-coded soil layers and a graph tracking volume lost.",
+      "seed": "River Flow Eroding a Layered Riverbank: A flowing stream of particles moves through a channel, gradually removing voxels from a layered riverbank wall so that the bank recedes and undercuts, with color-coded soil layers and a graph tracking volume lost."
+    },
+    {
+      "number": "4",
+      "title": "Car Brake Pad and Spinning Rotor Wear",
+      "description": "A spinning metallic disk (rotor) pressed by a translating brake pad block, generating heat-colored glow where they touch, with tiny particles shed and the pad visibly thinning as friction slows the rotor.",
+      "seed": "Car Brake Pad and Spinning Rotor Wear: A spinning metallic disk (rotor) pressed by a translating brake pad block, generating heat-colored glow where they touch, with tiny particles shed and the pad visibly thinning as friction slows the rotor."
+    },
+    {
+      "number": "5",
+      "title": "Microscopic View of Sliding Surfaces with Asperities",
+      "description": "Two semi-transparent plates slide past each other under pressure, with magnified “teeth” (asperities) that bend, break, and flatten on contact, creating wear particles and changing the roughness profile over time.",
+      "seed": "Microscopic View of Sliding Surfaces with Asperities: Two semi-transparent plates slide past each other under pressure, with magnified “teeth” (asperities) that bend, break, and flatten on contact, creating wear particles and changing the roughness profile over time."
+    },
+    {
+      "number": "6",
+      "title": "Wind Erosion of Sand Dunes",
+      "description": "A field of sand grains aggregates into dunes while a directional wind flow pushes individual grains along the surface, causing dunes to slowly migrate, split, and merge, with gentle trails showing grain paths.",
+      "seed": "Wind Erosion of Sand Dunes: A field of sand grains aggregates into dunes while a directional wind flow pushes individual grains along the surface, causing dunes to slowly migrate, split, and merge, with gentle trails showing grain paths."
+    },
+    {
+      "number": "7",
+      "title": "Tectonic Plates Grinding Along a Fault Line",
+      "description": "Two large textured plates slowly slide past each other with a jagged fault interface, where friction occasionally locks and then slips, releasing quake pulses, emitting rock dust, and adjusting surface elevation.",
+      "seed": "Tectonic Plates Grinding Along a Fault Line: Two large textured plates slowly slide past each other with a jagged fault interface, where friction occasionally locks and then slips, releasing quake pulses, emitting rock dust, and adjusting surface elevation."
+    },
+    {
+      "number": "8",
+      "title": "Ice Skater on a Rink with Friction Zones",
+      "description": "A skater glides over a flat ice surface made of differently colored friction zones, changing speed and turning radius as they enter each region, leaving curvature trails and slightly “polished” paths where friction is higher.",
+      "seed": "Ice Skater on a Rink with Friction Zones: A skater glides over a flat ice surface made of differently colored friction zones, changing speed and turning radius as they enter each region, leaving curvature trails and slightly “polished” paths where friction is higher."
+    },
+    {
+      "number": "9",
+      "title": "Conveyor Belt Wearing Down Sliding Boxes",
+      "description": "Boxes move along a powered conveyor belt; as they slide, their bottom faces abrade and change color from “new” to “worn,” producing tiny debris particles and a visible groove gradually carved into the belt.",
+      "seed": "Conveyor Belt Wearing Down Sliding Boxes: Boxes move along a powered conveyor belt; as they slide, their bottom faces abrade and change color from “new” to “worn,” producing tiny debris particles and a visible groove gradually carved into the belt."
+    },
+    {
+      "number": "10",
+      "title": "Planetary Surface Eroded by Micrometeorite Impacts",
+      "description": "A small planet or moon model is bombarded by incoming micrometeorite particles that strike, chip, and crater the surface, with the terrain mesh updating and loose dust forming a thin, colored regolith layer.",
+      "seed": "Planetary Surface Eroded by Micrometeorite Impacts: A small planet or moon model is bombarded by incoming micrometeorite particles that strike, chip, and crater the surface, with the terrain mesh updating and loose dust forming a thin, colored regolith layer."
+    },
+    {
+      "number": "11",
+      "title": "Gear Train with Lubrication and Wear Visualization",
+      "description": "Interlocking gears rotate in a transparent housing with a thin film of colored lubricant; contact points glow where friction is highest, teeth gradually round off or pit, and lubricant particles darken as they pick up wear debris.",
+      "seed": "Gear Train with Lubrication and Wear Visualization: Interlocking gears rotate in a transparent housing with a thin film of colored lubricant; contact points glow where friction is highest, teeth gradually round off or pit, and lubricant particles darken as they pick up wear debris."
+    },
+    {
+      "number": "12",
+      "title": "River Pebble Size Reduction Over Distance",
+      "description": "Pebbles of varied sizes flow along a sloped riverbed, colliding, tumbling, and slowly shrinking; the scene shows size-sorted pebbles downstream, with a floating label tracking average pebble size at set checkpoints.",
+      "seed": "River Pebble Size Reduction Over Distance: Pebbles of varied sizes flow along a sloped riverbed, colliding, tumbling, and slowly shrinking; the scene shows size-sorted pebbles downstream, with a floating label tracking average pebble size at set checkpoints."
+    },
+    {
+      "number": "13",
+      "title": "Rolling vs Sliding Cylinder on an Incline",
+      "description": "Two cylinders placed on a ramp—one rolling freely, one forced to slide—move down while heat maps show frictional heating, the sliding one leaving a darker worn track and losing mass at the contact patch.",
+      "seed": "Rolling vs Sliding Cylinder on an Incline: Two cylinders placed on a ramp—one rolling freely, one forced to slide—move down while heat maps show frictional heating, the sliding one leaving a darker worn track and losing mass at the contact patch."
+    },
+    {
+      "number": "14",
+      "title": "Cloth Rope Sawing Through a Wooden Beam",
+      "description": "A rope loop oscillates back and forth over a wooden beam, gradually cutting a groove as fibers and wood dust fall away, with the groove deepening until the beam separates and the rope motion changes.",
+      "seed": "Cloth Rope Sawing Through a Wooden Beam: A rope loop oscillates back and forth over a wooden beam, gradually cutting a groove as fibers and wood dust fall away, with the groove deepening until the beam separates and the rope motion changes."
+    },
+    {
+      "number": "15",
+      "title": "Ski Slope Eroded by Repeated Runs",
+      "description": "A smooth snow slope with a few skiers repeatedly descending along different paths, gradually carving ruts and moguls where they turn, with compacted snow changing color and a transparent overlay showing depth of erosion.",
+      "seed": "Ski Slope Eroded by Repeated Runs: A smooth snow slope with a few skiers repeatedly descending along different paths, gradually carving ruts and moguls where they turn, with compacted snow changing color and a transparent overlay showing depth of erosion."
+    },
+    {
+      "number": "16",
+      "title": "Symbolic Social “Wear” on a Public Square",
+      "description": "People agents walk across a tiled plaza toward goals, gradually “wearing” footpaths into the tiles along popular routes, with tile colors fading where traffic is highest and a heat map building up over time.",
+      "seed": "Symbolic Social “Wear” on a Public Square: People agents walk across a tiled plaza toward goals, gradually “wearing” footpaths into the tiles along popular routes, with tile colors fading where traffic is highest and a heat map building up over time."
+    },
+    {
+      "number": "17",
+      "title": "Asteroid Belt Collisional Erosion",
+      "description": "Dozens of rocky bodies orbit a central star and occasionally collide, chipping fragments that become dust and small rocks; asteroids lose irregular chunks, change shape, and trails of debris gradually fill the orbital plane.",
+      "seed": "Asteroid Belt Collisional Erosion: Dozens of rocky bodies orbit a central star and occasionally collide, chipping fragments that become dust and small rocks; asteroids lose irregular chunks, change shape, and trails of debris gradually fill the orbital plane."
+    },
+    {
+      "number": "18",
+      "title": "Coastal Cliff Erosion by Waves",
+      "description": "A textured cliff stands at the edge of a semi-transparent ocean, where periodic waves collide with the base, removing cliff voxels and forming caves, arches, and stacks as fallen blocks tumble and dissolve.",
+      "seed": "Coastal Cliff Erosion by Waves: A textured cliff stands at the edge of a semi-transparent ocean, where periodic waves collide with the base, removing cliff voxels and forming caves, arches, and stacks as fallen blocks tumble and dissolve."
+    },
+    {
+      "number": "19",
+      "title": "Metal Rod in Abrasive Flow (Slurry Erosion)",
+      "description": "A metal rod stands in a pipe where colored fluid carrying abrasive particles flows past; impacts remove tiny chunks from the rod’s upstream face, gradually changing its shape while a side chart shows material loss rate.",
+      "seed": "Metal Rod in Abrasive Flow (Slurry Erosion): A metal rod stands in a pipe where colored fluid carrying abrasive particles flows past; impacts remove tiny chunks from the rod’s upstream face, gradually changing its shape while a side chart shows material loss rate."
+    },
+    {
+      "number": "20",
+      "title": "Train Wheel and Rail Head Wear",
+      "description": "A train wheel set rolls along a rail with repeated passes; contact zones glow and deform, the wheel flange and rail head gradually round and flatten, and fine metallic dust particles fall and accumulate along the track.",
+      "seed": "Train Wheel and Rail Head Wear: A train wheel set rolls along a rail with repeated passes; contact zones glow and deform, the wheel flange and rail head gradually round and flatten, and fine metallic dust particles fall and accumulate along the track."
+    },
+    {
+      "number": "21",
+      "title": "Sandblasting a Painted Surface",
+      "description": "A jet of high-velocity sand particles strikes a painted metal plate, stripping paint in a widening spot; paint layers peel away revealing bare metal, with a color-coded wear depth map and lingering dust cloud.",
+      "seed": "Sandblasting a Painted Surface: A jet of high-velocity sand particles strikes a painted metal plate, stripping paint in a widening spot; paint layers peel away revealing bare metal, with a color-coded wear depth map and lingering dust cloud."
+    },
+    {
+      "number": "22",
+      "title": "Erosion of a Mountain Landscape by Rainfall",
+      "description": "A 3D terrain mesh experiences periodic rain events, with water droplets aggregating into flowing streams that erode channels and carry sediment downslope, depositing alluvium in a valley and gradually smoothing peaks.",
+      "seed": "Erosion of a Mountain Landscape by Rainfall: A 3D terrain mesh experiences periodic rain events, with water droplets aggregating into flowing streams that erode channels and carry sediment downslope, depositing alluvium in a valley and gradually smoothing peaks."
+    },
+    {
+      "number": "23",
+      "title": "Brake-Test Drum with Multiple Tire Compounds",
+      "description": "Several differently colored tires press against a spinning transparent drum; as the drum rotates, each tire leaves rubber streaks and its tread pattern fades at different rates, with labels showing friction coefficient per tire.",
+      "seed": "Brake-Test Drum with Multiple Tire Compounds: Several differently colored tires press against a spinning transparent drum; as the drum rotates, each tire leaves rubber streaks and its tread pattern fades at different rates, with labels showing friction coefficient per tire."
+    },
+    {
+      "number": "24",
+      "title": "Frictional Heating and Ablation of a Reentry Capsule",
+      "description": "A capsule plunges through a thin atmosphere, air particles striking the heat shield and generating a bright, glowing layer where material ablates and sheds as particles, while the capsule’s surface gradually recedes.",
+      "seed": "Frictional Heating and Ablation of a Reentry Capsule: A capsule plunges through a thin atmosphere, air particles striking the heat shield and generating a bright, glowing layer where material ablates and sheds as particles, while the capsule’s surface gradually recedes."
+    },
+    {
+      "number": "25",
+      "title": "Rotating Polishing Pad Refining a Metal Disk",
+      "description": "A polishing pad spins over a stationary metal disk, initially rough and dull; contact areas brighten and smooth, surface roughness parameters appear as labels, and a faint particle cloud shows removed material.",
+      "seed": "Rotating Polishing Pad Refining a Metal Disk: A polishing pad spins over a stationary metal disk, initially rough and dull; contact areas brighten and smooth, surface roughness parameters appear as labels, and a faint particle cloud shows removed material."
+    }
+  ],
+  "raw_output": "Here are strong **Friction, wear, erosion simulation inputs** you can plug into your prompt:\n\n1. **Rotating Sandpaper Disk Wearing Down a Color-Layered Block**\n   A spinning disk (sandpaper texture) slowly grinds away a multi-layer colored cube, with dust particles emitting, the cube shrinking and changing color as layers are exposed, and a wear-depth meter updating over time.\n\n2. **Rock Tumbler Polishing Rough Stones**\n   A transparent rotating drum partially filled with water and multiple jagged stones that collide, chip, and gradually become smoother and rounder, with small debris particles clouding and settling at the bottom.\n\n3. **River Flow Eroding a Layered Riverbank**\n   A flowing stream of particles moves through a channel, gradually removing voxels from a layered riverbank wall so that the bank recedes and undercuts, with color-coded soil layers and a graph tracking volume lost.\n\n4. **Car Brake Pad and Spinning Rotor Wear**\n   A spinning metallic disk (rotor) pressed by a translating brake pad block, generating heat-colored glow where they touch, with tiny particles shed and the pad visibly thinning as friction slows the rotor.\n\n5. **Microscopic View of Sliding Surfaces with Asperities**\n   Two semi-transparent plates slide past each other under pressure, with magnified “teeth” (asperities) that bend, break, and flatten on contact, creating wear particles and changing the roughness profile over time.\n\n6. **Wind Erosion of Sand Dunes**\n   A field of sand grains aggregates into dunes while a directional wind flow pushes individual grains along the surface, causing dunes to slowly migrate, split, and merge, with gentle trails showing grain paths.\n\n7. **Tectonic Plates Grinding Along a Fault Line**\n   Two large textured plates slowly slide past each other with a jagged fault interface, where friction occasionally locks and then slips, releasing quake pulses, emitting rock dust, and adjusting surface elevation.\n\n8. **Ice Skater on a Rink with Friction Zones**\n   A skater glides over a flat ice surface made of differently colored friction zones, changing speed and turning radius as they enter each region, leaving curvature trails and slightly “polished” paths where friction is higher.\n\n9. **Conveyor Belt Wearing Down Sliding Boxes**\n   Boxes move along a powered conveyor belt; as they slide, their bottom faces abrade and change color from “new” to “worn,” producing tiny debris particles and a visible groove gradually carved into the belt.\n\n10. **Planetary Surface Eroded by Micrometeorite Impacts**\n    A small planet or moon model is bombarded by incoming micrometeorite particles that strike, chip, and crater the surface, with the terrain mesh updating and loose dust forming a thin, colored regolith layer.\n\n11. **Gear Train with Lubrication and Wear Visualization**\n    Interlocking gears rotate in a transparent housing with a thin film of colored lubricant; contact points glow where friction is highest, teeth gradually round off or pit, and lubricant particles darken as they pick up wear debris.\n\n12. **River Pebble Size Reduction Over Distance**\n    Pebbles of varied sizes flow along a sloped riverbed, colliding, tumbling, and slowly shrinking; the scene shows size-sorted pebbles downstream, with a floating label tracking average pebble size at set checkpoints.\n\n13. **Rolling vs Sliding Cylinder on an Incline**\n    Two cylinders placed on a ramp—one rolling freely, one forced to slide—move down while heat maps show frictional heating, the sliding one leaving a darker worn track and losing mass at the contact patch.\n\n14. **Cloth Rope Sawing Through a Wooden Beam**\n    A rope loop oscillates back and forth over a wooden beam, gradually cutting a groove as fibers and wood dust fall away, with the groove deepening until the beam separates and the rope motion changes.\n\n15. **Ski Slope Eroded by Repeated Runs**\n    A smooth snow slope with a few skiers repeatedly descending along different paths, gradually carving ruts and moguls where they turn, with compacted snow changing color and a transparent overlay showing depth of erosion.\n\n16. **Symbolic Social “Wear” on a Public Square**\n    People agents walk across a tiled plaza toward goals, gradually “wearing” footpaths into the tiles along popular routes, with tile colors fading where traffic is highest and a heat map building up over time.\n\n17. **Asteroid Belt Collisional Erosion**\n    Dozens of rocky bodies orbit a central star and occasionally collide, chipping fragments that become dust and small rocks; asteroids lose irregular chunks, change shape, and trails of debris gradually fill the orbital plane.\n\n18. **Coastal Cliff Erosion by Waves**\n    A textured cliff stands at the edge of a semi-transparent ocean, where periodic waves collide with the base, removing cliff voxels and forming caves, arches, and stacks as fallen blocks tumble and dissolve.\n\n19. **Metal Rod in Abrasive Flow (Slurry Erosion)**\n    A metal rod stands in a pipe where colored fluid carrying abrasive particles flows past; impacts remove tiny chunks from the rod’s upstream face, gradually changing its shape while a side chart shows material loss rate.\n\n20. **Train Wheel and Rail Head Wear**\n    A train wheel set rolls along a rail with repeated passes; contact zones glow and deform, the wheel flange and rail head gradually round and flatten, and fine metallic dust particles fall and accumulate along the track.\n\n21. **Sandblasting a Painted Surface**\n    A jet of high-velocity sand particles strikes a painted metal plate, stripping paint in a widening spot; paint layers peel away revealing bare metal, with a color-coded wear depth map and lingering dust cloud.\n\n22. **Erosion of a Mountain Landscape by Rainfall**\n    A 3D terrain mesh experiences periodic rain events, with water droplets aggregating into flowing streams that erode channels and carry sediment downslope, depositing alluvium in a valley and gradually smoothing peaks.\n\n23. **Brake-Test Drum with Multiple Tire Compounds**\n    Several differently colored tires press against a spinning transparent drum; as the drum rotates, each tire leaves rubber streaks and its tread pattern fades at different rates, with labels showing friction coefficient per tire.\n\n24. **Frictional Heating and Ablation of a Reentry Capsule**\n    A capsule plunges through a thin atmosphere, air particles striking the heat shield and generating a bright, glowing layer where material ablates and sheds as particles, while the capsule’s surface gradually recedes.\n\n25. **Rotating Polishing Pad Refining a Metal Disk**\n    A polishing pad spins over a stationary metal disk, initially rough and dull; contact areas brighten and smooth, surface roughness parameters appear as labels, and a faint particle cloud shows removed material."
+}

@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Microbiomes",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:48:05",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Gut Microbiome in a Flowing Intestine Tube",
+      "description": "A transparent, gently peristalsing tube with flowing semi-transparent food particles where differently colored bacterial spheres attach to, detach from, and colonize the tube wall, form clusters, and are flushed along, with labels and a side bar graph showing population counts.",
+      "seed": "Gut Microbiome in a Flowing Intestine Tube: A transparent, gently peristalsing tube with flowing semi-transparent food particles where differently colored bacterial spheres attach to, detach from, and colonize the tube wall, form clusters, and are flushed along, with labels and a side bar graph showing population counts."
+    },
+    {
+      "number": "2",
+      "title": "Biofilm Growth on a Rock Surface",
+      "description": "A stationary rock slab on a light background where tiny bacteria spheres land from a flowing stream, attach, replicate into a layered biofilm sheet, excrete a faint translucent matrix that spreads, and occasionally detach as clumps that drift away.",
+      "seed": "Biofilm Growth on a Rock Surface: A stationary rock slab on a light background where tiny bacteria spheres land from a flowing stream, attach, replicate into a layered biofilm sheet, excrete a faint translucent matrix that spreads, and occasionally detach as clumps that drift away."
+    },
+    {
+      "number": "3",
+      "title": "Soil Microbiome Around Plant Roots",
+      "description": "A central plant root cylinder extending through a semi-transparent soil box where nutrient particles slowly diffuse outward and diverse microbes move, attach to the root surface, form glowing nodules, and compete for nutrients shown as colored particle trails.",
+      "seed": "Soil Microbiome Around Plant Roots: A central plant root cylinder extending through a semi-transparent soil box where nutrient particles slowly diffuse outward and diverse microbes move, attach to the root surface, form glowing nodules, and compete for nutrients shown as colored particle trails."
+    },
+    {
+      "number": "4",
+      "title": "Microbes Competing in a Droplet",
+      "description": "A floating water droplet sphere in air filled with different colored motile microbes that randomly swim, collide, replicate, die, and form clusters, while the droplet slowly evaporates and shrinks, changing crowding and interaction rates.",
+      "seed": "Microbes Competing in a Droplet: A floating water droplet sphere in air filled with different colored motile microbes that randomly swim, collide, replicate, die, and form clusters, while the droplet slowly evaporates and shrinks, changing crowding and interaction rates."
+    },
+    {
+      "number": "5",
+      "title": "Oral Microbiome on Rotating Teeth",
+      "description": "A rotating jaw model with teeth where colored bacterial spheres land from incoming saliva droplets, colonize crevices, form sticky biofilms that thicken and become opaque, and are partially removed by a sweeping translucent toothbrush cylinder.",
+      "seed": "Oral Microbiome on Rotating Teeth: A rotating jaw model with teeth where colored bacterial spheres land from incoming saliva droplets, colonize crevices, form sticky biofilms that thicken and become opaque, and are partially removed by a sweeping translucent toothbrush cylinder."
+    },
+    {
+      "number": "6",
+      "title": "Microbiome Succession After Antibiotics",
+      "description": "A rectangular chamber representing the gut lumen where initial diverse colored microbes move and replicate, then a transparent “antibiotic wave” sweeps through causing many to dissolve, followed by the regrowth and spatial expansion of a few surviving species with population meters.",
+      "seed": "Microbiome Succession After Antibiotics: A rectangular chamber representing the gut lumen where initial diverse colored microbes move and replicate, then a transparent “antibiotic wave” sweeps through causing many to dissolve, followed by the regrowth and spatial expansion of a few surviving species with population meters."
+    },
+    {
+      "number": "7",
+      "title": "Microbe–Phage Predator–Prey Dynamics",
+      "description": "A flat surface colonized by bacteria spheres where smaller glowing phage particles orbit and randomly collide with bacteria, attach, cause them to swell, then burst into multiple new phage particles that scatter, with live counters for host and predator numbers.",
+      "seed": "Microbe–Phage Predator–Prey Dynamics: A flat surface colonized by bacteria spheres where smaller glowing phage particles orbit and randomly collide with bacteria, attach, cause them to swell, then burst into multiple new phage particles that scatter, with live counters for host and predator numbers."
+    },
+    {
+      "number": "8",
+      "title": "Microbial Colony Expansion on a Petri Dish",
+      "description": "A top-down, slightly tilted Petri disk where single microbe seeds at the center replicate into growing colored circular colonies that expand, overlap, and change color at the edges, with faint radial trails marking expansion fronts over time.",
+      "seed": "Microbial Colony Expansion on a Petri Dish: A top-down, slightly tilted Petri disk where single microbe seeds at the center replicate into growing colored circular colonies that expand, overlap, and change color at the edges, with faint radial trails marking expansion fronts over time."
+    },
+    {
+      "number": "9",
+      "title": "Microbiome Nutrient Gradient in a Chemostat",
+      "description": "A tall transparent cylinder with a nutrient inlet at the top and outlet at the bottom where nutrient particles fall as colored dots, microbes float and mix, with populations clustering near optimal gradient bands that are lightly color-coded and labeled.",
+      "seed": "Microbiome Nutrient Gradient in a Chemostat: A tall transparent cylinder with a nutrient inlet at the top and outlet at the bottom where nutrient particles fall as colored dots, microbes float and mix, with populations clustering near optimal gradient bands that are lightly color-coded and labeled."
+    },
+    {
+      "number": "10",
+      "title": "Skin Microbiome on a Moving Hand",
+      "description": "A semi-transparent hand model with tiny microbes as colored dots that attach, detach, and move along the skin as the hand rotates, occasionally contacting a foreign surface that transfers some microbes, leaving faint colored “contact prints.”",
+      "seed": "Skin Microbiome on a Moving Hand: A semi-transparent hand model with tiny microbes as colored dots that attach, detach, and move along the skin as the hand rotates, occasionally contacting a foreign surface that transfers some microbes, leaving faint colored “contact prints.”"
+    },
+    {
+      "number": "11",
+      "title": "Microbes Forming a Symbiotic Network",
+      "description": "A lattice of plant roots and fungal filaments where microbial spheres attach to filaments, move along them like trains on tracks, transfer glowing nutrient particles between root nodes and microbes, and branch or retract filaments based on traffic.",
+      "seed": "Microbes Forming a Symbiotic Network: A lattice of plant roots and fungal filaments where microbial spheres attach to filaments, move along them like trains on tracks, transfer glowing nutrient particles between root nodes and microbes, and branch or retract filaments based on traffic."
+    },
+    {
+      "number": "12",
+      "title": "Microbiome as a Galaxy of Species Orbits",
+      "description": "A stylized “microbiome galaxy” where each species is a colored cluster of small spheres orbiting a central host sphere, with orbits expanding, contracting, and occasionally merging or splitting as “environmental events” pulses pass through.",
+      "seed": "Microbiome as a Galaxy of Species Orbits: A stylized “microbiome galaxy” where each species is a colored cluster of small spheres orbiting a central host sphere, with orbits expanding, contracting, and occasionally merging or splitting as “environmental events” pulses pass through."
+    },
+    {
+      "number": "13",
+      "title": "Microbial Swarming and Pattern Formation",
+      "description": "A flat, moist surface where motile bacteria start in a small central patch and swarm outward in coordinated moving bands, leaving behind ring-like high-density zones that slowly thicken or dissolve, with faint motion trails visualizing collective flow.",
+      "seed": "Microbial Swarming and Pattern Formation: A flat, moist surface where motile bacteria start in a small central patch and swarm outward in coordinated moving bands, leaving behind ring-like high-density zones that slowly thicken or dissolve, with faint motion trails visualizing collective flow."
+    },
+    {
+      "number": "14",
+      "title": "Microbiome Metabolite Exchange Network",
+      "description": "A 3D cluster of differently colored microbial groups, each emitting and absorbing distinct colored metabolite particles that float between them, attach, and vanish on contact, with glowing lines strengthening between groups that exchange more particles.",
+      "seed": "Microbiome Metabolite Exchange Network: A 3D cluster of differently colored microbial groups, each emitting and absorbing distinct colored metabolite particles that float between them, attach, and vanish on contact, with glowing lines strengthening between groups that exchange more particles."
+    },
+    {
+      "number": "15",
+      "title": "Colonization of a New Sterile Surface",
+      "description": "A clean rectangular plate introduced into a chamber where airborne microbial particles drift, collide with the surface, sometimes stick, then replicate into patchy colonies that spread, merge, and change opacity as biomass accumulates.",
+      "seed": "Colonization of a New Sterile Surface: A clean rectangular plate introduced into a chamber where airborne microbial particles drift, collide with the surface, sometimes stick, then replicate into patchy colonies that spread, merge, and change opacity as biomass accumulates."
+    },
+    {
+      "number": "16",
+      "title": "Microbiome Stability vs. Invasion",
+      "description": "A chamber filled with an established mix of microbes forming semi-stable colored clusters, then a new invading species cloud enters from one side, its particles attaching, displacing, or bouncing off residents depending on local density, with a stability “meter” bar.",
+      "seed": "Microbiome Stability vs. Invasion: A chamber filled with an established mix of microbes forming semi-stable colored clusters, then a new invading species cloud enters from one side, its particles attaching, displacing, or bouncing off residents depending on local density, with a stability “meter” bar."
+    },
+    {
+      "number": "17",
+      "title": "Microbes in a Turbulent Gut Mixing Vortex",
+      "description": "A curved, partially transparent intestinal loop where waves of peristalsis create swirling flows that tumble microbe particles and nutrient dots, concentrating them in eddies where microbes attach to walls, replicate, and then get stripped off by stronger vortices.",
+      "seed": "Microbes in a Turbulent Gut Mixing Vortex: A curved, partially transparent intestinal loop where waves of peristalsis create swirling flows that tumble microbe particles and nutrient dots, concentrating them in eddies where microbes attach to walls, replicate, and then get stripped off by stronger vortices."
+    },
+    {
+      "number": "18",
+      "title": "Microbial Cooperation and Cheating",
+      "description": "Two microbial strains in a shared chamber: one secretes glowing public-good particles that diffuse outward; both strains consume them, with cooperators and cheaters shown as different colors whose population sizes and spatial clustering visibly change over time.",
+      "seed": "Microbial Cooperation and Cheating: Two microbial strains in a shared chamber: one secretes glowing public-good particles that diffuse outward; both strains consume them, with cooperators and cheaters shown as different colors whose population sizes and spatial clustering visibly change over time."
+    },
+    {
+      "number": "19",
+      "title": "Microbiome on a Rotating Food Particle",
+      "description": "A central crumb-like object slowly rotating in a fluid filled with microbes that attach to its surface, digest it by emitting transparent “enzyme clouds,” and cause the crumb to gradually shrink and pit, releasing nutrient particles that attract more microbes.",
+      "seed": "Microbiome on a Rotating Food Particle: A central crumb-like object slowly rotating in a fluid filled with microbes that attach to its surface, digest it by emitting transparent “enzyme clouds,” and cause the crumb to gradually shrink and pit, releasing nutrient particles that attract more microbes."
+    },
+    {
+      "number": "20",
+      "title": "Marine Microbiome Around a Sinking Particle",
+      "description": "A marine snow particle slowly sinking through a tall water column where free-living microbes swim and form dense halos around the particle, attach, release bubbles that alter its sinking speed, and detach as it breaks into multiple smaller particles.",
+      "seed": "Marine Microbiome Around a Sinking Particle: A marine snow particle slowly sinking through a tall water column where free-living microbes swim and form dense halos around the particle, attach, release bubbles that alter its sinking speed, and detach as it breaks into multiple smaller particles."
+    },
+    {
+      "number": "21",
+      "title": "Microbiome Response to pH Waves",
+      "description": "A rectangular chamber whose background color smoothly oscillates to represent pH, causing different microbial species to grow, shrink, or dissolve at different phases, with species blobs pulsating, splitting, or merging in sync with the pH wave.",
+      "seed": "Microbiome Response to pH Waves: A rectangular chamber whose background color smoothly oscillates to represent pH, causing different microbial species to grow, shrink, or dissolve at different phases, with species blobs pulsating, splitting, or merging in sync with the pH wave."
+    },
+    {
+      "number": "22",
+      "title": "Microbial Competition in a Structured Maze",
+      "description": "A 3D porous maze where two or three microbial types expand from different entrances, filling channels, colliding at junctions, and forming sharp colored boundaries that move as one species overgrows another under a gentle nutrient flow.",
+      "seed": "Microbial Competition in a Structured Maze: A 3D porous maze where two or three microbial types expand from different entrances, filling channels, colliding at junctions, and forming sharp colored boundaries that move as one species overgrows another under a gentle nutrient flow."
+    },
+    {
+      "number": "23",
+      "title": "Microbiome as a Living City",
+      "description": "A stylized micro-city of stationary “buildings” (host tissues) with microbial “citizens” as moving dots that commute along paths, form crowded “districts,” and transfer colored resource particles, while sweeping “cleaning vehicles” reduce local densities.",
+      "seed": "Microbiome as a Living City: A stylized micro-city of stationary “buildings” (host tissues) with microbial “citizens” as moving dots that commute along paths, form crowded “districts,” and transfer colored resource particles, while sweeping “cleaning vehicles” reduce local densities."
+    },
+    {
+      "number": "24",
+      "title": "Microbial Cloud Around a Moving Animal",
+      "description": "A simplified animal body shape moving along a straight path in air, shedding microbe particles that form a trailing cloud; wind-like flows stretch and thin the cloud, and occasional collisions with nearby surfaces leave faint microbial deposits.",
+      "seed": "Microbial Cloud Around a Moving Animal: A simplified animal body shape moving along a straight path in air, shedding microbe particles that form a trailing cloud; wind-like flows stretch and thin the cloud, and occasional collisions with nearby surfaces leave faint microbial deposits."
+    },
+    {
+      "number": "25",
+      "title": "Microbiome Drift Across Generations",
+      "description": "A sequence of expanding translucent spheres representing host generations, each containing a cloud of microbes that replicate and drift in composition; at each “birth” event, a small sample of microbes transfers to a new sphere, which then grows and diverges in color mix.",
+      "seed": "Microbiome Drift Across Generations: A sequence of expanding translucent spheres representing host generations, each containing a cloud of microbes that replicate and drift in composition; at each “birth” event, a small sample of microbes transfers to a new sphere, which then grows and diverges in color mix."
+    }
+  ],
+  "raw_output": "Here are strong **Microbiomes simulation inputs** you can plug into your prompt:\n\n1. **Gut Microbiome in a Flowing Intestine Tube**\n   A transparent, gently peristalsing tube with flowing semi-transparent food particles where differently colored bacterial spheres attach to, detach from, and colonize the tube wall, form clusters, and are flushed along, with labels and a side bar graph showing population counts.\n\n2. **Biofilm Growth on a Rock Surface**\n   A stationary rock slab on a light background where tiny bacteria spheres land from a flowing stream, attach, replicate into a layered biofilm sheet, excrete a faint translucent matrix that spreads, and occasionally detach as clumps that drift away.\n\n3. **Soil Microbiome Around Plant Roots**\n   A central plant root cylinder extending through a semi-transparent soil box where nutrient particles slowly diffuse outward and diverse microbes move, attach to the root surface, form glowing nodules, and compete for nutrients shown as colored particle trails.\n\n4. **Microbes Competing in a Droplet**\n   A floating water droplet sphere in air filled with different colored motile microbes that randomly swim, collide, replicate, die, and form clusters, while the droplet slowly evaporates and shrinks, changing crowding and interaction rates.\n\n5. **Oral Microbiome on Rotating Teeth**\n   A rotating jaw model with teeth where colored bacterial spheres land from incoming saliva droplets, colonize crevices, form sticky biofilms that thicken and become opaque, and are partially removed by a sweeping translucent toothbrush cylinder.\n\n6. **Microbiome Succession After Antibiotics**\n   A rectangular chamber representing the gut lumen where initial diverse colored microbes move and replicate, then a transparent “antibiotic wave” sweeps through causing many to dissolve, followed by the regrowth and spatial expansion of a few surviving species with population meters.\n\n7. **Microbe–Phage Predator–Prey Dynamics**\n   A flat surface colonized by bacteria spheres where smaller glowing phage particles orbit and randomly collide with bacteria, attach, cause them to swell, then burst into multiple new phage particles that scatter, with live counters for host and predator numbers.\n\n8. **Microbial Colony Expansion on a Petri Dish**\n   A top-down, slightly tilted Petri disk where single microbe seeds at the center replicate into growing colored circular colonies that expand, overlap, and change color at the edges, with faint radial trails marking expansion fronts over time.\n\n9. **Microbiome Nutrient Gradient in a Chemostat**\n   A tall transparent cylinder with a nutrient inlet at the top and outlet at the bottom where nutrient particles fall as colored dots, microbes float and mix, with populations clustering near optimal gradient bands that are lightly color-coded and labeled.\n\n10. **Skin Microbiome on a Moving Hand**\n    A semi-transparent hand model with tiny microbes as colored dots that attach, detach, and move along the skin as the hand rotates, occasionally contacting a foreign surface that transfers some microbes, leaving faint colored “contact prints.”\n\n11. **Microbes Forming a Symbiotic Network**\n    A lattice of plant roots and fungal filaments where microbial spheres attach to filaments, move along them like trains on tracks, transfer glowing nutrient particles between root nodes and microbes, and branch or retract filaments based on traffic.\n\n12. **Microbiome as a Galaxy of Species Orbits**\n    A stylized “microbiome galaxy” where each species is a colored cluster of small spheres orbiting a central host sphere, with orbits expanding, contracting, and occasionally merging or splitting as “environmental events” pulses pass through.\n\n13. **Microbial Swarming and Pattern Formation**\n    A flat, moist surface where motile bacteria start in a small central patch and swarm outward in coordinated moving bands, leaving behind ring-like high-density zones that slowly thicken or dissolve, with faint motion trails visualizing collective flow.\n\n14. **Microbiome Metabolite Exchange Network**\n    A 3D cluster of differently colored microbial groups, each emitting and absorbing distinct colored metabolite particles that float between them, attach, and vanish on contact, with glowing lines strengthening between groups that exchange more particles.\n\n15. **Colonization of a New Sterile Surface**\n    A clean rectangular plate introduced into a chamber where airborne microbial particles drift, collide with the surface, sometimes stick, then replicate into patchy colonies that spread, merge, and change opacity as biomass accumulates.\n\n16. **Microbiome Stability vs. Invasion**\n    A chamber filled with an established mix of microbes forming semi-stable colored clusters, then a new invading species cloud enters from one side, its particles attaching, displacing, or bouncing off residents depending on local density, with a stability “meter” bar.\n\n17. **Microbes in a Turbulent Gut Mixing Vortex**\n    A curved, partially transparent intestinal loop where waves of peristalsis create swirling flows that tumble microbe particles and nutrient dots, concentrating them in eddies where microbes attach to walls, replicate, and then get stripped off by stronger vortices.\n\n18. **Microbial Cooperation and Cheating**\n    Two microbial strains in a shared chamber: one secretes glowing public-good particles that diffuse outward; both strains consume them, with cooperators and cheaters shown as different colors whose population sizes and spatial clustering visibly change over time.\n\n19. **Microbiome on a Rotating Food Particle**\n    A central crumb-like object slowly rotating in a fluid filled with microbes that attach to its surface, digest it by emitting transparent “enzyme clouds,” and cause the crumb to gradually shrink and pit, releasing nutrient particles that attract more microbes.\n\n20. **Marine Microbiome Around a Sinking Particle**\n    A marine snow particle slowly sinking through a tall water column where free-living microbes swim and form dense halos around the particle, attach, release bubbles that alter its sinking speed, and detach as it breaks into multiple smaller particles.\n\n21. **Microbiome Response to pH Waves**\n    A rectangular chamber whose background color smoothly oscillates to represent pH, causing different microbial species to grow, shrink, or dissolve at different phases, with species blobs pulsating, splitting, or merging in sync with the pH wave.\n\n22. **Microbial Competition in a Structured Maze**\n    A 3D porous maze where two or three microbial types expand from different entrances, filling channels, colliding at junctions, and forming sharp colored boundaries that move as one species overgrows another under a gentle nutrient flow.\n\n23. **Microbiome as a Living City**\n    A stylized micro-city of stationary “buildings” (host tissues) with microbial “citizens” as moving dots that commute along paths, form crowded “districts,” and transfer colored resource particles, while sweeping “cleaning vehicles” reduce local densities.\n\n24. **Microbial Cloud Around a Moving Animal**\n    A simplified animal body shape moving along a straight path in air, shedding microbe particles that form a trailing cloud; wind-like flows stretch and thin the cloud, and occasional collisions with nearby surfaces leave faint microbial deposits.\n\n25. **Microbiome Drift Across Generations**\n    A sequence of expanding translucent spheres representing host generations, each containing a cloud of microbes that replicate and drift in composition; at each “birth” event, a small sample of microbes transfers to a new sphere, which then grows and diverges in color mix."
+}

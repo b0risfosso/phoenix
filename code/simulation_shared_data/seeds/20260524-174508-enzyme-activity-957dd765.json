@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Enzyme activity",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:45:08",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Lock-and-Key Enzyme Docking Chamber",
+      "description": "A transparent spherical “cell” contains floating colored enzyme shapes with rigid active sites while differently-shaped substrate spheres drift in, collide, sometimes attach perfectly, transform color/size, then detach as products that leave glowing trails, with labels hovering over each molecule.",
+      "seed": "Lock-and-Key Enzyme Docking Chamber: A transparent spherical “cell” contains floating colored enzyme shapes with rigid active sites while differently-shaped substrate spheres drift in, collide, sometimes attach perfectly, transform color/size, then detach as products that leave glowing trails, with labels hovering over each molecule."
+    },
+    {
+      "number": "2",
+      "title": "Enzyme Kinetics Flow Tunnel",
+      "description": "A long clear tube shows a constant stream of substrate spheres flowing through while a row of anchored enzymes on the wall repeatedly attach incoming substrates, briefly glow as they convert them, then release smaller product spheres whose speed and color change according to adjustable sliders for substrate concentration and temperature.",
+      "seed": "Enzyme Kinetics Flow Tunnel: A long clear tube shows a constant stream of substrate spheres flowing through while a row of anchored enzymes on the wall repeatedly attach incoming substrates, briefly glow as they convert them, then release smaller product spheres whose speed and color change according to adjustable sliders for substrate concentration and temperature."
+    },
+    {
+      "number": "3",
+      "title": "Competitive Inhibition Arena",
+      "description": "Enzymes with highlighted active sites float in a box where both substrate spheres and similarly-shaped inhibitor cubes drift and collide; substrates that successfully bind make the enzyme pulse green and release products, while inhibitors that bind lock the enzyme red and temporarily block further activity, with counters tallying events.",
+      "seed": "Competitive Inhibition Arena: Enzymes with highlighted active sites float in a box where both substrate spheres and similarly-shaped inhibitor cubes drift and collide; substrates that successfully bind make the enzyme pulse green and release products, while inhibitors that bind lock the enzyme red and temporarily block further activity, with counters tallying events."
+    },
+    {
+      "number": "4",
+      "title": "Allosteric Regulation Lattice",
+      "description": "A 3D grid of large enzyme structures sits semi-stationary while small effector particles orbit and occasionally bind to distant allosteric sites, causing the enzymes to twist, change transparency, and either open (active, bright) or close (inactive, dim) their active sites to passing substrates.",
+      "seed": "Allosteric Regulation Lattice: A 3D grid of large enzyme structures sits semi-stationary while small effector particles orbit and occasionally bind to distant allosteric sites, causing the enzymes to twist, change transparency, and either open (active, bright) or close (inactive, dim) their active sites to passing substrates."
+    },
+    {
+      "number": "5",
+      "title": "Temperature-Dependent Enzyme Unfolding",
+      "description": "A cluster of folded enzyme “ribbons” anchored in space gradually unfold, twist, and lose their rigid active-site pockets as a temperature meter rises, visualized by increasing vibration, color shifts from blue to red, and a declining count of successfully processed substrate collisions.",
+      "seed": "Temperature-Dependent Enzyme Unfolding: A cluster of folded enzyme “ribbons” anchored in space gradually unfold, twist, and lose their rigid active-site pockets as a temperature meter rises, visualized by increasing vibration, color shifts from blue to red, and a declining count of successfully processed substrate collisions."
+    },
+    {
+      "number": "6",
+      "title": "pH Gradient Enzyme Corridor",
+      "description": "Enzymes are arranged along a long corridor where the background color smoothly shifts from acidic red to basic blue, and each enzyme model changes shape and activity (opening or collapsing active sites) depending on its local pH, affecting how many drifting substrates can dock and be converted into color-coded products.",
+      "seed": "pH Gradient Enzyme Corridor: Enzymes are arranged along a long corridor where the background color smoothly shifts from acidic red to basic blue, and each enzyme model changes shape and activity (opening or collapsing active sites) depending on its local pH, affecting how many drifting substrates can dock and be converted into color-coded products."
+    },
+    {
+      "number": "7",
+      "title": "Enzyme Cascading Pathway",
+      "description": "Multiple enzyme types are arranged in a branching 3D pathway: substrates bind to the first enzyme, which glows and releases new product spheres that drift, collide with the next enzyme type, and so on, creating a cascading chain of color-changing particles with labels showing each step in the pathway.",
+      "seed": "Enzyme Cascading Pathway: Multiple enzyme types are arranged in a branching 3D pathway: substrates bind to the first enzyme, which glows and releases new product spheres that drift, collide with the next enzyme type, and so on, creating a cascading chain of color-changing particles with labels showing each step in the pathway."
+    },
+    {
+      "number": "8",
+      "title": "Membrane-Bound Enzyme Conveyor",
+      "description": "A flat semi-transparent membrane plane holds anchored enzymes that reach into a flow of substrates on one side, grab them, flip and rotate, then release transformed products on the other side, visualizing directional transport across the membrane with arrows and trails marking the flow.",
+      "seed": "Membrane-Bound Enzyme Conveyor: A flat semi-transparent membrane plane holds anchored enzymes that reach into a flow of substrates on one side, grab them, flip and rotate, then release transformed products on the other side, visualizing directional transport across the membrane with arrows and trails marking the flow."
+    },
+    {
+      "number": "9",
+      "title": "Enzyme-Substrate Matching Puzzle Field",
+      "description": "Many enzymes with differently shaped and colored active sites float in a volume with a cloud of mismatched substrates; as Brownian-motion-like movements make them collide, only correct matches attach, flash matching colors, and split into two product particles, while wrong matches bounce away with a slight repulsive effect.",
+      "seed": "Enzyme-Substrate Matching Puzzle Field: Many enzymes with differently shaped and colored active sites float in a volume with a cloud of mismatched substrates; as Brownian-motion-like movements make them collide, only correct matches attach, flash matching colors, and split into two product particles, while wrong matches bounce away with a slight repulsive effect."
+    },
+    {
+      "number": "10",
+      "title": "Enzyme Factory Assembly Line",
+      "description": "An overhead “factory” conveyor belt moves substrates past regularly spaced mechanical enzyme arms that pivot down, grab a substrate, compress or twist it into products, then release them into separate bins below, with each bin’s fill level represented by rising colored columns.",
+      "seed": "Enzyme Factory Assembly Line: An overhead “factory” conveyor belt moves substrates past regularly spaced mechanical enzyme arms that pivot down, grab a substrate, compress or twist it into products, then release them into separate bins below, with each bin’s fill level represented by rising colored columns."
+    },
+    {
+      "number": "11",
+      "title": "Metaphorical City of Enzymes",
+      "description": "A bright cityscape where stationary “enzyme buildings” have shaped doorways that only admit specific “substrate vehicles”; when a vehicle fits and enters, the building pulses, then ejects one or more transformed vehicles (different shapes/colors) that follow glowing street trails to the next specialized building.",
+      "seed": "Metaphorical City of Enzymes: A bright cityscape where stationary “enzyme buildings” have shaped doorways that only admit specific “substrate vehicles”; when a vehicle fits and enters, the building pulses, then ejects one or more transformed vehicles (different shapes/colors) that follow glowing street trails to the next specialized building."
+    },
+    {
+      "number": "12",
+      "title": "Enzyme Activity Heatmap Sphere",
+      "description": "A large transparent spherical “cell” holds enzymes distributed unevenly; as substrates drift inside and react, each enzyme’s activity level is shown by a hovering bar and local color intensity, gradually forming a 3D heatmap of more and less active regions within the cell.",
+      "seed": "Enzyme Activity Heatmap Sphere: A large transparent spherical “cell” holds enzymes distributed unevenly; as substrates drift inside and react, each enzyme’s activity level is shown by a hovering bar and local color intensity, gradually forming a 3D heatmap of more and less active regions within the cell."
+    },
+    {
+      "number": "13",
+      "title": "Reversible Enzyme Reaction Balance",
+      "description": "A central enzyme can bind both substrates and products, with two clouds of differently colored particles on either side; as they collide and bind, the enzyme alternates direction, sometimes converting substrate to product and other times product back to substrate, while a dynamic balance meter tracks the shifting equilibrium.",
+      "seed": "Reversible Enzyme Reaction Balance: A central enzyme can bind both substrates and products, with two clouds of differently colored particles on either side; as they collide and bind, the enzyme alternates direction, sometimes converting substrate to product and other times product back to substrate, while a dynamic balance meter tracks the shifting equilibrium."
+    },
+    {
+      "number": "14",
+      "title": "Enzyme-Catalyzed Polymer Builder",
+      "description": "A special enzyme at the center repeatedly binds monomer spheres floating around it, snapping them together into a growing chain or ring that wraps and coils in space, with each catalytic event causing a brief glow and a label showing the increasing polymer length.",
+      "seed": "Enzyme-Catalyzed Polymer Builder: A special enzyme at the center repeatedly binds monomer spheres floating around it, snapping them together into a growing chain or ring that wraps and coils in space, with each catalytic event causing a brief glow and a label showing the increasing polymer length."
+    },
+    {
+      "number": "15",
+      "title": "Enzyme Inhibition Drug Trial Box",
+      "description": "A box contains enzymes and substrates along with slowly introduced “drug” particles; as drugs bind to either active sites or allosteric sites, enzymes dim and stiffen, reducing product formation, while a graph-like bar in the corner shows decreasing overall activity as drug concentration rises.",
+      "seed": "Enzyme Inhibition Drug Trial Box: A box contains enzymes and substrates along with slowly introduced “drug” particles; as drugs bind to either active sites or allosteric sites, enzymes dim and stiffen, reducing product formation, while a graph-like bar in the corner shows decreasing overall activity as drug concentration rises."
+    },
+    {
+      "number": "16",
+      "title": "Enzyme Activity vs. Substrate Concentration Wave",
+      "description": "Substrate particles are released from one side of a chamber in pulsating waves of different densities; rows of enzymes stationed along the chamber respond by speeding up or saturating (glowing steadily when maxed out), illustrating how activity plateaus as substrate concentrations increase.",
+      "seed": "Enzyme Activity vs. Substrate Concentration Wave: Substrate particles are released from one side of a chamber in pulsating waves of different densities; rows of enzymes stationed along the chamber respond by speeding up or saturating (glowing steadily when maxed out), illustrating how activity plateaus as substrate concentrations increase."
+    },
+    {
+      "number": "17",
+      "title": "Enzyme Cutting DNA Strand",
+      "description": "A long, semi-transparent helical DNA ribbon stretches across the scene while specific restriction enzyme blobs slide, scan along it, and snap onto matching sequence markers; when they find a target, they clamp down, briefly glow, and cut the ribbon into fragments that drift apart, with labels on the cut sites.",
+      "seed": "Enzyme Cutting DNA Strand: A long, semi-transparent helical DNA ribbon stretches across the scene while specific restriction enzyme blobs slide, scan along it, and snap onto matching sequence markers; when they find a target, they clamp down, briefly glow, and cut the ribbon into fragments that drift apart, with labels on the cut sites."
+    },
+    {
+      "number": "18",
+      "title": "Enzyme-Coenzyme Energy Transfer",
+      "description": "Enzymes each hold a glowing coenzyme orb that flashes when a substrate binds; during catalysis the orb transfers energy (color change and brightness) to the substrate, which then detaches as a high-energy product, while the coenzyme fades and must be recharged by separate recharging particles drifting in.",
+      "seed": "Enzyme-Coenzyme Energy Transfer: Enzymes each hold a glowing coenzyme orb that flashes when a substrate binds; during catalysis the orb transfers energy (color change and brightness) to the substrate, which then detaches as a high-energy product, while the coenzyme fades and must be recharged by separate recharging particles drifting in."
+    },
+    {
+      "number": "19",
+      "title": "Enzyme Activity Race Track",
+      "description": "Several different enzyme types line parallel lanes of a race track, each processing its own colored substrate stream flowing past; small counters and moving markers above each lane show which enzyme converts substrates to products fastest under shared conditions.",
+      "seed": "Enzyme Activity Race Track: Several different enzyme types line parallel lanes of a race track, each processing its own colored substrate stream flowing past; small counters and moving markers above each lane show which enzyme converts substrates to products fastest under shared conditions."
+    },
+    {
+      "number": "20",
+      "title": "Enzymes on a Rotating Organelle Surface",
+      "description": "A large rotating sphere represents an organelle studded with enzymes; as it slowly spins, clouds of substrates approach, bind to outward-facing enzymes, get converted, and then either reattach to other nearby enzymes or drift away, leaving faint trails that map processing hotspots on the surface.",
+      "seed": "Enzymes on a Rotating Organelle Surface: A large rotating sphere represents an organelle studded with enzymes; as it slowly spins, clouds of substrates approach, bind to outward-facing enzymes, get converted, and then either reattach to other nearby enzymes or drift away, leaving faint trails that map processing hotspots on the surface."
+    },
+    {
+      "number": "21",
+      "title": "Enzymatic Degradation of a Food Particle",
+      "description": "A large, irregular “food chunk” with layered textures floats at the center while various enzyme types hover around; each enzyme type only acts on certain colored regions, attaching and carving off pieces into smaller, glowing nutrient particles that drift away, gradually shrinking and reshaping the main chunk.",
+      "seed": "Enzymatic Degradation of a Food Particle: A large, irregular “food chunk” with layered textures floats at the center while various enzyme types hover around; each enzyme type only acts on certain colored regions, attaching and carving off pieces into smaller, glowing nutrient particles that drift away, gradually shrinking and reshaping the main chunk."
+    },
+    {
+      "number": "22",
+      "title": "Multi-Enzyme Complex Rotating Machine",
+      "description": "A single massive enzyme complex composed of rotating gears and arms sits in the center, pulling in substrates via rotating funnels, passing them through multiple active “stations,” and ejecting multi-step products, with each station briefly lighting up as intermediates are processed.",
+      "seed": "Multi-Enzyme Complex Rotating Machine: A single massive enzyme complex composed of rotating gears and arms sits in the center, pulling in substrates via rotating funnels, passing them through multiple active “stations,” and ejecting multi-step products, with each station briefly lighting up as intermediates are processed."
+    },
+    {
+      "number": "23",
+      "title": "Enzyme Activity in a Crowded Cell Cytoplasm",
+      "description": "A dense 3D volume filled with large, mostly inert macromolecules forms a maze through which enzymes and substrates must weave; random Brownian motion causes frequent collisions, but only specific enzyme-substrate matches lead to quick, glowing reactions, illustrating diffusion-limited enzyme activity.",
+      "seed": "Enzyme Activity in a Crowded Cell Cytoplasm: A dense 3D volume filled with large, mostly inert macromolecules forms a maze through which enzymes and substrates must weave; random Brownian motion causes frequent collisions, but only specific enzyme-substrate matches lead to quick, glowing reactions, illustrating diffusion-limited enzyme activity."
+    },
+    {
+      "number": "24",
+      "title": "Enzyme Denaturation Shock Wave",
+      "description": "A stable field of active enzymes processing substrates is suddenly hit by a propagating “stress wave” (heat or chemical shock) moving across the scene; as it passes, enzymes in its path gradually lose their defined shapes, become floppy, change color, and stop binding substrates, leaving an expanding inactive zone.",
+      "seed": "Enzyme Denaturation Shock Wave: A stable field of active enzymes processing substrates is suddenly hit by a propagating “stress wave” (heat or chemical shock) moving across the scene; as it passes, enzymes in its path gradually lose their defined shapes, become floppy, change color, and stop binding substrates, leaving an expanding inactive zone."
+    },
+    {
+      "number": "25",
+      "title": "Enzyme Activity Treasure Hunt",
+      "description": "Scattered throughout a bright 3D maze are hidden high-activity enzyme clusters; substrate particles are released from one corner and wander randomly, leaving trails where they successfully react, gradually revealing hotspots of intense color and motion where enzymes are most active.",
+      "seed": "Enzyme Activity Treasure Hunt: Scattered throughout a bright 3D maze are hidden high-activity enzyme clusters; substrate particles are released from one corner and wander randomly, leaving trails where they successfully react, gradually revealing hotspots of intense color and motion where enzymes are most active."
+    }
+  ],
+  "raw_output": "Here are strong **Enzyme activity simulation inputs** you can plug into your prompt:\n\n1. **Lock-and-Key Enzyme Docking Chamber**\n   A transparent spherical “cell” contains floating colored enzyme shapes with rigid active sites while differently-shaped substrate spheres drift in, collide, sometimes attach perfectly, transform color/size, then detach as products that leave glowing trails, with labels hovering over each molecule.\n\n2. **Enzyme Kinetics Flow Tunnel**\n   A long clear tube shows a constant stream of substrate spheres flowing through while a row of anchored enzymes on the wall repeatedly attach incoming substrates, briefly glow as they convert them, then release smaller product spheres whose speed and color change according to adjustable sliders for substrate concentration and temperature.\n\n3. **Competitive Inhibition Arena**\n   Enzymes with highlighted active sites float in a box where both substrate spheres and similarly-shaped inhibitor cubes drift and collide; substrates that successfully bind make the enzyme pulse green and release products, while inhibitors that bind lock the enzyme red and temporarily block further activity, with counters tallying events.\n\n4. **Allosteric Regulation Lattice**\n   A 3D grid of large enzyme structures sits semi-stationary while small effector particles orbit and occasionally bind to distant allosteric sites, causing the enzymes to twist, change transparency, and either open (active, bright) or close (inactive, dim) their active sites to passing substrates.\n\n5. **Temperature-Dependent Enzyme Unfolding**\n   A cluster of folded enzyme “ribbons” anchored in space gradually unfold, twist, and lose their rigid active-site pockets as a temperature meter rises, visualized by increasing vibration, color shifts from blue to red, and a declining count of successfully processed substrate collisions.\n\n6. **pH Gradient Enzyme Corridor**\n   Enzymes are arranged along a long corridor where the background color smoothly shifts from acidic red to basic blue, and each enzyme model changes shape and activity (opening or collapsing active sites) depending on its local pH, affecting how many drifting substrates can dock and be converted into color-coded products.\n\n7. **Enzyme Cascading Pathway**\n   Multiple enzyme types are arranged in a branching 3D pathway: substrates bind to the first enzyme, which glows and releases new product spheres that drift, collide with the next enzyme type, and so on, creating a cascading chain of color-changing particles with labels showing each step in the pathway.\n\n8. **Membrane-Bound Enzyme Conveyor**\n   A flat semi-transparent membrane plane holds anchored enzymes that reach into a flow of substrates on one side, grab them, flip and rotate, then release transformed products on the other side, visualizing directional transport across the membrane with arrows and trails marking the flow.\n\n9. **Enzyme-Substrate Matching Puzzle Field**\n   Many enzymes with differently shaped and colored active sites float in a volume with a cloud of mismatched substrates; as Brownian-motion-like movements make them collide, only correct matches attach, flash matching colors, and split into two product particles, while wrong matches bounce away with a slight repulsive effect.\n\n10. **Enzyme Factory Assembly Line**\n   An overhead “factory” conveyor belt moves substrates past regularly spaced mechanical enzyme arms that pivot down, grab a substrate, compress or twist it into products, then release them into separate bins below, with each bin’s fill level represented by rising colored columns.\n\n11. **Metaphorical City of Enzymes**\n   A bright cityscape where stationary “enzyme buildings” have shaped doorways that only admit specific “substrate vehicles”; when a vehicle fits and enters, the building pulses, then ejects one or more transformed vehicles (different shapes/colors) that follow glowing street trails to the next specialized building.\n\n12. **Enzyme Activity Heatmap Sphere**\n   A large transparent spherical “cell” holds enzymes distributed unevenly; as substrates drift inside and react, each enzyme’s activity level is shown by a hovering bar and local color intensity, gradually forming a 3D heatmap of more and less active regions within the cell.\n\n13. **Reversible Enzyme Reaction Balance**\n   A central enzyme can bind both substrates and products, with two clouds of differently colored particles on either side; as they collide and bind, the enzyme alternates direction, sometimes converting substrate to product and other times product back to substrate, while a dynamic balance meter tracks the shifting equilibrium.\n\n14. **Enzyme-Catalyzed Polymer Builder**\n   A special enzyme at the center repeatedly binds monomer spheres floating around it, snapping them together into a growing chain or ring that wraps and coils in space, with each catalytic event causing a brief glow and a label showing the increasing polymer length.\n\n15. **Enzyme Inhibition Drug Trial Box**\n   A box contains enzymes and substrates along with slowly introduced “drug” particles; as drugs bind to either active sites or allosteric sites, enzymes dim and stiffen, reducing product formation, while a graph-like bar in the corner shows decreasing overall activity as drug concentration rises.\n\n16. **Enzyme Activity vs. Substrate Concentration Wave**\n   Substrate particles are released from one side of a chamber in pulsating waves of different densities; rows of enzymes stationed along the chamber respond by speeding up or saturating (glowing steadily when maxed out), illustrating how activity plateaus as substrate concentrations increase.\n\n17. **Enzyme Cutting DNA Strand**\n   A long, semi-transparent helical DNA ribbon stretches across the scene while specific restriction enzyme blobs slide, scan along it, and snap onto matching sequence markers; when they find a target, they clamp down, briefly glow, and cut the ribbon into fragments that drift apart, with labels on the cut sites.\n\n18. **Enzyme-Coenzyme Energy Transfer**\n   Enzymes each hold a glowing coenzyme orb that flashes when a substrate binds; during catalysis the orb transfers energy (color change and brightness) to the substrate, which then detaches as a high-energy product, while the coenzyme fades and must be recharged by separate recharging particles drifting in.\n\n19. **Enzyme Activity Race Track**\n   Several different enzyme types line parallel lanes of a race track, each processing its own colored substrate stream flowing past; small counters and moving markers above each lane show which enzyme converts substrates to products fastest under shared conditions.\n\n20. **Enzymes on a Rotating Organelle Surface**\n   A large rotating sphere represents an organelle studded with enzymes; as it slowly spins, clouds of substrates approach, bind to outward-facing enzymes, get converted, and then either reattach to other nearby enzymes or drift away, leaving faint trails that map processing hotspots on the surface.\n\n21. **Enzymatic Degradation of a Food Particle**\n   A large, irregular “food chunk” with layered textures floats at the center while various enzyme types hover around; each enzyme type only acts on certain colored regions, attaching and carving off pieces into smaller, glowing nutrient particles that drift away, gradually shrinking and reshaping the main chunk.\n\n22. **Multi-Enzyme Complex Rotating Machine**\n   A single massive enzyme complex composed of rotating gears and arms sits in the center, pulling in substrates via rotating funnels, passing them through multiple active “stations,” and ejecting multi-step products, with each station briefly lighting up as intermediates are processed.\n\n23. **Enzyme Activity in a Crowded Cell Cytoplasm**\n   A dense 3D volume filled with large, mostly inert macromolecules forms a maze through which enzymes and substrates must weave; random Brownian motion causes frequent collisions, but only specific enzyme-substrate matches lead to quick, glowing reactions, illustrating diffusion-limited enzyme activity.\n\n24. **Enzyme Denaturation Shock Wave**\n   A stable field of active enzymes processing substrates is suddenly hit by a propagating “stress wave” (heat or chemical shock) moving across the scene; as it passes, enzymes in its path gradually lose their defined shapes, become floppy, change color, and stop binding substrates, leaving an expanding inactive zone.\n\n25. **Enzyme Activity Treasure Hunt**\n   Scattered throughout a bright 3D maze are hidden high-activity enzyme clusters; substrate particles are released from one corner and wander randomly, leaving trails where they successfully react, gradually revealing hotspots of intense color and motion where enzymes are most active."
+}

@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Growth and decay",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:10:06",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Crystal Garden in a Dissolving Pool",
+      "description": "A cluster of semi-transparent crystal rods slowly grow upward from a shallow water plane while surrounding crystals dissolve and shrink, with color-changing tips, falling particles, and a floating meter showing total mass gained vs. lost.",
+      "seed": "Crystal Garden in a Dissolving Pool: A cluster of semi-transparent crystal rods slowly grow upward from a shallow water plane while surrounding crystals dissolve and shrink, with color-changing tips, falling particles, and a floating meter showing total mass gained vs. lost."
+    },
+    {
+      "number": "2",
+      "title": "City Expansion vs. Demolition",
+      "description": "Simple box “buildings” sprout and stack outward from a central plaza while older blocks crack, fade, and collapse into rubble piles, with hovering labels for districts, dust particles on collapse, and a graph bar tracking total built vs. demolished volume.",
+      "seed": "City Expansion vs. Demolition: Simple box “buildings” sprout and stack outward from a central plaza while older blocks crack, fade, and collapse into rubble piles, with hovering labels for districts, dust particles on collapse, and a graph bar tracking total built vs. demolished volume."
+    },
+    {
+      "number": "3",
+      "title": "Forest Succession on a Hill",
+      "description": "Tiny green saplings randomly appear and grow into tall trees on a gently sloped terrain while old trees darken, lose leaves, and topple into rotting logs that gradually sink into the ground, with falling leaf particles and a time slider controlling growth speed.",
+      "seed": "Forest Succession on a Hill: Tiny green saplings randomly appear and grow into tall trees on a gently sloped terrain while old trees darken, lose leaves, and topple into rotting logs that gradually sink into the ground, with falling leaf particles and a time slider controlling growth speed."
+    },
+    {
+      "number": "4",
+      "title": "Bacterial Colony Growth with Antibiotic Zones",
+      "description": "Small spherical bacteria replicate and spread over a flat petri-dish disk while glowing red antibiotic patches cause nearby bacteria to shrink, fade, and pop into particles, with labels for resistant strains and a color scale for colony density.",
+      "seed": "Bacterial Colony Growth with Antibiotic Zones: Small spherical bacteria replicate and spread over a flat petri-dish disk while glowing red antibiotic patches cause nearby bacteria to shrink, fade, and pop into particles, with labels for resistant strains and a color scale for colony density."
+    },
+    {
+      "number": "5",
+      "title": "Planet Terraformation and Atmospheric Decay",
+      "description": "A small rocky planet sphere gains patches of green vegetation and blue water that expand outward while a semi-transparent atmospheric shell thickens or thins, with orbiting satellites emitting beams that trigger local growth or decay, plus a gauge of habitability.",
+      "seed": "Planet Terraformation and Atmospheric Decay: A small rocky planet sphere gains patches of green vegetation and blue water that expand outward while a semi-transparent atmospheric shell thickens or thins, with orbiting satellites emitting beams that trigger local growth or decay, plus a gauge of habitability."
+    },
+    {
+      "number": "6",
+      "title": "Neon Network: Growing and Dying Connections",
+      "description": "Nodes in 3D space light up and sprout glowing filaments that branch and connect to other nodes, while unused filaments dim, crumble, and vanish, with pulse animations for active pathways and a counter of live vs. decayed links.",
+      "seed": "Neon Network: Growing and Dying Connections: Nodes in 3D space light up and sprout glowing filaments that branch and connect to other nodes, while unused filaments dim, crumble, and vanish, with pulse animations for active pathways and a counter of live vs. decayed links."
+    },
+    {
+      "number": "7",
+      "title": "Coral Reef Growth Under Rising Pollution",
+      "description": "Branching coral structures grow and elaborate in a shallow, clear 3D seabed while clouds of colored pollutant particles drift in and cause nearby coral branches to bleach, break, and fall, with fish-like particles weaving through healthy areas and labels for pollution sources.",
+      "seed": "Coral Reef Growth Under Rising Pollution: Branching coral structures grow and elaborate in a shallow, clear 3D seabed while clouds of colored pollutant particles drift in and cause nearby coral branches to bleach, break, and fall, with fish-like particles weaving through healthy areas and labels for pollution sources."
+    },
+    {
+      "number": "8",
+      "title": "Rust Spreading Across Metal Girders",
+      "description": "Interlocking metallic beams form a frame where small rusty spots appear and slowly expand, causing beams to thin, bend, and occasionally snap, with flaking particle effects, changing surface textures from shiny to rough, and a stress meter on each girder.",
+      "seed": "Rust Spreading Across Metal Girders: Interlocking metallic beams form a frame where small rusty spots appear and slowly expand, causing beams to thin, bend, and occasionally snap, with flaking particle effects, changing surface textures from shiny to rough, and a stress meter on each girder."
+    },
+    {
+      "number": "9",
+      "title": "Glow-Fungus Spore Field",
+      "description": "Mushroom-like caps sprout from a soil plane, inflate, and emit glowing spores that float up and attach to empty soil spots to start new fungi, while overgrown mushrooms darken, collapse, and dissolve into nutrient puddles that fade into the ground.",
+      "seed": "Glow-Fungus Spore Field: Mushroom-like caps sprout from a soil plane, inflate, and emit glowing spores that float up and attach to empty soil spots to start new fungi, while overgrown mushrooms darken, collapse, and dissolve into nutrient puddles that fade into the ground."
+    },
+    {
+      "number": "10",
+      "title": "Ecosystem of Predators and Prey Populations",
+      "description": "Small prey spheres graze and multiply over a grassy plane while larger predator shapes hunt, causing prey to disappear and predator numbers to grow until food scarcity makes predators shrink and vanish, with trails showing movement paths and live population counters.",
+      "seed": "Ecosystem of Predators and Prey Populations: Small prey spheres graze and multiply over a grassy plane while larger predator shapes hunt, causing prey to disappear and predator numbers to grow until food scarcity makes predators shrink and vanish, with trails showing movement paths and live population counters."
+    },
+    {
+      "number": "11",
+      "title": "Fracturing Ice Sheet and Melting Ponds",
+      "description": "A large ice slab slowly grows cracks that branch and widen while pockets of water form, deepen, and spread, with chunks of ice detaching, floating, and shrinking as they melt, and a transparent overlay graphing total ice vs. water volume.",
+      "seed": "Fracturing Ice Sheet and Melting Ponds: A large ice slab slowly grows cracks that branch and widen while pockets of water form, deepen, and spread, with chunks of ice detaching, floating, and shrinking as they melt, and a transparent overlay graphing total ice vs. water volume."
+    },
+    {
+      "number": "12",
+      "title": "Cell Division and Apoptosis in a Tissue Block",
+      "description": "A semi-transparent cube containing many soft spheres shows cells swelling and splitting into two while others receive a signal, shrink, and break apart into dissolving fragments, with color-coded cell states and a label showing proliferation vs. death rates.",
+      "seed": "Cell Division and Apoptosis in a Tissue Block: A semi-transparent cube containing many soft spheres shows cells swelling and splitting into two while others receive a signal, shrink, and break apart into dissolving fragments, with color-coded cell states and a label showing proliferation vs. death rates."
+    },
+    {
+      "number": "13",
+      "title": "Economic Boom-Bust Skyline",
+      "description": "Stylized buildings represented by bars rise in height and width during a “boom” phase, then some bars gradually shrink, crack, and crumble during a “bust,” with money-flow arrows moving between districts and a timeline slider that replays cycles of growth and decay.",
+      "seed": "Economic Boom-Bust Skyline: Stylized buildings represented by bars rise in height and width during a “boom” phase, then some bars gradually shrink, crack, and crumble during a “bust,” with money-flow arrows moving between districts and a timeline slider that replays cycles of growth and decay."
+    },
+    {
+      "number": "14",
+      "title": "Lichen Spreading on a Rock",
+      "description": "A textured rock surface is gradually covered by spreading, irregular lichen patches that thicken and change color, while old central regions dry, crack, and flake off as dust, with a semi-transparent overlay map showing age gradients.",
+      "seed": "Lichen Spreading on a Rock: A textured rock surface is gradually covered by spreading, irregular lichen patches that thicken and change color, while old central regions dry, crack, and flake off as dust, with a semi-transparent overlay map showing age gradients."
+    },
+    {
+      "number": "15",
+      "title": "Tumor Growth and Radiation Therapy",
+      "description": "A spherical organ model hosts a small tumor cluster that grows outward with irregular, spiky protrusions while beams from rotating radiation sources cause targeted tumor regions to shrink, darken, and fragment, with labels for dose and surviving tumor volume.",
+      "seed": "Tumor Growth and Radiation Therapy: A spherical organ model hosts a small tumor cluster that grows outward with irregular, spiky protrusions while beams from rotating radiation sources cause targeted tumor regions to shrink, darken, and fragment, with labels for dose and surviving tumor volume."
+    },
+    {
+      "number": "16",
+      "title": "Star Clusters Forming and Fading",
+      "description": "In a 3D nebula cloud, bright star points condense from swirling gas, grow in brightness, and sometimes merge, while older stars dim, flicker, and explode into expanding particle shells that feed new star formation, all under a gentle rotating camera.",
+      "seed": "Star Clusters Forming and Fading: In a 3D nebula cloud, bright star points condense from swirling gas, grow in brightness, and sometimes merge, while older stars dim, flicker, and explode into expanding particle shells that feed new star formation, all under a gentle rotating camera."
+    },
+    {
+      "number": "17",
+      "title": "Mold Colonies on Rotting Fruit",
+      "description": "Several fruits on a plate gradually sprout fuzzy mold spheres that expand and emit spores, while fruit volume shrinks and collapses inward, with spore particles drifting and settling on neighboring fruit to start new colonies, and labels for each fruit’s decay level.",
+      "seed": "Mold Colonies on Rotting Fruit: Several fruits on a plate gradually sprout fuzzy mold spheres that expand and emit spores, while fruit volume shrinks and collapses inward, with spore particles drifting and settling on neighboring fruit to start new colonies, and labels for each fruit’s decay level."
+    },
+    {
+      "number": "18",
+      "title": "Road Network Expansion and Abandonment",
+      "description": "From a central hub, roads (thin cylinders) extend, branch, and widen as traffic spheres move along them, while underused roads narrow, crack, and fade away, with glowing traffic density lines and a counter of total active vs. abandoned road length.",
+      "seed": "Road Network Expansion and Abandonment: From a central hub, roads (thin cylinders) extend, branch, and widen as traffic spheres move along them, while underused roads narrow, crack, and fade away, with glowing traffic density lines and a counter of total active vs. abandoned road length."
+    },
+    {
+      "number": "19",
+      "title": "River Delta Growth and Erosion",
+      "description": "A semi-transparent water volume flows over a sandy plane, depositing sediment that builds branching delta channels and sandbars, while stronger currents erode edges and carry particles away, with color-coded elevation changes and arrows showing flow strength.",
+      "seed": "River Delta Growth and Erosion: A semi-transparent water volume flows over a sandy plane, depositing sediment that builds branching delta channels and sandbars, while stronger currents erode edges and carry particles away, with color-coded elevation changes and arrows showing flow strength."
+    },
+    {
+      "number": "20",
+      "title": "Digital File System Growth and Decay",
+      "description": "Cubes representing folders and files appear, grow in size as they accumulate data, and connect with glowing lines, while unused files slowly shrink, fade, and break into tiny fragments that drift away, with labels for total storage used and reclaimed.",
+      "seed": "Digital File System Growth and Decay: Cubes representing folders and files appear, grow in size as they accumulate data, and connect with glowing lines, while unused files slowly shrink, fade, and break into tiny fragments that drift away, with labels for total storage used and reclaimed."
+    },
+    {
+      "number": "21",
+      "title": "Vine Wrapped Tower with Weathering",
+      "description": "A tall stone pillar stands as green vines sprout from its base, climbing, branching, and wrapping around it, while exposed stone surfaces slowly chip, discolor, and crumble, with falling debris particles and a slider to accelerate time and weathering.",
+      "seed": "Vine Wrapped Tower with Weathering: A tall stone pillar stands as green vines sprout from its base, climbing, branching, and wrapping around it, while exposed stone surfaces slowly chip, discolor, and crumble, with falling debris particles and a slider to accelerate time and weathering."
+    },
+    {
+      "number": "22",
+      "title": "Bioreactor Culture Expansion and Nutrient Depletion",
+      "description": "A transparent cylindrical tank fills with small cell spheres that replicate and form clusters as nutrient particles swirl and are absorbed, while low-nutrient zones cause cells to shrink, darken, and lyse into fragments, with gauges for nutrient and live cell density.",
+      "seed": "Bioreactor Culture Expansion and Nutrient Depletion: A transparent cylindrical tank fills with small cell spheres that replicate and form clusters as nutrient particles swirl and are absorbed, while low-nutrient zones cause cells to shrink, darken, and lyse into fragments, with gauges for nutrient and live cell density."
+    },
+    {
+      "number": "23",
+      "title": "Digital Social Network Growth and Churn",
+      "description": "User nodes pop into existence, connect with glowing lines, and form clusters that grow as new nodes attach, while inactive nodes dim, lose connections that disintegrate, and eventually vanish, with counters for active users and decayed connections.",
+      "seed": "Digital Social Network Growth and Churn: User nodes pop into existence, connect with glowing lines, and form clusters that grow as new nodes attach, while inactive nodes dim, lose connections that disintegrate, and eventually vanish, with counters for active users and decayed connections."
+    },
+    {
+      "number": "24",
+      "title": "Lava Flow Cooling and Crust Formation",
+      "description": "A glowing lava stream flows down a gentle slope, spreading and thickening while its surface cools from bright orange to dark brown, forming a crust that grows outward as the molten interior shrinks and vanishes, with steam particles where lava touches cooler ground.",
+      "seed": "Lava Flow Cooling and Crust Formation: A glowing lava stream flows down a gentle slope, spreading and thickening while its surface cools from bright orange to dark brown, forming a crust that grows outward as the molten interior shrinks and vanishes, with steam particles where lava touches cooler ground."
+    },
+    {
+      "number": "25",
+      "title": "Urban Park Vegetation vs. Infrastructure Decay",
+      "description": "Grass, bushes, and trees steadily grow and spread in a city park while nearby benches, paths, and fences slowly rust, crack, and crumble, with roots visually pushing through pavement slabs and a dual meter tracking green biomass vs. structural integrity.",
+      "seed": "Urban Park Vegetation vs. Infrastructure Decay: Grass, bushes, and trees steadily grow and spread in a city park while nearby benches, paths, and fences slowly rust, crack, and crumble, with roots visually pushing through pavement slabs and a dual meter tracking green biomass vs. structural integrity."
+    }
+  ],
+  "raw_output": "Here are strong **Growth and decay simulation inputs** you can plug into your prompt:\n\n1. **Crystal Garden in a Dissolving Pool**\n   A cluster of semi-transparent crystal rods slowly grow upward from a shallow water plane while surrounding crystals dissolve and shrink, with color-changing tips, falling particles, and a floating meter showing total mass gained vs. lost.\n\n2. **City Expansion vs. Demolition**\n   Simple box “buildings” sprout and stack outward from a central plaza while older blocks crack, fade, and collapse into rubble piles, with hovering labels for districts, dust particles on collapse, and a graph bar tracking total built vs. demolished volume.\n\n3. **Forest Succession on a Hill**\n   Tiny green saplings randomly appear and grow into tall trees on a gently sloped terrain while old trees darken, lose leaves, and topple into rotting logs that gradually sink into the ground, with falling leaf particles and a time slider controlling growth speed.\n\n4. **Bacterial Colony Growth with Antibiotic Zones**\n   Small spherical bacteria replicate and spread over a flat petri-dish disk while glowing red antibiotic patches cause nearby bacteria to shrink, fade, and pop into particles, with labels for resistant strains and a color scale for colony density.\n\n5. **Planet Terraformation and Atmospheric Decay**\n   A small rocky planet sphere gains patches of green vegetation and blue water that expand outward while a semi-transparent atmospheric shell thickens or thins, with orbiting satellites emitting beams that trigger local growth or decay, plus a gauge of habitability.\n\n6. **Neon Network: Growing and Dying Connections**\n   Nodes in 3D space light up and sprout glowing filaments that branch and connect to other nodes, while unused filaments dim, crumble, and vanish, with pulse animations for active pathways and a counter of live vs. decayed links.\n\n7. **Coral Reef Growth Under Rising Pollution**\n   Branching coral structures grow and elaborate in a shallow, clear 3D seabed while clouds of colored pollutant particles drift in and cause nearby coral branches to bleach, break, and fall, with fish-like particles weaving through healthy areas and labels for pollution sources.\n\n8. **Rust Spreading Across Metal Girders**\n   Interlocking metallic beams form a frame where small rusty spots appear and slowly expand, causing beams to thin, bend, and occasionally snap, with flaking particle effects, changing surface textures from shiny to rough, and a stress meter on each girder.\n\n9. **Glow-Fungus Spore Field**\n   Mushroom-like caps sprout from a soil plane, inflate, and emit glowing spores that float up and attach to empty soil spots to start new fungi, while overgrown mushrooms darken, collapse, and dissolve into nutrient puddles that fade into the ground.\n\n10. **Ecosystem of Predators and Prey Populations**\n    Small prey spheres graze and multiply over a grassy plane while larger predator shapes hunt, causing prey to disappear and predator numbers to grow until food scarcity makes predators shrink and vanish, with trails showing movement paths and live population counters.\n\n11. **Fracturing Ice Sheet and Melting Ponds**\n    A large ice slab slowly grows cracks that branch and widen while pockets of water form, deepen, and spread, with chunks of ice detaching, floating, and shrinking as they melt, and a transparent overlay graphing total ice vs. water volume.\n\n12. **Cell Division and Apoptosis in a Tissue Block**\n    A semi-transparent cube containing many soft spheres shows cells swelling and splitting into two while others receive a signal, shrink, and break apart into dissolving fragments, with color-coded cell states and a label showing proliferation vs. death rates.\n\n13. **Economic Boom-Bust Skyline**\n    Stylized buildings represented by bars rise in height and width during a “boom” phase, then some bars gradually shrink, crack, and crumble during a “bust,” with money-flow arrows moving between districts and a timeline slider that replays cycles of growth and decay.\n\n14. **Lichen Spreading on a Rock**\n    A textured rock surface is gradually covered by spreading, irregular lichen patches that thicken and change color, while old central regions dry, crack, and flake off as dust, with a semi-transparent overlay map showing age gradients.\n\n15. **Tumor Growth and Radiation Therapy**\n    A spherical organ model hosts a small tumor cluster that grows outward with irregular, spiky protrusions while beams from rotating radiation sources cause targeted tumor regions to shrink, darken, and fragment, with labels for dose and surviving tumor volume.\n\n16. **Star Clusters Forming and Fading**\n    In a 3D nebula cloud, bright star points condense from swirling gas, grow in brightness, and sometimes merge, while older stars dim, flicker, and explode into expanding particle shells that feed new star formation, all under a gentle rotating camera.\n\n17. **Mold Colonies on Rotting Fruit**\n    Several fruits on a plate gradually sprout fuzzy mold spheres that expand and emit spores, while fruit volume shrinks and collapses inward, with spore particles drifting and settling on neighboring fruit to start new colonies, and labels for each fruit’s decay level.\n\n18. **Road Network Expansion and Abandonment**\n    From a central hub, roads (thin cylinders) extend, branch, and widen as traffic spheres move along them, while underused roads narrow, crack, and fade away, with glowing traffic density lines and a counter of total active vs. abandoned road length.\n\n19. **River Delta Growth and Erosion**\n    A semi-transparent water volume flows over a sandy plane, depositing sediment that builds branching delta channels and sandbars, while stronger currents erode edges and carry particles away, with color-coded elevation changes and arrows showing flow strength.\n\n20. **Digital File System Growth and Decay**\n    Cubes representing folders and files appear, grow in size as they accumulate data, and connect with glowing lines, while unused files slowly shrink, fade, and break into tiny fragments that drift away, with labels for total storage used and reclaimed.\n\n21. **Vine Wrapped Tower with Weathering**\n    A tall stone pillar stands as green vines sprout from its base, climbing, branching, and wrapping around it, while exposed stone surfaces slowly chip, discolor, and crumble, with falling debris particles and a slider to accelerate time and weathering.\n\n22. **Bioreactor Culture Expansion and Nutrient Depletion**\n    A transparent cylindrical tank fills with small cell spheres that replicate and form clusters as nutrient particles swirl and are absorbed, while low-nutrient zones cause cells to shrink, darken, and lyse into fragments, with gauges for nutrient and live cell density.\n\n23. **Digital Social Network Growth and Churn**\n    User nodes pop into existence, connect with glowing lines, and form clusters that grow as new nodes attach, while inactive nodes dim, lose connections that disintegrate, and eventually vanish, with counters for active users and decayed connections.\n\n24. **Lava Flow Cooling and Crust Formation**\n    A glowing lava stream flows down a gentle slope, spreading and thickening while its surface cools from bright orange to dark brown, forming a crust that grows outward as the molten interior shrinks and vanishes, with steam particles where lava touches cooler ground.\n\n25. **Urban Park Vegetation vs. Infrastructure Decay**\n    Grass, bushes, and trees steadily grow and spread in a city park while nearby benches, paths, and fences slowly rust, crack, and crumble, with roots visually pushing through pavement slabs and a dual meter tracking green biomass vs. structural integrity."
+}

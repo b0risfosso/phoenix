@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Rituals and ceremonies",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:06:14",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Temple Courtyard Procession",
+      "description": "A rectangular temple courtyard with a central altar and a ring of colored spheres (people) that slowly orbit the altar, occasionally stopping to attach glowing offerings (small cubes) that stack, while incense particles rise and fade above the altar.",
+      "seed": "Temple Courtyard Procession: A rectangular temple courtyard with a central altar and a ring of colored spheres (people) that slowly orbit the altar, occasionally stopping to attach glowing offerings (small cubes) that stack, while incense particles rise and fade above the altar."
+    },
+    {
+      "number": "2",
+      "title": "Candlelight Vigil Wave",
+      "description": "A crowd of upright cylinders (participants) arranged in a grid each holding a small glowing sphere (candle) that can be lit in sequence, creating moving waves of light, with flickering transparency and labels showing “lit” or “unlit” states.",
+      "seed": "Candlelight Vigil Wave: A crowd of upright cylinders (participants) arranged in a grid each holding a small glowing sphere (candle) that can be lit in sequence, creating moving waves of light, with flickering transparency and labels showing “lit” or “unlit” states."
+    },
+    {
+      "number": "3",
+      "title": "Ritual Drum Circle Resonance",
+      "description": "A circle of drums (short cylinders) on the ground that are struck by rotating mallets, causing expanding transparent rings to pulse outward, collide, overlap, and blend colors to visualize sound intensity at different positions.",
+      "seed": "Ritual Drum Circle Resonance: A circle of drums (short cylinders) on the ground that are struck by rotating mallets, causing expanding transparent rings to pulse outward, collide, overlap, and blend colors to visualize sound intensity at different positions."
+    },
+    {
+      "number": "4",
+      "title": "Ceremonial Lantern Release",
+      "description": "A platform where participants (small cylinders) release glowing paper lanterns (transparent boxes) that detach, float upward with trails, drift with a gentle wind, occasionally collide and bounce apart, and gradually fade as they ascend.",
+      "seed": "Ceremonial Lantern Release: A platform where participants (small cylinders) release glowing paper lanterns (transparent boxes) that detach, float upward with trails, drift with a gentle wind, occasionally collide and bounce apart, and gradually fade as they ascend."
+    },
+    {
+      "number": "5",
+      "title": "Totem Pole Carving Ritual",
+      "description": "A tall wooden totem pole (stacked cylinders) at the center with carving tools (small boxes) that move along its surface, “carving” by changing color and texture patches, while wood particles fall, bounce, and accumulate in a pile at the base.",
+      "seed": "Totem Pole Carving Ritual: A tall wooden totem pole (stacked cylinders) at the center with carving tools (small boxes) that move along its surface, “carving” by changing color and texture patches, while wood particles fall, bounce, and accumulate in a pile at the base."
+    },
+    {
+      "number": "6",
+      "title": "Ritual Dance Around a Fire",
+      "description": "A central flickering fire (animated cone with particle sparks) surrounded by colored spheres that move in patterned orbits, sometimes branching into smaller groups, changing color intensity based on their distance from the fire and leaving motion trails.",
+      "seed": "Ritual Dance Around a Fire: A central flickering fire (animated cone with particle sparks) surrounded by colored spheres that move in patterned orbits, sometimes branching into smaller groups, changing color intensity based on their distance from the fire and leaving motion trails."
+    },
+    {
+      "number": "7",
+      "title": "Tea Ceremony Flow",
+      "description": "A tea bowl (shallow transparent cylinder) with a stream of liquid particles pouring in from a tilted kettle, swirling, mixing different colors, and forming layers, while a whisk object stirs in set patterns that generate visible vortices and trails.",
+      "seed": "Tea Ceremony Flow: A tea bowl (shallow transparent cylinder) with a stream of liquid particles pouring in from a tilted kettle, swirling, mixing different colors, and forming layers, while a whisk object stirs in set patterns that generate visible vortices and trails."
+    },
+    {
+      "number": "8",
+      "title": "Rising Incense Spiral",
+      "description": "A burning incense stick (thin cylinder) emits spiraling smoke particles that rise, diffuse, and fade, with gentle airflow changing the spiral’s tilt, and a meter on the side showing incense length decreasing as ash accumulates and occasionally falls.",
+      "seed": "Rising Incense Spiral: A burning incense stick (thin cylinder) emits spiraling smoke particles that rise, diffuse, and fade, with gentle airflow changing the spiral’s tilt, and a meter on the side showing incense length decreasing as ash accumulates and occasionally falls."
+    },
+    {
+      "number": "9",
+      "title": "Wedding Ring Exchange",
+      "description": "Two humanoid outlines made from simple spheres and cylinders extend their arms; glowing ring toruses detach from one hand, move along a curved path, collide gently with the partner’s finger cylinder, and then attach, changing color and starting a soft pulsing glow.",
+      "seed": "Wedding Ring Exchange: Two humanoid outlines made from simple spheres and cylinders extend their arms; glowing ring toruses detach from one hand, move along a curved path, collide gently with the partner’s finger cylinder, and then attach, changing color and starting a soft pulsing glow."
+    },
+    {
+      "number": "10",
+      "title": "Monastic Bell and Walking Meditation",
+      "description": "A large bell (hollow cylinder) is struck by a swinging striker, emitting expanding transparent shells that propagate through a cloister walkway where spheres (monks) walk in rectangles, adjusting their speed and alignment when sound waves pass through them.",
+      "seed": "Monastic Bell and Walking Meditation: A large bell (hollow cylinder) is struck by a swinging striker, emitting expanding transparent shells that propagate through a cloister walkway where spheres (monks) walk in rectangles, adjusting their speed and alignment when sound waves pass through them."
+    },
+    {
+      "number": "11",
+      "title": "Harvest Offering Ceremony",
+      "description": "Colorful fruit-like spheres roll down ramps into a central offering basket (bowl), stacking and occasionally bouncing out, while a hovering “blessing” light cone scans over them, changing their color saturation to indicate consecrated vs. unconsecrated offerings.",
+      "seed": "Harvest Offering Ceremony: Colorful fruit-like spheres roll down ramps into a central offering basket (bowl), stacking and occasionally bouncing out, while a hovering “blessing” light cone scans over them, changing their color saturation to indicate consecrated vs. unconsecrated offerings."
+    },
+    {
+      "number": "12",
+      "title": "Sand Mandala Creation and Dissolution",
+      "description": "A flat circular plane on which colored sand particles are dropped from moving nozzles in intricate patterns; once the mandala is complete, a central sweeping tool rotates inwards, mixing and erasing patterns as particles spill over the edges into a collection tray.",
+      "seed": "Sand Mandala Creation and Dissolution: A flat circular plane on which colored sand particles are dropped from moving nozzles in intricate patterns; once the mandala is complete, a central sweeping tool rotates inwards, mixing and erasing patterns as particles spill over the edges into a collection tray."
+    },
+    {
+      "number": "13",
+      "title": "Mask-Wearing Initiation",
+      "description": "A line of humanoid frames moves toward a rack of masks (decorated plates); each mask detaches, rotates, and wraps onto a face, altering the figure’s color and trail style, then later detaches and returns to the rack as the figure exits.",
+      "seed": "Mask-Wearing Initiation: A line of humanoid frames moves toward a rack of masks (decorated plates); each mask detaches, rotates, and wraps onto a face, altering the figure’s color and trail style, then later detaches and returns to the rack as the figure exits."
+    },
+    {
+      "number": "14",
+      "title": "Torch Relay Ceremony",
+      "description": "A chain of runners (cylinders with legs) move along a track, each holding an unlit torch that lights up when it collides with the flame of the previous runner’s torch, transferring a small fire particle system that changes color as it’s passed along.",
+      "seed": "Torch Relay Ceremony: A chain of runners (cylinders with legs) move along a track, each holding an unlit torch that lights up when it collides with the flame of the previous runner’s torch, transferring a small fire particle system that changes color as it’s passed along."
+    },
+    {
+      "number": "15",
+      "title": "Microscopic Cell Ritual: Apoptosis Ceremony",
+      "description": "A cluster of semi-transparent cells (spheres) surrounding a central “leader” cell that pulses; signaling particles are emitted, attach to receptors on neighbors, and trigger them to change color and then split into fragments that slowly dissolve, visualizing a ritualized cell death.",
+      "seed": "Microscopic Cell Ritual: Apoptosis Ceremony: A cluster of semi-transparent cells (spheres) surrounding a central “leader” cell that pulses; signaling particles are emitted, attach to receptors on neighbors, and trigger them to change color and then split into fragments that slowly dissolve, visualizing a ritualized cell death."
+    },
+    {
+      "number": "16",
+      "title": "Seasonal Stone Circle Alignment",
+      "description": "A ring of standing stones with a moving sun-sphere that orbits around; at certain alignments, light beams pass through gaps between stones and create bright lines on the ground plane, with labels marking solstice and equinox positions.",
+      "seed": "Seasonal Stone Circle Alignment: A ring of standing stones with a moving sun-sphere that orbits around; at certain alignments, light beams pass through gaps between stones and create bright lines on the ground plane, with labels marking solstice and equinox positions."
+    },
+    {
+      "number": "17",
+      "title": "Graduation Cap Toss",
+      "description": "A group of cylinders (students) stand in rows; at a trigger moment, their cap boxes detach, fly upward in slightly randomized arcs, occasionally collide and bounce midair, leaving faint trails, then fall back and scatter across the ground.",
+      "seed": "Graduation Cap Toss: A group of cylinders (students) stand in rows; at a trigger moment, their cap boxes detach, fly upward in slightly randomized arcs, occasionally collide and bounce midair, leaving faint trails, then fall back and scatter across the ground."
+    },
+    {
+      "number": "18",
+      "title": "Ritualized Water Pouring Over Statues",
+      "description": "A row of statues (simplified humanoid shapes) each under a tilted bowl; water particles pour, run along the statue’s surfaces, accumulate in basins, and overflow into channels that merge and branch, with color changes representing “blessing intensity.”",
+      "seed": "Ritualized Water Pouring Over Statues: A row of statues (simplified humanoid shapes) each under a tilted bowl; water particles pour, run along the statue’s surfaces, accumulate in basins, and overflow into channels that merge and branch, with color changes representing “blessing intensity.”"
+    },
+    {
+      "number": "19",
+      "title": "Digital Data Rite of Passage",
+      "description": "Small data cubes move along a conveyor, passing through three ceremonial “gates” (frames) that scan, mark with glowing stripes, and sometimes split or merge the cubes, while a side panel shows counters of how many successfully complete the rite.",
+      "seed": "Digital Data Rite of Passage: Small data cubes move along a conveyor, passing through three ceremonial “gates” (frames) that scan, mark with glowing stripes, and sometimes split or merge the cubes, while a side panel shows counters of how many successfully complete the rite."
+    },
+    {
+      "number": "20",
+      "title": "Ritual Flag-Raising Ceremony",
+      "description": "A flag (thin, flexible rectangle) attaches to a rope and is pulled upward along a tall pole by a moving pulley object; the flag flutters via oscillations, occasionally wrapping slightly around the pole, while spectators’ spheres change color as the flag reaches each height mark.",
+      "seed": "Ritual Flag-Raising Ceremony: A flag (thin, flexible rectangle) attaches to a rope and is pulled upward along a tall pole by a moving pulley object; the flag flutters via oscillations, occasionally wrapping slightly around the pole, while spectators’ spheres change color as the flag reaches each height mark."
+    },
+    {
+      "number": "21",
+      "title": "Altar of Rotating Offerings",
+      "description": "A stepped altar with several platforms where offerings (various shaped solids) orbit slowly, occasionally descending to a lower step, merging with others of similar color, and then re-ascending, leaving faint glowing rings marking previous paths.",
+      "seed": "Altar of Rotating Offerings: A stepped altar with several platforms where offerings (various shaped solids) orbit slowly, occasionally descending to a lower step, merging with others of similar color, and then re-ascending, leaving faint glowing rings marking previous paths."
+    },
+    {
+      "number": "22",
+      "title": "Ritual Book Opening and Light Emission",
+      "description": "A large closed book (two hinged boxes) on a pedestal slowly opens; as the angle increases, beams of light and particle glyphs rise from its pages, branching into paths that orbit the book, collide, and merge into larger glowing clusters above.",
+      "seed": "Ritual Book Opening and Light Emission: A large closed book (two hinged boxes) on a pedestal slowly opens; as the angle increases, beams of light and particle glyphs rise from its pages, branching into paths that orbit the book, collide, and merge into larger glowing clusters above."
+    },
+    {
+      "number": "23",
+      "title": "Ceremonial Drum-Triggered Fireworks",
+      "description": "A central drum is struck in patterns by a rotating arm; each strike launches a glowing sphere upward that splits at a set height into multiple colored particles, which radiate, fade, and leave trails, synchronized with the drum’s impact timing.",
+      "seed": "Ceremonial Drum-Triggered Fireworks: A central drum is struck in patterns by a rotating arm; each strike launches a glowing sphere upward that splits at a set height into multiple colored particles, which radiate, fade, and leave trails, synchronized with the drum’s impact timing."
+    },
+    {
+      "number": "24",
+      "title": "Ancestral Tree Lighting Ceremony",
+      "description": "A branching tree structure made of cylinders with unlit spherical “ancestor nodes”; a glowing “memory” particle travels along branches, lighting each node as it reaches it, causing the node to pulse and send out smaller particles that drift down like glowing leaves.",
+      "seed": "Ancestral Tree Lighting Ceremony: A branching tree structure made of cylinders with unlit spherical “ancestor nodes”; a glowing “memory” particle travels along branches, lighting each node as it reaches it, causing the node to pulse and send out smaller particles that drift down like glowing leaves."
+    },
+    {
+      "number": "25",
+      "title": "Ritual Circle of Stones and Orbiting Orbs",
+      "description": "A ring of stationary stones surrounds a central stone; small glowing orbs orbit the center at different radii, occasionally docking with stones to recharge (brightening them) before detaching to continue orbiting, leaving trails that map out their ceremonial paths.",
+      "seed": "Ritual Circle of Stones and Orbiting Orbs: A ring of stationary stones surrounds a central stone; small glowing orbs orbit the center at different radii, occasionally docking with stones to recharge (brightening them) before detaching to continue orbiting, leaving trails that map out their ceremonial paths."
+    }
+  ],
+  "raw_output": "Here are strong **Rituals and ceremonies simulation inputs** you can plug into your prompt:\n\n1. **Temple Courtyard Procession**\n   A rectangular temple courtyard with a central altar and a ring of colored spheres (people) that slowly orbit the altar, occasionally stopping to attach glowing offerings (small cubes) that stack, while incense particles rise and fade above the altar.\n\n2. **Candlelight Vigil Wave**\n   A crowd of upright cylinders (participants) arranged in a grid each holding a small glowing sphere (candle) that can be lit in sequence, creating moving waves of light, with flickering transparency and labels showing “lit” or “unlit” states.\n\n3. **Ritual Drum Circle Resonance**\n   A circle of drums (short cylinders) on the ground that are struck by rotating mallets, causing expanding transparent rings to pulse outward, collide, overlap, and blend colors to visualize sound intensity at different positions.\n\n4. **Ceremonial Lantern Release**\n   A platform where participants (small cylinders) release glowing paper lanterns (transparent boxes) that detach, float upward with trails, drift with a gentle wind, occasionally collide and bounce apart, and gradually fade as they ascend.\n\n5. **Totem Pole Carving Ritual**\n   A tall wooden totem pole (stacked cylinders) at the center with carving tools (small boxes) that move along its surface, “carving” by changing color and texture patches, while wood particles fall, bounce, and accumulate in a pile at the base.\n\n6. **Ritual Dance Around a Fire**\n   A central flickering fire (animated cone with particle sparks) surrounded by colored spheres that move in patterned orbits, sometimes branching into smaller groups, changing color intensity based on their distance from the fire and leaving motion trails.\n\n7. **Tea Ceremony Flow**\n   A tea bowl (shallow transparent cylinder) with a stream of liquid particles pouring in from a tilted kettle, swirling, mixing different colors, and forming layers, while a whisk object stirs in set patterns that generate visible vortices and trails.\n\n8. **Rising Incense Spiral**\n   A burning incense stick (thin cylinder) emits spiraling smoke particles that rise, diffuse, and fade, with gentle airflow changing the spiral’s tilt, and a meter on the side showing incense length decreasing as ash accumulates and occasionally falls.\n\n9. **Wedding Ring Exchange**\n   Two humanoid outlines made from simple spheres and cylinders extend their arms; glowing ring toruses detach from one hand, move along a curved path, collide gently with the partner’s finger cylinder, and then attach, changing color and starting a soft pulsing glow.\n\n10. **Monastic Bell and Walking Meditation**\n    A large bell (hollow cylinder) is struck by a swinging striker, emitting expanding transparent shells that propagate through a cloister walkway where spheres (monks) walk in rectangles, adjusting their speed and alignment when sound waves pass through them.\n\n11. **Harvest Offering Ceremony**\n    Colorful fruit-like spheres roll down ramps into a central offering basket (bowl), stacking and occasionally bouncing out, while a hovering “blessing” light cone scans over them, changing their color saturation to indicate consecrated vs. unconsecrated offerings.\n\n12. **Sand Mandala Creation and Dissolution**\n    A flat circular plane on which colored sand particles are dropped from moving nozzles in intricate patterns; once the mandala is complete, a central sweeping tool rotates inwards, mixing and erasing patterns as particles spill over the edges into a collection tray.\n\n13. **Mask-Wearing Initiation**\n    A line of humanoid frames moves toward a rack of masks (decorated plates); each mask detaches, rotates, and wraps onto a face, altering the figure’s color and trail style, then later detaches and returns to the rack as the figure exits.\n\n14. **Torch Relay Ceremony**\n    A chain of runners (cylinders with legs) move along a track, each holding an unlit torch that lights up when it collides with the flame of the previous runner’s torch, transferring a small fire particle system that changes color as it’s passed along.\n\n15. **Microscopic Cell Ritual: Apoptosis Ceremony**\n    A cluster of semi-transparent cells (spheres) surrounding a central “leader” cell that pulses; signaling particles are emitted, attach to receptors on neighbors, and trigger them to change color and then split into fragments that slowly dissolve, visualizing a ritualized cell death.\n\n16. **Seasonal Stone Circle Alignment**\n    A ring of standing stones with a moving sun-sphere that orbits around; at certain alignments, light beams pass through gaps between stones and create bright lines on the ground plane, with labels marking solstice and equinox positions.\n\n17. **Graduation Cap Toss**\n    A group of cylinders (students) stand in rows; at a trigger moment, their cap boxes detach, fly upward in slightly randomized arcs, occasionally collide and bounce midair, leaving faint trails, then fall back and scatter across the ground.\n\n18. **Ritualized Water Pouring Over Statues**\n    A row of statues (simplified humanoid shapes) each under a tilted bowl; water particles pour, run along the statue’s surfaces, accumulate in basins, and overflow into channels that merge and branch, with color changes representing “blessing intensity.”\n\n19. **Digital Data Rite of Passage**\n    Small data cubes move along a conveyor, passing through three ceremonial “gates” (frames) that scan, mark with glowing stripes, and sometimes split or merge the cubes, while a side panel shows counters of how many successfully complete the rite.\n\n20. **Ritual Flag-Raising Ceremony**\n    A flag (thin, flexible rectangle) attaches to a rope and is pulled upward along a tall pole by a moving pulley object; the flag flutters via oscillations, occasionally wrapping slightly around the pole, while spectators’ spheres change color as the flag reaches each height mark.\n\n21. **Altar of Rotating Offerings**\n    A stepped altar with several platforms where offerings (various shaped solids) orbit slowly, occasionally descending to a lower step, merging with others of similar color, and then re-ascending, leaving faint glowing rings marking previous paths.\n\n22. **Ritual Book Opening and Light Emission**\n    A large closed book (two hinged boxes) on a pedestal slowly opens; as the angle increases, beams of light and particle glyphs rise from its pages, branching into paths that orbit the book, collide, and merge into larger glowing clusters above.\n\n23. **Ceremonial Drum-Triggered Fireworks**\n    A central drum is struck in patterns by a rotating arm; each strike launches a glowing sphere upward that splits at a set height into multiple colored particles, which radiate, fade, and leave trails, synchronized with the drum’s impact timing.\n\n24. **Ancestral Tree Lighting Ceremony**\n    A branching tree structure made of cylinders with unlit spherical “ancestor nodes”; a glowing “memory” particle travels along branches, lighting each node as it reaches it, causing the node to pulse and send out smaller particles that drift down like glowing leaves.\n\n25. **Ritual Circle of Stones and Orbiting Orbs**\n    A ring of stationary stones surrounds a central stone; small glowing orbs orbit the center at different radii, occasionally docking with stones to recharge (brightening them) before detaching to continue orbiting, leaving trails that map out their ceremonial paths."
+}

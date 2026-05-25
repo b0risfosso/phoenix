@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Solar wind",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:40:19",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Solar Wind Stream Past a Magnetized Earth",
+      "description": "A glowing yellow “solar wind” of moving particle spheres streams from a bright solar disc toward a blue Earth sphere with a transparent magnetic field bubble, where particles are deflected into curved trajectories, trapped in donut-shaped radiation belts, or collide with the atmosphere and trigger aurora-like curtains of shifting color near the poles.",
+      "seed": "Solar Wind Stream Past a Magnetized Earth: A glowing yellow “solar wind” of moving particle spheres streams from a bright solar disc toward a blue Earth sphere with a transparent magnetic field bubble, where particles are deflected into curved trajectories, trapped in donut-shaped radiation belts, or collide with the atmosphere and trigger aurora-like curtains of shifting color near the poles."
+    },
+    {
+      "number": "2",
+      "title": "Solar Wind Pressure Sculpting a Comet Tail",
+      "description": "A dusty comet nucleus ball orbits a pale Sun while a constant solar wind of small particles and arrows pushes out two semi-transparent tails (ion tail glowing blue and dust tail white) that always stream away from the Sun, with particles detaching from the comet and being swept into long, curved trails.",
+      "seed": "Solar Wind Pressure Sculpting a Comet Tail: A dusty comet nucleus ball orbits a pale Sun while a constant solar wind of small particles and arrows pushes out two semi-transparent tails (ion tail glowing blue and dust tail white) that always stream away from the Sun, with particles detaching from the comet and being swept into long, curved trails."
+    },
+    {
+      "number": "3",
+      "title": "Magnetic Field Lines and Solar Wind Reconnection",
+      "description": "A section of the Sun emits arched, semi-transparent magnetic field tubes while a flow of charged solar wind particles approaches Earth’s magnetosphere; field lines bend, merge, and reconnect, flinging particle clouds along newly formed field lines that pulse and change color where reconnection occurs.",
+      "seed": "Magnetic Field Lines and Solar Wind Reconnection: A section of the Sun emits arched, semi-transparent magnetic field tubes while a flow of charged solar wind particles approaches Earth’s magnetosphere; field lines bend, merge, and reconnect, flinging particle clouds along newly formed field lines that pulse and change color where reconnection occurs."
+    },
+    {
+      "number": "4",
+      "title": "Solar Wind Eroding a Planet Without a Magnetic Field",
+      "description": "A rocky, atmosphere-wrapped planet without a magnetosphere is bombarded by a dense stream of solar wind particles that strip away atmospheric particles, which detach and stream off into space in colored trails, while a side meter tracks atmospheric loss over time.",
+      "seed": "Solar Wind Eroding a Planet Without a Magnetic Field: A rocky, atmosphere-wrapped planet without a magnetosphere is bombarded by a dense stream of solar wind particles that strip away atmospheric particles, which detach and stream off into space in colored trails, while a side meter tracks atmospheric loss over time."
+    },
+    {
+      "number": "5",
+      "title": "Solar Wind Driving a Solar Sail Spacecraft",
+      "description": "A thin, reflective, square solar sail plane orbits a bright Sun while a stream of solar wind particles collides with its surface, transferring momentum and slowly changing the spacecraft’s trajectory, with vector arrows and trails showing changing velocity and adjustable sail tilt.",
+      "seed": "Solar Wind Driving a Solar Sail Spacecraft: A thin, reflective, square solar sail plane orbits a bright Sun while a stream of solar wind particles collides with its surface, transferring momentum and slowly changing the spacecraft’s trajectory, with vector arrows and trails showing changing velocity and adjustable sail tilt."
+    },
+    {
+      "number": "6",
+      "title": "Heliosphere Bubble in the Interstellar Medium",
+      "description": "A glowing yellow Sun at the center emits expanding solar wind particles that form a large transparent bubble (the heliosphere) pushing against a contrasting flow of interstellar medium particles, with a boundary surface that ripples, compresses, and shifts as solar wind intensity is increased or decreased by a control slider.",
+      "seed": "Heliosphere Bubble in the Interstellar Medium: A glowing yellow Sun at the center emits expanding solar wind particles that form a large transparent bubble (the heliosphere) pushing against a contrasting flow of interstellar medium particles, with a boundary surface that ripples, compresses, and shifts as solar wind intensity is increased or decreased by a control slider."
+    },
+    {
+      "number": "7",
+      "title": "Solar Wind and Polar Aurora Curtains",
+      "description": "A tilted Earth with visible magnetic field lines is bathed in a steady solar wind; some charged particles spiral along field lines and collide with the polar upper atmosphere, spawning vertical, semi-transparent aurora sheets that glow green, purple, and red and dance, fade, and reform with particle impacts.",
+      "seed": "Solar Wind and Polar Aurora Curtains: A tilted Earth with visible magnetic field lines is bathed in a steady solar wind; some charged particles spiral along field lines and collide with the polar upper atmosphere, spawning vertical, semi-transparent aurora sheets that glow green, purple, and red and dance, fade, and reform with particle impacts."
+    },
+    {
+      "number": "8",
+      "title": "Coronal Mass Ejection Blasting Past Planets",
+      "description": "A large, bright CME cloud erupts from the Sun as an expanding shell of glowing particles and semi-transparent plasma, engulfing and compressing the magnetospheres of several orbiting planets, causing their magnetic bubbles to squash, oscillate, and release bursts of trapped particles trailing behind.",
+      "seed": "Coronal Mass Ejection Blasting Past Planets: A large, bright CME cloud erupts from the Sun as an expanding shell of glowing particles and semi-transparent plasma, engulfing and compressing the magnetospheres of several orbiting planets, causing their magnetic bubbles to squash, oscillate, and release bursts of trapped particles trailing behind."
+    },
+    {
+      "number": "9",
+      "title": "Solar Wind Charging and Deflecting a Lunar Dust Cloud",
+      "description": "A gray Moon sphere with a low, weak exosphere is bombarded by solar wind particles that charge dust grains on the surface; charged dust spheres detach, float, and hover above the surface, forming a tenuous dust halo that shifts toward or away from the Sun depending on wind direction and strength.",
+      "seed": "Solar Wind Charging and Deflecting a Lunar Dust Cloud: A gray Moon sphere with a low, weak exosphere is bombarded by solar wind particles that charge dust grains on the surface; charged dust spheres detach, float, and hover above the surface, forming a tenuous dust halo that shifts toward or away from the Sun depending on wind direction and strength."
+    },
+    {
+      "number": "10",
+      "title": "Solar Wind Interaction with a Planetary Ring System",
+      "description": "A ringed planet sits in a mild solar wind stream, with ring particles represented by small spheres; solar wind gradually charges and perturbs the outer rings, causing some particles to spiral inward or outward, clump, collide, and scatter, leaving bright trails where they cross the planetary magnetic field.",
+      "seed": "Solar Wind Interaction with a Planetary Ring System: A ringed planet sits in a mild solar wind stream, with ring particles represented by small spheres; solar wind gradually charges and perturbs the outer rings, causing some particles to spiral inward or outward, clump, collide, and scatter, leaving bright trails where they cross the planetary magnetic field."
+    },
+    {
+      "number": "11",
+      "title": "Solar Wind as an Interplanetary Weather System",
+      "description": "A top-down view of the inner solar system shows the Sun at the center and several planets orbiting, while semi-transparent “gusts” and streams of solar wind sweep outward as rotating spiral arms, occasionally intensifying into bright patches that slam into planets and temporarily brighten their magnetospheres.",
+      "seed": "Solar Wind as an Interplanetary Weather System: A top-down view of the inner solar system shows the Sun at the center and several planets orbiting, while semi-transparent “gusts” and streams of solar wind sweep outward as rotating spiral arms, occasionally intensifying into bright patches that slam into planets and temporarily brighten their magnetospheres."
+    },
+    {
+      "number": "12",
+      "title": "Solar Wind Deflection by an Artificial Magnetic Shield",
+      "description": "A small colony habitat near Mars is protected by a simulated artificial magnetic dipole field; solar wind particles approach and either get deflected around the field, spiral along artificial field lines, or hit unshielded parts of the habitat, with color-coded impact counts displayed as dynamic labels.",
+      "seed": "Solar Wind Deflection by an Artificial Magnetic Shield: A small colony habitat near Mars is protected by a simulated artificial magnetic dipole field; solar wind particles approach and either get deflected around the field, spiral along artificial field lines, or hit unshielded parts of the habitat, with color-coded impact counts displayed as dynamic labels."
+    },
+    {
+      "number": "13",
+      "title": "Solar Wind Sculpting a Planetary Magnetotail",
+      "description": "A magnetic planet sits in a continuous solar wind stream, with its dayside field compressed and a long magnetotail stretching away; particle tracers show solar wind entering the tail, reconnecting, and accelerating back toward the planet or out into space, with the tail shape flexing and waving over time.",
+      "seed": "Solar Wind Sculpting a Planetary Magnetotail: A magnetic planet sits in a continuous solar wind stream, with its dayside field compressed and a long magnetotail stretching away; particle tracers show solar wind entering the tail, reconnecting, and accelerating back toward the planet or out into space, with the tail shape flexing and waving over time."
+    },
+    {
+      "number": "14",
+      "title": "Solar Wind Ionization of a Cometary Atmosphere",
+      "description": "A comet approaches the Sun and grows a fuzzy, semi-transparent coma of neutral gas; incoming solar wind particles ionize some of these gas spheres, changing their color and causing them to suddenly accelerate along magnetic field-aligned paths, separating into distinct ion and neutral components.",
+      "seed": "Solar Wind Ionization of a Cometary Atmosphere: A comet approaches the Sun and grows a fuzzy, semi-transparent coma of neutral gas; incoming solar wind particles ionize some of these gas spheres, changing their color and causing them to suddenly accelerate along magnetic field-aligned paths, separating into distinct ion and neutral components."
+    },
+    {
+      "number": "15",
+      "title": "Solar Wind Pressure on a Space Station Radiator System",
+      "description": "A rotating space station with extended thin radiator panels experiences a variable solar wind; as wind direction and intensity sliders change, the panels flex, twist, or fold automatically to reduce stress, with vectors indicating pressure on each panel and trails showing the station’s slow orbital drift.",
+      "seed": "Solar Wind Pressure on a Space Station Radiator System: A rotating space station with extended thin radiator panels experiences a variable solar wind; as wind direction and intensity sliders change, the panels flex, twist, or fold automatically to reduce stress, with vectors indicating pressure on each panel and trails showing the station’s slow orbital drift."
+    },
+    {
+      "number": "16",
+      "title": "Solar Wind Feeding a Planetary Bow Shock",
+      "description": "A 3D view of a planet’s magnetosphere shows solar wind particles approaching and forming a curved bow shock surface where their direction and speed abruptly change; the simulation colors particles before and after the shock differently and uses faint surfaces to visualize the shock and magnetopause layers.",
+      "seed": "Solar Wind Feeding a Planetary Bow Shock: A 3D view of a planet’s magnetosphere shows solar wind particles approaching and forming a curved bow shock surface where their direction and speed abruptly change; the simulation colors particles before and after the shock differently and uses faint surfaces to visualize the shock and magnetopause layers."
+    },
+    {
+      "number": "17",
+      "title": "Solar Wind Driving a Magnetic Flux Rope Eruption on the Sun",
+      "description": "A segment of the solar surface contains a twisted magnetic flux rope visualized as a coil of glowing tubes; as solar wind and underlying magnetic motion stress the rope, it slowly rises, writhes, and finally erupts, releasing a burst of particles outward while the rope untwists and stretches into space.",
+      "seed": "Solar Wind Driving a Magnetic Flux Rope Eruption on the Sun: A segment of the solar surface contains a twisted magnetic flux rope visualized as a coil of glowing tubes; as solar wind and underlying magnetic motion stress the rope, it slowly rises, writhes, and finally erupts, releasing a burst of particles outward while the rope untwists and stretches into space."
+    },
+    {
+      "number": "18",
+      "title": "Solar Wind Deflection Around an Asteroid Swarm",
+      "description": "A cluster of irregular gray asteroid chunks drifts near the Sun while solar wind particles stream past; individual asteroids generate tiny wake regions where the particle density dips, and an adjustable “magnetic coating” on selected asteroids creates miniature magnetospheres that carve distinct gaps in the flow.",
+      "seed": "Solar Wind Deflection Around an Asteroid Swarm: A cluster of irregular gray asteroid chunks drifts near the Sun while solar wind particles stream past; individual asteroids generate tiny wake regions where the particle density dips, and an adjustable “magnetic coating” on selected asteroids creates miniature magnetospheres that carve distinct gaps in the flow."
+    },
+    {
+      "number": "19",
+      "title": "Solar Wind as a River Pushing Charged Boats",
+      "description": "A metaphorical scene where glowing solar wind particles form a flowing “river” in space, pushing small charged “boats” (cubes) that change direction and speed based on their charge and orientation, leaving colored trails and bouncing off invisible field barriers that can be toggled on or off.",
+      "seed": "Solar Wind as a River Pushing Charged Boats: A metaphorical scene where glowing solar wind particles form a flowing “river” in space, pushing small charged “boats” (cubes) that change direction and speed based on their charge and orientation, leaving colored trails and bouncing off invisible field barriers that can be toggled on or off."
+    },
+    {
+      "number": "20",
+      "title": "Solar Wind Interacting with an Exoplanet’s Escaping Atmosphere",
+      "description": "A close-in exoplanet near a bright star has a puffed, semi-transparent atmosphere that streams toward space; solar wind particles strip and accelerate atmospheric particles into a comet-like tail that wraps behind the planet, while labels show mass loss rate and tail length changing with star-planet distance.",
+      "seed": "Solar Wind Interacting with an Exoplanet’s Escaping Atmosphere: A close-in exoplanet near a bright star has a puffed, semi-transparent atmosphere that streams toward space; solar wind particles strip and accelerate atmospheric particles into a comet-like tail that wraps behind the planet, while labels show mass loss rate and tail length changing with star-planet distance."
+    },
+    {
+      "number": "21",
+      "title": "Solar Wind Charging a Dusty Plasma Cloud",
+      "description": "A free-floating cloud of neutral dust spheres near a star is bombarded by solar wind particles; dust grains randomly gain or lose charge, change color according to charge sign, and start to repel or attract one another, forming clumps and voids while the whole cloud is slowly pushed outward.",
+      "seed": "Solar Wind Charging a Dusty Plasma Cloud: A free-floating cloud of neutral dust spheres near a star is bombarded by solar wind particles; dust grains randomly gain or lose charge, change color according to charge sign, and start to repel or attract one another, forming clumps and voids while the whole cloud is slowly pushed outward."
+    },
+    {
+      "number": "22",
+      "title": "Solar Wind and a Rotating Magnetic Dipole in Empty Space",
+      "description": "A bare rotating magnetic dipole (like a pulsar analog) sits at the center of a solar wind flow; field lines sweep through space while particles spiral and accelerate along them, forming twin jets that pulse with the rotation and leave narrow, luminous trails extending far into the scene.",
+      "seed": "Solar Wind and a Rotating Magnetic Dipole in Empty Space: A bare rotating magnetic dipole (like a pulsar analog) sits at the center of a solar wind flow; field lines sweep through space while particles spiral and accelerate along them, forming twin jets that pulse with the rotation and leave narrow, luminous trails extending far into the scene."
+    },
+    {
+      "number": "23",
+      "title": "Solar Wind and Plasma Wake Behind a Spacecraft",
+      "description": "A small spacecraft model flies through a solar wind stream, with particles colliding with a forward-facing shield and forming a compressed region, while behind the craft a low-density wake forms where fewer particles pass; toggling thrusters changes its orientation and modifies the shape of the wake.",
+      "seed": "Solar Wind and Plasma Wake Behind a Spacecraft: A small spacecraft model flies through a solar wind stream, with particles colliding with a forward-facing shield and forming a compressed region, while behind the craft a low-density wake forms where fewer particles pass; toggling thrusters changes its orientation and modifies the shape of the wake."
+    },
+    {
+      "number": "24",
+      "title": "Solar Wind as Musical Particles Driving Visual Waves",
+      "description": "A symbolic simulation where solar wind particles with different “energies” (colors) strike a long, semi-transparent membrane plane that ripples and sends 3D wavefronts across space, with each particle impact generating a labeled frequency and amplitude, visualized as expanding rings and glow pulses.",
+      "seed": "Solar Wind as Musical Particles Driving Visual Waves: A symbolic simulation where solar wind particles with different “energies” (colors) strike a long, semi-transparent membrane plane that ripples and sends 3D wavefronts across space, with each particle impact generating a labeled frequency and amplitude, visualized as expanding rings and glow pulses."
+    },
+    {
+      "number": "25",
+      "title": "Solar Wind–Driven Magnetic Storm on Earth",
+      "description": "A time-accelerated view of Earth’s magnetosphere under a strong solar wind storm shows field lines shaking, thickening current sheets, and sudden bursts of trapped particles being released toward the atmosphere, lighting up auroral ovals that expand, brighten, and shift while an on-screen “storm index” meter climbs.",
+      "seed": "Solar Wind–Driven Magnetic Storm on Earth: A time-accelerated view of Earth’s magnetosphere under a strong solar wind storm shows field lines shaking, thickening current sheets, and sudden bursts of trapped particles being released toward the atmosphere, lighting up auroral ovals that expand, brighten, and shift while an on-screen “storm index” meter climbs."
+    }
+  ],
+  "raw_output": "Here are strong **Solar wind simulation inputs** you can plug into your prompt:\n\n1. **Solar Wind Stream Past a Magnetized Earth**\n   A glowing yellow “solar wind” of moving particle spheres streams from a bright solar disc toward a blue Earth sphere with a transparent magnetic field bubble, where particles are deflected into curved trajectories, trapped in donut-shaped radiation belts, or collide with the atmosphere and trigger aurora-like curtains of shifting color near the poles.\n\n2. **Solar Wind Pressure Sculpting a Comet Tail**\n   A dusty comet nucleus ball orbits a pale Sun while a constant solar wind of small particles and arrows pushes out two semi-transparent tails (ion tail glowing blue and dust tail white) that always stream away from the Sun, with particles detaching from the comet and being swept into long, curved trails.\n\n3. **Magnetic Field Lines and Solar Wind Reconnection**\n   A section of the Sun emits arched, semi-transparent magnetic field tubes while a flow of charged solar wind particles approaches Earth’s magnetosphere; field lines bend, merge, and reconnect, flinging particle clouds along newly formed field lines that pulse and change color where reconnection occurs.\n\n4. **Solar Wind Eroding a Planet Without a Magnetic Field**\n   A rocky, atmosphere-wrapped planet without a magnetosphere is bombarded by a dense stream of solar wind particles that strip away atmospheric particles, which detach and stream off into space in colored trails, while a side meter tracks atmospheric loss over time.\n\n5. **Solar Wind Driving a Solar Sail Spacecraft**\n   A thin, reflective, square solar sail plane orbits a bright Sun while a stream of solar wind particles collides with its surface, transferring momentum and slowly changing the spacecraft’s trajectory, with vector arrows and trails showing changing velocity and adjustable sail tilt.\n\n6. **Heliosphere Bubble in the Interstellar Medium**\n   A glowing yellow Sun at the center emits expanding solar wind particles that form a large transparent bubble (the heliosphere) pushing against a contrasting flow of interstellar medium particles, with a boundary surface that ripples, compresses, and shifts as solar wind intensity is increased or decreased by a control slider.\n\n7. **Solar Wind and Polar Aurora Curtains**\n   A tilted Earth with visible magnetic field lines is bathed in a steady solar wind; some charged particles spiral along field lines and collide with the polar upper atmosphere, spawning vertical, semi-transparent aurora sheets that glow green, purple, and red and dance, fade, and reform with particle impacts.\n\n8. **Coronal Mass Ejection Blasting Past Planets**\n   A large, bright CME cloud erupts from the Sun as an expanding shell of glowing particles and semi-transparent plasma, engulfing and compressing the magnetospheres of several orbiting planets, causing their magnetic bubbles to squash, oscillate, and release bursts of trapped particles trailing behind.\n\n9. **Solar Wind Charging and Deflecting a Lunar Dust Cloud**\n   A gray Moon sphere with a low, weak exosphere is bombarded by solar wind particles that charge dust grains on the surface; charged dust spheres detach, float, and hover above the surface, forming a tenuous dust halo that shifts toward or away from the Sun depending on wind direction and strength.\n\n10. **Solar Wind Interaction with a Planetary Ring System**\n    A ringed planet sits in a mild solar wind stream, with ring particles represented by small spheres; solar wind gradually charges and perturbs the outer rings, causing some particles to spiral inward or outward, clump, collide, and scatter, leaving bright trails where they cross the planetary magnetic field.\n\n11. **Solar Wind as an Interplanetary Weather System**\n    A top-down view of the inner solar system shows the Sun at the center and several planets orbiting, while semi-transparent “gusts” and streams of solar wind sweep outward as rotating spiral arms, occasionally intensifying into bright patches that slam into planets and temporarily brighten their magnetospheres.\n\n12. **Solar Wind Deflection by an Artificial Magnetic Shield**\n    A small colony habitat near Mars is protected by a simulated artificial magnetic dipole field; solar wind particles approach and either get deflected around the field, spiral along artificial field lines, or hit unshielded parts of the habitat, with color-coded impact counts displayed as dynamic labels.\n\n13. **Solar Wind Sculpting a Planetary Magnetotail**\n    A magnetic planet sits in a continuous solar wind stream, with its dayside field compressed and a long magnetotail stretching away; particle tracers show solar wind entering the tail, reconnecting, and accelerating back toward the planet or out into space, with the tail shape flexing and waving over time.\n\n14. **Solar Wind Ionization of a Cometary Atmosphere**\n    A comet approaches the Sun and grows a fuzzy, semi-transparent coma of neutral gas; incoming solar wind particles ionize some of these gas spheres, changing their color and causing them to suddenly accelerate along magnetic field-aligned paths, separating into distinct ion and neutral components.\n\n15. **Solar Wind Pressure on a Space Station Radiator System**\n    A rotating space station with extended thin radiator panels experiences a variable solar wind; as wind direction and intensity sliders change, the panels flex, twist, or fold automatically to reduce stress, with vectors indicating pressure on each panel and trails showing the station’s slow orbital drift.\n\n16. **Solar Wind Feeding a Planetary Bow Shock**\n    A 3D view of a planet’s magnetosphere shows solar wind particles approaching and forming a curved bow shock surface where their direction and speed abruptly change; the simulation colors particles before and after the shock differently and uses faint surfaces to visualize the shock and magnetopause layers.\n\n17. **Solar Wind Driving a Magnetic Flux Rope Eruption on the Sun**\n    A segment of the solar surface contains a twisted magnetic flux rope visualized as a coil of glowing tubes; as solar wind and underlying magnetic motion stress the rope, it slowly rises, writhes, and finally erupts, releasing a burst of particles outward while the rope untwists and stretches into space.\n\n18. **Solar Wind Deflection Around an Asteroid Swarm**\n    A cluster of irregular gray asteroid chunks drifts near the Sun while solar wind particles stream past; individual asteroids generate tiny wake regions where the particle density dips, and an adjustable “magnetic coating” on selected asteroids creates miniature magnetospheres that carve distinct gaps in the flow.\n\n19. **Solar Wind as a River Pushing Charged Boats**\n    A metaphorical scene where glowing solar wind particles form a flowing “river” in space, pushing small charged “boats” (cubes) that change direction and speed based on their charge and orientation, leaving colored trails and bouncing off invisible field barriers that can be toggled on or off.\n\n20. **Solar Wind Interacting with an Exoplanet’s Escaping Atmosphere**\n    A close-in exoplanet near a bright star has a puffed, semi-transparent atmosphere that streams toward space; solar wind particles strip and accelerate atmospheric particles into a comet-like tail that wraps behind the planet, while labels show mass loss rate and tail length changing with star-planet distance.\n\n21. **Solar Wind Charging a Dusty Plasma Cloud**\n    A free-floating cloud of neutral dust spheres near a star is bombarded by solar wind particles; dust grains randomly gain or lose charge, change color according to charge sign, and start to repel or attract one another, forming clumps and voids while the whole cloud is slowly pushed outward.\n\n22. **Solar Wind and a Rotating Magnetic Dipole in Empty Space**\n    A bare rotating magnetic dipole (like a pulsar analog) sits at the center of a solar wind flow; field lines sweep through space while particles spiral and accelerate along them, forming twin jets that pulse with the rotation and leave narrow, luminous trails extending far into the scene.\n\n23. **Solar Wind and Plasma Wake Behind a Spacecraft**\n    A small spacecraft model flies through a solar wind stream, with particles colliding with a forward-facing shield and forming a compressed region, while behind the craft a low-density wake forms where fewer particles pass; toggling thrusters changes its orientation and modifies the shape of the wake.\n\n24. **Solar Wind as Musical Particles Driving Visual Waves**\n    A symbolic simulation where solar wind particles with different “energies” (colors) strike a long, semi-transparent membrane plane that ripples and sends 3D wavefronts across space, with each particle impact generating a labeled frequency and amplitude, visualized as expanding rings and glow pulses.\n\n25. **Solar Wind–Driven Magnetic Storm on Earth**\n    A time-accelerated view of Earth’s magnetosphere under a strong solar wind storm shows field lines shaking, thickening current sheets, and sudden bursts of trapped particles being released toward the atmosphere, lighting up auroral ovals that expand, brighten, and shift while an on-screen “storm index” meter climbs."
+}

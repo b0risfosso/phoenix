@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Fluid flow",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:36:56",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Colored Dye in a 3D Glass Tank",
+      "description": "A transparent box of “water” with small colored dye spheres injected from one corner that slowly spread, mix, and form swirling trails as they are pushed by a gentle, visible velocity field represented by moving arrows.",
+      "seed": "Colored Dye in a 3D Glass Tank: A transparent box of “water” with small colored dye spheres injected from one corner that slowly spread, mix, and form swirling trails as they are pushed by a gentle, visible velocity field represented by moving arrows."
+    },
+    {
+      "number": "2",
+      "title": "Laminar vs Turbulent Pipe Flow",
+      "description": "A long transparent cylinder with particles of two colors entering from one end, first flowing in straight layers (laminar) then transitioning to swirling, colliding turbulent motion as flow speed increases, with a side graph showing flow rate and Reynolds number.",
+      "seed": "Laminar vs Turbulent Pipe Flow: A long transparent cylinder with particles of two colors entering from one end, first flowing in straight layers (laminar) then transitioning to swirling, colliding turbulent motion as flow speed increases, with a side graph showing flow rate and Reynolds number."
+    },
+    {
+      "number": "3",
+      "title": "River Bend and Erosion",
+      "description": "A winding 3D river channel through a sandy terrain block where blue particles flow along the curved path, eroding and carrying away brown “sediment” spheres that detach from the banks and settle in slower zones, gradually reshaping the riverbed.",
+      "seed": "River Bend and Erosion: A winding 3D river channel through a sandy terrain block where blue particles flow along the curved path, eroding and carrying away brown “sediment” spheres that detach from the banks and settle in slower zones, gradually reshaping the riverbed."
+    },
+    {
+      "number": "4",
+      "title": "Blood Flow Through a Branching Artery",
+      "description": "A semi-transparent branching tube (artery) where red and white particles (blood cells) pulse forward with each heartbeat, collide gently with walls, and split at each branch, with labels showing pressure and flow speed that change in real time.",
+      "seed": "Blood Flow Through a Branching Artery: A semi-transparent branching tube (artery) where red and white particles (blood cells) pulse forward with each heartbeat, collide gently with walls, and split at each branch, with labels showing pressure and flow speed that change in real time."
+    },
+    {
+      "number": "5",
+      "title": "Smoke Plume Rising in Still Air",
+      "description": "A small burner on the floor emits gray semi-transparent particle clouds that rise, expand, and slowly mix with the surrounding clear air box, with a faint upward velocity field and temperature-colored particles shifting from red (hot) to blue (cool) as they rise.",
+      "seed": "Smoke Plume Rising in Still Air: A small burner on the floor emits gray semi-transparent particle clouds that rise, expand, and slowly mix with the surrounding clear air box, with a faint upward velocity field and temperature-colored particles shifting from red (hot) to blue (cool) as they rise."
+    },
+    {
+      "number": "6",
+      "title": "Ocean Currents Around an Island",
+      "description": "A large shallow water plane with a central island obstacle where blue flow arrows and neutral tracer particles wrap around the island, detach into swirling vortices in the wake, and gradually mix to form visible spiral patterns.",
+      "seed": "Ocean Currents Around an Island: A large shallow water plane with a central island obstacle where blue flow arrows and neutral tracer particles wrap around the island, detach into swirling vortices in the wake, and gradually mix to form visible spiral patterns."
+    },
+    {
+      "number": "7",
+      "title": "Ink Mixing in a Rotating Cylinder",
+      "description": "A transparent vertical cylinder partially filled with clear fluid where a central rod slowly rotates, dragging in streaks of colored ink droplets that stretch, fold, and wrap into intricate patterns, with trails that fade over time.",
+      "seed": "Ink Mixing in a Rotating Cylinder: A transparent vertical cylinder partially filled with clear fluid where a central rod slowly rotates, dragging in streaks of colored ink droplets that stretch, fold, and wrap into intricate patterns, with trails that fade over time."
+    },
+    {
+      "number": "8",
+      "title": "Ventilation in a Room with Windows and a Fan",
+      "description": "A rectangular room with a door, open window, and ceiling fan where colored airflow particles enter, circulate, and exit, bouncing softly off furniture boxes, with arrows showing airflow lines and labels for high- and low-flow regions.",
+      "seed": "Ventilation in a Room with Windows and a Fan: A rectangular room with a door, open window, and ceiling fan where colored airflow particles enter, circulate, and exit, bouncing softly off furniture boxes, with arrows showing airflow lines and labels for high- and low-flow regions."
+    },
+    {
+      "number": "9",
+      "title": "Hydraulic Jump in a Channel",
+      "description": "A shallow open channel where water represented by blue particles flows from a higher-speed thin region into a slower, deeper region, forming a visible hydraulic jump where particles suddenly rise and churn, with a slider to adjust inflow speed.",
+      "seed": "Hydraulic Jump in a Channel: A shallow open channel where water represented by blue particles flows from a higher-speed thin region into a slower, deeper region, forming a visible hydraulic jump where particles suddenly rise and churn, with a slider to adjust inflow speed."
+    },
+    {
+      "number": "10",
+      "title": "Porous Rock Percolation",
+      "description": "A block of semi-transparent rock filled with irregular solid spheres and voids where colored fluid particles drip in from the top, thread through the pore network, sometimes getting trapped or splitting around obstacles, and slowly dripping out at the bottom.",
+      "seed": "Porous Rock Percolation: A block of semi-transparent rock filled with irregular solid spheres and voids where colored fluid particles drip in from the top, thread through the pore network, sometimes getting trapped or splitting around obstacles, and slowly dripping out at the bottom."
+    },
+    {
+      "number": "11",
+      "title": "3D Fountain with Interacting Jets",
+      "description": "Multiple upward water jets in a plaza pool shoot streams of blue particles that arc, collide in midair, break into droplets, and fall back into a shallow basin where ripples propagate outward on a slightly wavy surface.",
+      "seed": "3D Fountain with Interacting Jets: Multiple upward water jets in a plaza pool shoot streams of blue particles that arc, collide in midair, break into droplets, and fall back into a shallow basin where ripples propagate outward on a slightly wavy surface."
+    },
+    {
+      "number": "12",
+      "title": "Flow Around an Airfoil in a Wind Tunnel",
+      "description": "A wing-shaped solid in the center of a rectangular tunnel with uniform incoming air particles that split around the airfoil, accelerate along the top, form a low-pressure zone, and optionally shed vortices behind the trailing edge, visualized with colored streamlines.",
+      "seed": "Flow Around an Airfoil in a Wind Tunnel: A wing-shaped solid in the center of a rectangular tunnel with uniform incoming air particles that split around the airfoil, accelerate along the top, form a low-pressure zone, and optionally shed vortices behind the trailing edge, visualized with colored streamlines."
+    },
+    {
+      "number": "13",
+      "title": "Microfluidic Mixer Channels",
+      "description": "A transparent chip with tiny branching channels where red and blue fluid streams enter separately, then twist, fold, and merge through a serpentine section, gradually turning purple as mixing increases, with a side meter showing mixing efficiency.",
+      "seed": "Microfluidic Mixer Channels: A transparent chip with tiny branching channels where red and blue fluid streams enter separately, then twist, fold, and merge through a serpentine section, gradually turning purple as mixing increases, with a side meter showing mixing efficiency."
+    },
+    {
+      "number": "14",
+      "title": "Drain Vortex in a Cylindrical Tank",
+      "description": "A cylindrical tank where water particles rotate slowly and drain through a central bottom hole, forming a visible vortex funnel with particles spiraling inward, speeding up near the drain, and leaving a central air core.",
+      "seed": "Drain Vortex in a Cylindrical Tank: A cylindrical tank where water particles rotate slowly and drain through a central bottom hole, forming a visible vortex funnel with particles spiraling inward, speeding up near the drain, and leaving a central air core."
+    },
+    {
+      "number": "15",
+      "title": "Cloud Formation and Rainfall Cycle",
+      "description": "A 3D patch of atmosphere where warm, moist air rises as colored particles, cools and condenses into a semi-transparent cloud volume, then releases blue raindrop particles that fall, bounce off terrain, and evaporate back upwards.",
+      "seed": "Cloud Formation and Rainfall Cycle: A 3D patch of atmosphere where warm, moist air rises as colored particles, cools and condenses into a semi-transparent cloud volume, then releases blue raindrop particles that fall, bounce off terrain, and evaporate back upwards."
+    },
+    {
+      "number": "16",
+      "title": "Traffic as Fluid Flow on a Ring Road",
+      "description": "Cars represented as small blocks move around a circular track behaving like a compressible fluid: when density increases, they slow and bunch up into “shock waves” that propagate backward, with a density heatmap along the ring.",
+      "seed": "Traffic as Fluid Flow on a Ring Road: Cars represented as small blocks move around a circular track behaving like a compressible fluid: when density increases, they slow and bunch up into “shock waves” that propagate backward, with a density heatmap along the ring."
+    },
+    {
+      "number": "17",
+      "title": "Coolant Flow in a 3D Engine Block",
+      "description": "A semi-transparent engine block with internal channels where blue coolant particles circulate, accelerate through narrow sections, and change color toward red as they absorb heat from glowing hot solid regions before exiting to a radiator.",
+      "seed": "Coolant Flow in a 3D Engine Block: A semi-transparent engine block with internal channels where blue coolant particles circulate, accelerate through narrow sections, and change color toward red as they absorb heat from glowing hot solid regions before exiting to a radiator."
+    },
+    {
+      "number": "18",
+      "title": "Crowd Flow Through a Narrow Exit",
+      "description": "Small human-shaped agents move inside a rectangular hall toward a single doorway, flowing like a fluid that compresses, forms queues, and sometimes jams, with color-coded speed and arrows showing local crowd flow direction.",
+      "seed": "Crowd Flow Through a Narrow Exit: Small human-shaped agents move inside a rectangular hall toward a single doorway, flowing like a fluid that compresses, forms queues, and sometimes jams, with color-coded speed and arrows showing local crowd flow direction."
+    },
+    {
+      "number": "19",
+      "title": "Lava Flow Down a Slope",
+      "description": "A sloped terrain where thick orange-red lava particles emerge from a vent, slowly creep downhill, split around rocks, merge in channels, and gradually cool and darken into solidified crust that becomes stationary and redirects subsequent flow.",
+      "seed": "Lava Flow Down a Slope: A sloped terrain where thick orange-red lava particles emerge from a vent, slowly creep downhill, split around rocks, merge in channels, and gradually cool and darken into solidified crust that becomes stationary and redirects subsequent flow."
+    },
+    {
+      "number": "20",
+      "title": "Electrons as Fluid in a Wire Network",
+      "description": "A 3D network of semi-transparent cylindrical wires where glowing particles represent electrons flowing from a high-potential node to a low-potential node, splitting at junctions, with brightness and particle density increasing where “current” is largest.",
+      "seed": "Electrons as Fluid in a Wire Network: A 3D network of semi-transparent cylindrical wires where glowing particles represent electrons flowing from a high-potential node to a low-potential node, splitting at junctions, with brightness and particle density increasing where “current” is largest."
+    },
+    {
+      "number": "21",
+      "title": "Jet Engine Exhaust and Shock Diamonds",
+      "description": "A nozzle at the rear of a simplified jet engine emits hot, fast exhaust particles that expand, form alternating bright and dim zones (shock diamonds), and mix with cooler ambient particles, with temperature-based color gradients and faint pressure waves.",
+      "seed": "Jet Engine Exhaust and Shock Diamonds: A nozzle at the rear of a simplified jet engine emits hot, fast exhaust particles that expand, form alternating bright and dim zones (shock diamonds), and mix with cooler ambient particles, with temperature-based color gradients and faint pressure waves."
+    },
+    {
+      "number": "22",
+      "title": "Siphon Tube Between Two Tanks",
+      "description": "Two transparent tanks at different heights connected by a curved tube where fluid rises inside the tube, then flows from the higher to the lower tank, with tracer particles showing the continuous loop and fluid levels changing over time.",
+      "seed": "Siphon Tube Between Two Tanks: Two transparent tanks at different heights connected by a curved tube where fluid rises inside the tube, then flows from the higher to the lower tank, with tracer particles showing the continuous loop and fluid levels changing over time."
+    },
+    {
+      "number": "23",
+      "title": "Flow Through a Heart Valve",
+      "description": "A simplified beating heart chamber with a flexible semi-transparent valve flap that opens and closes as the chamber contracts and relaxes, allowing red particles to surge through in one direction, briefly reverse near closure, and then stop when the valve seals.",
+      "seed": "Flow Through a Heart Valve: A simplified beating heart chamber with a flexible semi-transparent valve flap that opens and closes as the chamber contracts and relaxes, allowing red particles to surge through in one direction, briefly reverse near closure, and then stop when the valve seals."
+    },
+    {
+      "number": "24",
+      "title": "Oil–Water Separation in a Settling Tank",
+      "description": "A rectangular tank filled with mixed oil and water particles of different colors and densities that separate over time into layers, with lighter oil droplets rising, merging at the top, and heavier water sinking, while a skimmer arm collects the top layer.",
+      "seed": "Oil–Water Separation in a Settling Tank: A rectangular tank filled with mixed oil and water particles of different colors and densities that separate over time into layers, with lighter oil droplets rising, merging at the top, and heavier water sinking, while a skimmer arm collects the top layer."
+    },
+    {
+      "number": "25",
+      "title": "Airflow Around Moving Vehicles in a Tunnel",
+      "description": "Multiple box-shaped vehicles move through a long tunnel while semi-transparent airflow particles stream around them, compress in front, form wakes behind, and swirl in gaps between cars, with color-coded pressure regions along the tunnel walls.",
+      "seed": "Airflow Around Moving Vehicles in a Tunnel: Multiple box-shaped vehicles move through a long tunnel while semi-transparent airflow particles stream around them, compress in front, form wakes behind, and swirl in gaps between cars, with color-coded pressure regions along the tunnel walls."
+    }
+  ],
+  "raw_output": "Here are strong **Fluid flow simulation inputs** you can plug into your prompt:\n\n1. **Colored Dye in a 3D Glass Tank**\n   A transparent box of “water” with small colored dye spheres injected from one corner that slowly spread, mix, and form swirling trails as they are pushed by a gentle, visible velocity field represented by moving arrows.\n\n2. **Laminar vs Turbulent Pipe Flow**\n   A long transparent cylinder with particles of two colors entering from one end, first flowing in straight layers (laminar) then transitioning to swirling, colliding turbulent motion as flow speed increases, with a side graph showing flow rate and Reynolds number.\n\n3. **River Bend and Erosion**\n   A winding 3D river channel through a sandy terrain block where blue particles flow along the curved path, eroding and carrying away brown “sediment” spheres that detach from the banks and settle in slower zones, gradually reshaping the riverbed.\n\n4. **Blood Flow Through a Branching Artery**\n   A semi-transparent branching tube (artery) where red and white particles (blood cells) pulse forward with each heartbeat, collide gently with walls, and split at each branch, with labels showing pressure and flow speed that change in real time.\n\n5. **Smoke Plume Rising in Still Air**\n   A small burner on the floor emits gray semi-transparent particle clouds that rise, expand, and slowly mix with the surrounding clear air box, with a faint upward velocity field and temperature-colored particles shifting from red (hot) to blue (cool) as they rise.\n\n6. **Ocean Currents Around an Island**\n   A large shallow water plane with a central island obstacle where blue flow arrows and neutral tracer particles wrap around the island, detach into swirling vortices in the wake, and gradually mix to form visible spiral patterns.\n\n7. **Ink Mixing in a Rotating Cylinder**\n   A transparent vertical cylinder partially filled with clear fluid where a central rod slowly rotates, dragging in streaks of colored ink droplets that stretch, fold, and wrap into intricate patterns, with trails that fade over time.\n\n8. **Ventilation in a Room with Windows and a Fan**\n   A rectangular room with a door, open window, and ceiling fan where colored airflow particles enter, circulate, and exit, bouncing softly off furniture boxes, with arrows showing airflow lines and labels for high- and low-flow regions.\n\n9. **Hydraulic Jump in a Channel**\n   A shallow open channel where water represented by blue particles flows from a higher-speed thin region into a slower, deeper region, forming a visible hydraulic jump where particles suddenly rise and churn, with a slider to adjust inflow speed.\n\n10. **Porous Rock Percolation**\n    A block of semi-transparent rock filled with irregular solid spheres and voids where colored fluid particles drip in from the top, thread through the pore network, sometimes getting trapped or splitting around obstacles, and slowly dripping out at the bottom.\n\n11. **3D Fountain with Interacting Jets**\n   Multiple upward water jets in a plaza pool shoot streams of blue particles that arc, collide in midair, break into droplets, and fall back into a shallow basin where ripples propagate outward on a slightly wavy surface.\n\n12. **Flow Around an Airfoil in a Wind Tunnel**\n   A wing-shaped solid in the center of a rectangular tunnel with uniform incoming air particles that split around the airfoil, accelerate along the top, form a low-pressure zone, and optionally shed vortices behind the trailing edge, visualized with colored streamlines.\n\n13. **Microfluidic Mixer Channels**\n   A transparent chip with tiny branching channels where red and blue fluid streams enter separately, then twist, fold, and merge through a serpentine section, gradually turning purple as mixing increases, with a side meter showing mixing efficiency.\n\n14. **Drain Vortex in a Cylindrical Tank**\n   A cylindrical tank where water particles rotate slowly and drain through a central bottom hole, forming a visible vortex funnel with particles spiraling inward, speeding up near the drain, and leaving a central air core.\n\n15. **Cloud Formation and Rainfall Cycle**\n   A 3D patch of atmosphere where warm, moist air rises as colored particles, cools and condenses into a semi-transparent cloud volume, then releases blue raindrop particles that fall, bounce off terrain, and evaporate back upwards.\n\n16. **Traffic as Fluid Flow on a Ring Road**\n   Cars represented as small blocks move around a circular track behaving like a compressible fluid: when density increases, they slow and bunch up into “shock waves” that propagate backward, with a density heatmap along the ring.\n\n17. **Coolant Flow in a 3D Engine Block**\n   A semi-transparent engine block with internal channels where blue coolant particles circulate, accelerate through narrow sections, and change color toward red as they absorb heat from glowing hot solid regions before exiting to a radiator.\n\n18. **Crowd Flow Through a Narrow Exit**\n   Small human-shaped agents move inside a rectangular hall toward a single doorway, flowing like a fluid that compresses, forms queues, and sometimes jams, with color-coded speed and arrows showing local crowd flow direction.\n\n19. **Lava Flow Down a Slope**\n   A sloped terrain where thick orange-red lava particles emerge from a vent, slowly creep downhill, split around rocks, merge in channels, and gradually cool and darken into solidified crust that becomes stationary and redirects subsequent flow.\n\n20. **Electrons as Fluid in a Wire Network**\n   A 3D network of semi-transparent cylindrical wires where glowing particles represent electrons flowing from a high-potential node to a low-potential node, splitting at junctions, with brightness and particle density increasing where “current” is largest.\n\n21. **Jet Engine Exhaust and Shock Diamonds**\n   A nozzle at the rear of a simplified jet engine emits hot, fast exhaust particles that expand, form alternating bright and dim zones (shock diamonds), and mix with cooler ambient particles, with temperature-based color gradients and faint pressure waves.\n\n22. **Siphon Tube Between Two Tanks**\n   Two transparent tanks at different heights connected by a curved tube where fluid rises inside the tube, then flows from the higher to the lower tank, with tracer particles showing the continuous loop and fluid levels changing over time.\n\n23. **Flow Through a Heart Valve**\n   A simplified beating heart chamber with a flexible semi-transparent valve flap that opens and closes as the chamber contracts and relaxes, allowing red particles to surge through in one direction, briefly reverse near closure, and then stop when the valve seals.\n\n24. **Oil–Water Separation in a Settling Tank**\n   A rectangular tank filled with mixed oil and water particles of different colors and densities that separate over time into layers, with lighter oil droplets rising, merging at the top, and heavier water sinking, while a skimmer arm collects the top layer.\n\n25. **Airflow Around Moving Vehicles in a Tunnel**\n   Multiple box-shaped vehicles move through a long tunnel while semi-transparent airflow particles stream around them, compress in front, form wakes behind, and swirl in gaps between cars, with color-coded pressure regions along the tunnel walls."
+}

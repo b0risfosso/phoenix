@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Resource competition",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:51:12",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Competing Plant Roots in Shared Soil Volume",
+      "description": "A transparent soil box with multiple colored plant root systems (branching tubes) that grow, branch, and thicken toward nutrient particles, with roots slowing and turning white when they lose resource competition and a side bar chart showing each plant’s total absorbed nutrients.",
+      "seed": "Competing Plant Roots in Shared Soil Volume: A transparent soil box with multiple colored plant root systems (branching tubes) that grow, branch, and thicken toward nutrient particles, with roots slowing and turning white when they lose resource competition and a side bar chart showing each plant’s total absorbed nutrients."
+    },
+    {
+      "number": "2",
+      "title": "Predators Competing Over Prey in a 3D Savannah",
+      "description": "Packs of colored predator spheres roam a light-colored plane with scattered prey cubes that spawn and move randomly, while predators chase, collide, and “consume” prey (prey vanish, predators glow briefly and grow slightly) with trails and a floating label for each pack’s current energy.",
+      "seed": "Predators Competing Over Prey in a 3D Savannah: Packs of colored predator spheres roam a light-colored plane with scattered prey cubes that spawn and move randomly, while predators chase, collide, and “consume” prey (prey vanish, predators glow briefly and grow slightly) with trails and a floating label for each pack’s current energy."
+    },
+    {
+      "number": "3",
+      "title": "Bacteria Competing for Nutrients in a Petri Dish",
+      "description": "A shallow transparent cylinder with different colored bacterial colonies (flattened growing blobs or many small spheres) that spread, overlap, and change growth rate based on nearby floating nutrient particles, with nutrients dissolving into colonies on contact and a heatmap-style floor color showing nutrient density.",
+      "seed": "Bacteria Competing for Nutrients in a Petri Dish: A shallow transparent cylinder with different colored bacterial colonies (flattened growing blobs or many small spheres) that spread, overlap, and change growth rate based on nearby floating nutrient particles, with nutrients dissolving into colonies on contact and a heatmap-style floor color showing nutrient density."
+    },
+    {
+      "number": "4",
+      "title": "Trees Competing for Sunlight in a Forest Canopy",
+      "description": "Cylindrical trunks with branching semi-transparent green canopies grow upward from a shared ground plane, casting soft shadows; branches that stay shaded too long shrink or turn brown while sunlit branches grow, and labels above each tree show its current light capture.",
+      "seed": "Trees Competing for Sunlight in a Forest Canopy: Cylindrical trunks with branching semi-transparent green canopies grow upward from a shared ground plane, casting soft shadows; branches that stay shaded too long shrink or turn brown while sunlit branches grow, and labels above each tree show its current light capture."
+    },
+    {
+      "number": "5",
+      "title": "Fish Schools Competing for Plankton Clouds",
+      "description": "Several differently colored fish schools (small spheres with directional arrows) swim through a light-blue 3D water volume toward drifting plankton clouds (faint green particle clusters), with fish accelerating toward clouds, consuming particles on contact, and leaving fading trails whose brightness reflects recent intake.",
+      "seed": "Fish Schools Competing for Plankton Clouds: Several differently colored fish schools (small spheres with directional arrows) swim through a light-blue 3D water volume toward drifting plankton clouds (faint green particle clusters), with fish accelerating toward clouds, consuming particles on contact, and leaving fading trails whose brightness reflects recent intake."
+    },
+    {
+      "number": "6",
+      "title": "Ant Colonies Competing for Food Sources",
+      "description": "Two or more ant nests at the edges of a plane send out ant agents (tiny spheres) that wander, find food pellets, and bring them back, laying semi-transparent pheromone trails that evaporate over time; trails of competing colonies overlap, and food piles shrink visibly as ants collide with them and detach carrying fragments.",
+      "seed": "Ant Colonies Competing for Food Sources: Two or more ant nests at the edges of a plane send out ant agents (tiny spheres) that wander, find food pellets, and bring them back, laying semi-transparent pheromone trails that evaporate over time; trails of competing colonies overlap, and food piles shrink visibly as ants collide with them and detach carrying fragments."
+    },
+    {
+      "number": "7",
+      "title": "Companies Competing for Market Resources in 3D Space",
+      "description": "Colored corporate “nodes” float at fixed positions in a cube while small resource tokens drift through; each node pulls nearby tokens via glowing connection lines, with tokens accelerating toward the strongest pull, and node sizes and labels updating dynamically to reflect captured market share.",
+      "seed": "Companies Competing for Market Resources in 3D Space: Colored corporate “nodes” float at fixed positions in a cube while small resource tokens drift through; each node pulls nearby tokens via glowing connection lines, with tokens accelerating toward the strongest pull, and node sizes and labels updating dynamically to reflect captured market share."
+    },
+    {
+      "number": "8",
+      "title": "Cells Competing for Oxygen Around Capillaries",
+      "description": "A transparent tube (blood vessel) runs through a 3D field of cells (spheres) that absorb oxygen particles diffusing out of the vessel; particles move randomly, cells glow brighter as they accumulate oxygen and dim as they starve, with overlapping “consumption halos” showing zones of competition.",
+      "seed": "Cells Competing for Oxygen Around Capillaries: A transparent tube (blood vessel) runs through a 3D field of cells (spheres) that absorb oxygen particles diffusing out of the vessel; particles move randomly, cells glow brighter as they accumulate oxygen and dim as they starve, with overlapping “consumption halos” showing zones of competition."
+    },
+    {
+      "number": "9",
+      "title": "Competing Rockets for Limited Launch Windows",
+      "description": "Multiple rockets on a circular launchpad race to launch through a shared, moving “clear weather” window in the sky (a transparent rotating ring); rockets queue, attempt launches, sometimes collide and bounce if timed together, and a timeline meter at the side tracks who secures more successful launches.",
+      "seed": "Competing Rockets for Limited Launch Windows: Multiple rockets on a circular launchpad race to launch through a shared, moving “clear weather” window in the sky (a transparent rotating ring); rockets queue, attempt launches, sometimes collide and bounce if timed together, and a timeline meter at the side tracks who secures more successful launches."
+    },
+    {
+      "number": "10",
+      "title": "Urban Neighborhoods Competing for Shared Water Supply",
+      "description": "Several semi-transparent building clusters sit around a central elevated water tank, with water represented as a blue volume decreasing as pipe segments (cylinders) pulse water toward each neighborhood; consumption causes building colors to shift (blue to red) as scarcity increases, and leaks can appear as spilling particle sprays.",
+      "seed": "Urban Neighborhoods Competing for Shared Water Supply: Several semi-transparent building clusters sit around a central elevated water tank, with water represented as a blue volume decreasing as pipe segments (cylinders) pulse water toward each neighborhood; consumption causes building colors to shift (blue to red) as scarcity increases, and leaks can appear as spilling particle sprays."
+    },
+    {
+      "number": "11",
+      "title": "Lion Prides Competing Over Territory and Water Holes",
+      "description": "A light savannah plane has labeled water holes and colored polygonal territories; lion pride markers wander, expand or shrink territory borders that wrap around them, contest overlaps where borders pulse and shift, and the brightness of each pride’s color reflects its access to nearby water and prey icons.",
+      "seed": "Lion Prides Competing Over Territory and Water Holes: A light savannah plane has labeled water holes and colored polygonal territories; lion pride markers wander, expand or shrink territory borders that wrap around them, contest overlaps where borders pulse and shift, and the brightness of each pride’s color reflects its access to nearby water and prey icons."
+    },
+    {
+      "number": "12",
+      "title": "Competing Mining Drones in an Asteroid Field",
+      "description": "Multiple colored mining drones orbit and navigate among rotating rocky asteroids, racing to attach to glowing mineral veins on asteroid surfaces; drones that reach a vein first anchor, extract particle streams into cargo bays, then detach and leave trails back to a central mothership sphere.",
+      "seed": "Competing Mining Drones in an Asteroid Field: Multiple colored mining drones orbit and navigate among rotating rocky asteroids, racing to attach to glowing mineral veins on asteroid surfaces; drones that reach a vein first anchor, extract particle streams into cargo bays, then detach and leave trails back to a central mothership sphere."
+    },
+    {
+      "number": "13",
+      "title": "Plant Seedlings Competing in a Crowded Planter Box",
+      "description": "A rectangular soil container holds many seedling stems that grow upward and slightly sway, with leaves that orient toward a moving overhead light; seedlings that are shaded by neighbors grow thinner and change color toward pale yellow, while successful ones thicken, produce more leaves, and cast stronger shadows.",
+      "seed": "Plant Seedlings Competing in a Crowded Planter Box: A rectangular soil container holds many seedling stems that grow upward and slightly sway, with leaves that orient toward a moving overhead light; seedlings that are shaded by neighbors grow thinner and change color toward pale yellow, while successful ones thicken, produce more leaves, and cast stronger shadows."
+    },
+    {
+      "number": "14",
+      "title": "Competing Data Packets in a Network Hub",
+      "description": "A central transparent cube (router) with multiple colored cables (cylinders) receives incoming data packets (small labeled boxes with trails) that try to pass through constrained internal channels; packets queue, collide, bounce aside, or get dropped (fade out) when congestion exceeds capacity, while a throughput meter updates in real time.",
+      "seed": "Competing Data Packets in a Network Hub: A central transparent cube (router) with multiple colored cables (cylinders) receives incoming data packets (small labeled boxes with trails) that try to pass through constrained internal channels; packets queue, collide, bounce aside, or get dropped (fade out) when congestion exceeds capacity, while a throughput meter updates in real time."
+    },
+    {
+      "number": "15",
+      "title": "Viruses Competing to Infect Host Cells",
+      "description": "Different colored viral particles drift in a 3D fluid volume with scattered host cells; viruses attach to cell surfaces on collision, and cells change color depending on which virus wins the competition at their membrane, then swell and emit new viral particles of the winning type.",
+      "seed": "Viruses Competing to Infect Host Cells: Different colored viral particles drift in a 3D fluid volume with scattered host cells; viruses attach to cell surfaces on collision, and cells change color depending on which virus wins the competition at their membrane, then swell and emit new viral particles of the winning type."
+    },
+    {
+      "number": "16",
+      "title": "Competing Robots Gathering Limited Energy Crystals",
+      "description": "Small wheeled robot bodies roam a flat arena littered with glowing energy crystals; robots scan with rotating sensor beams, drive toward crystals, and collide or push each other away, with battery level bars floating above each robot that fill when they successfully dock to and drain a crystal.",
+      "seed": "Competing Robots Gathering Limited Energy Crystals: Small wheeled robot bodies roam a flat arena littered with glowing energy crystals; robots scan with rotating sensor beams, drive toward crystals, and collide or push each other away, with battery level bars floating above each robot that fill when they successfully dock to and drain a crystal."
+    },
+    {
+      "number": "17",
+      "title": "Coral Species Competing on a Reef Patch",
+      "description": "Different coral colonies represented as branching structures grow over a rocky plane, expanding their colored surfaces; where colonies meet, one overgrows and wraps the other, turning its branches gray, while water currents carry nutrient particles that boost growth of colonies downstream.",
+      "seed": "Coral Species Competing on a Reef Patch: Different coral colonies represented as branching structures grow over a rocky plane, expanding their colored surfaces; where colonies meet, one overgrows and wraps the other, turning its branches gray, while water currents carry nutrient particles that boost growth of colonies downstream."
+    },
+    {
+      "number": "18",
+      "title": "Competing Fungi in a Log Cross-Section",
+      "description": "A cylindrical log cross-section is viewed from the side, with colored fungal mycelium networks (branching threads) spreading inside; threads extend toward nutrient clusters, collide, and one network’s branches dissolve or retract at contested points, while a semi-transparent overlay shows zones dominated by each fungus.",
+      "seed": "Competing Fungi in a Log Cross-Section: A cylindrical log cross-section is viewed from the side, with colored fungal mycelium networks (branching threads) spreading inside; threads extend toward nutrient clusters, collide, and one network’s branches dissolve or retract at contested points, while a semi-transparent overlay shows zones dominated by each fungus."
+    },
+    {
+      "number": "19",
+      "title": "Competing Satellites for Orbital Slots",
+      "description": "Multiple satellites orbit Earth in a shared altitude band, adjusting their semi-transparent orbital paths to avoid collisions while trying to occupy limited “prime” slots marked as glowing rings; satellites that secure slots stabilize and their trails turn solid, while others continually maneuver, leaving curved adjustment trails.",
+      "seed": "Competing Satellites for Orbital Slots: Multiple satellites orbit Earth in a shared altitude band, adjusting their semi-transparent orbital paths to avoid collisions while trying to occupy limited “prime” slots marked as glowing rings; satellites that secure slots stabilize and their trails turn solid, while others continually maneuver, leaving curved adjustment trails."
+    },
+    {
+      "number": "20",
+      "title": "Microorganisms Competing for Light in a Water Column",
+      "description": "Different colored plankton cells float and gently bounce in a tall transparent cylinder of water with a light gradient from top to bottom; cells move up or down seeking optimal light, replicate when conditions are good, and darken or shrink when outcompeted by denser populations shading them.",
+      "seed": "Microorganisms Competing for Light in a Water Column: Different colored plankton cells float and gently bounce in a tall transparent cylinder of water with a light gradient from top to bottom; cells move up or down seeking optimal light, replicate when conditions are good, and darken or shrink when outcompeted by denser populations shading them."
+    },
+    {
+      "number": "21",
+      "title": "Competing Snowplows Clearing Shared Road Network",
+      "description": "Several snowplow vehicles move along a 3D network of elevated roads covered with a white layer; plows push and spill snow to the sides as particles, sometimes colliding at intersections, with each plow’s cleared-road length tracked by a floating label and road segments changing from white to gray as they’re cleared.",
+      "seed": "Competing Snowplows Clearing Shared Road Network: Several snowplow vehicles move along a 3D network of elevated roads covered with a white layer; plows push and spill snow to the sides as particles, sometimes colliding at intersections, with each plow’s cleared-road length tracked by a floating label and road segments changing from white to gray as they’re cleared."
+    },
+    {
+      "number": "22",
+      "title": "Farm Plots Competing for Irrigation Flow",
+      "description": "A slightly sloped terrain is divided into rectangular farm plots separated by low walls, with a main irrigation channel feeding side channels; water (blue transparent volume) flows, splits, and spills, with plots that receive more water turning lush green and those starved turning brown, while simple gate blocks can move to redirect flow.",
+      "seed": "Farm Plots Competing for Irrigation Flow: A slightly sloped terrain is divided into rectangular farm plots separated by low walls, with a main irrigation channel feeding side channels; water (blue transparent volume) flows, splits, and spills, with plots that receive more water turning lush green and those starved turning brown, while simple gate blocks can move to redirect flow."
+    },
+    {
+      "number": "23",
+      "title": "Competing Bee Colonies for Flower Patches",
+      "description": "Multiple hives at the edge of a meadow send out differently colored bees that fly with curved trails toward scattered flower clusters; bees land, collect nectar (flower brightness decreases), and return, with hive sizes slowly growing and a hive label showing total nectar collected.",
+      "seed": "Competing Bee Colonies for Flower Patches: Multiple hives at the edge of a meadow send out differently colored bees that fly with curved trails toward scattered flower clusters; bees land, collect nectar (flower brightness decreases), and return, with hive sizes slowly growing and a hive label showing total nectar collected."
+    },
+    {
+      "number": "24",
+      "title": "CPU Cores Competing for Shared Memory Bandwidth",
+      "description": "Several CPU core spheres send streams of data packets along shared memory bus lines (glowing tubes) toward a central memory block; packets from different cores collide and queue at bus entry points, bus segments light up with intensity proportional to traffic, and a side panel shows each core’s achieved bandwidth.",
+      "seed": "CPU Cores Competing for Shared Memory Bandwidth: Several CPU core spheres send streams of data packets along shared memory bus lines (glowing tubes) toward a central memory block; packets from different cores collide and queue at bus entry points, bus segments light up with intensity proportional to traffic, and a side panel shows each core’s achieved bandwidth."
+    },
+    {
+      "number": "25",
+      "title": "Competing Crystals Growing in a Cooling Solution",
+      "description": "A transparent container shows multiple seed crystals in a supersaturated solution with free solute particles moving randomly; crystals grow faceted structures as particles attach to their surfaces, while neighboring crystals’ growth fronts collide, with one halting or diverting growth where competition for solute and space is strongest.",
+      "seed": "Competing Crystals Growing in a Cooling Solution: A transparent container shows multiple seed crystals in a supersaturated solution with free solute particles moving randomly; crystals grow faceted structures as particles attach to their surfaces, while neighboring crystals’ growth fronts collide, with one halting or diverting growth where competition for solute and space is strongest."
+    }
+  ],
+  "raw_output": "Here are strong **Resource competition simulation inputs** you can plug into your prompt:\n\n1. **Competing Plant Roots in Shared Soil Volume**  \n   A transparent soil box with multiple colored plant root systems (branching tubes) that grow, branch, and thicken toward nutrient particles, with roots slowing and turning white when they lose resource competition and a side bar chart showing each plant’s total absorbed nutrients.\n\n2. **Predators Competing Over Prey in a 3D Savannah**  \n   Packs of colored predator spheres roam a light-colored plane with scattered prey cubes that spawn and move randomly, while predators chase, collide, and “consume” prey (prey vanish, predators glow briefly and grow slightly) with trails and a floating label for each pack’s current energy.\n\n3. **Bacteria Competing for Nutrients in a Petri Dish**  \n   A shallow transparent cylinder with different colored bacterial colonies (flattened growing blobs or many small spheres) that spread, overlap, and change growth rate based on nearby floating nutrient particles, with nutrients dissolving into colonies on contact and a heatmap-style floor color showing nutrient density.\n\n4. **Trees Competing for Sunlight in a Forest Canopy**  \n   Cylindrical trunks with branching semi-transparent green canopies grow upward from a shared ground plane, casting soft shadows; branches that stay shaded too long shrink or turn brown while sunlit branches grow, and labels above each tree show its current light capture.\n\n5. **Fish Schools Competing for Plankton Clouds**  \n   Several differently colored fish schools (small spheres with directional arrows) swim through a light-blue 3D water volume toward drifting plankton clouds (faint green particle clusters), with fish accelerating toward clouds, consuming particles on contact, and leaving fading trails whose brightness reflects recent intake.\n\n6. **Ant Colonies Competing for Food Sources**  \n   Two or more ant nests at the edges of a plane send out ant agents (tiny spheres) that wander, find food pellets, and bring them back, laying semi-transparent pheromone trails that evaporate over time; trails of competing colonies overlap, and food piles shrink visibly as ants collide with them and detach carrying fragments.\n\n7. **Companies Competing for Market Resources in 3D Space**  \n   Colored corporate “nodes” float at fixed positions in a cube while small resource tokens drift through; each node pulls nearby tokens via glowing connection lines, with tokens accelerating toward the strongest pull, and node sizes and labels updating dynamically to reflect captured market share.\n\n8. **Cells Competing for Oxygen Around Capillaries**  \n   A transparent tube (blood vessel) runs through a 3D field of cells (spheres) that absorb oxygen particles diffusing out of the vessel; particles move randomly, cells glow brighter as they accumulate oxygen and dim as they starve, with overlapping “consumption halos” showing zones of competition.\n\n9. **Competing Rockets for Limited Launch Windows**  \n   Multiple rockets on a circular launchpad race to launch through a shared, moving “clear weather” window in the sky (a transparent rotating ring); rockets queue, attempt launches, sometimes collide and bounce if timed together, and a timeline meter at the side tracks who secures more successful launches.\n\n10. **Urban Neighborhoods Competing for Shared Water Supply**  \n    Several semi-transparent building clusters sit around a central elevated water tank, with water represented as a blue volume decreasing as pipe segments (cylinders) pulse water toward each neighborhood; consumption causes building colors to shift (blue to red) as scarcity increases, and leaks can appear as spilling particle sprays.\n\n11. **Lion Prides Competing Over Territory and Water Holes**  \n    A light savannah plane has labeled water holes and colored polygonal territories; lion pride markers wander, expand or shrink territory borders that wrap around them, contest overlaps where borders pulse and shift, and the brightness of each pride’s color reflects its access to nearby water and prey icons.\n\n12. **Competing Mining Drones in an Asteroid Field**  \n    Multiple colored mining drones orbit and navigate among rotating rocky asteroids, racing to attach to glowing mineral veins on asteroid surfaces; drones that reach a vein first anchor, extract particle streams into cargo bays, then detach and leave trails back to a central mothership sphere.\n\n13. **Plant Seedlings Competing in a Crowded Planter Box**  \n    A rectangular soil container holds many seedling stems that grow upward and slightly sway, with leaves that orient toward a moving overhead light; seedlings that are shaded by neighbors grow thinner and change color toward pale yellow, while successful ones thicken, produce more leaves, and cast stronger shadows.\n\n14. **Competing Data Packets in a Network Hub**  \n    A central transparent cube (router) with multiple colored cables (cylinders) receives incoming data packets (small labeled boxes with trails) that try to pass through constrained internal channels; packets queue, collide, bounce aside, or get dropped (fade out) when congestion exceeds capacity, while a throughput meter updates in real time.\n\n15. **Viruses Competing to Infect Host Cells**  \n    Different colored viral particles drift in a 3D fluid volume with scattered host cells; viruses attach to cell surfaces on collision, and cells change color depending on which virus wins the competition at their membrane, then swell and emit new viral particles of the winning type.\n\n16. **Competing Robots Gathering Limited Energy Crystals**  \n    Small wheeled robot bodies roam a flat arena littered with glowing energy crystals; robots scan with rotating sensor beams, drive toward crystals, and collide or push each other away, with battery level bars floating above each robot that fill when they successfully dock to and drain a crystal.\n\n17. **Coral Species Competing on a Reef Patch**  \n    Different coral colonies represented as branching structures grow over a rocky plane, expanding their colored surfaces; where colonies meet, one overgrows and wraps the other, turning its branches gray, while water currents carry nutrient particles that boost growth of colonies downstream.\n\n18. **Competing Fungi in a Log Cross-Section**  \n    A cylindrical log cross-section is viewed from the side, with colored fungal mycelium networks (branching threads) spreading inside; threads extend toward nutrient clusters, collide, and one network’s branches dissolve or retract at contested points, while a semi-transparent overlay shows zones dominated by each fungus.\n\n19. **Competing Satellites for Orbital Slots**  \n    Multiple satellites orbit Earth in a shared altitude band, adjusting their semi-transparent orbital paths to avoid collisions while trying to occupy limited “prime” slots marked as glowing rings; satellites that secure slots stabilize and their trails turn solid, while others continually maneuver, leaving curved adjustment trails.\n\n20. **Microorganisms Competing for Light in a Water Column**  \n    Different colored plankton cells float and gently bounce in a tall transparent cylinder of water with a light gradient from top to bottom; cells move up or down seeking optimal light, replicate when conditions are good, and darken or shrink when outcompeted by denser populations shading them.\n\n21. **Competing Snowplows Clearing Shared Road Network**  \n    Several snowplow vehicles move along a 3D network of elevated roads covered with a white layer; plows push and spill snow to the sides as particles, sometimes colliding at intersections, with each plow’s cleared-road length tracked by a floating label and road segments changing from white to gray as they’re cleared.\n\n22. **Farm Plots Competing for Irrigation Flow**  \n    A slightly sloped terrain is divided into rectangular farm plots separated by low walls, with a main irrigation channel feeding side channels; water (blue transparent volume) flows, splits, and spills, with plots that receive more water turning lush green and those starved turning brown, while simple gate blocks can move to redirect flow.\n\n23. **Competing Bee Colonies for Flower Patches**  \n    Multiple hives at the edge of a meadow send out differently colored bees that fly with curved trails toward scattered flower clusters; bees land, collect nectar (flower brightness decreases), and return, with hive sizes slowly growing and a hive label showing total nectar collected.\n\n24. **CPU Cores Competing for Shared Memory Bandwidth**  \n    Several CPU core spheres send streams of data packets along shared memory bus lines (glowing tubes) toward a central memory block; packets from different cores collide and queue at bus entry points, bus segments light up with intensity proportional to traffic, and a side panel shows each core’s achieved bandwidth.\n\n25. **Competing Crystals Growing in a Cooling Solution**  \n    A transparent container shows multiple seed crystals in a supersaturated solution with free solute particles moving randomly; crystals grow faceted structures as particles attach to their surfaces, while neighboring crystals’ growth fronts collide, with one halting or diverting growth where competition for solute and space is strongest."
+}

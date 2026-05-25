@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Algae blooms",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:51:50",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Nutrient Plume Triggering an Algae Bloom",
+      "description": "A clear water box shows drifting nutrient particles (small spheres) entering from a river inlet tube, causing clusters of green algae spheres to grow, merge, and form a dense surface mat that gradually darkens the water below.",
+      "seed": "Nutrient Plume Triggering an Algae Bloom: A clear water box shows drifting nutrient particles (small spheres) entering from a river inlet tube, causing clusters of green algae spheres to grow, merge, and form a dense surface mat that gradually darkens the water below."
+    },
+    {
+      "number": "2",
+      "title": "Day–Night Cycle and Algae Photosynthesis",
+      "description": "A shallow lake surface with semi-transparent blue water and green algae particles that rise and glow brighter during a rotating “sun” phase, then sink and dim at “night,” with a graph panel showing dissolved oxygen levels changing over time.",
+      "seed": "Day–Night Cycle and Algae Photosynthesis: A shallow lake surface with semi-transparent blue water and green algae particles that rise and glow brighter during a rotating “sun” phase, then sink and dim at “night,” with a graph panel showing dissolved oxygen levels changing over time."
+    },
+    {
+      "number": "3",
+      "title": "Algae Bloom vs. Fish Oxygen Levels",
+      "description": "A 3D tank where schools of fish shapes swim through water filled with multiplying green algae dots, while an oxygen meter bar drops as algae density increases, eventually causing fish to slow, cluster near the surface, and some to float motionless.",
+      "seed": "Algae Bloom vs. Fish Oxygen Levels: A 3D tank where schools of fish shapes swim through water filled with multiplying green algae dots, while an oxygen meter bar drops as algae density increases, eventually causing fish to slow, cluster near the surface, and some to float motionless."
+    },
+    {
+      "number": "4",
+      "title": "Microscopic View of Algal Cells Dividing",
+      "description": "A transparent cube represents a water droplet containing a few large semi-transparent green cells that periodically split into two, drift with gentle Brownian motion, and form filaments and colonies that bounce off invisible cube walls.",
+      "seed": "Microscopic View of Algal Cells Dividing: A transparent cube represents a water droplet containing a few large semi-transparent green cells that periodically split into two, drift with gentle Brownian motion, and form filaments and colonies that bounce off invisible cube walls."
+    },
+    {
+      "number": "5",
+      "title": "Algae Bloom Forming Ocean Surface Streaks",
+      "description": "A wide ocean patch with gentle waves and moving currents visualized as faint arrows, where green and red algae patches are carried, stretched, and wrapped into long surface streaks that collide and mix along current boundaries.",
+      "seed": "Algae Bloom Forming Ocean Surface Streaks: A wide ocean patch with gentle waves and moving currents visualized as faint arrows, where green and red algae patches are carried, stretched, and wrapped into long surface streaks that collide and mix along current boundaries."
+    },
+    {
+      "number": "6",
+      "title": "Nutrient Runoff from Farmland to Lake",
+      "description": "A sloped landscape with green “fields” releasing colored nutrient particles that roll downhill into a lake basin, where algae sprites rapidly grow into a neon-green surface film, with labels and arrows marking the flow paths.",
+      "seed": "Nutrient Runoff from Farmland to Lake: A sloped landscape with green “fields” releasing colored nutrient particles that roll downhill into a lake basin, where algae sprites rapidly grow into a neon-green surface film, with labels and arrows marking the flow paths."
+    },
+    {
+      "number": "7",
+      "title": "Thermal Stratification and Algae Layers",
+      "description": "A vertical water column cylinder with color-coded temperature layers (blue at bottom, yellow at top) where algae particles preferentially cluster and form a dense band at a specific depth, slowly shifting as the temperature gradient is changed.",
+      "seed": "Thermal Stratification and Algae Layers: A vertical water column cylinder with color-coded temperature layers (blue at bottom, yellow at top) where algae particles preferentially cluster and form a dense band at a specific depth, slowly shifting as the temperature gradient is changed."
+    },
+    {
+      "number": "8",
+      "title": "Algae Bloom and Light Penetration Shadow",
+      "description": "A tall clear tank where a bright “sun” spotlight shines from above, and as algae density increases near the surface, a descending light beam cylinder fades, casting a moving shadow region where a small plant on the bottom wilts and shrinks.",
+      "seed": "Algae Bloom and Light Penetration Shadow: A tall clear tank where a bright “sun” spotlight shines from above, and as algae density increases near the surface, a descending light beam cylinder fades, casting a moving shadow region where a small plant on the bottom wilts and shrinks."
+    },
+    {
+      "number": "9",
+      "title": "Competing Algae Species in a Shared Pond",
+      "description": "Two algae species (green and red spheres) float and multiply at different rates in a pond box, competing for limited nutrient particles that they “consume” on contact, with a side panel showing their populations as changing bar heights.",
+      "seed": "Competing Algae Species in a Shared Pond: Two algae species (green and red spheres) float and multiply at different rates in a pond box, competing for limited nutrient particles that they “consume” on contact, with a side panel showing their populations as changing bar heights."
+    },
+    {
+      "number": "10",
+      "title": "Algae Bloom Collapse and Decomposition",
+      "description": "After a bright green surface mat reaches maximum density, algae particles begin to darken, detach, and sink to the bottom, where decomposer particles swarm them and an oxygen gauge visibly drops, turning water gradually more opaque.",
+      "seed": "Algae Bloom Collapse and Decomposition: After a bright green surface mat reaches maximum density, algae particles begin to darken, detach, and sink to the bottom, where decomposer particles swarm them and an oxygen gauge visibly drops, turning water gradually more opaque."
+    },
+    {
+      "number": "11",
+      "title": "Algae Blooms as Expanding 3D Cloud Structures",
+      "description": "A transparent cube of “air” contains a colored fog-like particle cloud representing airborne algal spores that expand, collide with invisible barriers (mountain walls), and condense into dense patches over a water surface below.",
+      "seed": "Algae Blooms as Expanding 3D Cloud Structures: A transparent cube of “air” contains a colored fog-like particle cloud representing airborne algal spores that expand, collide with invisible barriers (mountain walls), and condense into dense patches over a water surface below."
+    },
+    {
+      "number": "12",
+      "title": "Satellite View of Coastal Algae Blooms",
+      "description": "A curved Earth segment with textured ocean and land where swirling green and brown bloom patches spread along coastlines following animated current arrows, while a small orbiting “satellite” box scans and leaves a trail highlighting bloom intensity.",
+      "seed": "Satellite View of Coastal Algae Blooms: A curved Earth segment with textured ocean and land where swirling green and brown bloom patches spread along coastlines following animated current arrows, while a small orbiting “satellite” box scans and leaves a trail highlighting bloom intensity."
+    },
+    {
+      "number": "13",
+      "title": "Mixing of Cold, Nutrient-Rich Upwelling with Surface Waters",
+      "description": "A vertical slice of ocean with an upwelling column of cold, nutrient-rich particles rising from the bottom, colliding and mixing with warm surface water, causing algae particles at the top to rapidly replicate and form swirling surface patches.",
+      "seed": "Mixing of Cold, Nutrient-Rich Upwelling with Surface Waters: A vertical slice of ocean with an upwelling column of cold, nutrient-rich particles rising from the bottom, colliding and mixing with warm surface water, causing algae particles at the top to rapidly replicate and form swirling surface patches."
+    },
+    {
+      "number": "14",
+      "title": "Algae Bloom in a Controlled Aquarium Experiment",
+      "description": "A glass tank with an adjustable light bar on top and a nutrient drip tube, where algae density rises or falls as sliders (light and nutrient levels) are moved, with real-time labels showing “bloom threshold” and colored density gradients.",
+      "seed": "Algae Bloom in a Controlled Aquarium Experiment: A glass tank with an adjustable light bar on top and a nutrient drip tube, where algae density rises or falls as sliders (light and nutrient levels) are moved, with real-time labels showing “bloom threshold” and colored density gradients."
+    },
+    {
+      "number": "15",
+      "title": "Harmful Algal Bloom Toxin Spread",
+      "description": "Red algae spheres in a bay region release faint purple toxin particles that diffuse outward, attach to fish and shellfish models, and cause them to change color, while currents push both algae and toxins toward a transparent “beach” boundary.",
+      "seed": "Harmful Algal Bloom Toxin Spread: Red algae spheres in a bay region release faint purple toxin particles that diffuse outward, attach to fish and shellfish models, and cause them to change color, while currents push both algae and toxins toward a transparent “beach” boundary."
+    },
+    {
+      "number": "16",
+      "title": "Algae Mat Covering a River and Affecting Flow",
+      "description": "A long river channel box shows water flow as moving blue arrows that slow and deflect under a growing floating algae mat, which thickens, folds, and occasionally breaks into segments that detach and drift downstream.",
+      "seed": "Algae Mat Covering a River and Affecting Flow: A long river channel box shows water flow as moving blue arrows that slow and deflect under a growing floating algae mat, which thickens, folds, and occasionally breaks into segments that detach and drift downstream."
+    },
+    {
+      "number": "17",
+      "title": "Algae as a Renewable Biofuel Reactor",
+      "description": "A series of vertical transparent tubes (photobioreactors) each containing green algae cells that grow faster under brighter side lights and air bubble streams, with animated transfer pipes moving harvested algae “slurry” between tubes.",
+      "seed": "Algae as a Renewable Biofuel Reactor: A series of vertical transparent tubes (photobioreactors) each containing green algae cells that grow faster under brighter side lights and air bubble streams, with animated transfer pipes moving harvested algae “slurry” between tubes."
+    },
+    {
+      "number": "18",
+      "title": "Predator–Prey Dynamics: Zooplankton Grazing on Algae",
+      "description": "Tiny transparent zooplankton spheres move along looping paths through a cloud of algae particles, engulfing and reducing them, while algae simultaneously replicate; population bars for both groups rise and fall in oscillating cycles.",
+      "seed": "Predator–Prey Dynamics: Zooplankton Grazing on Algae: Tiny transparent zooplankton spheres move along looping paths through a cloud of algae particles, engulfing and reducing them, while algae simultaneously replicate; population bars for both groups rise and fall in oscillating cycles."
+    },
+    {
+      "number": "19",
+      "title": "Bloom Boundary as a Moving Front Line",
+      "description": "A large lake plane where a sharp front between clear blue water and green bloom water advances as a curved line, with algae particles replicating along the edge, breaking off into filaments and isolated patches that trail behind.",
+      "seed": "Bloom Boundary as a Moving Front Line: A large lake plane where a sharp front between clear blue water and green bloom water advances as a curved line, with algae particles replicating along the edge, breaking off into filaments and isolated patches that trail behind."
+    },
+    {
+      "number": "20",
+      "title": "Algae Blooms in Interconnected Lakes",
+      "description": "Several shallow lake basins linked by channel tubes exchange water and algae; blooms triggered in one lake gradually spread through the network, with arrows and labels showing timing, flow direction, and bloom intensity in each basin.",
+      "seed": "Algae Blooms in Interconnected Lakes: Several shallow lake basins linked by channel tubes exchange water and algae; blooms triggered in one lake gradually spread through the network, with arrows and labels showing timing, flow direction, and bloom intensity in each basin."
+    },
+    {
+      "number": "21",
+      "title": "Algae Bloom in a Floating Fish Farm Cage",
+      "description": "A semi-transparent cage structure in open water houses moving fish while external nutrient particles from feed leaks diffuse out, stimulating a halo of green algae that wraps around the cage, thickens, and occasionally invades inside.",
+      "seed": "Algae Bloom in a Floating Fish Farm Cage: A semi-transparent cage structure in open water houses moving fish while external nutrient particles from feed leaks diffuse out, stimulating a halo of green algae that wraps around the cage, thickens, and occasionally invades inside."
+    },
+    {
+      "number": "22",
+      "title": "Turbulence Breaking Up Dense Algae Clumps",
+      "description": "A mixing paddle at one end of a tank periodically spins, creating vortices visualized by swirling flow lines that tear large algae clumps into smaller fragments, which then drift, collide, and sometimes re-merge as the paddle stops.",
+      "seed": "Turbulence Breaking Up Dense Algae Clumps: A mixing paddle at one end of a tank periodically spins, creating vortices visualized by swirling flow lines that tear large algae clumps into smaller fragments, which then drift, collide, and sometimes re-merge as the paddle stops."
+    },
+    {
+      "number": "23",
+      "title": "Symbolic City Map of “Information Algae Blooms”",
+      "description": "A 3D grid city with buildings as blocks where green “idea spores” spread through streets as particles, attach to buildings, and grow into glowing “bloom clouds” over districts, with social “currents” (moving arrows) pushing ideas into new areas.",
+      "seed": "Symbolic City Map of “Information Algae Blooms”: A 3D grid city with buildings as blocks where green “idea spores” spread through streets as particles, attach to buildings, and grow into glowing “bloom clouds” over districts, with social “currents” (moving arrows) pushing ideas into new areas."
+    },
+    {
+      "number": "24",
+      "title": "Algae Bloom Blocking a Dam Intake",
+      "description": "A reservoir behind a dam wall shows green algae filaments drifting toward an intake pipe, where they attach, accumulate into a dense clogging mass, reduce flow rate (displayed as a bar), then detach in chunks that tumble downstream.",
+      "seed": "Algae Bloom Blocking a Dam Intake: A reservoir behind a dam wall shows green algae filaments drifting toward an intake pipe, where they attach, accumulate into a dense clogging mass, reduce flow rate (displayed as a bar), then detach in chunks that tumble downstream."
+    },
+    {
+      "number": "25",
+      "title": "Temperature Shock and Sudden Algae Die-Off",
+      "description": "A calm tank with a mature algae bloom suddenly receives a surge of warmer or colder water from a side inlet, shown as a colored plume that spreads and causes algae particles in its path to fade, shrink, and sink, leaving patchy clear zones.",
+      "seed": "Temperature Shock and Sudden Algae Die-Off: A calm tank with a mature algae bloom suddenly receives a surge of warmer or colder water from a side inlet, shown as a colored plume that spreads and causes algae particles in its path to fade, shrink, and sink, leaving patchy clear zones."
+    }
+  ],
+  "raw_output": "Here are strong **Algae blooms simulation inputs** you can plug into your prompt:\n\n1. **Nutrient Plume Triggering an Algae Bloom**\n   A clear water box shows drifting nutrient particles (small spheres) entering from a river inlet tube, causing clusters of green algae spheres to grow, merge, and form a dense surface mat that gradually darkens the water below.\n\n2. **Day–Night Cycle and Algae Photosynthesis**\n   A shallow lake surface with semi-transparent blue water and green algae particles that rise and glow brighter during a rotating “sun” phase, then sink and dim at “night,” with a graph panel showing dissolved oxygen levels changing over time.\n\n3. **Algae Bloom vs. Fish Oxygen Levels**\n   A 3D tank where schools of fish shapes swim through water filled with multiplying green algae dots, while an oxygen meter bar drops as algae density increases, eventually causing fish to slow, cluster near the surface, and some to float motionless.\n\n4. **Microscopic View of Algal Cells Dividing**\n   A transparent cube represents a water droplet containing a few large semi-transparent green cells that periodically split into two, drift with gentle Brownian motion, and form filaments and colonies that bounce off invisible cube walls.\n\n5. **Algae Bloom Forming Ocean Surface Streaks**\n   A wide ocean patch with gentle waves and moving currents visualized as faint arrows, where green and red algae patches are carried, stretched, and wrapped into long surface streaks that collide and mix along current boundaries.\n\n6. **Nutrient Runoff from Farmland to Lake**\n   A sloped landscape with green “fields” releasing colored nutrient particles that roll downhill into a lake basin, where algae sprites rapidly grow into a neon-green surface film, with labels and arrows marking the flow paths.\n\n7. **Thermal Stratification and Algae Layers**\n   A vertical water column cylinder with color-coded temperature layers (blue at bottom, yellow at top) where algae particles preferentially cluster and form a dense band at a specific depth, slowly shifting as the temperature gradient is changed.\n\n8. **Algae Bloom and Light Penetration Shadow**\n   A tall clear tank where a bright “sun” spotlight shines from above, and as algae density increases near the surface, a descending light beam cylinder fades, casting a moving shadow region where a small plant on the bottom wilts and shrinks.\n\n9. **Competing Algae Species in a Shared Pond**\n   Two algae species (green and red spheres) float and multiply at different rates in a pond box, competing for limited nutrient particles that they “consume” on contact, with a side panel showing their populations as changing bar heights.\n\n10. **Algae Bloom Collapse and Decomposition**\n    After a bright green surface mat reaches maximum density, algae particles begin to darken, detach, and sink to the bottom, where decomposer particles swarm them and an oxygen gauge visibly drops, turning water gradually more opaque.\n\n11. **Algae Blooms as Expanding 3D Cloud Structures**\n    A transparent cube of “air” contains a colored fog-like particle cloud representing airborne algal spores that expand, collide with invisible barriers (mountain walls), and condense into dense patches over a water surface below.\n\n12. **Satellite View of Coastal Algae Blooms**\n    A curved Earth segment with textured ocean and land where swirling green and brown bloom patches spread along coastlines following animated current arrows, while a small orbiting “satellite” box scans and leaves a trail highlighting bloom intensity.\n\n13. **Mixing of Cold, Nutrient-Rich Upwelling with Surface Waters**\n    A vertical slice of ocean with an upwelling column of cold, nutrient-rich particles rising from the bottom, colliding and mixing with warm surface water, causing algae particles at the top to rapidly replicate and form swirling surface patches.\n\n14. **Algae Bloom in a Controlled Aquarium Experiment**\n    A glass tank with an adjustable light bar on top and a nutrient drip tube, where algae density rises or falls as sliders (light and nutrient levels) are moved, with real-time labels showing “bloom threshold” and colored density gradients.\n\n15. **Harmful Algal Bloom Toxin Spread**\n    Red algae spheres in a bay region release faint purple toxin particles that diffuse outward, attach to fish and shellfish models, and cause them to change color, while currents push both algae and toxins toward a transparent “beach” boundary.\n\n16. **Algae Mat Covering a River and Affecting Flow**\n    A long river channel box shows water flow as moving blue arrows that slow and deflect under a growing floating algae mat, which thickens, folds, and occasionally breaks into segments that detach and drift downstream.\n\n17. **Algae as a Renewable Biofuel Reactor**\n    A series of vertical transparent tubes (photobioreactors) each containing green algae cells that grow faster under brighter side lights and air bubble streams, with animated transfer pipes moving harvested algae “slurry” between tubes.\n\n18. **Predator–Prey Dynamics: Zooplankton Grazing on Algae**\n    Tiny transparent zooplankton spheres move along looping paths through a cloud of algae particles, engulfing and reducing them, while algae simultaneously replicate; population bars for both groups rise and fall in oscillating cycles.\n\n19. **Bloom Boundary as a Moving Front Line**\n    A large lake plane where a sharp front between clear blue water and green bloom water advances as a curved line, with algae particles replicating along the edge, breaking off into filaments and isolated patches that trail behind.\n\n20. **Algae Blooms in Interconnected Lakes**\n    Several shallow lake basins linked by channel tubes exchange water and algae; blooms triggered in one lake gradually spread through the network, with arrows and labels showing timing, flow direction, and bloom intensity in each basin.\n\n21. **Algae Bloom in a Floating Fish Farm Cage**\n    A semi-transparent cage structure in open water houses moving fish while external nutrient particles from feed leaks diffuse out, stimulating a halo of green algae that wraps around the cage, thickens, and occasionally invades inside.\n\n22. **Turbulence Breaking Up Dense Algae Clumps**\n    A mixing paddle at one end of a tank periodically spins, creating vortices visualized by swirling flow lines that tear large algae clumps into smaller fragments, which then drift, collide, and sometimes re-merge as the paddle stops.\n\n23. **Symbolic City Map of “Information Algae Blooms”**\n    A 3D grid city with buildings as blocks where green “idea spores” spread through streets as particles, attach to buildings, and grow into glowing “bloom clouds” over districts, with social “currents” (moving arrows) pushing ideas into new areas.\n\n24. **Algae Bloom Blocking a Dam Intake**\n    A reservoir behind a dam wall shows green algae filaments drifting toward an intake pipe, where they attach, accumulate into a dense clogging mass, reduce flow rate (displayed as a bar), then detach in chunks that tumble downstream.\n\n25. **Temperature Shock and Sudden Algae Die-Off**\n    A calm tank with a mature algae bloom suddenly receives a surge of warmer or colder water from a side inlet, shown as a colored plume that spreads and causes algae particles in its path to fade, shrink, and sink, leaving patchy clear zones."
+}

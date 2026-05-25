@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Protein folding",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:44:55",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Random Coil to Folded Helix Playground",
+      "description": "A chain of connected spheres (amino acids) wiggles randomly in 3D, then gradually snaps into an alpha-helix as certain colored beads attract, with labels on residues and fading trails showing their paths.",
+      "seed": "Random Coil to Folded Helix Playground: A chain of connected spheres (amino acids) wiggles randomly in 3D, then gradually snaps into an alpha-helix as certain colored beads attract, with labels on residues and fading trails showing their paths."
+    },
+    {
+      "number": "2",
+      "title": "Hydrophobic Collapse in a Water Box",
+      "description": "A flexible chain of spheres with hydrophobic (yellow) and hydrophilic (blue) beads drifts in a transparent box filled with tiny water particles that bounce and push the chain until hydrophobic beads cluster in the center and hydrophilic beads face outward.",
+      "seed": "Hydrophobic Collapse in a Water Box: A flexible chain of spheres with hydrophobic (yellow) and hydrophilic (blue) beads drifts in a transparent box filled with tiny water particles that bounce and push the chain until hydrophobic beads cluster in the center and hydrophilic beads face outward."
+    },
+    {
+      "number": "3",
+      "title": "Chaperonin Folding Chamber",
+      "description": "A hollow cylindrical “chaperone” cage opens and closes while a floppy chain enters, folds inside, and exits more compact, with the cage walls pulsing color to show active vs. inactive states and labels marking entrance/exit.",
+      "seed": "Chaperonin Folding Chamber: A hollow cylindrical “chaperone” cage opens and closes while a floppy chain enters, folds inside, and exits more compact, with the cage walls pulsing color to show active vs. inactive states and labels marking entrance/exit."
+    },
+    {
+      "number": "4",
+      "title": "Energy Landscape Funnel",
+      "description": "A single moving “protein” sphere rolls over a 3D landscape of hills and valleys (mesh surface) labeled as energy levels, leaving a trail as it funnels into the deepest valley representing the native folded state.",
+      "seed": "Energy Landscape Funnel: A single moving “protein” sphere rolls over a 3D landscape of hills and valleys (mesh surface) labeled as energy levels, leaving a trail as it funnels into the deepest valley representing the native folded state."
+    },
+    {
+      "number": "5",
+      "title": "Misfolding and Aggregation Cluster",
+      "description": "Multiple chains fold; some correctly collapse into compact shapes while others misfold into sticky exposed patches that cause them to attach and grow into a branching aggregate cluster that slowly enlarges and darkens.",
+      "seed": "Misfolding and Aggregation Cluster: Multiple chains fold; some correctly collapse into compact shapes while others misfold into sticky exposed patches that cause them to attach and grow into a branching aggregate cluster that slowly enlarges and darkens."
+    },
+    {
+      "number": "6",
+      "title": "Protein Domain Hinges and Rotations",
+      "description": "A protein built from three rigid colored blocks connected by flexible joints rotates and bends at the joints, demonstrating domain motions; labels show angles and a transparent plane shows how far each domain swings.",
+      "seed": "Protein Domain Hinges and Rotations: A protein built from three rigid colored blocks connected by flexible joints rotates and bends at the joints, demonstrating domain motions; labels show angles and a transparent plane shows how far each domain swings."
+    },
+    {
+      "number": "7",
+      "title": "Secondary Structure Formation Timeline",
+      "description": "A long polypeptide ribbon starts as a random coil and gradually segments into red helices and flat blue sheets that appear, rotate into position, and lock together while residue indices float as small labels along the backbone.",
+      "seed": "Secondary Structure Formation Timeline: A long polypeptide ribbon starts as a random coil and gradually segments into red helices and flat blue sheets that appear, rotate into position, and lock together while residue indices float as small labels along the backbone."
+    },
+    {
+      "number": "8",
+      "title": "Temperature-Driven Unfolding and Refolding",
+      "description": "A folded protein model trembles gently at low temperature, then as a temperature meter rises its structure vibrates more, helices unwind and loops extend, and when the meter drops again the chain attempts to refold, sometimes into alternate conformations.",
+      "seed": "Temperature-Driven Unfolding and Refolding: A folded protein model trembles gently at low temperature, then as a temperature meter rises its structure vibrates more, helices unwind and loops extend, and when the meter drops again the chain attempts to refold, sometimes into alternate conformations."
+    },
+    {
+      "number": "9",
+      "title": "Protein-Ligand Induced Fit",
+      "description": "A folded protein with a flexible binding pocket sits stationary while a small glowing ligand sphere diffuses around, occasionally colliding and entering the pocket; when it binds, nearby side-chain beads rotate and shift to wrap around it.",
+      "seed": "Protein-Ligand Induced Fit: A folded protein with a flexible binding pocket sits stationary while a small glowing ligand sphere diffuses around, occasionally colliding and entering the pocket; when it binds, nearby side-chain beads rotate and shift to wrap around it."
+    },
+    {
+      "number": "10",
+      "title": "Co-Translational Folding from a Ribosome Tunnel",
+      "description": "A ribosome represented by large static rings extrudes a growing chain of beads through a narrow tunnel; the emerging segment starts folding into helices and loops as new beads are added at the exit, with a timer and length counter.",
+      "seed": "Co-Translational Folding from a Ribosome Tunnel: A ribosome represented by large static rings extrudes a growing chain of beads through a narrow tunnel; the emerging segment starts folding into helices and loops as new beads are added at the exit, with a timer and length counter."
+    },
+    {
+      "number": "11",
+      "title": "Disulfide Bond Formation and Breakage",
+      "description": "A protein chain with sulfur-labeled beads (yellow) bends and brings cysteine pairs close; when within range they snap together with glowing golden links (springs), stabilizing the fold, and a “reducing” slider can break these links and partially unfold the structure.",
+      "seed": "Disulfide Bond Formation and Breakage: A protein chain with sulfur-labeled beads (yellow) bends and brings cysteine pairs close; when within range they snap together with glowing golden links (springs), stabilizing the fold, and a “reducing” slider can break these links and partially unfold the structure."
+    },
+    {
+      "number": "12",
+      "title": "Protein Folding Race: Multiple Chains in a Box",
+      "description": "Several identical chains start as random coils in a shared transparent cubic space, each colored differently and labeled, racing to reach a predefined compact shape while leaving colored trails to compare folding paths and times.",
+      "seed": "Protein Folding Race: Multiple Chains in a Box: Several identical chains start as random coils in a shared transparent cubic space, each colored differently and labeled, racing to reach a predefined compact shape while leaving colored trails to compare folding paths and times."
+    },
+    {
+      "number": "13",
+      "title": "Folding Under Crowding Conditions",
+      "description": "A single folding chain moves among many large, slowly drifting crowding spheres that block its motion; collisions deflect the chain, changing its path to a folded state while a bar graph shows folding time under different crowding densities.",
+      "seed": "Folding Under Crowding Conditions: A single folding chain moves among many large, slowly drifting crowding spheres that block its motion; collisions deflect the chain, changing its path to a folded state while a bar graph shows folding time under different crowding densities."
+    },
+    {
+      "number": "14",
+      "title": "Protein Unfolding by Mechanical Pulling",
+      "description": "A folded protein is anchored at one end to a fixed wall while the other end is attached to a moving hook that pulls away with adjustable speed, stretching the chain, breaking contacts one by one, and displaying force vs. extension in a side meter.",
+      "seed": "Protein Unfolding by Mechanical Pulling: A folded protein is anchored at one end to a fixed wall while the other end is attached to a moving hook that pulls away with adjustable speed, stretching the chain, breaking contacts one by one, and displaying force vs. extension in a side meter."
+    },
+    {
+      "number": "15",
+      "title": "Protein Folding as a 3D Origami Ribbon",
+      "description": "A wide semi-transparent ribbon representing the backbone starts flat and twists, bends, and wraps into a compact shape like 3D origami, with animated fold lines and arrows showing direction of each twist.",
+      "seed": "Protein Folding as a 3D Origami Ribbon: A wide semi-transparent ribbon representing the backbone starts flat and twists, bends, and wraps into a compact shape like 3D origami, with animated fold lines and arrows showing direction of each twist."
+    },
+    {
+      "number": "16",
+      "title": "Folding Pathways with Multiple Intermediates",
+      "description": "One protein chain repeatedly folds along alternative pathways into the same native structure or misfolded traps, with intermediate shapes briefly pausing and labeled as “I1,” “I2,” etc., and connectors drawn between them like a 3D state graph.",
+      "seed": "Folding Pathways with Multiple Intermediates: One protein chain repeatedly folds along alternative pathways into the same native structure or misfolded traps, with intermediate shapes briefly pausing and labeled as “I1,” “I2,” etc., and connectors drawn between them like a 3D state graph."
+    },
+    {
+      "number": "17",
+      "title": "Protein Folding vs. pH Environment",
+      "description": "A chain with charge-colored beads (red negative, blue positive) floats in a box whose background color and a slider represent pH; as pH changes, attraction/repulsion strengths shift, altering how the chain curls, compacts, or unfolds.",
+      "seed": "Protein Folding vs. pH Environment: A chain with charge-colored beads (red negative, blue positive) floats in a box whose background color and a slider represent pH; as pH changes, attraction/repulsion strengths shift, altering how the chain curls, compacts, or unfolds."
+    },
+    {
+      "number": "18",
+      "title": "Protein Folding Inside a Membrane",
+      "description": "A semi-transparent bilayer slab (two layers of small spheres) lies stationary while a chain inserts and folds into a transmembrane helix bundle, with hydrophobic segments sliding into the membrane core and hydrophilic loops staying outside.",
+      "seed": "Protein Folding Inside a Membrane: A semi-transparent bilayer slab (two layers of small spheres) lies stationary while a chain inserts and folds into a transmembrane helix bundle, with hydrophobic segments sliding into the membrane core and hydrophilic loops staying outside."
+    },
+    {
+      "number": "19",
+      "title": "Heat Shock and Chaperone Rescue",
+      "description": "Several proteins fold normally in a box until a “heat shock” event raises temperature, causing some to unfold and expose sticky patches; mobile chaperone spheres seek them out, attach, and escort them to a safe zone where they refold.",
+      "seed": "Heat Shock and Chaperone Rescue: Several proteins fold normally in a box until a “heat shock” event raises temperature, causing some to unfold and expose sticky patches; mobile chaperone spheres seek them out, attach, and escort them to a safe zone where they refold."
+    },
+    {
+      "number": "20",
+      "title": "Protein Folding as a City of Moving Blocks",
+      "description": "A metaphorical city of small building blocks (residues) moves on a grid platform, gradually snapping together into a compact “skyscraper” shape while colored highways (springs) represent interactions tightening as the structure assembles.",
+      "seed": "Protein Folding as a City of Moving Blocks: A metaphorical city of small building blocks (residues) moves on a grid platform, gradually snapping together into a compact “skyscraper” shape while colored highways (springs) represent interactions tightening as the structure assembles."
+    },
+    {
+      "number": "21",
+      "title": "Fluorescent Folding Reporter",
+      "description": "A chain carries two fluorescent beads that glow brighter when close; as the protein folds, these beads approach, their glow intensifies, and an on-screen intensity graph rises; unfolding separates them and dims the glow.",
+      "seed": "Fluorescent Folding Reporter: A chain carries two fluorescent beads that glow brighter when close; as the protein folds, these beads approach, their glow intensifies, and an on-screen intensity graph rises; unfolding separates them and dims the glow."
+    },
+    {
+      "number": "22",
+      "title": "Folding Competed by Aggregation Sink",
+      "description": "Multiple chains float in a box with one sticky central “aggregate seed”; some chains fold correctly and drift away while others collide with the seed, attach, and contribute new layers, visually competing between correct folding and aggregation.",
+      "seed": "Folding Competed by Aggregation Sink: Multiple chains float in a box with one sticky central “aggregate seed”; some chains fold correctly and drift away while others collide with the seed, attach, and contribute new layers, visually competing between correct folding and aggregation."
+    },
+    {
+      "number": "23",
+      "title": "Backbone Dihedral Angle Explorer",
+      "description": "A single chain with marked backbone units rotates around its bonds; interactive sliders change phi/psi angles for selected residues, and the 3D shape responds in real time, allowing exploration of how small rotations reshape the fold.",
+      "seed": "Backbone Dihedral Angle Explorer: A single chain with marked backbone units rotates around its bonds; interactive sliders change phi/psi angles for selected residues, and the 3D shape responds in real time, allowing exploration of how small rotations reshape the fold."
+    },
+    {
+      "number": "24",
+      "title": "Protein Folding as Magnetic Bead Toy",
+      "description": "A flexible string of magnet-like beads floats and tumbles, with certain colored pairs magnetically snapping together as they approach; the chain repeatedly collapses, partially unfolds, and refolds, showing different compact shapes over time.",
+      "seed": "Protein Folding as Magnetic Bead Toy: A flexible string of magnet-like beads floats and tumbles, with certain colored pairs magnetically snapping together as they approach; the chain repeatedly collapses, partially unfolds, and refolds, showing different compact shapes over time."
+    },
+    {
+      "number": "25",
+      "title": "Protein Folding Network with Glowing Contacts",
+      "description": "A folded protein is displayed as beads connected by springs; when any two non-adjacent beads come within contact distance they briefly light up and a glowing line appears between them, gradually building a contact network that stabilizes the structure.",
+      "seed": "Protein Folding Network with Glowing Contacts: A folded protein is displayed as beads connected by springs; when any two non-adjacent beads come within contact distance they briefly light up and a glowing line appears between them, gradually building a contact network that stabilizes the structure."
+    }
+  ],
+  "raw_output": "Here are strong **Protein folding simulation inputs** you can plug into your prompt:\n\n1. **Random Coil to Folded Helix Playground**\n   A chain of connected spheres (amino acids) wiggles randomly in 3D, then gradually snaps into an alpha-helix as certain colored beads attract, with labels on residues and fading trails showing their paths.\n\n2. **Hydrophobic Collapse in a Water Box**\n   A flexible chain of spheres with hydrophobic (yellow) and hydrophilic (blue) beads drifts in a transparent box filled with tiny water particles that bounce and push the chain until hydrophobic beads cluster in the center and hydrophilic beads face outward.\n\n3. **Chaperonin Folding Chamber**\n   A hollow cylindrical “chaperone” cage opens and closes while a floppy chain enters, folds inside, and exits more compact, with the cage walls pulsing color to show active vs. inactive states and labels marking entrance/exit.\n\n4. **Energy Landscape Funnel**\n   A single moving “protein” sphere rolls over a 3D landscape of hills and valleys (mesh surface) labeled as energy levels, leaving a trail as it funnels into the deepest valley representing the native folded state.\n\n5. **Misfolding and Aggregation Cluster**\n   Multiple chains fold; some correctly collapse into compact shapes while others misfold into sticky exposed patches that cause them to attach and grow into a branching aggregate cluster that slowly enlarges and darkens.\n\n6. **Protein Domain Hinges and Rotations**\n   A protein built from three rigid colored blocks connected by flexible joints rotates and bends at the joints, demonstrating domain motions; labels show angles and a transparent plane shows how far each domain swings.\n\n7. **Secondary Structure Formation Timeline**\n   A long polypeptide ribbon starts as a random coil and gradually segments into red helices and flat blue sheets that appear, rotate into position, and lock together while residue indices float as small labels along the backbone.\n\n8. **Temperature-Driven Unfolding and Refolding**\n   A folded protein model trembles gently at low temperature, then as a temperature meter rises its structure vibrates more, helices unwind and loops extend, and when the meter drops again the chain attempts to refold, sometimes into alternate conformations.\n\n9. **Protein-Ligand Induced Fit**\n   A folded protein with a flexible binding pocket sits stationary while a small glowing ligand sphere diffuses around, occasionally colliding and entering the pocket; when it binds, nearby side-chain beads rotate and shift to wrap around it.\n\n10. **Co-Translational Folding from a Ribosome Tunnel**\n    A ribosome represented by large static rings extrudes a growing chain of beads through a narrow tunnel; the emerging segment starts folding into helices and loops as new beads are added at the exit, with a timer and length counter.\n\n11. **Disulfide Bond Formation and Breakage**\n    A protein chain with sulfur-labeled beads (yellow) bends and brings cysteine pairs close; when within range they snap together with glowing golden links (springs), stabilizing the fold, and a “reducing” slider can break these links and partially unfold the structure.\n\n12. **Protein Folding Race: Multiple Chains in a Box**\n    Several identical chains start as random coils in a shared transparent cubic space, each colored differently and labeled, racing to reach a predefined compact shape while leaving colored trails to compare folding paths and times.\n\n13. **Folding Under Crowding Conditions**\n    A single folding chain moves among many large, slowly drifting crowding spheres that block its motion; collisions deflect the chain, changing its path to a folded state while a bar graph shows folding time under different crowding densities.\n\n14. **Protein Unfolding by Mechanical Pulling**\n    A folded protein is anchored at one end to a fixed wall while the other end is attached to a moving hook that pulls away with adjustable speed, stretching the chain, breaking contacts one by one, and displaying force vs. extension in a side meter.\n\n15. **Protein Folding as a 3D Origami Ribbon**\n    A wide semi-transparent ribbon representing the backbone starts flat and twists, bends, and wraps into a compact shape like 3D origami, with animated fold lines and arrows showing direction of each twist.\n\n16. **Folding Pathways with Multiple Intermediates**\n    One protein chain repeatedly folds along alternative pathways into the same native structure or misfolded traps, with intermediate shapes briefly pausing and labeled as “I1,” “I2,” etc., and connectors drawn between them like a 3D state graph.\n\n17. **Protein Folding vs. pH Environment**\n    A chain with charge-colored beads (red negative, blue positive) floats in a box whose background color and a slider represent pH; as pH changes, attraction/repulsion strengths shift, altering how the chain curls, compacts, or unfolds.\n\n18. **Protein Folding Inside a Membrane**\n    A semi-transparent bilayer slab (two layers of small spheres) lies stationary while a chain inserts and folds into a transmembrane helix bundle, with hydrophobic segments sliding into the membrane core and hydrophilic loops staying outside.\n\n19. **Heat Shock and Chaperone Rescue**\n    Several proteins fold normally in a box until a “heat shock” event raises temperature, causing some to unfold and expose sticky patches; mobile chaperone spheres seek them out, attach, and escort them to a safe zone where they refold.\n\n20. **Protein Folding as a City of Moving Blocks**\n    A metaphorical city of small building blocks (residues) moves on a grid platform, gradually snapping together into a compact “skyscraper” shape while colored highways (springs) represent interactions tightening as the structure assembles.\n\n21. **Fluorescent Folding Reporter**\n    A chain carries two fluorescent beads that glow brighter when close; as the protein folds, these beads approach, their glow intensifies, and an on-screen intensity graph rises; unfolding separates them and dims the glow.\n\n22. **Folding Competed by Aggregation Sink**\n    Multiple chains float in a box with one sticky central “aggregate seed”; some chains fold correctly and drift away while others collide with the seed, attach, and contribute new layers, visually competing between correct folding and aggregation.\n\n23. **Backbone Dihedral Angle Explorer**\n    A single chain with marked backbone units rotates around its bonds; interactive sliders change phi/psi angles for selected residues, and the 3D shape responds in real time, allowing exploration of how small rotations reshape the fold.\n\n24. **Protein Folding as Magnetic Bead Toy**\n    A flexible string of magnet-like beads floats and tumbles, with certain colored pairs magnetically snapping together as they approach; the chain repeatedly collapses, partially unfolds, and refolds, showing different compact shapes over time.\n\n25. **Protein Folding Network with Glowing Contacts**\n    A folded protein is displayed as beads connected by springs; when any two non-adjacent beads come within contact distance they briefly light up and a glowing line appears between them, gradually building a contact network that stabilizes the structure."
+}

@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Antennas",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:59:09",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Rotating Radio Tower with Sweeping Signal Beams",
+      "description": "A tall central radio tower with rotating directional antennas that sweep translucent colored cones of “signal” around the scene, showing beams bouncing off metallic objects and fading with distance, with labels and sliders to change rotation speed and beam width.",
+      "seed": "Rotating Radio Tower with Sweeping Signal Beams: A tall central radio tower with rotating directional antennas that sweep translucent colored cones of “signal” around the scene, showing beams bouncing off metallic objects and fading with distance, with labels and sliders to change rotation speed and beam width."
+    },
+    {
+      "number": "2",
+      "title": "Microwave Dish Array Tracking a Moving Satellite",
+      "description": "A ground array of parabolic dishes that pivot and tilt together to track a small orbiting satellite, drawing glowing curved lines for signal paths, with signal strength meters that rise and fall as alignment improves or worsens.",
+      "seed": "Microwave Dish Array Tracking a Moving Satellite: A ground array of parabolic dishes that pivot and tilt together to track a small orbiting satellite, drawing glowing curved lines for signal paths, with signal strength meters that rise and fall as alignment improves or worsens."
+    },
+    {
+      "number": "3",
+      "title": "Forest of Cellular Antennas and Moving Users",
+      "description": "Multiple cell towers scattered across a light terrain with small mobile devices walking or driving around, each device drawing a colored line to the tower it’s currently connected to and switching connections when entering overlapping coverage zones.",
+      "seed": "Forest of Cellular Antennas and Moving Users: Multiple cell towers scattered across a light terrain with small mobile devices walking or driving around, each device drawing a colored line to the tower it’s currently connected to and switching connections when entering overlapping coverage zones."
+    },
+    {
+      "number": "4",
+      "title": "Interfering Antenna Pair with Wave Patterns",
+      "description": "Two vertical antennas on a flat plane emitting expanding translucent ripples that overlap to form interference patterns, with points on the plane showing oscillating amplitude bars or color intensity where waves constructively or destructively interfere.",
+      "seed": "Interfering Antenna Pair with Wave Patterns: Two vertical antennas on a flat plane emitting expanding translucent ripples that overlap to form interference patterns, with points on the plane showing oscillating amplitude bars or color intensity where waves constructively or destructively interfere."
+    },
+    {
+      "number": "5",
+      "title": "Radar Antenna Sweeping and Detecting Aircraft",
+      "description": "A rotating radar dish emitting a thin green sweeping beam that rotates 360°, with several aircraft models moving in 3D space and bright blips appearing on a circular radar screen and as floating markers above the detected aircraft.",
+      "seed": "Radar Antenna Sweeping and Detecting Aircraft: A rotating radar dish emitting a thin green sweeping beam that rotates 360°, with several aircraft models moving in 3D space and bright blips appearing on a circular radar screen and as floating markers above the detected aircraft."
+    },
+    {
+      "number": "6",
+      "title": "Satellite Constellation with Ground Station Links",
+      "description": "A set of satellites orbiting a central Earth sphere, each with small antenna booms, drawing dynamic glowing links from satellites to ground stations when in line-of-sight, with links fading and reconnecting as orbits progress.",
+      "seed": "Satellite Constellation with Ground Station Links: A set of satellites orbiting a central Earth sphere, each with small antenna booms, drawing dynamic glowing links from satellites to ground stations when in line-of-sight, with links fading and reconnecting as orbits progress."
+    },
+    {
+      "number": "7",
+      "title": "Yagi Antenna Orientation and Signal Strength Visualization",
+      "description": "A single Yagi-Uda antenna on a mast that the user can rotate in 3D, with a distant transmitter and a 3D polar “signal strength” lobe around the antenna that changes color intensity and length as the orientation changes.",
+      "seed": "Yagi Antenna Orientation and Signal Strength Visualization: A single Yagi-Uda antenna on a mast that the user can rotate in 3D, with a distant transmitter and a 3D polar “signal strength” lobe around the antenna that changes color intensity and length as the orientation changes."
+    },
+    {
+      "number": "8",
+      "title": "Wi‑Fi Router in a Room with Obstacles",
+      "description": "A central Wi‑Fi router antenna emitting a translucent expanding sphere of coverage in a room with walls and furniture, where signal strength drops and changes color when passing through obstacles, and moving devices leave trails colored by their current signal level.",
+      "seed": "Wi‑Fi Router in a Room with Obstacles: A central Wi‑Fi router antenna emitting a translucent expanding sphere of coverage in a room with walls and furniture, where signal strength drops and changes color when passing through obstacles, and moving devices leave trails colored by their current signal level."
+    },
+    {
+      "number": "9",
+      "title": "Swarm of Micro Antennas on a Circuit Board",
+      "description": "A close-up view of a circuit board with tiny antenna structures that pulse when packets arrive, with particles representing data hopping from antenna to antenna and trails showing routing paths that can reroute around a temporarily disabled antenna.",
+      "seed": "Swarm of Micro Antennas on a Circuit Board: A close-up view of a circuit board with tiny antenna structures that pulse when packets arrive, with particles representing data hopping from antenna to antenna and trails showing routing paths that can reroute around a temporarily disabled antenna."
+    },
+    {
+      "number": "10",
+      "title": "Underwater Acoustic Antenna Array with Sound Rays",
+      "description": "A line array of underwater acoustic antennas on the seafloor emitting sound rays as light-colored beams that refract and curve through layered water with different densities, with some rays reflecting off the surface and returning to different antennas.",
+      "seed": "Underwater Acoustic Antenna Array with Sound Rays: A line array of underwater acoustic antennas on the seafloor emitting sound rays as light-colored beams that refract and curve through layered water with different densities, with some rays reflecting off the surface and returning to different antennas."
+    },
+    {
+      "number": "11",
+      "title": "Space Probe Deploying Foldable High-Gain Antenna",
+      "description": "A spacecraft in orbit unfolds a large dish antenna from a compact stowed shape, with hinges and panels that rotate and lock into place, while a thin beam of communication light extends from the dish toward a distant Earth, thickening as the dish aligns correctly.",
+      "seed": "Space Probe Deploying Foldable High-Gain Antenna: A spacecraft in orbit unfolds a large dish antenna from a compact stowed shape, with hinges and panels that rotate and lock into place, while a thin beam of communication light extends from the dish toward a distant Earth, thickening as the dish aligns correctly."
+    },
+    {
+      "number": "12",
+      "title": "Vehicle with Retractable Antennas in a Cityscape",
+      "description": "A moving vehicle driving through a simple city grid with a telescopic antenna that can extend and retract, showing coverage zones that grow and shrink, with signal handoffs between rooftop antennas as the vehicle turns corners and passes under bridges.",
+      "seed": "Vehicle with Retractable Antennas in a Cityscape: A moving vehicle driving through a simple city grid with a telescopic antenna that can extend and retract, showing coverage zones that grow and shrink, with signal handoffs between rooftop antennas as the vehicle turns corners and passes under bridges."
+    },
+    {
+      "number": "13",
+      "title": "Antenna Farm with Frequency-Color Coding",
+      "description": "A cluster of different antenna types (towers, dishes, panels) each broadcasting at a different frequency represented by distinct colors, with colored particles streaming from transmitters to receivers and mixing where multi-band devices collect multiple colors.",
+      "seed": "Antenna Farm with Frequency-Color Coding: A cluster of different antenna types (towers, dishes, panels) each broadcasting at a different frequency represented by distinct colors, with colored particles streaming from transmitters to receivers and mixing where multi-band devices collect multiple colors."
+    },
+    {
+      "number": "14",
+      "title": "Biological Antennae: Insect Ants with Sensing Trails",
+      "description": "Several oversized insects with long antennae walking over a textured ground, their antennae gently sweeping and glowing when touching invisible chemical “scent” particles, leaving bright trails where they detect and follow higher concentrations.",
+      "seed": "Biological Antennae: Insect Ants with Sensing Trails: Several oversized insects with long antennae walking over a textured ground, their antennae gently sweeping and glowing when touching invisible chemical “scent” particles, leaving bright trails where they detect and follow higher concentrations."
+    },
+    {
+      "number": "15",
+      "title": "Phased Array Antenna Steering a Beam Electronically",
+      "description": "A grid of small identical antenna elements on a flat panel, each with a tiny phase indicator, collectively forming a narrow beam of light that can be steered up and down without moving the panel, with the beam direction and intensity visualized in 3D space.",
+      "seed": "Phased Array Antenna Steering a Beam Electronically: A grid of small identical antenna elements on a flat panel, each with a tiny phase indicator, collectively forming a narrow beam of light that can be steered up and down without moving the panel, with the beam direction and intensity visualized in 3D space."
+    },
+    {
+      "number": "16",
+      "title": "Indoor RFID Antenna Portal and Moving Tagged Boxes",
+      "description": "A rectangular antenna gateway that boxes on a conveyor belt pass through, with each box containing a tag that lights up and spins briefly when inside the read zone, while a display panel shows which tags are read and missed as speed changes.",
+      "seed": "Indoor RFID Antenna Portal and Moving Tagged Boxes: A rectangular antenna gateway that boxes on a conveyor belt pass through, with each box containing a tag that lights up and spins briefly when inside the read zone, while a display panel shows which tags are read and missed as speed changes."
+    },
+    {
+      "number": "17",
+      "title": "Lightning Storm Charging a Radio Tower",
+      "description": "A lonely radio tower on a flat landscape under storm clouds, with charged particles drifting down and occasionally converging on the tower’s antenna tip to trigger bright lightning arcs, leaving fading ionized trails and temporary glowing around the metal.",
+      "seed": "Lightning Storm Charging a Radio Tower: A lonely radio tower on a flat landscape under storm clouds, with charged particles drifting down and occasionally converging on the tower’s antenna tip to trigger bright lightning arcs, leaving fading ionized trails and temporary glowing around the metal."
+    },
+    {
+      "number": "18",
+      "title": "Helicopter with Rotating Blade-Mounted Antennas",
+      "description": "A helicopter model with antennas on its fuselage and rotor blades, where rotor-mounted antennas sweep circular coverage patterns that periodically align and misalign with a ground receiver, causing a signal meter to pulse and dip in time with rotation.",
+      "seed": "Helicopter with Rotating Blade-Mounted Antennas: A helicopter model with antennas on its fuselage and rotor blades, where rotor-mounted antennas sweep circular coverage patterns that periodically align and misalign with a ground receiver, causing a signal meter to pulse and dip in time with rotation."
+    },
+    {
+      "number": "19",
+      "title": "Mars Rover Mast Antenna Line-of-Sight Experiment",
+      "description": "A rover on a hilly Martian terrain extends its mast antenna and tries to maintain line-of-sight with an orbiting relay satellite, with a straight beam that turns red and dims when terrain blocks the view, and a slider to change mast height.",
+      "seed": "Mars Rover Mast Antenna Line-of-Sight Experiment: A rover on a hilly Martian terrain extends its mast antenna and tries to maintain line-of-sight with an orbiting relay satellite, with a straight beam that turns red and dims when terrain blocks the view, and a slider to change mast height."
+    },
+    {
+      "number": "20",
+      "title": "Smartphone Crowd Around a Base Station at a Concert",
+      "description": "Dozens of small phone icons moving and clustering in front of a stage, all connecting to one or more nearby base-station antennas, showing colored load bars on each antenna and dynamic rebalancing as people move and some phones detach or go idle.",
+      "seed": "Smartphone Crowd Around a Base Station at a Concert: Dozens of small phone icons moving and clustering in front of a stage, all connecting to one or more nearby base-station antennas, showing colored load bars on each antenna and dynamic rebalancing as people move and some phones detach or go idle."
+    },
+    {
+      "number": "21",
+      "title": "Metaphorical “Idea Antennas” in a Social Network",
+      "description": "Floating avatar spheres with stylized antennae that glow when within range of drifting “idea” particles, with ideas hopping between connected avatars along thin lines, merging into brighter clusters where many antennae intersect.",
+      "seed": "Metaphorical “Idea Antennas” in a Social Network: Floating avatar spheres with stylized antennae that glow when within range of drifting “idea” particles, with ideas hopping between connected avatars along thin lines, merging into brighter clusters where many antennae intersect."
+    },
+    {
+      "number": "22",
+      "title": "Nano-Scale Antenna Tips in a Scanning Microscope",
+      "description": "A sharp probe tip (antenna) scanning just above a corrugated sample surface, moving in a raster pattern while a height meter and a 3D surface map build up in real time based on simulated signal strength at each x‑y position.",
+      "seed": "Nano-Scale Antenna Tips in a Scanning Microscope: A sharp probe tip (antenna) scanning just above a corrugated sample surface, moving in a raster pattern while a height meter and a 3D surface map build up in real time based on simulated signal strength at each x‑y position."
+    },
+    {
+      "number": "23",
+      "title": "Satellite TV Dish Misalignment and Weather Fade",
+      "description": "A home satellite dish aimed at a geostationary satellite, with a narrow colored beam that slightly wobbles when the dish is bumped and gets partially absorbed by drifting semi-transparent rain clouds, causing a signal quality bar to fluctuate.",
+      "seed": "Satellite TV Dish Misalignment and Weather Fade: A home satellite dish aimed at a geostationary satellite, with a narrow colored beam that slightly wobbles when the dish is bumped and gets partially absorbed by drifting semi-transparent rain clouds, causing a signal quality bar to fluctuate."
+    },
+    {
+      "number": "24",
+      "title": "Undersea Buoy Network Relaying Sensor Data",
+      "description": "Several floating buoys on a gently animated water surface, each with a small mast antenna sending data upward to a satellite and sideways to neighboring buoys, with link lines that appear, pulse, and reroute when one buoy drifts out of range.",
+      "seed": "Undersea Buoy Network Relaying Sensor Data: Several floating buoys on a gently animated water surface, each with a small mast antenna sending data upward to a satellite and sideways to neighboring buoys, with link lines that appear, pulse, and reroute when one buoy drifts out of range."
+    },
+    {
+      "number": "25",
+      "title": "Antenna-Equipped Drones Forming an Ad-Hoc Network",
+      "description": "Multiple quadcopter drones flying in 3D space, each with a visible antenna, automatically adjusting their positions to maintain a mesh of glowing connections, with lines breaking and reforming as drones move, land, or temporarily disconnect.",
+      "seed": "Antenna-Equipped Drones Forming an Ad-Hoc Network: Multiple quadcopter drones flying in 3D space, each with a visible antenna, automatically adjusting their positions to maintain a mesh of glowing connections, with lines breaking and reforming as drones move, land, or temporarily disconnect."
+    }
+  ],
+  "raw_output": "Here are strong **Antennas simulation inputs** you can plug into your prompt:\n\n1. **Rotating Radio Tower with Sweeping Signal Beams**  \n   A tall central radio tower with rotating directional antennas that sweep translucent colored cones of “signal” around the scene, showing beams bouncing off metallic objects and fading with distance, with labels and sliders to change rotation speed and beam width.\n\n2. **Microwave Dish Array Tracking a Moving Satellite**  \n   A ground array of parabolic dishes that pivot and tilt together to track a small orbiting satellite, drawing glowing curved lines for signal paths, with signal strength meters that rise and fall as alignment improves or worsens.\n\n3. **Forest of Cellular Antennas and Moving Users**  \n   Multiple cell towers scattered across a light terrain with small mobile devices walking or driving around, each device drawing a colored line to the tower it’s currently connected to and switching connections when entering overlapping coverage zones.\n\n4. **Interfering Antenna Pair with Wave Patterns**  \n   Two vertical antennas on a flat plane emitting expanding translucent ripples that overlap to form interference patterns, with points on the plane showing oscillating amplitude bars or color intensity where waves constructively or destructively interfere.\n\n5. **Radar Antenna Sweeping and Detecting Aircraft**  \n   A rotating radar dish emitting a thin green sweeping beam that rotates 360°, with several aircraft models moving in 3D space and bright blips appearing on a circular radar screen and as floating markers above the detected aircraft.\n\n6. **Satellite Constellation with Ground Station Links**  \n   A set of satellites orbiting a central Earth sphere, each with small antenna booms, drawing dynamic glowing links from satellites to ground stations when in line-of-sight, with links fading and reconnecting as orbits progress.\n\n7. **Yagi Antenna Orientation and Signal Strength Visualization**  \n   A single Yagi-Uda antenna on a mast that the user can rotate in 3D, with a distant transmitter and a 3D polar “signal strength” lobe around the antenna that changes color intensity and length as the orientation changes.\n\n8. **Wi‑Fi Router in a Room with Obstacles**  \n   A central Wi‑Fi router antenna emitting a translucent expanding sphere of coverage in a room with walls and furniture, where signal strength drops and changes color when passing through obstacles, and moving devices leave trails colored by their current signal level.\n\n9. **Swarm of Micro Antennas on a Circuit Board**  \n   A close-up view of a circuit board with tiny antenna structures that pulse when packets arrive, with particles representing data hopping from antenna to antenna and trails showing routing paths that can reroute around a temporarily disabled antenna.\n\n10. **Underwater Acoustic Antenna Array with Sound Rays**  \n    A line array of underwater acoustic antennas on the seafloor emitting sound rays as light-colored beams that refract and curve through layered water with different densities, with some rays reflecting off the surface and returning to different antennas.\n\n11. **Space Probe Deploying Foldable High-Gain Antenna**  \n    A spacecraft in orbit unfolds a large dish antenna from a compact stowed shape, with hinges and panels that rotate and lock into place, while a thin beam of communication light extends from the dish toward a distant Earth, thickening as the dish aligns correctly.\n\n12. **Vehicle with Retractable Antennas in a Cityscape**  \n    A moving vehicle driving through a simple city grid with a telescopic antenna that can extend and retract, showing coverage zones that grow and shrink, with signal handoffs between rooftop antennas as the vehicle turns corners and passes under bridges.\n\n13. **Antenna Farm with Frequency-Color Coding**  \n    A cluster of different antenna types (towers, dishes, panels) each broadcasting at a different frequency represented by distinct colors, with colored particles streaming from transmitters to receivers and mixing where multi-band devices collect multiple colors.\n\n14. **Biological Antennae: Insect Ants with Sensing Trails**  \n    Several oversized insects with long antennae walking over a textured ground, their antennae gently sweeping and glowing when touching invisible chemical “scent” particles, leaving bright trails where they detect and follow higher concentrations.\n\n15. **Phased Array Antenna Steering a Beam Electronically**  \n    A grid of small identical antenna elements on a flat panel, each with a tiny phase indicator, collectively forming a narrow beam of light that can be steered up and down without moving the panel, with the beam direction and intensity visualized in 3D space.\n\n16. **Indoor RFID Antenna Portal and Moving Tagged Boxes**  \n    A rectangular antenna gateway that boxes on a conveyor belt pass through, with each box containing a tag that lights up and spins briefly when inside the read zone, while a display panel shows which tags are read and missed as speed changes.\n\n17. **Lightning Storm Charging a Radio Tower**  \n    A lonely radio tower on a flat landscape under storm clouds, with charged particles drifting down and occasionally converging on the tower’s antenna tip to trigger bright lightning arcs, leaving fading ionized trails and temporary glowing around the metal.\n\n18. **Helicopter with Rotating Blade-Mounted Antennas**  \n    A helicopter model with antennas on its fuselage and rotor blades, where rotor-mounted antennas sweep circular coverage patterns that periodically align and misalign with a ground receiver, causing a signal meter to pulse and dip in time with rotation.\n\n19. **Mars Rover Mast Antenna Line-of-Sight Experiment**  \n    A rover on a hilly Martian terrain extends its mast antenna and tries to maintain line-of-sight with an orbiting relay satellite, with a straight beam that turns red and dims when terrain blocks the view, and a slider to change mast height.\n\n20. **Smartphone Crowd Around a Base Station at a Concert**  \n    Dozens of small phone icons moving and clustering in front of a stage, all connecting to one or more nearby base-station antennas, showing colored load bars on each antenna and dynamic rebalancing as people move and some phones detach or go idle.\n\n21. **Metaphorical “Idea Antennas” in a Social Network**  \n    Floating avatar spheres with stylized antennae that glow when within range of drifting “idea” particles, with ideas hopping between connected avatars along thin lines, merging into brighter clusters where many antennae intersect.\n\n22. **Nano-Scale Antenna Tips in a Scanning Microscope**  \n    A sharp probe tip (antenna) scanning just above a corrugated sample surface, moving in a raster pattern while a height meter and a 3D surface map build up in real time based on simulated signal strength at each x‑y position.\n\n23. **Satellite TV Dish Misalignment and Weather Fade**  \n    A home satellite dish aimed at a geostationary satellite, with a narrow colored beam that slightly wobbles when the dish is bumped and gets partially absorbed by drifting semi-transparent rain clouds, causing a signal quality bar to fluctuate.\n\n24. **Undersea Buoy Network Relaying Sensor Data**  \n    Several floating buoys on a gently animated water surface, each with a small mast antenna sending data upward to a satellite and sideways to neighboring buoys, with link lines that appear, pulse, and reroute when one buoy drifts out of range.\n\n25. **Antenna-Equipped Drones Forming an Ad-Hoc Network**  \n    Multiple quadcopter drones flying in 3D space, each with a visible antenna, automatically adjusting their positions to maintain a mesh of glowing connections, with lines breaking and reforming as drones move, land, or temporarily disconnect."
+}

@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Signal and noise",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:12:30",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Radio Tower in a Storm of Noise",
+      "description": "A central vertical antenna emits expanding translucent wave shells (signal) that propagate through a space filled with drifting metallic spheres of random sizes (noise) that scatter, absorb, or distort the waves, with color-coded regions showing strong vs weak reception.",
+      "seed": "Radio Tower in a Storm of Noise: A central vertical antenna emits expanding translucent wave shells (signal) that propagate through a space filled with drifting metallic spheres of random sizes (noise) that scatter, absorb, or distort the waves, with color-coded regions showing strong vs weak reception."
+    },
+    {
+      "number": "2",
+      "title": "Optical Fiber with Signal Pulses and Scattering Defects",
+      "description": "A long transparent cylinder (fiber) carries bright, labeled light pulses that travel down its length while tiny embedded particles cause some pulses to scatter, dim, split, or reflect, with an external bar graph showing signal-to-noise ratio over time.",
+      "seed": "Optical Fiber with Signal Pulses and Scattering Defects: A long transparent cylinder (fiber) carries bright, labeled light pulses that travel down its length while tiny embedded particles cause some pulses to scatter, dim, split, or reflect, with an external bar graph showing signal-to-noise ratio over time."
+    },
+    {
+      "number": "3",
+      "title": "Neural Network with Clean and Noisy Activations",
+      "description": "Layers of spheres (neurons) connected by thin cylinders (synapses) light up as colored pulses travel through, where some pulses are clear (green) and others corrupted (red noise), with nodes that can amplify, filter, or block signals and a floating meter that tracks network accuracy.",
+      "seed": "Neural Network with Clean and Noisy Activations: Layers of spheres (neurons) connected by thin cylinders (synapses) light up as colored pulses travel through, where some pulses are clear (green) and others corrupted (red noise), with nodes that can amplify, filter, or block signals and a floating meter that tracks network accuracy."
+    },
+    {
+      "number": "4",
+      "title": "Underwater Sonar Pings and Schooling Fish Noise",
+      "description": "A submarine sphere at one end of a clear blue volume sends out circular sonar wavefronts while schools of reflective fish-like objects swim, bounce, and cluster, reflecting and distorting the waves so that returning echoes are a mix of strong target signals and noisy clutter.",
+      "seed": "Underwater Sonar Pings and Schooling Fish Noise: A submarine sphere at one end of a clear blue volume sends out circular sonar wavefronts while schools of reflective fish-like objects swim, bounce, and cluster, reflecting and distorting the waves so that returning echoes are a mix of strong target signals and noisy clutter."
+    },
+    {
+      "number": "5",
+      "title": "Cell Signaling in a Crowded Cytoplasm",
+      "description": "A large transparent cell sphere contains moving colored particles where specific signaling molecules follow guided paths to receptors on the membrane while random background molecules drift, collide, and temporarily block, misroute, or dilute signals, with receptors changing color when correctly activated.",
+      "seed": "Cell Signaling in a Crowded Cytoplasm: A large transparent cell sphere contains moving colored particles where specific signaling molecules follow guided paths to receptors on the membrane while random background molecules drift, collide, and temporarily block, misroute, or dilute signals, with receptors changing color when correctly activated."
+    },
+    {
+      "number": "6",
+      "title": "Satellite Communication Through Space Debris",
+      "description": "A satellite dish on a small rotating satellite sends narrow signal beams toward a ground station while a cloud of tumbling debris cubes and dust particles orbits between them, intermittently blocking, reflecting, or scattering the beam, with signal strength displayed as a color-changing bar.",
+      "seed": "Satellite Communication Through Space Debris: A satellite dish on a small rotating satellite sends narrow signal beams toward a ground station while a cloud of tumbling debris cubes and dust particles orbits between them, intermittently blocking, reflecting, or scattering the beam, with signal strength displayed as a color-changing bar."
+    },
+    {
+      "number": "7",
+      "title": "Crowded Room Conversation vs Background Chatter",
+      "description": "Simple humanoid figures stand and move in a bright room, with one pair exchanging distinct glowing speech bubbles (signal) that travel between them while other figures emit faint, overlapping, semi-transparent bubbles (noise) that can collide, merge, and obscure the main conversation.",
+      "seed": "Crowded Room Conversation vs Background Chatter: Simple humanoid figures stand and move in a bright room, with one pair exchanging distinct glowing speech bubbles (signal) that travel between them while other figures emit faint, overlapping, semi-transparent bubbles (noise) that can collide, merge, and obscure the main conversation."
+    },
+    {
+      "number": "8",
+      "title": "Digital Data Stream with Bit Errors",
+      "description": "A line of cubes (bits) travels along a conveyor-like track from a sender to a receiver; clean bits are solid green, while noise events (passing charged particles) randomly flip some cubes to red, with a forward error-correction block that tries to repair them and a live error-rate gauge above.",
+      "seed": "Digital Data Stream with Bit Errors: A line of cubes (bits) travels along a conveyor-like track from a sender to a receiver; clean bits are solid green, while noise events (passing charged particles) randomly flip some cubes to red, with a forward error-correction block that tries to repair them and a live error-rate gauge above."
+    },
+    {
+      "number": "9",
+      "title": "Astronomical Signal Detection in a Noisy Sky",
+      "description": "A rotating radio telescope dish scans a dome of dim, twinkling stars and drifting colored noise clouds while a faint pulsar source periodically sends sharp beams; detected signals are plotted as spikes on a floating 3D spectrogram that also shows broad-band background noise.",
+      "seed": "Astronomical Signal Detection in a Noisy Sky: A rotating radio telescope dish scans a dome of dim, twinkling stars and drifting colored noise clouds while a faint pulsar source periodically sends sharp beams; detected signals are plotted as spikes on a floating 3D spectrogram that also shows broad-band background noise."
+    },
+    {
+      "number": "10",
+      "title": "Audio Wave Separation with Moving Filters",
+      "description": "A long axis displays overlapping colored waveforms traveling as oscillating ribbons (music signal vs random noise), and adjustable transparent filter slabs slide in and out of the path to remove or pass certain frequencies, with the cleaned vs noisy waves splitting into separate branches.",
+      "seed": "Audio Wave Separation with Moving Filters: A long axis displays overlapping colored waveforms traveling as oscillating ribbons (music signal vs random noise), and adjustable transparent filter slabs slide in and out of the path to remove or pass certain frequencies, with the cleaned vs noisy waves splitting into separate branches."
+    },
+    {
+      "number": "11",
+      "title": "Laser Beam Through Fog and Dust",
+      "description": "A bright laser source emits a narrow beam through a chamber filled with floating semi-transparent spheres (fog droplets) and larger opaque particles (dust) that scatter red glows in random directions, with a detector plate at the far end displaying the received intensity as a shifting heatmap.",
+      "seed": "Laser Beam Through Fog and Dust: A bright laser source emits a narrow beam through a chamber filled with floating semi-transparent spheres (fog droplets) and larger opaque particles (dust) that scatter red glows in random directions, with a detector plate at the far end displaying the received intensity as a shifting heatmap."
+    },
+    {
+      "number": "12",
+      "title": "Wireless Network in a Busy City Block",
+      "description": "Buildings made of translucent boxes host access points that radiate colored signal bubbles while moving “user” spheres carry small antennas, and interfering devices (noise sources) emit overlapping jittery waves, with connection quality shown as a halo brightness around each user.",
+      "seed": "Wireless Network in a Busy City Block: Buildings made of translucent boxes host access points that radiate colored signal bubbles while moving “user” spheres carry small antennas, and interfering devices (noise sources) emit overlapping jittery waves, with connection quality shown as a halo brightness around each user."
+    },
+    {
+      "number": "13",
+      "title": "Brain Synapse with Neurotransmitter Signal vs Random Noise Vesicles",
+      "description": "Two large facing neuron terminals exchange bursts of glowing neurotransmitter particles across a small gap, while background noise vesicles drift, attach, and detach randomly from receptors, causing spontaneous partial activations and a fluctuating activity meter along the axon.",
+      "seed": "Brain Synapse with Neurotransmitter Signal vs Random Noise Vesicles: Two large facing neuron terminals exchange bursts of glowing neurotransmitter particles across a small gap, while background noise vesicles drift, attach, and detach randomly from receptors, causing spontaneous partial activations and a fluctuating activity meter along the axon."
+    },
+    {
+      "number": "14",
+      "title": "Stock Market Information Flow vs Rumor Noise",
+      "description": "Tall bars representing stocks stand on a floor; information packets (small labeled blocks) travel between them along glowing lines as reliable signals, while hazy, unlabeled rumor clouds drift, attach to bars, and temporarily distort their height and color until they dissipate or are “filtered” by sentinel agents.",
+      "seed": "Stock Market Information Flow vs Rumor Noise: Tall bars representing stocks stand on a floor; information packets (small labeled blocks) travel between them along glowing lines as reliable signals, while hazy, unlabeled rumor clouds drift, attach to bars, and temporarily distort their height and color until they dissipate or are “filtered” by sentinel agents."
+    },
+    {
+      "number": "15",
+      "title": "Genetic Transcription with Mutational Noise",
+      "description": "A DNA double helix unwinds and moves past RNA polymerase spheres that build a glowing RNA strand (signal), while stray noise particles occasionally collide with bases, causing mispairing, deletions, or insertions that visually kink or recolor the RNA, with an error counter updating above.",
+      "seed": "Genetic Transcription with Mutational Noise: A DNA double helix unwinds and moves past RNA polymerase spheres that build a glowing RNA strand (signal), while stray noise particles occasionally collide with bases, causing mispairing, deletions, or insertions that visually kink or recolor the RNA, with an error counter updating above."
+    },
+    {
+      "number": "16",
+      "title": "Quantum Signal in a Noisy Measurement Apparatus",
+      "description": "A single particle wavepacket travels through a series of semi-transparent potential barriers and detectors that glow when it passes, while fluctuating noise fields (faint, animated fog) cause random decoherence events, splitting, and path distortions, with detection probabilities shown as a floating histogram.",
+      "seed": "Quantum Signal in a Noisy Measurement Apparatus: A single particle wavepacket travels through a series of semi-transparent potential barriers and detectors that glow when it passes, while fluctuating noise fields (faint, animated fog) cause random decoherence events, splitting, and path distortions, with detection probabilities shown as a floating histogram."
+    },
+    {
+      "number": "17",
+      "title": "Highway Traffic Flow with Emergency Vehicle Signal",
+      "description": "A multi-lane roadway filled with cars (noise) moves steadily while an emergency vehicle with a pulsing light (signal) attempts to move through; cars react by shifting lanes, stopping, or failing to react, and a transparent “signal cone” ahead of the siren shows how far the alert propagates.",
+      "seed": "Highway Traffic Flow with Emergency Vehicle Signal: A multi-lane roadway filled with cars (noise) moves steadily while an emergency vehicle with a pulsing light (signal) attempts to move through; cars react by shifting lanes, stopping, or failing to react, and a transparent “signal cone” ahead of the siren shows how far the alert propagates."
+    },
+    {
+      "number": "18",
+      "title": "Magnetic Tape with Signal and Dropout Noise",
+      "description": "A long, slowly moving tape strip passes under a read head; recorded signal regions glow in smooth patterns while defects and dust particles on the tape cause sudden dropouts and spikes in the readout, visualized as a fluctuating waveform hovering above the tape.",
+      "seed": "Magnetic Tape with Signal and Dropout Noise: A long, slowly moving tape strip passes under a read head; recorded signal regions glow in smooth patterns while defects and dust particles on the tape cause sudden dropouts and spikes in the readout, visualized as a fluctuating waveform hovering above the tape."
+    },
+    {
+      "number": "19",
+      "title": "Ecosystem Communication vs Environmental Noise",
+      "description": "In a forest-like scene with tree trunks, air currents carry pollen and scent particles (signals) between plants and insects, while random dust, smoke, and pollutant particles swirl and mix, partially blocking or diluting the signal particles and changing pollinator paths and behavior.",
+      "seed": "Ecosystem Communication vs Environmental Noise: In a forest-like scene with tree trunks, air currents carry pollen and scent particles (signals) between plants and insects, while random dust, smoke, and pollutant particles swirl and mix, partially blocking or diluting the signal particles and changing pollinator paths and behavior."
+    },
+    {
+      "number": "20",
+      "title": "Robotic Sensor Navigation in a Noisy Factory",
+      "description": "A small mobile robot moves through an obstacle-filled room using scanning beams from its sensors to detect walls and objects, while flickering reflective noise sources (spinning mirrors, shiny debris) create false echoes and ghost obstacles, with the robot’s internal map drawn as a 3D ghost overlay.",
+      "seed": "Robotic Sensor Navigation in a Noisy Factory: A small mobile robot moves through an obstacle-filled room using scanning beams from its sensors to detect walls and objects, while flickering reflective noise sources (spinning mirrors, shiny debris) create false echoes and ghost obstacles, with the robot’s internal map drawn as a 3D ghost overlay."
+    },
+    {
+      "number": "21",
+      "title": "Seismic Signal Detection Amid Urban Noise",
+      "description": "A cross-section of ground shows a fault line emitting periodic seismic waves that ripple outward, while surface-level vehicles and machinery create their own smaller vibration waves; multiple seismometer spheres embedded in the ground record both, showing stacked signal and noise traces above.",
+      "seed": "Seismic Signal Detection Amid Urban Noise: A cross-section of ground shows a fault line emitting periodic seismic waves that ripple outward, while surface-level vehicles and machinery create their own smaller vibration waves; multiple seismometer spheres embedded in the ground record both, showing stacked signal and noise traces above."
+    },
+    {
+      "number": "22",
+      "title": "Color Communication in a Coral Reef",
+      "description": "Fish and coral structures change color in pulses to send visual signals, while shafts of light, drifting sand, and plankton create noisy flickering patterns; some fish use bright, directional flashes that cut through the background, with trails showing where signals successfully reach intended receivers.",
+      "seed": "Color Communication in a Coral Reef: Fish and coral structures change color in pulses to send visual signals, while shafts of light, drifting sand, and plankton create noisy flickering patterns; some fish use bright, directional flashes that cut through the background, with trails showing where signals successfully reach intended receivers."
+    },
+    {
+      "number": "23",
+      "title": "Packet Routing with Congestion Noise",
+      "description": "3D nodes (routers) connected by tubes pass glowing data packets along shortest paths, while congestion events cause packets to queue, collide, and reroute chaotically, filling the network with extra “noise” packets that bounce between nodes until they are dropped or absorbed by a sink.",
+      "seed": "Packet Routing with Congestion Noise: 3D nodes (routers) connected by tubes pass glowing data packets along shortest paths, while congestion events cause packets to queue, collide, and reroute chaotically, filling the network with extra “noise” packets that bounce between nodes until they are dropped or absorbed by a sink."
+    },
+    {
+      "number": "24",
+      "title": "Radar Tracking of Planes with Bird Flock Noise",
+      "description": "A rotating radar dish emits sweeping beams that illuminate high-flying aircraft (solid, labeled blips) and flocks of birds (small, shifting clusters of blips) in the sky volume, with the radar display plane above showing overlapping tracks where the system struggles to separate signal from clutter.",
+      "seed": "Radar Tracking of Planes with Bird Flock Noise: A rotating radar dish emits sweeping beams that illuminate high-flying aircraft (solid, labeled blips) and flocks of birds (small, shifting clusters of blips) in the sky volume, with the radar display plane above showing overlapping tracks where the system struggles to separate signal from clutter."
+    },
+    {
+      "number": "25",
+      "title": "Morse Code Beacon in a Lightning Storm",
+      "description": "A small lighthouse-like beacon at sea sends precise Morse code flashes across the water, while moving storm clouds overhead generate random lightning bolts and bright flashes that partially wash out the signal, with a distant receiver tower decoding what it can and showing correct vs corrupted characters.",
+      "seed": "Morse Code Beacon in a Lightning Storm: A small lighthouse-like beacon at sea sends precise Morse code flashes across the water, while moving storm clouds overhead generate random lightning bolts and bright flashes that partially wash out the signal, with a distant receiver tower decoding what it can and showing correct vs corrupted characters."
+    }
+  ],
+  "raw_output": "Here are strong **Signal and noise simulation inputs** you can plug into your prompt:\n\n1. **Radio Tower in a Storm of Noise**\n   A central vertical antenna emits expanding translucent wave shells (signal) that propagate through a space filled with drifting metallic spheres of random sizes (noise) that scatter, absorb, or distort the waves, with color-coded regions showing strong vs weak reception.\n\n2. **Optical Fiber with Signal Pulses and Scattering Defects**\n   A long transparent cylinder (fiber) carries bright, labeled light pulses that travel down its length while tiny embedded particles cause some pulses to scatter, dim, split, or reflect, with an external bar graph showing signal-to-noise ratio over time.\n\n3. **Neural Network with Clean and Noisy Activations**\n   Layers of spheres (neurons) connected by thin cylinders (synapses) light up as colored pulses travel through, where some pulses are clear (green) and others corrupted (red noise), with nodes that can amplify, filter, or block signals and a floating meter that tracks network accuracy.\n\n4. **Underwater Sonar Pings and Schooling Fish Noise**\n   A submarine sphere at one end of a clear blue volume sends out circular sonar wavefronts while schools of reflective fish-like objects swim, bounce, and cluster, reflecting and distorting the waves so that returning echoes are a mix of strong target signals and noisy clutter.\n\n5. **Cell Signaling in a Crowded Cytoplasm**\n   A large transparent cell sphere contains moving colored particles where specific signaling molecules follow guided paths to receptors on the membrane while random background molecules drift, collide, and temporarily block, misroute, or dilute signals, with receptors changing color when correctly activated.\n\n6. **Satellite Communication Through Space Debris**\n   A satellite dish on a small rotating satellite sends narrow signal beams toward a ground station while a cloud of tumbling debris cubes and dust particles orbits between them, intermittently blocking, reflecting, or scattering the beam, with signal strength displayed as a color-changing bar.\n\n7. **Crowded Room Conversation vs Background Chatter**\n   Simple humanoid figures stand and move in a bright room, with one pair exchanging distinct glowing speech bubbles (signal) that travel between them while other figures emit faint, overlapping, semi-transparent bubbles (noise) that can collide, merge, and obscure the main conversation.\n\n8. **Digital Data Stream with Bit Errors**\n   A line of cubes (bits) travels along a conveyor-like track from a sender to a receiver; clean bits are solid green, while noise events (passing charged particles) randomly flip some cubes to red, with a forward error-correction block that tries to repair them and a live error-rate gauge above.\n\n9. **Astronomical Signal Detection in a Noisy Sky**\n   A rotating radio telescope dish scans a dome of dim, twinkling stars and drifting colored noise clouds while a faint pulsar source periodically sends sharp beams; detected signals are plotted as spikes on a floating 3D spectrogram that also shows broad-band background noise.\n\n10. **Audio Wave Separation with Moving Filters**\n    A long axis displays overlapping colored waveforms traveling as oscillating ribbons (music signal vs random noise), and adjustable transparent filter slabs slide in and out of the path to remove or pass certain frequencies, with the cleaned vs noisy waves splitting into separate branches.\n\n11. **Laser Beam Through Fog and Dust**\n    A bright laser source emits a narrow beam through a chamber filled with floating semi-transparent spheres (fog droplets) and larger opaque particles (dust) that scatter red glows in random directions, with a detector plate at the far end displaying the received intensity as a shifting heatmap.\n\n12. **Wireless Network in a Busy City Block**\n    Buildings made of translucent boxes host access points that radiate colored signal bubbles while moving “user” spheres carry small antennas, and interfering devices (noise sources) emit overlapping jittery waves, with connection quality shown as a halo brightness around each user.\n\n13. **Brain Synapse with Neurotransmitter Signal vs Random Noise Vesicles**\n    Two large facing neuron terminals exchange bursts of glowing neurotransmitter particles across a small gap, while background noise vesicles drift, attach, and detach randomly from receptors, causing spontaneous partial activations and a fluctuating activity meter along the axon.\n\n14. **Stock Market Information Flow vs Rumor Noise**\n    Tall bars representing stocks stand on a floor; information packets (small labeled blocks) travel between them along glowing lines as reliable signals, while hazy, unlabeled rumor clouds drift, attach to bars, and temporarily distort their height and color until they dissipate or are “filtered” by sentinel agents.\n\n15. **Genetic Transcription with Mutational Noise**\n    A DNA double helix unwinds and moves past RNA polymerase spheres that build a glowing RNA strand (signal), while stray noise particles occasionally collide with bases, causing mispairing, deletions, or insertions that visually kink or recolor the RNA, with an error counter updating above.\n\n16. **Quantum Signal in a Noisy Measurement Apparatus**\n    A single particle wavepacket travels through a series of semi-transparent potential barriers and detectors that glow when it passes, while fluctuating noise fields (faint, animated fog) cause random decoherence events, splitting, and path distortions, with detection probabilities shown as a floating histogram.\n\n17. **Highway Traffic Flow with Emergency Vehicle Signal**\n    A multi-lane roadway filled with cars (noise) moves steadily while an emergency vehicle with a pulsing light (signal) attempts to move through; cars react by shifting lanes, stopping, or failing to react, and a transparent “signal cone” ahead of the siren shows how far the alert propagates.\n\n18. **Magnetic Tape with Signal and Dropout Noise**\n    A long, slowly moving tape strip passes under a read head; recorded signal regions glow in smooth patterns while defects and dust particles on the tape cause sudden dropouts and spikes in the readout, visualized as a fluctuating waveform hovering above the tape.\n\n19. **Ecosystem Communication vs Environmental Noise**\n    In a forest-like scene with tree trunks, air currents carry pollen and scent particles (signals) between plants and insects, while random dust, smoke, and pollutant particles swirl and mix, partially blocking or diluting the signal particles and changing pollinator paths and behavior.\n\n20. **Robotic Sensor Navigation in a Noisy Factory**\n    A small mobile robot moves through an obstacle-filled room using scanning beams from its sensors to detect walls and objects, while flickering reflective noise sources (spinning mirrors, shiny debris) create false echoes and ghost obstacles, with the robot’s internal map drawn as a 3D ghost overlay.\n\n21. **Seismic Signal Detection Amid Urban Noise**\n    A cross-section of ground shows a fault line emitting periodic seismic waves that ripple outward, while surface-level vehicles and machinery create their own smaller vibration waves; multiple seismometer spheres embedded in the ground record both, showing stacked signal and noise traces above.\n\n22. **Color Communication in a Coral Reef**\n    Fish and coral structures change color in pulses to send visual signals, while shafts of light, drifting sand, and plankton create noisy flickering patterns; some fish use bright, directional flashes that cut through the background, with trails showing where signals successfully reach intended receivers.\n\n23. **Packet Routing with Congestion Noise**\n    3D nodes (routers) connected by tubes pass glowing data packets along shortest paths, while congestion events cause packets to queue, collide, and reroute chaotically, filling the network with extra “noise” packets that bounce between nodes until they are dropped or absorbed by a sink.\n\n24. **Radar Tracking of Planes with Bird Flock Noise**\n    A rotating radar dish emits sweeping beams that illuminate high-flying aircraft (solid, labeled blips) and flocks of birds (small, shifting clusters of blips) in the sky volume, with the radar display plane above showing overlapping tracks where the system struggles to separate signal from clutter.\n\n25. **Morse Code Beacon in a Lightning Storm**\n    A small lighthouse-like beacon at sea sends precise Morse code flashes across the water, while moving storm clouds overhead generate random lightning bolts and bright flashes that partially wash out the signal, with a distant receiver tower decoding what it can and showing correct vs corrupted characters."
+}

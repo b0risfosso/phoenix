@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Electricity",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:35:38",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Charging and Discharging Parallel-Plate Capacitor",
+      "description": "Show two large parallel metal plates facing each other where glowing particle “charges” transfer from a battery object onto the plates, building an electric field visualized by animated field lines, with a voltmeter bar that rises and falls as the capacitor charges and discharges through a resistor block.",
+      "seed": "Charging and Discharging Parallel-Plate Capacitor: Show two large parallel metal plates facing each other where glowing particle “charges” transfer from a battery object onto the plates, building an electric field visualized by animated field lines, with a voltmeter bar that rises and falls as the capacitor charges and discharges through a resistor block."
+    },
+    {
+      "number": "2",
+      "title": "Electron Drift in a Conducting Wire",
+      "description": "Represent a long, slightly transparent cylindrical wire filled with many small charged spheres that slowly drift in one direction under an applied electric field, with arrows indicating field direction, color-coded current density, and particle trails showing collisions (tiny jitters) with the lattice.",
+      "seed": "Electron Drift in a Conducting Wire: Represent a long, slightly transparent cylindrical wire filled with many small charged spheres that slowly drift in one direction under an applied electric field, with arrows indicating field direction, color-coded current density, and particle trails showing collisions (tiny jitters) with the lattice."
+    },
+    {
+      "number": "3",
+      "title": "Van de Graaff Generator and Hair Standing Up",
+      "description": "Place a large rotating belt system feeding charge to a metallic dome which gradually glows brighter, while a nearby “hair” object made of many thin rods attached to a head sphere rises and spreads out as like charges repel, with electric field lines and occasional tiny spark particles jumping to a grounded post.",
+      "seed": "Van de Graaff Generator and Hair Standing Up: Place a large rotating belt system feeding charge to a metallic dome which gradually glows brighter, while a nearby “hair” object made of many thin rods attached to a head sphere rises and spreads out as like charges repel, with electric field lines and occasional tiny spark particles jumping to a grounded post."
+    },
+    {
+      "number": "4",
+      "title": "Lightning Formation Between Charged Clouds and Ground",
+      "description": "Simulate two layered, semi-transparent clouds above a textured ground plate where charges separate inside the clouds, branching electric field lines grow downward in steps, and a main lightning channel suddenly forms, glowing intensely and leaving a fading ionization trail down to the ground.",
+      "seed": "Lightning Formation Between Charged Clouds and Ground: Simulate two layered, semi-transparent clouds above a textured ground plate where charges separate inside the clouds, branching electric field lines grow downward in steps, and a main lightning channel suddenly forms, glowing intensely and leaving a fading ionization trail down to the ground."
+    },
+    {
+      "number": "5",
+      "title": "Electric Field and Force Around Multiple Point Charges",
+      "description": "Place several colored spheres representing positive and negative point charges in 3D space, draw dynamically updating field vectors or lines around them, and show a test charge that can be moved by the user, leaving a trail as it accelerates under the resulting net electric force.",
+      "seed": "Electric Field and Force Around Multiple Point Charges: Place several colored spheres representing positive and negative point charges in 3D space, draw dynamically updating field vectors or lines around them, and show a test charge that can be moved by the user, leaving a trail as it accelerates under the resulting net electric force."
+    },
+    {
+      "number": "6",
+      "title": "Simple DC Motor with Rotating Coil",
+      "description": "Model a rectangular wire loop mounted on an axle between two curved magnet blocks, feed current into the loop via brushes and a commutator, and show the coil rotating as magnetic and electric forces interact, with glowing current arrows on the wires and torque vectors on the coil.",
+      "seed": "Simple DC Motor with Rotating Coil: Model a rectangular wire loop mounted on an axle between two curved magnet blocks, feed current into the loop via brushes and a commutator, and show the coil rotating as magnetic and electric forces interact, with glowing current arrows on the wires and torque vectors on the coil."
+    },
+    {
+      "number": "7",
+      "title": "RC Circuit Charging Curve in 3D Layout",
+      "description": "Arrange a battery, resistor block, and transparent capacitor plates connected by glowing wire segments on a light platform; animate charge packets flowing along the wires, accumulating on the capacitor, while a floating 3D graph and vertical bar gauge show the rising capacitor voltage and current decay over time.",
+      "seed": "RC Circuit Charging Curve in 3D Layout: Arrange a battery, resistor block, and transparent capacitor plates connected by glowing wire segments on a light platform; animate charge packets flowing along the wires, accumulating on the capacitor, while a floating 3D graph and vertical bar gauge show the rising capacitor voltage and current decay over time."
+    },
+    {
+      "number": "8",
+      "title": "Electrostatic Attraction and Repulsion of Charged Spheres",
+      "description": "Place several lightweight spheres with adjustable positive or negative charges hanging on invisible springs from a ceiling bar; when charged, they move, collide, separate, and swing as they attract or repel each other, with force arrows, charge labels, and faint electric field halos around each sphere.",
+      "seed": "Electrostatic Attraction and Repulsion of Charged Spheres: Place several lightweight spheres with adjustable positive or negative charges hanging on invisible springs from a ceiling bar; when charged, they move, collide, separate, and swing as they attract or repel each other, with force arrows, charge labels, and faint electric field halos around each sphere."
+    },
+    {
+      "number": "9",
+      "title": "Electric Field Mapping with a Moving Probe",
+      "description": "Create a grid of sampling points around a pair of fixed charges and a movable probe sphere that scans through the space, leaving a trail colored by field strength while tiny vector arrows fade in and out at the probe’s location to show direction and magnitude of the local electric field.",
+      "seed": "Electric Field Mapping with a Moving Probe: Create a grid of sampling points around a pair of fixed charges and a movable probe sphere that scans through the space, leaving a trail colored by field strength while tiny vector arrows fade in and out at the probe’s location to show direction and magnitude of the local electric field."
+    },
+    {
+      "number": "10",
+      "title": "Power Grid: Substation to City Blocks",
+      "description": "Show a simplified 3D landscape with a power plant, high-voltage transmission towers, transformers, and city buildings; animate pulsating energy flow along wires using moving light pulses, transformer cores glowing as they step voltage up and down, and buildings lighting up or dimming as loads attach and detach.",
+      "seed": "Power Grid: Substation to City Blocks: Show a simplified 3D landscape with a power plant, high-voltage transmission towers, transformers, and city buildings; animate pulsating energy flow along wires using moving light pulses, transformer cores glowing as they step voltage up and down, and buildings lighting up or dimming as loads attach and detach."
+    },
+    {
+      "number": "11",
+      "title": "Electroplating a Metal Object",
+      "description": "Place a metallic object (like a small car model) and a metal plate facing each other in an electrolyte tank; animate ions as colored particles drifting through the liquid under an electric field and attaching to the object’s surface, causing its color and thickness to gradually change, with concentration gradients visualized by particle density.",
+      "seed": "Electroplating a Metal Object: Place a metallic object (like a small car model) and a metal plate facing each other in an electrolyte tank; animate ions as colored particles drifting through the liquid under an electric field and attaching to the object’s surface, causing its color and thickness to gradually change, with concentration gradients visualized by particle density."
+    },
+    {
+      "number": "12",
+      "title": "Electric Dipole in a Uniform Electric Field",
+      "description": "Represent a dipole as two opposite charges connected by a rod in a uniform field region filled with parallel field lines; show the dipole rotating and aligning with the field, leaving an angular motion trail, while torque and force arrows are displayed on each charge.",
+      "seed": "Electric Dipole in a Uniform Electric Field: Represent a dipole as two opposite charges connected by a rod in a uniform field region filled with parallel field lines; show the dipole rotating and aligning with the field, leaving an angular motion trail, while torque and force arrows are displayed on each charge."
+    },
+    {
+      "number": "13",
+      "title": "Electron Beam Deflection in a CRT Tube",
+      "description": "Simulate a transparent tube with an electron gun emitting a beam of glowing particles toward a screen; add parallel deflection plates that create an adjustable electric field to bend the beam, with the beam’s path curving and striking different points on the screen, leaving a luminous impact spot and trail.",
+      "seed": "Electron Beam Deflection in a CRT Tube: Simulate a transparent tube with an electron gun emitting a beam of glowing particles toward a screen; add parallel deflection plates that create an adjustable electric field to bend the beam, with the beam’s path curving and striking different points on the screen, leaving a luminous impact spot and trail."
+    },
+    {
+      "number": "14",
+      "title": "Charge Induction Near a Conductor",
+      "description": "Place a neutral metallic sphere on an insulated stand and bring a charged rod (cylinder) near it; animate internal charges in the sphere shifting (small colored particles sliding within it), show induced charge separation on the surface, and optionally attach a grounding wire that lets charges flow away in glowing streams.",
+      "seed": "Charge Induction Near a Conductor: Place a neutral metallic sphere on an insulated stand and bring a charged rod (cylinder) near it; animate internal charges in the sphere shifting (small colored particles sliding within it), show induced charge separation on the surface, and optionally attach a grounding wire that lets charges flow away in glowing streams."
+    },
+    {
+      "number": "15",
+      "title": "Spark Gap and Breakdown Voltage",
+      "description": "Show two pointed metal electrodes facing each other with a variable distance in a transparent gas region; as voltage increases, electric field lines intensify and the space between them fills with faint ionization particles until a sudden spark channel forms, rapidly bridging the gap with a bright, branching discharge.",
+      "seed": "Spark Gap and Breakdown Voltage: Show two pointed metal electrodes facing each other with a variable distance in a transparent gas region; as voltage increases, electric field lines intensify and the space between them fills with faint ionization particles until a sudden spark channel forms, rapidly bridging the gap with a bright, branching discharge."
+    },
+    {
+      "number": "16",
+      "title": "Parallel Circuit with Multiple Light Bulbs",
+      "description": "Build a 3D board with a battery, junction nodes, and several bulb objects on separate branches; animate charge packets splitting at junctions and recombining, bulbs glowing at different intensities when switches on each branch open or close, and current meters (small cylinders with moving needles) on each path.",
+      "seed": "Parallel Circuit with Multiple Light Bulbs: Build a 3D board with a battery, junction nodes, and several bulb objects on separate branches; animate charge packets splitting at junctions and recombining, bulbs glowing at different intensities when switches on each branch open or close, and current meters (small cylinders with moving needles) on each path."
+    },
+    {
+      "number": "17",
+      "title": "Neural Network Synapses as Electric Pulses",
+      "description": "Create a stylized 3D brain slice with branching neuron-like structures, where electrical signals propagate as glowing pulses along axons, split into multiple branches, and trigger cascades in connected neurons, with synapse regions flashing briefly and a faint network of electric field lines wrapping active pathways.",
+      "seed": "Neural Network Synapses as Electric Pulses: Create a stylized 3D brain slice with branching neuron-like structures, where electrical signals propagate as glowing pulses along axons, split into multiple branches, and trigger cascades in connected neurons, with synapse regions flashing briefly and a faint network of electric field lines wrapping active pathways."
+    },
+    {
+      "number": "18",
+      "title": "Static Electricity Balloon and Wall",
+      "description": "Model a balloon rubbed on a “cloth” surface, gaining excess charges that cluster on its surface; when moved toward a wall made of many small neutral blocks, charges in the wall shift slightly (induced polarization), and the balloon floats and sticks to the wall, leaving faint charge distribution markers that fade over time.",
+      "seed": "Static Electricity Balloon and Wall: Model a balloon rubbed on a “cloth” surface, gaining excess charges that cluster on its surface; when moved toward a wall made of many small neutral blocks, charges in the wall shift slightly (induced polarization), and the balloon floats and sticks to the wall, leaving faint charge distribution markers that fade over time."
+    },
+    {
+      "number": "19",
+      "title": "Conveyor-Belt Style Charge Transport in a Generator",
+      "description": "Visualize a rotating looped belt moving through rollers and a charging station, where charges are deposited on the belt and carried to a collector dome; particles attach, ride the belt, and detach at the dome, gradually charging it and causing visible electric field lines and tiny micro-discharges to nearby grounded objects.",
+      "seed": "Conveyor-Belt Style Charge Transport in a Generator: Visualize a rotating looped belt moving through rollers and a charging station, where charges are deposited on the belt and carried to a collector dome; particles attach, ride the belt, and detach at the dome, gradually charging it and causing visible electric field lines and tiny micro-discharges to nearby grounded objects."
+    },
+    {
+      "number": "20",
+      "title": "Ionized Gas in an Electric Field (Glow Discharge Tube)",
+      "description": "Place a low-pressure gas inside a cylindrical glass tube between two electrodes; animate random gas particles becoming ions and electrons, then drifting toward opposite electrodes, creating glowing regions of different colors and intensities along the tube, with particle trajectories showing collisions and recombination flashes.",
+      "seed": "Ionized Gas in an Electric Field (Glow Discharge Tube): Place a low-pressure gas inside a cylindrical glass tube between two electrodes; animate random gas particles becoming ions and electrons, then drifting toward opposite electrodes, creating glowing regions of different colors and intensities along the tube, with particle trajectories showing collisions and recombination flashes."
+    },
+    {
+      "number": "21",
+      "title": "Electromagnetic Railgun Launch",
+      "description": "Build two parallel conductive rails with a sliding conductive armature block between them connected to a power source; show large current flowing along the rails, generate magnetic and electric field visuals around the setup, and have the armature accelerate rapidly along the rails leaving a motion trail and thermal glow.",
+      "seed": "Electromagnetic Railgun Launch: Build two parallel conductive rails with a sliding conductive armature block between them connected to a power source; show large current flowing along the rails, generate magnetic and electric field visuals around the setup, and have the armature accelerate rapidly along the rails leaving a motion trail and thermal glow."
+    },
+    {
+      "number": "22",
+      "title": "Household Circuit Breaker Panel",
+      "description": "Model a house floor plan with a central breaker box; represent circuits as colored wires running through walls to appliances, show current flow as moving light dots, then simulate overload situations where a breaker switch flips off, stopping the flow and dimming sections of the house with labels indicating tripped circuits.",
+      "seed": "Household Circuit Breaker Panel: Model a house floor plan with a central breaker box; represent circuits as colored wires running through walls to appliances, show current flow as moving light dots, then simulate overload situations where a breaker switch flips off, stopping the flow and dimming sections of the house with labels indicating tripped circuits."
+    },
+    {
+      "number": "23",
+      "title": "Electric Potential “Landscape” Around Charges",
+      "description": "Visualize the electric potential of a set of charges as a semi-transparent 3D height field or stacked isosurfaces above a plane, with a small ball that can roll on this potential landscape, moving downhill along steepest descent paths while leaving a trail colored by potential energy changes.",
+      "seed": "Electric Potential “Landscape” Around Charges: Visualize the electric potential of a set of charges as a semi-transparent 3D height field or stacked isosurfaces above a plane, with a small ball that can roll on this potential landscape, moving downhill along steepest descent paths while leaving a trail colored by potential energy changes."
+    },
+    {
+      "number": "24",
+      "title": "Triboelectric Charging of Falling Particles",
+      "description": "Have many small grains drop through a transparent tube lined with a different material; as they collide with the walls and each other, they pick up charges, separating into differently charged clusters that repel, stick to the walls, or form floating clumps, with charge sign and magnitude indicated by color and glow intensity.",
+      "seed": "Triboelectric Charging of Falling Particles: Have many small grains drop through a transparent tube lined with a different material; as they collide with the walls and each other, they pick up charges, separating into differently charged clusters that repel, stick to the walls, or form floating clumps, with charge sign and magnitude indicated by color and glow intensity."
+    },
+    {
+      "number": "25",
+      "title": "Rotating Electric Field and Polarization of a Dielectric Cube",
+      "description": "Place a transparent dielectric cube at the center of four electrodes that create a rotating electric field; animate internal dipoles (tiny arrows) inside the cube that try to align with the moving field, lagging and wobbling, while faint field lines outside the cube rotate smoothly around it.",
+      "seed": "Rotating Electric Field and Polarization of a Dielectric Cube: Place a transparent dielectric cube at the center of four electrodes that create a rotating electric field; animate internal dipoles (tiny arrows) inside the cube that try to align with the moving field, lagging and wobbling, while faint field lines outside the cube rotate smoothly around it."
+    }
+  ],
+  "raw_output": "Here are strong **Electricity simulation inputs** you can plug into your prompt:\n\n1. **Charging and Discharging Parallel-Plate Capacitor**\n   Show two large parallel metal plates facing each other where glowing particle “charges” transfer from a battery object onto the plates, building an electric field visualized by animated field lines, with a voltmeter bar that rises and falls as the capacitor charges and discharges through a resistor block.\n\n2. **Electron Drift in a Conducting Wire**\n   Represent a long, slightly transparent cylindrical wire filled with many small charged spheres that slowly drift in one direction under an applied electric field, with arrows indicating field direction, color-coded current density, and particle trails showing collisions (tiny jitters) with the lattice.\n\n3. **Van de Graaff Generator and Hair Standing Up**\n   Place a large rotating belt system feeding charge to a metallic dome which gradually glows brighter, while a nearby “hair” object made of many thin rods attached to a head sphere rises and spreads out as like charges repel, with electric field lines and occasional tiny spark particles jumping to a grounded post.\n\n4. **Lightning Formation Between Charged Clouds and Ground**\n   Simulate two layered, semi-transparent clouds above a textured ground plate where charges separate inside the clouds, branching electric field lines grow downward in steps, and a main lightning channel suddenly forms, glowing intensely and leaving a fading ionization trail down to the ground.\n\n5. **Electric Field and Force Around Multiple Point Charges**\n   Place several colored spheres representing positive and negative point charges in 3D space, draw dynamically updating field vectors or lines around them, and show a test charge that can be moved by the user, leaving a trail as it accelerates under the resulting net electric force.\n\n6. **Simple DC Motor with Rotating Coil**\n   Model a rectangular wire loop mounted on an axle between two curved magnet blocks, feed current into the loop via brushes and a commutator, and show the coil rotating as magnetic and electric forces interact, with glowing current arrows on the wires and torque vectors on the coil.\n\n7. **RC Circuit Charging Curve in 3D Layout**\n   Arrange a battery, resistor block, and transparent capacitor plates connected by glowing wire segments on a light platform; animate charge packets flowing along the wires, accumulating on the capacitor, while a floating 3D graph and vertical bar gauge show the rising capacitor voltage and current decay over time.\n\n8. **Electrostatic Attraction and Repulsion of Charged Spheres**\n   Place several lightweight spheres with adjustable positive or negative charges hanging on invisible springs from a ceiling bar; when charged, they move, collide, separate, and swing as they attract or repel each other, with force arrows, charge labels, and faint electric field halos around each sphere.\n\n9. **Electric Field Mapping with a Moving Probe**\n   Create a grid of sampling points around a pair of fixed charges and a movable probe sphere that scans through the space, leaving a trail colored by field strength while tiny vector arrows fade in and out at the probe’s location to show direction and magnitude of the local electric field.\n\n10. **Power Grid: Substation to City Blocks**\n    Show a simplified 3D landscape with a power plant, high-voltage transmission towers, transformers, and city buildings; animate pulsating energy flow along wires using moving light pulses, transformer cores glowing as they step voltage up and down, and buildings lighting up or dimming as loads attach and detach.\n\n11. **Electroplating a Metal Object**\n    Place a metallic object (like a small car model) and a metal plate facing each other in an electrolyte tank; animate ions as colored particles drifting through the liquid under an electric field and attaching to the object’s surface, causing its color and thickness to gradually change, with concentration gradients visualized by particle density.\n\n12. **Electric Dipole in a Uniform Electric Field**\n    Represent a dipole as two opposite charges connected by a rod in a uniform field region filled with parallel field lines; show the dipole rotating and aligning with the field, leaving an angular motion trail, while torque and force arrows are displayed on each charge.\n\n13. **Electron Beam Deflection in a CRT Tube**\n    Simulate a transparent tube with an electron gun emitting a beam of glowing particles toward a screen; add parallel deflection plates that create an adjustable electric field to bend the beam, with the beam’s path curving and striking different points on the screen, leaving a luminous impact spot and trail.\n\n14. **Charge Induction Near a Conductor**\n    Place a neutral metallic sphere on an insulated stand and bring a charged rod (cylinder) near it; animate internal charges in the sphere shifting (small colored particles sliding within it), show induced charge separation on the surface, and optionally attach a grounding wire that lets charges flow away in glowing streams.\n\n15. **Spark Gap and Breakdown Voltage**\n    Show two pointed metal electrodes facing each other with a variable distance in a transparent gas region; as voltage increases, electric field lines intensify and the space between them fills with faint ionization particles until a sudden spark channel forms, rapidly bridging the gap with a bright, branching discharge.\n\n16. **Parallel Circuit with Multiple Light Bulbs**\n    Build a 3D board with a battery, junction nodes, and several bulb objects on separate branches; animate charge packets splitting at junctions and recombining, bulbs glowing at different intensities when switches on each branch open or close, and current meters (small cylinders with moving needles) on each path.\n\n17. **Neural Network Synapses as Electric Pulses**\n    Create a stylized 3D brain slice with branching neuron-like structures, where electrical signals propagate as glowing pulses along axons, split into multiple branches, and trigger cascades in connected neurons, with synapse regions flashing briefly and a faint network of electric field lines wrapping active pathways.\n\n18. **Static Electricity Balloon and Wall**\n    Model a balloon rubbed on a “cloth” surface, gaining excess charges that cluster on its surface; when moved toward a wall made of many small neutral blocks, charges in the wall shift slightly (induced polarization), and the balloon floats and sticks to the wall, leaving faint charge distribution markers that fade over time.\n\n19. **Conveyor-Belt Style Charge Transport in a Generator**\n    Visualize a rotating looped belt moving through rollers and a charging station, where charges are deposited on the belt and carried to a collector dome; particles attach, ride the belt, and detach at the dome, gradually charging it and causing visible electric field lines and tiny micro-discharges to nearby grounded objects.\n\n20. **Ionized Gas in an Electric Field (Glow Discharge Tube)**\n    Place a low-pressure gas inside a cylindrical glass tube between two electrodes; animate random gas particles becoming ions and electrons, then drifting toward opposite electrodes, creating glowing regions of different colors and intensities along the tube, with particle trajectories showing collisions and recombination flashes.\n\n21. **Electromagnetic Railgun Launch**\n    Build two parallel conductive rails with a sliding conductive armature block between them connected to a power source; show large current flowing along the rails, generate magnetic and electric field visuals around the setup, and have the armature accelerate rapidly along the rails leaving a motion trail and thermal glow.\n\n22. **Household Circuit Breaker Panel**\n    Model a house floor plan with a central breaker box; represent circuits as colored wires running through walls to appliances, show current flow as moving light dots, then simulate overload situations where a breaker switch flips off, stopping the flow and dimming sections of the house with labels indicating tripped circuits.\n\n23. **Electric Potential “Landscape” Around Charges**\n    Visualize the electric potential of a set of charges as a semi-transparent 3D height field or stacked isosurfaces above a plane, with a small ball that can roll on this potential landscape, moving downhill along steepest descent paths while leaving a trail colored by potential energy changes.\n\n24. **Triboelectric Charging of Falling Particles**\n    Have many small grains drop through a transparent tube lined with a different material; as they collide with the walls and each other, they pick up charges, separating into differently charged clusters that repel, stick to the walls, or form floating clumps, with charge sign and magnitude indicated by color and glow intensity.\n\n25. **Rotating Electric Field and Polarization of a Dielectric Cube**\n    Place a transparent dielectric cube at the center of four electrodes that create a rotating electric field; animate internal dipoles (tiny arrows) inside the cube that try to align with the moving field, lagging and wobbling, while faint field lines outside the cube rotate smoothly around it."
+}

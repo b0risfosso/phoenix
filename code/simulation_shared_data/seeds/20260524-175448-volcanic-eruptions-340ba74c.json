@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Volcanic eruptions",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:54:48",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Cone Volcano With Rising Magma Column",
+      "description": "A 3D conical volcano sits on a light-colored terrain while a red semi-transparent magma column rises inside a hollow shaft, pressurizes, then bursts through the crater as glowing particle jets and lava blobs that roll down the slopes, cool, and darken.",
+      "seed": "Cone Volcano With Rising Magma Column: A 3D conical volcano sits on a light-colored terrain while a red semi-transparent magma column rises inside a hollow shaft, pressurizes, then bursts through the crater as glowing particle jets and lava blobs that roll down the slopes, cool, and darken."
+    },
+    {
+      "number": "2",
+      "title": "Lava Fountain and Lava Flow Rivers",
+      "description": "A central vent emits pulsing lava fountains made of small spheres that arc upward and fall, merging into branching lava rivers that flow downhill around stationary rocks, slowly building layered crusts that thicken, darken, and crack.",
+      "seed": "Lava Fountain and Lava Flow Rivers: A central vent emits pulsing lava fountains made of small spheres that arc upward and fall, merging into branching lava rivers that flow downhill around stationary rocks, slowly building layered crusts that thicken, darken, and crack."
+    },
+    {
+      "number": "3",
+      "title": "Explosive Stratovolcano With Ash Plume",
+      "description": "A tall stratovolcano cone violently ejects fragmented rock particles and ash as gray and black particle clouds that rise, expand, and drift downwind, with denser ash falling to create layered deposits and lighter ash forming a spreading umbrella-shaped plume.",
+      "seed": "Explosive Stratovolcano With Ash Plume: A tall stratovolcano cone violently ejects fragmented rock particles and ash as gray and black particle clouds that rise, expand, and drift downwind, with denser ash falling to create layered deposits and lighter ash forming a spreading umbrella-shaped plume."
+    },
+    {
+      "number": "4",
+      "title": "Submarine Volcano and Bubble Plumes",
+      "description": "A volcanic mound on a seabed releases hot glowing lava that creeps along the ocean floor while chains of transparent bubbles rise, expand, and burst at the water surface, with temperature-colored water parcels circulating and mixing around the vent.",
+      "seed": "Submarine Volcano and Bubble Plumes: A volcanic mound on a seabed releases hot glowing lava that creeps along the ocean floor while chains of transparent bubbles rise, expand, and burst at the water surface, with temperature-colored water parcels circulating and mixing around the vent."
+    },
+    {
+      "number": "5",
+      "title": "Volcanic Bomb Trajectories and Impacts",
+      "description": "Large glowing volcanic bombs are launched from a vent with varying initial velocities, follow arcing trajectories, leave faint trails, and impact the ground with bouncing, fracturing, and embedding behaviors that form craters and scatter fragments.",
+      "seed": "Volcanic Bomb Trajectories and Impacts: Large glowing volcanic bombs are launched from a vent with varying initial velocities, follow arcing trajectories, leave faint trails, and impact the ground with bouncing, fracturing, and embedding behaviors that form craters and scatter fragments."
+    },
+    {
+      "number": "6",
+      "title": "Pyroclastic Density Currents Rushing Down Slopes",
+      "description": "Dense, fast-moving pyroclastic flows made of hot particle clouds detach from the eruptive column, hug the terrain, wrap around hills, overtop ridges, and mark their paths with ash and pumice deposits that accumulate and slowly cool.",
+      "seed": "Pyroclastic Density Currents Rushing Down Slopes: Dense, fast-moving pyroclastic flows made of hot particle clouds detach from the eruptive column, hug the terrain, wrap around hills, overtop ridges, and mark their paths with ash and pumice deposits that accumulate and slowly cool."
+    },
+    {
+      "number": "7",
+      "title": "Caldera Collapse and Ring Fault Development",
+      "description": "A magma chamber under a volcanic plateau inflates and then deflates, causing the overlying ground to sag, crack, and drop into a ring-shaped caldera, with labeled fault segments, sinking blocks, and color-coded stress regions that pulse as collapse progresses.",
+      "seed": "Caldera Collapse and Ring Fault Development: A magma chamber under a volcanic plateau inflates and then deflates, causing the overlying ground to sag, crack, and drop into a ring-shaped caldera, with labeled fault segments, sinking blocks, and color-coded stress regions that pulse as collapse progresses."
+    },
+    {
+      "number": "8",
+      "title": "Lava Dome Growth and Collapse",
+      "description": "Highly viscous lava extrudes slowly from a central vent to build a steep lava dome that grows, bulges, and fractures until part of it collapses, sending rock avalanches and glowing block-and-ash flows down the flanks.",
+      "seed": "Lava Dome Growth and Collapse: Highly viscous lava extrudes slowly from a central vent to build a steep lava dome that grows, bulges, and fractures until part of it collapses, sending rock avalanches and glowing block-and-ash flows down the flanks."
+    },
+    {
+      "number": "9",
+      "title": "Volcanic Lightning in Ash Clouds",
+      "description": "A turbulent ash plume rises from an explosive vent with charged ash particles that separate by size and speed, then form branching, glowing lightning discharges between regions of opposite charge, briefly illuminating labeled charge zones inside the cloud.",
+      "seed": "Volcanic Lightning in Ash Clouds: A turbulent ash plume rises from an explosive vent with charged ash particles that separate by size and speed, then form branching, glowing lightning discharges between regions of opposite charge, briefly illuminating labeled charge zones inside the cloud."
+    },
+    {
+      "number": "10",
+      "title": "Fissure Eruption With Multiple Vents",
+      "description": "A linear fissure opens across a plateau and spawns multiple small lava fountains that pulse independently, coalesce into overlapping lava fields, and gradually fill low-lying areas while vents occasionally shut off or reactivate.",
+      "seed": "Fissure Eruption With Multiple Vents: A linear fissure opens across a plateau and spawns multiple small lava fountains that pulse independently, coalesce into overlapping lava fields, and gradually fill low-lying areas while vents occasionally shut off or reactivate."
+    },
+    {
+      "number": "11",
+      "title": "Lava–Water Interaction and Steam Explosions",
+      "description": "A lava flow advances into a lake, instantly generating white steam clouds and explosive blasts that eject fragmented lava and water droplets, with boiling zones marked by ripples and color changes where hot rock meets cooler water.",
+      "seed": "Lava–Water Interaction and Steam Explosions: A lava flow advances into a lake, instantly generating white steam clouds and explosive blasts that eject fragmented lava and water droplets, with boiling zones marked by ripples and color changes where hot rock meets cooler water."
+    },
+    {
+      "number": "12",
+      "title": "Shield Volcano Building Over Time",
+      "description": "Repeated, gentle eruptions from a central vent send thin lava sheets outward that stack radially, each flow spreading, slowing, and solidifying, so the volcano gradually grows into a broad shield shape with labeled flow ages and colors.",
+      "seed": "Shield Volcano Building Over Time: Repeated, gentle eruptions from a central vent send thin lava sheets outward that stack radially, each flow spreading, slowing, and solidifying, so the volcano gradually grows into a broad shield shape with labeled flow ages and colors."
+    },
+    {
+      "number": "13",
+      "title": "Magma Ascent Through a Fractured Crust",
+      "description": "Colored magma blobs ascend through a semi-transparent crustal cross-section along branching dikes and sills, splitting, merging, and transferring heat to surrounding rock while pressure indicators and labels show where fractures open and seal.",
+      "seed": "Magma Ascent Through a Fractured Crust: Colored magma blobs ascend through a semi-transparent crustal cross-section along branching dikes and sills, splitting, merging, and transferring heat to surrounding rock while pressure indicators and labels show where fractures open and seal."
+    },
+    {
+      "number": "14",
+      "title": "Volcanic Gas Emissions and Atmospheric Dispersion",
+      "description": "Invisible gas escaping from a vent is visualized as transparent colored clouds that rise, mix, and drift with a moving wind field, with gas concentration isosurfaces, labeled plume axes, and sensors that change color as gas levels increase.",
+      "seed": "Volcanic Gas Emissions and Atmospheric Dispersion: Invisible gas escaping from a vent is visualized as transparent colored clouds that rise, mix, and drift with a moving wind field, with gas concentration isosurfaces, labeled plume axes, and sensors that change color as gas levels increase."
+    },
+    {
+      "number": "15",
+      "title": "Tephra Fall and Thickness Distribution",
+      "description": "An eruptive column injects particles of varying sizes that are color-coded and launched into the wind, then settle under gravity to form a 3D blanket of tephra on the surrounding terrain, with dynamic labels showing deposit thickness at sampling points.",
+      "seed": "Tephra Fall and Thickness Distribution: An eruptive column injects particles of varying sizes that are color-coded and launched into the wind, then settle under gravity to form a 3D blanket of tephra on the surrounding terrain, with dynamic labels showing deposit thickness at sampling points."
+    },
+    {
+      "number": "16",
+      "title": "Lahar (Volcanic Mudflow) Racing Down Valleys",
+      "description": "A mixture of water, ash, and rock forms a dense lahar that detaches from the volcano and flows down valleys, picking up and pushing stationary boulders, wrapping around obstacles, slowing on flatter ground, and leaving behind a thick, muddy deposit.",
+      "seed": "Lahar (Volcanic Mudflow) Racing Down Valleys: A mixture of water, ash, and rock forms a dense lahar that detaches from the volcano and flows down valleys, picking up and pushing stationary boulders, wrapping around obstacles, slowing on flatter ground, and leaving behind a thick, muddy deposit."
+    },
+    {
+      "number": "17",
+      "title": "Island-Forming Underwater Eruption",
+      "description": "Repeated submarine eruptions build a cone that gradually breaches the water surface, with lava pillows forming underwater, then transitioning to spatter and lava flows above water, while waves erode the new coastline and redistribute debris.",
+      "seed": "Island-Forming Underwater Eruption: Repeated submarine eruptions build a cone that gradually breaches the water surface, with lava pillows forming underwater, then transitioning to spatter and lava flows above water, while waves erode the new coastline and redistribute debris."
+    },
+    {
+      "number": "18",
+      "title": "Volcanic Eruption Energy Monitor",
+      "description": "A volcano model erupts with varying intensity bursts while a floating 3D meter and time-plot bars update to show instantaneous eruption energy, gas flux, and particle mass, with color-coded jets and labels linking each visual metric to the eruptive behavior.",
+      "seed": "Volcanic Eruption Energy Monitor: A volcano model erupts with varying intensity bursts while a floating 3D meter and time-plot bars update to show instantaneous eruption energy, gas flux, and particle mass, with color-coded jets and labels linking each visual metric to the eruptive behavior."
+    },
+    {
+      "number": "19",
+      "title": "Planetary Volcanism on Io-Style Moon",
+      "description": "Multiple low-gravity volcanoes on a small moon spew tall fountains of sulfurous material that arc high and fall in ballistic trajectories, forming colorful deposits, with the moon rotating beneath a central planet and plumes slightly bending along its orbital path.",
+      "seed": "Planetary Volcanism on Io-Style Moon: Multiple low-gravity volcanoes on a small moon spew tall fountains of sulfurous material that arc high and fall in ballistic trajectories, forming colorful deposits, with the moon rotating beneath a central planet and plumes slightly bending along its orbital path."
+    },
+    {
+      "number": "20",
+      "title": "Microscopic View of Magma Crystallization",
+      "description": "A transparent 3D cube of molten magma cools from the edges inward, where crystals nucleate, grow, branch, and sometimes merge, pushing melt aside, with mineral types color-coded and labels tracking how crystal fraction increases over time.",
+      "seed": "Microscopic View of Magma Crystallization: A transparent 3D cube of molten magma cools from the edges inward, where crystals nucleate, grow, branch, and sometimes merge, pushing melt aside, with mineral types color-coded and labels tracking how crystal fraction increases over time."
+    },
+    {
+      "number": "21",
+      "title": "Conduit Dynamics With Gas Slugs and Bubbles",
+      "description": "Inside a vertical semi-transparent conduit, gas bubbles and large slugs rise through viscous magma, coalesce, split, and accelerate upward, occasionally bursting at the top to generate surface explosions while pressure and velocity fields pulse colorfully.",
+      "seed": "Conduit Dynamics With Gas Slugs and Bubbles: Inside a vertical semi-transparent conduit, gas bubbles and large slugs rise through viscous magma, coalesce, split, and accelerate upward, occasionally bursting at the top to generate surface explosions while pressure and velocity fields pulse colorfully."
+    },
+    {
+      "number": "22",
+      "title": "Lava Tube Formation and Skylight Collapse",
+      "description": "A surface lava flow gradually crusts over to form a lava tube with glowing interior flow visible through transparent sections, while the roof thins and parts of it collapse to create skylights, exposing the moving lava and leaving rubble piles below.",
+      "seed": "Lava Tube Formation and Skylight Collapse: A surface lava flow gradually crusts over to form a lava tube with glowing interior flow visible through transparent sections, while the roof thins and parts of it collapse to create skylights, exposing the moving lava and leaving rubble piles below."
+    },
+    {
+      "number": "23",
+      "title": "Volcanic Island Chain Over a Hotspot",
+      "description": "A tectonic plate represented by a moving slab passes over a stationary hotspot plume, creating a sequence of volcanic islands that grow, become dormant, and erode as they move away, with age labels, height changes, and a glowing plume rising from depth.",
+      "seed": "Volcanic Island Chain Over a Hotspot: A tectonic plate represented by a moving slab passes over a stationary hotspot plume, creating a sequence of volcanic islands that grow, become dormant, and erode as they move away, with age labels, height changes, and a glowing plume rising from depth."
+    },
+    {
+      "number": "24",
+      "title": "Societal Impact Zone of an Eruption",
+      "description": "A volcano at the center erupts with ash, lava, and gas, while nearby buildings, roads, and evacuation routes are shown; ash fall, lava flow, and lahar paths are color-coded, incrementally covering infrastructure and changing labels from safe to at-risk to destroyed.",
+      "seed": "Societal Impact Zone of an Eruption: A volcano at the center erupts with ash, lava, and gas, while nearby buildings, roads, and evacuation routes are shown; ash fall, lava flow, and lahar paths are color-coded, incrementally covering infrastructure and changing labels from safe to at-risk to destroyed."
+    },
+    {
+      "number": "25",
+      "title": "Symbolic Eruption of Ideas in a Network",
+      "description": "A central “idea volcano” node erupts glowing particles that travel along semi-transparent network links, split, merge, and activate connected nodes (lighting them up and adding labels), illustrating how one eruption of information cascades through an abstract 3D network.",
+      "seed": "Symbolic Eruption of Ideas in a Network: A central “idea volcano” node erupts glowing particles that travel along semi-transparent network links, split, merge, and activate connected nodes (lighting them up and adding labels), illustrating how one eruption of information cascades through an abstract 3D network."
+    }
+  ],
+  "raw_output": "Here are strong **Volcanic eruptions simulation inputs** you can plug into your prompt:\n\n1. **Cone Volcano With Rising Magma Column**\n   A 3D conical volcano sits on a light-colored terrain while a red semi-transparent magma column rises inside a hollow shaft, pressurizes, then bursts through the crater as glowing particle jets and lava blobs that roll down the slopes, cool, and darken.\n\n2. **Lava Fountain and Lava Flow Rivers**\n   A central vent emits pulsing lava fountains made of small spheres that arc upward and fall, merging into branching lava rivers that flow downhill around stationary rocks, slowly building layered crusts that thicken, darken, and crack.\n\n3. **Explosive Stratovolcano With Ash Plume**\n   A tall stratovolcano cone violently ejects fragmented rock particles and ash as gray and black particle clouds that rise, expand, and drift downwind, with denser ash falling to create layered deposits and lighter ash forming a spreading umbrella-shaped plume.\n\n4. **Submarine Volcano and Bubble Plumes**\n   A volcanic mound on a seabed releases hot glowing lava that creeps along the ocean floor while chains of transparent bubbles rise, expand, and burst at the water surface, with temperature-colored water parcels circulating and mixing around the vent.\n\n5. **Volcanic Bomb Trajectories and Impacts**\n   Large glowing volcanic bombs are launched from a vent with varying initial velocities, follow arcing trajectories, leave faint trails, and impact the ground with bouncing, fracturing, and embedding behaviors that form craters and scatter fragments.\n\n6. **Pyroclastic Density Currents Rushing Down Slopes**\n   Dense, fast-moving pyroclastic flows made of hot particle clouds detach from the eruptive column, hug the terrain, wrap around hills, overtop ridges, and mark their paths with ash and pumice deposits that accumulate and slowly cool.\n\n7. **Caldera Collapse and Ring Fault Development**\n   A magma chamber under a volcanic plateau inflates and then deflates, causing the overlying ground to sag, crack, and drop into a ring-shaped caldera, with labeled fault segments, sinking blocks, and color-coded stress regions that pulse as collapse progresses.\n\n8. **Lava Dome Growth and Collapse**\n   Highly viscous lava extrudes slowly from a central vent to build a steep lava dome that grows, bulges, and fractures until part of it collapses, sending rock avalanches and glowing block-and-ash flows down the flanks.\n\n9. **Volcanic Lightning in Ash Clouds**\n   A turbulent ash plume rises from an explosive vent with charged ash particles that separate by size and speed, then form branching, glowing lightning discharges between regions of opposite charge, briefly illuminating labeled charge zones inside the cloud.\n\n10. **Fissure Eruption With Multiple Vents**\n    A linear fissure opens across a plateau and spawns multiple small lava fountains that pulse independently, coalesce into overlapping lava fields, and gradually fill low-lying areas while vents occasionally shut off or reactivate.\n\n11. **Lava–Water Interaction and Steam Explosions**\n   A lava flow advances into a lake, instantly generating white steam clouds and explosive blasts that eject fragmented lava and water droplets, with boiling zones marked by ripples and color changes where hot rock meets cooler water.\n\n12. **Shield Volcano Building Over Time**\n   Repeated, gentle eruptions from a central vent send thin lava sheets outward that stack radially, each flow spreading, slowing, and solidifying, so the volcano gradually grows into a broad shield shape with labeled flow ages and colors.\n\n13. **Magma Ascent Through a Fractured Crust**\n   Colored magma blobs ascend through a semi-transparent crustal cross-section along branching dikes and sills, splitting, merging, and transferring heat to surrounding rock while pressure indicators and labels show where fractures open and seal.\n\n14. **Volcanic Gas Emissions and Atmospheric Dispersion**\n   Invisible gas escaping from a vent is visualized as transparent colored clouds that rise, mix, and drift with a moving wind field, with gas concentration isosurfaces, labeled plume axes, and sensors that change color as gas levels increase.\n\n15. **Tephra Fall and Thickness Distribution**\n   An eruptive column injects particles of varying sizes that are color-coded and launched into the wind, then settle under gravity to form a 3D blanket of tephra on the surrounding terrain, with dynamic labels showing deposit thickness at sampling points.\n\n16. **Lahar (Volcanic Mudflow) Racing Down Valleys**\n   A mixture of water, ash, and rock forms a dense lahar that detaches from the volcano and flows down valleys, picking up and pushing stationary boulders, wrapping around obstacles, slowing on flatter ground, and leaving behind a thick, muddy deposit.\n\n17. **Island-Forming Underwater Eruption**\n   Repeated submarine eruptions build a cone that gradually breaches the water surface, with lava pillows forming underwater, then transitioning to spatter and lava flows above water, while waves erode the new coastline and redistribute debris.\n\n18. **Volcanic Eruption Energy Monitor**\n   A volcano model erupts with varying intensity bursts while a floating 3D meter and time-plot bars update to show instantaneous eruption energy, gas flux, and particle mass, with color-coded jets and labels linking each visual metric to the eruptive behavior.\n\n19. **Planetary Volcanism on Io-Style Moon**\n   Multiple low-gravity volcanoes on a small moon spew tall fountains of sulfurous material that arc high and fall in ballistic trajectories, forming colorful deposits, with the moon rotating beneath a central planet and plumes slightly bending along its orbital path.\n\n20. **Microscopic View of Magma Crystallization**\n   A transparent 3D cube of molten magma cools from the edges inward, where crystals nucleate, grow, branch, and sometimes merge, pushing melt aside, with mineral types color-coded and labels tracking how crystal fraction increases over time.\n\n21. **Conduit Dynamics With Gas Slugs and Bubbles**\n   Inside a vertical semi-transparent conduit, gas bubbles and large slugs rise through viscous magma, coalesce, split, and accelerate upward, occasionally bursting at the top to generate surface explosions while pressure and velocity fields pulse colorfully.\n\n22. **Lava Tube Formation and Skylight Collapse**\n   A surface lava flow gradually crusts over to form a lava tube with glowing interior flow visible through transparent sections, while the roof thins and parts of it collapse to create skylights, exposing the moving lava and leaving rubble piles below.\n\n23. **Volcanic Island Chain Over a Hotspot**\n   A tectonic plate represented by a moving slab passes over a stationary hotspot plume, creating a sequence of volcanic islands that grow, become dormant, and erode as they move away, with age labels, height changes, and a glowing plume rising from depth.\n\n24. **Societal Impact Zone of an Eruption**\n   A volcano at the center erupts with ash, lava, and gas, while nearby buildings, roads, and evacuation routes are shown; ash fall, lava flow, and lahar paths are color-coded, incrementally covering infrastructure and changing labels from safe to at-risk to destroyed.\n\n25. **Symbolic Eruption of Ideas in a Network**\n   A central “idea volcano” node erupts glowing particles that travel along semi-transparent network links, split, merge, and activate connected nodes (lighting them up and adding labels), illustrating how one eruption of information cascades through an abstract 3D network."
+}

@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Emotion-to-color systems",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:09:35",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Emotion Orb Garden",
+      "description": "A field of floating translucent spheres that change color and size based on proximity to a central “mood core” ball, with trails showing their recent color history as they drift, collide, and gently bounce.",
+      "seed": "Emotion Orb Garden: A field of floating translucent spheres that change color and size based on proximity to a central “mood core” ball, with trails showing their recent color history as they drift, collide, and gently bounce."
+    },
+    {
+      "number": "2",
+      "title": "Emotional Weather Map",
+      "description": "A flat city grid of boxes whose top surfaces pulse between colors (emotion states) while small colored particles rise like “emotional fog,” condense into clouds, and rain tinted droplets that recolor the blocks they hit.",
+      "seed": "Emotional Weather Map: A flat city grid of boxes whose top surfaces pulse between colors (emotion states) while small colored particles rise like “emotional fog,” condense into clouds, and rain tinted droplets that recolor the blocks they hit."
+    },
+    {
+      "number": "3",
+      "title": "Mood Galaxy with Color Orbits",
+      "description": "A central white “neutral” star orbited by smaller emotion-planets whose orbital radius, speed, and surface color shift as they collide with passing color-coded comets that transfer their hue on impact.",
+      "seed": "Mood Galaxy with Color Orbits: A central white “neutral” star orbited by smaller emotion-planets whose orbital radius, speed, and surface color shift as they collide with passing color-coded comets that transfer their hue on impact."
+    },
+    {
+      "number": "4",
+      "title": "Social Network Emotion Graph",
+      "description": "Dozens of labeled spheres (people) connected by thin semi-transparent rods, where each sphere’s color changes and spreads along links when colored emotion-pulses travel, branch, and fade across the network.",
+      "seed": "Social Network Emotion Graph: Dozens of labeled spheres (people) connected by thin semi-transparent rods, where each sphere’s color changes and spreads along links when colored emotion-pulses travel, branch, and fade across the network."
+    },
+    {
+      "number": "5",
+      "title": "Emotion Mixing Laboratory",
+      "description": "Several transparent flasks and tubes containing colored fluid layers that slowly mix, with moving stirrers, droplets that split and merge, and color gradients that update to show emotional blending over time.",
+      "seed": "Emotion Mixing Laboratory: Several transparent flasks and tubes containing colored fluid layers that slowly mix, with moving stirrers, droplets that split and merge, and color gradients that update to show emotional blending over time."
+    },
+    {
+      "number": "6",
+      "title": "Heartbeat Emotion Rings",
+      "description": "A central pulsing cylinder (heart) that sends out expanding colored rings along a line of connected spheres, where each ring’s color encodes emotion and briefly repaints the spheres it passes through before fading.",
+      "seed": "Heartbeat Emotion Rings: A central pulsing cylinder (heart) that sends out expanding colored rings along a line of connected spheres, where each ring’s color encodes emotion and briefly repaints the spheres it passes through before fading."
+    },
+    {
+      "number": "7",
+      "title": "Emotion-to-Color Brain Map",
+      "description": "A semi-transparent brain-shaped volume filled with small voxels that light up and change color when incoming emotion-particles strike different regions, with arcs showing colored signals traveling between regions.",
+      "seed": "Emotion-to-Color Brain Map: A semi-transparent brain-shaped volume filled with small voxels that light up and change color when incoming emotion-particles strike different regions, with arcs showing colored signals traveling between regions."
+    },
+    {
+      "number": "8",
+      "title": "Room Mood Thermometer",
+      "description": "A 3D room with scattered avatar spheres whose colors change based on distance to sound-emitter objects; a tall vertical tube at the side fills from bottom to top with blended color as it averages the room’s emotional state.",
+      "seed": "Room Mood Thermometer: A 3D room with scattered avatar spheres whose colors change based on distance to sound-emitter objects; a tall vertical tube at the side fills from bottom to top with blended color as it averages the room’s emotional state."
+    },
+    {
+      "number": "9",
+      "title": "Emotion River Flow",
+      "description": "A gently curving transparent channel where colored droplets (emotions) flow downstream, collide, merge into blended colors, occasionally spill over the banks as sprays, and leave faint color stains on the riverbed.",
+      "seed": "Emotion River Flow: A gently curving transparent channel where colored droplets (emotions) flow downstream, collide, merge into blended colors, occasionally spill over the banks as sprays, and leave faint color stains on the riverbed."
+    },
+    {
+      "number": "10",
+      "title": "Emotion-Driven Mobile Sculpture",
+      "description": "Hanging rods and plates suspended from a ceiling beam, where each plate’s color and gentle rotational speed change when colored emotion-balls launched from below collide and either stick or bounce off.",
+      "seed": "Emotion-Driven Mobile Sculpture: Hanging rods and plates suspended from a ceiling beam, where each plate’s color and gentle rotational speed change when colored emotion-balls launched from below collide and either stick or bounce off."
+    },
+    {
+      "number": "11",
+      "title": "Colorful Emotional Echo Chamber",
+      "description": "A spherical room whose inner wall tiles recolor to match the hue of emotion-balls bouncing around inside, with each impact leaving a temporary color mark that slowly dissolves back to neutral.",
+      "seed": "Colorful Emotional Echo Chamber: A spherical room whose inner wall tiles recolor to match the hue of emotion-balls bouncing around inside, with each impact leaving a temporary color mark that slowly dissolves back to neutral."
+    },
+    {
+      "number": "12",
+      "title": "Emotion Crystal Growth",
+      "description": "A central seed crystal that sprouts branching rods in 3D, with new branches inheriting and slightly shifting the color of the emotion-particles that attach to their tips, forming a glowing multicolored crystalline tree.",
+      "seed": "Emotion Crystal Growth: A central seed crystal that sprouts branching rods in 3D, with new branches inheriting and slightly shifting the color of the emotion-particles that attach to their tips, forming a glowing multicolored crystalline tree."
+    },
+    {
+      "number": "13",
+      "title": "Microbial Emotion Petri Dish",
+      "description": "A circular dish on a table with tiny colored “emotion microbes” that move randomly, bounce off edges, replicate when they touch similar colors, and fade or change color when surrounded by opposing hues.",
+      "seed": "Microbial Emotion Petri Dish: A circular dish on a table with tiny colored “emotion microbes” that move randomly, bounce off edges, replicate when they touch similar colors, and fade or change color when surrounded by opposing hues."
+    },
+    {
+      "number": "14",
+      "title": "Emotion Elevator Building",
+      "description": "A stack of transparent floors with box-shaped rooms containing spheres whose colors shift when a central elevator cage carries colored “emotion capsules” up and down, releasing them to drift into adjacent rooms.",
+      "seed": "Emotion Elevator Building: A stack of transparent floors with box-shaped rooms containing spheres whose colors shift when a central elevator cage carries colored “emotion capsules” up and down, releasing them to drift into adjacent rooms."
+    },
+    {
+      "number": "15",
+      "title": "Emotion Cloud Condenser",
+      "description": "A chamber where warm colored gas particles rise, collide, and condense into semi-transparent emotion-cloud blobs that float, merge, and occasionally drip dense colored droplets to the floor, staining it lightly.",
+      "seed": "Emotion Cloud Condenser: A chamber where warm colored gas particles rise, collide, and condense into semi-transparent emotion-cloud blobs that float, merge, and occasionally drip dense colored droplets to the floor, staining it lightly."
+    },
+    {
+      "number": "16",
+      "title": "Color-Changing Emotion Ring Road",
+      "description": "A circular track with cars represented by boxes that change body color as they pass through different emotion-gates, leaving short color trails on the track that slowly fade back to a neutral tone.",
+      "seed": "Color-Changing Emotion Ring Road: A circular track with cars represented by boxes that change body color as they pass through different emotion-gates, leaving short color trails on the track that slowly fade back to a neutral tone."
+    },
+    {
+      "number": "17",
+      "title": "Emotion Pendulum Wall",
+      "description": "A row of pendulum spheres with varying lengths and masses, where each bob’s color encodes an emotion and changes when bobs collide; collisions transfer partial color, creating slow blending along the row.",
+      "seed": "Emotion Pendulum Wall: A row of pendulum spheres with varying lengths and masses, where each bob’s color encodes an emotion and changes when bobs collide; collisions transfer partial color, creating slow blending along the row."
+    },
+    {
+      "number": "18",
+      "title": "Classroom Emotion Field",
+      "description": "Desks laid out in a grid with seated avatar spheres whose colors change when a teacher sphere at the front sends out expanding colored waves; desk surfaces briefly glow with received colors and then dim.",
+      "seed": "Classroom Emotion Field: Desks laid out in a grid with seated avatar spheres whose colors change when a teacher sphere at the front sends out expanding colored waves; desk surfaces briefly glow with received colors and then dim."
+    },
+    {
+      "number": "19",
+      "title": "Emotion Volcano",
+      "description": "A central cone that periodically erupts colored particles representing intense emotions, which shoot upward, arc outward, and fall as ash that recolors the ground around the volcano before slowly fading.",
+      "seed": "Emotion Volcano: A central cone that periodically erupts colored particles representing intense emotions, which shoot upward, arc outward, and fall as ash that recolors the ground around the volcano before slowly fading."
+    },
+    {
+      "number": "20",
+      "title": "Emotion Tide Pool",
+      "description": "A shallow transparent basin with colored “emotion droplets” that are pulled back and forth by a moving moon sphere overhead; as the tide rises and falls, droplets cluster, mix colors, and leave temporary marks on the basin floor.",
+      "seed": "Emotion Tide Pool: A shallow transparent basin with colored “emotion droplets” that are pulled back and forth by a moving moon sphere overhead; as the tide rises and falls, droplets cluster, mix colors, and leave temporary marks on the basin floor."
+    },
+    {
+      "number": "21",
+      "title": "Emotion Conveyor Factory",
+      "description": "Colored emotion-cubes ride along conveyor belts, pass through processing stations that recolor or split them, then merge at junctions into larger blended cubes, with overhead labels displaying their current color codes.",
+      "seed": "Emotion Conveyor Factory: Colored emotion-cubes ride along conveyor belts, pass through processing stations that recolor or split them, then merge at junctions into larger blended cubes, with overhead labels displaying their current color codes."
+    },
+    {
+      "number": "22",
+      "title": "Emotion Fireflies in a Park",
+      "description": "A park scene with trees and benches where tiny glowing particles (fireflies) change color based on proximity to colored “emotion zones” on the ground, leaving faint light trails as they orbit, swarm, and disperse.",
+      "seed": "Emotion Fireflies in a Park: A park scene with trees and benches where tiny glowing particles (fireflies) change color based on proximity to colored “emotion zones” on the ground, leaving faint light trails as they orbit, swarm, and disperse."
+    },
+    {
+      "number": "23",
+      "title": "Emotion Elevator of Self",
+      "description": "A tall transparent cylinder containing stacked rings that slide up and down; each ring’s color shifts as emotion-spheres enter, orbit briefly, then exit, leaving a vertical gradient showing recent emotional transitions.",
+      "seed": "Emotion Elevator of Self: A tall transparent cylinder containing stacked rings that slide up and down; each ring’s color shifts as emotion-spheres enter, orbit briefly, then exit, leaving a vertical gradient showing recent emotional transitions."
+    },
+    {
+      "number": "24",
+      "title": "Emotion Resonance Columns",
+      "description": "Several vertical columns that vibrate gently and glow with emotion colors when struck by passing colored waves; neighboring columns with similar colors start to pulse in sync, while dissonant colors damp each other.",
+      "seed": "Emotion Resonance Columns: Several vertical columns that vibrate gently and glow with emotion colors when struck by passing colored waves; neighboring columns with similar colors start to pulse in sync, while dissonant colors damp each other."
+    },
+    {
+      "number": "25",
+      "title": "Emotion Tattoo Skin Patch",
+      "description": "A slightly curved transparent “skin” surface where colored emotion-particles moving underneath cause localized regions to glow, spread, and then contract, drawing temporary color patterns that wrap smoothly over the surface.",
+      "seed": "Emotion Tattoo Skin Patch: A slightly curved transparent “skin” surface where colored emotion-particles moving underneath cause localized regions to glow, spread, and then contract, drawing temporary color patterns that wrap smoothly over the surface."
+    }
+  ],
+  "raw_output": "Here are strong **Emotion-to-color systems simulation inputs** you can plug into your prompt:\n\n1. **Emotion Orb Garden**\n   A field of floating translucent spheres that change color and size based on proximity to a central “mood core” ball, with trails showing their recent color history as they drift, collide, and gently bounce.\n\n2. **Emotional Weather Map**\n   A flat city grid of boxes whose top surfaces pulse between colors (emotion states) while small colored particles rise like “emotional fog,” condense into clouds, and rain tinted droplets that recolor the blocks they hit.\n\n3. **Mood Galaxy with Color Orbits**\n   A central white “neutral” star orbited by smaller emotion-planets whose orbital radius, speed, and surface color shift as they collide with passing color-coded comets that transfer their hue on impact.\n\n4. **Social Network Emotion Graph**\n   Dozens of labeled spheres (people) connected by thin semi-transparent rods, where each sphere’s color changes and spreads along links when colored emotion-pulses travel, branch, and fade across the network.\n\n5. **Emotion Mixing Laboratory**\n   Several transparent flasks and tubes containing colored fluid layers that slowly mix, with moving stirrers, droplets that split and merge, and color gradients that update to show emotional blending over time.\n\n6. **Heartbeat Emotion Rings**\n   A central pulsing cylinder (heart) that sends out expanding colored rings along a line of connected spheres, where each ring’s color encodes emotion and briefly repaints the spheres it passes through before fading.\n\n7. **Emotion-to-Color Brain Map**\n   A semi-transparent brain-shaped volume filled with small voxels that light up and change color when incoming emotion-particles strike different regions, with arcs showing colored signals traveling between regions.\n\n8. **Room Mood Thermometer**\n   A 3D room with scattered avatar spheres whose colors change based on distance to sound-emitter objects; a tall vertical tube at the side fills from bottom to top with blended color as it averages the room’s emotional state.\n\n9. **Emotion River Flow**\n   A gently curving transparent channel where colored droplets (emotions) flow downstream, collide, merge into blended colors, occasionally spill over the banks as sprays, and leave faint color stains on the riverbed.\n\n10. **Emotion-Driven Mobile Sculpture**\n    Hanging rods and plates suspended from a ceiling beam, where each plate’s color and gentle rotational speed change when colored emotion-balls launched from below collide and either stick or bounce off.\n\n11. **Colorful Emotional Echo Chamber**\n    A spherical room whose inner wall tiles recolor to match the hue of emotion-balls bouncing around inside, with each impact leaving a temporary color mark that slowly dissolves back to neutral.\n\n12. **Emotion Crystal Growth**\n    A central seed crystal that sprouts branching rods in 3D, with new branches inheriting and slightly shifting the color of the emotion-particles that attach to their tips, forming a glowing multicolored crystalline tree.\n\n13. **Microbial Emotion Petri Dish**\n    A circular dish on a table with tiny colored “emotion microbes” that move randomly, bounce off edges, replicate when they touch similar colors, and fade or change color when surrounded by opposing hues.\n\n14. **Emotion Elevator Building**\n    A stack of transparent floors with box-shaped rooms containing spheres whose colors shift when a central elevator cage carries colored “emotion capsules” up and down, releasing them to drift into adjacent rooms.\n\n15. **Emotion Cloud Condenser**\n    A chamber where warm colored gas particles rise, collide, and condense into semi-transparent emotion-cloud blobs that float, merge, and occasionally drip dense colored droplets to the floor, staining it lightly.\n\n16. **Color-Changing Emotion Ring Road**\n    A circular track with cars represented by boxes that change body color as they pass through different emotion-gates, leaving short color trails on the track that slowly fade back to a neutral tone.\n\n17. **Emotion Pendulum Wall**\n    A row of pendulum spheres with varying lengths and masses, where each bob’s color encodes an emotion and changes when bobs collide; collisions transfer partial color, creating slow blending along the row.\n\n18. **Classroom Emotion Field**\n    Desks laid out in a grid with seated avatar spheres whose colors change when a teacher sphere at the front sends out expanding colored waves; desk surfaces briefly glow with received colors and then dim.\n\n19. **Emotion Volcano**\n    A central cone that periodically erupts colored particles representing intense emotions, which shoot upward, arc outward, and fall as ash that recolors the ground around the volcano before slowly fading.\n\n20. **Emotion Tide Pool**\n    A shallow transparent basin with colored “emotion droplets” that are pulled back and forth by a moving moon sphere overhead; as the tide rises and falls, droplets cluster, mix colors, and leave temporary marks on the basin floor.\n\n21. **Emotion Conveyor Factory**\n    Colored emotion-cubes ride along conveyor belts, pass through processing stations that recolor or split them, then merge at junctions into larger blended cubes, with overhead labels displaying their current color codes.\n\n22. **Emotion Fireflies in a Park**\n    A park scene with trees and benches where tiny glowing particles (fireflies) change color based on proximity to colored “emotion zones” on the ground, leaving faint light trails as they orbit, swarm, and disperse.\n\n23. **Emotion Elevator of Self**\n    A tall transparent cylinder containing stacked rings that slide up and down; each ring’s color shifts as emotion-spheres enter, orbit briefly, then exit, leaving a vertical gradient showing recent emotional transitions.\n\n24. **Emotion Resonance Columns**\n    Several vertical columns that vibrate gently and glow with emotion colors when struck by passing colored waves; neighboring columns with similar colors start to pulse in sync, while dissonant colors damp each other.\n\n25. **Emotion Tattoo Skin Patch**\n    A slightly curved transparent “skin” surface where colored emotion-particles moving underneath cause localized regions to glow, spread, and then contract, drawing temporary color patterns that wrap smoothly over the surface."
+}

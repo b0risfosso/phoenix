@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Ring systems",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:40:06",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Saturn-Like Planetary Ring Orbit Simulator",
+      "description": "A central pastel-colored planet with thousands of small particles forming a flat ring that orbit, collide, clump into moonlets, and leave faint trails, while labels mark ring gaps and a slider gradually tilts the ring plane.",
+      "seed": "Saturn-Like Planetary Ring Orbit Simulator: A central pastel-colored planet with thousands of small particles forming a flat ring that orbit, collide, clump into moonlets, and leave faint trails, while labels mark ring gaps and a slider gradually tilts the ring plane."
+    },
+    {
+      "number": "2",
+      "title": "Shepherd Moons and Ring Gap Formation",
+      "description": "Two small labeled shepherd moons orbit inside a bright particle ring around a planet, gravitationally clearing a visible gap as ring particles bounce, get scattered, or temporarily attach as glowing clusters.",
+      "seed": "Shepherd Moons and Ring Gap Formation: Two small labeled shepherd moons orbit inside a bright particle ring around a planet, gravitationally clearing a visible gap as ring particles bounce, get scattered, or temporarily attach as glowing clusters."
+    },
+    {
+      "number": "3",
+      "title": "Ring Resonance Wave Propagation",
+      "description": "A narrow ring of particles around a planet where a passing moon induces spiral density waves that propagate as pulsing bright bands through the ring, with particles slightly shifting orbits and leaving curved trails.",
+      "seed": "Ring Resonance Wave Propagation: A narrow ring of particles around a planet where a passing moon induces spiral density waves that propagate as pulsing bright bands through the ring, with particles slightly shifting orbits and leaving curved trails."
+    },
+    {
+      "number": "4",
+      "title": "Debris Ring Around a Dwarf Planet",
+      "description": "A small icy dwarf planet with a thin, slightly tilted debris ring of irregular chunks that collide, fragment, and slowly spread, with color-coded velocities and a meter showing total ring mass over time.",
+      "seed": "Debris Ring Around a Dwarf Planet: A small icy dwarf planet with a thin, slightly tilted debris ring of irregular chunks that collide, fragment, and slowly spread, with color-coded velocities and a meter showing total ring mass over time."
+    },
+    {
+      "number": "5",
+      "title": "Asteroid Belt Ring Around a Star",
+      "description": "A bright star with a broad, dusty asteroid ring where larger asteroids have small orbiting moonlets, collisions create temporary dust clouds, and semi-transparent dust smoothly diffuses outward.",
+      "seed": "Asteroid Belt Ring Around a Star: A bright star with a broad, dusty asteroid ring where larger asteroids have small orbiting moonlets, collisions create temporary dust clouds, and semi-transparent dust smoothly diffuses outward."
+    },
+    {
+      "number": "6",
+      "title": "Accretion Disk and Proto-Planet Ring Gaps",
+      "description": "A glowing young star with a thick, semi-transparent gas and dust disk where multiple forming planets carve ring-like gaps, accrete material, and leave visible spiral arms with particles that glow as they fall inward.",
+      "seed": "Accretion Disk and Proto-Planet Ring Gaps: A glowing young star with a thick, semi-transparent gas and dust disk where multiple forming planets carve ring-like gaps, accrete material, and leave visible spiral arms with particles that glow as they fall inward."
+    },
+    {
+      "number": "7",
+      "title": "Ring Galaxy Collision and Rebound",
+      "description": "Two galaxies collide head-on, producing an expanding ring of bright stars that sweeps outward through a disk of dimmer stars, with color-coded velocities and faint trails showing orbital paths before and after impact.",
+      "seed": "Ring Galaxy Collision and Rebound: Two galaxies collide head-on, producing an expanding ring of bright stars that sweeps outward through a disk of dimmer stars, with color-coded velocities and faint trails showing orbital paths before and after impact."
+    },
+    {
+      "number": "8",
+      "title": "Charged Dust Ring in a Magnetic Field",
+      "description": "A ring of charged dust grains floating around a central coil that generates a rotating magnetic field, causing the grains to wobble, bunch into arcs, glow when accelerated, and occasionally jump to different ring radii.",
+      "seed": "Charged Dust Ring in a Magnetic Field: A ring of charged dust grains floating around a central coil that generates a rotating magnetic field, causing the grains to wobble, bunch into arcs, glow when accelerated, and occasionally jump to different ring radii."
+    },
+    {
+      "number": "9",
+      "title": "Satellites in Circular Orbital Constellation",
+      "description": "A planet surrounded by multiple labeled communication satellites evenly spaced on a ring, each adjusting position to maintain equal spacing, with laser-link beams that attach, detach, and reroute as satellites drift.",
+      "seed": "Satellites in Circular Orbital Constellation: A planet surrounded by multiple labeled communication satellites evenly spaced on a ring, each adjusting position to maintain equal spacing, with laser-link beams that attach, detach, and reroute as satellites drift."
+    },
+    {
+      "number": "10",
+      "title": "Ring Road Traffic Flow System",
+      "description": "A top-down 3D ring road with small car boxes moving along lanes, accelerating, braking, and causing visible stop-and-go shockwaves; collisions trigger colored warning halos and labels over congested segments.",
+      "seed": "Ring Road Traffic Flow System: A top-down 3D ring road with small car boxes moving along lanes, accelerating, braking, and causing visible stop-and-go shockwaves; collisions trigger colored warning halos and labels over congested segments."
+    },
+    {
+      "number": "11",
+      "title": "Mechanical Bearing with Rolling Elements",
+      "description": "A cross-section of a ball bearing where steel balls orbit between inner and outer rings, lubricating fluid particles flow and mix between them, and rotation speed changes cause heating shown by color shifts.",
+      "seed": "Mechanical Bearing with Rolling Elements: A cross-section of a ball bearing where steel balls orbit between inner and outer rings, lubricating fluid particles flow and mix between them, and rotation speed changes cause heating shown by color shifts."
+    },
+    {
+      "number": "12",
+      "title": "Ring of Fire Volcano Arc Dynamics",
+      "description": "A curved “ring” of volcano cones on a globe’s surface where tectonic plate edges are highlighted; subduction zones push plates under each other, volcanoes periodically erupt particle jets and ash rings that drift in the atmosphere.",
+      "seed": "Ring of Fire Volcano Arc Dynamics: A curved “ring” of volcano cones on a globe’s surface where tectonic plate edges are highlighted; subduction zones push plates under each other, volcanoes periodically erupt particle jets and ash rings that drift in the atmosphere."
+    },
+    {
+      "number": "13",
+      "title": "Molecular Ring Polymer Dynamics",
+      "description": "Several flexible ring-shaped polymers floating in a box, wriggling, colliding, threading through one another, and occasionally splitting or merging, with semi-transparent bonds and color changes when rings interlock.",
+      "seed": "Molecular Ring Polymer Dynamics: Several flexible ring-shaped polymers floating in a box, wriggling, colliding, threading through one another, and occasionally splitting or merging, with semi-transparent bonds and color changes when rings interlock."
+    },
+    {
+      "number": "14",
+      "title": "Halo Ringworld with Orbital Day-Night Cycle",
+      "description": "A massive ring structure encircling a star, with a rotating ring casting moving shadows on its inner surface, showing oceans and continents, while tiny ships orbit, dock, and detach from labeled stations along the ring.",
+      "seed": "Halo Ringworld with Orbital Day-Night Cycle: A massive ring structure encircling a star, with a rotating ring casting moving shadows on its inner surface, showing oceans and continents, while tiny ships orbit, dock, and detach from labeled stations along the ring."
+    },
+    {
+      "number": "15",
+      "title": "Ring Vortex Smoke Torus in Fluid",
+      "description": "A torus of semi-transparent particles representing a smoke ring that travels forward in a light-colored fluid, slowly stretching, diffusing, colliding with a wall, and splitting into smaller vortex rings.",
+      "seed": "Ring Vortex Smoke Torus in Fluid: A torus of semi-transparent particles representing a smoke ring that travels forward in a light-colored fluid, slowly stretching, diffusing, colliding with a wall, and splitting into smaller vortex rings."
+    },
+    {
+      "number": "16",
+      "title": "Planetary Ring Particle Sorting by Size",
+      "description": "A ring of mixed-size particles around a planet where a weak gas drag causes smaller grains to spiral inward and larger ones drift outward, visually sorting the ring into concentric color-coded bands over time.",
+      "seed": "Planetary Ring Particle Sorting by Size: A ring of mixed-size particles around a planet where a weak gas drag causes smaller grains to spiral inward and larger ones drift outward, visually sorting the ring into concentric color-coded bands over time."
+    },
+    {
+      "number": "17",
+      "title": "Magnetic Ring Launcher (Railgun Loop)",
+      "description": "A circular rail with a conductive ring projectile that is accelerated around the loop by pulsing magnetic coils, showing current as glowing segments, and the ring detaching at high speed along a tangent track.",
+      "seed": "Magnetic Ring Launcher (Railgun Loop): A circular rail with a conductive ring projectile that is accelerated around the loop by pulsing magnetic coils, showing current as glowing segments, and the ring detaching at high speed along a tangent track."
+    },
+    {
+      "number": "18",
+      "title": "Rings of Social Influence Network",
+      "description": "Concentric rings of nodes around a central influencer node, where influence pulses travel outward as glowing waves; nodes change color when “activated” and can relay, block, or damp pulses, with labels showing influence strength.",
+      "seed": "Rings of Social Influence Network: Concentric rings of nodes around a central influencer node, where influence pulses travel outward as glowing waves; nodes change color when “activated” and can relay, block, or damp pulses, with labels showing influence strength."
+    },
+    {
+      "number": "19",
+      "title": "Planetary Ring Shadow and Eclipses",
+      "description": "A tilted ring around a planet orbiting a star, where the ring casts moving shadows on the planet’s surface and occasionally creates thin eclipse bands on an orbiting moon, all visualized with soft, transparent shading.",
+      "seed": "Planetary Ring Shadow and Eclipses: A tilted ring around a planet orbiting a star, where the ring casts moving shadows on the planet’s surface and occasionally creates thin eclipse bands on an orbiting moon, all visualized with soft, transparent shading."
+    },
+    {
+      "number": "20",
+      "title": "Orbital Debris Ring Around Earth",
+      "description": "Earth with a cluttered ring of satellites and debris, where collisions generate more fragments that spread, larger satellites perform avoidance maneuvers, and risk zones are shown as transparent colored shells.",
+      "seed": "Orbital Debris Ring Around Earth: Earth with a cluttered ring of satellites and debris, where collisions generate more fragments that spread, larger satellites perform avoidance maneuvers, and risk zones are shown as transparent colored shells."
+    },
+    {
+      "number": "21",
+      "title": "Binary Star with Circumbinary Ring",
+      "description": "Two stars orbiting each other at the center, surrounded by a shared dusty ring whose inner edge warps and oscillates as the stars move, with dust particles occasionally falling inward in bright streaks.",
+      "seed": "Binary Star with Circumbinary Ring: Two stars orbiting each other at the center, surrounded by a shared dusty ring whose inner edge warps and oscillates as the stars move, with dust particles occasionally falling inward in bright streaks."
+    },
+    {
+      "number": "22",
+      "title": "Ring-Shaped Particle Accelerator",
+      "description": "A circular accelerator ring with particles represented as glowing beads racing along the track, bunching into packets, colliding at marked interaction points that emit particle showers and brief expanding light rings.",
+      "seed": "Ring-Shaped Particle Accelerator: A circular accelerator ring with particles represented as glowing beads racing along the track, bunching into packets, colliding at marked interaction points that emit particle showers and brief expanding light rings."
+    },
+    {
+      "number": "23",
+      "title": "Crystalline Ring Growth on a Seed",
+      "description": "A tiny seed particle at the center of a fluid where dissolved molecules drift in, attach to form a growing hexagonal ring, then additional concentric crystalline rings grow, dissolve, or crack under simulated stress.",
+      "seed": "Crystalline Ring Growth on a Seed: A tiny seed particle at the center of a fluid where dissolved molecules drift in, attach to form a growing hexagonal ring, then additional concentric crystalline rings grow, dissolve, or crack under simulated stress."
+    },
+    {
+      "number": "24",
+      "title": "Interlocking Gear Rings Transmission",
+      "description": "Multiple ring-shaped gears of different radii interlocking around a central axle; when one ring accelerates, torque transfers through the system, smaller rings spin faster, and contact points are highlighted as they mesh.",
+      "seed": "Interlocking Gear Rings Transmission: Multiple ring-shaped gears of different radii interlocking around a central axle; when one ring accelerates, torque transfers through the system, smaller rings spin faster, and contact points are highlighted as they mesh."
+    },
+    {
+      "number": "25",
+      "title": "Orbital Ring Elevator Concept",
+      "description": "A rigid ring encircling Earth at orbital altitude with tethered elevator cars moving up and down, the ring rotating slightly to stay centered over the planet, while counterweights slide along the ring to balance loads.",
+      "seed": "Orbital Ring Elevator Concept: A rigid ring encircling Earth at orbital altitude with tethered elevator cars moving up and down, the ring rotating slightly to stay centered over the planet, while counterweights slide along the ring to balance loads."
+    }
+  ],
+  "raw_output": "Here are strong **Ring systems simulation inputs** you can plug into your prompt:\n\n1. **Saturn-Like Planetary Ring Orbit Simulator**  \n   A central pastel-colored planet with thousands of small particles forming a flat ring that orbit, collide, clump into moonlets, and leave faint trails, while labels mark ring gaps and a slider gradually tilts the ring plane.\n\n2. **Shepherd Moons and Ring Gap Formation**  \n   Two small labeled shepherd moons orbit inside a bright particle ring around a planet, gravitationally clearing a visible gap as ring particles bounce, get scattered, or temporarily attach as glowing clusters.\n\n3. **Ring Resonance Wave Propagation**  \n   A narrow ring of particles around a planet where a passing moon induces spiral density waves that propagate as pulsing bright bands through the ring, with particles slightly shifting orbits and leaving curved trails.\n\n4. **Debris Ring Around a Dwarf Planet**  \n   A small icy dwarf planet with a thin, slightly tilted debris ring of irregular chunks that collide, fragment, and slowly spread, with color-coded velocities and a meter showing total ring mass over time.\n\n5. **Asteroid Belt Ring Around a Star**  \n   A bright star with a broad, dusty asteroid ring where larger asteroids have small orbiting moonlets, collisions create temporary dust clouds, and semi-transparent dust smoothly diffuses outward.\n\n6. **Accretion Disk and Proto-Planet Ring Gaps**  \n   A glowing young star with a thick, semi-transparent gas and dust disk where multiple forming planets carve ring-like gaps, accrete material, and leave visible spiral arms with particles that glow as they fall inward.\n\n7. **Ring Galaxy Collision and Rebound**  \n   Two galaxies collide head-on, producing an expanding ring of bright stars that sweeps outward through a disk of dimmer stars, with color-coded velocities and faint trails showing orbital paths before and after impact.\n\n8. **Charged Dust Ring in a Magnetic Field**  \n   A ring of charged dust grains floating around a central coil that generates a rotating magnetic field, causing the grains to wobble, bunch into arcs, glow when accelerated, and occasionally jump to different ring radii.\n\n9. **Satellites in Circular Orbital Constellation**  \n   A planet surrounded by multiple labeled communication satellites evenly spaced on a ring, each adjusting position to maintain equal spacing, with laser-link beams that attach, detach, and reroute as satellites drift.\n\n10. **Ring Road Traffic Flow System**  \n    A top-down 3D ring road with small car boxes moving along lanes, accelerating, braking, and causing visible stop-and-go shockwaves; collisions trigger colored warning halos and labels over congested segments.\n\n11. **Mechanical Bearing with Rolling Elements**  \n    A cross-section of a ball bearing where steel balls orbit between inner and outer rings, lubricating fluid particles flow and mix between them, and rotation speed changes cause heating shown by color shifts.\n\n12. **Ring of Fire Volcano Arc Dynamics**  \n    A curved “ring” of volcano cones on a globe’s surface where tectonic plate edges are highlighted; subduction zones push plates under each other, volcanoes periodically erupt particle jets and ash rings that drift in the atmosphere.\n\n13. **Molecular Ring Polymer Dynamics**  \n    Several flexible ring-shaped polymers floating in a box, wriggling, colliding, threading through one another, and occasionally splitting or merging, with semi-transparent bonds and color changes when rings interlock.\n\n14. **Halo Ringworld with Orbital Day-Night Cycle**  \n    A massive ring structure encircling a star, with a rotating ring casting moving shadows on its inner surface, showing oceans and continents, while tiny ships orbit, dock, and detach from labeled stations along the ring.\n\n15. **Ring Vortex Smoke Torus in Fluid**  \n    A torus of semi-transparent particles representing a smoke ring that travels forward in a light-colored fluid, slowly stretching, diffusing, colliding with a wall, and splitting into smaller vortex rings.\n\n16. **Planetary Ring Particle Sorting by Size**  \n    A ring of mixed-size particles around a planet where a weak gas drag causes smaller grains to spiral inward and larger ones drift outward, visually sorting the ring into concentric color-coded bands over time.\n\n17. **Magnetic Ring Launcher (Railgun Loop)**  \n    A circular rail with a conductive ring projectile that is accelerated around the loop by pulsing magnetic coils, showing current as glowing segments, and the ring detaching at high speed along a tangent track.\n\n18. **Rings of Social Influence Network**  \n    Concentric rings of nodes around a central influencer node, where influence pulses travel outward as glowing waves; nodes change color when “activated” and can relay, block, or damp pulses, with labels showing influence strength.\n\n19. **Planetary Ring Shadow and Eclipses**  \n    A tilted ring around a planet orbiting a star, where the ring casts moving shadows on the planet’s surface and occasionally creates thin eclipse bands on an orbiting moon, all visualized with soft, transparent shading.\n\n20. **Orbital Debris Ring Around Earth**  \n    Earth with a cluttered ring of satellites and debris, where collisions generate more fragments that spread, larger satellites perform avoidance maneuvers, and risk zones are shown as transparent colored shells.\n\n21. **Binary Star with Circumbinary Ring**  \n    Two stars orbiting each other at the center, surrounded by a shared dusty ring whose inner edge warps and oscillates as the stars move, with dust particles occasionally falling inward in bright streaks.\n\n22. **Ring-Shaped Particle Accelerator**  \n    A circular accelerator ring with particles represented as glowing beads racing along the track, bunching into packets, colliding at marked interaction points that emit particle showers and brief expanding light rings.\n\n23. **Crystalline Ring Growth on a Seed**  \n    A tiny seed particle at the center of a fluid where dissolved molecules drift in, attach to form a growing hexagonal ring, then additional concentric crystalline rings grow, dissolve, or crack under simulated stress.\n\n24. **Interlocking Gear Rings Transmission**  \n    Multiple ring-shaped gears of different radii interlocking around a central axle; when one ring accelerates, torque transfers through the system, smaller rings spin faster, and contact points are highlighted as they mesh.\n\n25. **Orbital Ring Elevator Concept**  \n    A rigid ring encircling Earth at orbital altitude with tethered elevator cars moving up and down, the ring rotating slightly to stay centered over the planet, while counterweights slide along the ring to balance loads."
+}

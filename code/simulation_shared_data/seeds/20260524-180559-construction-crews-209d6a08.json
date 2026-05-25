@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Construction crews",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:05:59",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Tower Crane and Swinging Load Yard",
+      "description": "A tall rotating tower crane picks up colored box “steel beams” from stacks, swings them with visible arc trails, and gently drops or accidentally collides them with a partially built frame whose beams attach, detach, and bounce if misaligned.",
+      "seed": "Tower Crane and Swinging Load Yard: A tall rotating tower crane picks up colored box “steel beams” from stacks, swings them with visible arc trails, and gently drops or accidentally collides them with a partially built frame whose beams attach, detach, and bounce if misaligned."
+    },
+    {
+      "number": "2",
+      "title": "Road Paving Conveyor Line",
+      "description": "A line of dump trucks slowly moves and backs up to a paver machine that pours a flowing, slightly transparent asphalt surface that spreads, levels, and cools from orange to gray while rollers behind compress it and leave smooth black trails.",
+      "seed": "Road Paving Conveyor Line: A line of dump trucks slowly moves and backs up to a paver machine that pours a flowing, slightly transparent asphalt surface that spreads, levels, and cools from orange to gray while rollers behind compress it and leave smooth black trails."
+    },
+    {
+      "number": "3",
+      "title": "Modular Building Assembly Grid",
+      "description": "Forklifts drive on a ground grid delivering numbered cube “modules” that snap into a growing 3D building frame, with modules briefly glowing when they attach, and mis-placed modules bouncing off or sliding down ramps.",
+      "seed": "Modular Building Assembly Grid: Forklifts drive on a ground grid delivering numbered cube “modules” that snap into a growing 3D building frame, with modules briefly glowing when they attach, and mis-placed modules bouncing off or sliding down ramps."
+    },
+    {
+      "number": "4",
+      "title": "Demolition Ball Impact Test Site",
+      "description": "A crane swings a heavy wrecking ball on a cable, with the ball leaving a motion trail as it smashes into a brick wall made of individual blocks that crack, detach, scatter, and produce dust-like particle showers.",
+      "seed": "Demolition Ball Impact Test Site: A crane swings a heavy wrecking ball on a cable, with the ball leaving a motion trail as it smashes into a brick wall made of individual blocks that crack, detach, scatter, and produce dust-like particle showers."
+    },
+    {
+      "number": "5",
+      "title": "Excavator and Dump Truck Digging Pit",
+      "description": "An excavator arm rotates and articulates to scoop voxel-like chunks from a soil mound, filling a dump truck whose bed slowly rises to spill particles into a pit that gradually fills and changes color by depth.",
+      "seed": "Excavator and Dump Truck Digging Pit: An excavator arm rotates and articulates to scoop voxel-like chunks from a soil mound, filling a dump truck whose bed slowly rises to spill particles into a pit that gradually fills and changes color by depth."
+    },
+    {
+      "number": "6",
+      "title": "Scaffolding Growth Around a Building Core",
+      "description": "Workers represented by small colored cylinders climb and move along scaffolding bars that attach around a central tower, with new scaffold segments snapping into place, glowing briefly, and safety nets appearing as translucent sheets that catch falling tools.",
+      "seed": "Scaffolding Growth Around a Building Core: Workers represented by small colored cylinders climb and move along scaffolding bars that attach around a central tower, with new scaffold segments snapping into place, glowing briefly, and safety nets appearing as translucent sheets that catch falling tools."
+    },
+    {
+      "number": "7",
+      "title": "Bridge Segment Hoisting Over a River",
+      "description": "Barges and cranes raise and rotate long beam segments over a semi-transparent blue “river,” aligning them with piers so that if they collide too hard they bounce and spin, but if aligned within a tolerance they magnetically lock and show green labels.",
+      "seed": "Bridge Segment Hoisting Over a River: Barges and cranes raise and rotate long beam segments over a semi-transparent blue “river,” aligning them with piers so that if they collide too hard they bounce and spin, but if aligned within a tolerance they magnetically lock and show green labels."
+    },
+    {
+      "number": "8",
+      "title": "Concrete Pour and Cure Simulation",
+      "description": "A concrete mixer truck rotates its drum and pours a thick stream of gray particles into a rebar cage mold, where the concrete level rises, surface ripples fade, and the mass slowly transitions from semi-transparent to opaque as it “cures,” while temperature labels float above.",
+      "seed": "Concrete Pour and Cure Simulation: A concrete mixer truck rotates its drum and pours a thick stream of gray particles into a rebar cage mold, where the concrete level rises, surface ripples fade, and the mass slowly transitions from semi-transparent to opaque as it “cures,” while temperature labels float above."
+    },
+    {
+      "number": "9",
+      "title": "Traffic Cone and Barrier Deployment Crew",
+      "description": "A small convoy of service trucks moves along a road, dropping bright orange cones and reflective barriers that snap into evenly spaced positions, with lanes dynamically highlighted and cars represented by simple boxes diverting and leaving light trails.",
+      "seed": "Traffic Cone and Barrier Deployment Crew: A small convoy of service trucks moves along a road, dropping bright orange cones and reflective barriers that snap into evenly spaced positions, with lanes dynamically highlighted and cars represented by simple boxes diverting and leaving light trails."
+    },
+    {
+      "number": "10",
+      "title": "High-Rise Window Installation Ballet",
+      "description": "A hoist platform moves up and down the façade of a tall frame, carrying transparent window panels that slide, rotate, and then click into rectangular openings, briefly pulsing blue if correctly installed or red and falling if misaligned.",
+      "seed": "High-Rise Window Installation Ballet: A hoist platform moves up and down the façade of a tall frame, carrying transparent window panels that slide, rotate, and then click into rectangular openings, briefly pulsing blue if correctly installed or red and falling if misaligned."
+    },
+    {
+      "number": "11",
+      "title": "Underground Utility Trench Crew",
+      "description": "A trench is dug across the ground revealing cross-sectional soil layers; crews place colored cylindrical pipes and cable bundles that snap into the trench, with backfill soil particles pouring in, compacting, and pressure gauges showing load on the utilities.",
+      "seed": "Underground Utility Trench Crew: A trench is dug across the ground revealing cross-sectional soil layers; crews place colored cylindrical pipes and cable bundles that snap into the trench, with backfill soil particles pouring in, compacting, and pressure gauges showing load on the utilities."
+    },
+    {
+      "number": "12",
+      "title": "Tunnel Boring Machine Advancing Under a City",
+      "description": "A rotating cutter head bores through a translucent earth block, ejecting rock particles onto a conveyor to trailing dump carts, while ring segments move forward on rails and assemble into a circular tunnel lining that grows behind the machine.",
+      "seed": "Tunnel Boring Machine Advancing Under a City: A rotating cutter head bores through a translucent earth block, ejecting rock particles onto a conveyor to trailing dump carts, while ring segments move forward on rails and assemble into a circular tunnel lining that grows behind the machine."
+    },
+    {
+      "number": "13",
+      "title": "Prefab House On-Site Assembly",
+      "description": "A flatbed truck delivers labeled wall, floor, and roof slabs that a crane lifts, rotates, and gently lowers into place on a foundation, where magnetic connectors snap edges together and the house’s wireframe skeleton gradually fills with colored panels.",
+      "seed": "Prefab House On-Site Assembly: A flatbed truck delivers labeled wall, floor, and roof slabs that a crane lifts, rotates, and gently lowers into place on a foundation, where magnetic connectors snap edges together and the house’s wireframe skeleton gradually fills with colored panels."
+    },
+    {
+      "number": "14",
+      "title": "Solar Farm Construction on a Slope",
+      "description": "Crews drive small machines that plant posts into a tilted terrain, then carry and tilt rectangular solar panels that attach to rails; as arrays complete, panels slowly rotate to track a moving sun sphere and output meters above each row animate power generation.",
+      "seed": "Solar Farm Construction on a Slope: Crews drive small machines that plant posts into a tilted terrain, then carry and tilt rectangular solar panels that attach to rails; as arrays complete, panels slowly rotate to track a moving sun sphere and output meters above each row animate power generation."
+    },
+    {
+      "number": "15",
+      "title": "Construction Elevator and Material Flow Tower",
+      "description": "A hoist cage shuttles up and down a high-rise skeleton, loading pallets of bricks and beams at ground level and unloading them at various floors, where small worker bots slide materials into storage zones whose fill levels and labels update in real time.",
+      "seed": "Construction Elevator and Material Flow Tower: A hoist cage shuttles up and down a high-rise skeleton, loading pallets of bricks and beams at ground level and unloading them at various floors, where small worker bots slide materials into storage zones whose fill levels and labels update in real time."
+    },
+    {
+      "number": "16",
+      "title": "Steel Frame Bolt-Up Crew",
+      "description": "A skeletal steel frame grows as beams arrive on a lowbed trailer, get hoisted, and pivot into place; when endpoints are close, virtual bolts appear, spin, and tighten, gradually changing joint colors from red to green while unbolted joints sag slightly.",
+      "seed": "Steel Frame Bolt-Up Crew: A skeletal steel frame grows as beams arrive on a lowbed trailer, get hoisted, and pivot into place; when endpoints are close, virtual bolts appear, spin, and tighten, gradually changing joint colors from red to green while unbolted joints sag slightly."
+    },
+    {
+      "number": "17",
+      "title": "Nighttime Site Lighting and Power Distribution",
+      "description": "A dim site is gradually illuminated as light towers are rolled out, anchored, and raised, with power cables snaking across the ground, snapping into generators, and glowing softly; light cones from each tower overlap and brighten active work zones.",
+      "seed": "Nighttime Site Lighting and Power Distribution: A dim site is gradually illuminated as light towers are rolled out, anchored, and raised, with power cables snaking across the ground, snapping into generators, and glowing softly; light cones from each tower overlap and brighten active work zones."
+    },
+    {
+      "number": "18",
+      "title": "Material Sorting Yard with Loaders",
+      "description": "Wheel loaders scoop mixed rubble piles and dump into color-coded hoppers where automated separators sort cubes into concrete, metal, and wood bins that fill, overflow, and spill, with conveyor belts carrying materials and leaving dust particle trails.",
+      "seed": "Material Sorting Yard with Loaders: Wheel loaders scoop mixed rubble piles and dump into color-coded hoppers where automated separators sort cubes into concrete, metal, and wood bins that fill, overflow, and spill, with conveyor belts carrying materials and leaving dust particle trails."
+    },
+    {
+      "number": "19",
+      "title": "Crane Coordination Overlapping Work Zones",
+      "description": "Two or three tower cranes with intersecting swing radii move loads simultaneously, with soft collision-avoidance logic causing booms and hooks to slow, pause, or orbit around one another, and a transparent overhead “no-go” zone turning red when violated.",
+      "seed": "Crane Coordination Overlapping Work Zones: Two or three tower cranes with intersecting swing radii move loads simultaneously, with soft collision-avoidance logic causing booms and hooks to slow, pause, or orbit around one another, and a transparent overhead “no-go” zone turning red when violated."
+    },
+    {
+      "number": "20",
+      "title": "Interior Fit-Out: Walls, Ducts, and Wires",
+      "description": "Inside a bare floor plate, colored ducts, pipes, and cable trays snake through ceiling space, automatically routing around beams and attaching to supports, while partition walls rise from the floor and transparent cutaways reveal the hidden service network.",
+      "seed": "Interior Fit-Out: Walls, Ducts, and Wires: Inside a bare floor plate, colored ducts, pipes, and cable trays snake through ceiling space, automatically routing around beams and attaching to supports, while partition walls rise from the floor and transparent cutaways reveal the hidden service network."
+    },
+    {
+      "number": "21",
+      "title": "3D Printing Micro-Construction Crew",
+      "description": "A robotic printer head “crew” extrudes semi-transparent filament layers to build a tiny city block, with mini-cranes and bots moving around on top of the growing printed surfaces, leaving trails and occasionally knocking over still-soft printed walls.",
+      "seed": "3D Printing Micro-Construction Crew: A robotic printer head “crew” extrudes semi-transparent filament layers to build a tiny city block, with mini-cranes and bots moving around on top of the growing printed surfaces, leaving trails and occasionally knocking over still-soft printed walls."
+    },
+    {
+      "number": "22",
+      "title": "Hazard Detection and Safety Zone Marking",
+      "description": "A site is populated with moving equipment and workers while a drone flies overhead, scanning and projecting translucent red or green safety volumes around machines; when overlaps occur, siren icons flash, labels appear, and paths of at-risk workers reroute.",
+      "seed": "Hazard Detection and Safety Zone Marking: A site is populated with moving equipment and workers while a drone flies overhead, scanning and projecting translucent red or green safety volumes around machines; when overlaps occur, siren icons flash, labels appear, and paths of at-risk workers reroute."
+    },
+    {
+      "number": "23",
+      "title": "Shipyard Hull Block Assembly",
+      "description": "Massive hull blocks slide on rails and are nudged by tug tractors into alignment; when edges collide they either bounce and pivot or, if well aligned, weld together, with a glowing weld seam crawling along joints and waterline markers appearing on the hull.",
+      "seed": "Shipyard Hull Block Assembly: Massive hull blocks slide on rails and are nudged by tug tractors into alignment; when edges collide they either bounce and pivot or, if well aligned, weld together, with a glowing weld seam crawling along joints and waterline markers appearing on the hull."
+    },
+    {
+      "number": "24",
+      "title": "Skyscraper Core Climbing Formwork",
+      "description": "A central concrete core grows floor by floor as a climbing formwork system raises itself: jacks push the formwork up, concrete is poured, levels rise, and once cured the formwork detaches, slides, and reattaches above, leaving labeled floor numbers.",
+      "seed": "Skyscraper Core Climbing Formwork: A central concrete core grows floor by floor as a climbing formwork system raises itself: jacks push the formwork up, concrete is poured, levels rise, and once cured the formwork detaches, slides, and reattaches above, leaving labeled floor numbers."
+    },
+    {
+      "number": "25",
+      "title": "Microscopic Nanobot Construction Crew",
+      "description": "At a microscopic scale, nanobot “workers” orbit a central crystal seed, attaching and detaching tiny atoms or molecules that glow and snap into a growing lattice structure, with some bots welding, others scanning, and trails showing their coordinated swarm paths.",
+      "seed": "Microscopic Nanobot Construction Crew: At a microscopic scale, nanobot “workers” orbit a central crystal seed, attaching and detaching tiny atoms or molecules that glow and snap into a growing lattice structure, with some bots welding, others scanning, and trails showing their coordinated swarm paths."
+    }
+  ],
+  "raw_output": "Here are strong **Construction crews simulation inputs** you can plug into your prompt:\n\n1. **Tower Crane and Swinging Load Yard**\n   A tall rotating tower crane picks up colored box “steel beams” from stacks, swings them with visible arc trails, and gently drops or accidentally collides them with a partially built frame whose beams attach, detach, and bounce if misaligned.\n\n2. **Road Paving Conveyor Line**\n   A line of dump trucks slowly moves and backs up to a paver machine that pours a flowing, slightly transparent asphalt surface that spreads, levels, and cools from orange to gray while rollers behind compress it and leave smooth black trails.\n\n3. **Modular Building Assembly Grid**\n   Forklifts drive on a ground grid delivering numbered cube “modules” that snap into a growing 3D building frame, with modules briefly glowing when they attach, and mis-placed modules bouncing off or sliding down ramps.\n\n4. **Demolition Ball Impact Test Site**\n   A crane swings a heavy wrecking ball on a cable, with the ball leaving a motion trail as it smashes into a brick wall made of individual blocks that crack, detach, scatter, and produce dust-like particle showers.\n\n5. **Excavator and Dump Truck Digging Pit**\n   An excavator arm rotates and articulates to scoop voxel-like chunks from a soil mound, filling a dump truck whose bed slowly rises to spill particles into a pit that gradually fills and changes color by depth.\n\n6. **Scaffolding Growth Around a Building Core**\n   Workers represented by small colored cylinders climb and move along scaffolding bars that attach around a central tower, with new scaffold segments snapping into place, glowing briefly, and safety nets appearing as translucent sheets that catch falling tools.\n\n7. **Bridge Segment Hoisting Over a River**\n   Barges and cranes raise and rotate long beam segments over a semi-transparent blue “river,” aligning them with piers so that if they collide too hard they bounce and spin, but if aligned within a tolerance they magnetically lock and show green labels.\n\n8. **Concrete Pour and Cure Simulation**\n   A concrete mixer truck rotates its drum and pours a thick stream of gray particles into a rebar cage mold, where the concrete level rises, surface ripples fade, and the mass slowly transitions from semi-transparent to opaque as it “cures,” while temperature labels float above.\n\n9. **Traffic Cone and Barrier Deployment Crew**\n   A small convoy of service trucks moves along a road, dropping bright orange cones and reflective barriers that snap into evenly spaced positions, with lanes dynamically highlighted and cars represented by simple boxes diverting and leaving light trails.\n\n10. **High-Rise Window Installation Ballet**\n    A hoist platform moves up and down the façade of a tall frame, carrying transparent window panels that slide, rotate, and then click into rectangular openings, briefly pulsing blue if correctly installed or red and falling if misaligned.\n\n11. **Underground Utility Trench Crew**\n    A trench is dug across the ground revealing cross-sectional soil layers; crews place colored cylindrical pipes and cable bundles that snap into the trench, with backfill soil particles pouring in, compacting, and pressure gauges showing load on the utilities.\n\n12. **Tunnel Boring Machine Advancing Under a City**\n    A rotating cutter head bores through a translucent earth block, ejecting rock particles onto a conveyor to trailing dump carts, while ring segments move forward on rails and assemble into a circular tunnel lining that grows behind the machine.\n\n13. **Prefab House On-Site Assembly**\n    A flatbed truck delivers labeled wall, floor, and roof slabs that a crane lifts, rotates, and gently lowers into place on a foundation, where magnetic connectors snap edges together and the house’s wireframe skeleton gradually fills with colored panels.\n\n14. **Solar Farm Construction on a Slope**\n    Crews drive small machines that plant posts into a tilted terrain, then carry and tilt rectangular solar panels that attach to rails; as arrays complete, panels slowly rotate to track a moving sun sphere and output meters above each row animate power generation.\n\n15. **Construction Elevator and Material Flow Tower**\n    A hoist cage shuttles up and down a high-rise skeleton, loading pallets of bricks and beams at ground level and unloading them at various floors, where small worker bots slide materials into storage zones whose fill levels and labels update in real time.\n\n16. **Steel Frame Bolt-Up Crew**\n    A skeletal steel frame grows as beams arrive on a lowbed trailer, get hoisted, and pivot into place; when endpoints are close, virtual bolts appear, spin, and tighten, gradually changing joint colors from red to green while unbolted joints sag slightly.\n\n17. **Nighttime Site Lighting and Power Distribution**\n    A dim site is gradually illuminated as light towers are rolled out, anchored, and raised, with power cables snaking across the ground, snapping into generators, and glowing softly; light cones from each tower overlap and brighten active work zones.\n\n18. **Material Sorting Yard with Loaders**\n    Wheel loaders scoop mixed rubble piles and dump into color-coded hoppers where automated separators sort cubes into concrete, metal, and wood bins that fill, overflow, and spill, with conveyor belts carrying materials and leaving dust particle trails.\n\n19. **Crane Coordination Overlapping Work Zones**\n    Two or three tower cranes with intersecting swing radii move loads simultaneously, with soft collision-avoidance logic causing booms and hooks to slow, pause, or orbit around one another, and a transparent overhead “no-go” zone turning red when violated.\n\n20. **Interior Fit-Out: Walls, Ducts, and Wires**\n    Inside a bare floor plate, colored ducts, pipes, and cable trays snake through ceiling space, automatically routing around beams and attaching to supports, while partition walls rise from the floor and transparent cutaways reveal the hidden service network.\n\n21. **3D Printing Micro-Construction Crew**\n    A robotic printer head “crew” extrudes semi-transparent filament layers to build a tiny city block, with mini-cranes and bots moving around on top of the growing printed surfaces, leaving trails and occasionally knocking over still-soft printed walls.\n\n22. **Hazard Detection and Safety Zone Marking**\n    A site is populated with moving equipment and workers while a drone flies overhead, scanning and projecting translucent red or green safety volumes around machines; when overlaps occur, siren icons flash, labels appear, and paths of at-risk workers reroute.\n\n23. **Shipyard Hull Block Assembly**\n    Massive hull blocks slide on rails and are nudged by tug tractors into alignment; when edges collide they either bounce and pivot or, if well aligned, weld together, with a glowing weld seam crawling along joints and waterline markers appearing on the hull.\n\n24. **Skyscraper Core Climbing Formwork**\n    A central concrete core grows floor by floor as a climbing formwork system raises itself: jacks push the formwork up, concrete is poured, levels rise, and once cured the formwork detaches, slides, and reattaches above, leaving labeled floor numbers.\n\n25. **Microscopic Nanobot Construction Crew**\n    At a microscopic scale, nanobot “workers” orbit a central crystal seed, attaching and detaching tiny atoms or molecules that glow and snap into a growing lattice structure, with some bots welding, others scanning, and trails showing their coordinated swarm paths."
+}

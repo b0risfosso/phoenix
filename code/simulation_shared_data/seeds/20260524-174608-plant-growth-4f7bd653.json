@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Plant growth",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:46:08",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Time‑Lapse Tree Growing from a Seed",
+      "description": "A small seed sphere in soil slowly sprouts a transparent green shoot that lengthens, thickens, and branches upward into a tree, with leaves attaching over time and a floating time‑slider bar controlling growth speed and labels for root, stem, and canopy.",
+      "seed": "Time‑Lapse Tree Growing from a Seed: A small seed sphere in soil slowly sprouts a transparent green shoot that lengthens, thickens, and branches upward into a tree, with leaves attaching over time and a floating time‑slider bar controlling growth speed and labels for root, stem, and canopy."
+    },
+    {
+      "number": "2",
+      "title": "Root Network Expansion Underground",
+      "description": "A plant stem above ground stays mostly stationary while semi‑transparent roots branch, split, and slowly snake through a light‑brown soil volume, colliding with and wrapping around rock spheres, with nutrient particles flowing along roots and changing color where they are absorbed.",
+      "seed": "Root Network Expansion Underground: A plant stem above ground stays mostly stationary while semi‑transparent roots branch, split, and slowly snake through a light‑brown soil volume, colliding with and wrapping around rock spheres, with nutrient particles flowing along roots and changing color where they are absorbed."
+    },
+    {
+      "number": "3",
+      "title": "Phototropism: Plant Bending Toward Moving Light",
+      "description": "A flexible plant stem composed of connected segments gradually bends and rotates toward a moving glowing “sun” sphere in the sky, with arrows and color gradients along the stem showing differential growth on the shaded vs. lit side.",
+      "seed": "Phototropism: Plant Bending Toward Moving Light: A flexible plant stem composed of connected segments gradually bends and rotates toward a moving glowing “sun” sphere in the sky, with arrows and color gradients along the stem showing differential growth on the shaded vs. lit side."
+    },
+    {
+      "number": "4",
+      "title": "Vine Climbing a Rotating Pole",
+      "description": "A thin flexible vine made of linked cylinders spirals upward around a slowly rotating vertical pole, attaching with small tendrils that reach, wrap, and latch onto the pole, while unattached vine tips wiggle and search, leaving faint motion trails.",
+      "seed": "Vine Climbing a Rotating Pole: A thin flexible vine made of linked cylinders spirals upward around a slowly rotating vertical pole, attaching with small tendrils that reach, wrap, and latch onto the pole, while unattached vine tips wiggle and search, leaving faint motion trails."
+    },
+    {
+      "number": "5",
+      "title": "Forest Canopy Competition for Light",
+      "description": "Multiple saplings start as small cylinders on a flat ground plane and grow at different rates depending on how much light they receive from an overhead light source, with semi‑transparent cones showing each tree’s light capture zone and trees in the shade slowing or stopping growth.",
+      "seed": "Forest Canopy Competition for Light: Multiple saplings start as small cylinders on a flat ground plane and grow at different rates depending on how much light they receive from an overhead light source, with semi‑transparent cones showing each tree’s light capture zone and trees in the shade slowing or stopping growth."
+    },
+    {
+      "number": "6",
+      "title": "Hydroponic Plant Growth with Nutrient Flow",
+      "description": "Plants anchored in a transparent trough grow stems and roots downward into flowing blue nutrient solution, with small colored particles moving along the water channel and being absorbed into roots, causing leaves to brighten in color as nutrient levels increase.",
+      "seed": "Hydroponic Plant Growth with Nutrient Flow: Plants anchored in a transparent trough grow stems and roots downward into flowing blue nutrient solution, with small colored particles moving along the water channel and being absorbed into roots, causing leaves to brighten in color as nutrient levels increase."
+    },
+    {
+      "number": "7",
+      "title": "Microscopic Cell Division in a Growing Root Tip",
+      "description": "A transparent root tip enlarges while individual cell boxes at its end split, stretch, and stack, with color‑coded zones for division, elongation, and maturation, and tiny glowing particles representing hormones flowing along the root axis.",
+      "seed": "Microscopic Cell Division in a Growing Root Tip: A transparent root tip enlarges while individual cell boxes at its end split, stretch, and stack, with color‑coded zones for division, elongation, and maturation, and tiny glowing particles representing hormones flowing along the root axis."
+    },
+    {
+      "number": "8",
+      "title": "Clonal Spread of Grass via Underground Rhizomes",
+      "description": "A central grass tuft periodically sends out semi‑transparent horizontal rhizome tubes underground that branch, then pop up as new tufts on the surface, with dashed lines connecting genetically identical patches and a meter showing total area covered over time.",
+      "seed": "Clonal Spread of Grass via Underground Rhizomes: A central grass tuft periodically sends out semi‑transparent horizontal rhizome tubes underground that branch, then pop up as new tufts on the surface, with dashed lines connecting genetically identical patches and a meter showing total area covered over time."
+    },
+    {
+      "number": "9",
+      "title": "Climbing Ivy Covering a Wall Surface",
+      "description": "A flat wall panel stands vertically while multiple ivy stems at its base grow upward, branching and spreading to cover the surface, with each leaf tile attaching, rotating to face the viewer, and slowly darkening in green as it matures, leaving a coverage percentage label.",
+      "seed": "Climbing Ivy Covering a Wall Surface: A flat wall panel stands vertically while multiple ivy stems at its base grow upward, branching and spreading to cover the surface, with each leaf tile attaching, rotating to face the viewer, and slowly darkening in green as it matures, leaving a coverage percentage label."
+    },
+    {
+      "number": "10",
+      "title": "Carnivorous Plant Growth and Prey Capture",
+      "description": "A Venus flytrap‑like plant grows larger traps over time, with each trap leaf opening and closing; small insect spheres wander around, sometimes colliding with open traps that snap shut and turn slightly red inside as the plant “absorbs” and grows.",
+      "seed": "Carnivorous Plant Growth and Prey Capture: A Venus flytrap‑like plant grows larger traps over time, with each trap leaf opening and closing; small insect spheres wander around, sometimes colliding with open traps that snap shut and turn slightly red inside as the plant “absorbs” and grows."
+    },
+    {
+      "number": "11",
+      "title": "Tree Ring Formation in a Growing Trunk Cross‑Section",
+      "description": "A cross‑section disk of a tree trunk expands outward as new rings are added; each new ring appears as a thin band that grows in radius, with alternating light and dark textures for earlywood and latewood, and a slider to scrub back and forth through years of growth.",
+      "seed": "Tree Ring Formation in a Growing Trunk Cross‑Section: A cross‑section disk of a tree trunk expands outward as new rings are added; each new ring appears as a thin band that grows in radius, with alternating light and dark textures for earlywood and latewood, and a slider to scrub back and forth through years of growth."
+    },
+    {
+      "number": "12",
+      "title": "Urban Green Wall with Modular Planters",
+      "description": "A grid of wall‑mounted planter boxes grows plants with varying rates, where plant spheres or simple branching shapes extend out from each module, competing for space and light, while a transparent overlay shows water distribution pipes and flow with animated blue particles.",
+      "seed": "Urban Green Wall with Modular Planters: A grid of wall‑mounted planter boxes grows plants with varying rates, where plant spheres or simple branching shapes extend out from each module, competing for space and light, while a transparent overlay shows water distribution pipes and flow with animated blue particles."
+    },
+    {
+      "number": "13",
+      "title": "L-System Fractal Plant Growing in 3D",
+      "description": "A plant starts as a single cylinder and repeatedly branches according to L‑system rules, with each iteration adding new segments that rotate, split, and taper, leaves attaching at endpoints and a side panel showing the current iteration number and segment count.",
+      "seed": "L-System Fractal Plant Growing in 3D: A plant starts as a single cylinder and repeatedly branches according to L‑system rules, with each iteration adding new segments that rotate, split, and taper, leaves attaching at endpoints and a side panel showing the current iteration number and segment count."
+    },
+    {
+      "number": "14",
+      "title": "Seed Dispersal and Germination in a Meadow",
+      "description": "A parent plant releases small seed spheres that float, bounce, or roll across a slightly uneven terrain; when they settle, some seeds sink slightly into the ground, change color, and sprout tiny stems that grow if within a certain distance of water or light patches.",
+      "seed": "Seed Dispersal and Germination in a Meadow: A parent plant releases small seed spheres that float, bounce, or roll across a slightly uneven terrain; when they settle, some seeds sink slightly into the ground, change color, and sprout tiny stems that grow if within a certain distance of water or light patches."
+    },
+    {
+      "number": "15",
+      "title": "Succulent Leaf Propagation on a Tray",
+      "description": "Detached succulent leaves lie on a flat tray, and over time each leaf may sprout tiny roots that grow downward and a small rosette that grows upward, with humidity and light indicators as sliders that change growth speed and leaf color (plump vs. shriveled).",
+      "seed": "Succulent Leaf Propagation on a Tray: Detached succulent leaves lie on a flat tray, and over time each leaf may sprout tiny roots that grow downward and a small rosette that grows upward, with humidity and light indicators as sliders that change growth speed and leaf color (plump vs. shriveled)."
+    },
+    {
+      "number": "16",
+      "title": "Plant Growth Under Different Colored Lights",
+      "description": "Several identical potted plants sit in a row under colored overhead lamps (red, blue, white), each lamp a glowing disk; plant height, leaf area, and color change over time depending on lamp color, with simple bar meters above each pot showing growth rate and health.",
+      "seed": "Plant Growth Under Different Colored Lights: Several identical potted plants sit in a row under colored overhead lamps (red, blue, white), each lamp a glowing disk; plant height, leaf area, and color change over time depending on lamp color, with simple bar meters above each pot showing growth rate and health."
+    },
+    {
+      "number": "17",
+      "title": "Tropical Tree with Epiphytes and Vines",
+      "description": "A central tree trunk grows slowly taller and thicker while epiphyte plants and vines attach at different heights, sending roots that hang or wrap around the trunk, with moisture droplets occasionally condensing and sliding down, feeding certain attached plants and boosting their growth.",
+      "seed": "Tropical Tree with Epiphytes and Vines: A central tree trunk grows slowly taller and thicker while epiphyte plants and vines attach at different heights, sending roots that hang or wrap around the trunk, with moisture droplets occasionally condensing and sliding down, feeding certain attached plants and boosting their growth."
+    },
+    {
+      "number": "18",
+      "title": "Plant Hormone Transport Visualization",
+      "description": "A simplified plant stem with a few leaves shows vertical tubes for xylem and phloem; colored particles representing water, sugars, and hormones move up and down, and when a light hits one side, hormone particles redistribute, causing that side’s segments to expand and bend.",
+      "seed": "Plant Hormone Transport Visualization: A simplified plant stem with a few leaves shows vertical tubes for xylem and phloem; colored particles representing water, sugars, and hormones move up and down, and when a light hits one side, hormone particles redistribute, causing that side’s segments to expand and bend."
+    },
+    {
+      "number": "19",
+      "title": "Mycorrhizal Network Linking Multiple Plants",
+      "description": "Several small plants stand on a soil block while semi‑transparent fungal filaments spread underground as glowing threads, branching and connecting to roots; nutrient particles travel along fungal strands to plants, changing plant color or size as shared resources increase.",
+      "seed": "Mycorrhizal Network Linking Multiple Plants: Several small plants stand on a soil block while semi‑transparent fungal filaments spread underground as glowing threads, branching and connecting to roots; nutrient particles travel along fungal strands to plants, changing plant color or size as shared resources increase."
+    },
+    {
+      "number": "20",
+      "title": "Bonsai Shaping with Pruning and Wiring",
+      "description": "A small tree grows branches and leaves that slowly thicken; the user can toggle “prune” to remove branch segments or add wire coils that gently bend and hold branches in new positions, and over time branches grow along the wired curves, with old wires fading and “falling off.”",
+      "seed": "Bonsai Shaping with Pruning and Wiring: A small tree grows branches and leaves that slowly thicken; the user can toggle “prune” to remove branch segments or add wire coils that gently bend and hold branches in new positions, and over time branches grow along the wired curves, with old wires fading and “falling off.”"
+    },
+    {
+      "number": "21",
+      "title": "Time‑Lapse Garden Bed Growth Through Seasons",
+      "description": "Rows of different plant species sprout, grow, flower, and then wither in cycles as a sun sphere orbits overhead and the background color shifts by season, with transparent overlays showing root depth and labels for stages: seedling, vegetative, flowering, fruiting, senescence.",
+      "seed": "Time‑Lapse Garden Bed Growth Through Seasons: Rows of different plant species sprout, grow, flower, and then wither in cycles as a sun sphere orbits overhead and the background color shifts by season, with transparent overlays showing root depth and labels for stages: seedling, vegetative, flowering, fruiting, senescence."
+    },
+    {
+      "number": "22",
+      "title": "Cactus Growth and Water Storage Dynamics",
+      "description": "A cactus column slowly increases in height and radius as water is absorbed from periodic “rain” droplets falling and colliding with the soil; after each rain, the cactus segments swell slightly and turn a richer green, then gradually shrink and fade as water is used.",
+      "seed": "Cactus Growth and Water Storage Dynamics: A cactus column slowly increases in height and radius as water is absorbed from periodic “rain” droplets falling and colliding with the soil; after each rain, the cactus segments swell slightly and turn a richer green, then gradually shrink and fade as water is used."
+    },
+    {
+      "number": "23",
+      "title": "Algae Growth on a Transparent Water Column",
+      "description": "A tall, clear cylinder of “water” fills the scene with a light background; tiny green algae particles replicate, cluster, and rise or sink based on light entering from one side, causing the water to gradually tint green, with a density meter and a slider for nutrient injection.",
+      "seed": "Algae Growth on a Transparent Water Column: A tall, clear cylinder of “water” fills the scene with a light background; tiny green algae particles replicate, cluster, and rise or sink based on light entering from one side, causing the water to gradually tint green, with a density meter and a slider for nutrient injection."
+    },
+    {
+      "number": "24",
+      "title": "Root vs. Rock: Deforming Growth Path",
+      "description": "A single root grows as a flexible tube through soil toward a water source sphere but meets rigid rock blocks; the root tip senses collisions, then curves around obstacles, leaving a faint trail of its attempted paths, with the final root shape highlighted when it reaches water.",
+      "seed": "Root vs. Rock: Deforming Growth Path: A single root grows as a flexible tube through soil toward a water source sphere but meets rigid rock blocks; the root tip senses collisions, then curves around obstacles, leaving a faint trail of its attempted paths, with the final root shape highlighted when it reaches water."
+    },
+    {
+      "number": "25",
+      "title": "Symbiotic Climbing Plant and Support Tree",
+      "description": "A young tree and a vine start together; as the tree slowly thickens and extends upward, the vine coils around it, using the trunk for support; both grow, but if the vine wraps too tightly (visualized by red segments), the tree’s upper growth slows or stops, shown by shrinking growth arrows.",
+      "seed": "Symbiotic Climbing Plant and Support Tree: A young tree and a vine start together; as the tree slowly thickens and extends upward, the vine coils around it, using the trunk for support; both grow, but if the vine wraps too tightly (visualized by red segments), the tree’s upper growth slows or stops, shown by shrinking growth arrows."
+    }
+  ],
+  "raw_output": "Here are strong **Plant growth simulation inputs** you can plug into your prompt:\n\n1. **Time‑Lapse Tree Growing from a Seed**\n   A small seed sphere in soil slowly sprouts a transparent green shoot that lengthens, thickens, and branches upward into a tree, with leaves attaching over time and a floating time‑slider bar controlling growth speed and labels for root, stem, and canopy.\n\n2. **Root Network Expansion Underground**\n   A plant stem above ground stays mostly stationary while semi‑transparent roots branch, split, and slowly snake through a light‑brown soil volume, colliding with and wrapping around rock spheres, with nutrient particles flowing along roots and changing color where they are absorbed.\n\n3. **Phototropism: Plant Bending Toward Moving Light**\n   A flexible plant stem composed of connected segments gradually bends and rotates toward a moving glowing “sun” sphere in the sky, with arrows and color gradients along the stem showing differential growth on the shaded vs. lit side.\n\n4. **Vine Climbing a Rotating Pole**\n   A thin flexible vine made of linked cylinders spirals upward around a slowly rotating vertical pole, attaching with small tendrils that reach, wrap, and latch onto the pole, while unattached vine tips wiggle and search, leaving faint motion trails.\n\n5. **Forest Canopy Competition for Light**\n   Multiple saplings start as small cylinders on a flat ground plane and grow at different rates depending on how much light they receive from an overhead light source, with semi‑transparent cones showing each tree’s light capture zone and trees in the shade slowing or stopping growth.\n\n6. **Hydroponic Plant Growth with Nutrient Flow**\n   Plants anchored in a transparent trough grow stems and roots downward into flowing blue nutrient solution, with small colored particles moving along the water channel and being absorbed into roots, causing leaves to brighten in color as nutrient levels increase.\n\n7. **Microscopic Cell Division in a Growing Root Tip**\n   A transparent root tip enlarges while individual cell boxes at its end split, stretch, and stack, with color‑coded zones for division, elongation, and maturation, and tiny glowing particles representing hormones flowing along the root axis.\n\n8. **Clonal Spread of Grass via Underground Rhizomes**\n   A central grass tuft periodically sends out semi‑transparent horizontal rhizome tubes underground that branch, then pop up as new tufts on the surface, with dashed lines connecting genetically identical patches and a meter showing total area covered over time.\n\n9. **Climbing Ivy Covering a Wall Surface**\n   A flat wall panel stands vertically while multiple ivy stems at its base grow upward, branching and spreading to cover the surface, with each leaf tile attaching, rotating to face the viewer, and slowly darkening in green as it matures, leaving a coverage percentage label.\n\n10. **Carnivorous Plant Growth and Prey Capture**\n    A Venus flytrap‑like plant grows larger traps over time, with each trap leaf opening and closing; small insect spheres wander around, sometimes colliding with open traps that snap shut and turn slightly red inside as the plant “absorbs” and grows.\n\n11. **Tree Ring Formation in a Growing Trunk Cross‑Section**\n    A cross‑section disk of a tree trunk expands outward as new rings are added; each new ring appears as a thin band that grows in radius, with alternating light and dark textures for earlywood and latewood, and a slider to scrub back and forth through years of growth.\n\n12. **Urban Green Wall with Modular Planters**\n    A grid of wall‑mounted planter boxes grows plants with varying rates, where plant spheres or simple branching shapes extend out from each module, competing for space and light, while a transparent overlay shows water distribution pipes and flow with animated blue particles.\n\n13. **L-System Fractal Plant Growing in 3D**\n    A plant starts as a single cylinder and repeatedly branches according to L‑system rules, with each iteration adding new segments that rotate, split, and taper, leaves attaching at endpoints and a side panel showing the current iteration number and segment count.\n\n14. **Seed Dispersal and Germination in a Meadow**\n    A parent plant releases small seed spheres that float, bounce, or roll across a slightly uneven terrain; when they settle, some seeds sink slightly into the ground, change color, and sprout tiny stems that grow if within a certain distance of water or light patches.\n\n15. **Succulent Leaf Propagation on a Tray**\n    Detached succulent leaves lie on a flat tray, and over time each leaf may sprout tiny roots that grow downward and a small rosette that grows upward, with humidity and light indicators as sliders that change growth speed and leaf color (plump vs. shriveled).\n\n16. **Plant Growth Under Different Colored Lights**\n    Several identical potted plants sit in a row under colored overhead lamps (red, blue, white), each lamp a glowing disk; plant height, leaf area, and color change over time depending on lamp color, with simple bar meters above each pot showing growth rate and health.\n\n17. **Tropical Tree with Epiphytes and Vines**\n    A central tree trunk grows slowly taller and thicker while epiphyte plants and vines attach at different heights, sending roots that hang or wrap around the trunk, with moisture droplets occasionally condensing and sliding down, feeding certain attached plants and boosting their growth.\n\n18. **Plant Hormone Transport Visualization**\n    A simplified plant stem with a few leaves shows vertical tubes for xylem and phloem; colored particles representing water, sugars, and hormones move up and down, and when a light hits one side, hormone particles redistribute, causing that side’s segments to expand and bend.\n\n19. **Mycorrhizal Network Linking Multiple Plants**\n    Several small plants stand on a soil block while semi‑transparent fungal filaments spread underground as glowing threads, branching and connecting to roots; nutrient particles travel along fungal strands to plants, changing plant color or size as shared resources increase.\n\n20. **Bonsai Shaping with Pruning and Wiring**\n    A small tree grows branches and leaves that slowly thicken; the user can toggle “prune” to remove branch segments or add wire coils that gently bend and hold branches in new positions, and over time branches grow along the wired curves, with old wires fading and “falling off.”\n\n21. **Time‑Lapse Garden Bed Growth Through Seasons**\n    Rows of different plant species sprout, grow, flower, and then wither in cycles as a sun sphere orbits overhead and the background color shifts by season, with transparent overlays showing root depth and labels for stages: seedling, vegetative, flowering, fruiting, senescence.\n\n22. **Cactus Growth and Water Storage Dynamics**\n    A cactus column slowly increases in height and radius as water is absorbed from periodic “rain” droplets falling and colliding with the soil; after each rain, the cactus segments swell slightly and turn a richer green, then gradually shrink and fade as water is used.\n\n23. **Algae Growth on a Transparent Water Column**\n    A tall, clear cylinder of “water” fills the scene with a light background; tiny green algae particles replicate, cluster, and rise or sink based on light entering from one side, causing the water to gradually tint green, with a density meter and a slider for nutrient injection.\n\n24. **Root vs. Rock: Deforming Growth Path**\n    A single root grows as a flexible tube through soil toward a water source sphere but meets rigid rock blocks; the root tip senses collisions, then curves around obstacles, leaving a faint trail of its attempted paths, with the final root shape highlighted when it reaches water.\n\n25. **Symbiotic Climbing Plant and Support Tree**\n    A young tree and a vine start together; as the tree slowly thickens and extends upward, the vine coils around it, using the trunk for support; both grow, but if the vine wraps too tightly (visualized by red segments), the tree’s upper growth slows or stops, shown by shrinking growth arrows."
+}

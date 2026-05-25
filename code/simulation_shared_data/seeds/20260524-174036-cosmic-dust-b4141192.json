@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Cosmic dust",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:40:36",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Protoplanetary Disk Dust Swirl",
+      "description": "A bright central star with a flat, rotating disk of millions of tiny dust particles that orbit, collide, clump into larger labeled aggregates, and leave faint curved trails as they slowly spiral inward or are flung outward.",
+      "seed": "Protoplanetary Disk Dust Swirl: A bright central star with a flat, rotating disk of millions of tiny dust particles that orbit, collide, clump into larger labeled aggregates, and leave faint curved trails as they slowly spiral inward or are flung outward."
+    },
+    {
+      "number": "2",
+      "title": "Dust Filaments in a Nebula",
+      "description": "A transparent glowing gas cloud with wispy, branching filaments made of drifting dust particles that slowly condense, merge into thicker strands, and are gently pushed and reshaped by passing shockwave fronts.",
+      "seed": "Dust Filaments in a Nebula: A transparent glowing gas cloud with wispy, branching filaments made of drifting dust particles that slowly condense, merge into thicker strands, and are gently pushed and reshaped by passing shockwave fronts."
+    },
+    {
+      "number": "3",
+      "title": "Cosmic Dust Accretion onto a Baby Planet",
+      "description": "A small rocky protoplanet orbits a star while a stream of colored dust particles flows past; some are gravitationally attracted, spiral down in curved paths, collide and stick to the surface, while others slingshot away, with impact points leaving bright marks on the planet.",
+      "seed": "Cosmic Dust Accretion onto a Baby Planet: A small rocky protoplanet orbits a star while a stream of colored dust particles flows past; some are gravitationally attracted, spiral down in curved paths, collide and stick to the surface, while others slingshot away, with impact points leaving bright marks on the planet."
+    },
+    {
+      "number": "4",
+      "title": "Zodiacal Dust Cloud Around a Star",
+      "description": "Multiple planets orbit a sun in the center while a faint, flattened cloud of dust particles orbits too; dust scatters light, glows softly, is perturbed by planets’ gravity, forming resonant rings and gaps visualized with color-coding and faint orbit lines.",
+      "seed": "Zodiacal Dust Cloud Around a Star: Multiple planets orbit a sun in the center while a faint, flattened cloud of dust particles orbits too; dust scatters light, glows softly, is perturbed by planets’ gravity, forming resonant rings and gaps visualized with color-coding and faint orbit lines."
+    },
+    {
+      "number": "5",
+      "title": "Interstellar Dust Through a Magnetic Field",
+      "description": "A box filled with slowly drifting dust grains passes through an invisible but visualized 3D magnetic field grid; charged dust particles curve along colored field lines, attach into chains, break apart when fields switch direction, and glow brighter with stronger field strength.",
+      "seed": "Interstellar Dust Through a Magnetic Field: A box filled with slowly drifting dust grains passes through an invisible but visualized 3D magnetic field grid; charged dust particles curve along colored field lines, attach into chains, break apart when fields switch direction, and glow brighter with stronger field strength."
+    },
+    {
+      "number": "6",
+      "title": "Comet Tail Dust Release",
+      "description": "A comet nucleus on an elliptical orbit approaches a sun, heats up, and releases jets of dust particles that fan out into a curved tail; particles drift away, some colliding with each other, some forming a thin dust trail along the comet’s orbit.",
+      "seed": "Comet Tail Dust Release: A comet nucleus on an elliptical orbit approaches a sun, heats up, and releases jets of dust particles that fan out into a curved tail; particles drift away, some colliding with each other, some forming a thin dust trail along the comet’s orbit."
+    },
+    {
+      "number": "7",
+      "title": "Dust Storm on a Moon Surface",
+      "description": "A low-gravity moon with a textured surface is hit by a micrometeorite, kicking up a dusty plume; dust grains follow ballistic arcs, bounce, stick, and slowly settle, while a gentle electrostatic “levitation” effect makes the smallest particles hover and drift along the surface.",
+      "seed": "Dust Storm on a Moon Surface: A low-gravity moon with a textured surface is hit by a micrometeorite, kicking up a dusty plume; dust grains follow ballistic arcs, bounce, stick, and slowly settle, while a gentle electrostatic “levitation” effect makes the smallest particles hover and drift along the surface."
+    },
+    {
+      "number": "8",
+      "title": "Cosmic Dust Filtering Through a Space Station",
+      "description": "A stationary lattice-like space structure sits in a stream of incoming dust particles; grains collide with beams, bounce or stick depending on impact speed, accumulate in dusty patches, and some squeeze through gaps, with hit locations highlighted and labeled over time.",
+      "seed": "Cosmic Dust Filtering Through a Space Station: A stationary lattice-like space structure sits in a stream of incoming dust particles; grains collide with beams, bounce or stick depending on impact speed, accumulate in dusty patches, and some squeeze through gaps, with hit locations highlighted and labeled over time."
+    },
+    {
+      "number": "9",
+      "title": "Cosmic Dust Ring Around a Planet",
+      "description": "A planet with a thin icy ring is composed of countless dust and pebble-sized particles; they orbit in a flat band, collide elastically or inelastically, occasionally clump into temporary moonlets that grow, then are pulled apart by tides, all with orbit trails and color-coded speeds.",
+      "seed": "Cosmic Dust Ring Around a Planet: A planet with a thin icy ring is composed of countless dust and pebble-sized particles; they orbit in a flat band, collide elastically or inelastically, occasionally clump into temporary moonlets that grow, then are pulled apart by tides, all with orbit trails and color-coded speeds."
+    },
+    {
+      "number": "10",
+      "title": "Formation of a Dusty Spiral Galaxy",
+      "description": "A rotating disk of stars and gas forms a spiral galaxy; embedded dusty regions are shown as semi-transparent dark patches that drift, merge, and are slowly stretched into spiral arms as the disk rotates, with dust density visualized by darker shading and labels.",
+      "seed": "Formation of a Dusty Spiral Galaxy: A rotating disk of stars and gas forms a spiral galaxy; embedded dusty regions are shown as semi-transparent dark patches that drift, merge, and are slowly stretched into spiral arms as the disk rotates, with dust density visualized by darker shading and labels."
+    },
+    {
+      "number": "11",
+      "title": "Dust Aggregation in Microgravity Lab",
+      "description": "Inside a transparent cubic chamber, free-floating dust grains gently drift and collide; when moving slowly they stick and form fractal-like clusters, which then rotate, break apart in faster collisions, and are tracked with labels and changing colors to show growth histories.",
+      "seed": "Dust Aggregation in Microgravity Lab: Inside a transparent cubic chamber, free-floating dust grains gently drift and collide; when moving slowly they stick and form fractal-like clusters, which then rotate, break apart in faster collisions, and are tracked with labels and changing colors to show growth histories."
+    },
+    {
+      "number": "12",
+      "title": "Photon Pressure on Dust Near a Star",
+      "description": "A bright star emits visible rays that push on nearby small dust grains; particles closer to the star are blown outward in curved paths while heavier grains fall inward, with arrow indicators showing net forces and color-changing particles indicating speed changes.",
+      "seed": "Photon Pressure on Dust Near a Star: A bright star emits visible rays that push on nearby small dust grains; particles closer to the star are blown outward in curved paths while heavier grains fall inward, with arrow indicators showing net forces and color-changing particles indicating speed changes."
+    },
+    {
+      "number": "13",
+      "title": "Cosmic Dust Settling onto a Spacecraft Solar Panel",
+      "description": "A flat panel moves slowly through a dilute dust field; grains that hit can bounce, slide, or stick depending on angle and speed, gradually forming a thin dusty coating that dims the panel’s glow and is tracked with a meter showing coverage percentage.",
+      "seed": "Cosmic Dust Settling onto a Spacecraft Solar Panel: A flat panel moves slowly through a dilute dust field; grains that hit can bounce, slide, or stick depending on angle and speed, gradually forming a thin dusty coating that dims the panel’s glow and is tracked with a meter showing coverage percentage."
+    },
+    {
+      "number": "14",
+      "title": "Shockwave Compressing Interstellar Dust",
+      "description": "A spherical supernova shockwave expands through a field of gas and dust; as the transparent wavefront passes, dust grains are compressed into a moving shell, collide and merge more frequently, and some are pushed into dense clumps that glow brighter.",
+      "seed": "Shockwave Compressing Interstellar Dust: A spherical supernova shockwave expands through a field of gas and dust; as the transparent wavefront passes, dust grains are compressed into a moving shell, collide and merge more frequently, and some are pushed into dense clumps that glow brighter."
+    },
+    {
+      "number": "15",
+      "title": "Cosmic Dust Meteoroid Formation and Entry",
+      "description": "A clump of dust in space gradually grows by capturing passing grains, becoming a small meteoroid; its orbit intersects a planet, where it plunges into the atmosphere, heats up, sheds glowing dust particles that form a bright trail, then fragments into multiple smaller pieces.",
+      "seed": "Cosmic Dust Meteoroid Formation and Entry: A clump of dust in space gradually grows by capturing passing grains, becoming a small meteoroid; its orbit intersects a planet, where it plunges into the atmosphere, heats up, sheds glowing dust particles that form a bright trail, then fragments into multiple smaller pieces."
+    },
+    {
+      "number": "16",
+      "title": "Dust Lanes Crossing a Star Cluster",
+      "description": "A 3D star cluster is crossed by several thick dust lanes, represented as semi-transparent, drifting clouds; as stars and dust move, some stars become dimmed or “hidden” when behind a dust lane, with dynamic labels indicating which stars are currently obscured.",
+      "seed": "Dust Lanes Crossing a Star Cluster: A 3D star cluster is crossed by several thick dust lanes, represented as semi-transparent, drifting clouds; as stars and dust move, some stars become dimmed or “hidden” when behind a dust lane, with dynamic labels indicating which stars are currently obscured."
+    },
+    {
+      "number": "17",
+      "title": "Electrostatic Charging of Cosmic Dust Grains",
+      "description": "Dust grains in a plasma environment are represented as small spheres whose color indicates charge; plasma particles collide with dust, changing charge and causing grains to repel or attract, forming swirling clusters and chains that constantly assemble and fall apart.",
+      "seed": "Electrostatic Charging of Cosmic Dust Grains: Dust grains in a plasma environment are represented as small spheres whose color indicates charge; plasma particles collide with dust, changing charge and causing grains to repel or attract, forming swirling clusters and chains that constantly assemble and fall apart."
+    },
+    {
+      "number": "18",
+      "title": "Dust Capture by a Planetary Magnetic Field",
+      "description": "A planet with a visualized dipole magnetic field sits in a stream of charged dust; particles spiral along field lines, some get trapped in ring-like belts, others collide with the atmosphere and create brief glowing impact flashes where they hit.",
+      "seed": "Dust Capture by a Planetary Magnetic Field: A planet with a visualized dipole magnetic field sits in a stream of charged dust; particles spiral along field lines, some get trapped in ring-like belts, others collide with the atmosphere and create brief glowing impact flashes where they hit."
+    },
+    {
+      "number": "19",
+      "title": "Cosmic Dust Snowfall onto an Ice World",
+      "description": "Above an icy moon, a diffuse layer of dust slowly “snows” downward; particles fall, bounce lightly, then stick and slowly darken the bright surface, while small surface ridges channel the dust into darker streaks and patches.",
+      "seed": "Cosmic Dust Snowfall onto an Ice World: Above an icy moon, a diffuse layer of dust slowly “snows” downward; particles fall, bounce lightly, then stick and slowly darken the bright surface, while small surface ridges channel the dust into darker streaks and patches."
+    },
+    {
+      "number": "20",
+      "title": "Dusty Plasma Ring Around a Brown Dwarf",
+      "description": "A dim brown dwarf is surrounded by a thin dusty plasma ring; dust grains interact with each other and with background plasma, forming clumps that rotate with the ring, occasionally split, merge, and leave faint rotating density patterns that can be color-coded.",
+      "seed": "Dusty Plasma Ring Around a Brown Dwarf: A dim brown dwarf is surrounded by a thin dusty plasma ring; dust grains interact with each other and with background plasma, forming clumps that rotate with the ring, occasionally split, merge, and leave faint rotating density patterns that can be color-coded."
+    },
+    {
+      "number": "21",
+      "title": "Cosmic Dust Passing Through a Gas Cloud Interface",
+      "description": "A stream of dust flows from a low-density region into a denser gas region; particles slow, some stick to invisible gas “clumps” represented by faint spheres, forming dusty halos, while faster grains punch through and leave short luminous trails.",
+      "seed": "Cosmic Dust Passing Through a Gas Cloud Interface: A stream of dust flows from a low-density region into a denser gas region; particles slow, some stick to invisible gas “clumps” represented by faint spheres, forming dusty halos, while faster grains punch through and leave short luminous trails."
+    },
+    {
+      "number": "22",
+      "title": "Tidal Disruption of a Dusty Asteroid",
+      "description": "A dusty asteroid passes near a massive planet; as it approaches, tidal forces stretch it into a chain of fragments, each shedding dust that spreads along the orbit, creating a curved debris stream of particles that collide, merge, and gradually disperse.",
+      "seed": "Tidal Disruption of a Dusty Asteroid: A dusty asteroid passes near a massive planet; as it approaches, tidal forces stretch it into a chain of fragments, each shedding dust that spreads along the orbit, creating a curved debris stream of particles that collide, merge, and gradually disperse."
+    },
+    {
+      "number": "23",
+      "title": "Cosmic Dust Trail Behind an Interstellar Probe",
+      "description": "A small craft moves in a straight or curved path through a sparse dust field; its motion sweeps dust aside, some grains impact the hull leaving glowing impact marks, and a thin trail of deflected dust lines up behind it, with vector arrows showing deflection angles.",
+      "seed": "Cosmic Dust Trail Behind an Interstellar Probe: A small craft moves in a straight or curved path through a sparse dust field; its motion sweeps dust aside, some grains impact the hull leaving glowing impact marks, and a thin trail of deflected dust lines up behind it, with vector arrows showing deflection angles."
+    },
+    {
+      "number": "24",
+      "title": "Cosmic Dust as a Symbolic Memory Cloud",
+      "description": "A central glowing “core” object emits labeled dust particles representing “memories” that drift outward, occasionally collide and merge into larger labeled clusters, some fading and dissolving, others looping back on curved paths to reattach to the core.",
+      "seed": "Cosmic Dust as a Symbolic Memory Cloud: A central glowing “core” object emits labeled dust particles representing “memories” that drift outward, occasionally collide and merge into larger labeled clusters, some fading and dissolving, others looping back on curved paths to reattach to the core."
+    },
+    {
+      "number": "25",
+      "title": "Cosmic Dust Deposition in a Crater Over Time",
+      "description": "A static cratered surface sits under a gentle, constant rain of dust from above; grains fall, bounce, and gradually fill the crater, with a transparent vertical gauge showing the dust depth increasing and color shifts indicating older vs. newer deposited layers.",
+      "seed": "Cosmic Dust Deposition in a Crater Over Time: A static cratered surface sits under a gentle, constant rain of dust from above; grains fall, bounce, and gradually fill the crater, with a transparent vertical gauge showing the dust depth increasing and color shifts indicating older vs. newer deposited layers."
+    }
+  ],
+  "raw_output": "Here are strong **Cosmic dust simulation inputs** you can plug into your prompt:\n\n1. **Protoplanetary Disk Dust Swirl**\n   A bright central star with a flat, rotating disk of millions of tiny dust particles that orbit, collide, clump into larger labeled aggregates, and leave faint curved trails as they slowly spiral inward or are flung outward.\n\n2. **Dust Filaments in a Nebula**\n   A transparent glowing gas cloud with wispy, branching filaments made of drifting dust particles that slowly condense, merge into thicker strands, and are gently pushed and reshaped by passing shockwave fronts.\n\n3. **Cosmic Dust Accretion onto a Baby Planet**\n   A small rocky protoplanet orbits a star while a stream of colored dust particles flows past; some are gravitationally attracted, spiral down in curved paths, collide and stick to the surface, while others slingshot away, with impact points leaving bright marks on the planet.\n\n4. **Zodiacal Dust Cloud Around a Star**\n   Multiple planets orbit a sun in the center while a faint, flattened cloud of dust particles orbits too; dust scatters light, glows softly, is perturbed by planets’ gravity, forming resonant rings and gaps visualized with color-coding and faint orbit lines.\n\n5. **Interstellar Dust Through a Magnetic Field**\n   A box filled with slowly drifting dust grains passes through an invisible but visualized 3D magnetic field grid; charged dust particles curve along colored field lines, attach into chains, break apart when fields switch direction, and glow brighter with stronger field strength.\n\n6. **Comet Tail Dust Release**\n   A comet nucleus on an elliptical orbit approaches a sun, heats up, and releases jets of dust particles that fan out into a curved tail; particles drift away, some colliding with each other, some forming a thin dust trail along the comet’s orbit.\n\n7. **Dust Storm on a Moon Surface**\n   A low-gravity moon with a textured surface is hit by a micrometeorite, kicking up a dusty plume; dust grains follow ballistic arcs, bounce, stick, and slowly settle, while a gentle electrostatic “levitation” effect makes the smallest particles hover and drift along the surface.\n\n8. **Cosmic Dust Filtering Through a Space Station**\n   A stationary lattice-like space structure sits in a stream of incoming dust particles; grains collide with beams, bounce or stick depending on impact speed, accumulate in dusty patches, and some squeeze through gaps, with hit locations highlighted and labeled over time.\n\n9. **Cosmic Dust Ring Around a Planet**\n   A planet with a thin icy ring is composed of countless dust and pebble-sized particles; they orbit in a flat band, collide elastically or inelastically, occasionally clump into temporary moonlets that grow, then are pulled apart by tides, all with orbit trails and color-coded speeds.\n\n10. **Formation of a Dusty Spiral Galaxy**\n   A rotating disk of stars and gas forms a spiral galaxy; embedded dusty regions are shown as semi-transparent dark patches that drift, merge, and are slowly stretched into spiral arms as the disk rotates, with dust density visualized by darker shading and labels.\n\n11. **Dust Aggregation in Microgravity Lab**\n   Inside a transparent cubic chamber, free-floating dust grains gently drift and collide; when moving slowly they stick and form fractal-like clusters, which then rotate, break apart in faster collisions, and are tracked with labels and changing colors to show growth histories.\n\n12. **Photon Pressure on Dust Near a Star**\n   A bright star emits visible rays that push on nearby small dust grains; particles closer to the star are blown outward in curved paths while heavier grains fall inward, with arrow indicators showing net forces and color-changing particles indicating speed changes.\n\n13. **Cosmic Dust Settling onto a Spacecraft Solar Panel**\n   A flat panel moves slowly through a dilute dust field; grains that hit can bounce, slide, or stick depending on angle and speed, gradually forming a thin dusty coating that dims the panel’s glow and is tracked with a meter showing coverage percentage.\n\n14. **Shockwave Compressing Interstellar Dust**\n   A spherical supernova shockwave expands through a field of gas and dust; as the transparent wavefront passes, dust grains are compressed into a moving shell, collide and merge more frequently, and some are pushed into dense clumps that glow brighter.\n\n15. **Cosmic Dust Meteoroid Formation and Entry**\n   A clump of dust in space gradually grows by capturing passing grains, becoming a small meteoroid; its orbit intersects a planet, where it plunges into the atmosphere, heats up, sheds glowing dust particles that form a bright trail, then fragments into multiple smaller pieces.\n\n16. **Dust Lanes Crossing a Star Cluster**\n   A 3D star cluster is crossed by several thick dust lanes, represented as semi-transparent, drifting clouds; as stars and dust move, some stars become dimmed or “hidden” when behind a dust lane, with dynamic labels indicating which stars are currently obscured.\n\n17. **Electrostatic Charging of Cosmic Dust Grains**\n   Dust grains in a plasma environment are represented as small spheres whose color indicates charge; plasma particles collide with dust, changing charge and causing grains to repel or attract, forming swirling clusters and chains that constantly assemble and fall apart.\n\n18. **Dust Capture by a Planetary Magnetic Field**\n   A planet with a visualized dipole magnetic field sits in a stream of charged dust; particles spiral along field lines, some get trapped in ring-like belts, others collide with the atmosphere and create brief glowing impact flashes where they hit.\n\n19. **Cosmic Dust Snowfall onto an Ice World**\n   Above an icy moon, a diffuse layer of dust slowly “snows” downward; particles fall, bounce lightly, then stick and slowly darken the bright surface, while small surface ridges channel the dust into darker streaks and patches.\n\n20. **Dusty Plasma Ring Around a Brown Dwarf**\n   A dim brown dwarf is surrounded by a thin dusty plasma ring; dust grains interact with each other and with background plasma, forming clumps that rotate with the ring, occasionally split, merge, and leave faint rotating density patterns that can be color-coded.\n\n21. **Cosmic Dust Passing Through a Gas Cloud Interface**\n   A stream of dust flows from a low-density region into a denser gas region; particles slow, some stick to invisible gas “clumps” represented by faint spheres, forming dusty halos, while faster grains punch through and leave short luminous trails.\n\n22. **Tidal Disruption of a Dusty Asteroid**\n   A dusty asteroid passes near a massive planet; as it approaches, tidal forces stretch it into a chain of fragments, each shedding dust that spreads along the orbit, creating a curved debris stream of particles that collide, merge, and gradually disperse.\n\n23. **Cosmic Dust Trail Behind an Interstellar Probe**\n   A small craft moves in a straight or curved path through a sparse dust field; its motion sweeps dust aside, some grains impact the hull leaving glowing impact marks, and a thin trail of deflected dust lines up behind it, with vector arrows showing deflection angles.\n\n24. **Cosmic Dust as a Symbolic Memory Cloud**\n   A central glowing “core” object emits labeled dust particles representing “memories” that drift outward, occasionally collide and merge into larger labeled clusters, some fading and dissolving, others looping back on curved paths to reattach to the core.\n\n25. **Cosmic Dust Deposition in a Crater Over Time**\n   A static cratered surface sits under a gentle, constant rain of dust from above; grains fall, bounce, and gradually fill the crater, with a transparent vertical gauge showing the dust depth increasing and color shifts indicating older vs. newer deposited layers."
+}

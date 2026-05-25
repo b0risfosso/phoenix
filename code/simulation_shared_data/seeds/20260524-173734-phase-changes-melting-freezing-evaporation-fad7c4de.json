@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Phase changes: melting, freezing, evaporation",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:37:34",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Melting Ice Cube on a Heated Metal Plate",
+      "description": "A transparent ice cube block slowly melts on a slightly glowing metal plate, with water droplets forming, sliding, merging into a puddle, and a thermometer bar rising as heat transfers from plate to cube.",
+      "seed": "Melting Ice Cube on a Heated Metal Plate: A transparent ice cube block slowly melts on a slightly glowing metal plate, with water droplets forming, sliding, merging into a puddle, and a thermometer bar rising as heat transfers from plate to cube."
+    },
+    {
+      "number": "2",
+      "title": "Freezing Pond with Expanding Ice Sheet",
+      "description": "A shallow circular pond gradually freezes from the edges inward, with a growing semi-transparent ice disk pushing floating lily pads and bobbing ducks toward the center as temperature labels drop.",
+      "seed": "Freezing Pond with Expanding Ice Sheet: A shallow circular pond gradually freezes from the edges inward, with a growing semi-transparent ice disk pushing floating lily pads and bobbing ducks toward the center as temperature labels drop."
+    },
+    {
+      "number": "3",
+      "title": "Evaporation of a Water Puddle Under a Moving Sun Lamp",
+      "description": "A shallow water puddle on a light-colored floor shrinks as a bright “sun” sphere moves overhead, emitting faint particle vapor that rises and disperses while a humidity meter and puddle outline update.",
+      "seed": "Evaporation of a Water Puddle Under a Moving Sun Lamp: A shallow water puddle on a light-colored floor shrinks as a bright “sun” sphere moves overhead, emitting faint particle vapor that rises and disperses while a humidity meter and puddle outline update."
+    },
+    {
+      "number": "4",
+      "title": "Microscopic View of Water Molecules During Phase Change",
+      "description": "A cluster of colored spheres representing water molecules transitions between ice, liquid, and vapor as temperature changes, showing molecules locked in a lattice, then jostling, then flying apart with motion trails.",
+      "seed": "Microscopic View of Water Molecules During Phase Change: A cluster of colored spheres representing water molecules transitions between ice, liquid, and vapor as temperature changes, showing molecules locked in a lattice, then jostling, then flying apart with motion trails."
+    },
+    {
+      "number": "5",
+      "title": "Melting Glacier on a Mountain Slope",
+      "description": "A semi-transparent glacier block perched on a tilted terrain slowly melts, sending rivulets of water that flow, merge, and carve channels down the slope, with a “glacier mass” bar graph decreasing over time.",
+      "seed": "Melting Glacier on a Mountain Slope: A semi-transparent glacier block perched on a tilted terrain slowly melts, sending rivulets of water that flow, merge, and carve channels down the slope, with a “glacier mass” bar graph decreasing over time."
+    },
+    {
+      "number": "6",
+      "title": "Freezing Rain Forming Icicles on a Roof Edge",
+      "description": "Droplets fall from a roof line, some bouncing off while others attach and freeze into growing transparent icicles that elongate, drip, and occasionally snap and fall, leaving shards on the ground.",
+      "seed": "Freezing Rain Forming Icicles on a Roof Edge: Droplets fall from a roof line, some bouncing off while others attach and freeze into growing transparent icicles that elongate, drip, and occasionally snap and fall, leaving shards on the ground."
+    },
+    {
+      "number": "7",
+      "title": "Boiling Pot with Evaporating Water and Rising Steam",
+      "description": "A pot on a glowing stove disk contains churning water with rising bubbles; vapor particles launch from the surface, drift upward as a steam plume, and condense into tiny droplets on a cool overhead plate.",
+      "seed": "Boiling Pot with Evaporating Water and Rising Steam: A pot on a glowing stove disk contains churning water with rising bubbles; vapor particles launch from the surface, drift upward as a steam plume, and condense into tiny droplets on a cool overhead plate."
+    },
+    {
+      "number": "8",
+      "title": "Phase Change of Lava Cooling into Solid Rock",
+      "description": "A bright orange molten lava pool slowly darkens and stiffens into a solid crust, with glowing cracks that freeze over and a color-coded temperature map fading from red to blue across the surface.",
+      "seed": "Phase Change of Lava Cooling into Solid Rock: A bright orange molten lava pool slowly darkens and stiffens into a solid crust, with glowing cracks that freeze over and a color-coded temperature map fading from red to blue across the surface."
+    },
+    {
+      "number": "9",
+      "title": "Cloud Formation from Evaporation Over a Warm Lake",
+      "description": "A calm lake surface emits rising vapor particles that cool and condense into a floating semi-transparent cloud slab, which thickens, drifts, and occasionally rains droplets back into the lake.",
+      "seed": "Cloud Formation from Evaporation Over a Warm Lake: A calm lake surface emits rising vapor particles that cool and condense into a floating semi-transparent cloud slab, which thickens, drifts, and occasionally rains droplets back into the lake."
+    },
+    {
+      "number": "10",
+      "title": "Time-Lapse Candle Wax Melting and Solidifying",
+      "description": "A lit candle’s wax cylinder gradually melts into a liquid pool around the wick, then after the flame goes out, the wax slowly freezes back into a solid with a changing, lumpy surface.",
+      "seed": "Time-Lapse Candle Wax Melting and Solidifying: A lit candle’s wax cylinder gradually melts into a liquid pool around the wick, then after the flame goes out, the wax slowly freezes back into a solid with a changing, lumpy surface."
+    },
+    {
+      "number": "11",
+      "title": "Freezing Pipe with Expanding Ice Plug",
+      "description": "A transparent cutaway of a horizontal pipe shows water inside beginning to freeze at a cold section, forming an expanding ice plug that pushes liquid aside and exerts pressure on the pipe walls with a stress indicator bar.",
+      "seed": "Freezing Pipe with Expanding Ice Plug: A transparent cutaway of a horizontal pipe shows water inside beginning to freeze at a cold section, forming an expanding ice plug that pushes liquid aside and exerts pressure on the pipe walls with a stress indicator bar."
+    },
+    {
+      "number": "12",
+      "title": "Dry Ice Sublimation in Open Air",
+      "description": "A block of white “dry ice” sits on a table, slowly shrinking while a low-lying fog of cold particles spills over the edges, flows downward, and disperses, with no visible liquid phase.",
+      "seed": "Dry Ice Sublimation in Open Air: A block of white “dry ice” sits on a table, slowly shrinking while a low-lying fog of cold particles spills over the edges, flows downward, and disperses, with no visible liquid phase."
+    },
+    {
+      "number": "13",
+      "title": "Phase Change Cycle in a Refrigeration Loop",
+      "description": "A simple 3D loop of pipes with color-coded fluid segments shows refrigerant condensing in the condenser coil, expanding, evaporating in the evaporator, and being compressed, with arrows showing flow direction and phase labels.",
+      "seed": "Phase Change Cycle in a Refrigeration Loop: A simple 3D loop of pipes with color-coded fluid segments shows refrigerant condensing in the condenser coil, expanding, evaporating in the evaporator, and being compressed, with arrows showing flow direction and phase labels."
+    },
+    {
+      "number": "14",
+      "title": "Snowflake Growth and Melting on a Windowpane",
+      "description": "Hexagonal snowflakes land on a vertical glass pane, attach, branch out into intricate patterns, then slowly melt into droplets that merge, streak downward, and leave faint wet trails.",
+      "seed": "Snowflake Growth and Melting on a Windowpane: Hexagonal snowflakes land on a vertical glass pane, attach, branch out into intricate patterns, then slowly melt into droplets that merge, streak downward, and leave faint wet trails."
+    },
+    {
+      "number": "15",
+      "title": "Phase Change of Metal in a Casting Mold",
+      "description": "A crucible pours glowing liquid metal into a transparent mold cavity; the metal fills, then gradually solidifies from the mold walls inward, with a moving “solidification front” surface and changing color.",
+      "seed": "Phase Change of Metal in a Casting Mold: A crucible pours glowing liquid metal into a transparent mold cavity; the metal fills, then gradually solidifies from the mold walls inward, with a moving “solidification front” surface and changing color."
+    },
+    {
+      "number": "16",
+      "title": "Evaporation and Condensation in a Sealed Container",
+      "description": "A partially filled transparent box holds liquid water at the bottom; vapor particles bounce around inside, occasionally condensing into droplets on the cool lid and falling back as tiny rain, with a pressure gauge updating.",
+      "seed": "Evaporation and Condensation in a Sealed Container: A partially filled transparent box holds liquid water at the bottom; vapor particles bounce around inside, occasionally condensing into droplets on the cool lid and falling back as tiny rain, with a pressure gauge updating."
+    },
+    {
+      "number": "17",
+      "title": "Melting and Refreezing of Polar Sea Ice Floes",
+      "description": "Flat ice rafts float on a gently moving ocean, shrinking and thinning in a warm phase with meltwater pooling on top, then re-thickening and merging at colder times, while a global “ice coverage” meter tracks change.",
+      "seed": "Melting and Refreezing of Polar Sea Ice Floes: Flat ice rafts float on a gently moving ocean, shrinking and thinning in a warm phase with meltwater pooling on top, then re-thickening and merging at colder times, while a global “ice coverage” meter tracks change."
+    },
+    {
+      "number": "18",
+      "title": "Sculpted Ice Statue Melting Under Spotlights",
+      "description": "A detailed transparent ice statue stands on a pedestal under rotating spotlights; as it warms, edges round off, pieces detach as dripping chunks, and a water basin below fills and ripples from falling drops.",
+      "seed": "Sculpted Ice Statue Melting Under Spotlights: A detailed transparent ice statue stands on a pedestal under rotating spotlights; as it warms, edges round off, pieces detach as dripping chunks, and a water basin below fills and ripples from falling drops."
+    },
+    {
+      "number": "19",
+      "title": "Evaporation-Driven Cooling of a Wet Cloth",
+      "description": "A thin rectangular cloth hangs vertically, saturated with water that slowly evaporates as tiny departing particles; the cloth’s color map cools where evaporation is strongest, and small droplets occasionally fall from the edge.",
+      "seed": "Evaporation-Driven Cooling of a Wet Cloth: A thin rectangular cloth hangs vertically, saturated with water that slowly evaporates as tiny departing particles; the cloth’s color map cools where evaporation is strongest, and small droplets occasionally fall from the edge."
+    },
+    {
+      "number": "20",
+      "title": "Phase Change of Carbon Dioxide in a Pressurized Cylinder",
+      "description": "A cutaway pressure cylinder shows CO₂ as a mixture of liquid and gas; adjusting a valve changes pressure, causing liquid to evaporate or gas to condense, with a 3D phase diagram pointer updating in a side panel.",
+      "seed": "Phase Change of Carbon Dioxide in a Pressurized Cylinder: A cutaway pressure cylinder shows CO₂ as a mixture of liquid and gas; adjusting a valve changes pressure, causing liquid to evaporate or gas to condense, with a 3D phase diagram pointer updating in a side panel."
+    },
+    {
+      "number": "21",
+      "title": "Freezing Surface of a Rotating Planet",
+      "description": "A rotating globe with oceans and land gradually develops a growing ice cap and frozen seas as an orbiting cold “season” passes, with transparent ice layers spreading and retreating and latitudinal temperature bands shifting.",
+      "seed": "Freezing Surface of a Rotating Planet: A rotating globe with oceans and land gradually develops a growing ice cap and frozen seas as an orbiting cold “season” passes, with transparent ice layers spreading and retreating and latitudinal temperature bands shifting."
+    },
+    {
+      "number": "22",
+      "title": "Industrial Cooling Tower with Rising Evaporated Plume",
+      "description": "Warm water trickles down internal fill structures while cooler air rises, carrying evaporated water droplets that form a visible semi-transparent plume exiting the top and dispersing in the sky.",
+      "seed": "Industrial Cooling Tower with Rising Evaporated Plume: Warm water trickles down internal fill structures while cooler air rises, carrying evaporated water droplets that form a visible semi-transparent plume exiting the top and dispersing in the sky."
+    },
+    {
+      "number": "23",
+      "title": "Phase Change in a Heat Storage PCM (Phase Change Material) Block",
+      "description": "A rectangular PCM block around a central heating rod changes from opaque solid to semi-transparent liquid as heat flows outward, with an isosurface showing the moving melt front and temperature sensors embedded at multiple points.",
+      "seed": "Phase Change in a Heat Storage PCM (Phase Change Material) Block: A rectangular PCM block around a central heating rod changes from opaque solid to semi-transparent liquid as heat flows outward, with an isosurface showing the moving melt front and temperature sensors embedded at multiple points."
+    },
+    {
+      "number": "24",
+      "title": "Frost Formation and Sublimation on a Metal Rail",
+      "description": "A horizontal metal bar in cold air gradually accumulates white frost crystals that grow outward, then as warm air flows past, the frost sublimates directly into vapor, shrinking and disappearing without dripping.",
+      "seed": "Frost Formation and Sublimation on a Metal Rail: A horizontal metal bar in cold air gradually accumulates white frost crystals that grow outward, then as warm air flows past, the frost sublimates directly into vapor, shrinking and disappearing without dripping."
+    },
+    {
+      "number": "25",
+      "title": "Phase-Change Snowball Battle Arena",
+      "description": "Spherical snowballs are thrown between characters in a simple arena; impacts cause snow to stick and refreeze on surfaces, while nearby heaters make snowballs partially melt and drip, leaving wet patches that can later refreeze into ice.",
+      "seed": "Phase-Change Snowball Battle Arena: Spherical snowballs are thrown between characters in a simple arena; impacts cause snow to stick and refreeze on surfaces, while nearby heaters make snowballs partially melt and drip, leaving wet patches that can later refreeze into ice."
+    }
+  ],
+  "raw_output": "Here are strong **Phase changes: melting, freezing, evaporation simulation inputs** you can plug into your prompt:\n\n1. **Melting Ice Cube on a Heated Metal Plate**\n   A transparent ice cube block slowly melts on a slightly glowing metal plate, with water droplets forming, sliding, merging into a puddle, and a thermometer bar rising as heat transfers from plate to cube.\n\n2. **Freezing Pond with Expanding Ice Sheet**\n   A shallow circular pond gradually freezes from the edges inward, with a growing semi-transparent ice disk pushing floating lily pads and bobbing ducks toward the center as temperature labels drop.\n\n3. **Evaporation of a Water Puddle Under a Moving Sun Lamp**\n   A shallow water puddle on a light-colored floor shrinks as a bright “sun” sphere moves overhead, emitting faint particle vapor that rises and disperses while a humidity meter and puddle outline update.\n\n4. **Microscopic View of Water Molecules During Phase Change**\n   A cluster of colored spheres representing water molecules transitions between ice, liquid, and vapor as temperature changes, showing molecules locked in a lattice, then jostling, then flying apart with motion trails.\n\n5. **Melting Glacier on a Mountain Slope**\n   A semi-transparent glacier block perched on a tilted terrain slowly melts, sending rivulets of water that flow, merge, and carve channels down the slope, with a “glacier mass” bar graph decreasing over time.\n\n6. **Freezing Rain Forming Icicles on a Roof Edge**\n   Droplets fall from a roof line, some bouncing off while others attach and freeze into growing transparent icicles that elongate, drip, and occasionally snap and fall, leaving shards on the ground.\n\n7. **Boiling Pot with Evaporating Water and Rising Steam**\n   A pot on a glowing stove disk contains churning water with rising bubbles; vapor particles launch from the surface, drift upward as a steam plume, and condense into tiny droplets on a cool overhead plate.\n\n8. **Phase Change of Lava Cooling into Solid Rock**\n   A bright orange molten lava pool slowly darkens and stiffens into a solid crust, with glowing cracks that freeze over and a color-coded temperature map fading from red to blue across the surface.\n\n9. **Cloud Formation from Evaporation Over a Warm Lake**\n   A calm lake surface emits rising vapor particles that cool and condense into a floating semi-transparent cloud slab, which thickens, drifts, and occasionally rains droplets back into the lake.\n\n10. **Time-Lapse Candle Wax Melting and Solidifying**\n    A lit candle’s wax cylinder gradually melts into a liquid pool around the wick, then after the flame goes out, the wax slowly freezes back into a solid with a changing, lumpy surface.\n\n11. **Freezing Pipe with Expanding Ice Plug**\n    A transparent cutaway of a horizontal pipe shows water inside beginning to freeze at a cold section, forming an expanding ice plug that pushes liquid aside and exerts pressure on the pipe walls with a stress indicator bar.\n\n12. **Dry Ice Sublimation in Open Air**\n    A block of white “dry ice” sits on a table, slowly shrinking while a low-lying fog of cold particles spills over the edges, flows downward, and disperses, with no visible liquid phase.\n\n13. **Phase Change Cycle in a Refrigeration Loop**\n    A simple 3D loop of pipes with color-coded fluid segments shows refrigerant condensing in the condenser coil, expanding, evaporating in the evaporator, and being compressed, with arrows showing flow direction and phase labels.\n\n14. **Snowflake Growth and Melting on a Windowpane**\n    Hexagonal snowflakes land on a vertical glass pane, attach, branch out into intricate patterns, then slowly melt into droplets that merge, streak downward, and leave faint wet trails.\n\n15. **Phase Change of Metal in a Casting Mold**\n    A crucible pours glowing liquid metal into a transparent mold cavity; the metal fills, then gradually solidifies from the mold walls inward, with a moving “solidification front” surface and changing color.\n\n16. **Evaporation and Condensation in a Sealed Container**\n    A partially filled transparent box holds liquid water at the bottom; vapor particles bounce around inside, occasionally condensing into droplets on the cool lid and falling back as tiny rain, with a pressure gauge updating.\n\n17. **Melting and Refreezing of Polar Sea Ice Floes**\n    Flat ice rafts float on a gently moving ocean, shrinking and thinning in a warm phase with meltwater pooling on top, then re-thickening and merging at colder times, while a global “ice coverage” meter tracks change.\n\n18. **Sculpted Ice Statue Melting Under Spotlights**\n    A detailed transparent ice statue stands on a pedestal under rotating spotlights; as it warms, edges round off, pieces detach as dripping chunks, and a water basin below fills and ripples from falling drops.\n\n19. **Evaporation-Driven Cooling of a Wet Cloth**\n    A thin rectangular cloth hangs vertically, saturated with water that slowly evaporates as tiny departing particles; the cloth’s color map cools where evaporation is strongest, and small droplets occasionally fall from the edge.\n\n20. **Phase Change of Carbon Dioxide in a Pressurized Cylinder**\n    A cutaway pressure cylinder shows CO₂ as a mixture of liquid and gas; adjusting a valve changes pressure, causing liquid to evaporate or gas to condense, with a 3D phase diagram pointer updating in a side panel.\n\n21. **Freezing Surface of a Rotating Planet**\n    A rotating globe with oceans and land gradually develops a growing ice cap and frozen seas as an orbiting cold “season” passes, with transparent ice layers spreading and retreating and latitudinal temperature bands shifting.\n\n22. **Industrial Cooling Tower with Rising Evaporated Plume**\n    Warm water trickles down internal fill structures while cooler air rises, carrying evaporated water droplets that form a visible semi-transparent plume exiting the top and dispersing in the sky.\n\n23. **Phase Change in a Heat Storage PCM (Phase Change Material) Block**\n    A rectangular PCM block around a central heating rod changes from opaque solid to semi-transparent liquid as heat flows outward, with an isosurface showing the moving melt front and temperature sensors embedded at multiple points.\n\n24. **Frost Formation and Sublimation on a Metal Rail**\n    A horizontal metal bar in cold air gradually accumulates white frost crystals that grow outward, then as warm air flows past, the frost sublimates directly into vapor, shrinking and disappearing without dripping.\n\n25. **Phase-Change Snowball Battle Arena**\n    Spherical snowballs are thrown between characters in a simple arena; impacts cause snow to stick and refreeze on surfaces, while nearby heaters make snowballs partially melt and drip, leaving wet patches that can later refreeze into ice."
+}

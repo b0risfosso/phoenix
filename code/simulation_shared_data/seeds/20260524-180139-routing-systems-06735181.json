@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Routing systems",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:01:39",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Packet Highway in a 3D Data Center",
+      "description": "A 3D grid of transparent server cubes connected by glowing tubes where colored packet spheres spawn, choose routes based on congestion meters, split, merge, queue, and occasionally collide or reroute around “failed” darkened nodes.",
+      "seed": "Packet Highway in a 3D Data Center: A 3D grid of transparent server cubes connected by glowing tubes where colored packet spheres spawn, choose routes based on congestion meters, split, merge, queue, and occasionally collide or reroute around “failed” darkened nodes."
+    },
+    {
+      "number": "2",
+      "title": "Autonomous Drone Delivery Network Over a City",
+      "description": "A light-colored cityscape with buildings as boxes and flying drones as small rotating quads that follow color-coded air lanes, avoid each other with steering behaviors, dock at rooftop hubs, and reroute around temporary no-fly zones that appear as transparent red domes.",
+      "seed": "Autonomous Drone Delivery Network Over a City: A light-colored cityscape with buildings as boxes and flying drones as small rotating quads that follow color-coded air lanes, avoid each other with steering behaviors, dock at rooftop hubs, and reroute around temporary no-fly zones that appear as transparent red domes."
+    },
+    {
+      "number": "3",
+      "title": "Blood Flow Routing in Branching Arteries",
+      "description": "A semi-transparent branching arterial tree where red and white cell particles flow, branch at junctions based on diameter and “pressure” gauges, form clots that partially block paths, and cause cells to reroute through smaller capillary loops that glow when overloaded.",
+      "seed": "Blood Flow Routing in Branching Arteries: A semi-transparent branching arterial tree where red and white cell particles flow, branch at junctions based on diameter and “pressure” gauges, form clots that partially block paths, and cause cells to reroute through smaller capillary loops that glow when overloaded."
+    },
+    {
+      "number": "4",
+      "title": "Factory Conveyor Routing System",
+      "description": "A network of crossing conveyor belts and chutes that move colored boxes, where boxes are scanned by rotating sensor rings, diverted by tilting paddles, merge into main lines, pile up when blocked, and occasionally fall off into transparent collection bins.",
+      "seed": "Factory Conveyor Routing System: A network of crossing conveyor belts and chutes that move colored boxes, where boxes are scanned by rotating sensor rings, diverted by tilting paddles, merge into main lines, pile up when blocked, and occasionally fall off into transparent collection bins."
+    },
+    {
+      "number": "5",
+      "title": "Rail Yard Track Switching Simulator",
+      "description": "A flat yard with multiple tracks and switch points where train cars (short cylinders) couple, decouple, and are routed to different sidings by rotating switch rails, with animated signals, collision checks, and colored trails showing each car’s route history.",
+      "seed": "Rail Yard Track Switching Simulator: A flat yard with multiple tracks and switch points where train cars (short cylinders) couple, decouple, and are routed to different sidings by rotating switch rails, with animated signals, collision checks, and colored trails showing each car’s route history."
+    },
+    {
+      "number": "6",
+      "title": "Internet Router Node Galaxy",
+      "description": "Floating router spheres positioned in 3D space connected by semi-transparent tubes, where packet particles pulse outward from sources, choose shortest or least-congested paths, temporarily reroute around “down” nodes that fade out, and leave fading trails indicating latency.",
+      "seed": "Internet Router Node Galaxy: Floating router spheres positioned in 3D space connected by semi-transparent tubes, where packet particles pulse outward from sources, choose shortest or least-congested paths, temporarily reroute around “down” nodes that fade out, and leave fading trails indicating latency."
+    },
+    {
+      "number": "7",
+      "title": "Airport Gate and Taxiway Routing",
+      "description": "A simplified airport with runways and taxiways as light lines on a flat plane, where plane icons taxi, queue, and take off, rerouting around blocked taxiways and holding areas, while colored path traces show different airlines’ routing patterns.",
+      "seed": "Airport Gate and Taxiway Routing: A simplified airport with runways and taxiways as light lines on a flat plane, where plane icons taxi, queue, and take off, rerouting around blocked taxiways and holding areas, while colored path traces show different airlines’ routing patterns."
+    },
+    {
+      "number": "8",
+      "title": "Warehouse Robot Path Routing",
+      "description": "A grid-based warehouse floor with shelf blocks and small wheeled robots that plan paths around obstacles, pause at intersections, reroute when aisles are blocked, exchange “priority tokens” when they meet, and draw their movement history as thin colored trails.",
+      "seed": "Warehouse Robot Path Routing: A grid-based warehouse floor with shelf blocks and small wheeled robots that plan paths around obstacles, pause at intersections, reroute when aisles are blocked, exchange “priority tokens” when they meet, and draw their movement history as thin colored trails."
+    },
+    {
+      "number": "9",
+      "title": "Water Distribution Pipe Network",
+      "description": "A 3D network of semi-transparent pipes where blue fluid particles flow, split at junctions, mix with colored dye injections, and reroute when valves (rotating discs) close, with pressure meters and pipe segments that glow brighter as flow increases.",
+      "seed": "Water Distribution Pipe Network: A 3D network of semi-transparent pipes where blue fluid particles flow, split at junctions, mix with colored dye injections, and reroute when valves (rotating discs) close, with pressure meters and pipe segments that glow brighter as flow increases."
+    },
+    {
+      "number": "10",
+      "title": "Neural Signal Routing in a Brain Slice",
+      "description": "A cluster of neuron-like nodes with branching axons as thin tubes where glowing impulses originate, split, merge, and fade, with synapses that strengthen (thicken and brighten) or weaken based on usage, dynamically rerouting signals along more active pathways.",
+      "seed": "Neural Signal Routing in a Brain Slice: A cluster of neuron-like nodes with branching axons as thin tubes where glowing impulses originate, split, merge, and fade, with synapses that strengthen (thicken and brighten) or weaken based on usage, dynamically rerouting signals along more active pathways."
+    },
+    {
+      "number": "11",
+      "title": "Traffic Light Intersection Routing",
+      "description": "A 3D view of several intersecting roads where car boxes drive, queue, and route through a network of intersections, obeying traffic lights that cycle, with occasional lane closures forcing reroutes and overhead labels showing current route choices.",
+      "seed": "Traffic Light Intersection Routing: A 3D view of several intersecting roads where car boxes drive, queue, and route through a network of intersections, obeying traffic lights that cycle, with occasional lane closures forcing reroutes and overhead labels showing current route choices."
+    },
+    {
+      "number": "12",
+      "title": "Packet Routing on a 3D Torus Network",
+      "description": "A 3D toroidal lattice of nodes where packet spheres move along edges, wrap around the torus boundaries, collide at congested nodes, and dynamically choose alternative paths, with congestion visualized as edge thickness and heat-map coloring.",
+      "seed": "Packet Routing on a 3D Torus Network: A 3D toroidal lattice of nodes where packet spheres move along edges, wrap around the torus boundaries, collide at congested nodes, and dynamically choose alternative paths, with congestion visualized as edge thickness and heat-map coloring."
+    },
+    {
+      "number": "13",
+      "title": "Subway Tunnel Routing Under a City",
+      "description": "Transparent ground volume with colored cylindrical tunnels and station spheres where train capsules move, stop, and reroute around broken segments, while passenger particle flows transfer between lines at interchange stations that glow with intensity.",
+      "seed": "Subway Tunnel Routing Under a City: Transparent ground volume with colored cylindrical tunnels and station spheres where train capsules move, stop, and reroute around broken segments, while passenger particle flows transfer between lines at interchange stations that glow with intensity."
+    },
+    {
+      "number": "14",
+      "title": "Logistics Hub Container Routing",
+      "description": "A port scene with stacks of container blocks, cranes that pick, move, and place containers onto trucks and ships, and dynamic routing where containers are rerouted to different stacks or vehicles based on changing destination labels and queue lengths.",
+      "seed": "Logistics Hub Container Routing: A port scene with stacks of container blocks, cranes that pick, move, and place containers onto trucks and ships, and dynamic routing where containers are rerouted to different stacks or vehicles based on changing destination labels and queue lengths."
+    },
+    {
+      "number": "15",
+      "title": "Microscopic Vesicle Routing Inside a Cell",
+      "description": "A large semi-transparent cell sphere with organelles, where vesicle spheres bud from an organelle, travel along glowing microtubule tracks, attach/detach from motor proteins, choose different branch routes, and merge with target membranes that briefly pulse.",
+      "seed": "Microscopic Vesicle Routing Inside a Cell: A large semi-transparent cell sphere with organelles, where vesicle spheres bud from an organelle, travel along glowing microtubule tracks, attach/detach from motor proteins, choose different branch routes, and merge with target membranes that briefly pulse."
+    },
+    {
+      "number": "16",
+      "title": "Mail Sorting Center Chute Network",
+      "description": "A 3D lattice of sloped chutes and slides where letter envelopes (thin boxes) slide, bounce at junctions, are redirected by pivoting flaps, and occasionally jam, causing upstream rerouting to alternate chutes highlighted in different colors.",
+      "seed": "Mail Sorting Center Chute Network: A 3D lattice of sloped chutes and slides where letter envelopes (thin boxes) slide, bounce at junctions, are redirected by pivoting flaps, and occasionally jam, causing upstream rerouting to alternate chutes highlighted in different colors."
+    },
+    {
+      "number": "17",
+      "title": "Electric Power Routing Through a Grid",
+      "description": "A 3D lattice of towers and power lines where current is shown as moving glowing particles, substations can open or close switches, and power is rerouted around failed lines that flicker and darken, with node voltages shown as hovering meters.",
+      "seed": "Electric Power Routing Through a Grid: A 3D lattice of towers and power lines where current is shown as moving glowing particles, substations can open or close switches, and power is rerouted around failed lines that flicker and darken, with node voltages shown as hovering meters."
+    },
+    {
+      "number": "18",
+      "title": "River Delta Flow Routing",
+      "description": "A terrain with a main river splitting into many channels where water particles flow, branch, slow, and deposit sediment spheres that gradually build bars and block channels, forcing the water to reroute into new paths that carve into the terrain.",
+      "seed": "River Delta Flow Routing: A terrain with a main river splitting into many channels where water particles flow, branch, slow, and deposit sediment spheres that gradually build bars and block channels, forcing the water to reroute into new paths that carve into the terrain."
+    },
+    {
+      "number": "19",
+      "title": "Spacecraft Navigation Around Orbital Traffic",
+      "description": "A planet at the center with many satellites and debris pieces orbiting, and a new spacecraft plotting and updating its route, firing thrusters to avoid collisions, transferring between orbits, and leaving a curved trajectory trail that changes color after each maneuver.",
+      "seed": "Spacecraft Navigation Around Orbital Traffic: A planet at the center with many satellites and debris pieces orbiting, and a new spacecraft plotting and updating its route, firing thrusters to avoid collisions, transferring between orbits, and leaving a curved trajectory trail that changes color after each maneuver."
+    },
+    {
+      "number": "20",
+      "title": "Emergency Evacuation Routing in a Building",
+      "description": "A transparent multi-floor building with walls and exits, where human agents as small capsules move, slow, and reroute around blocked corridors and smoke-filled regions, with dynamic signage arrows that rotate to show updated best routes.",
+      "seed": "Emergency Evacuation Routing in a Building: A transparent multi-floor building with walls and exits, where human agents as small capsules move, slow, and reroute around blocked corridors and smoke-filled regions, with dynamic signage arrows that rotate to show updated best routes."
+    },
+    {
+      "number": "21",
+      "title": "Drone Swarm Message Routing",
+      "description": "A swarm of small drones hovering in 3D space as nodes in an ad hoc network, where message particles hop from drone to drone, rerouting when drones move or fail, with link quality shown by line thickness and messages leaving fading colored traces.",
+      "seed": "Drone Swarm Message Routing: A swarm of small drones hovering in 3D space as nodes in an ad hoc network, where message particles hop from drone to drone, rerouting when drones move or fail, with link quality shown by line thickness and messages leaving fading colored traces."
+    },
+    {
+      "number": "22",
+      "title": "Printer Job Routing in a 3D Office",
+      "description": "A multi-room office with desks, printers, and print server cubes where floating “print job” sheets route along semi-transparent lines from users to printers, queue, reroute when a printer jams (turns red), and finally “materialize” as stacked pages on output trays.",
+      "seed": "Printer Job Routing in a 3D Office: A multi-room office with desks, printers, and print server cubes where floating “print job” sheets route along semi-transparent lines from users to printers, queue, reroute when a printer jams (turns red), and finally “materialize” as stacked pages on output trays."
+    },
+    {
+      "number": "23",
+      "title": "Pipeline Routing Around Obstacles on a Construction Site",
+      "description": "A 3D terrain with buildings and equipment where pipe segments grow from a source, automatically route around obstacles, attach at joints, sometimes collide and retract, and change color to indicate pressure once the fluid particles start flowing.",
+      "seed": "Pipeline Routing Around Obstacles on a Construction Site: A 3D terrain with buildings and equipment where pipe segments grow from a source, automatically route around obstacles, attach at joints, sometimes collide and retract, and change color to indicate pressure once the fluid particles start flowing."
+    },
+    {
+      "number": "24",
+      "title": "Ant Colony Foraging and Path Routing",
+      "description": "A ground plane with an ant nest and scattered food pellets, where ants wander, discover food, and lay pheromone trails that grow brighter with use; other ants follow and strengthen or abandon trails as obstacles appear, dynamically rerouting the colony’s paths.",
+      "seed": "Ant Colony Foraging and Path Routing: A ground plane with an ant nest and scattered food pellets, where ants wander, discover food, and lay pheromone trails that grow brighter with use; other ants follow and strengthen or abandon trails as obstacles appear, dynamically rerouting the colony’s paths."
+    },
+    {
+      "number": "25",
+      "title": "Symbolic Decision Routing in a 3D Flowchart",
+      "description": "A floating 3D flowchart of labeled decision nodes and process blocks where token spheres enter at the top, follow branching rules at each node, merge, split, and sometimes loop back, with each token’s path colored by its decision history and displayed as a trailing line.",
+      "seed": "Symbolic Decision Routing in a 3D Flowchart: A floating 3D flowchart of labeled decision nodes and process blocks where token spheres enter at the top, follow branching rules at each node, merge, split, and sometimes loop back, with each token’s path colored by its decision history and displayed as a trailing line."
+    }
+  ],
+  "raw_output": "Here are strong **Routing systems simulation inputs** you can plug into your prompt:\n\n1. **Packet Highway in a 3D Data Center**\n   A 3D grid of transparent server cubes connected by glowing tubes where colored packet spheres spawn, choose routes based on congestion meters, split, merge, queue, and occasionally collide or reroute around “failed” darkened nodes.\n\n2. **Autonomous Drone Delivery Network Over a City**\n   A light-colored cityscape with buildings as boxes and flying drones as small rotating quads that follow color-coded air lanes, avoid each other with steering behaviors, dock at rooftop hubs, and reroute around temporary no-fly zones that appear as transparent red domes.\n\n3. **Blood Flow Routing in Branching Arteries**\n   A semi-transparent branching arterial tree where red and white cell particles flow, branch at junctions based on diameter and “pressure” gauges, form clots that partially block paths, and cause cells to reroute through smaller capillary loops that glow when overloaded.\n\n4. **Factory Conveyor Routing System**\n   A network of crossing conveyor belts and chutes that move colored boxes, where boxes are scanned by rotating sensor rings, diverted by tilting paddles, merge into main lines, pile up when blocked, and occasionally fall off into transparent collection bins.\n\n5. **Rail Yard Track Switching Simulator**\n   A flat yard with multiple tracks and switch points where train cars (short cylinders) couple, decouple, and are routed to different sidings by rotating switch rails, with animated signals, collision checks, and colored trails showing each car’s route history.\n\n6. **Internet Router Node Galaxy**\n   Floating router spheres positioned in 3D space connected by semi-transparent tubes, where packet particles pulse outward from sources, choose shortest or least-congested paths, temporarily reroute around “down” nodes that fade out, and leave fading trails indicating latency.\n\n7. **Airport Gate and Taxiway Routing**\n   A simplified airport with runways and taxiways as light lines on a flat plane, where plane icons taxi, queue, and take off, rerouting around blocked taxiways and holding areas, while colored path traces show different airlines’ routing patterns.\n\n8. **Warehouse Robot Path Routing**\n   A grid-based warehouse floor with shelf blocks and small wheeled robots that plan paths around obstacles, pause at intersections, reroute when aisles are blocked, exchange “priority tokens” when they meet, and draw their movement history as thin colored trails.\n\n9. **Water Distribution Pipe Network**\n   A 3D network of semi-transparent pipes where blue fluid particles flow, split at junctions, mix with colored dye injections, and reroute when valves (rotating discs) close, with pressure meters and pipe segments that glow brighter as flow increases.\n\n10. **Neural Signal Routing in a Brain Slice**\n    A cluster of neuron-like nodes with branching axons as thin tubes where glowing impulses originate, split, merge, and fade, with synapses that strengthen (thicken and brighten) or weaken based on usage, dynamically rerouting signals along more active pathways.\n\n11. **Traffic Light Intersection Routing**\n    A 3D view of several intersecting roads where car boxes drive, queue, and route through a network of intersections, obeying traffic lights that cycle, with occasional lane closures forcing reroutes and overhead labels showing current route choices.\n\n12. **Packet Routing on a 3D Torus Network**\n    A 3D toroidal lattice of nodes where packet spheres move along edges, wrap around the torus boundaries, collide at congested nodes, and dynamically choose alternative paths, with congestion visualized as edge thickness and heat-map coloring.\n\n13. **Subway Tunnel Routing Under a City**\n    Transparent ground volume with colored cylindrical tunnels and station spheres where train capsules move, stop, and reroute around broken segments, while passenger particle flows transfer between lines at interchange stations that glow with intensity.\n\n14. **Logistics Hub Container Routing**\n    A port scene with stacks of container blocks, cranes that pick, move, and place containers onto trucks and ships, and dynamic routing where containers are rerouted to different stacks or vehicles based on changing destination labels and queue lengths.\n\n15. **Microscopic Vesicle Routing Inside a Cell**\n    A large semi-transparent cell sphere with organelles, where vesicle spheres bud from an organelle, travel along glowing microtubule tracks, attach/detach from motor proteins, choose different branch routes, and merge with target membranes that briefly pulse.\n\n16. **Mail Sorting Center Chute Network**\n    A 3D lattice of sloped chutes and slides where letter envelopes (thin boxes) slide, bounce at junctions, are redirected by pivoting flaps, and occasionally jam, causing upstream rerouting to alternate chutes highlighted in different colors.\n\n17. **Electric Power Routing Through a Grid**\n    A 3D lattice of towers and power lines where current is shown as moving glowing particles, substations can open or close switches, and power is rerouted around failed lines that flicker and darken, with node voltages shown as hovering meters.\n\n18. **River Delta Flow Routing**\n    A terrain with a main river splitting into many channels where water particles flow, branch, slow, and deposit sediment spheres that gradually build bars and block channels, forcing the water to reroute into new paths that carve into the terrain.\n\n19. **Spacecraft Navigation Around Orbital Traffic**\n    A planet at the center with many satellites and debris pieces orbiting, and a new spacecraft plotting and updating its route, firing thrusters to avoid collisions, transferring between orbits, and leaving a curved trajectory trail that changes color after each maneuver.\n\n20. **Emergency Evacuation Routing in a Building**\n    A transparent multi-floor building with walls and exits, where human agents as small capsules move, slow, and reroute around blocked corridors and smoke-filled regions, with dynamic signage arrows that rotate to show updated best routes.\n\n21. **Drone Swarm Message Routing**\n    A swarm of small drones hovering in 3D space as nodes in an ad hoc network, where message particles hop from drone to drone, rerouting when drones move or fail, with link quality shown by line thickness and messages leaving fading colored traces.\n\n22. **Printer Job Routing in a 3D Office**\n    A multi-room office with desks, printers, and print server cubes where floating “print job” sheets route along semi-transparent lines from users to printers, queue, reroute when a printer jams (turns red), and finally “materialize” as stacked pages on output trays.\n\n23. **Pipeline Routing Around Obstacles on a Construction Site**\n    A 3D terrain with buildings and equipment where pipe segments grow from a source, automatically route around obstacles, attach at joints, sometimes collide and retract, and change color to indicate pressure once the fluid particles start flowing.\n\n24. **Ant Colony Foraging and Path Routing**\n    A ground plane with an ant nest and scattered food pellets, where ants wander, discover food, and lay pheromone trails that grow brighter with use; other ants follow and strengthen or abandon trails as obstacles appear, dynamically rerouting the colony’s paths.\n\n25. **Symbolic Decision Routing in a 3D Flowchart**\n    A floating 3D flowchart of labeled decision nodes and process blocks where token spheres enter at the top, follow branching rules at each node, merge, split, and sometimes loop back, with each token’s path colored by its decision history and displayed as a trailing line."
+}

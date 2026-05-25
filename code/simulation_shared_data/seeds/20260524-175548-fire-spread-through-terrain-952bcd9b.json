@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Fire spread through terrain",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:55:48",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Hillside Forest Fire Front",
+      "description": "A sloped terrain made of green box “tiles” with scattered tree cylinders where a glowing orange fire front crawls uphill, ignites adjacent trees, leaves behind blackened terrain, and shows rising smoke particles and a progress bar of burned area.",
+      "seed": "Hillside Forest Fire Front: A sloped terrain made of green box “tiles” with scattered tree cylinders where a glowing orange fire front crawls uphill, ignites adjacent trees, leaves behind blackened terrain, and shows rising smoke particles and a progress bar of burned area."
+    },
+    {
+      "number": "2",
+      "title": "Wind-Driven Grassland Fire",
+      "description": "A flat grassy plane made of small vertical blades that sway and turn from green to yellow to black as a moving wind vector pushes a flickering fire edge across the field, with tiny embers that detach, drift downwind, and ignite new patches.",
+      "seed": "Wind-Driven Grassland Fire: A flat grassy plane made of small vertical blades that sway and turn from green to yellow to black as a moving wind vector pushes a flickering fire edge across the field, with tiny embers that detach, drift downwind, and ignite new patches."
+    },
+    {
+      "number": "3",
+      "title": "Canyon Wildfire With Spot Fires",
+      "description": "A 3D canyon mesh with cliffs and a valley floor where fire particles follow the contours, jump across the canyon via glowing ember particles carried by turbulent updrafts, and create new spot fires that expand and merge, with labels for “primary” and “spot” fires.",
+      "seed": "Canyon Wildfire With Spot Fires: A 3D canyon mesh with cliffs and a valley floor where fire particles follow the contours, jump across the canyon via glowing ember particles carried by turbulent updrafts, and create new spot fires that expand and merge, with labels for “primary” and “spot” fires."
+    },
+    {
+      "number": "4",
+      "title": "Urban–Wildland Interface Burn",
+      "description": "A mixed scene of box “houses” on a grid next to a forest slope, where a forest fire advances toward structures, roofs can ignite and collapse into black debris, and thin water jet objects from fire engines can be steered to cool and turn burning tiles blue.",
+      "seed": "Urban–Wildland Interface Burn: A mixed scene of box “houses” on a grid next to a forest slope, where a forest fire advances toward structures, roofs can ignite and collapse into black debris, and thin water jet objects from fire engines can be steered to cool and turn burning tiles blue."
+    },
+    {
+      "number": "5",
+      "title": "Layered Soil and Root Burn",
+      "description": "A cutaway terrain block showing surface litter, duff, and mineral soil layers where surface flames crawl over the top while slow-burning red-orange glow spreads underground along semi-transparent root tubes, leaving hollow, collapsing soil pockets.",
+      "seed": "Layered Soil and Root Burn: A cutaway terrain block showing surface litter, duff, and mineral soil layers where surface flames crawl over the top while slow-burning red-orange glow spreads underground along semi-transparent root tubes, leaving hollow, collapsing soil pockets."
+    },
+    {
+      "number": "6",
+      "title": "Mountain Ridge Fire and Shadowed Slopes",
+      "description": "A ridged terrain surface where sunlit slopes warm and turn more flammable (color-shifting toward yellow-red) while shaded slopes stay moist (blue-green), and the fire front wraps around the ridge, accelerates on hot aspects, and stalls or shrinks on cooler sides.",
+      "seed": "Mountain Ridge Fire and Shadowed Slopes: A ridged terrain surface where sunlit slopes warm and turn more flammable (color-shifting toward yellow-red) while shaded slopes stay moist (blue-green), and the fire front wraps around the ridge, accelerates on hot aspects, and stalls or shrinks on cooler sides."
+    },
+    {
+      "number": "7",
+      "title": "Crown Fire in a Conifer Stand",
+      "description": "A row of tall cone-shaped trees where fire climbs trunks, then leaps into the crowns, creating a fast-moving canopy fire that sends bright ember particles upward, with the ground fire moving slower below and a vertical profile showing heat intensity versus height.",
+      "seed": "Crown Fire in a Conifer Stand: A row of tall cone-shaped trees where fire climbs trunks, then leaps into the crowns, creating a fast-moving canopy fire that sends bright ember particles upward, with the ground fire moving slower below and a vertical profile showing heat intensity versus height."
+    },
+    {
+      "number": "8",
+      "title": "Patchy Fuel Mosaic Fire",
+      "description": "A large grid of terrain cells with different fuel types (grass, shrubs, bare rock) color-coded, where fire spreads quickly through some cells, skips over rock gaps, and occasionally backtracks via glowing ember particles that land in isolated fuel patches.",
+      "seed": "Patchy Fuel Mosaic Fire: A large grid of terrain cells with different fuel types (grass, shrubs, bare rock) color-coded, where fire spreads quickly through some cells, skips over rock gaps, and occasionally backtracks via glowing ember particles that land in isolated fuel patches."
+    },
+    {
+      "number": "9",
+      "title": "Firebreak and Backburn Operation",
+      "description": "A forest terrain with a clear-cut firebreak line where the main fire advances, and a controllable backburn line ignites along the break, spreads in the opposite direction, then collides and merges with the main fire, reducing its intensity and changing smoke color.",
+      "seed": "Firebreak and Backburn Operation: A forest terrain with a clear-cut firebreak line where the main fire advances, and a controllable backburn line ignites along the break, spreads in the opposite direction, then collides and merges with the main fire, reducing its intensity and changing smoke color."
+    },
+    {
+      "number": "10",
+      "title": "Nighttime Fire Glow and Heat Plume",
+      "description": "A gently rolling terrain with dim ambient light where the fire perimeter glows bright orange, a semi-transparent rising plume shows heat as a colored vertical volume, and tiny spark particles drift upward and fade, with a side thermometer bar tracking maximum plume height.",
+      "seed": "Nighttime Fire Glow and Heat Plume: A gently rolling terrain with dim ambient light where the fire perimeter glows bright orange, a semi-transparent rising plume shows heat as a colored vertical volume, and tiny spark particles drift upward and fade, with a side thermometer bar tracking maximum plume height."
+    },
+    {
+      "number": "11",
+      "title": "Slope-Dependent Fire Speed Demo",
+      "description": "A segmented hillside composed of planes at different inclines where identical ignition points are started simultaneously and the fire fronts climb, stall, or even back down depending on slope angle, with trail lines marking the distance each front has traveled.",
+      "seed": "Slope-Dependent Fire Speed Demo: A segmented hillside composed of planes at different inclines where identical ignition points are started simultaneously and the fire fronts climb, stall, or even back down depending on slope angle, with trail lines marking the distance each front has traveled."
+    },
+    {
+      "number": "12",
+      "title": "Fire Spread in a Fragmented Forest Corridor",
+      "description": "A landscape of forest patches separated by fields and roads where fire travels along continuous forest corridors, occasionally jumps narrow roads, stops at wide fields, and is visually traced by glowing lines that show connectivity between burning patches.",
+      "seed": "Fire Spread in a Fragmented Forest Corridor: A landscape of forest patches separated by fields and roads where fire travels along continuous forest corridors, occasionally jumps narrow roads, stops at wide fields, and is visually traced by glowing lines that show connectivity between burning patches."
+    },
+    {
+      "number": "13",
+      "title": "Wind Shift and Fire Perimeter Deformation",
+      "description": "A terrain with a single circular ignition where an arrow object represents wind direction and magnitude; as the arrow rotates and grows or shrinks, the previously symmetric fire perimeter stretches, flattens, and bulges, leaving a color-coded burn history.",
+      "seed": "Wind Shift and Fire Perimeter Deformation: A terrain with a single circular ignition where an arrow object represents wind direction and magnitude; as the arrow rotates and grows or shrinks, the previously symmetric fire perimeter stretches, flattens, and bulges, leaving a color-coded burn history."
+    },
+    {
+      "number": "14",
+      "title": "House-on-the-Hill Ember Attack",
+      "description": "A single hill with one central house model and surrounding vegetation where a distant fire sends glowing ember particles that arc through the air, bounce off or attach to roofs and decks, and may ignite them, with labels indicating successful vs. failed ember ignitions.",
+      "seed": "House-on-the-Hill Ember Attack: A single hill with one central house model and surrounding vegetation where a distant fire sends glowing ember particles that arc through the air, bounce off or attach to roofs and decks, and may ignite them, with labels indicating successful vs. failed ember ignitions."
+    },
+    {
+      "number": "15",
+      "title": "River as a Partial Fire Barrier",
+      "description": "A valley terrain with a central reflective river plane where fire spreads down both slopes, slows and curls along the riverbank, sometimes crosses via burning log “rafts” that detach from one bank, float across, and ignite fuels on the opposite side.",
+      "seed": "River as a Partial Fire Barrier: A valley terrain with a central reflective river plane where fire spreads down both slopes, slows and curls along the riverbank, sometimes crosses via burning log “rafts” that detach from one bank, float across, and ignite fuels on the opposite side."
+    },
+    {
+      "number": "16",
+      "title": "Fire in a Terraced Agricultural Landscape",
+      "description": "A stepped terrain of farm terraces with different crops represented by colored patches where fire travels more slowly across irrigated blue-tinged fields and more quickly across dry yellow fields, occasionally jumping stone terrace walls via short flame arcs.",
+      "seed": "Fire in a Terraced Agricultural Landscape: A stepped terrain of farm terraces with different crops represented by colored patches where fire travels more slowly across irrigated blue-tinged fields and more quickly across dry yellow fields, occasionally jumping stone terrace walls via short flame arcs."
+    },
+    {
+      "number": "17",
+      "title": "Microscopic Fire Spread in Leaf Litter",
+      "description": "A zoomed-in terrain of overlapping brown leaf “plates” where glowing embers creep along edges, dive underneath, and ignite lower layers, with smoke particles condensing near the ground and labels showing temperature at multiple tiny probes.",
+      "seed": "Microscopic Fire Spread in Leaf Litter: A zoomed-in terrain of overlapping brown leaf “plates” where glowing embers creep along edges, dive underneath, and ignite lower layers, with smoke particles condensing near the ground and labels showing temperature at multiple tiny probes."
+    },
+    {
+      "number": "18",
+      "title": "Tunnel and Overpass Fire Propagation",
+      "description": "A roadway cutting through a hill with a tunnel and an overpass bridge where fire spreads along roadside vegetation, wraps into the tunnel mouth as a glowing front with dense smoke, and also climbs the slope to the bridge deck, which can ignite and drop hot debris.",
+      "seed": "Tunnel and Overpass Fire Propagation: A roadway cutting through a hill with a tunnel and an overpass bridge where fire spreads along roadside vegetation, wraps into the tunnel mouth as a glowing front with dense smoke, and also climbs the slope to the bridge deck, which can ignite and drop hot debris."
+    },
+    {
+      "number": "19",
+      "title": "Controlled Burn With Variable Fuel Moisture",
+      "description": "A rectangular terrain divided into zones with sliders controlling fuel moisture; as zones are made drier (color shifting toward brown), the same ignition line produces different spread speeds and flame heights, with a live chart object tracking spread rate per zone.",
+      "seed": "Controlled Burn With Variable Fuel Moisture: A rectangular terrain divided into zones with sliders controlling fuel moisture; as zones are made drier (color shifting toward brown), the same ignition line produces different spread speeds and flame heights, with a live chart object tracking spread rate per zone."
+    },
+    {
+      "number": "20",
+      "title": "Fire Spread Over Rocky Outcrops and Gullies",
+      "description": "A rugged terrain with protruding rock blocks and narrow gullies where fire skirts around nonflammable rock columns, funnels and accelerates through gullies, and occasionally sends sparks up to ignite vegetation on top of isolated rocky plateaus.",
+      "seed": "Fire Spread Over Rocky Outcrops and Gullies: A rugged terrain with protruding rock blocks and narrow gullies where fire skirts around nonflammable rock columns, funnels and accelerates through gullies, and occasionally sends sparks up to ignite vegetation on top of isolated rocky plateaus."
+    },
+    {
+      "number": "21",
+      "title": "Fire and Snowline Interaction on a Mountain",
+      "description": "A mountain terrain with a visible snowline (white band) above which fuels are wet and below which fuels are dry, where the fire climbs, slows and dims near the snowline, and can only cross via a few dry rock ledges that act as narrow glowing bridges.",
+      "seed": "Fire and Snowline Interaction on a Mountain: A mountain terrain with a visible snowline (white band) above which fuels are wet and below which fuels are dry, where the fire climbs, slows and dims near the snowline, and can only cross via a few dry rock ledges that act as narrow glowing bridges."
+    },
+    {
+      "number": "22",
+      "title": "Fire Spread in a Checkerboard Thinning Pattern",
+      "description": "A forest terrain with every other patch thinned (fewer trees, lighter green) where fire starts in a dense patch and spreads into adjacent cells, showing reduced flame height and spread in thinned areas, with arrows marking heat transfer between neighboring cells.",
+      "seed": "Fire Spread in a Checkerboard Thinning Pattern: A forest terrain with every other patch thinned (fewer trees, lighter green) where fire starts in a dense patch and spreads into adjacent cells, showing reduced flame height and spread in thinned areas, with arrows marking heat transfer between neighboring cells."
+    },
+    {
+      "number": "23",
+      "title": "Underground Coal Seam Fire Under Terrain",
+      "description": "A semi-transparent terrain volume sitting above a glowing red coal seam layer that slowly creeps laterally; as the seam passes under surface points, the ground above cracks, sinks slightly, and vents thin smoke plumes, with front markers tracking subsurface fire edges.",
+      "seed": "Underground Coal Seam Fire Under Terrain: A semi-transparent terrain volume sitting above a glowing red coal seam layer that slowly creeps laterally; as the seam passes under surface points, the ground above cracks, sinks slightly, and vents thin smoke plumes, with front markers tracking subsurface fire edges."
+    },
+    {
+      "number": "24",
+      "title": "Fire Spread Across Multiple Mountain Ridges",
+      "description": "A wide terrain with several parallel ridges where a single valley ignition grows, climbs the first ridge, then sends ember showers into the next valley, igniting new fronts that replicate the pattern, all visualized with a time-lapse trail of burned perimeters.",
+      "seed": "Fire Spread Across Multiple Mountain Ridges: A wide terrain with several parallel ridges where a single valley ignition grows, climbs the first ridge, then sends ember showers into the next valley, igniting new fronts that replicate the pattern, all visualized with a time-lapse trail of burned perimeters."
+    },
+    {
+      "number": "25",
+      "title": "Symbolic Network Fire Through a Terrain Grid",
+      "description": "A terrain made of raised square tiles connected by thin glowing edges, where “fire” is a pulse of red light that travels along connections, splits and merges at junctions, and gradually turns tiles from green to black, with the network connectivity shaping spread paths.",
+      "seed": "Symbolic Network Fire Through a Terrain Grid: A terrain made of raised square tiles connected by thin glowing edges, where “fire” is a pulse of red light that travels along connections, splits and merges at junctions, and gradually turns tiles from green to black, with the network connectivity shaping spread paths."
+    }
+  ],
+  "raw_output": "Here are strong **Fire spread through terrain simulation inputs** you can plug into your prompt:\n\n1. **Hillside Forest Fire Front**\n   A sloped terrain made of green box “tiles” with scattered tree cylinders where a glowing orange fire front crawls uphill, ignites adjacent trees, leaves behind blackened terrain, and shows rising smoke particles and a progress bar of burned area.\n\n2. **Wind-Driven Grassland Fire**\n   A flat grassy plane made of small vertical blades that sway and turn from green to yellow to black as a moving wind vector pushes a flickering fire edge across the field, with tiny embers that detach, drift downwind, and ignite new patches.\n\n3. **Canyon Wildfire With Spot Fires**\n   A 3D canyon mesh with cliffs and a valley floor where fire particles follow the contours, jump across the canyon via glowing ember particles carried by turbulent updrafts, and create new spot fires that expand and merge, with labels for “primary” and “spot” fires.\n\n4. **Urban–Wildland Interface Burn**\n   A mixed scene of box “houses” on a grid next to a forest slope, where a forest fire advances toward structures, roofs can ignite and collapse into black debris, and thin water jet objects from fire engines can be steered to cool and turn burning tiles blue.\n\n5. **Layered Soil and Root Burn**\n   A cutaway terrain block showing surface litter, duff, and mineral soil layers where surface flames crawl over the top while slow-burning red-orange glow spreads underground along semi-transparent root tubes, leaving hollow, collapsing soil pockets.\n\n6. **Mountain Ridge Fire and Shadowed Slopes**\n   A ridged terrain surface where sunlit slopes warm and turn more flammable (color-shifting toward yellow-red) while shaded slopes stay moist (blue-green), and the fire front wraps around the ridge, accelerates on hot aspects, and stalls or shrinks on cooler sides.\n\n7. **Crown Fire in a Conifer Stand**\n   A row of tall cone-shaped trees where fire climbs trunks, then leaps into the crowns, creating a fast-moving canopy fire that sends bright ember particles upward, with the ground fire moving slower below and a vertical profile showing heat intensity versus height.\n\n8. **Patchy Fuel Mosaic Fire**\n   A large grid of terrain cells with different fuel types (grass, shrubs, bare rock) color-coded, where fire spreads quickly through some cells, skips over rock gaps, and occasionally backtracks via glowing ember particles that land in isolated fuel patches.\n\n9. **Firebreak and Backburn Operation**\n   A forest terrain with a clear-cut firebreak line where the main fire advances, and a controllable backburn line ignites along the break, spreads in the opposite direction, then collides and merges with the main fire, reducing its intensity and changing smoke color.\n\n10. **Nighttime Fire Glow and Heat Plume**\n    A gently rolling terrain with dim ambient light where the fire perimeter glows bright orange, a semi-transparent rising plume shows heat as a colored vertical volume, and tiny spark particles drift upward and fade, with a side thermometer bar tracking maximum plume height.\n\n11. **Slope-Dependent Fire Speed Demo**\n    A segmented hillside composed of planes at different inclines where identical ignition points are started simultaneously and the fire fronts climb, stall, or even back down depending on slope angle, with trail lines marking the distance each front has traveled.\n\n12. **Fire Spread in a Fragmented Forest Corridor**\n    A landscape of forest patches separated by fields and roads where fire travels along continuous forest corridors, occasionally jumps narrow roads, stops at wide fields, and is visually traced by glowing lines that show connectivity between burning patches.\n\n13. **Wind Shift and Fire Perimeter Deformation**\n    A terrain with a single circular ignition where an arrow object represents wind direction and magnitude; as the arrow rotates and grows or shrinks, the previously symmetric fire perimeter stretches, flattens, and bulges, leaving a color-coded burn history.\n\n14. **House-on-the-Hill Ember Attack**\n    A single hill with one central house model and surrounding vegetation where a distant fire sends glowing ember particles that arc through the air, bounce off or attach to roofs and decks, and may ignite them, with labels indicating successful vs. failed ember ignitions.\n\n15. **River as a Partial Fire Barrier**\n    A valley terrain with a central reflective river plane where fire spreads down both slopes, slows and curls along the riverbank, sometimes crosses via burning log “rafts” that detach from one bank, float across, and ignite fuels on the opposite side.\n\n16. **Fire in a Terraced Agricultural Landscape**\n    A stepped terrain of farm terraces with different crops represented by colored patches where fire travels more slowly across irrigated blue-tinged fields and more quickly across dry yellow fields, occasionally jumping stone terrace walls via short flame arcs.\n\n17. **Microscopic Fire Spread in Leaf Litter**\n    A zoomed-in terrain of overlapping brown leaf “plates” where glowing embers creep along edges, dive underneath, and ignite lower layers, with smoke particles condensing near the ground and labels showing temperature at multiple tiny probes.\n\n18. **Tunnel and Overpass Fire Propagation**\n    A roadway cutting through a hill with a tunnel and an overpass bridge where fire spreads along roadside vegetation, wraps into the tunnel mouth as a glowing front with dense smoke, and also climbs the slope to the bridge deck, which can ignite and drop hot debris.\n\n19. **Controlled Burn With Variable Fuel Moisture**\n    A rectangular terrain divided into zones with sliders controlling fuel moisture; as zones are made drier (color shifting toward brown), the same ignition line produces different spread speeds and flame heights, with a live chart object tracking spread rate per zone.\n\n20. **Fire Spread Over Rocky Outcrops and Gullies**\n    A rugged terrain with protruding rock blocks and narrow gullies where fire skirts around nonflammable rock columns, funnels and accelerates through gullies, and occasionally sends sparks up to ignite vegetation on top of isolated rocky plateaus.\n\n21. **Fire and Snowline Interaction on a Mountain**\n    A mountain terrain with a visible snowline (white band) above which fuels are wet and below which fuels are dry, where the fire climbs, slows and dims near the snowline, and can only cross via a few dry rock ledges that act as narrow glowing bridges.\n\n22. **Fire Spread in a Checkerboard Thinning Pattern**\n    A forest terrain with every other patch thinned (fewer trees, lighter green) where fire starts in a dense patch and spreads into adjacent cells, showing reduced flame height and spread in thinned areas, with arrows marking heat transfer between neighboring cells.\n\n23. **Underground Coal Seam Fire Under Terrain**\n    A semi-transparent terrain volume sitting above a glowing red coal seam layer that slowly creeps laterally; as the seam passes under surface points, the ground above cracks, sinks slightly, and vents thin smoke plumes, with front markers tracking subsurface fire edges.\n\n24. **Fire Spread Across Multiple Mountain Ridges**\n    A wide terrain with several parallel ridges where a single valley ignition grows, climbs the first ridge, then sends ember showers into the next valley, igniting new fronts that replicate the pattern, all visualized with a time-lapse trail of burned perimeters.\n\n25. **Symbolic Network Fire Through a Terrain Grid**\n    A terrain made of raised square tiles connected by thin glowing edges, where “fire” is a pulse of red light that travels along connections, splits and merges at junctions, and gradually turns tiles from green to black, with the network connectivity shaping spread paths."
+}

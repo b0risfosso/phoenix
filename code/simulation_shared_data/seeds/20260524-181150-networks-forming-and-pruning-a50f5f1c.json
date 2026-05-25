@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Networks forming and pruning",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:11:50",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Neural Web Growing and Pruning",
+      "description": "Visualize transparent spherical “neurons” that randomly appear in 3D, extend glowing cylindrical axons to nearby neurons, strengthen (thicken and brighten) with repeated signal pulses, then thin and disappear when unused, with a side meter showing total active connections.",
+      "seed": "Neural Web Growing and Pruning: Visualize transparent spherical “neurons” that randomly appear in 3D, extend glowing cylindrical axons to nearby neurons, strengthen (thicken and brighten) with repeated signal pulses, then thin and disappear when unused, with a side meter showing total active connections."
+    },
+    {
+      "number": "2",
+      "title": "City Traffic Network Evolving",
+      "description": "Represent intersections as small pillars on a light ground plane that spawn semi-transparent road tubes between them as cars travel, with underused roads slowly fading and shrinking while busy routes grow thicker and brighter, and cars leave faint trails that guide new road formation.",
+      "seed": "City Traffic Network Evolving: Represent intersections as small pillars on a light ground plane that spawn semi-transparent road tubes between them as cars travel, with underused roads slowly fading and shrinking while busy routes grow thicker and brighter, and cars leave faint trails that guide new road formation."
+    },
+    {
+      "number": "3",
+      "title": "Vine-like Cable Network on a Cube",
+      "description": "Have seed nodes on a central cube’s faces sprout thin, flexible tubes that crawl, branch, and wrap around the cube, with older, darkened branches occasionally retracting and vanishing while new bright green branches grow toward randomly appearing “nutrient” points.",
+      "seed": "Vine-like Cable Network on a Cube: Have seed nodes on a central cube’s faces sprout thin, flexible tubes that crawl, branch, and wrap around the cube, with older, darkened branches occasionally retracting and vanishing while new bright green branches grow toward randomly appearing “nutrient” points."
+    },
+    {
+      "number": "4",
+      "title": "Social Network Spheres Forming Friendships",
+      "description": "Float colored spheres representing people that drift, collide softly, and sometimes attach via semi-transparent rods whose color encodes relationship strength; clusters form, dense clusters prune weak outer links, and a simple legend shows friend/weak/strong ties.",
+      "seed": "Social Network Spheres Forming Friendships: Float colored spheres representing people that drift, collide softly, and sometimes attach via semi-transparent rods whose color encodes relationship strength; clusters form, dense clusters prune weak outer links, and a simple legend shows friend/weak/strong ties."
+    },
+    {
+      "number": "5",
+      "title": "River Delta Formation and Abandonment",
+      "description": "Simulate a flowing water source at one end of a plane that branches into semi-transparent blue channels carving grooves; channels with low flow slowly fill in and disappear while new branches split off main channels, with sediment particles indicating where pruning is happening.",
+      "seed": "River Delta Formation and Abandonment: Simulate a flowing water source at one end of a plane that branches into semi-transparent blue channels carving grooves; channels with low flow slowly fill in and disappear while new branches split off main channels, with sediment particles indicating where pruning is happening."
+    },
+    {
+      "number": "6",
+      "title": "Power Grid Growing and Shedding Lines",
+      "description": "Model power plants as tall glowing towers and cities as flat disks; cables automatically grow between them when demand (shown by city disk brightness) rises, and underused or overloaded lines blink, darken, and get dismantled, while load-balancing causes new lines to form.",
+      "seed": "Power Grid Growing and Shedding Lines: Model power plants as tall glowing towers and cities as flat disks; cables automatically grow between them when demand (shown by city disk brightness) rises, and underused or overloaded lines blink, darken, and get dismantled, while load-balancing causes new lines to form."
+    },
+    {
+      "number": "7",
+      "title": "Immune Cell Signaling Network",
+      "description": "In a translucent box, immune cells (small spheres) float and periodically emit signaling beams to nearby cells; beams that frequently succeed in activating other cells solidify into persistent glowing tubes, while weak, rarely-used tubes shrink and retract.",
+      "seed": "Immune Cell Signaling Network: In a translucent box, immune cells (small spheres) float and periodically emit signaling beams to nearby cells; beams that frequently succeed in activating other cells solidify into persistent glowing tubes, while weak, rarely-used tubes shrink and retract."
+    },
+    {
+      "number": "8",
+      "title": "Mycelium Network in Soil Cross-Section",
+      "description": "Show a semi-transparent soil block with a central fungus node that sends branching, white tendrils in all directions; tendrils that reach nutrient pellets glow and thicken, while others dim, retract, and vanish, leaving an evolving web of efficient nutrient paths.",
+      "seed": "Mycelium Network in Soil Cross-Section: Show a semi-transparent soil block with a central fungus node that sends branching, white tendrils in all directions; tendrils that reach nutrient pellets glow and thicken, while others dim, retract, and vanish, leaving an evolving web of efficient nutrient paths."
+    },
+    {
+      "number": "9",
+      "title": "Satellite Communication Constellation",
+      "description": "Place satellites orbiting a planet on various inclined paths, with temporary beam links forming between satellites and ground stations; redundant or long links are slowly pruned as more efficient connections appear, and link thickness represents bandwidth.",
+      "seed": "Satellite Communication Constellation: Place satellites orbiting a planet on various inclined paths, with temporary beam links forming between satellites and ground stations; redundant or long links are slowly pruned as more efficient connections appear, and link thickness represents bandwidth."
+    },
+    {
+      "number": "10",
+      "title": "Brain-like 3D Lattice Learning a Path",
+      "description": "In a 3D grid of small nodes, signals repeatedly travel from an input corner to an output corner along random routes; paths that successfully reach the target strengthen and gain bright colors, while unused detours fade and disappear, revealing a pruned “preferred” pathway.",
+      "seed": "Brain-like 3D Lattice Learning a Path: In a 3D grid of small nodes, signals repeatedly travel from an input corner to an output corner along random routes; paths that successfully reach the target strengthen and gain bright colors, while unused detours fade and disappear, revealing a pruned “preferred” pathway."
+    },
+    {
+      "number": "11",
+      "title": "Corporate Collaboration Network in a Tower",
+      "description": "Stack transparent floors of a skyscraper with moving employee spheres that occasionally meet and form project links (thin rods) between floors; project links with frequent message transfers brighten and persist, while inactive links shrink and break, with labels on major hubs.",
+      "seed": "Corporate Collaboration Network in a Tower: Stack transparent floors of a skyscraper with moving employee spheres that occasionally meet and form project links (thin rods) between floors; project links with frequent message transfers brighten and persist, while inactive links shrink and break, with labels on major hubs."
+    },
+    {
+      "number": "12",
+      "title": "Molecular Bond Network Under Stress",
+      "description": "Fill a box with atoms that can bond when they come within range, forming a 3D polymer network; when an external stretching force is applied, some bonds snap (prune) and others re-form in new configurations, with bond lines changing color according to stress.",
+      "seed": "Molecular Bond Network Under Stress: Fill a box with atoms that can bond when they come within range, forming a 3D polymer network; when an external stretching force is applied, some bonds snap (prune) and others re-form in new configurations, with bond lines changing color according to stress."
+    },
+    {
+      "number": "13",
+      "title": "Tree Canopy Branching and Self-Pruning",
+      "description": "Grow a 3D tree from a trunk upward, with branches that repeatedly split and extend toward light sources represented by bright points; shaded, low-light branches slowly shrink and fall away as particles, while sunlit branches thicken and sprout translucent leaves.",
+      "seed": "Tree Canopy Branching and Self-Pruning: Grow a 3D tree from a trunk upward, with branches that repeatedly split and extend toward light sources represented by bright points; shaded, low-light branches slowly shrink and fall away as particles, while sunlit branches thicken and sprout translucent leaves."
+    },
+    {
+      "number": "14",
+      "title": "Wireless Mesh Network in a Moving Crowd",
+      "description": "People represented by colored cylinders walk around a flat plaza; when close enough, temporary wireless links appear as faint lines, forming clusters that merge and split, while a routing algorithm prunes long or redundant links, showing an evolving mesh.",
+      "seed": "Wireless Mesh Network in a Moving Crowd: People represented by colored cylinders walk around a flat plaza; when close enough, temporary wireless links appear as faint lines, forming clusters that merge and split, while a routing algorithm prunes long or redundant links, showing an evolving mesh."
+    },
+    {
+      "number": "15",
+      "title": "Ant Trail Network Optimization",
+      "description": "Simulate ants as tiny moving spheres leaving pheromone trails (thin translucent tubes) between a nest and multiple food sources; heavily used trails grow thicker and brighter while rarely used branches evaporate and disappear, leaving an optimized minimal path network.",
+      "seed": "Ant Trail Network Optimization: Simulate ants as tiny moving spheres leaving pheromone trails (thin translucent tubes) between a nest and multiple food sources; heavily used trails grow thicker and brighter while rarely used branches evaporate and disappear, leaving an optimized minimal path network."
+    },
+    {
+      "number": "16",
+      "title": "Computer Chip Interconnect Heat Map",
+      "description": "Represent chip components as fixed boxes on a plane with 3D wires forming automatically between communicating components; busy connections glow red and grow thicker, while idle ones cool to blue and shrink, occasionally disconnecting and rerouting through new paths.",
+      "seed": "Computer Chip Interconnect Heat Map: Represent chip components as fixed boxes on a plane with 3D wires forming automatically between communicating components; busy connections glow red and grow thicker, while idle ones cool to blue and shrink, occasionally disconnecting and rerouting through new paths."
+    },
+    {
+      "number": "17",
+      "title": "Urban Subway Line Expansion and Closure",
+      "description": "Show a city map as a light plane with station pillars; colored tube “subway lines” are grown between stations in response to passenger flows (moving dots), while low-use segments dim, close, and are removed, sometimes replaced by new, straighter lines.",
+      "seed": "Urban Subway Line Expansion and Closure: Show a city map as a light plane with station pillars; colored tube “subway lines” are grown between stations in response to passenger flows (moving dots), while low-use segments dim, close, and are removed, sometimes replaced by new, straighter lines."
+    },
+    {
+      "number": "18",
+      "title": "Protein Interaction Network in a Cell",
+      "description": "In a semi-transparent cell sphere, proteins (varied colored shapes) diffuse and briefly attach to form complexes; recurring interactions are represented by persistent linkers that grow and brighten, while rare or unstable interactions fade and detach.",
+      "seed": "Protein Interaction Network in a Cell: In a semi-transparent cell sphere, proteins (varied colored shapes) diffuse and briefly attach to form complexes; recurring interactions are represented by persistent linkers that grow and brighten, while rare or unstable interactions fade and detach."
+    },
+    {
+      "number": "19",
+      "title": "Supply Chain Network with Bottlenecks",
+      "description": "Place factories, warehouses, and stores as 3D blocks connected by shipping routes shown as curved tubes; as goods (small boxes) flow along routes, some links strengthen and get promoted to main arteries while inefficient side routes lose thickness and are pruned away.",
+      "seed": "Supply Chain Network with Bottlenecks: Place factories, warehouses, and stores as 3D blocks connected by shipping routes shown as curved tubes; as goods (small boxes) flow along routes, some links strengthen and get promoted to main arteries while inefficient side routes lose thickness and are pruned away."
+    },
+    {
+      "number": "20",
+      "title": "Galaxy Filament Network Formation",
+      "description": "Start with randomly distributed gas particles that gravitationally attract and condense into glowing nodes; as mass accumulates, filaments connect nearby nodes, forming a cosmic web where underfed filaments dissipate and break while major filaments thicken and brighten.",
+      "seed": "Galaxy Filament Network Formation: Start with randomly distributed gas particles that gravitationally attract and condense into glowing nodes; as mass accumulates, filaments connect nearby nodes, forming a cosmic web where underfed filaments dissipate and break while major filaments thicken and brighten."
+    },
+    {
+      "number": "21",
+      "title": "Roadside Vegetation Root-Network Under Drought",
+      "description": "Beneath a transparent roadside strip, plant roots branch through soil toward water droplets; roots that fail to reach moisture slowly retract and disappear, while successful branches thicken, darken, and sometimes merge, showing a self-pruning root network.",
+      "seed": "Roadside Vegetation Root-Network Under Drought: Beneath a transparent roadside strip, plant roots branch through soil toward water droplets; roots that fail to reach moisture slowly retract and disappear, while successful branches thicken, darken, and sometimes merge, showing a self-pruning root network."
+    },
+    {
+      "number": "22",
+      "title": "Dynamic File-Sharing Peer Network",
+      "description": "In a 3D cloud, computers (boxes) appear and vanish while sending file packets; bandwidth-carrying connections between peers brighten and persist, while dormant links shrink and are cut, and new links form to high-availability peers, revealing a shifting overlay network.",
+      "seed": "Dynamic File-Sharing Peer Network: In a 3D cloud, computers (boxes) appear and vanish while sending file packets; bandwidth-carrying connections between peers brighten and persist, while dormant links shrink and are cut, and new links form to high-availability peers, revealing a shifting overlay network."
+    },
+    {
+      "number": "23",
+      "title": "Drone Swarm Communication Web",
+      "description": "Drones as small flying bodies orbit a central area; nearby drones form communication links that adjust to maintain coverage, with overlapping or redundant links pruned, leaving a minimal, stable network as drones move and reposition.",
+      "seed": "Drone Swarm Communication Web: Drones as small flying bodies orbit a central area; nearby drones form communication links that adjust to maintain coverage, with overlapping or redundant links pruned, leaving a minimal, stable network as drones move and reposition."
+    },
+    {
+      "number": "24",
+      "title": "Lymphatic Vessel Growth and Regression",
+      "description": "Within a translucent tissue block, lymphatic sprouts grow as thin tubes from a main vessel toward randomly appearing inflammation sites; vessels that carry frequent “fluid” particles thicken and persist, while underused branches retract, leaving a streamlined drainage network.",
+      "seed": "Lymphatic Vessel Growth and Regression: Within a translucent tissue block, lymphatic sprouts grow as thin tubes from a main vessel toward randomly appearing inflammation sites; vessels that carry frequent “fluid” particles thicken and persist, while underused branches retract, leaving a streamlined drainage network."
+    },
+    {
+      "number": "25",
+      "title": "3D Knowledge Map of Topics Linking and Fading",
+      "description": "Floating labeled spheres represent topics; frequently co-visited topics are connected by bright lines that grow and branch into clusters, while rarely related topics lose their connecting lines, which fade and vanish, visually pruning the knowledge network over time.",
+      "seed": "3D Knowledge Map of Topics Linking and Fading: Floating labeled spheres represent topics; frequently co-visited topics are connected by bright lines that grow and branch into clusters, while rarely related topics lose their connecting lines, which fade and vanish, visually pruning the knowledge network over time."
+    }
+  ],
+  "raw_output": "Here are strong **Networks forming and pruning simulation inputs** you can plug into your prompt:\n\n1. **Neural Web Growing and Pruning**\n   Visualize transparent spherical “neurons” that randomly appear in 3D, extend glowing cylindrical axons to nearby neurons, strengthen (thicken and brighten) with repeated signal pulses, then thin and disappear when unused, with a side meter showing total active connections.\n\n2. **City Traffic Network Evolving**\n   Represent intersections as small pillars on a light ground plane that spawn semi-transparent road tubes between them as cars travel, with underused roads slowly fading and shrinking while busy routes grow thicker and brighter, and cars leave faint trails that guide new road formation.\n\n3. **Vine-like Cable Network on a Cube**\n   Have seed nodes on a central cube’s faces sprout thin, flexible tubes that crawl, branch, and wrap around the cube, with older, darkened branches occasionally retracting and vanishing while new bright green branches grow toward randomly appearing “nutrient” points.\n\n4. **Social Network Spheres Forming Friendships**\n   Float colored spheres representing people that drift, collide softly, and sometimes attach via semi-transparent rods whose color encodes relationship strength; clusters form, dense clusters prune weak outer links, and a simple legend shows friend/weak/strong ties.\n\n5. **River Delta Formation and Abandonment**\n   Simulate a flowing water source at one end of a plane that branches into semi-transparent blue channels carving grooves; channels with low flow slowly fill in and disappear while new branches split off main channels, with sediment particles indicating where pruning is happening.\n\n6. **Power Grid Growing and Shedding Lines**\n   Model power plants as tall glowing towers and cities as flat disks; cables automatically grow between them when demand (shown by city disk brightness) rises, and underused or overloaded lines blink, darken, and get dismantled, while load-balancing causes new lines to form.\n\n7. **Immune Cell Signaling Network**\n   In a translucent box, immune cells (small spheres) float and periodically emit signaling beams to nearby cells; beams that frequently succeed in activating other cells solidify into persistent glowing tubes, while weak, rarely-used tubes shrink and retract.\n\n8. **Mycelium Network in Soil Cross-Section**\n   Show a semi-transparent soil block with a central fungus node that sends branching, white tendrils in all directions; tendrils that reach nutrient pellets glow and thicken, while others dim, retract, and vanish, leaving an evolving web of efficient nutrient paths.\n\n9. **Satellite Communication Constellation**\n   Place satellites orbiting a planet on various inclined paths, with temporary beam links forming between satellites and ground stations; redundant or long links are slowly pruned as more efficient connections appear, and link thickness represents bandwidth.\n\n10. **Brain-like 3D Lattice Learning a Path**\n    In a 3D grid of small nodes, signals repeatedly travel from an input corner to an output corner along random routes; paths that successfully reach the target strengthen and gain bright colors, while unused detours fade and disappear, revealing a pruned “preferred” pathway.\n\n11. **Corporate Collaboration Network in a Tower**\n    Stack transparent floors of a skyscraper with moving employee spheres that occasionally meet and form project links (thin rods) between floors; project links with frequent message transfers brighten and persist, while inactive links shrink and break, with labels on major hubs.\n\n12. **Molecular Bond Network Under Stress**\n    Fill a box with atoms that can bond when they come within range, forming a 3D polymer network; when an external stretching force is applied, some bonds snap (prune) and others re-form in new configurations, with bond lines changing color according to stress.\n\n13. **Tree Canopy Branching and Self-Pruning**\n    Grow a 3D tree from a trunk upward, with branches that repeatedly split and extend toward light sources represented by bright points; shaded, low-light branches slowly shrink and fall away as particles, while sunlit branches thicken and sprout translucent leaves.\n\n14. **Wireless Mesh Network in a Moving Crowd**\n    People represented by colored cylinders walk around a flat plaza; when close enough, temporary wireless links appear as faint lines, forming clusters that merge and split, while a routing algorithm prunes long or redundant links, showing an evolving mesh.\n\n15. **Ant Trail Network Optimization**\n    Simulate ants as tiny moving spheres leaving pheromone trails (thin translucent tubes) between a nest and multiple food sources; heavily used trails grow thicker and brighter while rarely used branches evaporate and disappear, leaving an optimized minimal path network.\n\n16. **Computer Chip Interconnect Heat Map**\n    Represent chip components as fixed boxes on a plane with 3D wires forming automatically between communicating components; busy connections glow red and grow thicker, while idle ones cool to blue and shrink, occasionally disconnecting and rerouting through new paths.\n\n17. **Urban Subway Line Expansion and Closure**\n    Show a city map as a light plane with station pillars; colored tube “subway lines” are grown between stations in response to passenger flows (moving dots), while low-use segments dim, close, and are removed, sometimes replaced by new, straighter lines.\n\n18. **Protein Interaction Network in a Cell**\n    In a semi-transparent cell sphere, proteins (varied colored shapes) diffuse and briefly attach to form complexes; recurring interactions are represented by persistent linkers that grow and brighten, while rare or unstable interactions fade and detach.\n\n19. **Supply Chain Network with Bottlenecks**\n    Place factories, warehouses, and stores as 3D blocks connected by shipping routes shown as curved tubes; as goods (small boxes) flow along routes, some links strengthen and get promoted to main arteries while inefficient side routes lose thickness and are pruned away.\n\n20. **Galaxy Filament Network Formation**\n    Start with randomly distributed gas particles that gravitationally attract and condense into glowing nodes; as mass accumulates, filaments connect nearby nodes, forming a cosmic web where underfed filaments dissipate and break while major filaments thicken and brighten.\n\n21. **Roadside Vegetation Root-Network Under Drought**\n    Beneath a transparent roadside strip, plant roots branch through soil toward water droplets; roots that fail to reach moisture slowly retract and disappear, while successful branches thicken, darken, and sometimes merge, showing a self-pruning root network.\n\n22. **Dynamic File-Sharing Peer Network**\n    In a 3D cloud, computers (boxes) appear and vanish while sending file packets; bandwidth-carrying connections between peers brighten and persist, while dormant links shrink and are cut, and new links form to high-availability peers, revealing a shifting overlay network.\n\n23. **Drone Swarm Communication Web**\n    Drones as small flying bodies orbit a central area; nearby drones form communication links that adjust to maintain coverage, with overlapping or redundant links pruned, leaving a minimal, stable network as drones move and reposition.\n\n24. **Lymphatic Vessel Growth and Regression**\n    Within a translucent tissue block, lymphatic sprouts grow as thin tubes from a main vessel toward randomly appearing inflammation sites; vessels that carry frequent “fluid” particles thicken and persist, while underused branches retract, leaving a streamlined drainage network.\n\n25. **3D Knowledge Map of Topics Linking and Fading**\n    Floating labeled spheres represent topics; frequently co-visited topics are connected by bright lines that grow and branch into clusters, while rarely related topics lose their connecting lines, which fade and vanish, visually pruning the knowledge network over time."
+}

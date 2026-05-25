@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Comets and tails",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:41:35",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Elliptical Comet Orbit with Dynamic Ion Tail",
+      "description": "A bright comet sphere orbits a central yellow sun on an ellipse while a blue ion tail made of emitted particles constantly streams directly away from a movable solar wind arrow, with tail particles fading and leaving translucent trails.",
+      "seed": "Elliptical Comet Orbit with Dynamic Ion Tail: A bright comet sphere orbits a central yellow sun on an ellipse while a blue ion tail made of emitted particles constantly streams directly away from a movable solar wind arrow, with tail particles fading and leaving translucent trails."
+    },
+    {
+      "number": "2",
+      "title": "Dust Tail vs Ion Tail Comparison",
+      "description": "Two comets orbit a sun: one creates a curved, wide, yellow dust tail that follows its orbital path and lingers, while the other creates a straight, narrow, blue ion tail pointing away from the sun, with on-screen labels and toggle buttons to show/hide each tail type.",
+      "seed": "Dust Tail vs Ion Tail Comparison: Two comets orbit a sun: one creates a curved, wide, yellow dust tail that follows its orbital path and lingers, while the other creates a straight, narrow, blue ion tail pointing away from the sun, with on-screen labels and toggle buttons to show/hide each tail type."
+    },
+    {
+      "number": "3",
+      "title": "Comet Passing Through a Planetary System",
+      "description": "A comet with a glowing nucleus flies through a system of orbiting planets, its particle tail brushing past atmospheres and leaving temporary colored “impact streaks” on planets when tail particles collide with them.",
+      "seed": "Comet Passing Through a Planetary System: A comet with a glowing nucleus flies through a system of orbiting planets, its particle tail brushing past atmospheres and leaving temporary colored “impact streaks” on planets when tail particles collide with them."
+    },
+    {
+      "number": "4",
+      "title": "Comet Fragmentation and Multiple Tails",
+      "description": "As a comet nears the sun, its nucleus cracks into several smaller spheres that detach and drift apart, each fragment emitting its own faint tail while the original main tail splits into branching streams visualized with semi-transparent particle paths.",
+      "seed": "Comet Fragmentation and Multiple Tails: As a comet nears the sun, its nucleus cracks into several smaller spheres that detach and drift apart, each fragment emitting its own faint tail while the original main tail splits into branching streams visualized with semi-transparent particle paths."
+    },
+    {
+      "number": "5",
+      "title": "Solar Wind Intensity Slider Affecting Tails",
+      "description": "A comet orbits a sun while a user-controlled slider changes solar wind strength, dynamically lengthening, shortening, and bending the comet’s tail particles (shown as colored arrows or streaks), with a meter indicating wind pressure.",
+      "seed": "Solar Wind Intensity Slider Affecting Tails: A comet orbits a sun while a user-controlled slider changes solar wind strength, dynamically lengthening, shortening, and bending the comet’s tail particles (shown as colored arrows or streaks), with a meter indicating wind pressure."
+    },
+    {
+      "number": "6",
+      "title": "3D Comet Swarm in an Oort Cloud",
+      "description": "A sparse cloud of icy bodies randomly orbits in a large transparent sphere representing the Oort Cloud, with occasional objects perturbed inward to form long-period comets that light up and grow tails as they approach the distant sun.",
+      "seed": "3D Comet Swarm in an Oort Cloud: A sparse cloud of icy bodies randomly orbits in a large transparent sphere representing the Oort Cloud, with occasional objects perturbed inward to form long-period comets that light up and grow tails as they approach the distant sun."
+    },
+    {
+      "number": "7",
+      "title": "Comet Tail Interaction with a Planet’s Magnetosphere",
+      "description": "A planet with a semi-transparent, color-coded magnetic bubble sits near the comet’s path; as the comet passes, its ion tail wraps and bends around invisible magnetic field lines, shown as curved glowing tubes that deflect tail particles.",
+      "seed": "Comet Tail Interaction with a Planet’s Magnetosphere: A planet with a semi-transparent, color-coded magnetic bubble sits near the comet’s path; as the comet passes, its ion tail wraps and bends around invisible magnetic field lines, shown as curved glowing tubes that deflect tail particles."
+    },
+    {
+      "number": "8",
+      "title": "Comet Flyby of Earth with Atmospheric Entry of Tail Dust",
+      "description": "A comet passes near Earth while a portion of its dust tail intersects Earth’s orbit, generating streaking meteor particles that enter a translucent atmospheric shell, glow brighter, then dissolve as they “burn up.”",
+      "seed": "Comet Flyby of Earth with Atmospheric Entry of Tail Dust: A comet passes near Earth while a portion of its dust tail intersects Earth’s orbit, generating streaking meteor particles that enter a translucent atmospheric shell, glow brighter, then dissolve as they “burn up.”"
+    },
+    {
+      "number": "9",
+      "title": "Comet Tail Density Cross-Section Scan",
+      "description": "A scanning plane slowly sweeps through a long comet tail, sampling particle density and displaying a vertical color bar or small graph object beside the tail that updates in real time with brighter colors where the tail is densest.",
+      "seed": "Comet Tail Density Cross-Section Scan: A scanning plane slowly sweeps through a long comet tail, sampling particle density and displaying a vertical color bar or small graph object beside the tail that updates in real time with brighter colors where the tail is densest."
+    },
+    {
+      "number": "10",
+      "title": "Binary Comet System with Interacting Tails",
+      "description": "Two comet nuclei orbit each other while together orbiting the sun, each emitting its own tail that twists and occasionally overlaps; overlapping regions glow more intensely and are tagged with temporary labels marking “tail mixing zones.”",
+      "seed": "Binary Comet System with Interacting Tails: Two comet nuclei orbit each other while together orbiting the sun, each emitting its own tail that twists and occasionally overlaps; overlapping regions glow more intensely and are tagged with temporary labels marking “tail mixing zones.”"
+    },
+    {
+      "number": "11",
+      "title": "Comet Slingshot Around a Giant Planet",
+      "description": "A comet approaches a large gas giant and is gravitationally slingshotted, its trajectory sharply bending while its tail swings and wraps around the planet, momentarily forming a curved arc of particles that partially collides with the planet’s ring system.",
+      "seed": "Comet Slingshot Around a Giant Planet: A comet approaches a large gas giant and is gravitationally slingshotted, its trajectory sharply bending while its tail swings and wraps around the planet, momentarily forming a curved arc of particles that partially collides with the planet’s ring system."
+    },
+    {
+      "number": "12",
+      "title": "Comet Tail Erosion Over Many Orbits",
+      "description": "A single comet repeatedly orbits a sun on a long trajectory while a small bar meter shows remaining ice mass; each perihelion passage increases tail length but also shrinks the nucleus over time until it becomes inert and stops emitting a tail.",
+      "seed": "Comet Tail Erosion Over Many Orbits: A single comet repeatedly orbits a sun on a long trajectory while a small bar meter shows remaining ice mass; each perihelion passage increases tail length but also shrinks the nucleus over time until it becomes inert and stops emitting a tail."
+    },
+    {
+      "number": "13",
+      "title": "Microscopic Analogy: Ionized Gas Jet as a “Mini Comet Tail”",
+      "description": "In a lab-like scene, a small glowing “nucleus” sphere emits a narrow jet of particles inside a transparent chamber while an adjustable electric field deflects particles into a bent “tail,” with field direction and strength indicated by arrows and color.",
+      "seed": "Microscopic Analogy: Ionized Gas Jet as a “Mini Comet Tail”: In a lab-like scene, a small glowing “nucleus” sphere emits a narrow jet of particles inside a transparent chamber while an adjustable electric field deflects particles into a bent “tail,” with field direction and strength indicated by arrows and color."
+    },
+    {
+      "number": "14",
+      "title": "Comet Tail Passing Through a Thin Gas Cloud",
+      "description": "A comet’s tail moves through a large, faint, colored, semi-transparent gas cloud; where tail particles pass, the cloud briefly brightens and ripples, leaving a fading luminous trail that marks the comet’s path through the medium.",
+      "seed": "Comet Tail Passing Through a Thin Gas Cloud: A comet’s tail moves through a large, faint, colored, semi-transparent gas cloud; where tail particles pass, the cloud briefly brightens and ripples, leaving a fading luminous trail that marks the comet’s path through the medium."
+    },
+    {
+      "number": "15",
+      "title": "Multiple Comets Crossing Paths in a Star Cluster",
+      "description": "Several comets with different colors and tail lengths fly through a region filled with stars (small light points); comets occasionally pass near each other so their tails briefly intersect, mixing colors and spawning short-lived, sparkling particle bursts.",
+      "seed": "Multiple Comets Crossing Paths in a Star Cluster: Several comets with different colors and tail lengths fly through a region filled with stars (small light points); comets occasionally pass near each other so their tails briefly intersect, mixing colors and spawning short-lived, sparkling particle bursts."
+    },
+    {
+      "number": "16",
+      "title": "Comet Tail Curvature Due to Orbital Speed Changes",
+      "description": "A single comet on an eccentric orbit speeds up near the sun and slows far away, with its dust tail visibly curving more as orbital speed changes; a velocity vector arrow and on-screen speed label update as the tail shape continuously adjusts.",
+      "seed": "Comet Tail Curvature Due to Orbital Speed Changes: A single comet on an eccentric orbit speeds up near the sun and slows far away, with its dust tail visibly curving more as orbital speed changes; a velocity vector arrow and on-screen speed label update as the tail shape continuously adjusts."
+    },
+    {
+      "number": "17",
+      "title": "Comet Impact with a Moon and Ejecta Tail",
+      "description": "A comet collides with a moon, creating a bright flash and a conical spray of ejecta particles that rise and form a temporary “tail” trailing away from the moon’s surface, with particles following ballistic arcs and gradually settling back down.",
+      "seed": "Comet Impact with a Moon and Ejecta Tail: A comet collides with a moon, creating a bright flash and a conical spray of ejecta particles that rise and form a temporary “tail” trailing away from the moon’s surface, with particles following ballistic arcs and gradually settling back down."
+    },
+    {
+      "number": "18",
+      "title": "Symbolic Social Comets: Moving Agents with Influence Tails",
+      "description": "Spheres representing people move through a light-colored 3D space, each leaving a colored trail whose brightness indicates recent “influence,” and when trails overlap, the intersecting regions briefly glow and transfer color, symbolizing shared ideas.",
+      "seed": "Symbolic Social Comets: Moving Agents with Influence Tails: Spheres representing people move through a light-colored 3D space, each leaving a colored trail whose brightness indicates recent “influence,” and when trails overlap, the intersecting regions briefly glow and transfer color, symbolizing shared ideas."
+    },
+    {
+      "number": "19",
+      "title": "Comet Tail Ionization Gradient Visualization",
+      "description": "A comet’s tail is rendered as particles that change color from icy white near the nucleus to deep blue further away as they become more ionized; a movable probe sphere can be dragged along the tail, displaying local ionization level in a floating label.",
+      "seed": "Comet Tail Ionization Gradient Visualization: A comet’s tail is rendered as particles that change color from icy white near the nucleus to deep blue further away as they become more ionized; a movable probe sphere can be dragged along the tail, displaying local ionization level in a floating label."
+    },
+    {
+      "number": "20",
+      "title": "Comet Tail Wrapped by a Rotating Stellar Wind Spiral",
+      "description": "A rotating star emits a spiral-patterned wind (shown as rotating semi-transparent bands) that catches the comet’s tail, wrapping and twisting it into a helical shape as the comet orbits, with tail particles following the spiral flow.",
+      "seed": "Comet Tail Wrapped by a Rotating Stellar Wind Spiral: A rotating star emits a spiral-patterned wind (shown as rotating semi-transparent bands) that catches the comet’s tail, wrapping and twisting it into a helical shape as the comet orbits, with tail particles following the spiral flow."
+    },
+    {
+      "number": "21",
+      "title": "Comet Tail Shedding into a Ring Structure",
+      "description": "A comet repeatedly crosses a planet’s orbit, leaving behind dust tail particles that remain in orbit and gradually accumulate into a thin, faint ring around the star, visualized as a growing, lightly glowing band of particles.",
+      "seed": "Comet Tail Shedding into a Ring Structure: A comet repeatedly crosses a planet’s orbit, leaving behind dust tail particles that remain in orbit and gradually accumulate into a thin, faint ring around the star, visualized as a growing, lightly glowing band of particles."
+    },
+    {
+      "number": "22",
+      "title": "High-Inclination Comet Plunging Through a Planetary Plane",
+      "description": "A comet on an inclined orbit plunges through a flat plane of orbiting planet markers; as it crosses the plane, its tail slices through, leaving a vertical streak and briefly tinting the nearby planetary orbits with the comet’s tail color.",
+      "seed": "High-Inclination Comet Plunging Through a Planetary Plane: A comet on an inclined orbit plunges through a flat plane of orbiting planet markers; as it crosses the plane, its tail slices through, leaving a vertical streak and briefly tinting the nearby planetary orbits with the comet’s tail color."
+    },
+    {
+      "number": "23",
+      "title": "Time-Lapse Comet Tail Path Tracer",
+      "description": "Over an accelerated timeline, a comet repeatedly orbits a sun while a persistent, semi-transparent ribbon records the centerline of its tail position per orbit, gradually building a layered, ribbon-like 3D structure showing the history of tail orientations.",
+      "seed": "Time-Lapse Comet Tail Path Tracer: Over an accelerated timeline, a comet repeatedly orbits a sun while a persistent, semi-transparent ribbon records the centerline of its tail position per orbit, gradually building a layered, ribbon-like 3D structure showing the history of tail orientations."
+    },
+    {
+      "number": "24",
+      "title": "Comet Nucleus Jetting from Multiple Vents",
+      "description": "A rotating comet nucleus (irregular polyhedron) has several active vents that emit narrow, pulsed jets of particles forming multiple mini-tails that sweep around as the nucleus spins, combining into a complex, fan-shaped overall tail.",
+      "seed": "Comet Nucleus Jetting from Multiple Vents: A rotating comet nucleus (irregular polyhedron) has several active vents that emit narrow, pulsed jets of particles forming multiple mini-tails that sweep around as the nucleus spins, combining into a complex, fan-shaped overall tail."
+    },
+    {
+      "number": "25",
+      "title": "Comet Tail Undergoing Sudden Outburst",
+      "description": "A quiet comet with a short tail suddenly experiences an outburst, rapidly increasing particle emission so the tail quickly grows, brightens, and thickens, with a shock-front-like bright shell of particles propagating down the tail before gradually fading.",
+      "seed": "Comet Tail Undergoing Sudden Outburst: A quiet comet with a short tail suddenly experiences an outburst, rapidly increasing particle emission so the tail quickly grows, brightens, and thickens, with a shock-front-like bright shell of particles propagating down the tail before gradually fading."
+    }
+  ],
+  "raw_output": "Here are strong **Comets and tails simulation inputs** you can plug into your prompt:\n\n1. **Elliptical Comet Orbit with Dynamic Ion Tail**\n   A bright comet sphere orbits a central yellow sun on an ellipse while a blue ion tail made of emitted particles constantly streams directly away from a movable solar wind arrow, with tail particles fading and leaving translucent trails.\n\n2. **Dust Tail vs Ion Tail Comparison**\n   Two comets orbit a sun: one creates a curved, wide, yellow dust tail that follows its orbital path and lingers, while the other creates a straight, narrow, blue ion tail pointing away from the sun, with on-screen labels and toggle buttons to show/hide each tail type.\n\n3. **Comet Passing Through a Planetary System**\n   A comet with a glowing nucleus flies through a system of orbiting planets, its particle tail brushing past atmospheres and leaving temporary colored “impact streaks” on planets when tail particles collide with them.\n\n4. **Comet Fragmentation and Multiple Tails**\n   As a comet nears the sun, its nucleus cracks into several smaller spheres that detach and drift apart, each fragment emitting its own faint tail while the original main tail splits into branching streams visualized with semi-transparent particle paths.\n\n5. **Solar Wind Intensity Slider Affecting Tails**\n   A comet orbits a sun while a user-controlled slider changes solar wind strength, dynamically lengthening, shortening, and bending the comet’s tail particles (shown as colored arrows or streaks), with a meter indicating wind pressure.\n\n6. **3D Comet Swarm in an Oort Cloud**\n   A sparse cloud of icy bodies randomly orbits in a large transparent sphere representing the Oort Cloud, with occasional objects perturbed inward to form long-period comets that light up and grow tails as they approach the distant sun.\n\n7. **Comet Tail Interaction with a Planet’s Magnetosphere**\n   A planet with a semi-transparent, color-coded magnetic bubble sits near the comet’s path; as the comet passes, its ion tail wraps and bends around invisible magnetic field lines, shown as curved glowing tubes that deflect tail particles.\n\n8. **Comet Flyby of Earth with Atmospheric Entry of Tail Dust**\n   A comet passes near Earth while a portion of its dust tail intersects Earth’s orbit, generating streaking meteor particles that enter a translucent atmospheric shell, glow brighter, then dissolve as they “burn up.”\n\n9. **Comet Tail Density Cross-Section Scan**\n   A scanning plane slowly sweeps through a long comet tail, sampling particle density and displaying a vertical color bar or small graph object beside the tail that updates in real time with brighter colors where the tail is densest.\n\n10. **Binary Comet System with Interacting Tails**\n    Two comet nuclei orbit each other while together orbiting the sun, each emitting its own tail that twists and occasionally overlaps; overlapping regions glow more intensely and are tagged with temporary labels marking “tail mixing zones.”\n\n11. **Comet Slingshot Around a Giant Planet**\n    A comet approaches a large gas giant and is gravitationally slingshotted, its trajectory sharply bending while its tail swings and wraps around the planet, momentarily forming a curved arc of particles that partially collides with the planet’s ring system.\n\n12. **Comet Tail Erosion Over Many Orbits**\n    A single comet repeatedly orbits a sun on a long trajectory while a small bar meter shows remaining ice mass; each perihelion passage increases tail length but also shrinks the nucleus over time until it becomes inert and stops emitting a tail.\n\n13. **Microscopic Analogy: Ionized Gas Jet as a “Mini Comet Tail”**\n    In a lab-like scene, a small glowing “nucleus” sphere emits a narrow jet of particles inside a transparent chamber while an adjustable electric field deflects particles into a bent “tail,” with field direction and strength indicated by arrows and color.\n\n14. **Comet Tail Passing Through a Thin Gas Cloud**\n    A comet’s tail moves through a large, faint, colored, semi-transparent gas cloud; where tail particles pass, the cloud briefly brightens and ripples, leaving a fading luminous trail that marks the comet’s path through the medium.\n\n15. **Multiple Comets Crossing Paths in a Star Cluster**\n    Several comets with different colors and tail lengths fly through a region filled with stars (small light points); comets occasionally pass near each other so their tails briefly intersect, mixing colors and spawning short-lived, sparkling particle bursts.\n\n16. **Comet Tail Curvature Due to Orbital Speed Changes**\n    A single comet on an eccentric orbit speeds up near the sun and slows far away, with its dust tail visibly curving more as orbital speed changes; a velocity vector arrow and on-screen speed label update as the tail shape continuously adjusts.\n\n17. **Comet Impact with a Moon and Ejecta Tail**\n    A comet collides with a moon, creating a bright flash and a conical spray of ejecta particles that rise and form a temporary “tail” trailing away from the moon’s surface, with particles following ballistic arcs and gradually settling back down.\n\n18. **Symbolic Social Comets: Moving Agents with Influence Tails**\n    Spheres representing people move through a light-colored 3D space, each leaving a colored trail whose brightness indicates recent “influence,” and when trails overlap, the intersecting regions briefly glow and transfer color, symbolizing shared ideas.\n\n19. **Comet Tail Ionization Gradient Visualization**\n    A comet’s tail is rendered as particles that change color from icy white near the nucleus to deep blue further away as they become more ionized; a movable probe sphere can be dragged along the tail, displaying local ionization level in a floating label.\n\n20. **Comet Tail Wrapped by a Rotating Stellar Wind Spiral**\n    A rotating star emits a spiral-patterned wind (shown as rotating semi-transparent bands) that catches the comet’s tail, wrapping and twisting it into a helical shape as the comet orbits, with tail particles following the spiral flow.\n\n21. **Comet Tail Shedding into a Ring Structure**\n    A comet repeatedly crosses a planet’s orbit, leaving behind dust tail particles that remain in orbit and gradually accumulate into a thin, faint ring around the star, visualized as a growing, lightly glowing band of particles.\n\n22. **High-Inclination Comet Plunging Through a Planetary Plane**\n    A comet on an inclined orbit plunges through a flat plane of orbiting planet markers; as it crosses the plane, its tail slices through, leaving a vertical streak and briefly tinting the nearby planetary orbits with the comet’s tail color.\n\n23. **Time-Lapse Comet Tail Path Tracer**\n    Over an accelerated timeline, a comet repeatedly orbits a sun while a persistent, semi-transparent ribbon records the centerline of its tail position per orbit, gradually building a layered, ribbon-like 3D structure showing the history of tail orientations.\n\n24. **Comet Nucleus Jetting from Multiple Vents**\n    A rotating comet nucleus (irregular polyhedron) has several active vents that emit narrow, pulsed jets of particles forming multiple mini-tails that sweep around as the nucleus spins, combining into a complex, fan-shaped overall tail.\n\n25. **Comet Tail Undergoing Sudden Outburst**\n    A quiet comet with a short tail suddenly experiences an outburst, rapidly increasing particle emission so the tail quickly grows, brightens, and thickens, with a shock-front-like bright shell of particles propagating down the tail before gradually fading."
+}

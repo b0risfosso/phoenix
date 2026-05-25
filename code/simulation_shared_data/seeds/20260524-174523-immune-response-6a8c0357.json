@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Immune response",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:45:23",
+  "entries": [
+    {
+      "number": "1",
+      "title": "White Blood Cell Patrol in a Capillary Tube",
+      "description": "A transparent cylindrical blood vessel with flowing red blood cell spheres and roaming white blood cell blobs that drift, detect marked pathogens, chase, attach, engulf, and slowly dissolve them, with color-changing labels and faint trails.",
+      "seed": "White Blood Cell Patrol in a Capillary Tube: A transparent cylindrical blood vessel with flowing red blood cell spheres and roaming white blood cell blobs that drift, detect marked pathogens, chase, attach, engulf, and slowly dissolve them, with color-changing labels and faint trails."
+    },
+    {
+      "number": "2",
+      "title": "Antibody–Antigen Lock-and-Key Docking Field",
+      "description": "A 3D space filled with slowly drifting antigen shapes and Y-shaped antibodies that randomly rotate, collide, and only attach when their colored ends match, forming glowing bonds and clusters that can later detach and float away.",
+      "seed": "Antibody–Antigen Lock-and-Key Docking Field: A 3D space filled with slowly drifting antigen shapes and Y-shaped antibodies that randomly rotate, collide, and only attach when their colored ends match, forming glowing bonds and clusters that can later detach and float away."
+    },
+    {
+      "number": "3",
+      "title": "Virus Invasion of a Single Cell Membrane",
+      "description": "A large, semi-transparent spherical cell with embedded receptor proteins and smaller spiky virus particles that orbit, collide, bind to matching receptors, and then get pulled inside as the membrane locally indents, wraps, and closes.",
+      "seed": "Virus Invasion of a Single Cell Membrane: A large, semi-transparent spherical cell with embedded receptor proteins and smaller spiky virus particles that orbit, collide, bind to matching receptors, and then get pulled inside as the membrane locally indents, wraps, and closes."
+    },
+    {
+      "number": "4",
+      "title": "Cytotoxic T Cell Targeting an Infected Cell",
+      "description": "A cluster of cells where one cell glows “infected” while T cells roam, scan surfaces, briefly attach to each cell, and only when they detect the infected one do they firmly attach, pulse, and cause the target cell to shrink, fragment, and dissolve into particles.",
+      "seed": "Cytotoxic T Cell Targeting an Infected Cell: A cluster of cells where one cell glows “infected” while T cells roam, scan surfaces, briefly attach to each cell, and only when they detect the infected one do they firmly attach, pulse, and cause the target cell to shrink, fragment, and dissolve into particles."
+    },
+    {
+      "number": "5",
+      "title": "Complement Cascade on a Bacterial Surface",
+      "description": "A rod-shaped bacterium with a textured surface floats in fluid while small complement proteins drift, stick to marked spots, build ring-shaped complexes that grow, punch holes, and release streams of small particles spilling from the bacterium.",
+      "seed": "Complement Cascade on a Bacterial Surface: A rod-shaped bacterium with a textured surface floats in fluid while small complement proteins drift, stick to marked spots, build ring-shaped complexes that grow, punch holes, and release streams of small particles spilling from the bacterium."
+    },
+    {
+      "number": "6",
+      "title": "Lymph Node Traffic and Cell Interaction Hub",
+      "description": "A semi-transparent lymph node sphere with branching internal channels where colored immune cells (T cells, B cells, dendritic cells) move along paths, pause to interact at nodes, exchange glowing “signal” particles, then change color and speed as they activate.",
+      "seed": "Lymph Node Traffic and Cell Interaction Hub: A semi-transparent lymph node sphere with branching internal channels where colored immune cells (T cells, B cells, dendritic cells) move along paths, pause to interact at nodes, exchange glowing “signal” particles, then change color and speed as they activate."
+    },
+    {
+      "number": "7",
+      "title": "Inflammation at a Tissue Injury Site",
+      "description": "A flat tissue layer with a small “wound” region where blood plasma seeps out as transparent particles, capillary walls widen, and immune cells roll along, slow, stick to the vessel wall, squeeze through, and swarm toward the wound, leaving colored trails.",
+      "seed": "Inflammation at a Tissue Injury Site: A flat tissue layer with a small “wound” region where blood plasma seeps out as transparent particles, capillary walls widen, and immune cells roll along, slow, stick to the vessel wall, squeeze through, and swarm toward the wound, leaving colored trails."
+    },
+    {
+      "number": "8",
+      "title": "Clonal Expansion of Activated Lymphocytes",
+      "description": "A central activated lymphocyte glows and repeatedly splits into identical spheres that gradually fill a region, each new cell getting a short trail, while inactive neighboring lymphocytes remain stationary and dim in color.",
+      "seed": "Clonal Expansion of Activated Lymphocytes: A central activated lymphocyte glows and repeatedly splits into identical spheres that gradually fill a region, each new cell getting a short trail, while inactive neighboring lymphocytes remain stationary and dim in color."
+    },
+    {
+      "number": "9",
+      "title": "Antibody Coating (Opsonization) of Bacteria",
+      "description": "Multiple bacteria drift in 3D while free antibodies bump into them and attach to their surface, gradually coating them in a fuzzy colored layer that makes them more visible and more “sticky” to passing phagocytes that engulf them faster.",
+      "seed": "Antibody Coating (Opsonization) of Bacteria: Multiple bacteria drift in 3D while free antibodies bump into them and attach to their surface, gradually coating them in a fuzzy colored layer that makes them more visible and more “sticky” to passing phagocytes that engulf them faster."
+    },
+    {
+      "number": "10",
+      "title": "Allergic Reaction: Mast Cell Degranulation",
+      "description": "Mast cells anchored near a tissue surface bind floating allergen particles, then their internal granules suddenly burst outward as small colored spheres that diffuse and cause nearby blood vessels to dilate, leak particles, and attract immune cells.",
+      "seed": "Allergic Reaction: Mast Cell Degranulation: Mast cells anchored near a tissue surface bind floating allergen particles, then their internal granules suddenly burst outward as small colored spheres that diffuse and cause nearby blood vessels to dilate, leak particles, and attract immune cells."
+    },
+    {
+      "number": "11",
+      "title": "Natural Killer Cell Scanning for Missing Markers",
+      "description": "A field of cells each with variable numbers of surface marker rods rotates slowly while NK cells drift past, scan, and only attach tightly to cells with too few markers, triggering the target to darken, shrink, and fragment into pieces that disperse.",
+      "seed": "Natural Killer Cell Scanning for Missing Markers: A field of cells each with variable numbers of surface marker rods rotates slowly while NK cells drift past, scan, and only attach tightly to cells with too few markers, triggering the target to darken, shrink, and fragment into pieces that disperse."
+    },
+    {
+      "number": "12",
+      "title": "Pathogen Neutralization Cloud",
+      "description": "A swarm of viruses advances as a dense cloud toward a tissue surface while antibodies emitted from a nearby “plasma cell” fountain fly out, bind, and cause virus clusters to merge into heavy aggregates that slow, sink, and fall out of the main stream.",
+      "seed": "Pathogen Neutralization Cloud: A swarm of viruses advances as a dense cloud toward a tissue surface while antibodies emitted from a nearby “plasma cell” fountain fly out, bind, and cause virus clusters to merge into heavy aggregates that slow, sink, and fall out of the main stream."
+    },
+    {
+      "number": "13",
+      "title": "Cytokine Signaling Network in 3D Space",
+      "description": "Several stationary “source” cells emit colored cytokine particles that radiate, fade, and are absorbed by mobile immune cells, which change direction, speed, and color based on which cytokines they intercept, visualized with transparent diffusion spheres.",
+      "seed": "Cytokine Signaling Network in 3D Space: Several stationary “source” cells emit colored cytokine particles that radiate, fade, and are absorbed by mobile immune cells, which change direction, speed, and color based on which cytokines they intercept, visualized with transparent diffusion spheres."
+    },
+    {
+      "number": "14",
+      "title": "Bone Marrow Immune Cell Production Factory",
+      "description": "A long semi-transparent bone segment contains niches where progenitor cells divide and gradually change color and shape into different immune cells that then exit through a central canal and flow into a simulated blood vessel stream.",
+      "seed": "Bone Marrow Immune Cell Production Factory: A long semi-transparent bone segment contains niches where progenitor cells divide and gradually change color and shape into different immune cells that then exit through a central canal and flow into a simulated blood vessel stream."
+    },
+    {
+      "number": "15",
+      "title": "Immune Memory Formation and Recall",
+      "description": "During an initial “infection” wave of pathogens, some activated lymphocytes move to a side “memory zone,” anchor there, and remain dim but labeled; during a second pathogen wave, these memory cells rapidly brighten, detach, and multiply faster than naïve cells.",
+      "seed": "Immune Memory Formation and Recall: During an initial “infection” wave of pathogens, some activated lymphocytes move to a side “memory zone,” anchor there, and remain dim but labeled; during a second pathogen wave, these memory cells rapidly brighten, detach, and multiply faster than naïve cells."
+    },
+    {
+      "number": "16",
+      "title": "Autoimmune Attack on Healthy Tissue",
+      "description": "A sheet of healthy cells with normal markers is mistakenly tagged by floating autoantibodies, causing immune cells to home in, attach, and damage them, shown by cells dimming, shrinking, and being replaced by scar-like, rigid gray patches.",
+      "seed": "Autoimmune Attack on Healthy Tissue: A sheet of healthy cells with normal markers is mistakenly tagged by floating autoantibodies, causing immune cells to home in, attach, and damage them, shown by cells dimming, shrinking, and being replaced by scar-like, rigid gray patches."
+    },
+    {
+      "number": "17",
+      "title": "Physical Barrier vs. Pathogen Penetration",
+      "description": "A multilayer barrier (skin or mucosa) with pores and cilia has pathogens trying to cross; mucus particles flow and sweep many away while some penetrate deeper layers, where stationary sentry cells detect them and release flares that summon mobile defenders.",
+      "seed": "Physical Barrier vs. Pathogen Penetration: A multilayer barrier (skin or mucosa) with pores and cilia has pathogens trying to cross; mucus particles flow and sweep many away while some penetrate deeper layers, where stationary sentry cells detect them and release flares that summon mobile defenders."
+    },
+    {
+      "number": "18",
+      "title": "Vaccination Site and Local Immune Recruitment",
+      "description": "A syringe object injects a cloud of antigen particles into tissue; local cells pick up antigens, migrate to a nearby lymph node, and present them to lymphocytes, which then expand and send waves of activated cells into a blood vessel tube.",
+      "seed": "Vaccination Site and Local Immune Recruitment: A syringe object injects a cloud of antigen particles into tissue; local cells pick up antigens, migrate to a nearby lymph node, and present them to lymphocytes, which then expand and send waves of activated cells into a blood vessel tube."
+    },
+    {
+      "number": "19",
+      "title": "Swarm Attack: Phagocytes vs. Biofilm Colony",
+      "description": "A sticky, growing biofilm dome on a surface accumulates bacteria spheres while phagocytes arrive, attempt to attach, sometimes slip off the smooth surface, and occasionally succeed in grabbing and peeling bacteria away, leaving small “eroded” pits.",
+      "seed": "Swarm Attack: Phagocytes vs. Biofilm Colony: A sticky, growing biofilm dome on a surface accumulates bacteria spheres while phagocytes arrive, attempt to attach, sometimes slip off the smooth surface, and occasionally succeed in grabbing and peeling bacteria away, leaving small “eroded” pits."
+    },
+    {
+      "number": "20",
+      "title": "Immune Cell–Cancer Cell Tug-of-War",
+      "description": "A cluster of cancer cells slowly divides and expands while immune cells approach, attach, and either successfully trigger cancer cell death (cells shrink and vanish) or are repelled and detach, with a side meter showing relative cancer vs. immune cell counts.",
+      "seed": "Immune Cell–Cancer Cell Tug-of-War: A cluster of cancer cells slowly divides and expands while immune cells approach, attach, and either successfully trigger cancer cell death (cells shrink and vanish) or are repelled and detach, with a side meter showing relative cancer vs. immune cell counts."
+    },
+    {
+      "number": "21",
+      "title": "Fever Response as Whole-Body Thermostat",
+      "description": "A simplified translucent body outline contains organs and blood vessels; when pathogen particles appear, a central “brain” node emits cytokine particles that increase the speed and random motion of immune cells and gradually raise a thermometer bar.",
+      "seed": "Fever Response as Whole-Body Thermostat: A simplified translucent body outline contains organs and blood vessels; when pathogen particles appear, a central “brain” node emits cytokine particles that increase the speed and random motion of immune cells and gradually raise a thermometer bar."
+    },
+    {
+      "number": "22",
+      "title": "Immune Cell Navigation Through Chemokine Gradients",
+      "description": "Multiple sources emit differently colored chemokine particles that form overlapping gradients; various immune cells sense them and curve their paths, following the strongest gradient lines visualized by subtle field lines or particle density differences.",
+      "seed": "Immune Cell Navigation Through Chemokine Gradients: Multiple sources emit differently colored chemokine particles that form overlapping gradients; various immune cells sense them and curve their paths, following the strongest gradient lines visualized by subtle field lines or particle density differences."
+    },
+    {
+      "number": "23",
+      "title": "Germinal Center B Cell Selection",
+      "description": "Inside a spherical germinal center, B cells randomly move and periodically touch a network of stationary helper cells; only those with strong binding glow brighter, slow down to divide, and leave thicker trails, while others dim and eventually disappear.",
+      "seed": "Germinal Center B Cell Selection: Inside a spherical germinal center, B cells randomly move and periodically touch a network of stationary helper cells; only those with strong binding glow brighter, slow down to divide, and leave thicker trails, while others dim and eventually disappear."
+    },
+    {
+      "number": "24",
+      "title": "Transplant Rejection at a Grafted Tissue Interface",
+      "description": "Two different-colored tissue blocks join at a boundary; immune cells from the host side cross over, inspect foreign cells, and gradually attack and erode the graft region, while immunosuppressive particles (if toggled on) reduce cell speed and attachment.",
+      "seed": "Transplant Rejection at a Grafted Tissue Interface: Two different-colored tissue blocks join at a boundary; immune cells from the host side cross over, inspect foreign cells, and gradually attack and erode the graft region, while immunosuppressive particles (if toggled on) reduce cell speed and attachment."
+    },
+    {
+      "number": "25",
+      "title": "Metaphorical City as an Immune System",
+      "description": "A light-colored cityscape with “buildings” as organs and “roads” as vessels has patrol cars (immune cells) cruising, scanning for red-marked “rogue” vehicles (pathogens), chasing, boxing them in, and towing them to a central “dump” that compacts and deletes them.",
+      "seed": "Metaphorical City as an Immune System: A light-colored cityscape with “buildings” as organs and “roads” as vessels has patrol cars (immune cells) cruising, scanning for red-marked “rogue” vehicles (pathogens), chasing, boxing them in, and towing them to a central “dump” that compacts and deletes them."
+    }
+  ],
+  "raw_output": "Here are strong **Immune response simulation inputs** you can plug into your prompt:\n\n1. **White Blood Cell Patrol in a Capillary Tube**\n   A transparent cylindrical blood vessel with flowing red blood cell spheres and roaming white blood cell blobs that drift, detect marked pathogens, chase, attach, engulf, and slowly dissolve them, with color-changing labels and faint trails.\n\n2. **Antibody–Antigen Lock-and-Key Docking Field**\n   A 3D space filled with slowly drifting antigen shapes and Y-shaped antibodies that randomly rotate, collide, and only attach when their colored ends match, forming glowing bonds and clusters that can later detach and float away.\n\n3. **Virus Invasion of a Single Cell Membrane**\n   A large, semi-transparent spherical cell with embedded receptor proteins and smaller spiky virus particles that orbit, collide, bind to matching receptors, and then get pulled inside as the membrane locally indents, wraps, and closes.\n\n4. **Cytotoxic T Cell Targeting an Infected Cell**\n   A cluster of cells where one cell glows “infected” while T cells roam, scan surfaces, briefly attach to each cell, and only when they detect the infected one do they firmly attach, pulse, and cause the target cell to shrink, fragment, and dissolve into particles.\n\n5. **Complement Cascade on a Bacterial Surface**\n   A rod-shaped bacterium with a textured surface floats in fluid while small complement proteins drift, stick to marked spots, build ring-shaped complexes that grow, punch holes, and release streams of small particles spilling from the bacterium.\n\n6. **Lymph Node Traffic and Cell Interaction Hub**\n   A semi-transparent lymph node sphere with branching internal channels where colored immune cells (T cells, B cells, dendritic cells) move along paths, pause to interact at nodes, exchange glowing “signal” particles, then change color and speed as they activate.\n\n7. **Inflammation at a Tissue Injury Site**\n   A flat tissue layer with a small “wound” region where blood plasma seeps out as transparent particles, capillary walls widen, and immune cells roll along, slow, stick to the vessel wall, squeeze through, and swarm toward the wound, leaving colored trails.\n\n8. **Clonal Expansion of Activated Lymphocytes**\n   A central activated lymphocyte glows and repeatedly splits into identical spheres that gradually fill a region, each new cell getting a short trail, while inactive neighboring lymphocytes remain stationary and dim in color.\n\n9. **Antibody Coating (Opsonization) of Bacteria**\n   Multiple bacteria drift in 3D while free antibodies bump into them and attach to their surface, gradually coating them in a fuzzy colored layer that makes them more visible and more “sticky” to passing phagocytes that engulf them faster.\n\n10. **Allergic Reaction: Mast Cell Degranulation**\n    Mast cells anchored near a tissue surface bind floating allergen particles, then their internal granules suddenly burst outward as small colored spheres that diffuse and cause nearby blood vessels to dilate, leak particles, and attract immune cells.\n\n11. **Natural Killer Cell Scanning for Missing Markers**\n    A field of cells each with variable numbers of surface marker rods rotates slowly while NK cells drift past, scan, and only attach tightly to cells with too few markers, triggering the target to darken, shrink, and fragment into pieces that disperse.\n\n12. **Pathogen Neutralization Cloud**\n    A swarm of viruses advances as a dense cloud toward a tissue surface while antibodies emitted from a nearby “plasma cell” fountain fly out, bind, and cause virus clusters to merge into heavy aggregates that slow, sink, and fall out of the main stream.\n\n13. **Cytokine Signaling Network in 3D Space**\n    Several stationary “source” cells emit colored cytokine particles that radiate, fade, and are absorbed by mobile immune cells, which change direction, speed, and color based on which cytokines they intercept, visualized with transparent diffusion spheres.\n\n14. **Bone Marrow Immune Cell Production Factory**\n    A long semi-transparent bone segment contains niches where progenitor cells divide and gradually change color and shape into different immune cells that then exit through a central canal and flow into a simulated blood vessel stream.\n\n15. **Immune Memory Formation and Recall**\n    During an initial “infection” wave of pathogens, some activated lymphocytes move to a side “memory zone,” anchor there, and remain dim but labeled; during a second pathogen wave, these memory cells rapidly brighten, detach, and multiply faster than naïve cells.\n\n16. **Autoimmune Attack on Healthy Tissue**\n    A sheet of healthy cells with normal markers is mistakenly tagged by floating autoantibodies, causing immune cells to home in, attach, and damage them, shown by cells dimming, shrinking, and being replaced by scar-like, rigid gray patches.\n\n17. **Physical Barrier vs. Pathogen Penetration**\n    A multilayer barrier (skin or mucosa) with pores and cilia has pathogens trying to cross; mucus particles flow and sweep many away while some penetrate deeper layers, where stationary sentry cells detect them and release flares that summon mobile defenders.\n\n18. **Vaccination Site and Local Immune Recruitment**\n    A syringe object injects a cloud of antigen particles into tissue; local cells pick up antigens, migrate to a nearby lymph node, and present them to lymphocytes, which then expand and send waves of activated cells into a blood vessel tube.\n\n19. **Swarm Attack: Phagocytes vs. Biofilm Colony**\n    A sticky, growing biofilm dome on a surface accumulates bacteria spheres while phagocytes arrive, attempt to attach, sometimes slip off the smooth surface, and occasionally succeed in grabbing and peeling bacteria away, leaving small “eroded” pits.\n\n20. **Immune Cell–Cancer Cell Tug-of-War**\n    A cluster of cancer cells slowly divides and expands while immune cells approach, attach, and either successfully trigger cancer cell death (cells shrink and vanish) or are repelled and detach, with a side meter showing relative cancer vs. immune cell counts.\n\n21. **Fever Response as Whole-Body Thermostat**\n    A simplified translucent body outline contains organs and blood vessels; when pathogen particles appear, a central “brain” node emits cytokine particles that increase the speed and random motion of immune cells and gradually raise a thermometer bar.\n\n22. **Immune Cell Navigation Through Chemokine Gradients**\n    Multiple sources emit differently colored chemokine particles that form overlapping gradients; various immune cells sense them and curve their paths, following the strongest gradient lines visualized by subtle field lines or particle density differences.\n\n23. **Germinal Center B Cell Selection**\n    Inside a spherical germinal center, B cells randomly move and periodically touch a network of stationary helper cells; only those with strong binding glow brighter, slow down to divide, and leave thicker trails, while others dim and eventually disappear.\n\n24. **Transplant Rejection at a Grafted Tissue Interface**\n    Two different-colored tissue blocks join at a boundary; immune cells from the host side cross over, inspect foreign cells, and gradually attack and erode the graft region, while immunosuppressive particles (if toggled on) reduce cell speed and attachment.\n\n25. **Metaphorical City as an Immune System**\n    A light-colored cityscape with “buildings” as organs and “roads” as vessels has patrol cars (immune cells) cruising, scanning for red-marked “rogue” vehicles (pathogens), chasing, boxing them in, and towing them to a central “dump” that compacts and deletes them."
+}

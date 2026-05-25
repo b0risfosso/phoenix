@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Osmosis",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:42:38",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Semi-Permeable Membrane with Water Flow and Solute Particles",
+      "description": "A transparent rectangular membrane panel divides two boxes of particles, where blue water spheres drift through membrane pores while larger colored solute spheres bounce, gradually changing solute concentration gradients shown by labels and dynamic color shading on each side.",
+      "seed": "Semi-Permeable Membrane with Water Flow and Solute Particles: A transparent rectangular membrane panel divides two boxes of particles, where blue water spheres drift through membrane pores while larger colored solute spheres bounce, gradually changing solute concentration gradients shown by labels and dynamic color shading on each side."
+    },
+    {
+      "number": "2",
+      "title": "Red Blood Cell in Hypo/Hypertonic Solutions",
+      "description": "A single red, flexible cell (a slightly squishy sphere) floats in a clear box filled with tiny blue water particles, swelling and shrinking as water particles pass through its semi-transparent membrane, with arrows and labels indicating hypotonic and hypertonic states.",
+      "seed": "Red Blood Cell in Hypo/Hypertonic Solutions: A single red, flexible cell (a slightly squishy sphere) floats in a clear box filled with tiny blue water particles, swelling and shrinking as water particles pass through its semi-transparent membrane, with arrows and labels indicating hypotonic and hypertonic states."
+    },
+    {
+      "number": "3",
+      "title": "Plant Cell Vacuole Osmosis and Turgor Pressure",
+      "description": "A green plant cell box with a large central transparent vacuole inflates and deflates as water particles enter and exit through the plasma membrane, pushing the rigid cell wall outward and inward, with pressure vectors and a side meter showing turgor pressure.",
+      "seed": "Plant Cell Vacuole Osmosis and Turgor Pressure: A green plant cell box with a large central transparent vacuole inflates and deflates as water particles enter and exit through the plasma membrane, pushing the rigid cell wall outward and inward, with pressure vectors and a side meter showing turgor pressure."
+    },
+    {
+      "number": "4",
+      "title": "Reverse Osmosis Water Filter Cartridge",
+      "description": "A long transparent cylinder shows water with mixed solute particles flowing through membrane layers, where high-pressure plunger spheres push water molecules through a fine membrane sheet while colored pollutant spheres are blocked and accumulate upstream.",
+      "seed": "Reverse Osmosis Water Filter Cartridge: A long transparent cylinder shows water with mixed solute particles flowing through membrane layers, where high-pressure plunger spheres push water molecules through a fine membrane sheet while colored pollutant spheres are blocked and accumulate upstream."
+    },
+    {
+      "number": "5",
+      "title": "Osmosis Across Multiple Serial Membranes",
+      "description": "A chain of several vertical semi-transparent membranes separates many small compartments, with variable solute concentrations; water particles slowly migrate through pores from low to high solute compartments, equalizing levels while color gradients and numeric labels update.",
+      "seed": "Osmosis Across Multiple Serial Membranes: A chain of several vertical semi-transparent membranes separates many small compartments, with variable solute concentrations; water particles slowly migrate through pores from low to high solute compartments, equalizing levels while color gradients and numeric labels update."
+    },
+    {
+      "number": "6",
+      "title": "Osmotic Swelling of a Gel Bead in Solution",
+      "description": "A soft, semi-transparent gel sphere filled with fixed solute particles sits in a box of pure water; water particles gradually enter, causing the gel sphere to grow, stretch, and slightly pulse while tension vectors appear on its surface.",
+      "seed": "Osmotic Swelling of a Gel Bead in Solution: A soft, semi-transparent gel sphere filled with fixed solute particles sits in a box of pure water; water particles gradually enter, causing the gel sphere to grow, stretch, and slightly pulse while tension vectors appear on its surface."
+    },
+    {
+      "number": "7",
+      "title": "Capillary Tube with Osmotic Meniscus Rise",
+      "description": "A narrow transparent tube dips into a solution bath; water molecules and solute particles jostle, and an inner semipermeable membrane section drives water rise in the tube, with the liquid surface forming a curved meniscus and a height meter tracking level changes.",
+      "seed": "Capillary Tube with Osmotic Meniscus Rise: A narrow transparent tube dips into a solution bath; water molecules and solute particles jostle, and an inner semipermeable membrane section drives water rise in the tube, with the liquid surface forming a curved meniscus and a height meter tracking level changes."
+    },
+    {
+      "number": "8",
+      "title": "Osmosis-Driven Artificial Cell (Liposome) in a Microfluidic Channel",
+      "description": "Several small, spherical liposomes with semi-transparent shells drift in a long rectangular channel; as they pass through regions with different solute concentrations, their sizes change dynamically, some swelling and bursting with particle sprays.",
+      "seed": "Osmosis-Driven Artificial Cell (Liposome) in a Microfluidic Channel: Several small, spherical liposomes with semi-transparent shells drift in a long rectangular channel; as they pass through regions with different solute concentrations, their sizes change dynamically, some swelling and bursting with particle sprays."
+    },
+    {
+      "number": "9",
+      "title": "Osmotic Pump Mechanism for Drug Delivery",
+      "description": "A pill-shaped capsule with a rigid outer shell and inner osmotic chamber sits in a fluid-filled box; water particles enter through a tiny semipermeable window, building pressure that slowly pushes out drug particles through a small orifice, leaving a colored trail.",
+      "seed": "Osmotic Pump Mechanism for Drug Delivery: A pill-shaped capsule with a rigid outer shell and inner osmotic chamber sits in a fluid-filled box; water particles enter through a tiny semipermeable window, building pressure that slowly pushes out drug particles through a small orifice, leaving a colored trail."
+    },
+    {
+      "number": "10",
+      "title": "Water Level Change in Connected Osmotic Compartments",
+      "description": "Two vertical columns of solution, connected at the bottom by a semipermeable membrane, show colored water surfaces that rise and fall as water migrates between them, with floating markers and rulers indicating dynamic height differences.",
+      "seed": "Water Level Change in Connected Osmotic Compartments: Two vertical columns of solution, connected at the bottom by a semipermeable membrane, show colored water surfaces that rise and fall as water migrates between them, with floating markers and rulers indicating dynamic height differences."
+    },
+    {
+      "number": "11",
+      "title": "Osmosis-Driven Root Hair Water Uptake",
+      "description": "A transparent soil volume with scattered water droplets surrounds fine cylindrical root hairs; water particles migrate toward root hair cells through semi-permeable membranes, causing root hair segments to thicken slightly and glow when turgid.",
+      "seed": "Osmosis-Driven Root Hair Water Uptake: A transparent soil volume with scattered water droplets surrounds fine cylindrical root hairs; water particles migrate toward root hair cells through semi-permeable membranes, causing root hair segments to thicken slightly and glow when turgid."
+    },
+    {
+      "number": "12",
+      "title": "Microscopic View of Osmotic Shock in Bacteria",
+      "description": "Rod-shaped bacterial cells with semi-transparent walls float in a solution; when the external solute concentration suddenly changes color and density, water particles rush in or out, making cells expand, wrinkle, or lyse with small bursting particle sprays.",
+      "seed": "Microscopic View of Osmotic Shock in Bacteria: Rod-shaped bacterial cells with semi-transparent walls float in a solution; when the external solute concentration suddenly changes color and density, water particles rush in or out, making cells expand, wrinkle, or lyse with small bursting particle sprays."
+    },
+    {
+      "number": "13",
+      "title": "Saltwater vs Freshwater Fish Osmotic Balance",
+      "description": "Two aquaria side by side hold stylized fish with different membrane permeabilities; water and salt particles move across fish skins at different rates, with small vector arrows and color changes in the fish bodies showing osmotic gain or loss.",
+      "seed": "Saltwater vs Freshwater Fish Osmotic Balance: Two aquaria side by side hold stylized fish with different membrane permeabilities; water and salt particles move across fish skins at different rates, with small vector arrows and color changes in the fish bodies showing osmotic gain or loss."
+    },
+    {
+      "number": "14",
+      "title": "Osmosis as a City with Gates and Migrating Citizens",
+      "description": "Two city blocks separated by a wall with gated “membrane” arches contain crowds of citizen-spheres; smaller “water” spheres freely pass through gates while larger “solute” spheres bounce off, slowly changing crowd densities and block color saturation.",
+      "seed": "Osmosis as a City with Gates and Migrating Citizens: Two city blocks separated by a wall with gated “membrane” arches contain crowds of citizen-spheres; smaller “water” spheres freely pass through gates while larger “solute” spheres bounce off, slowly changing crowd densities and block color saturation."
+    },
+    {
+      "number": "15",
+      "title": "Osmotic Desalination Plant with Multiple Stages",
+      "description": "A 3D industrial facility shows tanks connected by pipes and flat membrane panels; animated flows of blue water particles and red salt particles move through, with valves opening and closing as water passes membranes and salt accumulates in brine tanks.",
+      "seed": "Osmotic Desalination Plant with Multiple Stages: A 3D industrial facility shows tanks connected by pipes and flat membrane panels; animated flows of blue water particles and red salt particles move through, with valves opening and closing as water passes membranes and salt accumulates in brine tanks."
+    },
+    {
+      "number": "16",
+      "title": "Osmotic Balloon in Sugar Solution",
+      "description": "A rubbery semi-transparent balloon filled with sugar solution floats in a container of pure water; water particles enter the balloon through a dotted membrane surface, making it gradually expand, rise slightly, and change inner color density.",
+      "seed": "Osmotic Balloon in Sugar Solution: A rubbery semi-transparent balloon filled with sugar solution floats in a container of pure water; water particles enter the balloon through a dotted membrane surface, making it gradually expand, rise slightly, and change inner color density."
+    },
+    {
+      "number": "17",
+      "title": "Osmosis in a Stacked Tissue Layer Model",
+      "description": "A layered slab of tissue slices, each separated by semi-permeable interfaces, shows water migration between layers; small colored cells embedded in layers swell or shrink as local osmotic conditions change, with layer labels and concentration meters on the side.",
+      "seed": "Osmosis in a Stacked Tissue Layer Model: A layered slab of tissue slices, each separated by semi-permeable interfaces, shows water migration between layers; small colored cells embedded in layers swell or shrink as local osmotic conditions change, with layer labels and concentration meters on the side."
+    },
+    {
+      "number": "18",
+      "title": "Osmotic Gradient Along a Nephron Tubule",
+      "description": "A curving transparent tube (nephron) runs through an outer to inner region where surrounding solute concentration gradually increases; water particles exit the tube through the wall into the medulla, leaving behind more concentrated solute, with dynamic color grading.",
+      "seed": "Osmotic Gradient Along a Nephron Tubule: A curving transparent tube (nephron) runs through an outer to inner region where surrounding solute concentration gradually increases; water particles exit the tube through the wall into the medulla, leaving behind more concentrated solute, with dynamic color grading."
+    },
+    {
+      "number": "19",
+      "title": "Osmosis-Driven Swelling and Shrinking of Multiple Cells on a Slide",
+      "description": "A flat transparent slide holds many spherical cells arranged in a grid; when the surrounding solution changes tonicity, each cell individually swells or shrinks at different rates depending on its membrane properties, with labels indicating isotonic, hypo-, and hypertonic.",
+      "seed": "Osmosis-Driven Swelling and Shrinking of Multiple Cells on a Slide: A flat transparent slide holds many spherical cells arranged in a grid; when the surrounding solution changes tonicity, each cell individually swells or shrinks at different rates depending on its membrane properties, with labels indicating isotonic, hypo-, and hypertonic."
+    },
+    {
+      "number": "20",
+      "title": "Osmotic Movement Across a Curved Membrane Bubble",
+      "description": "A large, thin, semi-transparent spherical shell divides an inner and outer region with different solute densities; water particles pass through the curved shell, causing it to gently expand or contract while the color intensity of inner and outer fluids equalizes.",
+      "seed": "Osmotic Movement Across a Curved Membrane Bubble: A large, thin, semi-transparent spherical shell divides an inner and outer region with different solute densities; water particles pass through the curved shell, causing it to gently expand or contract while the color intensity of inner and outer fluids equalizes."
+    },
+    {
+      "number": "21",
+      "title": "Osmosis-Driven Droplet Coalescence in an Emulsion",
+      "description": "Many small droplets with varying internal solute concentrations float in a continuous phase; water particles move between adjacent droplets through their thin membranes, causing some droplets to shrink, others to grow, and a few to merge when they touch.",
+      "seed": "Osmosis-Driven Droplet Coalescence in an Emulsion: Many small droplets with varying internal solute concentrations float in a continuous phase; water particles move between adjacent droplets through their thin membranes, causing some droplets to shrink, others to grow, and a few to merge when they touch."
+    },
+    {
+      "number": "22",
+      "title": "Osmotic Pressure Meter with a Flexible Piston",
+      "description": "A vertical cylinder is capped by a flexible piston disk loaded with weights; below, a membrane separates pure water from a solute solution, and as water enters the solution chamber, the piston rises, with a numeric osmotic pressure gauge updating in real time.",
+      "seed": "Osmotic Pressure Meter with a Flexible Piston: A vertical cylinder is capped by a flexible piston disk loaded with weights; below, a membrane separates pure water from a solute solution, and as water enters the solution chamber, the piston rises, with a numeric osmotic pressure gauge updating in real time."
+    },
+    {
+      "number": "23",
+      "title": "Osmosis in a 3D Network of Connected Compartments",
+      "description": "A lattice of transparent cubes connected by small membrane windows shows solute and water particles diffusing; water preferentially passes through certain windows, gradually smoothing concentration differences, while each cube’s tint changes with concentration.",
+      "seed": "Osmosis in a 3D Network of Connected Compartments: A lattice of transparent cubes connected by small membrane windows shows solute and water particles diffusing; water preferentially passes through certain windows, gradually smoothing concentration differences, while each cube’s tint changes with concentration."
+    },
+    {
+      "number": "24",
+      "title": "Symbolic Osmosis of Ideas Between Two Groups",
+      "description": "Two clusters of glowing “mind” spheres face each other across a semi-transparent barrier; small light particles representing ideas pass through special “open-minded” pores while larger, rigid tokens bounce off, gradually changing each group’s internal color hue.",
+      "seed": "Symbolic Osmosis of Ideas Between Two Groups: Two clusters of glowing “mind” spheres face each other across a semi-transparent barrier; small light particles representing ideas pass through special “open-minded” pores while larger, rigid tokens bounce off, gradually changing each group’s internal color hue."
+    },
+    {
+      "number": "25",
+      "title": "Osmosis in a Giant Stylized Hourglass",
+      "description": "Instead of sand, the top bulb holds concentrated solute solution and the bottom holds pure water, separated by a horizontal semipermeable membrane; water particles move upward through the membrane, altering fluid levels and color gradients in each bulb.",
+      "seed": "Osmosis in a Giant Stylized Hourglass: Instead of sand, the top bulb holds concentrated solute solution and the bottom holds pure water, separated by a horizontal semipermeable membrane; water particles move upward through the membrane, altering fluid levels and color gradients in each bulb."
+    }
+  ],
+  "raw_output": "Here are strong **Osmosis simulation inputs** you can plug into your prompt:\n\n1. **Semi-Permeable Membrane with Water Flow and Solute Particles**\n   A transparent rectangular membrane panel divides two boxes of particles, where blue water spheres drift through membrane pores while larger colored solute spheres bounce, gradually changing solute concentration gradients shown by labels and dynamic color shading on each side.\n\n2. **Red Blood Cell in Hypo/Hypertonic Solutions**\n   A single red, flexible cell (a slightly squishy sphere) floats in a clear box filled with tiny blue water particles, swelling and shrinking as water particles pass through its semi-transparent membrane, with arrows and labels indicating hypotonic and hypertonic states.\n\n3. **Plant Cell Vacuole Osmosis and Turgor Pressure**\n   A green plant cell box with a large central transparent vacuole inflates and deflates as water particles enter and exit through the plasma membrane, pushing the rigid cell wall outward and inward, with pressure vectors and a side meter showing turgor pressure.\n\n4. **Reverse Osmosis Water Filter Cartridge**\n   A long transparent cylinder shows water with mixed solute particles flowing through membrane layers, where high-pressure plunger spheres push water molecules through a fine membrane sheet while colored pollutant spheres are blocked and accumulate upstream.\n\n5. **Osmosis Across Multiple Serial Membranes**\n   A chain of several vertical semi-transparent membranes separates many small compartments, with variable solute concentrations; water particles slowly migrate through pores from low to high solute compartments, equalizing levels while color gradients and numeric labels update.\n\n6. **Osmotic Swelling of a Gel Bead in Solution**\n   A soft, semi-transparent gel sphere filled with fixed solute particles sits in a box of pure water; water particles gradually enter, causing the gel sphere to grow, stretch, and slightly pulse while tension vectors appear on its surface.\n\n7. **Capillary Tube with Osmotic Meniscus Rise**\n   A narrow transparent tube dips into a solution bath; water molecules and solute particles jostle, and an inner semipermeable membrane section drives water rise in the tube, with the liquid surface forming a curved meniscus and a height meter tracking level changes.\n\n8. **Osmosis-Driven Artificial Cell (Liposome) in a Microfluidic Channel**\n   Several small, spherical liposomes with semi-transparent shells drift in a long rectangular channel; as they pass through regions with different solute concentrations, their sizes change dynamically, some swelling and bursting with particle sprays.\n\n9. **Osmotic Pump Mechanism for Drug Delivery**\n   A pill-shaped capsule with a rigid outer shell and inner osmotic chamber sits in a fluid-filled box; water particles enter through a tiny semipermeable window, building pressure that slowly pushes out drug particles through a small orifice, leaving a colored trail.\n\n10. **Water Level Change in Connected Osmotic Compartments**\n    Two vertical columns of solution, connected at the bottom by a semipermeable membrane, show colored water surfaces that rise and fall as water migrates between them, with floating markers and rulers indicating dynamic height differences.\n\n11. **Osmosis-Driven Root Hair Water Uptake**\n    A transparent soil volume with scattered water droplets surrounds fine cylindrical root hairs; water particles migrate toward root hair cells through semi-permeable membranes, causing root hair segments to thicken slightly and glow when turgid.\n\n12. **Microscopic View of Osmotic Shock in Bacteria**\n    Rod-shaped bacterial cells with semi-transparent walls float in a solution; when the external solute concentration suddenly changes color and density, water particles rush in or out, making cells expand, wrinkle, or lyse with small bursting particle sprays.\n\n13. **Saltwater vs Freshwater Fish Osmotic Balance**\n    Two aquaria side by side hold stylized fish with different membrane permeabilities; water and salt particles move across fish skins at different rates, with small vector arrows and color changes in the fish bodies showing osmotic gain or loss.\n\n14. **Osmosis as a City with Gates and Migrating Citizens**\n    Two city blocks separated by a wall with gated “membrane” arches contain crowds of citizen-spheres; smaller “water” spheres freely pass through gates while larger “solute” spheres bounce off, slowly changing crowd densities and block color saturation.\n\n15. **Osmotic Desalination Plant with Multiple Stages**\n    A 3D industrial facility shows tanks connected by pipes and flat membrane panels; animated flows of blue water particles and red salt particles move through, with valves opening and closing as water passes membranes and salt accumulates in brine tanks.\n\n16. **Osmotic Balloon in Sugar Solution**\n    A rubbery semi-transparent balloon filled with sugar solution floats in a container of pure water; water particles enter the balloon through a dotted membrane surface, making it gradually expand, rise slightly, and change inner color density.\n\n17. **Osmosis in a Stacked Tissue Layer Model**\n    A layered slab of tissue slices, each separated by semi-permeable interfaces, shows water migration between layers; small colored cells embedded in layers swell or shrink as local osmotic conditions change, with layer labels and concentration meters on the side.\n\n18. **Osmotic Gradient Along a Nephron Tubule**\n    A curving transparent tube (nephron) runs through an outer to inner region where surrounding solute concentration gradually increases; water particles exit the tube through the wall into the medulla, leaving behind more concentrated solute, with dynamic color grading.\n\n19. **Osmosis-Driven Swelling and Shrinking of Multiple Cells on a Slide**\n    A flat transparent slide holds many spherical cells arranged in a grid; when the surrounding solution changes tonicity, each cell individually swells or shrinks at different rates depending on its membrane properties, with labels indicating isotonic, hypo-, and hypertonic.\n\n20. **Osmotic Movement Across a Curved Membrane Bubble**\n    A large, thin, semi-transparent spherical shell divides an inner and outer region with different solute densities; water particles pass through the curved shell, causing it to gently expand or contract while the color intensity of inner and outer fluids equalizes.\n\n21. **Osmosis-Driven Droplet Coalescence in an Emulsion**\n    Many small droplets with varying internal solute concentrations float in a continuous phase; water particles move between adjacent droplets through their thin membranes, causing some droplets to shrink, others to grow, and a few to merge when they touch.\n\n22. **Osmotic Pressure Meter with a Flexible Piston**\n    A vertical cylinder is capped by a flexible piston disk loaded with weights; below, a membrane separates pure water from a solute solution, and as water enters the solution chamber, the piston rises, with a numeric osmotic pressure gauge updating in real time.\n\n23. **Osmosis in a 3D Network of Connected Compartments**\n    A lattice of transparent cubes connected by small membrane windows shows solute and water particles diffusing; water preferentially passes through certain windows, gradually smoothing concentration differences, while each cube’s tint changes with concentration.\n\n24. **Symbolic Osmosis of Ideas Between Two Groups**\n    Two clusters of glowing “mind” spheres face each other across a semi-transparent barrier; small light particles representing ideas pass through special “open-minded” pores while larger, rigid tokens bounce off, gradually changing each group’s internal color hue.\n\n25. **Osmosis in a Giant Stylized Hourglass**\n    Instead of sand, the top bulb holds concentrated solute solution and the bottom holds pure water, separated by a horizontal semipermeable membrane; water particles move upward through the membrane, altering fluid levels and color gradients in each bulb."
+}

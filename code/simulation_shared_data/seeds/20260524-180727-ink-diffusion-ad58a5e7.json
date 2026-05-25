@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Ink diffusion",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:07:27",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Ink Droplet Spreading in a Still Water Cube",
+      "description": "A small colored ink sphere is released at the center of a transparent water-filled box, breaking into many tiny particles that slowly diffuse outward in random motion, fading in color as they spread and leaving a transient trail cloud.",
+      "seed": "Ink Droplet Spreading in a Still Water Cube: A small colored ink sphere is released at the center of a transparent water-filled box, breaking into many tiny particles that slowly diffuse outward in random motion, fading in color as they spread and leaving a transient trail cloud."
+    },
+    {
+      "number": "2",
+      "title": "Colored Ink Plumes in a Flowing Stream",
+      "description": "A long transparent channel contains a slow laminar water flow while several narrow nozzles inject red, blue, and yellow ink threads that stretch, twist, mix, and form layered plumes tracked by faint particle trails and a side-panel showing a mixing index.",
+      "seed": "Colored Ink Plumes in a Flowing Stream: A long transparent channel contains a slow laminar water flow while several narrow nozzles inject red, blue, and yellow ink threads that stretch, twist, mix, and form layered plumes tracked by faint particle trails and a side-panel showing a mixing index."
+    },
+    {
+      "number": "3",
+      "title": "Hot and Cold Ink Convection in a Glass Tank",
+      "description": "A tall transparent tank shows warm, light ink released at the bottom and cool, dense ink released at the top, with both plumes rising or sinking, curling into vortex rings that collide, merge, and diffuse, with temperature indicated by color gradients.",
+      "seed": "Hot and Cold Ink Convection in a Glass Tank: A tall transparent tank shows warm, light ink released at the bottom and cool, dense ink released at the top, with both plumes rising or sinking, curling into vortex rings that collide, merge, and diffuse, with temperature indicated by color gradients."
+    },
+    {
+      "number": "4",
+      "title": "Ink Diffusion Around Rotating Obstacles",
+      "description": "A clear rectangular aquarium holds stationary and slowly rotating transparent cylinders while a central ink droplet diffuses, gets wrapped into spirals by the rotating obstacles, and leaves streaky trails that reveal the flow patterns.",
+      "seed": "Ink Diffusion Around Rotating Obstacles: A clear rectangular aquarium holds stationary and slowly rotating transparent cylinders while a central ink droplet diffuses, gets wrapped into spirals by the rotating obstacles, and leaves streaky trails that reveal the flow patterns."
+    },
+    {
+      "number": "5",
+      "title": "Microscopic Ink Molecules in a Lattice",
+      "description": "A cubic lattice of invisible “cells” contains thousands of tiny colored spheres representing ink molecules that perform 3D random walks, bounce off the box walls, and gradually spread from a dense cluster into a uniform cloud, with a side meter tracking concentration over time.",
+      "seed": "Microscopic Ink Molecules in a Lattice: A cubic lattice of invisible “cells” contains thousands of tiny colored spheres representing ink molecules that perform 3D random walks, bounce off the box walls, and gradually spread from a dense cluster into a uniform cloud, with a side meter tracking concentration over time."
+    },
+    {
+      "number": "6",
+      "title": "Ink Diffusion from a Porous Sponge Block",
+      "description": "A semi-transparent sponge-like cube saturated with dark ink sits in a clear water box; ink slowly seeps out of the sponge pores, forming branching tendrils that detach, sink, and diffuse into a faint colored haze around the sponge.",
+      "seed": "Ink Diffusion from a Porous Sponge Block: A semi-transparent sponge-like cube saturated with dark ink sits in a clear water box; ink slowly seeps out of the sponge pores, forming branching tendrils that detach, sink, and diffuse into a faint colored haze around the sponge."
+    },
+    {
+      "number": "7",
+      "title": "Dropping Ink into a Rotating Vortex Column",
+      "description": "A vertical cylindrical tank of water spins around its axis while a droplet of ink is released above the center, stretching into a thin filament that wraps in a spiral around the vortex core, breaks into segments, and diffuses into a helical cloud.",
+      "seed": "Dropping Ink into a Rotating Vortex Column: A vertical cylindrical tank of water spins around its axis while a droplet of ink is released above the center, stretching into a thin filament that wraps in a spiral around the vortex core, breaks into segments, and diffuses into a helical cloud."
+    },
+    {
+      "number": "8",
+      "title": "Ink Diffusion Through a Semi-Permeable Membrane",
+      "description": "Two adjacent transparent compartments separated by a thin, semi-transparent membrane start with ink on one side only; ink particles randomly collide with the membrane, occasionally pass through based on a probability rule, and gradually equalize concentration, with each side’s average color intensity labeled.",
+      "seed": "Ink Diffusion Through a Semi-Permeable Membrane: Two adjacent transparent compartments separated by a thin, semi-transparent membrane start with ink on one side only; ink particles randomly collide with the membrane, occasionally pass through based on a probability rule, and gradually equalize concentration, with each side’s average color intensity labeled."
+    },
+    {
+      "number": "9",
+      "title": "Ink Diffusion in a Gradual Density Gradient",
+      "description": "A tall rectangular column is denser at the bottom and lighter at the top (indicated by a faint vertical color gradient), and a blob of ink is released mid-height, splitting into upward- and downward-moving plumes that bend, slow, and diffuse differently as they cross density layers.",
+      "seed": "Ink Diffusion in a Gradual Density Gradient: A tall rectangular column is denser at the bottom and lighter at the top (indicated by a faint vertical color gradient), and a blob of ink is released mid-height, splitting into upward- and downward-moving plumes that bend, slow, and diffuse differently as they cross density layers."
+    },
+    {
+      "number": "10",
+      "title": "Ink Jet from a Moving Pen Tip in 3D",
+      "description": "A pen tip (small cylinder) moves along a 3D path inside a clear box, continuously emitting tiny ink droplets that leave a faint trail; droplets diffuse outward from the path, blur the line over time, and slowly tint the nearby fluid.",
+      "seed": "Ink Jet from a Moving Pen Tip in 3D: A pen tip (small cylinder) moves along a 3D path inside a clear box, continuously emitting tiny ink droplets that leave a faint trail; droplets diffuse outward from the path, blur the line over time, and slowly tint the nearby fluid."
+    },
+    {
+      "number": "11",
+      "title": "Ink Diffusion in a Stirred Coffee Cup",
+      "description": "A shallow transparent cylinder represents a cup of water; a spoon-shaped object rotates about the center, and a drop of ink released near the rim stretches into spirals and loops, forming complex swirls that thin out and diffuse into a uniform tint.",
+      "seed": "Ink Diffusion in a Stirred Coffee Cup: A shallow transparent cylinder represents a cup of water; a spoon-shaped object rotates about the center, and a drop of ink released near the rim stretches into spirals and loops, forming complex swirls that thin out and diffuse into a uniform tint."
+    },
+    {
+      "number": "12",
+      "title": "Multiple Ink Colors Colliding and Mixing",
+      "description": "Several colored ink blobs (red, green, blue, yellow) are released from different corners of a transparent cube at the same time and move toward the center under a gentle flow, where they collide, partially merge into secondary colors, and then diffuse outward as a mottled cloud.",
+      "seed": "Multiple Ink Colors Colliding and Mixing: Several colored ink blobs (red, green, blue, yellow) are released from different corners of a transparent cube at the same time and move toward the center under a gentle flow, where they collide, partially merge into secondary colors, and then diffuse outward as a mottled cloud."
+    },
+    {
+      "number": "13",
+      "title": "Ink Diffusion in Fractured Rock Channels",
+      "description": "A transparent cube contains a network of narrow, branching channels (thin cylinders and boxes) filled with water; ink is injected at one inlet and travels, splits, and slows through the irregular paths before diffusing out into a surrounding porous medium.",
+      "seed": "Ink Diffusion in Fractured Rock Channels: A transparent cube contains a network of narrow, branching channels (thin cylinders and boxes) filled with water; ink is injected at one inlet and travels, splits, and slows through the irregular paths before diffusing out into a surrounding porous medium."
+    },
+    {
+      "number": "14",
+      "title": "Ink Diffusion in Microfluidic T-Junctions",
+      "description": "A 3D microfluidic “T” shaped channel system is shown as thin transparent pipes; clear fluid enters from one side while colored ink enters from another, then both streams meet, form a sharp interface, and gradually mix and diffuse downstream with concentration bands labeled along the main channel.",
+      "seed": "Ink Diffusion in Microfluidic T-Junctions: A 3D microfluidic “T” shaped channel system is shown as thin transparent pipes; clear fluid enters from one side while colored ink enters from another, then both streams meet, form a sharp interface, and gradually mix and diffuse downstream with concentration bands labeled along the main channel."
+    },
+    {
+      "number": "15",
+      "title": "Ink Diffusion in a Slowly Freezing Tank",
+      "description": "A transparent tank cools from the top (visualized by a blue gradient), while ink is released at the bottom; as the upper region slowly “freezes” (becoming opaque and stationary), ink plumes rise, get trapped below the freezing front, spread sideways, and diffuse in the remaining liquid layer.",
+      "seed": "Ink Diffusion in a Slowly Freezing Tank: A transparent tank cools from the top (visualized by a blue gradient), while ink is released at the bottom; as the upper region slowly “freezes” (becoming opaque and stationary), ink plumes rise, get trapped below the freezing front, spread sideways, and diffuse in the remaining liquid layer."
+    },
+    {
+      "number": "16",
+      "title": "Ink Diffusion Around a Rising Air Bubble",
+      "description": "A spherical air bubble rises slowly through a column of water while continuously releasing a faint ring of ink at its equator; the bubble drags the ink upward, forming a trailing wake that curls, detaches, and diffuses into the surrounding fluid.",
+      "seed": "Ink Diffusion Around a Rising Air Bubble: A spherical air bubble rises slowly through a column of water while continuously releasing a faint ring of ink at its equator; the bubble drags the ink upward, forming a trailing wake that curls, detaches, and diffuses into the surrounding fluid."
+    },
+    {
+      "number": "17",
+      "title": "Ink Diffusion Shaped by Magnetic Particles",
+      "description": "A cluster of tiny magnetizable beads sits in a water box; when a virtual magnetic field is toggled, the beads move, clump, and form barriers and channels that redirect a nearby ink release, causing it to wrap around bead clusters and diffuse through tiny gaps.",
+      "seed": "Ink Diffusion Shaped by Magnetic Particles: A cluster of tiny magnetizable beads sits in a water box; when a virtual magnetic field is toggled, the beads move, clump, and form barriers and channels that redirect a nearby ink release, causing it to wrap around bead clusters and diffuse through tiny gaps."
+    },
+    {
+      "number": "18",
+      "title": "Ink Diffusion Through a Moving Crowd of Particles",
+      "description": "A 3D box is filled with larger neutral spheres (representing cells or colloids) moving slowly under random forces, while small ink particles diffuse between them, collide, bounce, and occasionally attach temporarily to surfaces before detaching and continuing to spread.",
+      "seed": "Ink Diffusion Through a Moving Crowd of Particles: A 3D box is filled with larger neutral spheres (representing cells or colloids) moving slowly under random forces, while small ink particles diffuse between them, collide, bounce, and occasionally attach temporarily to surfaces before detaching and continuing to spread."
+    },
+    {
+      "number": "19",
+      "title": "Ink Diffusion in a Rotating Planetary Atmosphere",
+      "description": "A semi-transparent rotating sphere represents a planet’s atmosphere; localized ink “puffs” are injected at various latitudes, stretch into bands that wrap around the sphere, get sheared by different rotation speeds, and gradually diffuse until the planet’s atmosphere is uniformly tinted.",
+      "seed": "Ink Diffusion in a Rotating Planetary Atmosphere: A semi-transparent rotating sphere represents a planet’s atmosphere; localized ink “puffs” are injected at various latitudes, stretch into bands that wrap around the sphere, get sheared by different rotation speeds, and gradually diffuse until the planet’s atmosphere is uniformly tinted."
+    },
+    {
+      "number": "20",
+      "title": "Ink Diffusion from a Leaking Pipe Network",
+      "description": "A 3D network of thin transparent pipes carries clear water; at several small leak points, colored ink drips out into the surrounding tank, forming downward and sideways plumes that collide, merge, and slowly diffuse into a hazy background, with each leak labeled.",
+      "seed": "Ink Diffusion from a Leaking Pipe Network: A 3D network of thin transparent pipes carries clear water; at several small leak points, colored ink drips out into the surrounding tank, forming downward and sideways plumes that collide, merge, and slowly diffuse into a hazy background, with each leak labeled."
+    },
+    {
+      "number": "21",
+      "title": "Ink Diffusion Inside a Beating Heart Model",
+      "description": "A simplified transparent heart-shaped chamber rhythmically expands and contracts, while a bolus of ink enters through an inlet, swirls around internal obstacles (valve-like flaps), splits into different outflow branches, and diffuses into faint trails that show mixing after each beat.",
+      "seed": "Ink Diffusion Inside a Beating Heart Model: A simplified transparent heart-shaped chamber rhythmically expands and contracts, while a bolus of ink enters through an inlet, swirls around internal obstacles (valve-like flaps), splits into different outflow branches, and diffuses into faint trails that show mixing after each beat."
+    },
+    {
+      "number": "22",
+      "title": "Ink Diffusion and Absorption in Layered Paper",
+      "description": "A thin, slightly transparent rectangular “page” is modeled as several stacked layers; ink droplets land on the surface, spread laterally as halos while slowly diffusing vertically into deeper layers, with color intensity decreasing and labels showing how much ink each layer absorbs.",
+      "seed": "Ink Diffusion and Absorption in Layered Paper: A thin, slightly transparent rectangular “page” is modeled as several stacked layers; ink droplets land on the surface, spread laterally as halos while slowly diffusing vertically into deeper layers, with color intensity decreasing and labels showing how much ink each layer absorbs."
+    },
+    {
+      "number": "23",
+      "title": "Ink Diffusion in a Shearing Flow Between Plates",
+      "description": "Two parallel transparent plates enclose a thin fluid layer; the top plate slides sideways while the bottom stays fixed, creating a shear flow that stretches a central ink droplet into a long band that folds, wrinkles, and diffuses into a uniform tint between the plates.",
+      "seed": "Ink Diffusion in a Shearing Flow Between Plates: Two parallel transparent plates enclose a thin fluid layer; the top plate slides sideways while the bottom stays fixed, creating a shear flow that stretches a central ink droplet into a long band that folds, wrinkles, and diffuses into a uniform tint between the plates."
+    },
+    {
+      "number": "24",
+      "title": "Ink Diffusion from a Rotating Calligraphy Brush",
+      "description": "A brush tip (cluster of short cylinders) dipped in ink rotates and sweeps through a 3D transparent volume, shedding droplets that follow curved paths, collide, merge, and diffuse; older strokes blur into a gentle colored fog while newer strokes remain sharper.",
+      "seed": "Ink Diffusion from a Rotating Calligraphy Brush: A brush tip (cluster of short cylinders) dipped in ink rotates and sweeps through a 3D transparent volume, shedding droplets that follow curved paths, collide, merge, and diffuse; older strokes blur into a gentle colored fog while newer strokes remain sharper."
+    },
+    {
+      "number": "25",
+      "title": "Ink Diffusion in a Buoyant Rising Column",
+      "description": "A vertical central region of a large tank is slightly warmer and more buoyant; ink released at the bottom center rides this rising column, expands outward at the top, then slowly diffuses back into the surrounding cooler fluid, forming a looping circulation cell visualized by particle trails.",
+      "seed": "Ink Diffusion in a Buoyant Rising Column: A vertical central region of a large tank is slightly warmer and more buoyant; ink released at the bottom center rides this rising column, expands outward at the top, then slowly diffuses back into the surrounding cooler fluid, forming a looping circulation cell visualized by particle trails."
+    }
+  ],
+  "raw_output": "Here are strong **Ink diffusion simulation inputs** you can plug into your prompt:\n\n1. **Ink Droplet Spreading in a Still Water Cube**\n   A small colored ink sphere is released at the center of a transparent water-filled box, breaking into many tiny particles that slowly diffuse outward in random motion, fading in color as they spread and leaving a transient trail cloud.\n\n2. **Colored Ink Plumes in a Flowing Stream**\n   A long transparent channel contains a slow laminar water flow while several narrow nozzles inject red, blue, and yellow ink threads that stretch, twist, mix, and form layered plumes tracked by faint particle trails and a side-panel showing a mixing index.\n\n3. **Hot and Cold Ink Convection in a Glass Tank**\n   A tall transparent tank shows warm, light ink released at the bottom and cool, dense ink released at the top, with both plumes rising or sinking, curling into vortex rings that collide, merge, and diffuse, with temperature indicated by color gradients.\n\n4. **Ink Diffusion Around Rotating Obstacles**\n   A clear rectangular aquarium holds stationary and slowly rotating transparent cylinders while a central ink droplet diffuses, gets wrapped into spirals by the rotating obstacles, and leaves streaky trails that reveal the flow patterns.\n\n5. **Microscopic Ink Molecules in a Lattice**\n   A cubic lattice of invisible “cells” contains thousands of tiny colored spheres representing ink molecules that perform 3D random walks, bounce off the box walls, and gradually spread from a dense cluster into a uniform cloud, with a side meter tracking concentration over time.\n\n6. **Ink Diffusion from a Porous Sponge Block**\n   A semi-transparent sponge-like cube saturated with dark ink sits in a clear water box; ink slowly seeps out of the sponge pores, forming branching tendrils that detach, sink, and diffuse into a faint colored haze around the sponge.\n\n7. **Dropping Ink into a Rotating Vortex Column**\n   A vertical cylindrical tank of water spins around its axis while a droplet of ink is released above the center, stretching into a thin filament that wraps in a spiral around the vortex core, breaks into segments, and diffuses into a helical cloud.\n\n8. **Ink Diffusion Through a Semi-Permeable Membrane**\n   Two adjacent transparent compartments separated by a thin, semi-transparent membrane start with ink on one side only; ink particles randomly collide with the membrane, occasionally pass through based on a probability rule, and gradually equalize concentration, with each side’s average color intensity labeled.\n\n9. **Ink Diffusion in a Gradual Density Gradient**\n   A tall rectangular column is denser at the bottom and lighter at the top (indicated by a faint vertical color gradient), and a blob of ink is released mid-height, splitting into upward- and downward-moving plumes that bend, slow, and diffuse differently as they cross density layers.\n\n10. **Ink Jet from a Moving Pen Tip in 3D**\n    A pen tip (small cylinder) moves along a 3D path inside a clear box, continuously emitting tiny ink droplets that leave a faint trail; droplets diffuse outward from the path, blur the line over time, and slowly tint the nearby fluid.\n\n11. **Ink Diffusion in a Stirred Coffee Cup**\n    A shallow transparent cylinder represents a cup of water; a spoon-shaped object rotates about the center, and a drop of ink released near the rim stretches into spirals and loops, forming complex swirls that thin out and diffuse into a uniform tint.\n\n12. **Multiple Ink Colors Colliding and Mixing**\n    Several colored ink blobs (red, green, blue, yellow) are released from different corners of a transparent cube at the same time and move toward the center under a gentle flow, where they collide, partially merge into secondary colors, and then diffuse outward as a mottled cloud.\n\n13. **Ink Diffusion in Fractured Rock Channels**\n    A transparent cube contains a network of narrow, branching channels (thin cylinders and boxes) filled with water; ink is injected at one inlet and travels, splits, and slows through the irregular paths before diffusing out into a surrounding porous medium.\n\n14. **Ink Diffusion in Microfluidic T-Junctions**\n    A 3D microfluidic “T” shaped channel system is shown as thin transparent pipes; clear fluid enters from one side while colored ink enters from another, then both streams meet, form a sharp interface, and gradually mix and diffuse downstream with concentration bands labeled along the main channel.\n\n15. **Ink Diffusion in a Slowly Freezing Tank**\n    A transparent tank cools from the top (visualized by a blue gradient), while ink is released at the bottom; as the upper region slowly “freezes” (becoming opaque and stationary), ink plumes rise, get trapped below the freezing front, spread sideways, and diffuse in the remaining liquid layer.\n\n16. **Ink Diffusion Around a Rising Air Bubble**\n    A spherical air bubble rises slowly through a column of water while continuously releasing a faint ring of ink at its equator; the bubble drags the ink upward, forming a trailing wake that curls, detaches, and diffuses into the surrounding fluid.\n\n17. **Ink Diffusion Shaped by Magnetic Particles**\n    A cluster of tiny magnetizable beads sits in a water box; when a virtual magnetic field is toggled, the beads move, clump, and form barriers and channels that redirect a nearby ink release, causing it to wrap around bead clusters and diffuse through tiny gaps.\n\n18. **Ink Diffusion Through a Moving Crowd of Particles**\n    A 3D box is filled with larger neutral spheres (representing cells or colloids) moving slowly under random forces, while small ink particles diffuse between them, collide, bounce, and occasionally attach temporarily to surfaces before detaching and continuing to spread.\n\n19. **Ink Diffusion in a Rotating Planetary Atmosphere**\n    A semi-transparent rotating sphere represents a planet’s atmosphere; localized ink “puffs” are injected at various latitudes, stretch into bands that wrap around the sphere, get sheared by different rotation speeds, and gradually diffuse until the planet’s atmosphere is uniformly tinted.\n\n20. **Ink Diffusion from a Leaking Pipe Network**\n    A 3D network of thin transparent pipes carries clear water; at several small leak points, colored ink drips out into the surrounding tank, forming downward and sideways plumes that collide, merge, and slowly diffuse into a hazy background, with each leak labeled.\n\n21. **Ink Diffusion Inside a Beating Heart Model**\n    A simplified transparent heart-shaped chamber rhythmically expands and contracts, while a bolus of ink enters through an inlet, swirls around internal obstacles (valve-like flaps), splits into different outflow branches, and diffuses into faint trails that show mixing after each beat.\n\n22. **Ink Diffusion and Absorption in Layered Paper**\n    A thin, slightly transparent rectangular “page” is modeled as several stacked layers; ink droplets land on the surface, spread laterally as halos while slowly diffusing vertically into deeper layers, with color intensity decreasing and labels showing how much ink each layer absorbs.\n\n23. **Ink Diffusion in a Shearing Flow Between Plates**\n    Two parallel transparent plates enclose a thin fluid layer; the top plate slides sideways while the bottom stays fixed, creating a shear flow that stretches a central ink droplet into a long band that folds, wrinkles, and diffuses into a uniform tint between the plates.\n\n24. **Ink Diffusion from a Rotating Calligraphy Brush**\n    A brush tip (cluster of short cylinders) dipped in ink rotates and sweeps through a 3D transparent volume, shedding droplets that follow curved paths, collide, merge, and diffuse; older strokes blur into a gentle colored fog while newer strokes remain sharper.\n\n25. **Ink Diffusion in a Buoyant Rising Column**\n    A vertical central region of a large tank is slightly warmer and more buoyant; ink released at the bottom center rides this rising column, expands outward at the top, then slowly diffuses back into the surrounding cooler fluid, forming a looping circulation cell visualized by particle trails."
+}

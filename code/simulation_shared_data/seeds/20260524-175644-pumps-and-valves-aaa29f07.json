@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Pumps and valves",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:56:44",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Transparent Heart Pump and Valve Cycle",
+      "description": "A semi-transparent 3D heart with four chambers shows color-coded fluid pulsing through opening and closing valves, with arrows, labels, and slow-motion view of backflow when valves fail.",
+      "seed": "Transparent Heart Pump and Valve Cycle: A semi-transparent 3D heart with four chambers shows color-coded fluid pulsing through opening and closing valves, with arrows, labels, and slow-motion view of backflow when valves fail."
+    },
+    {
+      "number": "2",
+      "title": "Industrial Pumping Station Network",
+      "description": "A grid of tanks, pipes, and rotating pumps moves colored liquid through a valve network where the user can toggle valves open/closed and watch flows reroute, pressure meters change, and spills occur at overpressure points.",
+      "seed": "Industrial Pumping Station Network: A grid of tanks, pipes, and rotating pumps moves colored liquid through a valve network where the user can toggle valves open/closed and watch flows reroute, pressure meters change, and spills occur at overpressure points."
+    },
+    {
+      "number": "3",
+      "title": "Peristaltic Tube Pump with Check Valves",
+      "description": "A flexible transparent tube wrapped by rotating rollers squeezes colored particles forward while one-way check valves at each end flap open/closed, creating visible one-directional flow with trails.",
+      "seed": "Peristaltic Tube Pump with Check Valves: A flexible transparent tube wrapped by rotating rollers squeezes colored particles forward while one-way check valves at each end flap open/closed, creating visible one-directional flow with trails."
+    },
+    {
+      "number": "4",
+      "title": "Microfluidic Lab-on-a-Chip Valving",
+      "description": "A flat transparent chip with etched channels, branching junctions, and tiny diaphragm valves pulses different colored fluids that mix, split, and rejoin under timed valve sequences, with labels and flow-rate indicators.",
+      "seed": "Microfluidic Lab-on-a-Chip Valving: A flat transparent chip with etched channels, branching junctions, and tiny diaphragm valves pulses different colored fluids that mix, split, and rejoin under timed valve sequences, with labels and flow-rate indicators."
+    },
+    {
+      "number": "5",
+      "title": "Submarine Ballast Pumping System",
+      "description": "A 3D cutaway of a submarine hull shows ballast tanks filling and emptying via pumps and valves, changing the submarine’s vertical position in water while transparent water levels, bubbles, and valve states animate.",
+      "seed": "Submarine Ballast Pumping System: A 3D cutaway of a submarine hull shows ballast tanks filling and emptying via pumps and valves, changing the submarine’s vertical position in water while transparent water levels, bubbles, and valve states animate."
+    },
+    {
+      "number": "6",
+      "title": "Irrigation Canal and Gate Valve Field",
+      "description": "A sloped terrain with canals, reservoirs, and rotating gate valves diverts flowing water toward color-coded crop plots, with valves opening/closing to change stream paths and cause mini-floods or dry patches.",
+      "seed": "Irrigation Canal and Gate Valve Field: A sloped terrain with canals, reservoirs, and rotating gate valves diverts flowing water toward color-coded crop plots, with valves opening/closing to change stream paths and cause mini-floods or dry patches."
+    },
+    {
+      "number": "7",
+      "title": "Chemical Reactor with Recirculation Pump Loop",
+      "description": "A cylindrical reactor vessel connects to external pumps and control valves that recirculate colored reactants through heat exchangers, with temperature-colored fluid, mixing patterns, and safety relief valves venting particles when pressure spikes.",
+      "seed": "Chemical Reactor with Recirculation Pump Loop: A cylindrical reactor vessel connects to external pumps and control valves that recirculate colored reactants through heat exchangers, with temperature-colored fluid, mixing patterns, and safety relief valves venting particles when pressure spikes."
+    },
+    {
+      "number": "8",
+      "title": "Aquarium Filtration and Pump Flow",
+      "description": "A glass aquarium with fish models shows a pump drawing water through an intake, pushing it through a series of filter boxes and valves, with particles representing dirt being trapped or bypassing when valves change configuration.",
+      "seed": "Aquarium Filtration and Pump Flow: A glass aquarium with fish models shows a pump drawing water through an intake, pushing it through a series of filter boxes and valves, with particles representing dirt being trapped or bypassing when valves change configuration."
+    },
+    {
+      "number": "9",
+      "title": "Oil Refinery Pump and Valve Matrix",
+      "description": "A simplified refinery map with storage tanks and tall columns uses animated pumps to send different colored fluids through a dense pipe-and-valve network, where toggling valves visibly reroutes streams and causes backups in certain pipes.",
+      "seed": "Oil Refinery Pump and Valve Matrix: A simplified refinery map with storage tanks and tall columns uses animated pumps to send different colored fluids through a dense pipe-and-valve network, where toggling valves visibly reroutes streams and causes backups in certain pipes."
+    },
+    {
+      "number": "10",
+      "title": "Lymphatic System One-Way Valve Flow",
+      "description": "A translucent human leg cross-section shows lymph channels with bulging segments and one-way valves; muscle “pulses” squeeze the vessels, causing green fluid to move upward, with valves snapping shut to prevent backflow.",
+      "seed": "Lymphatic System One-Way Valve Flow: A translucent human leg cross-section shows lymph channels with bulging segments and one-way valves; muscle “pulses” squeeze the vessels, causing green fluid to move upward, with valves snapping shut to prevent backflow."
+    },
+    {
+      "number": "11",
+      "title": "Rocket Fuel Feed System",
+      "description": "A rocket side cutaway animates propellant tanks feeding turbopumps, control valves, and combustion chamber; users can partially close valves to see pressure build, lines glow hotter, and animated flow slow or cavitate near the pump inlets.",
+      "seed": "Rocket Fuel Feed System: A rocket side cutaway animates propellant tanks feeding turbopumps, control valves, and combustion chamber; users can partially close valves to see pressure build, lines glow hotter, and animated flow slow or cavitate near the pump inlets."
+    },
+    {
+      "number": "12",
+      "title": "Hydraulic Excavator Arm Control Block",
+      "description": "A mechanical excavator arm with pistons and hoses shows a central valve block redirecting pressurized fluid from a pump to different cylinders; joystick-like sliders change which spool valves open, making the arm segments raise, extend, and curl.",
+      "seed": "Hydraulic Excavator Arm Control Block: A mechanical excavator arm with pistons and hoses shows a central valve block redirecting pressurized fluid from a pump to different cylinders; joystick-like sliders change which spool valves open, making the arm segments raise, extend, and curl."
+    },
+    {
+      "number": "13",
+      "title": "City Water Distribution Grid",
+      "description": "A 3D map of a small city with elevated reservoirs, pumps, mains, and valves shows water as blue particles traveling through pipes; closing a valve causes pressure waves, visible level drops in affected neighborhoods, and re-routing via alternate paths.",
+      "seed": "City Water Distribution Grid: A 3D map of a small city with elevated reservoirs, pumps, mains, and valves shows water as blue particles traveling through pipes; closing a valve causes pressure waves, visible level drops in affected neighborhoods, and re-routing via alternate paths."
+    },
+    {
+      "number": "14",
+      "title": "Mechanical Heart Assist Pump (LVAD)",
+      "description": "A transparent chest shows a mechanical rotary blood pump connected between ventricle and aorta with inflow and outflow grafts; valve states, pump speed, and particle-flow of blood visibly change under different assist levels.",
+      "seed": "Mechanical Heart Assist Pump (LVAD): A transparent chest shows a mechanical rotary blood pump connected between ventricle and aorta with inflow and outflow grafts; valve states, pump speed, and particle-flow of blood visibly change under different assist levels."
+    },
+    {
+      "number": "15",
+      "title": "Fountain with Timed Valve Choreography",
+      "description": "A plaza fountain with multiple tiers and jets uses an underground pump and a manifold of solenoid valves that open in patterns to create rotating arcs, pulsating jets, and alternating spray heights, with water trails and light mist particles.",
+      "seed": "Fountain with Timed Valve Choreography: A plaza fountain with multiple tiers and jets uses an underground pump and a manifold of solenoid valves that open in patterns to create rotating arcs, pulsating jets, and alternating spray heights, with water trails and light mist particles."
+    },
+    {
+      "number": "16",
+      "title": "Sewage Lift Station with Backflow Event",
+      "description": "A low-lying tank receives inflowing dirty water, and a pump with check valves sends it uphill; a simulated valve failure shows brownish fluid surging backward, overflowing into a side channel, with alarms and red flashing labels activating.",
+      "seed": "Sewage Lift Station with Backflow Event: A low-lying tank receives inflowing dirty water, and a pump with check valves sends it uphill; a simulated valve failure shows brownish fluid surging backward, overflowing into a side channel, with alarms and red flashing labels activating."
+    },
+    {
+      "number": "17",
+      "title": "Metaphorical “Idea Pump” Network",
+      "description": "Abstract glowing spheres (ideas) are pumped through transparent tubes between brain-like nodes, with valves representing “filters” that open to let certain colored ideas pass while others bounce back and recirculate.",
+      "seed": "Metaphorical “Idea Pump” Network: Abstract glowing spheres (ideas) are pumped through transparent tubes between brain-like nodes, with valves representing “filters” that open to let certain colored ideas pass while others bounce back and recirculate."
+    },
+    {
+      "number": "18",
+      "title": "Cardiac Bypass Machine Circuit",
+      "description": "A surgical heart-lung machine layout shows blood drawn from a heart model into an external pump, oxygenator, and heat exchanger, moving through clamps and valves that open/close to switch between native heart and machine circulation.",
+      "seed": "Cardiac Bypass Machine Circuit: A surgical heart-lung machine layout shows blood drawn from a heart model into an external pump, oxygenator, and heat exchanger, moving through clamps and valves that open/close to switch between native heart and machine circulation."
+    },
+    {
+      "number": "19",
+      "title": "Oil Pipeline Pigging Operation",
+      "description": "A long pipeline model with pump stations launches a cylindrical “pig” device that travels inside, pushed by pressurized fluid; side valves open to insert/remove the pig, while the device leaves a visual cleaning trail behind it.",
+      "seed": "Oil Pipeline Pigging Operation: A long pipeline model with pump stations launches a cylindrical “pig” device that travels inside, pushed by pressurized fluid; side valves open to insert/remove the pig, while the device leaves a visual cleaning trail behind it."
+    },
+    {
+      "number": "20",
+      "title": "Steam Plant Condensate Return System",
+      "description": "A boiler, turbine, condenser, and feedwater pumps are linked by pipes and control valves; animated steam condenses into droplets in transparent sections, and valve changes redirect condensate paths and affect turbine rotation speed.",
+      "seed": "Steam Plant Condensate Return System: A boiler, turbine, condenser, and feedwater pumps are linked by pipes and control valves; animated steam condenses into droplets in transparent sections, and valve changes redirect condensate paths and affect turbine rotation speed."
+    },
+    {
+      "number": "21",
+      "title": "Respiratory System with Airflow Valves",
+      "description": "A simplified ribcage and lungs show air as particles pumped in and out by diaphragm motion, with animated glottis and bronchial “valves” constricting, causing visible flow restriction and wheezing turbulence patterns.",
+      "seed": "Respiratory System with Airflow Valves: A simplified ribcage and lungs show air as particles pumped in and out by diaphragm motion, with animated glottis and bronchial “valves” constricting, causing visible flow restriction and wheezing turbulence patterns."
+    },
+    {
+      "number": "22",
+      "title": "Fuel Station Forecourt Pump Island",
+      "description": "Multiple car models pull up to fuel pumps where internal rotary pumps and automatic shutoff valves control colored fuel lines; transparent sections in hoses show flow, and valves click closed when tanks reach a set “level” line.",
+      "seed": "Fuel Station Forecourt Pump Island: Multiple car models pull up to fuel pumps where internal rotary pumps and automatic shutoff valves control colored fuel lines; transparent sections in hoses show flow, and valves click closed when tanks reach a set “level” line."
+    },
+    {
+      "number": "23",
+      "title": "Pneumatic Tube Transport Network",
+      "description": "Capsules are pumped through a 3D lattice of transparent pneumatic tubes by pressure pulses from compressors and directional valves; capsules branch at junctions, bounce, or halt depending on valve states, leaving motion trails.",
+      "seed": "Pneumatic Tube Transport Network: Capsules are pumped through a 3D lattice of transparent pneumatic tubes by pressure pulses from compressors and directional valves; capsules branch at junctions, bounce, or halt depending on valve states, leaving motion trails."
+    },
+    {
+      "number": "24",
+      "title": "Plant Xylem and Phloem Pump Analogue",
+      "description": "A stylized plant stem with two transparent column systems (xylem, phloem) uses root and leaf “pumps” and microscopic valve-like pores that open and close, moving colored fluids upward and downward in response to environmental changes.",
+      "seed": "Plant Xylem and Phloem Pump Analogue: A stylized plant stem with two transparent column systems (xylem, phloem) uses root and leaf “pumps” and microscopic valve-like pores that open and close, moving colored fluids upward and downward in response to environmental changes."
+    },
+    {
+      "number": "25",
+      "title": "Emergency Fire Sprinkler Pump and Valve Tree",
+      "description": "A building floorplan with overhead pipes shows a central fire pump feeding a branching sprinkler network; heat-sensitive valves at each sprinkler head open when “flames” approach, causing water sprays that extinguish glowing fire particles.",
+      "seed": "Emergency Fire Sprinkler Pump and Valve Tree: A building floorplan with overhead pipes shows a central fire pump feeding a branching sprinkler network; heat-sensitive valves at each sprinkler head open when “flames” approach, causing water sprays that extinguish glowing fire particles."
+    }
+  ],
+  "raw_output": "Here are strong **Pumps and valves simulation inputs** you can plug into your prompt:\n\n1. **Transparent Heart Pump and Valve Cycle**\n   A semi-transparent 3D heart with four chambers shows color-coded fluid pulsing through opening and closing valves, with arrows, labels, and slow-motion view of backflow when valves fail.\n\n2. **Industrial Pumping Station Network**\n   A grid of tanks, pipes, and rotating pumps moves colored liquid through a valve network where the user can toggle valves open/closed and watch flows reroute, pressure meters change, and spills occur at overpressure points.\n\n3. **Peristaltic Tube Pump with Check Valves**\n   A flexible transparent tube wrapped by rotating rollers squeezes colored particles forward while one-way check valves at each end flap open/closed, creating visible one-directional flow with trails.\n\n4. **Microfluidic Lab-on-a-Chip Valving**\n   A flat transparent chip with etched channels, branching junctions, and tiny diaphragm valves pulses different colored fluids that mix, split, and rejoin under timed valve sequences, with labels and flow-rate indicators.\n\n5. **Submarine Ballast Pumping System**\n   A 3D cutaway of a submarine hull shows ballast tanks filling and emptying via pumps and valves, changing the submarine’s vertical position in water while transparent water levels, bubbles, and valve states animate.\n\n6. **Irrigation Canal and Gate Valve Field**\n   A sloped terrain with canals, reservoirs, and rotating gate valves diverts flowing water toward color-coded crop plots, with valves opening/closing to change stream paths and cause mini-floods or dry patches.\n\n7. **Chemical Reactor with Recirculation Pump Loop**\n   A cylindrical reactor vessel connects to external pumps and control valves that recirculate colored reactants through heat exchangers, with temperature-colored fluid, mixing patterns, and safety relief valves venting particles when pressure spikes.\n\n8. **Aquarium Filtration and Pump Flow**\n   A glass aquarium with fish models shows a pump drawing water through an intake, pushing it through a series of filter boxes and valves, with particles representing dirt being trapped or bypassing when valves change configuration.\n\n9. **Oil Refinery Pump and Valve Matrix**\n   A simplified refinery map with storage tanks and tall columns uses animated pumps to send different colored fluids through a dense pipe-and-valve network, where toggling valves visibly reroutes streams and causes backups in certain pipes.\n\n10. **Lymphatic System One-Way Valve Flow**\n    A translucent human leg cross-section shows lymph channels with bulging segments and one-way valves; muscle “pulses” squeeze the vessels, causing green fluid to move upward, with valves snapping shut to prevent backflow.\n\n11. **Rocket Fuel Feed System**\n    A rocket side cutaway animates propellant tanks feeding turbopumps, control valves, and combustion chamber; users can partially close valves to see pressure build, lines glow hotter, and animated flow slow or cavitate near the pump inlets.\n\n12. **Hydraulic Excavator Arm Control Block**\n    A mechanical excavator arm with pistons and hoses shows a central valve block redirecting pressurized fluid from a pump to different cylinders; joystick-like sliders change which spool valves open, making the arm segments raise, extend, and curl.\n\n13. **City Water Distribution Grid**\n    A 3D map of a small city with elevated reservoirs, pumps, mains, and valves shows water as blue particles traveling through pipes; closing a valve causes pressure waves, visible level drops in affected neighborhoods, and re-routing via alternate paths.\n\n14. **Mechanical Heart Assist Pump (LVAD)**\n    A transparent chest shows a mechanical rotary blood pump connected between ventricle and aorta with inflow and outflow grafts; valve states, pump speed, and particle-flow of blood visibly change under different assist levels.\n\n15. **Fountain with Timed Valve Choreography**\n    A plaza fountain with multiple tiers and jets uses an underground pump and a manifold of solenoid valves that open in patterns to create rotating arcs, pulsating jets, and alternating spray heights, with water trails and light mist particles.\n\n16. **Sewage Lift Station with Backflow Event**\n    A low-lying tank receives inflowing dirty water, and a pump with check valves sends it uphill; a simulated valve failure shows brownish fluid surging backward, overflowing into a side channel, with alarms and red flashing labels activating.\n\n17. **Metaphorical “Idea Pump” Network**\n    Abstract glowing spheres (ideas) are pumped through transparent tubes between brain-like nodes, with valves representing “filters” that open to let certain colored ideas pass while others bounce back and recirculate.\n\n18. **Cardiac Bypass Machine Circuit**\n    A surgical heart-lung machine layout shows blood drawn from a heart model into an external pump, oxygenator, and heat exchanger, moving through clamps and valves that open/close to switch between native heart and machine circulation.\n\n19. **Oil Pipeline Pigging Operation**\n    A long pipeline model with pump stations launches a cylindrical “pig” device that travels inside, pushed by pressurized fluid; side valves open to insert/remove the pig, while the device leaves a visual cleaning trail behind it.\n\n20. **Steam Plant Condensate Return System**\n    A boiler, turbine, condenser, and feedwater pumps are linked by pipes and control valves; animated steam condenses into droplets in transparent sections, and valve changes redirect condensate paths and affect turbine rotation speed.\n\n21. **Respiratory System with Airflow Valves**\n    A simplified ribcage and lungs show air as particles pumped in and out by diaphragm motion, with animated glottis and bronchial “valves” constricting, causing visible flow restriction and wheezing turbulence patterns.\n\n22. **Fuel Station Forecourt Pump Island**\n    Multiple car models pull up to fuel pumps where internal rotary pumps and automatic shutoff valves control colored fuel lines; transparent sections in hoses show flow, and valves click closed when tanks reach a set “level” line.\n\n23. **Pneumatic Tube Transport Network**\n    Capsules are pumped through a 3D lattice of transparent pneumatic tubes by pressure pulses from compressors and directional valves; capsules branch at junctions, bounce, or halt depending on valve states, leaving motion trails.\n\n24. **Plant Xylem and Phloem Pump Analogue**\n    A stylized plant stem with two transparent column systems (xylem, phloem) uses root and leaf “pumps” and microscopic valve-like pores that open and close, moving colored fluids upward and downward in response to environmental changes.\n\n25. **Emergency Fire Sprinkler Pump and Valve Tree**\n    A building floorplan with overhead pipes shows a central fire pump feeding a branching sprinkler network; heat-sensitive valves at each sprinkler head open when “flames” approach, causing water sprays that extinguish glowing fire particles."
+}

@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Conveyor belts",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:56:30",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Sorting Factory with Color-Coded Packages",
+      "description": "A network of intersecting conveyor belts carries colored boxes that merge, split, and get diverted by rotating push-arms into labeled bins, with collisions, jams, and glowing arrows showing flow direction on a light background.",
+      "seed": "Sorting Factory with Color-Coded Packages: A network of intersecting conveyor belts carries colored boxes that merge, split, and get diverted by rotating push-arms into labeled bins, with collisions, jams, and glowing arrows showing flow direction on a light background."
+    },
+    {
+      "number": "2",
+      "title": "Airport Luggage Carousel with Baggage Collisions",
+      "description": "A looping conveyor belt carries suitcases that can bump, rotate, stack, and be grabbed or dropped by a moving “passenger arm,” with labels on bags, occasional jams, and transparent rails guiding the motion.",
+      "seed": "Airport Luggage Carousel with Baggage Collisions: A looping conveyor belt carries suitcases that can bump, rotate, stack, and be grabbed or dropped by a moving “passenger arm,” with labels on bags, occasional jams, and transparent rails guiding the motion."
+    },
+    {
+      "number": "3",
+      "title": "Mining Ore Processing Line",
+      "description": "Rough rock chunks travel along multiple conveyor tiers that incline, decline, and cross over each other while magnets, shakers, and chutes separate metallic and non-metallic pieces, with dust particles and color-coded ore types.",
+      "seed": "Mining Ore Processing Line: Rough rock chunks travel along multiple conveyor tiers that incline, decline, and cross over each other while magnets, shakers, and chutes separate metallic and non-metallic pieces, with dust particles and color-coded ore types."
+    },
+    {
+      "number": "4",
+      "title": "Package Distribution Hub with Timed Gates",
+      "description": "A central belt feeds parcels onto branching belts with timed gate flaps that open and close, allowing boxes to transfer, queue, collide, and sometimes fall off into transparent collection bins with digital counters.",
+      "seed": "Package Distribution Hub with Timed Gates: A central belt feeds parcels onto branching belts with timed gate flaps that open and close, allowing boxes to transfer, queue, collide, and sometimes fall off into transparent collection bins with digital counters."
+    },
+    {
+      "number": "5",
+      "title": "Chocolate Factory Enrobing Line",
+      "description": "A conveyor carries bare candies under a transparent chocolate “curtain” where they get coated, then pass through a vibrating cooling belt, with chocolate flow particles, drips, and temperature labels above each section.",
+      "seed": "Chocolate Factory Enrobing Line: A conveyor carries bare candies under a transparent chocolate “curtain” where they get coated, then pass through a vibrating cooling belt, with chocolate flow particles, drips, and temperature labels above each section."
+    },
+    {
+      "number": "6",
+      "title": "Recycling Center Conveyor and Optical Sorters",
+      "description": "Mixed waste objects of different shapes and colors move on a wide belt under scanning bars that flash and trigger air jets, blowing items onto side conveyors, with transparent covers, labeled fractions, and floating text showing purity percentages.",
+      "seed": "Recycling Center Conveyor and Optical Sorters: Mixed waste objects of different shapes and colors move on a wide belt under scanning bars that flash and trigger air jets, blowing items onto side conveyors, with transparent covers, labeled fractions, and floating text showing purity percentages."
+    },
+    {
+      "number": "7",
+      "title": "Baggage Security Scanner Tunnel",
+      "description": "Luggage moves along a belt into a semi-transparent scanning tunnel where rotating detector rings pulse and highlight detected “contents” as ghosted shapes, with the belt stopping and reversing when suspicious items are flagged.",
+      "seed": "Baggage Security Scanner Tunnel: Luggage moves along a belt into a semi-transparent scanning tunnel where rotating detector rings pulse and highlight detected “contents” as ghosted shapes, with the belt stopping and reversing when suspicious items are flagged."
+    },
+    {
+      "number": "8",
+      "title": "Belt-Driven Assembly Line Robot Arms",
+      "description": "Components ride a conveyor past several robot arms that rotate, attach parts, tighten bolts, and occasionally drop or misalign pieces, leading to collisions, rework stations, and glowing markers indicating assembly status above each item.",
+      "seed": "Belt-Driven Assembly Line Robot Arms: Components ride a conveyor past several robot arms that rotate, attach parts, tighten bolts, and occasionally drop or misalign pieces, leading to collisions, rework stations, and glowing markers indicating assembly status above each item."
+    },
+    {
+      "number": "9",
+      "title": "Inclined Conveyor with Bulk Grain Spill",
+      "description": "Particles representing grain flow up an inclined belt with small paddles; some particles spill over the sides, accumulate in piles below, and slide or bounce, with transparent walls on sections and a fill-level meter.",
+      "seed": "Inclined Conveyor with Bulk Grain Spill: Particles representing grain flow up an inclined belt with small paddles; some particles spill over the sides, accumulate in piles below, and slide or bounce, with transparent walls on sections and a fill-level meter."
+    },
+    {
+      "number": "10",
+      "title": "Conveyor-Based Marble Sorting Maze",
+      "description": "Colored marbles ride on narrow belts that branch, intersect, and loop; flippers switch paths, marbles bounce off bumpers, drop through holes onto lower belts, and leave trails, with labels showing how many reach each exit.",
+      "seed": "Conveyor-Based Marble Sorting Maze: Colored marbles ride on narrow belts that branch, intersect, and loop; flippers switch paths, marbles bounce off bumpers, drop through holes onto lower belts, and leave trails, with labels showing how many reach each exit."
+    },
+    {
+      "number": "11",
+      "title": "Airport Jetway Baggage Loader",
+      "description": "A telescoping conveyor belt extends toward a plane cargo hold, raising and lowering while bags slide, bounce at the edges, and sometimes roll off onto the tarmac, with motion arrows and a progress meter for loaded luggage.",
+      "seed": "Airport Jetway Baggage Loader: A telescoping conveyor belt extends toward a plane cargo hold, raising and lowering while bags slide, bounce at the edges, and sometimes roll off onto the tarmac, with motion arrows and a progress meter for loaded luggage."
+    },
+    {
+      "number": "12",
+      "title": "Underground Mail Tube and Conveyor Hybrid",
+      "description": "Capsules exit a transparent tube, land on belts, accelerate, decelerate, and transfer to other belts via rotating platforms; some capsules detach from belts into vertical lifts, with glowing paths and labels for routes.",
+      "seed": "Underground Mail Tube and Conveyor Hybrid: Capsules exit a transparent tube, land on belts, accelerate, decelerate, and transfer to other belts via rotating platforms; some capsules detach from belts into vertical lifts, with glowing paths and labels for routes."
+    },
+    {
+      "number": "13",
+      "title": "Warehouse Order-Picking Carousel",
+      "description": "Multiple concentric circular conveyors rotate at different speeds, carrying boxes that workers (modeled as simple moving blocks) pull, place, and accidentally drop, with path trails, pick-rate counters, and color-coded order priorities.",
+      "seed": "Warehouse Order-Picking Carousel: Multiple concentric circular conveyors rotate at different speeds, carrying boxes that workers (modeled as simple moving blocks) pull, place, and accidentally drop, with path trails, pick-rate counters, and color-coded order priorities."
+    },
+    {
+      "number": "14",
+      "title": "Conveyor Belt Planetary Gear Demonstrator",
+      "description": "Belts act as moving tracks around which gear-shaped disks orbit, attach, and detach, transferring rotation from one gear cluster to another, with arrows showing torque direction and speed labels floating above gears.",
+      "seed": "Conveyor Belt Planetary Gear Demonstrator: Belts act as moving tracks around which gear-shaped disks orbit, attach, and detach, transferring rotation from one gear cluster to another, with arrows showing torque direction and speed labels floating above gears."
+    },
+    {
+      "number": "15",
+      "title": "Microscopic Protein Conveyor in a Cell",
+      "description": "A stylized “molecular conveyor” made of repeating protein subunits moves glowing cargo spheres along a membrane, where they attach, detach, and merge into vesicles that bud off and drift away in a transparent cytoplasmic volume.",
+      "seed": "Microscopic Protein Conveyor in a Cell: A stylized “molecular conveyor” made of repeating protein subunits moves glowing cargo spheres along a membrane, where they attach, detach, and merge into vesicles that bud off and drift away in a transparent cytoplasmic volume."
+    },
+    {
+      "number": "16",
+      "title": "Automated Sushi Conveyor Restaurant",
+      "description": "Plates of sushi glide around a looping conveyor through the restaurant, sometimes colliding or stacking; robotic “hands” remove plates, customers modeled as simple blocks add or return plates, and labels hover over each dish type.",
+      "seed": "Automated Sushi Conveyor Restaurant: Plates of sushi glide around a looping conveyor through the restaurant, sometimes colliding or stacking; robotic “hands” remove plates, customers modeled as simple blocks add or return plates, and labels hover over each dish type."
+    },
+    {
+      "number": "17",
+      "title": "Parcel Belt with Gravity Chutes and Spiral Drops",
+      "description": "A main conveyor runs above several spiral chutes; packages drop through openings, wrap around the spirals, bounce on impact, and land on lower belts, with transparent chutes and color gradients showing speed changes.",
+      "seed": "Parcel Belt with Gravity Chutes and Spiral Drops: A main conveyor runs above several spiral chutes; packages drop through openings, wrap around the spirals, bounce on impact, and land on lower belts, with transparent chutes and color gradients showing speed changes."
+    },
+    {
+      "number": "18",
+      "title": "Conveyor-Driven 3D Printer Farm",
+      "description": "A moving belt prints small objects layer by layer; once complete, a scraper detaches them, sliding them onto a second belt that carries them past a transparent inspection box where cameras (simple boxes) pulse and highlight defects.",
+      "seed": "Conveyor-Driven 3D Printer Farm: A moving belt prints small objects layer by layer; once complete, a scraper detaches them, sliding them onto a second belt that carries them past a transparent inspection box where cameras (simple boxes) pulse and highlight defects."
+    },
+    {
+      "number": "19",
+      "title": "Lava Rock Cooling Conveyor",
+      "description": "Glowing hot boulders spawn at one end of a belt, radiate heat that fades in color as they move under cooling fans and mist jets, occasionally cracking into smaller pieces that bounce and scatter into side collection trays.",
+      "seed": "Lava Rock Cooling Conveyor: Glowing hot boulders spawn at one end of a belt, radiate heat that fades in color as they move under cooling fans and mist jets, occasionally cracking into smaller pieces that bounce and scatter into side collection trays."
+    },
+    {
+      "number": "20",
+      "title": "Reconfigurable Belt Maze for Spheres",
+      "description": "Several straight and curved conveyor segments rotate and slide to reconfigure a maze in real time, while spheres ride the belts, transfer across gaps, fall, bounce, and occasionally get trapped, with highlight colors for active paths.",
+      "seed": "Reconfigurable Belt Maze for Spheres: Several straight and curved conveyor segments rotate and slide to reconfigure a maze in real time, while spheres ride the belts, transfer across gaps, fall, bounce, and occasionally get trapped, with highlight colors for active paths."
+    },
+    {
+      "number": "21",
+      "title": "Up-and-Over Conveyor Bridge",
+      "description": "A conveyor climbs, arches over a gap, and descends on the other side; objects can fall during the arc if they’re too fast or too tall, with wind-like forces nudging them sideways and transparent side-guards that can be raised or lowered.",
+      "seed": "Up-and-Over Conveyor Bridge: A conveyor climbs, arches over a gap, and descends on the other side; objects can fall during the arc if they’re too fast or too tall, with wind-like forces nudging them sideways and transparent side-guards that can be raised or lowered."
+    },
+    {
+      "number": "22",
+      "title": "Robotic Palletizer with Infeed Conveyors",
+      "description": "Boxes arrive on two perpendicular belts and queue before a robot that grabs, rotates, and stacks them onto pallets on a third belt, with collision detection, mis-stack corrections, and floating labels for layer and pallet counts.",
+      "seed": "Robotic Palletizer with Infeed Conveyors: Boxes arrive on two perpendicular belts and queue before a robot that grabs, rotates, and stacks them onto pallets on a third belt, with collision detection, mis-stack corrections, and floating labels for layer and pallet counts."
+    },
+    {
+      "number": "23",
+      "title": "Belt-Driven Sand Art Machine",
+      "description": "A narrow belt carries colored sand streams that fall from moving nozzles onto a transparent plate below; as the belt moves, patterns form and slide, with particles mixing, layering, and spilling off the edges into collection trays.",
+      "seed": "Belt-Driven Sand Art Machine: A narrow belt carries colored sand streams that fall from moving nozzles onto a transparent plate below; as the belt moves, patterns form and slide, with particles mixing, layering, and spilling off the edges into collection trays."
+    },
+    {
+      "number": "24",
+      "title": "Space Station Cargo Ring with Magnetized Belts",
+      "description": "In microgravity, magnetized belts around a circular station pull metal cargo crates along the ring; crates detach, float, and reattach to other belts, with faint trails, glowing magnetic fields, and labels for velocity and docking status.",
+      "seed": "Space Station Cargo Ring with Magnetized Belts: In microgravity, magnetized belts around a circular station pull metal cargo crates along the ring; crates detach, float, and reattach to other belts, with faint trails, glowing magnetic fields, and labels for velocity and docking status."
+    },
+    {
+      "number": "25",
+      "title": "Symbolic “Thought Conveyor” Diagram",
+      "description": "Abstract glowing idea-spheres ride along segmented belts between labeled “stations” like Input, Filter, Memory, and Decision; ideas can merge, split, fade, or bounce back, with color shifts showing their state and transparent panels around each station.",
+      "seed": "Symbolic “Thought Conveyor” Diagram: Abstract glowing idea-spheres ride along segmented belts between labeled “stations” like Input, Filter, Memory, and Decision; ideas can merge, split, fade, or bounce back, with color shifts showing their state and transparent panels around each station."
+    }
+  ],
+  "raw_output": "Here are strong **Conveyor belts simulation inputs** you can plug into your prompt:\n\n1. **Sorting Factory with Color-Coded Packages**\n   A network of intersecting conveyor belts carries colored boxes that merge, split, and get diverted by rotating push-arms into labeled bins, with collisions, jams, and glowing arrows showing flow direction on a light background.\n\n2. **Airport Luggage Carousel with Baggage Collisions**\n   A looping conveyor belt carries suitcases that can bump, rotate, stack, and be grabbed or dropped by a moving “passenger arm,” with labels on bags, occasional jams, and transparent rails guiding the motion.\n\n3. **Mining Ore Processing Line**\n   Rough rock chunks travel along multiple conveyor tiers that incline, decline, and cross over each other while magnets, shakers, and chutes separate metallic and non-metallic pieces, with dust particles and color-coded ore types.\n\n4. **Package Distribution Hub with Timed Gates**\n   A central belt feeds parcels onto branching belts with timed gate flaps that open and close, allowing boxes to transfer, queue, collide, and sometimes fall off into transparent collection bins with digital counters.\n\n5. **Chocolate Factory Enrobing Line**\n   A conveyor carries bare candies under a transparent chocolate “curtain” where they get coated, then pass through a vibrating cooling belt, with chocolate flow particles, drips, and temperature labels above each section.\n\n6. **Recycling Center Conveyor and Optical Sorters**\n   Mixed waste objects of different shapes and colors move on a wide belt under scanning bars that flash and trigger air jets, blowing items onto side conveyors, with transparent covers, labeled fractions, and floating text showing purity percentages.\n\n7. **Baggage Security Scanner Tunnel**\n   Luggage moves along a belt into a semi-transparent scanning tunnel where rotating detector rings pulse and highlight detected “contents” as ghosted shapes, with the belt stopping and reversing when suspicious items are flagged.\n\n8. **Belt-Driven Assembly Line Robot Arms**\n   Components ride a conveyor past several robot arms that rotate, attach parts, tighten bolts, and occasionally drop or misalign pieces, leading to collisions, rework stations, and glowing markers indicating assembly status above each item.\n\n9. **Inclined Conveyor with Bulk Grain Spill**\n   Particles representing grain flow up an inclined belt with small paddles; some particles spill over the sides, accumulate in piles below, and slide or bounce, with transparent walls on sections and a fill-level meter.\n\n10. **Conveyor-Based Marble Sorting Maze**\n    Colored marbles ride on narrow belts that branch, intersect, and loop; flippers switch paths, marbles bounce off bumpers, drop through holes onto lower belts, and leave trails, with labels showing how many reach each exit.\n\n11. **Airport Jetway Baggage Loader**\n    A telescoping conveyor belt extends toward a plane cargo hold, raising and lowering while bags slide, bounce at the edges, and sometimes roll off onto the tarmac, with motion arrows and a progress meter for loaded luggage.\n\n12. **Underground Mail Tube and Conveyor Hybrid**\n    Capsules exit a transparent tube, land on belts, accelerate, decelerate, and transfer to other belts via rotating platforms; some capsules detach from belts into vertical lifts, with glowing paths and labels for routes.\n\n13. **Warehouse Order-Picking Carousel**\n    Multiple concentric circular conveyors rotate at different speeds, carrying boxes that workers (modeled as simple moving blocks) pull, place, and accidentally drop, with path trails, pick-rate counters, and color-coded order priorities.\n\n14. **Conveyor Belt Planetary Gear Demonstrator**\n    Belts act as moving tracks around which gear-shaped disks orbit, attach, and detach, transferring rotation from one gear cluster to another, with arrows showing torque direction and speed labels floating above gears.\n\n15. **Microscopic Protein Conveyor in a Cell**\n    A stylized “molecular conveyor” made of repeating protein subunits moves glowing cargo spheres along a membrane, where they attach, detach, and merge into vesicles that bud off and drift away in a transparent cytoplasmic volume.\n\n16. **Automated Sushi Conveyor Restaurant**\n    Plates of sushi glide around a looping conveyor through the restaurant, sometimes colliding or stacking; robotic “hands” remove plates, customers modeled as simple blocks add or return plates, and labels hover over each dish type.\n\n17. **Parcel Belt with Gravity Chutes and Spiral Drops**\n    A main conveyor runs above several spiral chutes; packages drop through openings, wrap around the spirals, bounce on impact, and land on lower belts, with transparent chutes and color gradients showing speed changes.\n\n18. **Conveyor-Driven 3D Printer Farm**\n    A moving belt prints small objects layer by layer; once complete, a scraper detaches them, sliding them onto a second belt that carries them past a transparent inspection box where cameras (simple boxes) pulse and highlight defects.\n\n19. **Lava Rock Cooling Conveyor**\n    Glowing hot boulders spawn at one end of a belt, radiate heat that fades in color as they move under cooling fans and mist jets, occasionally cracking into smaller pieces that bounce and scatter into side collection trays.\n\n20. **Reconfigurable Belt Maze for Spheres**\n    Several straight and curved conveyor segments rotate and slide to reconfigure a maze in real time, while spheres ride the belts, transfer across gaps, fall, bounce, and occasionally get trapped, with highlight colors for active paths.\n\n21. **Up-and-Over Conveyor Bridge**\n    A conveyor climbs, arches over a gap, and descends on the other side; objects can fall during the arc if they’re too fast or too tall, with wind-like forces nudging them sideways and transparent side-guards that can be raised or lowered.\n\n22. **Robotic Palletizer with Infeed Conveyors**\n    Boxes arrive on two perpendicular belts and queue before a robot that grabs, rotates, and stacks them onto pallets on a third belt, with collision detection, mis-stack corrections, and floating labels for layer and pallet counts.\n\n23. **Belt-Driven Sand Art Machine**\n    A narrow belt carries colored sand streams that fall from moving nozzles onto a transparent plate below; as the belt moves, patterns form and slide, with particles mixing, layering, and spilling off the edges into collection trays.\n\n24. **Space Station Cargo Ring with Magnetized Belts**\n    In microgravity, magnetized belts around a circular station pull metal cargo crates along the ring; crates detach, float, and reattach to other belts, with faint trails, glowing magnetic fields, and labels for velocity and docking status.\n\n25. **Symbolic “Thought Conveyor” Diagram**\n    Abstract glowing idea-spheres ride along segmented belts between labeled “stations” like Input, Filter, Memory, and Decision; ideas can merge, split, fade, or bounce back, with color shifts showing their state and transparent panels around each station."
+}

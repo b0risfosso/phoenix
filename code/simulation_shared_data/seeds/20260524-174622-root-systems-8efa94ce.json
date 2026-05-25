@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Root systems",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:46:22",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Growing Tree Root Network in Soil Layers",
+      "description": "A central tree trunk spawns branching roots that slowly grow, split, and curve through semi-transparent colored soil layers, avoiding dense rock spheres and wrapping around nutrient pellets that glow and transfer color along the root network.",
+      "seed": "Growing Tree Root Network in Soil Layers: A central tree trunk spawns branching roots that slowly grow, split, and curve through semi-transparent colored soil layers, avoiding dense rock spheres and wrapping around nutrient pellets that glow and transfer color along the root network."
+    },
+    {
+      "number": "2",
+      "title": "Competing Root Systems in a Shared Planter Box",
+      "description": "Several plants at the surface send color-coded root systems downward into a transparent rectangular soil volume, where roots collide, redirect, and compete for scattered water droplets and nutrient nodes that shrink as they are absorbed.",
+      "seed": "Competing Root Systems in a Shared Planter Box: Several plants at the surface send color-coded root systems downward into a transparent rectangular soil volume, where roots collide, redirect, and compete for scattered water droplets and nutrient nodes that shrink as they are absorbed."
+    },
+    {
+      "number": "3",
+      "title": "Mycorrhizal Root-Fungus Web",
+      "description": "Thick plant roots extend and branch while semi-transparent filament networks (fungal hyphae) grow outward from them, attaching to multiple roots, transferring glowing nutrient particles along the filaments, and showing direction with moving particles and labels.",
+      "seed": "Mycorrhizal Root-Fungus Web: Thick plant roots extend and branch while semi-transparent filament networks (fungal hyphae) grow outward from them, attaching to multiple roots, transferring glowing nutrient particles along the filaments, and showing direction with moving particles and labels."
+    },
+    {
+      "number": "4",
+      "title": "Eroding Soil and Exposed Roots on a Hillside",
+      "description": "A sloped terrain block slowly loses semi-transparent soil particles that slide downward, gradually revealing a tangled root system that flexes, detaches from falling soil chunks, and sometimes breaks when unsupported sections sag.",
+      "seed": "Eroding Soil and Exposed Roots on a Hillside: A sloped terrain block slowly loses semi-transparent soil particles that slide downward, gradually revealing a tangled root system that flexes, detaches from falling soil chunks, and sometimes breaks when unsupported sections sag."
+    },
+    {
+      "number": "5",
+      "title": "Hydraulic Redistribution in a Root System",
+      "description": "A single plant with deep and shallow roots sits in a 3D soil column where blue water particles are absorbed by deep roots at night and then move upward and outward along root segments, with flow rates shown by particle speed and thickness of glowing blue tubes.",
+      "seed": "Hydraulic Redistribution in a Root System: A single plant with deep and shallow roots sits in a 3D soil column where blue water particles are absorbed by deep roots at night and then move upward and outward along root segments, with flow rates shown by particle speed and thickness of glowing blue tubes."
+    },
+    {
+      "number": "6",
+      "title": "Root Tips Searching for Water Pockets",
+      "description": "Multiple root tips, modeled as small rounded cones, grow and steer through a 3D soil matrix toward moving water bubbles that drift and merge, with each tip changing direction when it senses nearby water and leaving faint trails of its path.",
+      "seed": "Root Tips Searching for Water Pockets: Multiple root tips, modeled as small rounded cones, grow and steer through a 3D soil matrix toward moving water bubbles that drift and merge, with each tip changing direction when it senses nearby water and leaving faint trails of its path."
+    },
+    {
+      "number": "7",
+      "title": "Root System Under Mechanical Load (Wind Stress)",
+      "description": "A stylized tree trunk at the top oscillates under simulated wind, transmitting motion into a 3D root network embedded in translucent soil, where roots bend, stretch, and occasionally detach from soil planes, with stress visualized as changing color along root segments.",
+      "seed": "Root System Under Mechanical Load (Wind Stress): A stylized tree trunk at the top oscillates under simulated wind, transmitting motion into a 3D root network embedded in translucent soil, where roots bend, stretch, and occasionally detach from soil planes, with stress visualized as changing color along root segments."
+    },
+    {
+      "number": "8",
+      "title": "Root System Nutrient Mapping and Color Waves",
+      "description": "A dense root network fills a cubic volume, and when a nutrient pulse enters at one root segment, a colored wave of light propagates through the connected segments, fading as it reaches the tips, while a side meter tracks overall nutrient distribution.",
+      "seed": "Root System Nutrient Mapping and Color Waves: A dense root network fills a cubic volume, and when a nutrient pulse enters at one root segment, a colored wave of light propagates through the connected segments, fading as it reaches the tips, while a side meter tracks overall nutrient distribution."
+    },
+    {
+      "number": "9",
+      "title": "Root Grafting and Fusion Between Neighboring Trees",
+      "description": "Two or three nearby tree trunks grow separate root systems underground that occasionally collide; when roots touch, they may fuse into shared segments that change color to a blend of the connecting trees and then transfer glowing particles between trunks.",
+      "seed": "Root Grafting and Fusion Between Neighboring Trees: Two or three nearby tree trunks grow separate root systems underground that occasionally collide; when roots touch, they may fuse into shared segments that change color to a blend of the connecting trees and then transfer glowing particles between trunks."
+    },
+    {
+      "number": "10",
+      "title": "Root Systems vs. Obstacles in Urban Soil",
+      "description": "Roots from a sidewalk tree spread underground around rigid geometric obstacles like pipes and concrete blocks, wrapping around cylinders, flattening against planes, and sometimes cracking weaker “cement” blocks that fracture into pieces and slide.",
+      "seed": "Root Systems vs. Obstacles in Urban Soil: Roots from a sidewalk tree spread underground around rigid geometric obstacles like pipes and concrete blocks, wrapping around cylinders, flattening against planes, and sometimes cracking weaker “cement” blocks that fracture into pieces and slide."
+    },
+    {
+      "number": "11",
+      "title": "Salt Stress on Root Growth in a 3D Gradient",
+      "description": "A single root system grows into a soil cube where salt concentration increases along one axis, shown by a color gradient; roots grow fast and straight in low-salt regions but slow, twist, and branch less in high-salt zones, with root segments changing color to indicate stress.",
+      "seed": "Salt Stress on Root Growth in a 3D Gradient: A single root system grows into a soil cube where salt concentration increases along one axis, shown by a color gradient; roots grow fast and straight in low-salt regions but slow, twist, and branch less in high-salt zones, with root segments changing color to indicate stress."
+    },
+    {
+      "number": "12",
+      "title": "Time-Lapse of Multiple Seasons of Root Growth and Decay",
+      "description": "The same underground volume cycles through seasons: roots grow and branch in spring, thicken in summer, some segments darken and dissolve in autumn, and many fine roots disappear in winter, leaving faint “ghost” trails of previous years’ structures.",
+      "seed": "Time-Lapse of Multiple Seasons of Root Growth and Decay: The same underground volume cycles through seasons: roots grow and branch in spring, thicken in summer, some segments darken and dissolve in autumn, and many fine roots disappear in winter, leaving faint “ghost” trails of previous years’ structures."
+    },
+    {
+      "number": "13",
+      "title": "Root Hair Expansion Around a Main Root Axis",
+      "description": "A single main root cylinder moves downward while thousands of tiny root hairs sprout, extend, and retract radially, attaching to nutrient particles and drawing them inward, changing both the particles’ color and the parent root segment’s brightness.",
+      "seed": "Root Hair Expansion Around a Main Root Axis: A single main root cylinder moves downward while thousands of tiny root hairs sprout, extend, and retract radially, attaching to nutrient particles and drawing them inward, changing both the particles’ color and the parent root segment’s brightness."
+    },
+    {
+      "number": "14",
+      "title": "Hydroponic Root Systems in Flowing Nutrient Solution",
+      "description": "Several plant stems sit above a clear rectangular tank where white roots dangle into a slowly flowing blue solution; the roots sway with the flow, absorb colored nutrient particles drifting by, and gradually change color as they become saturated.",
+      "seed": "Hydroponic Root Systems in Flowing Nutrient Solution: Several plant stems sit above a clear rectangular tank where white roots dangle into a slowly flowing blue solution; the roots sway with the flow, absorb colored nutrient particles drifting by, and gradually change color as they become saturated."
+    },
+    {
+      "number": "15",
+      "title": "Root System Response to Localized Fertilizer Injection",
+      "description": "A soil block contains a few concentrated fertilizer spheres that dissolve into glowing particles; roots that are nearby accelerate growth toward the dissolving spheres, wrapping around them and turning more vivid in color as they absorb the nutrients.",
+      "seed": "Root System Response to Localized Fertilizer Injection: A soil block contains a few concentrated fertilizer spheres that dissolve into glowing particles; roots that are nearby accelerate growth toward the dissolving spheres, wrapping around them and turning more vivid in color as they absorb the nutrients."
+    },
+    {
+      "number": "16",
+      "title": "Invasive vs. Native Root Systems Spreading Over Time",
+      "description": "Two color-coded plant species start on opposite sides of a soil volume and expand root systems that branch and spread; the invasive roots grow faster, sometimes pushing or redirecting native roots on collision, with an upper bar chart showing occupied soil volume over time.",
+      "seed": "Invasive vs. Native Root Systems Spreading Over Time: Two color-coded plant species start on opposite sides of a soil volume and expand root systems that branch and spread; the invasive roots grow faster, sometimes pushing or redirecting native roots on collision, with an upper bar chart showing occupied soil volume over time."
+    },
+    {
+      "number": "17",
+      "title": "Root Systems Stabilizing a Crumbling Cliff Face",
+      "description": "A vertical soil wall gradually releases blocks that crumble and fall; plant roots anchored at the top extend downward and laterally, attaching to soil blocks and reducing their motion, while unrooted regions crumble faster, illustrating stabilization visually.",
+      "seed": "Root Systems Stabilizing a Crumbling Cliff Face: A vertical soil wall gradually releases blocks that crumble and fall; plant roots anchored at the top extend downward and laterally, attaching to soil blocks and reducing their motion, while unrooted regions crumble faster, illustrating stabilization visually."
+    },
+    {
+      "number": "18",
+      "title": "Root System as a Data Network Visualization",
+      "description": "A metaphorical “data tree” has a trunk node at the top sending data packets (glowing spheres) down branching root-like cables into a 3D space, where packets split, merge, queue at nodes, and sometimes get rerouted along alternate root branches when congestion is detected.",
+      "seed": "Root System as a Data Network Visualization: A metaphorical “data tree” has a trunk node at the top sending data packets (glowing spheres) down branching root-like cables into a 3D space, where packets split, merge, queue at nodes, and sometimes get rerouted along alternate root branches when congestion is detected."
+    },
+    {
+      "number": "19",
+      "title": "Root Systems in a Flooded Environment",
+      "description": "A partially submerged soil volume contains roots that extend both in soil and into water; water level rises and falls, roots in water develop thicker, lighter-colored segments, and air bubbles get trapped and then released along submerged root surfaces.",
+      "seed": "Root Systems in a Flooded Environment: A partially submerged soil volume contains roots that extend both in soil and into water; water level rises and falls, roots in water develop thicker, lighter-colored segments, and air bubbles get trapped and then released along submerged root surfaces."
+    },
+    {
+      "number": "20",
+      "title": "Root System Oxygen Depletion and Ventilation",
+      "description": "A dense root network in saturated soil consumes oxygen, with local oxygen concentration shown as a shifting color fog; roots in low-oxygen zones slow their growth and send new branches toward air pockets or ventilation tubes that slowly inject fresh “air” particles.",
+      "seed": "Root System Oxygen Depletion and Ventilation: A dense root network in saturated soil consumes oxygen, with local oxygen concentration shown as a shifting color fog; roots in low-oxygen zones slow their growth and send new branches toward air pockets or ventilation tubes that slowly inject fresh “air” particles."
+    },
+    {
+      "number": "21",
+      "title": "Root Systems Interacting with Burrowing Animals",
+      "description": "Small burrowing agents (worms or rodents) tunnel through a soil block, leaving cylindrical voids and moving soil particles; roots encountering tunnels may dangle into them, bridge across gaps, or redirect along the walls, with broken root tips falling and lying stationary in the tunnels.",
+      "seed": "Root Systems Interacting with Burrowing Animals: Small burrowing agents (worms or rodents) tunnel through a soil block, leaving cylindrical voids and moving soil particles; roots encountering tunnels may dangle into them, bridge across gaps, or redirect along the walls, with broken root tips falling and lying stationary in the tunnels."
+    },
+    {
+      "number": "22",
+      "title": "Root System Carbon Flow to Soil Microbes",
+      "description": "Root segments exude carbon compounds, visualized as small glowing particles that move outward and are absorbed by clustered microbial spheres; microbial clusters grow, split, and sometimes move slightly closer to active roots, while root segments darken as they release carbon.",
+      "seed": "Root System Carbon Flow to Soil Microbes: Root segments exude carbon compounds, visualized as small glowing particles that move outward and are absorbed by clustered microbial spheres; microbial clusters grow, split, and sometimes move slightly closer to active roots, while root segments darken as they release carbon."
+    },
+    {
+      "number": "23",
+      "title": "Root Systems Intertwining Around Rocks and Boulders",
+      "description": "Several roots grow downward through a rocky 3D field, wrapping tightly around large rock spheres and threading through gaps between irregular polyhedral stones, with roots thickening and changing texture where they successfully anchor on rock surfaces.",
+      "seed": "Root Systems Intertwining Around Rocks and Boulders: Several roots grow downward through a rocky 3D field, wrapping tightly around large rock spheres and threading through gaps between irregular polyhedral stones, with roots thickening and changing texture where they successfully anchor on rock surfaces."
+    },
+    {
+      "number": "24",
+      "title": "Symmetric vs. Asymmetric Root Architecture Under Tilted Light",
+      "description": "A plant stem is illuminated from one side by a moving light source above; as shoot direction changes, the underground root system dynamically rebalances, growing more branches on the opposite side, with root lengths and branching angles displayed as live labels.",
+      "seed": "Symmetric vs. Asymmetric Root Architecture Under Tilted Light: A plant stem is illuminated from one side by a moving light source above; as shoot direction changes, the underground root system dynamically rebalances, growing more branches on the opposite side, with root lengths and branching angles displayed as live labels."
+    },
+    {
+      "number": "25",
+      "title": "Root Systems in a Layered Agroforestry System",
+      "description": "Multiple plant species (grasses, shrubs, trees) share a 3D soil block, each with distinctive root architecture: fine shallow mats, medium-depth fans, and deep taproots; roots mix, overlap, and occasionally attach via grafts, while colored particles track water and nitrogen flow between layers.",
+      "seed": "Root Systems in a Layered Agroforestry System: Multiple plant species (grasses, shrubs, trees) share a 3D soil block, each with distinctive root architecture: fine shallow mats, medium-depth fans, and deep taproots; roots mix, overlap, and occasionally attach via grafts, while colored particles track water and nitrogen flow between layers."
+    }
+  ],
+  "raw_output": "Here are strong **Root systems simulation inputs** you can plug into your prompt:\n\n1. **Growing Tree Root Network in Soil Layers**  \n   A central tree trunk spawns branching roots that slowly grow, split, and curve through semi-transparent colored soil layers, avoiding dense rock spheres and wrapping around nutrient pellets that glow and transfer color along the root network.\n\n2. **Competing Root Systems in a Shared Planter Box**  \n   Several plants at the surface send color-coded root systems downward into a transparent rectangular soil volume, where roots collide, redirect, and compete for scattered water droplets and nutrient nodes that shrink as they are absorbed.\n\n3. **Mycorrhizal Root-Fungus Web**  \n   Thick plant roots extend and branch while semi-transparent filament networks (fungal hyphae) grow outward from them, attaching to multiple roots, transferring glowing nutrient particles along the filaments, and showing direction with moving particles and labels.\n\n4. **Eroding Soil and Exposed Roots on a Hillside**  \n   A sloped terrain block slowly loses semi-transparent soil particles that slide downward, gradually revealing a tangled root system that flexes, detaches from falling soil chunks, and sometimes breaks when unsupported sections sag.\n\n5. **Hydraulic Redistribution in a Root System**  \n   A single plant with deep and shallow roots sits in a 3D soil column where blue water particles are absorbed by deep roots at night and then move upward and outward along root segments, with flow rates shown by particle speed and thickness of glowing blue tubes.\n\n6. **Root Tips Searching for Water Pockets**  \n   Multiple root tips, modeled as small rounded cones, grow and steer through a 3D soil matrix toward moving water bubbles that drift and merge, with each tip changing direction when it senses nearby water and leaving faint trails of its path.\n\n7. **Root System Under Mechanical Load (Wind Stress)**  \n   A stylized tree trunk at the top oscillates under simulated wind, transmitting motion into a 3D root network embedded in translucent soil, where roots bend, stretch, and occasionally detach from soil planes, with stress visualized as changing color along root segments.\n\n8. **Root System Nutrient Mapping and Color Waves**  \n   A dense root network fills a cubic volume, and when a nutrient pulse enters at one root segment, a colored wave of light propagates through the connected segments, fading as it reaches the tips, while a side meter tracks overall nutrient distribution.\n\n9. **Root Grafting and Fusion Between Neighboring Trees**  \n   Two or three nearby tree trunks grow separate root systems underground that occasionally collide; when roots touch, they may fuse into shared segments that change color to a blend of the connecting trees and then transfer glowing particles between trunks.\n\n10. **Root Systems vs. Obstacles in Urban Soil**  \n   Roots from a sidewalk tree spread underground around rigid geometric obstacles like pipes and concrete blocks, wrapping around cylinders, flattening against planes, and sometimes cracking weaker “cement” blocks that fracture into pieces and slide.\n\n11. **Salt Stress on Root Growth in a 3D Gradient**  \n   A single root system grows into a soil cube where salt concentration increases along one axis, shown by a color gradient; roots grow fast and straight in low-salt regions but slow, twist, and branch less in high-salt zones, with root segments changing color to indicate stress.\n\n12. **Time-Lapse of Multiple Seasons of Root Growth and Decay**  \n   The same underground volume cycles through seasons: roots grow and branch in spring, thicken in summer, some segments darken and dissolve in autumn, and many fine roots disappear in winter, leaving faint “ghost” trails of previous years’ structures.\n\n13. **Root Hair Expansion Around a Main Root Axis**  \n   A single main root cylinder moves downward while thousands of tiny root hairs sprout, extend, and retract radially, attaching to nutrient particles and drawing them inward, changing both the particles’ color and the parent root segment’s brightness.\n\n14. **Hydroponic Root Systems in Flowing Nutrient Solution**  \n   Several plant stems sit above a clear rectangular tank where white roots dangle into a slowly flowing blue solution; the roots sway with the flow, absorb colored nutrient particles drifting by, and gradually change color as they become saturated.\n\n15. **Root System Response to Localized Fertilizer Injection**  \n   A soil block contains a few concentrated fertilizer spheres that dissolve into glowing particles; roots that are nearby accelerate growth toward the dissolving spheres, wrapping around them and turning more vivid in color as they absorb the nutrients.\n\n16. **Invasive vs. Native Root Systems Spreading Over Time**  \n   Two color-coded plant species start on opposite sides of a soil volume and expand root systems that branch and spread; the invasive roots grow faster, sometimes pushing or redirecting native roots on collision, with an upper bar chart showing occupied soil volume over time.\n\n17. **Root Systems Stabilizing a Crumbling Cliff Face**  \n   A vertical soil wall gradually releases blocks that crumble and fall; plant roots anchored at the top extend downward and laterally, attaching to soil blocks and reducing their motion, while unrooted regions crumble faster, illustrating stabilization visually.\n\n18. **Root System as a Data Network Visualization**  \n   A metaphorical “data tree” has a trunk node at the top sending data packets (glowing spheres) down branching root-like cables into a 3D space, where packets split, merge, queue at nodes, and sometimes get rerouted along alternate root branches when congestion is detected.\n\n19. **Root Systems in a Flooded Environment**  \n   A partially submerged soil volume contains roots that extend both in soil and into water; water level rises and falls, roots in water develop thicker, lighter-colored segments, and air bubbles get trapped and then released along submerged root surfaces.\n\n20. **Root System Oxygen Depletion and Ventilation**  \n   A dense root network in saturated soil consumes oxygen, with local oxygen concentration shown as a shifting color fog; roots in low-oxygen zones slow their growth and send new branches toward air pockets or ventilation tubes that slowly inject fresh “air” particles.\n\n21. **Root Systems Interacting with Burrowing Animals**  \n   Small burrowing agents (worms or rodents) tunnel through a soil block, leaving cylindrical voids and moving soil particles; roots encountering tunnels may dangle into them, bridge across gaps, or redirect along the walls, with broken root tips falling and lying stationary in the tunnels.\n\n22. **Root System Carbon Flow to Soil Microbes**  \n   Root segments exude carbon compounds, visualized as small glowing particles that move outward and are absorbed by clustered microbial spheres; microbial clusters grow, split, and sometimes move slightly closer to active roots, while root segments darken as they release carbon.\n\n23. **Root Systems Intertwining Around Rocks and Boulders**  \n   Several roots grow downward through a rocky 3D field, wrapping tightly around large rock spheres and threading through gaps between irregular polyhedral stones, with roots thickening and changing texture where they successfully anchor on rock surfaces.\n\n24. **Symmetric vs. Asymmetric Root Architecture Under Tilted Light**  \n   A plant stem is illuminated from one side by a moving light source above; as shoot direction changes, the underground root system dynamically rebalances, growing more branches on the opposite side, with root lengths and branching angles displayed as live labels.\n\n25. **Root Systems in a Layered Agroforestry System**  \n   Multiple plant species (grasses, shrubs, trees) share a 3D soil block, each with distinctive root architecture: fine shallow mats, medium-depth fans, and deep taproots; roots mix, overlap, and occasionally attach via grafts, while colored particles track water and nitrogen flow between layers."
+}

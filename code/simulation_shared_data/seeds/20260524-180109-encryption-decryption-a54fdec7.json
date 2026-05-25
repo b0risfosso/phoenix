@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Encryption/decryption",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:01:09",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Lock-and-key data vault",
+      "description": "A stream of small colored data-spheres flows toward a transparent cube “vault,” where rotating key-shaped rods must align and attach to unlock the cube so spheres can enter encrypted (color-shifted) and later exit decrypted (color-restored), with trails showing their paths.",
+      "seed": "Lock-and-key data vault: A stream of small colored data-spheres flows toward a transparent cube “vault,” where rotating key-shaped rods must align and attach to unlock the cube so spheres can enter encrypted (color-shifted) and later exit decrypted (color-restored), with trails showing their paths."
+    },
+    {
+      "number": "2",
+      "title": "Rotating cipher wheel machine",
+      "description": "Multiple stacked rotating rings covered in labeled letters spin at different speeds around a central axis, with glowing letter-spheres entering on one side, snapping to ring labels, shifting positions as rings rotate, then exiting with different letters and colors to show encryption and decryption.",
+      "seed": "Rotating cipher wheel machine: Multiple stacked rotating rings covered in labeled letters spin at different speeds around a central axis, with glowing letter-spheres entering on one side, snapping to ring labels, shifting positions as rings rotate, then exiting with different letters and colors to show encryption and decryption."
+    },
+    {
+      "number": "3",
+      "title": "Public–private key handshake",
+      "description": "Two distant towers (clients) on a plane exchange small glowing packets that arc between them; public keys are tall, semi-transparent rods that broadcast spinning rings, while private keys are short, solid rods inside each tower, with packets changing color and label as they encrypt, travel, and decrypt.",
+      "seed": "Public–private key handshake: Two distant towers (clients) on a plane exchange small glowing packets that arc between them; public keys are tall, semi-transparent rods that broadcast spinning rings, while private keys are short, solid rods inside each tower, with packets changing color and label as they encrypt, travel, and decrypt."
+    },
+    {
+      "number": "4",
+      "title": "Block cipher conveyor belt",
+      "description": "Flat rectangular “blocks” of bits (small cubes) ride along a conveyor, periodically passing under vertical pistons that compress, shuffle, and recolor them in fixed patterns to represent rounds of encryption, then moving to a mirrored conveyor that reverses the transformations for decryption.",
+      "seed": "Block cipher conveyor belt: Flat rectangular “blocks” of bits (small cubes) ride along a conveyor, periodically passing under vertical pistons that compress, shuffle, and recolor them in fixed patterns to represent rounds of encryption, then moving to a mirrored conveyor that reverses the transformations for decryption."
+    },
+    {
+      "number": "5",
+      "title": "3D substitution maze",
+      "description": "Letter-spheres enter a transparent 3D maze of tubes and junctions where color-coded gates rotate to reroute them according to a key, forming a scrambled path; a mirrored maze on the other side rearranges the routes back to restore original letters, with thin trails left in the tubes.",
+      "seed": "3D substitution maze: Letter-spheres enter a transparent 3D maze of tubes and junctions where color-coded gates rotate to reroute them according to a key, forming a scrambled path; a mirrored maze on the other side rearranges the routes back to restore original letters, with thin trails left in the tubes."
+    },
+    {
+      "number": "6",
+      "title": "Quantum-style encryption orbs",
+      "description": "Semi-transparent spheres containing spinning arrows (qubits) float between two platforms; each orb passes through rotating polarizer plates that tilt, split, and recolor the arrows to encode bits, then through a matching set of plates that attempt to decode them, with incorrect orientations causing orbs to flicker or dissolve.",
+      "seed": "Quantum-style encryption orbs: Semi-transparent spheres containing spinning arrows (qubits) float between two platforms; each orb passes through rotating polarizer plates that tilt, split, and recolor the arrows to encode bits, then through a matching set of plates that attempt to decode them, with incorrect orientations causing orbs to flicker or dissolve."
+    },
+    {
+      "number": "7",
+      "title": "Password lockbox with brute-force attacks",
+      "description": "A locked central chest (cube) with a numeric ring around it sits in the scene while swarms of tiny “guess” particles repeatedly collide with the lock; wrong guesses bounce away and fade, while the correct key alignment causes the chest to open, emitting encrypted cubes that then get decrypted by a nearby device.",
+      "seed": "Password lockbox with brute-force attacks: A locked central chest (cube) with a numeric ring around it sits in the scene while swarms of tiny “guess” particles repeatedly collide with the lock; wrong guesses bounce away and fade, while the correct key alignment causes the chest to open, emitting encrypted cubes that then get decrypted by a nearby device."
+    },
+    {
+      "number": "8",
+      "title": "Symmetric cipher mixing cauldron",
+      "description": "A shallow bowl holds floating character tiles that slowly orbit; a key-object (a colored wand) dips into the bowl, causing tiles to rise, spin, and reattach in new positions and colors (encryption), then a second wand with the same pattern reverses the motions to decrypt, with faint swirling particle effects over the bowl.",
+      "seed": "Symmetric cipher mixing cauldron: A shallow bowl holds floating character tiles that slowly orbit; a key-object (a colored wand) dips into the bowl, causing tiles to rise, spin, and reattach in new positions and colors (encryption), then a second wand with the same pattern reverses the motions to decrypt, with faint swirling particle effects over the bowl."
+    },
+    {
+      "number": "9",
+      "title": "RSA-style prime factor factory",
+      "description": "Tall prime-number pillars stand on a grid, and a “message” bar moves between them gathering labeled factors that attach magnetically; the combined bar is sent across the scene as a large composite cylinder, then another machine with spinning discs strips off matching factors to recover the original message bar.",
+      "seed": "RSA-style prime factor factory: Tall prime-number pillars stand on a grid, and a “message” bar moves between them gathering labeled factors that attach magnetically; the combined bar is sent across the scene as a large composite cylinder, then another machine with spinning discs strips off matching factors to recover the original message bar."
+    },
+    {
+      "number": "10",
+      "title": "Encrypted data orbit network",
+      "description": "Several labeled servers (boxes) are arranged in a circle while small data-satellites orbit them on elliptical paths; entering a server causes a satellite’s trail and shell color to change (encrypted), then as it orbits to another server that has the right key, the shell peels back and the inner core changes back to plaintext color.",
+      "seed": "Encrypted data orbit network: Several labeled servers (boxes) are arranged in a circle while small data-satellites orbit them on elliptical paths; entering a server causes a satellite’s trail and shell color to change (encrypted), then as it orbits to another server that has the right key, the shell peels back and the inner core changes back to plaintext color."
+    },
+    {
+      "number": "11",
+      "title": "Visual XOR gate encryption field",
+      "description": "A floor grid shows incoming bit-cubes (0s and 1s) moving toward a transparent XOR “wall” where they collide with matching key-cubes; pairs fuse, change color according to XOR rules, pass through as cipher cubes, then hit a second XOR wall with the same key-cubes to detach and recover the original colors.",
+      "seed": "Visual XOR gate encryption field: A floor grid shows incoming bit-cubes (0s and 1s) moving toward a transparent XOR “wall” where they collide with matching key-cubes; pairs fuse, change color according to XOR rules, pass through as cipher cubes, then hit a second XOR wall with the same key-cubes to detach and recover the original colors."
+    },
+    {
+      "number": "12",
+      "title": "Enigma-style rotor drum",
+      "description": "A vertical drum of overlapping, semi-transparent rotating discs with letter markers receives input letter-spheres that enter from one side, follow visible colored paths through holes in the discs, bounce off a reflector plate, and then trace a different path back out, with the disc orientations controllable to decrypt.",
+      "seed": "Enigma-style rotor drum: A vertical drum of overlapping, semi-transparent rotating discs with letter markers receives input letter-spheres that enter from one side, follow visible colored paths through holes in the discs, bounce off a reflector plate, and then trace a different path back out, with the disc orientations controllable to decrypt."
+    },
+    {
+      "number": "13",
+      "title": "Steganography painting canvas",
+      "description": "A flat, bright canvas in the background slowly paints itself with colored tiles; a message represented by character cubes slides behind the canvas, causing subtle shifts in tile color and transparency where it passes (encryption), then a decoding lens sphere moves over the canvas, making the hidden message cubes emerge in front.",
+      "seed": "Steganography painting canvas: A flat, bright canvas in the background slowly paints itself with colored tiles; a message represented by character cubes slides behind the canvas, causing subtle shifts in tile color and transparency where it passes (encryption), then a decoding lens sphere moves over the canvas, making the hidden message cubes emerge in front."
+    },
+    {
+      "number": "14",
+      "title": "Padlock with one-time pad ribbon",
+      "description": "A padlock-shaped object hangs in space while a long, thin ribbon of random bit-cubes slides through it; message cubes approaching the lock attach temporarily to sections of the ribbon, merge and recolor as cipher cubes, then detach and glide away, with a mirrored lock and identical consumed ribbon segment needed to decrypt.",
+      "seed": "Padlock with one-time pad ribbon: A padlock-shaped object hangs in space while a long, thin ribbon of random bit-cubes slides through it; message cubes approaching the lock attach temporarily to sections of the ribbon, merge and recolor as cipher cubes, then detach and glide away, with a mirrored lock and identical consumed ribbon segment needed to decrypt."
+    },
+    {
+      "number": "15",
+      "title": "DNA helix encryption chain",
+      "description": "A double helix made of colored base-pair rods wraps around a central message rod of letter-cubes; as the helix rotates and climbs, it swaps, flips, and recolors the letters (encryption), then an inverse-rotating helix on the other side unwinds and restores the original sequence, with faint glowing bonds forming and breaking.",
+      "seed": "DNA helix encryption chain: A double helix made of colored base-pair rods wraps around a central message rod of letter-cubes; as the helix rotates and climbs, it swaps, flips, and recolors the letters (encryption), then an inverse-rotating helix on the other side unwinds and restores the original sequence, with faint glowing bonds forming and breaking."
+    },
+    {
+      "number": "16",
+      "title": "3D substitution box (S-box) lattice",
+      "description": "A 3D lattice of small nodes floats in a cube; input bit-cubes enter from one face and follow straight lines to intermediate nodes where they abruptly jump to different output positions and recolor, then feed into another lattice that reverses the substitution, with arrows and labels showing entry and exit positions.",
+      "seed": "3D substitution box (S-box) lattice: A 3D lattice of small nodes floats in a cube; input bit-cubes enter from one face and follow straight lines to intermediate nodes where they abruptly jump to different output positions and recolor, then feed into another lattice that reverses the substitution, with arrows and labels showing entry and exit positions."
+    },
+    {
+      "number": "17",
+      "title": "Encrypted tunnel with eavesdropper probes",
+      "description": "A long transparent tube connects two endpoints; message spheres travel inside, passing through rotating encryption rings that wrap them in colored shells, while small probe drones outside the tube try to latch on but bounce off the shell; at the far end, matching rings unwrap the shells to reveal the original spheres.",
+      "seed": "Encrypted tunnel with eavesdropper probes: A long transparent tube connects two endpoints; message spheres travel inside, passing through rotating encryption rings that wrap them in colored shells, while small probe drones outside the tube try to latch on but bounce off the shell; at the far end, matching rings unwrap the shells to reveal the original spheres."
+    },
+    {
+      "number": "18",
+      "title": "File folder encryption pipeline",
+      "description": "Flat “file” plates slide along a path, entering a tall encryptor box that closes around them; inside, visible gears and rods rotate, reordering attached icon-cubes on the file’s surface and tinting the whole plate, then the files exit and move on to a decryptor box that reverses the process, with labels above each stage.",
+      "seed": "File folder encryption pipeline: Flat “file” plates slide along a path, entering a tall encryptor box that closes around them; inside, visible gears and rods rotate, reordering attached icon-cubes on the file’s surface and tinting the whole plate, then the files exit and move on to a decryptor box that reverses the process, with labels above each stage."
+    },
+    {
+      "number": "19",
+      "title": "Chaotic mixer stream cipher",
+      "description": "A central chaotic rotor with irregular arms spins unpredictably while a stream of bit-cubes and a stream of key-cubes feed into it from two sides; inside, cubes bounce off arms, merge into cipher-cubes, and exit in a new direction, then a synchronized rotor downstream splits them again to recover the original bit-cubes.",
+      "seed": "Chaotic mixer stream cipher: A central chaotic rotor with irregular arms spins unpredictably while a stream of bit-cubes and a stream of key-cubes feed into it from two sides; inside, cubes bounce off arms, merge into cipher-cubes, and exit in a new direction, then a synchronized rotor downstream splits them again to recover the original bit-cubes."
+    },
+    {
+      "number": "20",
+      "title": "Encrypted message orbiting planet",
+      "description": "A small “planet” sphere with a rotating ring-key around its equator attracts message satellites that spiral in; as they pass through the ring, their surfaces gain shifting patterns and colors (ciphertext) before being slingshotted out to another planet with a matching ring that strips off the patterns to decrypt.",
+      "seed": "Encrypted message orbiting planet: A small “planet” sphere with a rotating ring-key around its equator attracts message satellites that spiral in; as they pass through the ring, their surfaces gain shifting patterns and colors (ciphertext) before being slingshotted out to another planet with a matching ring that strips off the patterns to decrypt."
+    },
+    {
+      "number": "21",
+      "title": "Lockbox room with multi-factor doors",
+      "description": "A room of small lockboxes sits behind several transparent doors; each door requires a different 3D key shape to attach and rotate correctly before the next layer opens, with data-cubes inside changing color from plaintext to encrypted each time the doors close, and reversing when the keys retrace the sequence.",
+      "seed": "Lockbox room with multi-factor doors: A room of small lockboxes sits behind several transparent doors; each door requires a different 3D key shape to attach and rotate correctly before the next layer opens, with data-cubes inside changing color from plaintext to encrypted each time the doors close, and reversing when the keys retrace the sequence."
+    },
+    {
+      "number": "22",
+      "title": "Hash vs. encryption comparison rig",
+      "description": "Two side-by-side machines receive identical message blocks: one machine shuffles and recolors blocks but can reverse the process (decryption), while the other compresses them into a small fixed-size hash cube that cannot be expanded back, with arrows, labels, and changing colors emphasizing the different behaviors.",
+      "seed": "Hash vs. encryption comparison rig: Two side-by-side machines receive identical message blocks: one machine shuffles and recolors blocks but can reverse the process (decryption), while the other compresses them into a small fixed-size hash cube that cannot be expanded back, with arrows, labels, and changing colors emphasizing the different behaviors."
+    },
+    {
+      "number": "23",
+      "title": "Encrypted chat between floating avatars",
+      "description": "Two floating avatar shapes on opposite sides of the scene send small speech-bubble discs toward each other; as they leave each avatar, discs pass through personal key-rings that wrap them in glowing shells and alter their trajectories slightly, then pass through matching rings at the receiver that unwrap and restore the original colors.",
+      "seed": "Encrypted chat between floating avatars: Two floating avatar shapes on opposite sides of the scene send small speech-bubble discs toward each other; as they leave each avatar, discs pass through personal key-rings that wrap them in glowing shells and alter their trajectories slightly, then pass through matching rings at the receiver that unwrap and restore the original colors."
+    },
+    {
+      "number": "24",
+      "title": "Layered onion encryption shells",
+      "description": "A tiny core message sphere sits at the center while larger semi-transparent shells with different colors and textures wrap around it one by one as it passes through successive key-rings; for decryption, the wrapped sphere travels back through the rings in reverse order, each shell dissolving into particles as it is removed.",
+      "seed": "Layered onion encryption shells: A tiny core message sphere sits at the center while larger semi-transparent shells with different colors and textures wrap around it one by one as it passes through successive key-rings; for decryption, the wrapped sphere travels back through the rings in reverse order, each shell dissolving into particles as it is removed."
+    },
+    {
+      "number": "25",
+      "title": "Encrypted cloud storage with access tokens",
+      "description": "A “cloud” of semi-transparent, slowly swirling particles hangs above a floor of user terminals; data-cubes float up from a terminal, enter the cloud where they get encased in tinted shells (encrypted), then only cubes with attached correct token-rings can descend and have their shells peel off at a matching terminal.",
+      "seed": "Encrypted cloud storage with access tokens: A “cloud” of semi-transparent, slowly swirling particles hangs above a floor of user terminals; data-cubes float up from a terminal, enter the cloud where they get encased in tinted shells (encrypted), then only cubes with attached correct token-rings can descend and have their shells peel off at a matching terminal."
+    }
+  ],
+  "raw_output": "Here are strong **Encryption/decryption simulation inputs** you can plug into your prompt:\n\n1. **Lock-and-key data vault**\n   A stream of small colored data-spheres flows toward a transparent cube “vault,” where rotating key-shaped rods must align and attach to unlock the cube so spheres can enter encrypted (color-shifted) and later exit decrypted (color-restored), with trails showing their paths.\n\n2. **Rotating cipher wheel machine**\n   Multiple stacked rotating rings covered in labeled letters spin at different speeds around a central axis, with glowing letter-spheres entering on one side, snapping to ring labels, shifting positions as rings rotate, then exiting with different letters and colors to show encryption and decryption.\n\n3. **Public–private key handshake**\n   Two distant towers (clients) on a plane exchange small glowing packets that arc between them; public keys are tall, semi-transparent rods that broadcast spinning rings, while private keys are short, solid rods inside each tower, with packets changing color and label as they encrypt, travel, and decrypt.\n\n4. **Block cipher conveyor belt**\n   Flat rectangular “blocks” of bits (small cubes) ride along a conveyor, periodically passing under vertical pistons that compress, shuffle, and recolor them in fixed patterns to represent rounds of encryption, then moving to a mirrored conveyor that reverses the transformations for decryption.\n\n5. **3D substitution maze**\n   Letter-spheres enter a transparent 3D maze of tubes and junctions where color-coded gates rotate to reroute them according to a key, forming a scrambled path; a mirrored maze on the other side rearranges the routes back to restore original letters, with thin trails left in the tubes.\n\n6. **Quantum-style encryption orbs**\n   Semi-transparent spheres containing spinning arrows (qubits) float between two platforms; each orb passes through rotating polarizer plates that tilt, split, and recolor the arrows to encode bits, then through a matching set of plates that attempt to decode them, with incorrect orientations causing orbs to flicker or dissolve.\n\n7. **Password lockbox with brute-force attacks**\n   A locked central chest (cube) with a numeric ring around it sits in the scene while swarms of tiny “guess” particles repeatedly collide with the lock; wrong guesses bounce away and fade, while the correct key alignment causes the chest to open, emitting encrypted cubes that then get decrypted by a nearby device.\n\n8. **Symmetric cipher mixing cauldron**\n   A shallow bowl holds floating character tiles that slowly orbit; a key-object (a colored wand) dips into the bowl, causing tiles to rise, spin, and reattach in new positions and colors (encryption), then a second wand with the same pattern reverses the motions to decrypt, with faint swirling particle effects over the bowl.\n\n9. **RSA-style prime factor factory**\n   Tall prime-number pillars stand on a grid, and a “message” bar moves between them gathering labeled factors that attach magnetically; the combined bar is sent across the scene as a large composite cylinder, then another machine with spinning discs strips off matching factors to recover the original message bar.\n\n10. **Encrypted data orbit network**\n    Several labeled servers (boxes) are arranged in a circle while small data-satellites orbit them on elliptical paths; entering a server causes a satellite’s trail and shell color to change (encrypted), then as it orbits to another server that has the right key, the shell peels back and the inner core changes back to plaintext color.\n\n11. **Visual XOR gate encryption field**\n    A floor grid shows incoming bit-cubes (0s and 1s) moving toward a transparent XOR “wall” where they collide with matching key-cubes; pairs fuse, change color according to XOR rules, pass through as cipher cubes, then hit a second XOR wall with the same key-cubes to detach and recover the original colors.\n\n12. **Enigma-style rotor drum**\n    A vertical drum of overlapping, semi-transparent rotating discs with letter markers receives input letter-spheres that enter from one side, follow visible colored paths through holes in the discs, bounce off a reflector plate, and then trace a different path back out, with the disc orientations controllable to decrypt.\n\n13. **Steganography painting canvas**\n    A flat, bright canvas in the background slowly paints itself with colored tiles; a message represented by character cubes slides behind the canvas, causing subtle shifts in tile color and transparency where it passes (encryption), then a decoding lens sphere moves over the canvas, making the hidden message cubes emerge in front.\n\n14. **Padlock with one-time pad ribbon**\n    A padlock-shaped object hangs in space while a long, thin ribbon of random bit-cubes slides through it; message cubes approaching the lock attach temporarily to sections of the ribbon, merge and recolor as cipher cubes, then detach and glide away, with a mirrored lock and identical consumed ribbon segment needed to decrypt.\n\n15. **DNA helix encryption chain**\n    A double helix made of colored base-pair rods wraps around a central message rod of letter-cubes; as the helix rotates and climbs, it swaps, flips, and recolors the letters (encryption), then an inverse-rotating helix on the other side unwinds and restores the original sequence, with faint glowing bonds forming and breaking.\n\n16. **3D substitution box (S-box) lattice**\n    A 3D lattice of small nodes floats in a cube; input bit-cubes enter from one face and follow straight lines to intermediate nodes where they abruptly jump to different output positions and recolor, then feed into another lattice that reverses the substitution, with arrows and labels showing entry and exit positions.\n\n17. **Encrypted tunnel with eavesdropper probes**\n    A long transparent tube connects two endpoints; message spheres travel inside, passing through rotating encryption rings that wrap them in colored shells, while small probe drones outside the tube try to latch on but bounce off the shell; at the far end, matching rings unwrap the shells to reveal the original spheres.\n\n18. **File folder encryption pipeline**\n    Flat “file” plates slide along a path, entering a tall encryptor box that closes around them; inside, visible gears and rods rotate, reordering attached icon-cubes on the file’s surface and tinting the whole plate, then the files exit and move on to a decryptor box that reverses the process, with labels above each stage.\n\n19. **Chaotic mixer stream cipher**\n    A central chaotic rotor with irregular arms spins unpredictably while a stream of bit-cubes and a stream of key-cubes feed into it from two sides; inside, cubes bounce off arms, merge into cipher-cubes, and exit in a new direction, then a synchronized rotor downstream splits them again to recover the original bit-cubes.\n\n20. **Encrypted message orbiting planet**\n    A small “planet” sphere with a rotating ring-key around its equator attracts message satellites that spiral in; as they pass through the ring, their surfaces gain shifting patterns and colors (ciphertext) before being slingshotted out to another planet with a matching ring that strips off the patterns to decrypt.\n\n21. **Lockbox room with multi-factor doors**\n    A room of small lockboxes sits behind several transparent doors; each door requires a different 3D key shape to attach and rotate correctly before the next layer opens, with data-cubes inside changing color from plaintext to encrypted each time the doors close, and reversing when the keys retrace the sequence.\n\n22. **Hash vs. encryption comparison rig**\n    Two side-by-side machines receive identical message blocks: one machine shuffles and recolors blocks but can reverse the process (decryption), while the other compresses them into a small fixed-size hash cube that cannot be expanded back, with arrows, labels, and changing colors emphasizing the different behaviors.\n\n23. **Encrypted chat between floating avatars**\n    Two floating avatar shapes on opposite sides of the scene send small speech-bubble discs toward each other; as they leave each avatar, discs pass through personal key-rings that wrap them in glowing shells and alter their trajectories slightly, then pass through matching rings at the receiver that unwrap and restore the original colors.\n\n24. **Layered onion encryption shells**\n    A tiny core message sphere sits at the center while larger semi-transparent shells with different colors and textures wrap around it one by one as it passes through successive key-rings; for decryption, the wrapped sphere travels back through the rings in reverse order, each shell dissolving into particles as it is removed.\n\n25. **Encrypted cloud storage with access tokens**\n    A “cloud” of semi-transparent, slowly swirling particles hangs above a floor of user terminals; data-cubes float up from a terminal, enter the cloud where they get encased in tinted shells (encrypted), then only cubes with attached correct token-rings can descend and have their shells peel off at a matching terminal."
+}

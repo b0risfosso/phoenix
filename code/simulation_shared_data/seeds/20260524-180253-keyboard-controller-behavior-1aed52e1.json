@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Keyboard/controller behavior",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:02:53",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Floating Keyboard-Controlled Drone Swarm",
+      "description": "A central camera tracks a flock of small glowing drones that the user steers with keyboard arrows or gamepad sticks, while individual drones orbit, avoid collisions, leave fading trails, and change color when they bump or attach to each other.",
+      "seed": "Floating Keyboard-Controlled Drone Swarm: A central camera tracks a flock of small glowing drones that the user steers with keyboard arrows or gamepad sticks, while individual drones orbit, avoid collisions, leave fading trails, and change color when they bump or attach to each other."
+    },
+    {
+      "number": "2",
+      "title": "3D Piano Keys With Force-Sensitive Controller",
+      "description": "A 3D piano keyboard’s keys rise, sink, and vibrate in response to mapped controller buttons and triggers, while colored sound waves pulse outward, overlap, and fade in a bright, minimal room.",
+      "seed": "3D Piano Keys With Force-Sensitive Controller: A 3D piano keyboard’s keys rise, sink, and vibrate in response to mapped controller buttons and triggers, while colored sound waves pulse outward, overlap, and fade in a bright, minimal room."
+    },
+    {
+      "number": "3",
+      "title": "Robot Arm Typing on a Floating Holographic Keyboard",
+      "description": "A robotic arm, controlled by WASD and mouse/gamepad, swings, rotates, and taps semi-transparent floating keys that light up, bounce slightly, and emit colored particle bursts when pressed in sequence.",
+      "seed": "Robot Arm Typing on a Floating Holographic Keyboard: A robotic arm, controlled by WASD and mouse/gamepad, swings, rotates, and taps semi-transparent floating keys that light up, bounce slightly, and emit colored particle bursts when pressed in sequence."
+    },
+    {
+      "number": "4",
+      "title": "Spacecraft Navigation Console",
+      "description": "A small spaceship in a starfield responds to keyboard/controller input via a 3D control panel whose levers, joysticks, and buttons move, light up, and cause the ship to thrust, rotate, and leave ion trails while avoiding or colliding with colored asteroids.",
+      "seed": "Spacecraft Navigation Console: A small spaceship in a starfield responds to keyboard/controller input via a 3D control panel whose levers, joysticks, and buttons move, light up, and cause the ship to thrust, rotate, and leave ion trails while avoiding or colliding with colored asteroids."
+    },
+    {
+      "number": "5",
+      "title": "Typing as Raindrops on a Glass Panel",
+      "description": "Each key press spawns a labeled raindrop on a tilted glass sheet that slides, merges with others, leaves wet trails, and falls off the edge into a transparent collection box that fills, sloshes, and drains.",
+      "seed": "Typing as Raindrops on a Glass Panel: Each key press spawns a labeled raindrop on a tilted glass sheet that slides, merges with others, leaves wet trails, and falls off the edge into a transparent collection box that fills, sloshes, and drains."
+    },
+    {
+      "number": "6",
+      "title": "Controller-Guided Swarm of Nanobots in a Bloodstream",
+      "description": "A translucent blood vessel contains red cells and protein particles while a controller-guided nanobot cluster moves, splits, and merges, tagging cells with glowing markers and bouncing off vessel walls.",
+      "seed": "Controller-Guided Swarm of Nanobots in a Bloodstream: A translucent blood vessel contains red cells and protein particles while a controller-guided nanobot cluster moves, splits, and merges, tagging cells with glowing markers and bouncing off vessel walls."
+    },
+    {
+      "number": "7",
+      "title": "3D Snake Controlled by Keyboard with Growing Tail Letters",
+      "description": "A snake-like tube steered with arrow keys slithers, coils, and bounces off walls in a clear arena, growing a chain of floating letter-blocks that spell recent keys pressed and break off into spinning fragments on collision.",
+      "seed": "3D Snake Controlled by Keyboard with Growing Tail Letters: A snake-like tube steered with arrow keys slithers, coils, and bounces off walls in a clear arena, growing a chain of floating letter-blocks that spell recent keys pressed and break off into spinning fragments on collision."
+    },
+    {
+      "number": "8",
+      "title": "Keyboard-Driven Planetary Orbital Mixer",
+      "description": "Arrow keys and controller triggers adjust the speed and tilt of a central star and orbiting colored planets, which can attach to each other as binary systems, swap orbits, or collide and merge into glowing debris clouds.",
+      "seed": "Keyboard-Driven Planetary Orbital Mixer: Arrow keys and controller triggers adjust the speed and tilt of a central star and orbiting colored planets, which can attach to each other as binary systems, swap orbits, or collide and merge into glowing debris clouds."
+    },
+    {
+      "number": "9",
+      "title": "VR-Style 3D Menu Controlled by Gamepad",
+      "description": "A floating grid of panels representing options moves closer or farther, rotates, and expands into subpanels based on joystick direction and button presses, with soft color changes, transparency shifts, and connector lines that highlight current selection and navigation paths.",
+      "seed": "VR-Style 3D Menu Controlled by Gamepad: A floating grid of panels representing options moves closer or farther, rotates, and expands into subpanels based on joystick direction and button presses, with soft color changes, transparency shifts, and connector lines that highlight current selection and navigation paths."
+    },
+    {
+      "number": "10",
+      "title": "Typing Forge: Keys as Hammer Strikes on a Metal Plate",
+      "description": "Every key press drives a glowing hammer down onto a metal slab, sending sparks and ripples through a 3D lattice that deforms, cracks, or thickens based on the “typing rhythm” while labels show cumulative force and stress.",
+      "seed": "Typing Forge: Keys as Hammer Strikes on a Metal Plate: Every key press drives a glowing hammer down onto a metal slab, sending sparks and ripples through a 3D lattice that deforms, cracks, or thickens based on the “typing rhythm” while labels show cumulative force and stress."
+    },
+    {
+      "number": "11",
+      "title": "Drone Camera Filming a 3D Keyboard City",
+      "description": "A city built from giant keyboard keys acts as buildings while a gamepad-controlled drone camera flies around, between, and over them, causing nearby key-buildings to light up, extend platforms, or retract when approached or “pressed” from above.",
+      "seed": "Drone Camera Filming a 3D Keyboard City: A city built from giant keyboard keys acts as buildings while a gamepad-controlled drone camera flies around, between, and over them, causing nearby key-buildings to light up, extend platforms, or retract when approached or “pressed” from above."
+    },
+    {
+      "number": "12",
+      "title": "Underwater Robot Controlled by Arrow Keys in Coral Maze",
+      "description": "A small ROV steered with keyboard or controller glides, pitches, and yaws through a colorful coral maze, kicking up particle clouds, avoiding or gently bumping soft corals, attaching sampling tubes, and collecting glowing specimens into transparent containers.",
+      "seed": "Underwater Robot Controlled by Arrow Keys in Coral Maze: A small ROV steered with keyboard or controller glides, pitches, and yaws through a colorful coral maze, kicking up particle clouds, avoiding or gently bumping soft corals, attaching sampling tubes, and collecting glowing specimens into transparent containers."
+    },
+    {
+      "number": "13",
+      "title": "Typing as Orbital Particle Spawner",
+      "description": "Each keystroke spawns a labeled particle that orbits a central sphere, with keys mapped to different orbital radii and colors; particles can collide, merge, split, or spiral inward as the user changes “gravity” and “drag” using controller buttons.",
+      "seed": "Typing as Orbital Particle Spawner: Each keystroke spawns a labeled particle that orbits a central sphere, with keys mapped to different orbital radii and colors; particles can collide, merge, split, or spiral inward as the user changes “gravity” and “drag” using controller buttons."
+    },
+    {
+      "number": "14",
+      "title": "3D Platformer Character With Visual Input Feedback Rig",
+      "description": "A simple character in a bright 3D arena runs, jumps, and double-jumps based on controller buttons, while an overhead transparent panel shows live, color-coded button presses and stick directions that ripple and fade as trails.",
+      "seed": "3D Platformer Character With Visual Input Feedback Rig: A simple character in a bright 3D arena runs, jumps, and double-jumps based on controller buttons, while an overhead transparent panel shows live, color-coded button presses and stick directions that ripple and fade as trails."
+    },
+    {
+      "number": "15",
+      "title": "Keyboard-Controlled Magnetic Crane Over a Scrap Yard",
+      "description": "A crane moving on rails with WASD and rotating via arrow keys lowers a magnetic disc that attracts, lifts, and releases metal blocks, which clump, stack, topple, and scatter sparks when dropped into designated bins.",
+      "seed": "Keyboard-Controlled Magnetic Crane Over a Scrap Yard: A crane moving on rails with WASD and rotating via arrow keys lowers a magnetic disc that attracts, lifts, and releases metal blocks, which clump, stack, topple, and scatter sparks when dropped into designated bins."
+    },
+    {
+      "number": "16",
+      "title": "Musical Galaxy Where Keys Trigger Note Planets",
+      "description": "Each keyboard key corresponds to a colored “note planet” that appears, orbits, pulses, and leaves light trails around a glowing sun, with sustained keys causing planets to grow and split and chord clusters causing planets to align and exchange orbits.",
+      "seed": "Musical Galaxy Where Keys Trigger Note Planets: Each keyboard key corresponds to a colored “note planet” that appears, orbits, pulses, and leaves light trails around a glowing sun, with sustained keys causing planets to grow and split and chord clusters causing planets to align and exchange orbits."
+    },
+    {
+      "number": "17",
+      "title": "Controller-Driven Particle Jet Pack Arena",
+      "description": "A capsule avatar, controlled by gamepad sticks and triggers, fires directional jets of colored particles that push it around a 3D arena, leaving arcing trails, bouncing off walls, and knocking loose floating cubes that spin and cluster.",
+      "seed": "Controller-Driven Particle Jet Pack Arena: A capsule avatar, controlled by gamepad sticks and triggers, fires directional jets of colored particles that push it around a 3D arena, leaving arcing trails, bouncing off walls, and knocking loose floating cubes that spin and cluster."
+    },
+    {
+      "number": "18",
+      "title": "Typing Garden: Keys Grow Plants in 3D Pots",
+      "description": "Each key press plants a seed in a pot or grows an existing plant segment, causing stems to branch, leaves to unfurl, and flowers to change color, while a hovering cursor (controlled by arrow keys) waters, trims, or repositions plants.",
+      "seed": "Typing Garden: Keys Grow Plants in 3D Pots: Each key press plants a seed in a pot or grows an existing plant segment, causing stems to branch, leaves to unfurl, and flowers to change color, while a hovering cursor (controlled by arrow keys) waters, trims, or repositions plants."
+    },
+    {
+      "number": "19",
+      "title": "Keyboard-Controlled Conveyor Factory Line",
+      "description": "Arrow keys and number keys start, stop, and reverse various conveyor belts and robotic pushers in a factory, where colored crates move, collide, stack, and sometimes spill smaller spheres that roll into chutes and transparent bins.",
+      "seed": "Keyboard-Controlled Conveyor Factory Line: Arrow keys and number keys start, stop, and reverse various conveyor belts and robotic pushers in a factory, where colored crates move, collide, stack, and sometimes spill smaller spheres that roll into chutes and transparent bins."
+    },
+    {
+      "number": "20",
+      "title": "3D Rhythm Tunnel With Controller Steering",
+      "description": "A capsule moves through a tunnel of floating, color-coded gates that correspond to keys or buttons; the player steers and triggers inputs to pass through matching gates, which shatter, glow, or smoothly absorb the capsule depending on timing accuracy.",
+      "seed": "3D Rhythm Tunnel With Controller Steering: A capsule moves through a tunnel of floating, color-coded gates that correspond to keys or buttons; the player steers and triggers inputs to pass through matching gates, which shatter, glow, or smoothly absorb the capsule depending on timing accuracy."
+    },
+    {
+      "number": "21",
+      "title": "Typing Comet Tail Over a Planet Surface",
+      "description": "A comet, whose direction is steered with arrow keys, skims a spherical planet’s surface, leaving a glowing trail whose color and thickness encode recent key presses, while craters form where the comet collides and ejects dust particles.",
+      "seed": "Typing Comet Tail Over a Planet Surface: A comet, whose direction is steered with arrow keys, skims a spherical planet’s surface, leaving a glowing trail whose color and thickness encode recent key presses, while craters form where the comet collides and ejects dust particles."
+    },
+    {
+      "number": "22",
+      "title": "Gamepad-Controlled Crane Building a Letter Tower",
+      "description": "A crane with a swinging hook, controlled by stick and trigger inputs, lifts 3D letter blocks from a pile and stacks them to form words typed on the keyboard, with misaligned drops causing the tower to sway, tilt, and sometimes collapse into bouncing debris.",
+      "seed": "Gamepad-Controlled Crane Building a Letter Tower: A crane with a swinging hook, controlled by stick and trigger inputs, lifts 3D letter blocks from a pile and stacks them to form words typed on the keyboard, with misaligned drops causing the tower to sway, tilt, and sometimes collapse into bouncing debris."
+    },
+    {
+      "number": "23",
+      "title": "Virtual Drum Kit Controlled by Keyboard and Controller",
+      "description": "A 3D drum set’s pieces (snare, toms, cymbals) are struck by invisible mallets whenever mapped keys/buttons are pressed, causing each drum to deform, vibrate, and emit colored shockwaves that interfere and overlap in space.",
+      "seed": "Virtual Drum Kit Controlled by Keyboard and Controller: A 3D drum set’s pieces (snare, toms, cymbals) are struck by invisible mallets whenever mapped keys/buttons are pressed, causing each drum to deform, vibrate, and emit colored shockwaves that interfere and overlap in space."
+    },
+    {
+      "number": "24",
+      "title": "Typing-Driven Laser Grid in a Light Room",
+      "description": "Each key press activates or reorients a colored laser beam between transparent pillars, building a shifting 3D lattice that the user can rotate with controller input; beams intersect to form bright nodes that pulse and occasionally discharge particle bursts.",
+      "seed": "Typing-Driven Laser Grid in a Light Room: Each key press activates or reorients a colored laser beam between transparent pillars, building a shifting 3D lattice that the user can rotate with controller input; beams intersect to form bright nodes that pulse and occasionally discharge particle bursts."
+    },
+    {
+      "number": "25",
+      "title": "Controller-Operated Submarine Switching Sonar Modes",
+      "description": "A small sub navigates a semi-transparent ocean volume via gamepad, toggling sonar modes mapped to buttons that send out expanding rings, spirals, or cones of light that reveal, label, and color-code schools of fish, rocks, and wreckage before fading.",
+      "seed": "Controller-Operated Submarine Switching Sonar Modes: A small sub navigates a semi-transparent ocean volume via gamepad, toggling sonar modes mapped to buttons that send out expanding rings, spirals, or cones of light that reveal, label, and color-code schools of fish, rocks, and wreckage before fading."
+    }
+  ],
+  "raw_output": "Here are strong **Keyboard/controller behavior simulation inputs** you can plug into your prompt:\n\n1. **Floating Keyboard-Controlled Drone Swarm**\n   A central camera tracks a flock of small glowing drones that the user steers with keyboard arrows or gamepad sticks, while individual drones orbit, avoid collisions, leave fading trails, and change color when they bump or attach to each other.\n\n2. **3D Piano Keys With Force-Sensitive Controller**\n   A 3D piano keyboard’s keys rise, sink, and vibrate in response to mapped controller buttons and triggers, while colored sound waves pulse outward, overlap, and fade in a bright, minimal room.\n\n3. **Robot Arm Typing on a Floating Holographic Keyboard**\n   A robotic arm, controlled by WASD and mouse/gamepad, swings, rotates, and taps semi-transparent floating keys that light up, bounce slightly, and emit colored particle bursts when pressed in sequence.\n\n4. **Spacecraft Navigation Console**\n   A small spaceship in a starfield responds to keyboard/controller input via a 3D control panel whose levers, joysticks, and buttons move, light up, and cause the ship to thrust, rotate, and leave ion trails while avoiding or colliding with colored asteroids.\n\n5. **Typing as Raindrops on a Glass Panel**\n   Each key press spawns a labeled raindrop on a tilted glass sheet that slides, merges with others, leaves wet trails, and falls off the edge into a transparent collection box that fills, sloshes, and drains.\n\n6. **Controller-Guided Swarm of Nanobots in a Bloodstream**\n   A translucent blood vessel contains red cells and protein particles while a controller-guided nanobot cluster moves, splits, and merges, tagging cells with glowing markers and bouncing off vessel walls.\n\n7. **3D Snake Controlled by Keyboard with Growing Tail Letters**\n   A snake-like tube steered with arrow keys slithers, coils, and bounces off walls in a clear arena, growing a chain of floating letter-blocks that spell recent keys pressed and break off into spinning fragments on collision.\n\n8. **Keyboard-Driven Planetary Orbital Mixer**\n   Arrow keys and controller triggers adjust the speed and tilt of a central star and orbiting colored planets, which can attach to each other as binary systems, swap orbits, or collide and merge into glowing debris clouds.\n\n9. **VR-Style 3D Menu Controlled by Gamepad**\n   A floating grid of panels representing options moves closer or farther, rotates, and expands into subpanels based on joystick direction and button presses, with soft color changes, transparency shifts, and connector lines that highlight current selection and navigation paths.\n\n10. **Typing Forge: Keys as Hammer Strikes on a Metal Plate**\n    Every key press drives a glowing hammer down onto a metal slab, sending sparks and ripples through a 3D lattice that deforms, cracks, or thickens based on the “typing rhythm” while labels show cumulative force and stress.\n\n11. **Drone Camera Filming a 3D Keyboard City**\n    A city built from giant keyboard keys acts as buildings while a gamepad-controlled drone camera flies around, between, and over them, causing nearby key-buildings to light up, extend platforms, or retract when approached or “pressed” from above.\n\n12. **Underwater Robot Controlled by Arrow Keys in Coral Maze**\n    A small ROV steered with keyboard or controller glides, pitches, and yaws through a colorful coral maze, kicking up particle clouds, avoiding or gently bumping soft corals, attaching sampling tubes, and collecting glowing specimens into transparent containers.\n\n13. **Typing as Orbital Particle Spawner**\n    Each keystroke spawns a labeled particle that orbits a central sphere, with keys mapped to different orbital radii and colors; particles can collide, merge, split, or spiral inward as the user changes “gravity” and “drag” using controller buttons.\n\n14. **3D Platformer Character With Visual Input Feedback Rig**\n    A simple character in a bright 3D arena runs, jumps, and double-jumps based on controller buttons, while an overhead transparent panel shows live, color-coded button presses and stick directions that ripple and fade as trails.\n\n15. **Keyboard-Controlled Magnetic Crane Over a Scrap Yard**\n    A crane moving on rails with WASD and rotating via arrow keys lowers a magnetic disc that attracts, lifts, and releases metal blocks, which clump, stack, topple, and scatter sparks when dropped into designated bins.\n\n16. **Musical Galaxy Where Keys Trigger Note Planets**\n    Each keyboard key corresponds to a colored “note planet” that appears, orbits, pulses, and leaves light trails around a glowing sun, with sustained keys causing planets to grow and split and chord clusters causing planets to align and exchange orbits.\n\n17. **Controller-Driven Particle Jet Pack Arena**\n    A capsule avatar, controlled by gamepad sticks and triggers, fires directional jets of colored particles that push it around a 3D arena, leaving arcing trails, bouncing off walls, and knocking loose floating cubes that spin and cluster.\n\n18. **Typing Garden: Keys Grow Plants in 3D Pots**\n    Each key press plants a seed in a pot or grows an existing plant segment, causing stems to branch, leaves to unfurl, and flowers to change color, while a hovering cursor (controlled by arrow keys) waters, trims, or repositions plants.\n\n19. **Keyboard-Controlled Conveyor Factory Line**\n    Arrow keys and number keys start, stop, and reverse various conveyor belts and robotic pushers in a factory, where colored crates move, collide, stack, and sometimes spill smaller spheres that roll into chutes and transparent bins.\n\n20. **3D Rhythm Tunnel With Controller Steering**\n    A capsule moves through a tunnel of floating, color-coded gates that correspond to keys or buttons; the player steers and triggers inputs to pass through matching gates, which shatter, glow, or smoothly absorb the capsule depending on timing accuracy.\n\n21. **Typing Comet Tail Over a Planet Surface**\n    A comet, whose direction is steered with arrow keys, skims a spherical planet’s surface, leaving a glowing trail whose color and thickness encode recent key presses, while craters form where the comet collides and ejects dust particles.\n\n22. **Gamepad-Controlled Crane Building a Letter Tower**\n    A crane with a swinging hook, controlled by stick and trigger inputs, lifts 3D letter blocks from a pile and stacks them to form words typed on the keyboard, with misaligned drops causing the tower to sway, tilt, and sometimes collapse into bouncing debris.\n\n23. **Virtual Drum Kit Controlled by Keyboard and Controller**\n    A 3D drum set’s pieces (snare, toms, cymbals) are struck by invisible mallets whenever mapped keys/buttons are pressed, causing each drum to deform, vibrate, and emit colored shockwaves that interfere and overlap in space.\n\n24. **Typing-Driven Laser Grid in a Light Room**\n    Each key press activates or reorients a colored laser beam between transparent pillars, building a shifting 3D lattice that the user can rotate with controller input; beams intersect to form bright nodes that pulse and occasionally discharge particle bursts.\n\n25. **Controller-Operated Submarine Switching Sonar Modes**\n    A small sub navigates a semi-transparent ocean volume via gamepad, toggling sonar modes mapped to buttons that send out expanding rings, spirals, or cones of light that reveal, label, and color-code schools of fish, rocks, and wreckage before fading."
+}

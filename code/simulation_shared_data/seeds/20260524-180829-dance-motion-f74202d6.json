@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Dance motion",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:08:29",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Partner Swing Dance of Linked Spheres",
+      "description": "Simulate two human-height stick-figures made of colored spheres and cylinders that swing-dance together, with hands modeled as small spheres that attach/detach to rotate around a shared pivot while feet leave short trails on a light floor grid.",
+      "seed": "Partner Swing Dance of Linked Spheres: Simulate two human-height stick-figures made of colored spheres and cylinders that swing-dance together, with hands modeled as small spheres that attach/detach to rotate around a shared pivot while feet leave short trails on a light floor grid."
+    },
+    {
+      "number": "2",
+      "title": "Crowd Circle Dance with Flocking Rules",
+      "description": "Create dozens of small colored capsules on a flat bright plane that orbit an invisible center while following flocking rules (alignment, separation, cohesion), occasionally pairing off to spin, with semi-transparent trails and a label showing “tempo” that speeds or slows their rotations.",
+      "seed": "Crowd Circle Dance with Flocking Rules: Create dozens of small colored capsules on a flat bright plane that orbit an invisible center while following flocking rules (alignment, separation, cohesion), occasionally pairing off to spin, with semi-transparent trails and a label showing “tempo” that speeds or slows their rotations."
+    },
+    {
+      "number": "3",
+      "title": "Robotic Arm Dance Choreography",
+      "description": "Show three articulated robot arms (jointed cylinders) bolted to the floor that “dance” in synchronized oscillating patterns, avoiding collisions via repulsion forces, with glowing lines indicating planned paths and labels displaying joint angles in real time.",
+      "seed": "Robotic Arm Dance Choreography: Show three articulated robot arms (jointed cylinders) bolted to the floor that “dance” in synchronized oscillating patterns, avoiding collisions via repulsion forces, with glowing lines indicating planned paths and labels displaying joint angles in real time."
+    },
+    {
+      "number": "4",
+      "title": "Light Orbs Performing Aerial Dance",
+      "description": "Float glowing semi-transparent spheres above a pale stage that weave, spiral, and braid around each other, leaving fading particle trails and occasionally merging into larger orbs or splitting into smaller ones in response to an on-screen “energy” meter.",
+      "seed": "Light Orbs Performing Aerial Dance: Float glowing semi-transparent spheres above a pale stage that weave, spiral, and braid around each other, leaving fading particle trails and occasionally merging into larger orbs or splitting into smaller ones in response to an on-screen “energy” meter."
+    },
+    {
+      "number": "5",
+      "title": "Floor Tile Dance Step Visualizer",
+      "description": "Render a 2D grid of raised light tiles as a dance floor where footprints (flat semi-transparent boxes) appear, fade, and pulse in sequence to show dance steps, while a single stick-figure avatar hops, slides, and pivots to step on the lit tiles.",
+      "seed": "Floor Tile Dance Step Visualizer: Render a 2D grid of raised light tiles as a dance floor where footprints (flat semi-transparent boxes) appear, fade, and pulse in sequence to show dance steps, while a single stick-figure avatar hops, slides, and pivots to step on the lit tiles."
+    },
+    {
+      "number": "6",
+      "title": "Ribbon Dance with Cloth-like Strips",
+      "description": "Animate one or two invisible “dancers” whose hand positions control long, flexible ribbons (thin, segmented cylinders or curves) that swirl, wrap around the body path, and unwind, with color shifting based on curvature and speed.",
+      "seed": "Ribbon Dance with Cloth-like Strips: Animate one or two invisible “dancers” whose hand positions control long, flexible ribbons (thin, segmented cylinders or curves) that swirl, wrap around the body path, and unwind, with color shifting based on curvature and speed."
+    },
+    {
+      "number": "7",
+      "title": "Molecular Dance of Reactive Particles",
+      "description": "Display different-colored spheres in a box that “dance” via random motion; when certain colored pairs collide with enough speed they attach to form short chain “choreographies,” which then rotate, bend, and later detach with a small spark of particles.",
+      "seed": "Molecular Dance of Reactive Particles: Display different-colored spheres in a box that “dance” via random motion; when certain colored pairs collide with enough speed they attach to form short chain “choreographies,” which then rotate, bend, and later detach with a small spark of particles."
+    },
+    {
+      "number": "8",
+      "title": "Shadow Dance on a Moving Light Stage",
+      "description": "Place stick-figure dancers above a bright floor and a moving spotlight; dancers spin, jump, and twirl while casting dark semi-transparent shadow shapes that slide, stretch, and merge across the floor and back wall as the light orbits the scene.",
+      "seed": "Shadow Dance on a Moving Light Stage: Place stick-figure dancers above a bright floor and a moving spotlight; dancers spin, jump, and twirl while casting dark semi-transparent shadow shapes that slide, stretch, and merge across the floor and back wall as the light orbits the scene."
+    },
+    {
+      "number": "9",
+      "title": "Geometric Shape Ballet",
+      "description": "Use simple shapes (cones, boxes, pyramids, spheres) as “dancers” that execute a synchronized ballet: rising, rotating, translating, and bowing around a central axis, occasionally pairing to orbit one another before returning to their color-coded formations.",
+      "seed": "Geometric Shape Ballet: Use simple shapes (cones, boxes, pyramids, spheres) as “dancers” that execute a synchronized ballet: rising, rotating, translating, and bowing around a central axis, occasionally pairing to orbit one another before returning to their color-coded formations."
+    },
+    {
+      "number": "10",
+      "title": "Breakdance Spinning Top Bots",
+      "description": "Create small cylindrical “breakdancer robots” whose bodies spin on their edges and tops, sliding and bouncing on a slightly bumpy floor, with friction gradually slowing them unless they collide and transfer spin, visualized with arrows and spin-rate labels.",
+      "seed": "Breakdance Spinning Top Bots: Create small cylindrical “breakdancer robots” whose bodies spin on their edges and tops, sliding and bouncing on a slightly bumpy floor, with friction gradually slowing them unless they collide and transfer spin, visualized with arrows and spin-rate labels."
+    },
+    {
+      "number": "11",
+      "title": "Planetary Dance of Orbits and Resonances",
+      "description": "Show multiple differently sized and colored spheres orbiting a central star on slightly inclined planes, adjusting their radii and speeds to fall into orbital resonances that look like a cosmic dance, with trails highlighting repeating geometric patterns.",
+      "seed": "Planetary Dance of Orbits and Resonances: Show multiple differently sized and colored spheres orbiting a central star on slightly inclined planes, adjusting their radii and speeds to fall into orbital resonances that look like a cosmic dance, with trails highlighting repeating geometric patterns."
+    },
+    {
+      "number": "12",
+      "title": "Laser Line Dance Grid",
+      "description": "Render a light-colored floor with rows of low, glowing laser lines; blocky humanoid figures align in rows and perform synchronized side-steps, kicks, and turns while occasionally crossing under or over animated laser beams that tilt, pulse, and change color.",
+      "seed": "Laser Line Dance Grid: Render a light-colored floor with rows of low, glowing laser lines; blocky humanoid figures align in rows and perform synchronized side-steps, kicks, and turns while occasionally crossing under or over animated laser beams that tilt, pulse, and change color."
+    },
+    {
+      "number": "13",
+      "title": "Cloth Veil Dance in a Breeze",
+      "description": "Simulate a soft translucent cloth sheet attached to a moving “dancer” point that traces curves above the floor, causing the cloth to billow, wrap around an invisible body path, and briefly cling then peel away, with subtle color gradients on stretched regions.",
+      "seed": "Cloth Veil Dance in a Breeze: Simulate a soft translucent cloth sheet attached to a moving “dancer” point that traces curves above the floor, causing the cloth to billow, wrap around an invisible body path, and briefly cling then peel away, with subtle color gradients on stretched regions."
+    },
+    {
+      "number": "14",
+      "title": "Avatar Dance Controller with Force Arrows",
+      "description": "Show a single humanoid stick-figure dancer controlled by oscillating hip, knee, and shoulder angles; display dynamic arrows showing forces at the feet as the avatar leaps, lands, and spins, leaving a path of footfall markers on a pale checkerboard.",
+      "seed": "Avatar Dance Controller with Force Arrows: Show a single humanoid stick-figure dancer controlled by oscillating hip, knee, and shoulder angles; display dynamic arrows showing forces at the feet as the avatar leaps, lands, and spins, leaving a path of footfall markers on a pale checkerboard."
+    },
+    {
+      "number": "15",
+      "title": "Swarming Drone Dance Performance",
+      "description": "Animate dozens of small quadcopter-like drones (simple crosses or disks with four glowing tips) that rise, form 3D patterns, split into groups, and weave around each other without colliding, with light trails and a central “choreography progress” bar.",
+      "seed": "Swarming Drone Dance Performance: Animate dozens of small quadcopter-like drones (simple crosses or disks with four glowing tips) that rise, form 3D patterns, split into groups, and weave around each other without colliding, with light trails and a central “choreography progress” bar."
+    },
+    {
+      "number": "16",
+      "title": "Wave Dance on a Flexible Bridge",
+      "description": "Model a long, slightly flexible bridge as a sequence of connected beams while several simple humanoid “dancers” jump and step in patterns; their motions send waves through the bridge that bounce from the ends, visualized as oscillating vertical displacements.",
+      "seed": "Wave Dance on a Flexible Bridge: Model a long, slightly flexible bridge as a sequence of connected beams while several simple humanoid “dancers” jump and step in patterns; their motions send waves through the bridge that bounce from the ends, visualized as oscillating vertical displacements."
+    },
+    {
+      "number": "17",
+      "title": "Firefly Dance Synchronization",
+      "description": "Place many small glowing points (“fireflies”) that float randomly in a 3D volume and flash; when nearby fireflies see a flash, their internal timers adjust, gradually synchronizing their pulses into a coordinated flickering dance, with a global sync meter.",
+      "seed": "Firefly Dance Synchronization: Place many small glowing points (“fireflies”) that float randomly in a 3D volume and flash; when nearby fireflies see a flash, their internal timers adjust, gradually synchronizing their pulses into a coordinated flickering dance, with a global sync meter."
+    },
+    {
+      "number": "18",
+      "title": "Salsa Partner Swap Carousel",
+      "description": "Arrange multiple pairs of stick-figure dancers around a circle; pairs spin around each other, then partners detach, glide to the next person along the ring, and reattach, creating a rotating carousel of partner swaps with color-coded pairing lines.",
+      "seed": "Salsa Partner Swap Carousel: Arrange multiple pairs of stick-figure dancers around a circle; pairs spin around each other, then partners detach, glide to the next person along the ring, and reattach, creating a rotating carousel of partner swaps with color-coded pairing lines."
+    },
+    {
+      "number": "19",
+      "title": "Orbiting Hoop Dance",
+      "description": "Simulate a human-height simplified body whose torso is a vertical cylinder and limbs are rods, with a glowing hoop that can orbit around the waist, arm, or leg; the dancer tilts and shifts to keep the hoop rotating, and the hoop leaves a circular trail that wobbles with instability.",
+      "seed": "Orbiting Hoop Dance: Simulate a human-height simplified body whose torso is a vertical cylinder and limbs are rods, with a glowing hoop that can orbit around the waist, arm, or leg; the dancer tilts and shifts to keep the hoop rotating, and the hoop leaves a circular trail that wobbles with instability."
+    },
+    {
+      "number": "20",
+      "title": "Mirror Dance with Symmetry Plane",
+      "description": "Place a reflective plane in the center of the scene and animate one dancer on one side; automatically generate a mirrored dancer on the other side whose motions are reflected across the plane, with occasional intentional “breaks” in symmetry highlighted by color changes.",
+      "seed": "Mirror Dance with Symmetry Plane: Place a reflective plane in the center of the scene and animate one dancer on one side; automatically generate a mirrored dancer on the other side whose motions are reflected across the plane, with occasional intentional “breaks” in symmetry highlighted by color changes."
+    },
+    {
+      "number": "21",
+      "title": "Ribbon Particle Dance Floor",
+      "description": "Show a flat floor where sweeping invisible dancers drag dense ribbons of tiny particles that follow Bezier-like curves, then disperse, mix colors, and settle as a faint dust pattern that records the history of the dance.",
+      "seed": "Ribbon Particle Dance Floor: Show a flat floor where sweeping invisible dancers drag dense ribbons of tiny particles that follow Bezier-like curves, then disperse, mix colors, and settle as a faint dust pattern that records the history of the dance."
+    },
+    {
+      "number": "22",
+      "title": "Staircase Tap Dance Resonance",
+      "description": "Build a light spiral staircase with resonant steps that light up and vibrate when tapped by a small stick-figure dancer; each tap emits a short wave that propagates down the stairs, and overlapping waves create brighter pulses and louder-looking amplitude bars.",
+      "seed": "Staircase Tap Dance Resonance: Build a light spiral staircase with resonant steps that light up and vibrate when tapped by a small stick-figure dancer; each tap emits a short wave that propagates down the stairs, and overlapping waves create brighter pulses and louder-looking amplitude bars."
+    },
+    {
+      "number": "23",
+      "title": "Robot Line Dance Programming Grid",
+      "description": "Present a grid floor with small box-shaped “robots” that execute programmed dance routines: step forward/back, turn, hop, and spin; users can visualize instruction sequences as colored labels above each robot while collisions cause robots to bounce and re-synchronize.",
+      "seed": "Robot Line Dance Programming Grid: Present a grid floor with small box-shaped “robots” that execute programmed dance routines: step forward/back, turn, hop, and spin; users can visualize instruction sequences as colored labels above each robot while collisions cause robots to bounce and re-synchronize."
+    },
+    {
+      "number": "24",
+      "title": "Constellation Dance in the Sky Dome",
+      "description": "Place points representing stars on a semi-transparent dome and link selected ones to form stick-figure “constellations” that slowly rotate, bow, and reach toward each other, lines stretching and contracting while the dome itself spins gently to create layered motion.",
+      "seed": "Constellation Dance in the Sky Dome: Place points representing stars on a semi-transparent dome and link selected ones to form stick-figure “constellations” that slowly rotate, bow, and reach toward each other, lines stretching and contracting while the dome itself spins gently to create layered motion."
+    },
+    {
+      "number": "25",
+      "title": "Underwater Jellyfish Dance",
+      "description": "Animate multiple semi-transparent jellyfish shapes that pulse, contract, and drift upward in a light-blue volume, their tentacles flowing, curling, and occasionally wrapping around one another before gently detaching, with bioluminescent pulses synced to their “beats.”",
+      "seed": "Underwater Jellyfish Dance: Animate multiple semi-transparent jellyfish shapes that pulse, contract, and drift upward in a light-blue volume, their tentacles flowing, curling, and occasionally wrapping around one another before gently detaching, with bioluminescent pulses synced to their “beats.”"
+    }
+  ],
+  "raw_output": "Here are strong **Dance motion simulation inputs** you can plug into your prompt:\n\n1. **Partner Swing Dance of Linked Spheres**\n   Simulate two human-height stick-figures made of colored spheres and cylinders that swing-dance together, with hands modeled as small spheres that attach/detach to rotate around a shared pivot while feet leave short trails on a light floor grid.\n\n2. **Crowd Circle Dance with Flocking Rules**\n   Create dozens of small colored capsules on a flat bright plane that orbit an invisible center while following flocking rules (alignment, separation, cohesion), occasionally pairing off to spin, with semi-transparent trails and a label showing “tempo” that speeds or slows their rotations.\n\n3. **Robotic Arm Dance Choreography**\n   Show three articulated robot arms (jointed cylinders) bolted to the floor that “dance” in synchronized oscillating patterns, avoiding collisions via repulsion forces, with glowing lines indicating planned paths and labels displaying joint angles in real time.\n\n4. **Light Orbs Performing Aerial Dance**\n   Float glowing semi-transparent spheres above a pale stage that weave, spiral, and braid around each other, leaving fading particle trails and occasionally merging into larger orbs or splitting into smaller ones in response to an on-screen “energy” meter.\n\n5. **Floor Tile Dance Step Visualizer**\n   Render a 2D grid of raised light tiles as a dance floor where footprints (flat semi-transparent boxes) appear, fade, and pulse in sequence to show dance steps, while a single stick-figure avatar hops, slides, and pivots to step on the lit tiles.\n\n6. **Ribbon Dance with Cloth-like Strips**\n   Animate one or two invisible “dancers” whose hand positions control long, flexible ribbons (thin, segmented cylinders or curves) that swirl, wrap around the body path, and unwind, with color shifting based on curvature and speed.\n\n7. **Molecular Dance of Reactive Particles**\n   Display different-colored spheres in a box that “dance” via random motion; when certain colored pairs collide with enough speed they attach to form short chain “choreographies,” which then rotate, bend, and later detach with a small spark of particles.\n\n8. **Shadow Dance on a Moving Light Stage**\n   Place stick-figure dancers above a bright floor and a moving spotlight; dancers spin, jump, and twirl while casting dark semi-transparent shadow shapes that slide, stretch, and merge across the floor and back wall as the light orbits the scene.\n\n9. **Geometric Shape Ballet**\n   Use simple shapes (cones, boxes, pyramids, spheres) as “dancers” that execute a synchronized ballet: rising, rotating, translating, and bowing around a central axis, occasionally pairing to orbit one another before returning to their color-coded formations.\n\n10. **Breakdance Spinning Top Bots**\n    Create small cylindrical “breakdancer robots” whose bodies spin on their edges and tops, sliding and bouncing on a slightly bumpy floor, with friction gradually slowing them unless they collide and transfer spin, visualized with arrows and spin-rate labels.\n\n11. **Planetary Dance of Orbits and Resonances**\n    Show multiple differently sized and colored spheres orbiting a central star on slightly inclined planes, adjusting their radii and speeds to fall into orbital resonances that look like a cosmic dance, with trails highlighting repeating geometric patterns.\n\n12. **Laser Line Dance Grid**\n    Render a light-colored floor with rows of low, glowing laser lines; blocky humanoid figures align in rows and perform synchronized side-steps, kicks, and turns while occasionally crossing under or over animated laser beams that tilt, pulse, and change color.\n\n13. **Cloth Veil Dance in a Breeze**\n    Simulate a soft translucent cloth sheet attached to a moving “dancer” point that traces curves above the floor, causing the cloth to billow, wrap around an invisible body path, and briefly cling then peel away, with subtle color gradients on stretched regions.\n\n14. **Avatar Dance Controller with Force Arrows**\n    Show a single humanoid stick-figure dancer controlled by oscillating hip, knee, and shoulder angles; display dynamic arrows showing forces at the feet as the avatar leaps, lands, and spins, leaving a path of footfall markers on a pale checkerboard.\n\n15. **Swarming Drone Dance Performance**\n    Animate dozens of small quadcopter-like drones (simple crosses or disks with four glowing tips) that rise, form 3D patterns, split into groups, and weave around each other without colliding, with light trails and a central “choreography progress” bar.\n\n16. **Wave Dance on a Flexible Bridge**\n    Model a long, slightly flexible bridge as a sequence of connected beams while several simple humanoid “dancers” jump and step in patterns; their motions send waves through the bridge that bounce from the ends, visualized as oscillating vertical displacements.\n\n17. **Firefly Dance Synchronization**\n    Place many small glowing points (“fireflies”) that float randomly in a 3D volume and flash; when nearby fireflies see a flash, their internal timers adjust, gradually synchronizing their pulses into a coordinated flickering dance, with a global sync meter.\n\n18. **Salsa Partner Swap Carousel**\n    Arrange multiple pairs of stick-figure dancers around a circle; pairs spin around each other, then partners detach, glide to the next person along the ring, and reattach, creating a rotating carousel of partner swaps with color-coded pairing lines.\n\n19. **Orbiting Hoop Dance**\n    Simulate a human-height simplified body whose torso is a vertical cylinder and limbs are rods, with a glowing hoop that can orbit around the waist, arm, or leg; the dancer tilts and shifts to keep the hoop rotating, and the hoop leaves a circular trail that wobbles with instability.\n\n20. **Mirror Dance with Symmetry Plane**\n    Place a reflective plane in the center of the scene and animate one dancer on one side; automatically generate a mirrored dancer on the other side whose motions are reflected across the plane, with occasional intentional “breaks” in symmetry highlighted by color changes.\n\n21. **Ribbon Particle Dance Floor**\n    Show a flat floor where sweeping invisible dancers drag dense ribbons of tiny particles that follow Bezier-like curves, then disperse, mix colors, and settle as a faint dust pattern that records the history of the dance.\n\n22. **Staircase Tap Dance Resonance**\n    Build a light spiral staircase with resonant steps that light up and vibrate when tapped by a small stick-figure dancer; each tap emits a short wave that propagates down the stairs, and overlapping waves create brighter pulses and louder-looking amplitude bars.\n\n23. **Robot Line Dance Programming Grid**\n    Present a grid floor with small box-shaped “robots” that execute programmed dance routines: step forward/back, turn, hop, and spin; users can visualize instruction sequences as colored labels above each robot while collisions cause robots to bounce and re-synchronize.\n\n24. **Constellation Dance in the Sky Dome**\n    Place points representing stars on a semi-transparent dome and link selected ones to form stick-figure “constellations” that slowly rotate, bow, and reach toward each other, lines stretching and contracting while the dome itself spins gently to create layered motion.\n\n25. **Underwater Jellyfish Dance**\n    Animate multiple semi-transparent jellyfish shapes that pulse, contract, and drift upward in a light-blue volume, their tentacles flowing, curling, and occasionally wrapping around one another before gently detaching, with bioluminescent pulses synced to their “beats.”"
+}

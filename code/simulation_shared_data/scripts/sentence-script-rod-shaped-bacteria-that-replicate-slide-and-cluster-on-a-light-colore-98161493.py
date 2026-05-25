@@ -9,18 +9,18 @@ import time
 # ------------------------------------------------------------
 
 scene = canvas(
-    title="3D Bacterial Colony Growth on a Light Surface",
+    title="3D Bacterial Colony Growth - Coral Violet Palette",
     width=1200,
     height=780,
-    background=vector(0.97, 0.985, 1.0)
+    background=vector(0.985, 0.965, 1.0)
 )
 scene.forward = vector(-0.45, -0.52, -0.72)
 scene.camera.pos = vector(8, 9, 12)
 scene.camera.axis = vector(-8, -8, -12)
-scene.ambient = vector(0.72, 0.72, 0.72)
+scene.ambient = vector(0.76, 0.70, 0.82)
 
-distant_light(direction=vector(-0.4, -0.8, -0.5), color=vector(0.95, 0.95, 0.92))
-distant_light(direction=vector(0.6, -0.4, 0.5), color=vector(0.65, 0.72, 0.85))
+distant_light(direction=vector(-0.4, -0.8, -0.5), color=vector(1.0, 0.88, 0.80))
+distant_light(direction=vector(0.6, -0.4, 0.5), color=vector(0.62, 0.78, 0.95))
 
 scene.caption = """
 Controls:
@@ -69,15 +69,15 @@ frame_count = 0
 base_plane = box(
     pos=vector(0, -0.025, 0),
     size=vector(PLANE_SIZE + 1.4, 0.05, PLANE_SIZE + 1.4),
-    color=vector(0.965, 0.945, 0.875),
+    color=vector(0.94, 0.91, 0.98),
     shininess=0.15
 )
 
 border_objs = [
-    box(pos=vector(0, 0.055, HALF + 0.33), size=vector(PLANE_SIZE + 0.7, 0.1, 0.12), color=vector(0.88, 0.86, 0.78)),
-    box(pos=vector(0, 0.055, -HALF - 0.33), size=vector(PLANE_SIZE + 0.7, 0.1, 0.12), color=vector(0.88, 0.86, 0.78)),
-    box(pos=vector(HALF + 0.33, 0.055, 0), size=vector(0.12, 0.1, PLANE_SIZE + 0.7), color=vector(0.88, 0.86, 0.78)),
-    box(pos=vector(-HALF - 0.33, 0.055, 0), size=vector(0.12, 0.1, PLANE_SIZE + 0.7), color=vector(0.88, 0.86, 0.78)),
+    box(pos=vector(0, 0.055, HALF + 0.33), size=vector(PLANE_SIZE + 0.7, 0.1, 0.12), color=vector(0.72, 0.66, 0.86)),
+    box(pos=vector(0, 0.055, -HALF - 0.33), size=vector(PLANE_SIZE + 0.7, 0.1, 0.12), color=vector(0.72, 0.66, 0.86)),
+    box(pos=vector(HALF + 0.33, 0.055, 0), size=vector(0.12, 0.1, PLANE_SIZE + 0.7), color=vector(0.72, 0.66, 0.86)),
+    box(pos=vector(-HALF - 0.33, 0.055, 0), size=vector(0.12, 0.1, PLANE_SIZE + 0.7), color=vector(0.72, 0.66, 0.86)),
 ]
 
 # -----------------------------
@@ -96,7 +96,7 @@ stats_label = label(
     pos=vector(-HALF - 0.35, 3.05, -HALF - 0.35),
     text="",
     height=12,
-    color=vector(0.16, 0.18, 0.2),
+    color=vector(0.20, 0.14, 0.28),
     box=False,
     opacity=0,
     align="left"
@@ -106,7 +106,7 @@ mode_label = label(
     pos=vector(HALF + 0.25, 2.6, -HALF - 0.35),
     text="",
     height=12,
-    color=vector(0.16, 0.18, 0.2),
+    color=vector(0.20, 0.14, 0.28),
     box=False,
     opacity=0,
     align="right"
@@ -256,7 +256,7 @@ def create_tiles():
             tile = box(
                 pos=vector(cp.x, 0.002, cp.z),
                 size=vector(CELL * 0.965, 0.018, CELL * 0.965),
-                color=vector(0.86, 1.0, 0.87),
+                color=vector(0.92, 0.86, 1.0),
                 opacity=0.93,
                 shininess=0.08
             )
@@ -267,10 +267,10 @@ def create_tiles():
 def update_tile_colors(force=False):
     if not force and frame_count % 4 != 0:
         return
-    rich_col = vector(0.78, 1.0, 0.82)
-    mid_col = vector(0.96, 0.93, 0.70)
-    poor_col = vector(0.98, 0.74, 0.66)
-    slime_col = vector(0.52, 0.77, 1.0)
+    rich_col = vector(0.98, 0.76, 0.36)
+    mid_col = vector(0.80, 0.86, 1.0)
+    poor_col = vector(0.62, 0.50, 0.76)
+    slime_col = vector(0.18, 0.88, 0.82)
 
     for i in range(GRID):
         for j in range(GRID):
@@ -368,7 +368,7 @@ def add_slime_trail(start, end, strength=0.16):
     c = curve(
         pos=[vector(start.x, 0.034, start.z), vector(end.x, 0.034, end.z)],
         radius=0.012 + 0.008 * strength,
-        color=vector(0.56, 0.82, 1.0)
+        color=vector(0.20, 0.86, 0.80)
     )
     try:
         c.opacity = 0.12 + 0.14 * strength
@@ -427,7 +427,7 @@ class Bacterium:
             pos=self.pos - axis * 0.5,
             axis=axis,
             radius=self.radius,
-            color=vector(0.68, 0.95, 0.66),
+            color=vector(1.0, 0.56, 0.72),
             shininess=0.38
         )
         self.cap1 = sphere(
@@ -445,7 +445,7 @@ class Bacterium:
         self.halo = sphere(
             pos=self.pos,
             radius=self.radius * 1.8,
-            color=vector(0.60, 0.82, 1.0),
+            color=vector(0.55, 0.38, 1.0),
             opacity=0.05,
             shininess=0.0
         )
@@ -481,12 +481,12 @@ class Bacterium:
         self.halo.pos = self.pos
 
         local_n = sample_field(N, self.pos)
-        depleted_tint = mix_color(vector(0.97, 0.44, 0.26), vector(0.72, 0.97, 0.58), clamp(local_n))
-        energy_tint = mix_color(vector(0.82, 0.62, 0.38), vector(0.64, 0.98, 0.68), clamp(self.energy / 1.8))
+        depleted_tint = mix_color(vector(0.44, 0.34, 0.70), vector(1.0, 0.62, 0.34), clamp(local_n))
+        energy_tint = mix_color(vector(0.44, 0.78, 0.90), vector(1.0, 0.50, 0.74), clamp(self.energy / 1.8))
         c = mix_color(depleted_tint, energy_tint, 0.55)
         c += vector(self.lineage_color_bias, -self.lineage_color_bias * 0.4, self.lineage_color_bias * 0.6)
         if self.attached:
-            c = mix_color(c, vector(0.44, 0.70, 1.0), 0.30)
+            c = mix_color(c, vector(0.18, 0.88, 0.82), 0.30)
             self.halo.opacity = 0.12
             self.halo.radius = self.radius * (2.15 + 0.25 * math.sin(sim_time * 2.0 + self.id))
         else:
@@ -628,7 +628,7 @@ class Bacterium:
         for _ in range(3):
             add_particle(
                 self.pos + vector(random.uniform(-0.12, 0.12), 0.12, random.uniform(-0.12, 0.12)),
-                vector(0.80, 1.0, 0.66),
+                vector(1.0, 0.72, 0.36),
                 radius=0.035,
                 life=random.uniform(0.5, 0.9),
                 opacity=0.42
@@ -719,7 +719,7 @@ def spill_nutrients(pos, radius=1.6, amount=0.55, particles_on=True):
     if particles_on:
         for _ in range(12):
             rp = pos + vector(random.uniform(-radius * 0.45, radius * 0.45), 0.12, random.uniform(-radius * 0.45, radius * 0.45))
-            add_particle(rp, vector(0.66, 1.0, 0.55), radius=random.uniform(0.025, 0.055), life=random.uniform(0.55, 1.25), opacity=0.46)
+            add_particle(rp, vector(1.0, 0.70, 0.32), radius=random.uniform(0.025, 0.055), life=random.uniform(0.55, 1.25), opacity=0.46)
 
 
 def spill_slime(pos, radius=1.25, amount=0.42, particles_on=True):
@@ -727,7 +727,7 @@ def spill_slime(pos, radius=1.25, amount=0.42, particles_on=True):
     if particles_on:
         for _ in range(8):
             rp = pos + vector(random.uniform(-radius * 0.4, radius * 0.4), 0.08, random.uniform(-radius * 0.4, radius * 0.4))
-            add_particle(rp, vector(0.48, 0.78, 1.0), radius=random.uniform(0.025, 0.05), life=random.uniform(0.65, 1.35), opacity=0.36)
+            add_particle(rp, vector(0.20, 0.86, 0.80), radius=random.uniform(0.025, 0.05), life=random.uniform(0.65, 1.35), opacity=0.36)
 
 
 def scrape_area(pos, radius=1.25, harshness=0.65):
@@ -746,13 +746,13 @@ def scrape_area(pos, radius=1.25, harshness=0.65):
         d = mag(flat(b.pos - pos))
         if d < radius:
             b.set_attached(False)
-            b.vel += safe_norm(flat(b.pos - pos) + vector(random.uniform(-0.2, 0, 0.2), 0, random.uniform(-0.2, 0, 0.2))) * harshness * 0.5
+            b.vel += safe_norm(flat(b.pos - pos) + vector(random.uniform(-0.2, 0.2), 0, random.uniform(-0.2, 0.2))) * harshness * 0.5
             if d < radius * 0.42 and random.random() < 0.09 * harshness:
                 b.kill()
 
     for _ in range(14):
         rp = pos + vector(random.uniform(-radius * 0.45, radius * 0.45), 0.09, random.uniform(-radius * 0.45, radius * 0.45))
-        add_particle(rp, vector(1.0, 0.82, 0.58), radius=random.uniform(0.018, 0.04), life=random.uniform(0.35, 0.85), opacity=0.35)
+        add_particle(rp, vector(0.96, 0.62, 0.48), radius=random.uniform(0.018, 0.04), life=random.uniform(0.35, 0.85), opacity=0.35)
 
 
 def attach_near(pos, radius=1.4, attach=True):
@@ -908,13 +908,13 @@ class AIController:
             axis=vector(0, 1, 0),
             radius=1.0,
             thickness=0.025,
-            color=vector(0.44, 0.75, 1.0),
+            color=vector(0.58, 0.46, 1.0),
             opacity=0.65
         )
         self.core = sphere(
             pos=vector(0, 0.22, 0),
             radius=0.11,
-            color=vector(0.44, 0.75, 1.0),
+            color=vector(0.58, 0.46, 1.0),
             opacity=0.72,
             shininess=0.45
         )
@@ -922,7 +922,7 @@ class AIController:
             pos=vector(0, 0.025, 0),
             axis=vector(0, 0.40, 0),
             radius=0.018,
-            color=vector(0.44, 0.75, 1.0),
+            color=vector(0.58, 0.46, 1.0),
             opacity=0.25
         )
 
@@ -946,17 +946,17 @@ class AIController:
 
     def mode_color(self):
         colors = {
-            "SEED": vector(0.56, 0.88, 1.0),
-            "FEED": vector(0.55, 1.0, 0.52),
-            "HERD": vector(1.0, 0.78, 0.42),
-            "ORBIT": vector(0.72, 0.58, 1.0),
-            "MARK": vector(0.46, 0.80, 1.0),
-            "ORGANIZE": vector(1.0, 0.64, 0.88),
-            "STIR": vector(1.0, 0.58, 0.35),
-            "SCRAPE": vector(1.0, 0.42, 0.34),
-            "REST": vector(0.82, 0.86, 0.92),
+            "SEED": vector(0.58, 0.46, 1.0),
+            "FEED": vector(1.0, 0.70, 0.32),
+            "HERD": vector(0.96, 0.44, 0.58),
+            "ORBIT": vector(0.44, 0.36, 0.92),
+            "MARK": vector(0.18, 0.88, 0.82),
+            "ORGANIZE": vector(1.0, 0.42, 0.78),
+            "STIR": vector(0.96, 0.52, 0.28),
+            "SCRAPE": vector(0.86, 0.28, 0.42),
+            "REST": vector(0.74, 0.72, 0.86),
         }
-        return colors.get(self.mode, vector(0.6, 0.8, 1.0))
+        return colors.get(self.mode, vector(0.58, 0.46, 1.0))
 
     def read_state(self):
         c = colony_center()
@@ -1132,7 +1132,7 @@ class AIController:
                         attached=random.random() < 0.16
                     )
                     spill_slime(self.cursor_pos, radius=0.6, amount=0.05, particles_on=False)
-                    add_particle(self.cursor_pos + vector(0, 0.18, 0), vector(0.62, 0.92, 1.0), radius=0.06, life=0.9, opacity=0.55)
+                    add_particle(self.cursor_pos + vector(0, 0.18, 0), vector(0.58, 0.46, 1.0), radius=0.06, life=0.9, opacity=0.55)
                 self.action_timer = random.uniform(0.8, 1.7)
 
         elif self.mode == "FEED":

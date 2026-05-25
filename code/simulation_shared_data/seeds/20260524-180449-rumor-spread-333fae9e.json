@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Rumor spread",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:04:49",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Crowd Rumor Propagation in a Town Square",
+      "description": "A flat plaza with dozens of colored spheres (people) that randomly walk, collide, and transfer a “rumor” state that changes their color and spawns fading translucent message particles that leave short trails as the rumor spreads across the crowd.",
+      "seed": "Crowd Rumor Propagation in a Town Square: A flat plaza with dozens of colored spheres (people) that randomly walk, collide, and transfer a “rumor” state that changes their color and spawns fading translucent message particles that leave short trails as the rumor spreads across the crowd."
+    },
+    {
+      "number": "2",
+      "title": "Office Building Gossip Flow Between Floors",
+      "description": "A transparent multi-story building made of boxes with small spheres (employees) moving along corridors and elevators, where a rumor starts on one floor and spreads via brief contacts, visualized as bright links that pulse between people and a side meter showing overall spread.",
+      "seed": "Office Building Gossip Flow Between Floors: A transparent multi-story building made of boxes with small spheres (employees) moving along corridors and elevators, where a rumor starts on one floor and spreads via brief contacts, visualized as bright links that pulse between people and a side meter showing overall spread."
+    },
+    {
+      "number": "3",
+      "title": "Social Network Rumor Web",
+      "description": "Floating nodes (small glowing spheres) arranged in 3D space with thin connecting cylinders (friendships); when one node is “infected” with a rumor it flashes and sends traveling pulses along links that can activate neighbors, with node color indicating belief strength and labels for highly connected hubs.",
+      "seed": "Social Network Rumor Web: Floating nodes (small glowing spheres) arranged in 3D space with thin connecting cylinders (friendships); when one node is “infected” with a rumor it flashes and sends traveling pulses along links that can activate neighbors, with node color indicating belief strength and labels for highly connected hubs."
+    },
+    {
+      "number": "4",
+      "title": "Rumor as a Contagion in a Moving Train",
+      "description": "A long transparent box (train car) sliding along a track with passengers (spheres) inside moving slightly as the train sways; a rumor originates at one end and transfers on close proximity, changing passenger colors and emitting faint mist particles that drift briefly before vanishing.",
+      "seed": "Rumor as a Contagion in a Moving Train: A long transparent box (train car) sliding along a track with passengers (spheres) inside moving slightly as the train sways; a rumor originates at one end and transfers on close proximity, changing passenger colors and emitting faint mist particles that drift briefly before vanishing."
+    },
+    {
+      "number": "5",
+      "title": "Microscopic Rumor Spread Inside a Brain-Like Network",
+      "description": "A branching neural structure of semi-transparent tubes where “rumor packets” are small glowing particles injected at one point, traveling, splitting, and merging along paths, lighting up segments as they go and fading slowly to show which regions are most activated.",
+      "seed": "Microscopic Rumor Spread Inside a Brain-Like Network: A branching neural structure of semi-transparent tubes where “rumor packets” are small glowing particles injected at one point, traveling, splitting, and merging along paths, lighting up segments as they go and fading slowly to show which regions are most activated."
+    },
+    {
+      "number": "6",
+      "title": "Rumor Flood Through a Medieval City Map",
+      "description": "A top-down 3D city grid with narrow streets and houses as low blocks, where rumor carriers (colored dots) wander, meet, and pass on rumors; rooftops gradually change color based on the percentage of carriers in each block, creating a spreading heat-map effect.",
+      "seed": "Rumor Flood Through a Medieval City Map: A top-down 3D city grid with narrow streets and houses as low blocks, where rumor carriers (colored dots) wander, meet, and pass on rumors; rooftops gradually change color based on the percentage of carriers in each block, creating a spreading heat-map effect."
+    },
+    {
+      "number": "7",
+      "title": "Rumor as a Virus in a Cellular Colony",
+      "description": "A cluster of semi-transparent cells (spheres) floating in fluid; when one cell hears a “rumor,” its membrane color shifts and it emits tiny particles that can attach to nearby cells, causing them to change color and possibly repel or attract others, visualizing rumor mutation and resistance.",
+      "seed": "Rumor as a Virus in a Cellular Colony: A cluster of semi-transparent cells (spheres) floating in fluid; when one cell hears a “rumor,” its membrane color shifts and it emits tiny particles that can attach to nearby cells, causing them to change color and possibly repel or attract others, visualizing rumor mutation and resistance."
+    },
+    {
+      "number": "8",
+      "title": "Rumor Eruption in a School Playground",
+      "description": "A rectangular field with groups of kids (spheres) in different colors for cliques; they wander, form temporary clusters, and swap rumors on contact, with each rumor type shown as a different halo color that can mix, split, and override as the simulation runs.",
+      "seed": "Rumor Eruption in a School Playground: A rectangular field with groups of kids (spheres) in different colors for cliques; they wander, form temporary clusters, and swap rumors on contact, with each rumor type shown as a different halo color that can mix, split, and override as the simulation runs."
+    },
+    {
+      "number": "9",
+      "title": "Corporate Rumor Leak Through Hierarchical Layers",
+      "description": "A vertical hierarchy tree of nodes (managers and employees) connected by rods; a rumor starts near the top, sending downward and sideways pulses that may or may not transfer based on distance and random chance, with node size and color indicating how distorted the rumor has become.",
+      "seed": "Corporate Rumor Leak Through Hierarchical Layers: A vertical hierarchy tree of nodes (managers and employees) connected by rods; a rumor starts near the top, sending downward and sideways pulses that may or may not transfer based on distance and random chance, with node size and color indicating how distorted the rumor has become."
+    },
+    {
+      "number": "10",
+      "title": "Rumor Spread on a Spaceship Crew Deck",
+      "description": "A 3D ship interior with corridors and rooms outlined by transparent walls; crew members (small capsules) walk predefined patrol paths, exchanging glowing rumor particles that orbit briefly around their heads before sinking in and changing their core color.",
+      "seed": "Rumor Spread on a Spaceship Crew Deck: A 3D ship interior with corridors and rooms outlined by transparent walls; crew members (small capsules) walk predefined patrol paths, exchanging glowing rumor particles that orbit briefly around their heads before sinking in and changing their core color."
+    },
+    {
+      "number": "11",
+      "title": "Rumor Waves in a Stadium Crowd",
+      "description": "A bowl-shaped stadium surface with thousands of tiny points (spectators) arranged in seats; when a rumor starts in one section, nearby points stand (rise upward) and change color, sending outward waves of motion and color as the rumor ripples through the stands.",
+      "seed": "Rumor Waves in a Stadium Crowd: A bowl-shaped stadium surface with thousands of tiny points (spectators) arranged in seats; when a rumor starts in one section, nearby points stand (rise upward) and change color, sending outward waves of motion and color as the rumor ripples through the stands."
+    },
+    {
+      "number": "12",
+      "title": "Rumor Diffusion in a Virtual Reality Chat Lobby",
+      "description": "Floating avatars (humanoid shapes or simple capsules) drift around a central hub, forming and dissolving groups; rumors are visualized as colored rings that expand from one avatar and, on contact, wrap around others, stacking and blending as multiple rumors circulate.",
+      "seed": "Rumor Diffusion in a Virtual Reality Chat Lobby: Floating avatars (humanoid shapes or simple capsules) drift around a central hub, forming and dissolving groups; rumors are visualized as colored rings that expand from one avatar and, on contact, wrap around others, stacking and blending as multiple rumors circulate."
+    },
+    {
+      "number": "13",
+      "title": "Rumor Spread as Fire in a Forest of Opinions",
+      "description": "A forest of vertical cylinders (trees) with varying “dryness” indicated by shade; a rumor ignites one tree, turning it into a flickering, particle-emitting column whose sparks can jump to neighboring trees, showing branching firelines of spreading gossip.",
+      "seed": "Rumor Spread as Fire in a Forest of Opinions: A forest of vertical cylinders (trees) with varying “dryness” indicated by shade; a rumor ignites one tree, turning it into a flickering, particle-emitting column whose sparks can jump to neighboring trees, showing branching firelines of spreading gossip."
+    },
+    {
+      "number": "14",
+      "title": "Rumor Propagation Across Interconnected Islands",
+      "description": "Several small landmasses (islands) with people (spheres) walking around and boats (boxes) shuttling between docks; rumors move rapidly on each island via collisions and more slowly between islands via boat passengers, with water remaining neutral and land changing color based on rumor saturation.",
+      "seed": "Rumor Propagation Across Interconnected Islands: Several small landmasses (islands) with people (spheres) walking around and boats (boxes) shuttling between docks; rumors move rapidly on each island via collisions and more slowly between islands via boat passengers, with water remaining neutral and land changing color based on rumor saturation."
+    },
+    {
+      "number": "15",
+      "title": "Competing Rumors in a 3D City Subway System",
+      "description": "Transparent tunnels weave under a grid of buildings, with trains (capsules) carrying colored rumor particles between stations; crowd clusters at stations swap rumor colors on contact, producing mixing, dominance, and extinction of different rumor types.",
+      "seed": "Competing Rumors in a 3D City Subway System: Transparent tunnels weave under a grid of buildings, with trains (capsules) carrying colored rumor particles between stations; crowd clusters at stations swap rumor colors on contact, producing mixing, dominance, and extinction of different rumor types."
+    },
+    {
+      "number": "16",
+      "title": "Rumor Echoes in a 3D Classroom Network",
+      "description": "Several classrooms represented as transparent boxes connected by hallways; inside, students and a teacher move in patterns, with a rumor starting from one student and bouncing between rooms as students walk the halls, leaving brief glowing footprints indicating paths of spread.",
+      "seed": "Rumor Echoes in a 3D Classroom Network: Several classrooms represented as transparent boxes connected by hallways; inside, students and a teacher move in patterns, with a rumor starting from one student and bouncing between rooms as students walk the halls, leaving brief glowing footprints indicating paths of spread."
+    },
+    {
+      "number": "17",
+      "title": "Rumor as a Spreading Stain in an Organization Chart Cube",
+      "description": "A 3D lattice of nodes inside a cube represents departments; a rumor injected at one corner node flows along edges as a colored fluid front that can branch, stall, or speed up, gradually filling the cube while a side bar tracks total “contamination.”",
+      "seed": "Rumor as a Spreading Stain in an Organization Chart Cube: A 3D lattice of nodes inside a cube represents departments; a rumor injected at one corner node flows along edges as a colored fluid front that can branch, stall, or speed up, gradually filling the cube while a side bar tracks total “contamination.”"
+    },
+    {
+      "number": "18",
+      "title": "Rumor Transmission on an Airplane Cabin",
+      "description": "A narrow cylinder (plane cabin) with rows of seats and passengers; air currents are represented by semi-transparent streamlines drifting from front to back, carrying rumor particles that can attach to and orbit passengers’ heads when they interact or when overhead announcements change the rumor’s intensity.",
+      "seed": "Rumor Transmission on an Airplane Cabin: A narrow cylinder (plane cabin) with rows of seats and passengers; air currents are represented by semi-transparent streamlines drifting from front to back, carrying rumor particles that can attach to and orbit passengers’ heads when they interact or when overhead announcements change the rumor’s intensity."
+    },
+    {
+      "number": "19",
+      "title": "Rumor Spread via Drones Over a Cityscape",
+      "description": "A grid of low city blocks with flying drones (small rotating boxes) that broadcast rumor particles downwards; ground agents (spheres) absorb particles, change color, and then can re-emit rumors as they pass each other on sidewalks, with visible vertical rumor plumes.",
+      "seed": "Rumor Spread via Drones Over a Cityscape: A grid of low city blocks with flying drones (small rotating boxes) that broadcast rumor particles downwards; ground agents (spheres) absorb particles, change color, and then can re-emit rumors as they pass each other on sidewalks, with visible vertical rumor plumes."
+    },
+    {
+      "number": "20",
+      "title": "Rumor Propagation Across Online Communities as 3D Clusters",
+      "description": "Several floating clusters of nodes represent different online forums; within each cluster, rumor pulses race along dense links, while thinner inter-cluster bridges transfer weaker, delayed pulses, with link thickness and color shifting based on traffic and rumor intensity.",
+      "seed": "Rumor Propagation Across Online Communities as 3D Clusters: Several floating clusters of nodes represent different online forums; within each cluster, rumor pulses race along dense links, while thinner inter-cluster bridges transfer weaker, delayed pulses, with link thickness and color shifting based on traffic and rumor intensity."
+    },
+    {
+      "number": "21",
+      "title": "Rumor as a Color-Changing Wave on a 3D Lattice of People",
+      "description": "A 3D grid of small spheres (people) that can rotate to face neighbors and pass rumors, causing cascading color changes and rotating alignment patterns that show the direction of rumor flow through the lattice.",
+      "seed": "Rumor as a Color-Changing Wave on a 3D Lattice of People: A 3D grid of small spheres (people) that can rotate to face neighbors and pass rumors, causing cascading color changes and rotating alignment patterns that show the direction of rumor flow through the lattice."
+    },
+    {
+      "number": "22",
+      "title": "Rumor Mutation in a Party with Music Zones",
+      "description": "A room divided into colored zones with a DJ booth and groups of partygoers; as they move between zones, a rumor they carry gradually shifts color (mutates), and when people cluster, their rumor colors can blend, split, or dominate, leaving transient colored mist in high-activity areas.",
+      "seed": "Rumor Mutation in a Party with Music Zones: A room divided into colored zones with a DJ booth and groups of partygoers; as they move between zones, a rumor they carry gradually shifts color (mutates), and when people cluster, their rumor colors can blend, split, or dominate, leaving transient colored mist in high-activity areas."
+    },
+    {
+      "number": "23",
+      "title": "Rumor Spread in an Ant Colony Tunnel System",
+      "description": "A branched 3D tunnel network with ants (small ellipsoids) carrying rumor pheromones that leave glowing trails on the tunnel floor; other ants that cross these trails can pick up and reinforce the rumor, thickening and brightening certain paths over time.",
+      "seed": "Rumor Spread in an Ant Colony Tunnel System: A branched 3D tunnel network with ants (small ellipsoids) carrying rumor pheromones that leave glowing trails on the tunnel floor; other ants that cross these trails can pick up and reinforce the rumor, thickening and brightening certain paths over time."
+    },
+    {
+      "number": "24",
+      "title": "Rumor Cascades in a Financial Trading Floor",
+      "description": "A trading pit with traders (capsules) clustered at different booths; rumors about prices are represented as colored arrows hovering above traders and transferring when they face each other, while price boards around the room change brightness based on the dominant rumor color.",
+      "seed": "Rumor Cascades in a Financial Trading Floor: A trading pit with traders (capsules) clustered at different booths; rumors about prices are represented as colored arrows hovering above traders and transferring when they face each other, while price boards around the room change brightness based on the dominant rumor color."
+    },
+    {
+      "number": "25",
+      "title": "Rumor Spread Through a Multi-Language City Market",
+      "description": "A busy market with stalls arranged in rows and people of different language groups color-coded; rumors move fastest within language groups and slower across them, visualized by colored speech-bubble particles that can merge, bounce off, or fade depending on who collides with whom.",
+      "seed": "Rumor Spread Through a Multi-Language City Market: A busy market with stalls arranged in rows and people of different language groups color-coded; rumors move fastest within language groups and slower across them, visualized by colored speech-bubble particles that can merge, bounce off, or fade depending on who collides with whom."
+    }
+  ],
+  "raw_output": "Here are strong **Rumor spread simulation inputs** you can plug into your prompt:\n\n1. **Crowd Rumor Propagation in a Town Square**\n   A flat plaza with dozens of colored spheres (people) that randomly walk, collide, and transfer a “rumor” state that changes their color and spawns fading translucent message particles that leave short trails as the rumor spreads across the crowd.\n\n2. **Office Building Gossip Flow Between Floors**\n   A transparent multi-story building made of boxes with small spheres (employees) moving along corridors and elevators, where a rumor starts on one floor and spreads via brief contacts, visualized as bright links that pulse between people and a side meter showing overall spread.\n\n3. **Social Network Rumor Web**\n   Floating nodes (small glowing spheres) arranged in 3D space with thin connecting cylinders (friendships); when one node is “infected” with a rumor it flashes and sends traveling pulses along links that can activate neighbors, with node color indicating belief strength and labels for highly connected hubs.\n\n4. **Rumor as a Contagion in a Moving Train**\n   A long transparent box (train car) sliding along a track with passengers (spheres) inside moving slightly as the train sways; a rumor originates at one end and transfers on close proximity, changing passenger colors and emitting faint mist particles that drift briefly before vanishing.\n\n5. **Microscopic Rumor Spread Inside a Brain-Like Network**\n   A branching neural structure of semi-transparent tubes where “rumor packets” are small glowing particles injected at one point, traveling, splitting, and merging along paths, lighting up segments as they go and fading slowly to show which regions are most activated.\n\n6. **Rumor Flood Through a Medieval City Map**\n   A top-down 3D city grid with narrow streets and houses as low blocks, where rumor carriers (colored dots) wander, meet, and pass on rumors; rooftops gradually change color based on the percentage of carriers in each block, creating a spreading heat-map effect.\n\n7. **Rumor as a Virus in a Cellular Colony**\n   A cluster of semi-transparent cells (spheres) floating in fluid; when one cell hears a “rumor,” its membrane color shifts and it emits tiny particles that can attach to nearby cells, causing them to change color and possibly repel or attract others, visualizing rumor mutation and resistance.\n\n8. **Rumor Eruption in a School Playground**\n   A rectangular field with groups of kids (spheres) in different colors for cliques; they wander, form temporary clusters, and swap rumors on contact, with each rumor type shown as a different halo color that can mix, split, and override as the simulation runs.\n\n9. **Corporate Rumor Leak Through Hierarchical Layers**\n   A vertical hierarchy tree of nodes (managers and employees) connected by rods; a rumor starts near the top, sending downward and sideways pulses that may or may not transfer based on distance and random chance, with node size and color indicating how distorted the rumor has become.\n\n10. **Rumor Spread on a Spaceship Crew Deck**\n    A 3D ship interior with corridors and rooms outlined by transparent walls; crew members (small capsules) walk predefined patrol paths, exchanging glowing rumor particles that orbit briefly around their heads before sinking in and changing their core color.\n\n11. **Rumor Waves in a Stadium Crowd**\n    A bowl-shaped stadium surface with thousands of tiny points (spectators) arranged in seats; when a rumor starts in one section, nearby points stand (rise upward) and change color, sending outward waves of motion and color as the rumor ripples through the stands.\n\n12. **Rumor Diffusion in a Virtual Reality Chat Lobby**\n    Floating avatars (humanoid shapes or simple capsules) drift around a central hub, forming and dissolving groups; rumors are visualized as colored rings that expand from one avatar and, on contact, wrap around others, stacking and blending as multiple rumors circulate.\n\n13. **Rumor Spread as Fire in a Forest of Opinions**\n    A forest of vertical cylinders (trees) with varying “dryness” indicated by shade; a rumor ignites one tree, turning it into a flickering, particle-emitting column whose sparks can jump to neighboring trees, showing branching firelines of spreading gossip.\n\n14. **Rumor Propagation Across Interconnected Islands**\n    Several small landmasses (islands) with people (spheres) walking around and boats (boxes) shuttling between docks; rumors move rapidly on each island via collisions and more slowly between islands via boat passengers, with water remaining neutral and land changing color based on rumor saturation.\n\n15. **Competing Rumors in a 3D City Subway System**\n    Transparent tunnels weave under a grid of buildings, with trains (capsules) carrying colored rumor particles between stations; crowd clusters at stations swap rumor colors on contact, producing mixing, dominance, and extinction of different rumor types.\n\n16. **Rumor Echoes in a 3D Classroom Network**\n    Several classrooms represented as transparent boxes connected by hallways; inside, students and a teacher move in patterns, with a rumor starting from one student and bouncing between rooms as students walk the halls, leaving brief glowing footprints indicating paths of spread.\n\n17. **Rumor as a Spreading Stain in an Organization Chart Cube**\n    A 3D lattice of nodes inside a cube represents departments; a rumor injected at one corner node flows along edges as a colored fluid front that can branch, stall, or speed up, gradually filling the cube while a side bar tracks total “contamination.”\n\n18. **Rumor Transmission on an Airplane Cabin**\n    A narrow cylinder (plane cabin) with rows of seats and passengers; air currents are represented by semi-transparent streamlines drifting from front to back, carrying rumor particles that can attach to and orbit passengers’ heads when they interact or when overhead announcements change the rumor’s intensity.\n\n19. **Rumor Spread via Drones Over a Cityscape**\n    A grid of low city blocks with flying drones (small rotating boxes) that broadcast rumor particles downwards; ground agents (spheres) absorb particles, change color, and then can re-emit rumors as they pass each other on sidewalks, with visible vertical rumor plumes.\n\n20. **Rumor Propagation Across Online Communities as 3D Clusters**\n    Several floating clusters of nodes represent different online forums; within each cluster, rumor pulses race along dense links, while thinner inter-cluster bridges transfer weaker, delayed pulses, with link thickness and color shifting based on traffic and rumor intensity.\n\n21. **Rumor as a Color-Changing Wave on a 3D Lattice of People**\n    A 3D grid of small spheres (people) that can rotate to face neighbors and pass rumors, causing cascading color changes and rotating alignment patterns that show the direction of rumor flow through the lattice.\n\n22. **Rumor Mutation in a Party with Music Zones**\n    A room divided into colored zones with a DJ booth and groups of partygoers; as they move between zones, a rumor they carry gradually shifts color (mutates), and when people cluster, their rumor colors can blend, split, or dominate, leaving transient colored mist in high-activity areas.\n\n23. **Rumor Spread in an Ant Colony Tunnel System**\n    A branched 3D tunnel network with ants (small ellipsoids) carrying rumor pheromones that leave glowing trails on the tunnel floor; other ants that cross these trails can pick up and reinforce the rumor, thickening and brightening certain paths over time.\n\n24. **Rumor Cascades in a Financial Trading Floor**\n    A trading pit with traders (capsules) clustered at different booths; rumors about prices are represented as colored arrows hovering above traders and transferring when they face each other, while price boards around the room change brightness based on the dominant rumor color.\n\n25. **Rumor Spread Through a Multi-Language City Market**\n    A busy market with stalls arranged in rows and people of different language groups color-coded; rumors move fastest within language groups and slower across them, visualized by colored speech-bubble particles that can merge, bounce off, or fade depending on who collides with whom."
+}

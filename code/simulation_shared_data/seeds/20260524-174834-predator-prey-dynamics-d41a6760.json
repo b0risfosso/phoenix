@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Predator-prey dynamics",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:48:34",
+  "entries": [
+    {
+      "number": "1",
+      "title": "3D Savannah Predator–Prey Chase Field",
+      "description": "A flat light-colored savannah plane with herds of small grazing spheres wandering randomly while larger predator cones stalk, chase, and collide to “tag” prey, with motion trails, hunger bars above each creature, and transparent zones showing territories.",
+      "seed": "3D Savannah Predator–Prey Chase Field: A flat light-colored savannah plane with herds of small grazing spheres wandering randomly while larger predator cones stalk, chase, and collide to “tag” prey, with motion trails, hunger bars above each creature, and transparent zones showing territories."
+    },
+    {
+      "number": "2",
+      "title": "Ocean School vs. Shark Pack",
+      "description": "A translucent blue water box with a school of small fish spheres that align and swirl while larger shark cylinders hunt from below, triggering panic waves, split/merge behaviors in the school, and bubble particles when collisions (captures) occur.",
+      "seed": "Ocean School vs. Shark Pack: A translucent blue water box with a school of small fish spheres that align and swirl while larger shark cylinders hunt from below, triggering panic waves, split/merge behaviors in the school, and bubble particles when collisions (captures) occur."
+    },
+    {
+      "number": "3",
+      "title": "Forest Wolf–Deer Population Cycle",
+      "description": "A textured green forest floor populated by brown deer spheres that graze and reproduce and gray wolf capsules that roam in packs, with energy bars, floating population graphs, and wolf–deer collisions that transfer “energy” and mark blood-red impact flashes.",
+      "seed": "Forest Wolf–Deer Population Cycle: A textured green forest floor populated by brown deer spheres that graze and reproduce and gray wolf capsules that roam in packs, with energy bars, floating population graphs, and wolf–deer collisions that transfer “energy” and mark blood-red impact flashes."
+    },
+    {
+      "number": "4",
+      "title": "3D Lotka–Volterra Orbital Orbitscape",
+      "description": "Two colored particle swarms (prey in green, predators in red) orbit around a central transparent axis, with particle counts mapped to ring radii that expand and contract, and glowing curved trails visualizing the cyclical predator–prey phase space.",
+      "seed": "3D Lotka–Volterra Orbital Orbitscape: Two colored particle swarms (prey in green, predators in red) orbit around a central transparent axis, with particle counts mapped to ring radii that expand and contract, and glowing curved trails visualizing the cyclical predator–prey phase space."
+    },
+    {
+      "number": "5",
+      "title": "Bacterial Predator–Prey in a Petri Dish",
+      "description": "A shallow transparent cylindrical dish with fast-dividing small prey spheres that replicate and form colonies, and larger predatory rods that glide, wrap around prey, absorb them, and leave fading nutrient-gradient color fields.",
+      "seed": "Bacterial Predator–Prey in a Petri Dish: A shallow transparent cylindrical dish with fast-dividing small prey spheres that replicate and form colonies, and larger predatory rods that glide, wrap around prey, absorb them, and leave fading nutrient-gradient color fields."
+    },
+    {
+      "number": "6",
+      "title": "Aerial Hawk–Flock Dynamics Over a Valley",
+      "description": "A green valley surface with a flock of small bird tetrahedrons flocking and weaving while larger hawks dive from above, causing the flock to split, merge, and swirl into protective balls, with vector arrows indicating flight directions and scare radii.",
+      "seed": "Aerial Hawk–Flock Dynamics Over a Valley: A green valley surface with a flock of small bird tetrahedrons flocking and weaving while larger hawks dive from above, causing the flock to split, merge, and swirl into protective balls, with vector arrows indicating flight directions and scare radii."
+    },
+    {
+      "number": "7",
+      "title": "Microscopic Protozoa Hunter–Grazer Swarm",
+      "description": "Inside a translucent fluid cube, small glowing prey particles drift and replicate near nutrient clumps while larger semi-transparent predator blobs pulse, extend pseudopods to attach and engulf prey, and leave faint chemical trails that attract others.",
+      "seed": "Microscopic Protozoa Hunter–Grazer Swarm: Inside a translucent fluid cube, small glowing prey particles drift and replicate near nutrient clumps while larger semi-transparent predator blobs pulse, extend pseudopods to attach and engulf prey, and leave faint chemical trails that attract others."
+    },
+    {
+      "number": "8",
+      "title": "Robot Sentinels vs. Mobile Resource Drones",
+      "description": "On a light grid floor, blue cube “resource drones” roam to collect and transfer glowing pellets, while red cone “sentinels” scan with rotating beams, chase detected drones, and deactivate them on collision, with a live HUD bar showing active vs. captured drones.",
+      "seed": "Robot Sentinels vs. Mobile Resource Drones: On a light grid floor, blue cube “resource drones” roam to collect and transfer glowing pellets, while red cone “sentinels” scan with rotating beams, chase detected drones, and deactivate them on collision, with a live HUD bar showing active vs. captured drones."
+    },
+    {
+      "number": "9",
+      "title": "Coral Reef Cleaner–Parasite Interaction",
+      "description": "A coral structure with stationary fish models that slowly accumulate red parasite particles, while small cleaner fish move between hosts, attaching briefly to remove parasites (particles transfer and fade) and leaving colored trails mapping their routes.",
+      "seed": "Coral Reef Cleaner–Parasite Interaction: A coral structure with stationary fish models that slowly accumulate red parasite particles, while small cleaner fish move between hosts, attaching briefly to remove parasites (particles transfer and fade) and leaving colored trails mapping their routes."
+    },
+    {
+      "number": "10",
+      "title": "Desert Predator–Prey Water Hole",
+      "description": "A sandy plane with a central transparent-blue oasis where herbivore spheres periodically approach to drink and linger, while camouflaged predator pyramids hide near rocks and then sprint out to chase prey, with dust particle bursts and footprints marking paths.",
+      "seed": "Desert Predator–Prey Water Hole: A sandy plane with a central transparent-blue oasis where herbivore spheres periodically approach to drink and linger, while camouflaged predator pyramids hide near rocks and then sprint out to chase prey, with dust particle bursts and footprints marking paths."
+    },
+    {
+      "number": "11",
+      "title": "Orbital Predator Satellites vs. Prey Probes",
+      "description": "In space around a planet, small prey probes orbit in various inclined paths, leaving thin trails, while larger predator satellites adjust orbits, pulse thrusters, and intercept probes to attach magnetically, with captured probes turning gray and clustering.",
+      "seed": "Orbital Predator Satellites vs. Prey Probes: In space around a planet, small prey probes orbit in various inclined paths, leaving thin trails, while larger predator satellites adjust orbits, pulse thrusters, and intercept probes to attach magnetically, with captured probes turning gray and clustering."
+    },
+    {
+      "number": "12",
+      "title": "Invasive Species vs. Native Prey Landscape",
+      "description": "A patchy landscape with color-coded habitat zones where native prey spheres forage and reproduce, while invasive predator capsules spread from one corner, changing ground color as they advance, with animated graphs showing local prey collapse or refuge.",
+      "seed": "Invasive Species vs. Native Prey Landscape: A patchy landscape with color-coded habitat zones where native prey spheres forage and reproduce, while invasive predator capsules spread from one corner, changing ground color as they advance, with animated graphs showing local prey collapse or refuge."
+    },
+    {
+      "number": "13",
+      "title": "Swarming Drones Hunting Rogue Targets in 3D Maze",
+      "description": "A light 3D maze with walls and platforms where small rogue spheres dart around, while coordinated predator drones fly, bounce off walls, and share glowing communication rays, converging to surround and trap rogues that then fade on capture.",
+      "seed": "Swarming Drones Hunting Rogue Targets in 3D Maze: A light 3D maze with walls and platforms where small rogue spheres dart around, while coordinated predator drones fly, bounce off walls, and share glowing communication rays, converging to surround and trap rogues that then fade on capture."
+    },
+    {
+      "number": "14",
+      "title": "Chemical Predator–Prey Reaction Fronts",
+      "description": "A translucent cube of “solution” where clusters of blue prey particles grow in nutrient-rich regions and red predator particles consume them, with consumption waves propagating like glowing fronts, leaving depleted transparent gaps before prey regrow.",
+      "seed": "Chemical Predator–Prey Reaction Fronts: A translucent cube of “solution” where clusters of blue prey particles grow in nutrient-rich regions and red predator particles consume them, with consumption waves propagating like glowing fronts, leaving depleted transparent gaps before prey regrow."
+    },
+    {
+      "number": "15",
+      "title": "Fireflies vs. Bats Night Meadow",
+      "description": "Over a dim meadow plane, blinking yellow firefly spheres float upward and cluster, while bat shapes swoop in arcs guided by sound-cone volumes, colliding with fireflies to dim them and leaving curved motion trails that fade slowly.",
+      "seed": "Fireflies vs. Bats Night Meadow: Over a dim meadow plane, blinking yellow firefly spheres float upward and cluster, while bat shapes swoop in arcs guided by sound-cone volumes, colliding with fireflies to dim them and leaving curved motion trails that fade slowly."
+    },
+    {
+      "number": "16",
+      "title": "Urban Cat–Mouse Alley Dynamics",
+      "description": "Between simple box “buildings,” small mouse spheres dart between food piles and holes, while cat capsules patrol, stalk behind crates, and pounce, with scent trails visualized as semi-transparent ribbons that both species follow or avoid.",
+      "seed": "Urban Cat–Mouse Alley Dynamics: Between simple box “buildings,” small mouse spheres dart between food piles and holes, while cat capsules patrol, stalk behind crates, and pounce, with scent trails visualized as semi-transparent ribbons that both species follow or avoid."
+    },
+    {
+      "number": "17",
+      "title": "Predator–Prey Network Graph in 3D",
+      "description": "A floating 3D graph where prey nodes are small green spheres and predator nodes are larger red spheres; edges glow brighter when a predation event occurs, predators move along edges toward prey clusters, and edges thicken or thin based on interaction strength.",
+      "seed": "Predator–Prey Network Graph in 3D: A floating 3D graph where prey nodes are small green spheres and predator nodes are larger red spheres; edges glow brighter when a predation event occurs, predators move along edges toward prey clusters, and edges thicken or thin based on interaction strength."
+    },
+    {
+      "number": "18",
+      "title": "Virus Hunter Nanobots vs. Viral Particles in Bloodstream",
+      "description": "Inside a semi-transparent red cylinder representing a vessel, spherical viral particles drift with flow, replicate, and cluster on walls, while nanobot capsules swim upstream, detect clusters with expanding scan spheres, attach to viruses, and cause them to dissolve into particles.",
+      "seed": "Virus Hunter Nanobots vs. Viral Particles in Bloodstream: Inside a semi-transparent red cylinder representing a vessel, spherical viral particles drift with flow, replicate, and cluster on walls, while nanobot capsules swim upstream, detect clusters with expanding scan spheres, attach to viruses, and cause them to dissolve into particles."
+    },
+    {
+      "number": "19",
+      "title": "Jungle Spider–Insect Web Trap",
+      "description": "A vertical translucent web plane with radial and spiral threads where small insect spheres fly through, bounce off, or get stuck (slow and attach), while spider models patrol, move along strands, wrap captured prey in shrinking transparent cocoons, and relocate them.",
+      "seed": "Jungle Spider–Insect Web Trap: A vertical translucent web plane with radial and spiral threads where small insect spheres fly through, bounce off, or get stuck (slow and attach), while spider models patrol, move along strands, wrap captured prey in shrinking transparent cocoons, and relocate them."
+    },
+    {
+      "number": "20",
+      "title": "Plankton–Zooplankton Vertical Migration Column",
+      "description": "A tall water column where green plankton particles rise toward light at the top during “day,” then sink, while larger zooplankton predators time their vertical migrations to intersect prey layers, with trails and a side-panel showing depth vs. density curves.",
+      "seed": "Plankton–Zooplankton Vertical Migration Column: A tall water column where green plankton particles rise toward light at the top during “day,” then sink, while larger zooplankton predators time their vertical migrations to intersect prey layers, with trails and a side-panel showing depth vs. density curves."
+    },
+    {
+      "number": "21",
+      "title": "Pack Hunters vs. Migrating Herd Across a River",
+      "description": "A wide plain with a shallow transparent river; a herd of prey crosses, some getting slowed in water, while pack predators coordinate from both banks, some swimming to intercept, with splashing particle effects and color-changing prey to indicate successful captures.",
+      "seed": "Pack Hunters vs. Migrating Herd Across a River: A wide plain with a shallow transparent river; a herd of prey crosses, some getting slowed in water, while pack predators coordinate from both banks, some swimming to intercept, with splashing particle effects and color-changing prey to indicate successful captures."
+    },
+    {
+      "number": "22",
+      "title": "3D Cellular Immune Hunt (Macrophages vs. Bacteria)",
+      "description": "Within a translucent tissue block, small bacterial rods replicate and form clusters, while larger spherical macrophages roam, extend pseudopods to attach, engulf, and digest bacteria (prey fades inside then macrophage glows briefly), leaving chemotactic trails.",
+      "seed": "3D Cellular Immune Hunt (Macrophages vs. Bacteria): Within a translucent tissue block, small bacterial rods replicate and form clusters, while larger spherical macrophages roam, extend pseudopods to attach, engulf, and digest bacteria (prey fades inside then macrophage glows briefly), leaving chemotactic trails."
+    },
+    {
+      "number": "23",
+      "title": "Alien Planet Floating Predator Orbs vs. Ground Crawlers",
+      "description": "On a bumpy pastel alien terrain, small ground prey crawl between glowing “food” crystals while hovering predator orbs scan from above, dive to grab and lift prey, then drop them into central pits, with levitation beams and pulsing color changes on capture.",
+      "seed": "Alien Planet Floating Predator Orbs vs. Ground Crawlers: On a bumpy pastel alien terrain, small ground prey crawl between glowing “food” crystals while hovering predator orbs scan from above, dive to grab and lift prey, then drop them into central pits, with levitation beams and pulsing color changes on capture."
+    },
+    {
+      "number": "24",
+      "title": "Predator–Prey as Competing Light Beams in a Prism",
+      "description": "Inside a large transparent prism, a stable blue “prey” beam bounces and splits along internal faces, while a red “predator” beam rotates and refracts to intersect the blue paths, dimming segments on contact, with labels for intensity and paths glowing over time.",
+      "seed": "Predator–Prey as Competing Light Beams in a Prism: Inside a large transparent prism, a stable blue “prey” beam bounces and splits along internal faces, while a red “predator” beam rotates and refracts to intersect the blue paths, dimming segments on contact, with labels for intensity and paths glowing over time."
+    },
+    {
+      "number": "25",
+      "title": "Stock Traders as Predators and Orders as Prey in 3D Market Cube",
+      "description": "In a transparent cube, small floating order particles (prey) cluster by price layers while larger trader agents (predators) move toward dense clusters, rapidly “consume” (attach then dissolve) orders, and transfer them into a side 3D bar chart that pulses with each trade.",
+      "seed": "Stock Traders as Predators and Orders as Prey in 3D Market Cube: In a transparent cube, small floating order particles (prey) cluster by price layers while larger trader agents (predators) move toward dense clusters, rapidly “consume” (attach then dissolve) orders, and transfer them into a side 3D bar chart that pulses with each trade."
+    }
+  ],
+  "raw_output": "Here are strong **Predator-prey dynamics simulation inputs** you can plug into your prompt:\n\n1. **3D Savannah Predator–Prey Chase Field**\n   A flat light-colored savannah plane with herds of small grazing spheres wandering randomly while larger predator cones stalk, chase, and collide to “tag” prey, with motion trails, hunger bars above each creature, and transparent zones showing territories.\n\n2. **Ocean School vs. Shark Pack**\n   A translucent blue water box with a school of small fish spheres that align and swirl while larger shark cylinders hunt from below, triggering panic waves, split/merge behaviors in the school, and bubble particles when collisions (captures) occur.\n\n3. **Forest Wolf–Deer Population Cycle**\n   A textured green forest floor populated by brown deer spheres that graze and reproduce and gray wolf capsules that roam in packs, with energy bars, floating population graphs, and wolf–deer collisions that transfer “energy” and mark blood-red impact flashes.\n\n4. **3D Lotka–Volterra Orbital Orbitscape**\n   Two colored particle swarms (prey in green, predators in red) orbit around a central transparent axis, with particle counts mapped to ring radii that expand and contract, and glowing curved trails visualizing the cyclical predator–prey phase space.\n\n5. **Bacterial Predator–Prey in a Petri Dish**\n   A shallow transparent cylindrical dish with fast-dividing small prey spheres that replicate and form colonies, and larger predatory rods that glide, wrap around prey, absorb them, and leave fading nutrient-gradient color fields.\n\n6. **Aerial Hawk–Flock Dynamics Over a Valley**\n   A green valley surface with a flock of small bird tetrahedrons flocking and weaving while larger hawks dive from above, causing the flock to split, merge, and swirl into protective balls, with vector arrows indicating flight directions and scare radii.\n\n7. **Microscopic Protozoa Hunter–Grazer Swarm**\n   Inside a translucent fluid cube, small glowing prey particles drift and replicate near nutrient clumps while larger semi-transparent predator blobs pulse, extend pseudopods to attach and engulf prey, and leave faint chemical trails that attract others.\n\n8. **Robot Sentinels vs. Mobile Resource Drones**\n   On a light grid floor, blue cube “resource drones” roam to collect and transfer glowing pellets, while red cone “sentinels” scan with rotating beams, chase detected drones, and deactivate them on collision, with a live HUD bar showing active vs. captured drones.\n\n9. **Coral Reef Cleaner–Parasite Interaction**\n   A coral structure with stationary fish models that slowly accumulate red parasite particles, while small cleaner fish move between hosts, attaching briefly to remove parasites (particles transfer and fade) and leaving colored trails mapping their routes.\n\n10. **Desert Predator–Prey Water Hole**\n   A sandy plane with a central transparent-blue oasis where herbivore spheres periodically approach to drink and linger, while camouflaged predator pyramids hide near rocks and then sprint out to chase prey, with dust particle bursts and footprints marking paths.\n\n11. **Orbital Predator Satellites vs. Prey Probes**\n   In space around a planet, small prey probes orbit in various inclined paths, leaving thin trails, while larger predator satellites adjust orbits, pulse thrusters, and intercept probes to attach magnetically, with captured probes turning gray and clustering.\n\n12. **Invasive Species vs. Native Prey Landscape**\n   A patchy landscape with color-coded habitat zones where native prey spheres forage and reproduce, while invasive predator capsules spread from one corner, changing ground color as they advance, with animated graphs showing local prey collapse or refuge.\n\n13. **Swarming Drones Hunting Rogue Targets in 3D Maze**\n   A light 3D maze with walls and platforms where small rogue spheres dart around, while coordinated predator drones fly, bounce off walls, and share glowing communication rays, converging to surround and trap rogues that then fade on capture.\n\n14. **Chemical Predator–Prey Reaction Fronts**\n   A translucent cube of “solution” where clusters of blue prey particles grow in nutrient-rich regions and red predator particles consume them, with consumption waves propagating like glowing fronts, leaving depleted transparent gaps before prey regrow.\n\n15. **Fireflies vs. Bats Night Meadow**\n   Over a dim meadow plane, blinking yellow firefly spheres float upward and cluster, while bat shapes swoop in arcs guided by sound-cone volumes, colliding with fireflies to dim them and leaving curved motion trails that fade slowly.\n\n16. **Urban Cat–Mouse Alley Dynamics**\n   Between simple box “buildings,” small mouse spheres dart between food piles and holes, while cat capsules patrol, stalk behind crates, and pounce, with scent trails visualized as semi-transparent ribbons that both species follow or avoid.\n\n17. **Predator–Prey Network Graph in 3D**\n   A floating 3D graph where prey nodes are small green spheres and predator nodes are larger red spheres; edges glow brighter when a predation event occurs, predators move along edges toward prey clusters, and edges thicken or thin based on interaction strength.\n\n18. **Virus Hunter Nanobots vs. Viral Particles in Bloodstream**\n   Inside a semi-transparent red cylinder representing a vessel, spherical viral particles drift with flow, replicate, and cluster on walls, while nanobot capsules swim upstream, detect clusters with expanding scan spheres, attach to viruses, and cause them to dissolve into particles.\n\n19. **Jungle Spider–Insect Web Trap**\n   A vertical translucent web plane with radial and spiral threads where small insect spheres fly through, bounce off, or get stuck (slow and attach), while spider models patrol, move along strands, wrap captured prey in shrinking transparent cocoons, and relocate them.\n\n20. **Plankton–Zooplankton Vertical Migration Column**\n   A tall water column where green plankton particles rise toward light at the top during “day,” then sink, while larger zooplankton predators time their vertical migrations to intersect prey layers, with trails and a side-panel showing depth vs. density curves.\n\n21. **Pack Hunters vs. Migrating Herd Across a River**\n   A wide plain with a shallow transparent river; a herd of prey crosses, some getting slowed in water, while pack predators coordinate from both banks, some swimming to intercept, with splashing particle effects and color-changing prey to indicate successful captures.\n\n22. **3D Cellular Immune Hunt (Macrophages vs. Bacteria)**\n   Within a translucent tissue block, small bacterial rods replicate and form clusters, while larger spherical macrophages roam, extend pseudopods to attach, engulf, and digest bacteria (prey fades inside then macrophage glows briefly), leaving chemotactic trails.\n\n23. **Alien Planet Floating Predator Orbs vs. Ground Crawlers**\n   On a bumpy pastel alien terrain, small ground prey crawl between glowing “food” crystals while hovering predator orbs scan from above, dive to grab and lift prey, then drop them into central pits, with levitation beams and pulsing color changes on capture.\n\n24. **Predator–Prey as Competing Light Beams in a Prism**\n   Inside a large transparent prism, a stable blue “prey” beam bounces and splits along internal faces, while a red “predator” beam rotates and refracts to intersect the blue paths, dimming segments on contact, with labels for intensity and paths glowing over time.\n\n25. **Stock Traders as Predators and Orders as Prey in 3D Market Cube**\n   In a transparent cube, small floating order particles (prey) cluster by price layers while larger trader agents (predators) move toward dense clusters, rapidly “consume” (attach then dissolve) orders, and transfer them into a side 3D bar chart that pulses with each trade."
+}

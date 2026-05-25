@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Decomposition",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:51:24",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Falling Leaf Decomposition on Forest Floor",
+      "description": "A stack of semi-transparent leaves falls onto a textured ground plane and slowly shrinks, darkens, and breaks into smaller particles that sink into the soil while color-coded nutrient spheres transfer into plant roots with floating labels.",
+      "seed": "Falling Leaf Decomposition on Forest Floor: A stack of semi-transparent leaves falls onto a textured ground plane and slowly shrinks, darkens, and breaks into smaller particles that sink into the soil while color-coded nutrient spheres transfer into plant roots with floating labels."
+    },
+    {
+      "number": "2",
+      "title": "Rotting Fruit with Expanding Mold Colony",
+      "description": "A glossy apple sits on a table and gradually softens, its surface dimpling and darkening as fuzzy mold spheres attach, grow, and release tiny spore particles that drift, land, and start new colonies with subtle pulsing colors.",
+      "seed": "Rotting Fruit with Expanding Mold Colony: A glossy apple sits on a table and gradually softens, its surface dimpling and darkening as fuzzy mold spheres attach, grow, and release tiny spore particles that drift, land, and start new colonies with subtle pulsing colors."
+    },
+    {
+      "number": "3",
+      "title": "3D Compost Pile Breakdown",
+      "description": "A pile of colored blocks representing food scraps, paper, and yard waste slowly crumble into smaller cubes and spheres while swarming microbe particles attach, detach, and glow brighter as they “consume” material, with a vertical meter showing mass loss over time.",
+      "seed": "3D Compost Pile Breakdown: A pile of colored blocks representing food scraps, paper, and yard waste slowly crumble into smaller cubes and spheres while swarming microbe particles attach, detach, and glow brighter as they “consume” material, with a vertical meter showing mass loss over time."
+    },
+    {
+      "number": "4",
+      "title": "Metal Corrosion and Flaking Rust",
+      "description": "A shiny metal beam stands upright and is bombarded by slow-moving oxygen spheres; when they collide, the metal surface becomes pitted, rust-colored voxels form, grow outward, and occasionally detach as flakes that fall and scatter on the floor.",
+      "seed": "Metal Corrosion and Flaking Rust: A shiny metal beam stands upright and is bombarded by slow-moving oxygen spheres; when they collide, the metal surface becomes pitted, rust-colored voxels form, grow outward, and occasionally detach as flakes that fall and scatter on the floor."
+    },
+    {
+      "number": "5",
+      "title": "Chemical Reaction Decomposition of a Crystal",
+      "description": "A large transparent lattice of spheres (a crystal) is struck by energetic particle beams; impacted bonds flash and break, causing clusters of atoms to detach, drift away, and recombine into smaller molecules with color-coded types and trails.",
+      "seed": "Chemical Reaction Decomposition of a Crystal: A large transparent lattice of spheres (a crystal) is struck by energetic particle beams; impacted bonds flash and break, causing clusters of atoms to detach, drift away, and recombine into smaller molecules with color-coded types and trails."
+    },
+    {
+      "number": "6",
+      "title": "Exploding Firework Decomposition into Sparks",
+      "description": "A single rocket rises with a glowing trail, then at the top of its path the core sphere splits into many colored spark particles that radiate outward, lose brightness, break into dimmer fragments, and fade while leaving short-lived trails.",
+      "seed": "Exploding Firework Decomposition into Sparks: A single rocket rises with a glowing trail, then at the top of its path the core sphere splits into many colored spark particles that radiate outward, lose brightness, break into dimmer fragments, and fade while leaving short-lived trails."
+    },
+    {
+      "number": "7",
+      "title": "3D Model Shattering into Polygon Fragments",
+      "description": "A solid colored statue rotates in space until a trigger causes it to fracture into many labeled polygonal chunks that spin, drift apart, and then slowly erode into tiny dust particles that fall and form a pile on a ground plane.",
+      "seed": "3D Model Shattering into Polygon Fragments: A solid colored statue rotates in space until a trigger causes it to fracture into many labeled polygonal chunks that spin, drift apart, and then slowly erode into tiny dust particles that fall and form a pile on a ground plane."
+    },
+    {
+      "number": "8",
+      "title": "Protein Denaturation and Decomposition",
+      "description": "A coiled, color-coded protein chain (tube or beads) floats in a transparent solution and, when heated (shown by red glow), gradually unfolds, breaks at weak points, and splits into smaller peptide segments that drift away and randomly rotate.",
+      "seed": "Protein Denaturation and Decomposition: A coiled, color-coded protein chain (tube or beads) floats in a transparent solution and, when heated (shown by red glow), gradually unfolds, breaks at weak points, and splits into smaller peptide segments that drift away and randomly rotate."
+    },
+    {
+      "number": "9",
+      "title": "Radioactive Nuclei Chain Decomposition",
+      "description": "A cluster of large nucleus spheres floats in space; each one randomly decays, splitting into smaller daughter spheres and fast-moving particle bullets with trails, while a counter and label track the number of undecayed nuclei over time.",
+      "seed": "Radioactive Nuclei Chain Decomposition: A cluster of large nucleus spheres floats in space; each one randomly decays, splitting into smaller daughter spheres and fast-moving particle bullets with trails, while a counter and label track the number of undecayed nuclei over time."
+    },
+    {
+      "number": "10",
+      "title": "Sandcastle Erosion and Breakdown by Waves",
+      "description": "A detailed sandcastle made of packed granular blocks sits on wet sand while gentle waves (semi-transparent planes) periodically roll in, collide with the structure, detach clusters of blocks, and wash them away, leaving a gradually flattening mound.",
+      "seed": "Sandcastle Erosion and Breakdown by Waves: A detailed sandcastle made of packed granular blocks sits on wet sand while gentle waves (semi-transparent planes) periodically roll in, collide with the structure, detach clusters of blocks, and wash them away, leaving a gradually flattening mound."
+    },
+    {
+      "number": "11",
+      "title": "Building Demolition and Rubble Decomposition",
+      "description": "A simple multistory block building stands on a city block; timed “charges” flash at joints, causing floors to collapse, beams to detach and collide, and chunks to break into smaller blocks that bounce, slide, and settle into a rubble pile.",
+      "seed": "Building Demolition and Rubble Decomposition: A simple multistory block building stands on a city block; timed “charges” flash at joints, causing floors to collapse, beams to detach and collide, and chunks to break into smaller blocks that bounce, slide, and settle into a rubble pile."
+    },
+    {
+      "number": "12",
+      "title": "Ice Block Melting into Water Droplets",
+      "description": "A large transparent ice cube with internal bubbles sits on a slightly tilted plane; as time passes, its edges round and shrink while small water droplet spheres form, merge, and flow downhill, leaving a shiny wet trail and a shrinking solid core.",
+      "seed": "Ice Block Melting into Water Droplets: A large transparent ice cube with internal bubbles sits on a slightly tilted plane; as time passes, its edges round and shrink while small water droplet spheres form, merge, and flow downhill, leaving a shiny wet trail and a shrinking solid core."
+    },
+    {
+      "number": "13",
+      "title": "Trash to Recyclables Decomposition Conveyor",
+      "description": "Mixed colored objects ride a moving conveyor belt; mechanical arms, magnets, and air jets detach components and sort them into bins where they are rendered decomposing into standardized cubes or pellets, with labels showing material types.",
+      "seed": "Trash to Recyclables Decomposition Conveyor: Mixed colored objects ride a moving conveyor belt; mechanical arms, magnets, and air jets detach components and sort them into bins where they are rendered decomposing into standardized cubes or pellets, with labels showing material types."
+    },
+    {
+      "number": "14",
+      "title": "Planetary Ring Decomposition into Dust",
+      "description": "A solid icy moon orbits a planet until it passes within a critical radius; tidal forces stretch it, causing chunks to detach and break apart into progressively smaller fragments that spread into a thin ring with size-graded, color-coded particles.",
+      "seed": "Planetary Ring Decomposition into Dust: A solid icy moon orbits a planet until it passes within a critical radius; tidal forces stretch it, causing chunks to detach and break apart into progressively smaller fragments that spread into a thin ring with size-graded, color-coded particles."
+    },
+    {
+      "number": "15",
+      "title": "Tree Trunk Rot and Hollow Formation",
+      "description": "A cross-section cylinder of a tree trunk stands upright; brown rot spheres propagate from a damaged area, turning nearby wood segments darker and causing them to shrink, detach, and fall inward as sawdust particles, gradually forming a hollow cavity.",
+      "seed": "Tree Trunk Rot and Hollow Formation: A cross-section cylinder of a tree trunk stands upright; brown rot spheres propagate from a damaged area, turning nearby wood segments darker and causing them to shrink, detach, and fall inward as sawdust particles, gradually forming a hollow cavity."
+    },
+    {
+      "number": "16",
+      "title": "Polymer Chain Thermal Decomposition",
+      "description": "Long colored bead-chains (polymers) float in a box; as temperature meters rise, chains begin to kink, then bonds randomly snap, splitting into shorter segments that tangle, collide, and eventually break down into tiny monomer beads.",
+      "seed": "Polymer Chain Thermal Decomposition: Long colored bead-chains (polymers) float in a box; as temperature meters rise, chains begin to kink, then bonds randomly snap, splitting into shorter segments that tangle, collide, and eventually break down into tiny monomer beads."
+    },
+    {
+      "number": "17",
+      "title": "Granular Pile Decomposition by Vibration",
+      "description": "A tall cone of stacked spheres (a sand pile) rests on a platform that oscillates; vibrations cause local collapses where clusters detach, roll, and bounce down, flattening the pile while trails map the path of selected tracer particles.",
+      "seed": "Granular Pile Decomposition by Vibration: A tall cone of stacked spheres (a sand pile) rests on a platform that oscillates; vibrations cause local collapses where clusters detach, roll, and bounce down, flattening the pile while trails map the path of selected tracer particles."
+    },
+    {
+      "number": "18",
+      "title": "Microbial Colony Breaking Down Oil Droplet",
+      "description": "A shiny semi-transparent oil droplet floats in water while small motile microbes swim around it, attach to its surface, and cause the droplet to dimple and emit smaller detached droplets that disperse, with the main droplet’s volume gradually shrinking.",
+      "seed": "Microbial Colony Breaking Down Oil Droplet: A shiny semi-transparent oil droplet floats in water while small motile microbes swim around it, attach to its surface, and cause the droplet to dimple and emit smaller detached droplets that disperse, with the main droplet’s volume gradually shrinking."
+    },
+    {
+      "number": "19",
+      "title": "City Network Decomposition Under Node Failures",
+      "description": "A 3D network of buildings (nodes) connected by glowing paths (edges) gradually loses nodes: selected buildings fade, crumble into cubes, and disappear, while their connecting edges detach and vanish, with a meter tracking the size of the largest remaining cluster.",
+      "seed": "City Network Decomposition Under Node Failures: A 3D network of buildings (nodes) connected by glowing paths (edges) gradually loses nodes: selected buildings fade, crumble into cubes, and disappear, while their connecting edges detach and vanish, with a meter tracking the size of the largest remaining cluster."
+    },
+    {
+      "number": "20",
+      "title": "Cube Decomposing into Recursive Fractal Pieces",
+      "description": "A large central cube periodically splits into eight smaller cubes that drift slightly apart; some of those then recursively split again, with each generation slightly more transparent and tinted, until the volume appears as a cloud of tiny drifting cubes.",
+      "seed": "Cube Decomposing into Recursive Fractal Pieces: A large central cube periodically splits into eight smaller cubes that drift slightly apart; some of those then recursively split again, with each generation slightly more transparent and tinted, until the volume appears as a cloud of tiny drifting cubes."
+    },
+    {
+      "number": "21",
+      "title": "Bone Decomposition in Soil Cross-Section",
+      "description": "A bone-shaped solid lies partially buried in a layered soil block; over time, its surface roughens, flakes detach as small particles and sink, while mineral-rich spheres diffuse outward into the soil layers, changing their color and opacity.",
+      "seed": "Bone Decomposition in Soil Cross-Section: A bone-shaped solid lies partially buried in a layered soil block; over time, its surface roughens, flakes detach as small particles and sink, while mineral-rich spheres diffuse outward into the soil layers, changing their color and opacity."
+    },
+    {
+      "number": "22",
+      "title": "Battery Discharge and Electrode Decomposition",
+      "description": "A 3D cutaway of a battery shows two electrodes separated by electrolyte; charged ions move back and forth as the battery discharges, while one electrode’s surface roughens, breaks into particles, and detaches, with a bar meter showing remaining capacity.",
+      "seed": "Battery Discharge and Electrode Decomposition: A 3D cutaway of a battery shows two electrodes separated by electrolyte; charged ions move back and forth as the battery discharges, while one electrode’s surface roughens, breaks into particles, and detaches, with a bar meter showing remaining capacity."
+    },
+    {
+      "number": "23",
+      "title": "Glacier Calving and Iceberg Decomposition",
+      "description": "A massive glacier block slowly slides toward a water plane; stress lines glow where cracks form, chunks detach as icebergs, then gradually erode, split, and melt into the water, which rises slightly and changes color where freshwater mixes.",
+      "seed": "Glacier Calving and Iceberg Decomposition: A massive glacier block slowly slides toward a water plane; stress lines glow where cracks form, chunks detach as icebergs, then gradually erode, split, and melt into the water, which rises slightly and changes color where freshwater mixes."
+    },
+    {
+      "number": "24",
+      "title": "Book Decomposition into Pages and Letters",
+      "description": "A closed 3D book lies on a table; it opens, then its pages detach one by one, fluttering outward and breaking into smaller rectangles, then into individual letter blocks that float away, rotate, and finally fall into a scattered letter pile.",
+      "seed": "Book Decomposition into Pages and Letters: A closed 3D book lies on a table; it opens, then its pages detach one by one, fluttering outward and breaking into smaller rectangles, then into individual letter blocks that float away, rotate, and finally fall into a scattered letter pile."
+    },
+    {
+      "number": "25",
+      "title": "Mechanical Gearbox Wear and Part Breakdown",
+      "description": "An enclosed transparent gearbox shows colored gears rotating; over time, contact surfaces darken, tiny chip particles detach from teeth during collisions, oil droplets spread and carry away debris, and severely worn gears crack and split into fragments.",
+      "seed": "Mechanical Gearbox Wear and Part Breakdown: An enclosed transparent gearbox shows colored gears rotating; over time, contact surfaces darken, tiny chip particles detach from teeth during collisions, oil droplets spread and carry away debris, and severely worn gears crack and split into fragments."
+    }
+  ],
+  "raw_output": "Here are strong **Decomposition simulation inputs** you can plug into your prompt:\n\n1. **Falling Leaf Decomposition on Forest Floor**\n   A stack of semi-transparent leaves falls onto a textured ground plane and slowly shrinks, darkens, and breaks into smaller particles that sink into the soil while color-coded nutrient spheres transfer into plant roots with floating labels.\n\n2. **Rotting Fruit with Expanding Mold Colony**\n   A glossy apple sits on a table and gradually softens, its surface dimpling and darkening as fuzzy mold spheres attach, grow, and release tiny spore particles that drift, land, and start new colonies with subtle pulsing colors.\n\n3. **3D Compost Pile Breakdown**\n   A pile of colored blocks representing food scraps, paper, and yard waste slowly crumble into smaller cubes and spheres while swarming microbe particles attach, detach, and glow brighter as they “consume” material, with a vertical meter showing mass loss over time.\n\n4. **Metal Corrosion and Flaking Rust**\n   A shiny metal beam stands upright and is bombarded by slow-moving oxygen spheres; when they collide, the metal surface becomes pitted, rust-colored voxels form, grow outward, and occasionally detach as flakes that fall and scatter on the floor.\n\n5. **Chemical Reaction Decomposition of a Crystal**\n   A large transparent lattice of spheres (a crystal) is struck by energetic particle beams; impacted bonds flash and break, causing clusters of atoms to detach, drift away, and recombine into smaller molecules with color-coded types and trails.\n\n6. **Exploding Firework Decomposition into Sparks**\n   A single rocket rises with a glowing trail, then at the top of its path the core sphere splits into many colored spark particles that radiate outward, lose brightness, break into dimmer fragments, and fade while leaving short-lived trails.\n\n7. **3D Model Shattering into Polygon Fragments**\n   A solid colored statue rotates in space until a trigger causes it to fracture into many labeled polygonal chunks that spin, drift apart, and then slowly erode into tiny dust particles that fall and form a pile on a ground plane.\n\n8. **Protein Denaturation and Decomposition**\n   A coiled, color-coded protein chain (tube or beads) floats in a transparent solution and, when heated (shown by red glow), gradually unfolds, breaks at weak points, and splits into smaller peptide segments that drift away and randomly rotate.\n\n9. **Radioactive Nuclei Chain Decomposition**\n   A cluster of large nucleus spheres floats in space; each one randomly decays, splitting into smaller daughter spheres and fast-moving particle bullets with trails, while a counter and label track the number of undecayed nuclei over time.\n\n10. **Sandcastle Erosion and Breakdown by Waves**\n    A detailed sandcastle made of packed granular blocks sits on wet sand while gentle waves (semi-transparent planes) periodically roll in, collide with the structure, detach clusters of blocks, and wash them away, leaving a gradually flattening mound.\n\n11. **Building Demolition and Rubble Decomposition**\n    A simple multistory block building stands on a city block; timed “charges” flash at joints, causing floors to collapse, beams to detach and collide, and chunks to break into smaller blocks that bounce, slide, and settle into a rubble pile.\n\n12. **Ice Block Melting into Water Droplets**\n    A large transparent ice cube with internal bubbles sits on a slightly tilted plane; as time passes, its edges round and shrink while small water droplet spheres form, merge, and flow downhill, leaving a shiny wet trail and a shrinking solid core.\n\n13. **Trash to Recyclables Decomposition Conveyor**\n    Mixed colored objects ride a moving conveyor belt; mechanical arms, magnets, and air jets detach components and sort them into bins where they are rendered decomposing into standardized cubes or pellets, with labels showing material types.\n\n14. **Planetary Ring Decomposition into Dust**\n    A solid icy moon orbits a planet until it passes within a critical radius; tidal forces stretch it, causing chunks to detach and break apart into progressively smaller fragments that spread into a thin ring with size-graded, color-coded particles.\n\n15. **Tree Trunk Rot and Hollow Formation**\n    A cross-section cylinder of a tree trunk stands upright; brown rot spheres propagate from a damaged area, turning nearby wood segments darker and causing them to shrink, detach, and fall inward as sawdust particles, gradually forming a hollow cavity.\n\n16. **Polymer Chain Thermal Decomposition**\n    Long colored bead-chains (polymers) float in a box; as temperature meters rise, chains begin to kink, then bonds randomly snap, splitting into shorter segments that tangle, collide, and eventually break down into tiny monomer beads.\n\n17. **Granular Pile Decomposition by Vibration**\n    A tall cone of stacked spheres (a sand pile) rests on a platform that oscillates; vibrations cause local collapses where clusters detach, roll, and bounce down, flattening the pile while trails map the path of selected tracer particles.\n\n18. **Microbial Colony Breaking Down Oil Droplet**\n    A shiny semi-transparent oil droplet floats in water while small motile microbes swim around it, attach to its surface, and cause the droplet to dimple and emit smaller detached droplets that disperse, with the main droplet’s volume gradually shrinking.\n\n19. **City Network Decomposition Under Node Failures**\n    A 3D network of buildings (nodes) connected by glowing paths (edges) gradually loses nodes: selected buildings fade, crumble into cubes, and disappear, while their connecting edges detach and vanish, with a meter tracking the size of the largest remaining cluster.\n\n20. **Cube Decomposing into Recursive Fractal Pieces**\n    A large central cube periodically splits into eight smaller cubes that drift slightly apart; some of those then recursively split again, with each generation slightly more transparent and tinted, until the volume appears as a cloud of tiny drifting cubes.\n\n21. **Bone Decomposition in Soil Cross-Section**\n    A bone-shaped solid lies partially buried in a layered soil block; over time, its surface roughens, flakes detach as small particles and sink, while mineral-rich spheres diffuse outward into the soil layers, changing their color and opacity.\n\n22. **Battery Discharge and Electrode Decomposition**\n    A 3D cutaway of a battery shows two electrodes separated by electrolyte; charged ions move back and forth as the battery discharges, while one electrode’s surface roughens, breaks into particles, and detaches, with a bar meter showing remaining capacity.\n\n23. **Glacier Calving and Iceberg Decomposition**\n    A massive glacier block slowly slides toward a water plane; stress lines glow where cracks form, chunks detach as icebergs, then gradually erode, split, and melt into the water, which rises slightly and changes color where freshwater mixes.\n\n24. **Book Decomposition into Pages and Letters**\n    A closed 3D book lies on a table; it opens, then its pages detach one by one, fluttering outward and breaking into smaller rectangles, then into individual letter blocks that float away, rotate, and finally fall into a scattered letter pile.\n\n25. **Mechanical Gearbox Wear and Part Breakdown**\n    An enclosed transparent gearbox shows colored gears rotating; over time, contact surfaces darken, tiny chip particles detach from teeth during collisions, oil droplets spread and carry away debris, and severely worn gears crack and split into fragments."
+}

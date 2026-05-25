@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Collisions and impact chains",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:38:20",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Newton’s Cradle with Variable Masses",
+      "description": "A row of glossy metal spheres of different sizes hangs from thin transparent strings, and when one is pulled back and released, collisions transfer momentum down the line with slight misalignments, soundless “impact flash” particles, and a side panel showing kinetic energy bars.",
+      "seed": "Newton’s Cradle with Variable Masses: A row of glossy metal spheres of different sizes hangs from thin transparent strings, and when one is pulled back and released, collisions transfer momentum down the line with slight misalignments, soundless “impact flash” particles, and a side panel showing kinetic energy bars."
+    },
+    {
+      "number": "2",
+      "title": "Domino Field Topple in 3D Maze",
+      "description": "Hundreds of tall, colored domino blocks stand in a winding 3D maze with ramps and platforms, and one initial push triggers a cascading impact chain that splits into branches, knocks over gates, and triggers rotating bridges and bouncing balls.",
+      "seed": "Domino Field Topple in 3D Maze: Hundreds of tall, colored domino blocks stand in a winding 3D maze with ramps and platforms, and one initial push triggers a cascading impact chain that splits into branches, knocks over gates, and triggers rotating bridges and bouncing balls."
+    },
+    {
+      "number": "3",
+      "title": "Billiard Table Chain-Reaction Break",
+      "description": "A 3D pool table with realistic, glossy balls and soft shadows simulates a powerful cue strike that sends balls colliding, bouncing off cushions, occasionally pocketing with a small sparkle and leaving short fading trails to show collision paths.",
+      "seed": "Billiard Table Chain-Reaction Break: A 3D pool table with realistic, glossy balls and soft shadows simulates a powerful cue strike that sends balls colliding, bouncing off cushions, occasionally pocketing with a small sparkle and leaving short fading trails to show collision paths."
+    },
+    {
+      "number": "4",
+      "title": "Asteroid Belt Impact Cascade",
+      "description": "Dozens of rocky, irregular asteroids orbit a planet, and a fast-moving “bullet asteroid” impact shatters one into fragments that collide with others, creating a spreading chain of impacts, glowing dust clouds, and changing orbits.",
+      "seed": "Asteroid Belt Impact Cascade: Dozens of rocky, irregular asteroids orbit a planet, and a fast-moving “bullet asteroid” impact shatters one into fragments that collide with others, creating a spreading chain of impacts, glowing dust clouds, and changing orbits."
+    },
+    {
+      "number": "5",
+      "title": "Nuclear Fission Chain Reaction Model",
+      "description": "A transparent cube “reactor” holds floating blue nuclei that split into fragments and red neutrons when hit, with each neutron colliding with other nuclei to continue the chain, and sliders outside the cube adjust density and show a power meter.",
+      "seed": "Nuclear Fission Chain Reaction Model: A transparent cube “reactor” holds floating blue nuclei that split into fragments and red neutrons when hit, with each neutron colliding with other nuclei to continue the chain, and sliders outside the cube adjust density and show a power meter."
+    },
+    {
+      "number": "6",
+      "title": "3D Pachinko Machine with Collision Paths",
+      "description": "A vertical, clear-sided board full of pegs releases colored balls from the top, which bounce, collide, and deflect off each other and the pegs, leaving color trails and lighting up bins at the bottom when hit in fast impact chains.",
+      "seed": "3D Pachinko Machine with Collision Paths: A vertical, clear-sided board full of pegs releases colored balls from the top, which bounce, collide, and deflect off each other and the pegs, leaving color trails and lighting up bins at the bottom when hit in fast impact chains."
+    },
+    {
+      "number": "7",
+      "title": "Rube Goldberg Collision Machine",
+      "description": "A whimsical 3D structure includes rolling balls, tilting platforms, see-saws, swinging hammers, and falling blocks, where each collision triggers the next stage: a ball knocks a lever, lever tips a bucket, bucket spills marbles, marbles hit a gong.",
+      "seed": "Rube Goldberg Collision Machine: A whimsical 3D structure includes rolling balls, tilting platforms, see-saws, swinging hammers, and falling blocks, where each collision triggers the next stage: a ball knocks a lever, lever tips a bucket, bucket spills marbles, marbles hit a gong."
+    },
+    {
+      "number": "8",
+      "title": "Car Crash Test Impact Chain",
+      "description": "A light-colored test track has multiple dummy cars aligned in staggered lanes; one car is accelerated into a stationary one, and the resulting chain-reaction pileup shows realistic bouncing, deformation (simplified scaling), and force vectors drawn as arrows on impact.",
+      "seed": "Car Crash Test Impact Chain: A light-colored test track has multiple dummy cars aligned in staggered lanes; one car is accelerated into a stationary one, and the resulting chain-reaction pileup shows realistic bouncing, deformation (simplified scaling), and force vectors drawn as arrows on impact."
+    },
+    {
+      "number": "9",
+      "title": "Mousetrap-Style Ball and Spring Chain",
+      "description": "A grid of spring-loaded paddles holds tiny balls; when one ball is dropped, it triggers a paddle that launches another ball, which collides with the next paddle, propagating a visible impact wave across the grid with pulsing color on triggered paddles.",
+      "seed": "Mousetrap-Style Ball and Spring Chain: A grid of spring-loaded paddles holds tiny balls; when one ball is dropped, it triggers a paddle that launches another ball, which collides with the next paddle, propagating a visible impact wave across the grid with pulsing color on triggered paddles."
+    },
+    {
+      "number": "10",
+      "title": "3D Sandpile Avalanche Cascade",
+      "description": "A gentle stream of small spheres (sand grains) drops onto a conical pile until a critical slope triggers an avalanche, as grains collide and roll down, colliding into others and causing a chain slide that is visualized with changing colors or slope heatmap.",
+      "seed": "3D Sandpile Avalanche Cascade: A gentle stream of small spheres (sand grains) drops onto a conical pile until a critical slope triggers an avalanche, as grains collide and roll down, colliding into others and causing a chain slide that is visualized with changing colors or slope heatmap."
+    },
+    {
+      "number": "11",
+      "title": "Molecular Gas Collision Chain in a Box",
+      "description": "A transparent cube contains many colored spheres representing gas molecules bouncing elastically; an energetic “bullet” molecule is injected to start a visible chain of faster collisions, with trails showing energy transfer and a floating temperature meter updating.",
+      "seed": "Molecular Gas Collision Chain in a Box: A transparent cube contains many colored spheres representing gas molecules bouncing elastically; an energetic “bullet” molecule is injected to start a visible chain of faster collisions, with trails showing energy transfer and a floating temperature meter updating."
+    },
+    {
+      "number": "12",
+      "title": "Orbital Debris Collision Scenario",
+      "description": "Several satellites and panels orbit a planet, and when one satellite explodes into fragments, pieces collide with other satellites, knocking off components that become new debris with trails and labels, illustrating a Kessler-syndrome-style impact chain.",
+      "seed": "Orbital Debris Collision Scenario: Several satellites and panels orbit a planet, and when one satellite explodes into fragments, pieces collide with other satellites, knocking off components that become new debris with trails and labels, illustrating a Kessler-syndrome-style impact chain."
+    },
+    {
+      "number": "13",
+      "title": "3D Pinball Table with Triggered Bumpers",
+      "description": "A bright pinball table has sloped surfaces, rotating paddles, bumpers, and gates; each collision of the glowing pinball with bumpers triggers brief light pulses, sound-wave particles, and additional balls launched from side tubes causing complex impact chains.",
+      "seed": "3D Pinball Table with Triggered Bumpers: A bright pinball table has sloped surfaces, rotating paddles, bumpers, and gates; each collision of the glowing pinball with bumpers triggers brief light pulses, sound-wave particles, and additional balls launched from side tubes causing complex impact chains."
+    },
+    {
+      "number": "14",
+      "title": "Stacked Crate Tower Collapse",
+      "description": "A tall stack of textured wooden crates stands on a flat floor; a moving battering-ram box collides into the base, knocking crates off in a tumbling chain reaction, with boxes colliding mid-air, bouncing, and scattering with dust puffs at each impact point.",
+      "seed": "Stacked Crate Tower Collapse: A tall stack of textured wooden crates stands on a flat floor; a moving battering-ram box collides into the base, knocking crates off in a tumbling chain reaction, with boxes colliding mid-air, bouncing, and scattering with dust puffs at each impact point."
+    },
+    {
+      "number": "15",
+      "title": "Colliding Train Cars on Parallel Tracks",
+      "description": "Multiple train cars (simple rectangular bodies) sit on parallel rails, and a powered locomotive car collides into the line, coupling or decoupling cars via impact thresholds, transferring momentum along each train, and occasionally shunting cars onto side tracks.",
+      "seed": "Colliding Train Cars on Parallel Tracks: Multiple train cars (simple rectangular bodies) sit on parallel rails, and a powered locomotive car collides into the line, coupling or decoupling cars via impact thresholds, transferring momentum along each train, and occasionally shunting cars onto side tracks."
+    },
+    {
+      "number": "16",
+      "title": "Marble Run Impact Race with Branching Paths",
+      "description": "Several colored marbles are released at the top of a 3D track with forks, spirals, and bumpers; collisions between marbles determine which path they take, with impact chains causing some marbles to be bumped onto shortcuts or into pits that light up.",
+      "seed": "Marble Run Impact Race with Branching Paths: Several colored marbles are released at the top of a 3D track with forks, spirals, and bumpers; collisions between marbles determine which path they take, with impact chains causing some marbles to be bumped onto shortcuts or into pits that light up."
+    },
+    {
+      "number": "17",
+      "title": "Pedestrian Crowd Chain-Reaction Stop",
+      "description": "Dozens of simple humanoid capsules walk along a path; when the leader stops suddenly, following agents collide lightly and compress, causing a backward-propagating stopping wave visualized as changing colors or expanding rings along the crowd.",
+      "seed": "Pedestrian Crowd Chain-Reaction Stop: Dozens of simple humanoid capsules walk along a path; when the leader stops suddenly, following agents collide lightly and compress, causing a backward-propagating stopping wave visualized as changing colors or expanding rings along the crowd."
+    },
+    {
+      "number": "18",
+      "title": "3D Air Hockey Puck Impact Network",
+      "description": "A frictionless table hosts multiple pucks and stationary obstacles; an initial struck puck collides with others, setting off a sequence of impacts that can free “locked” pucks, with faint trails, collision sound pulses, and score labels for each secondary hit.",
+      "seed": "3D Air Hockey Puck Impact Network: A frictionless table hosts multiple pucks and stationary obstacles; an initial struck puck collides with others, setting off a sequence of impacts that can free “locked” pucks, with faint trails, collision sound pulses, and score labels for each secondary hit."
+    },
+    {
+      "number": "19",
+      "title": "Planetary Ring Particle Collisions",
+      "description": "Thousands of tiny ring particles orbit a planet in a thin disk; a passing moonlet perturbs the ring, causing local densifications where particles collide more, leading to clumps that merge or split and leave bright streaks where impact chains are strongest.",
+      "seed": "Planetary Ring Particle Collisions: Thousands of tiny ring particles orbit a planet in a thin disk; a passing moonlet perturbs the ring, causing local densifications where particles collide more, leading to clumps that merge or split and leave bright streaks where impact chains are strongest."
+    },
+    {
+      "number": "20",
+      "title": "Crystal Lattice Impact Wave",
+      "description": "A 3D grid of spheres connected by faint springs represents a crystal; a hammer-like sphere strikes one face, and collisions plus spring forces propagate a visible impact wave through the lattice, with spheres briefly glowing as they get hit and damping over time.",
+      "seed": "Crystal Lattice Impact Wave: A 3D grid of spheres connected by faint springs represents a crystal; a hammer-like sphere strikes one face, and collisions plus spring forces propagate a visible impact wave through the lattice, with spheres briefly glowing as they get hit and damping over time."
+    },
+    {
+      "number": "21",
+      "title": "Toppling Skyscraper of Blocks",
+      "description": "A high-rise made of stacked, slightly offset rectangular blocks stands on a platform; pulling out or colliding a “support” block at the base triggers a complex cascading sequence of collisions as upper layers tilt, slide, and crash down with dust particles.",
+      "seed": "Toppling Skyscraper of Blocks: A high-rise made of stacked, slightly offset rectangular blocks stands on a platform; pulling out or colliding a “support” block at the base triggers a complex cascading sequence of collisions as upper layers tilt, slide, and crash down with dust particles."
+    },
+    {
+      "number": "22",
+      "title": "3D Bowling Alley Multi-Lane Crash",
+      "description": "Several lanes side by side each have pins and optional extra obstacles; heavy balls roll down, collide with pins, and sometimes cross lanes via shared gaps, setting off cross-lane impact chains of pins colliding into pins next door.",
+      "seed": "3D Bowling Alley Multi-Lane Crash: Several lanes side by side each have pins and optional extra obstacles; heavy balls roll down, collide with pins, and sometimes cross lanes via shared gaps, setting off cross-lane impact chains of pins colliding into pins next door."
+    },
+    {
+      "number": "23",
+      "title": "Magnetic Collision Chain with Attaching Spheres",
+      "description": "Colored metallic spheres float on a frictionless surface with invisible magnetic attractions; when one is pushed, collisions make spheres attach into clusters or detach when impacts are strong, forming changing chains and shapes that glow at each snap event.",
+      "seed": "Magnetic Collision Chain with Attaching Spheres: Colored metallic spheres float on a frictionless surface with invisible magnetic attractions; when one is pushed, collisions make spheres attach into clusters or detach when impacts are strong, forming changing chains and shapes that glow at each snap event."
+    },
+    {
+      "number": "24",
+      "title": "Meteor Shower Hitting Layered Terrain",
+      "description": "A stream of meteors enters above a layered landscape; impacts excavate craters, ejecting particle fragments that land nearby and trigger secondary mini-craters, visualizing chains of collisions with color changes for each layer of exposed terrain.",
+      "seed": "Meteor Shower Hitting Layered Terrain: A stream of meteors enters above a layered landscape; impacts excavate craters, ejecting particle fragments that land nearby and trigger secondary mini-craters, visualizing chains of collisions with color changes for each layer of exposed terrain."
+    },
+    {
+      "number": "25",
+      "title": "Traffic Intersection Chain-Reaction Crash",
+      "description": "Simple car boxes drive through a 4-way intersection following lanes; when one car runs a “virtual red light” and collides, the sudden stop and deflection cause nearby cars to rear-end or sideswipe in a branching collision chain, with impact arrows and labels.",
+      "seed": "Traffic Intersection Chain-Reaction Crash: Simple car boxes drive through a 4-way intersection following lanes; when one car runs a “virtual red light” and collides, the sudden stop and deflection cause nearby cars to rear-end or sideswipe in a branching collision chain, with impact arrows and labels."
+    }
+  ],
+  "raw_output": "Here are strong **Collisions and impact chains simulation inputs** you can plug into your prompt:\n\n1. **Newton’s Cradle with Variable Masses**\n   A row of glossy metal spheres of different sizes hangs from thin transparent strings, and when one is pulled back and released, collisions transfer momentum down the line with slight misalignments, soundless “impact flash” particles, and a side panel showing kinetic energy bars.\n\n2. **Domino Field Topple in 3D Maze**\n   Hundreds of tall, colored domino blocks stand in a winding 3D maze with ramps and platforms, and one initial push triggers a cascading impact chain that splits into branches, knocks over gates, and triggers rotating bridges and bouncing balls.\n\n3. **Billiard Table Chain-Reaction Break**\n   A 3D pool table with realistic, glossy balls and soft shadows simulates a powerful cue strike that sends balls colliding, bouncing off cushions, occasionally pocketing with a small sparkle and leaving short fading trails to show collision paths.\n\n4. **Asteroid Belt Impact Cascade**\n   Dozens of rocky, irregular asteroids orbit a planet, and a fast-moving “bullet asteroid” impact shatters one into fragments that collide with others, creating a spreading chain of impacts, glowing dust clouds, and changing orbits.\n\n5. **Nuclear Fission Chain Reaction Model**\n   A transparent cube “reactor” holds floating blue nuclei that split into fragments and red neutrons when hit, with each neutron colliding with other nuclei to continue the chain, and sliders outside the cube adjust density and show a power meter.\n\n6. **3D Pachinko Machine with Collision Paths**\n   A vertical, clear-sided board full of pegs releases colored balls from the top, which bounce, collide, and deflect off each other and the pegs, leaving color trails and lighting up bins at the bottom when hit in fast impact chains.\n\n7. **Rube Goldberg Collision Machine**\n   A whimsical 3D structure includes rolling balls, tilting platforms, see-saws, swinging hammers, and falling blocks, where each collision triggers the next stage: a ball knocks a lever, lever tips a bucket, bucket spills marbles, marbles hit a gong.\n\n8. **Car Crash Test Impact Chain**\n   A light-colored test track has multiple dummy cars aligned in staggered lanes; one car is accelerated into a stationary one, and the resulting chain-reaction pileup shows realistic bouncing, deformation (simplified scaling), and force vectors drawn as arrows on impact.\n\n9. **Mousetrap-Style Ball and Spring Chain**\n   A grid of spring-loaded paddles holds tiny balls; when one ball is dropped, it triggers a paddle that launches another ball, which collides with the next paddle, propagating a visible impact wave across the grid with pulsing color on triggered paddles.\n\n10. **3D Sandpile Avalanche Cascade**\n    A gentle stream of small spheres (sand grains) drops onto a conical pile until a critical slope triggers an avalanche, as grains collide and roll down, colliding into others and causing a chain slide that is visualized with changing colors or slope heatmap.\n\n11. **Molecular Gas Collision Chain in a Box**\n    A transparent cube contains many colored spheres representing gas molecules bouncing elastically; an energetic “bullet” molecule is injected to start a visible chain of faster collisions, with trails showing energy transfer and a floating temperature meter updating.\n\n12. **Orbital Debris Collision Scenario**\n    Several satellites and panels orbit a planet, and when one satellite explodes into fragments, pieces collide with other satellites, knocking off components that become new debris with trails and labels, illustrating a Kessler-syndrome-style impact chain.\n\n13. **3D Pinball Table with Triggered Bumpers**\n    A bright pinball table has sloped surfaces, rotating paddles, bumpers, and gates; each collision of the glowing pinball with bumpers triggers brief light pulses, sound-wave particles, and additional balls launched from side tubes causing complex impact chains.\n\n14. **Stacked Crate Tower Collapse**\n    A tall stack of textured wooden crates stands on a flat floor; a moving battering-ram box collides into the base, knocking crates off in a tumbling chain reaction, with boxes colliding mid-air, bouncing, and scattering with dust puffs at each impact point.\n\n15. **Colliding Train Cars on Parallel Tracks**\n    Multiple train cars (simple rectangular bodies) sit on parallel rails, and a powered locomotive car collides into the line, coupling or decoupling cars via impact thresholds, transferring momentum along each train, and occasionally shunting cars onto side tracks.\n\n16. **Marble Run Impact Race with Branching Paths**\n    Several colored marbles are released at the top of a 3D track with forks, spirals, and bumpers; collisions between marbles determine which path they take, with impact chains causing some marbles to be bumped onto shortcuts or into pits that light up.\n\n17. **Pedestrian Crowd Chain-Reaction Stop**\n    Dozens of simple humanoid capsules walk along a path; when the leader stops suddenly, following agents collide lightly and compress, causing a backward-propagating stopping wave visualized as changing colors or expanding rings along the crowd.\n\n18. **3D Air Hockey Puck Impact Network**\n    A frictionless table hosts multiple pucks and stationary obstacles; an initial struck puck collides with others, setting off a sequence of impacts that can free “locked” pucks, with faint trails, collision sound pulses, and score labels for each secondary hit.\n\n19. **Planetary Ring Particle Collisions**\n    Thousands of tiny ring particles orbit a planet in a thin disk; a passing moonlet perturbs the ring, causing local densifications where particles collide more, leading to clumps that merge or split and leave bright streaks where impact chains are strongest.\n\n20. **Crystal Lattice Impact Wave**\n    A 3D grid of spheres connected by faint springs represents a crystal; a hammer-like sphere strikes one face, and collisions plus spring forces propagate a visible impact wave through the lattice, with spheres briefly glowing as they get hit and damping over time.\n\n21. **Toppling Skyscraper of Blocks**\n    A high-rise made of stacked, slightly offset rectangular blocks stands on a platform; pulling out or colliding a “support” block at the base triggers a complex cascading sequence of collisions as upper layers tilt, slide, and crash down with dust particles.\n\n22. **3D Bowling Alley Multi-Lane Crash**\n    Several lanes side by side each have pins and optional extra obstacles; heavy balls roll down, collide with pins, and sometimes cross lanes via shared gaps, setting off cross-lane impact chains of pins colliding into pins next door.\n\n23. **Magnetic Collision Chain with Attaching Spheres**\n    Colored metallic spheres float on a frictionless surface with invisible magnetic attractions; when one is pushed, collisions make spheres attach into clusters or detach when impacts are strong, forming changing chains and shapes that glow at each snap event.\n\n24. **Meteor Shower Hitting Layered Terrain**\n    A stream of meteors enters above a layered landscape; impacts excavate craters, ejecting particle fragments that land nearby and trigger secondary mini-craters, visualizing chains of collisions with color changes for each layer of exposed terrain.\n\n25. **Traffic Intersection Chain-Reaction Crash**\n    Simple car boxes drive through a 4-way intersection following lanes; when one car runs a “virtual red light” and collides, the sudden stop and deflection cause nearby cars to rear-end or sideswipe in a branching collision chain, with impact arrows and labels."
+}

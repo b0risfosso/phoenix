@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Waves and tides",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:54:04",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Lunar-Driven Ocean Tides on a Curved Coastline",
+      "description": "A translucent blue ocean surface made of oscillating wave segments along a curved shoreline responds to the orbit of a labeled moon sphere, with the water level rising and falling to show high and low tides along the coast and small boats bobbing and leaving trails.",
+      "seed": "Lunar-Driven Ocean Tides on a Curved Coastline: A translucent blue ocean surface made of oscillating wave segments along a curved shoreline responds to the orbit of a labeled moon sphere, with the water level rising and falling to show high and low tides along the coast and small boats bobbing and leaving trails."
+    },
+    {
+      "number": "2",
+      "title": "Standing Wave in a Wave Tank",
+      "description": "A rectangular transparent tank holds a blue water surface where a paddle at one end oscillates to create waves that reflect off the opposite wall and form standing waves, with labeled nodes and antinodes marked by floating colored spheres.",
+      "seed": "Standing Wave in a Wave Tank: A rectangular transparent tank holds a blue water surface where a paddle at one end oscillates to create waves that reflect off the opposite wall and form standing waves, with labeled nodes and antinodes marked by floating colored spheres."
+    },
+    {
+      "number": "3",
+      "title": "Tsunami Propagation Across an Ocean Basin",
+      "description": "A curved Earth segment shows a shallow-water wave “bump” created by a seafloor uplift plate that propagates across the basin, shoals and grows taller near a coastline, and interacts with harbor walls while tiny labeled boats and buildings are impacted.",
+      "seed": "Tsunami Propagation Across an Ocean Basin: A curved Earth segment shows a shallow-water wave “bump” created by a seafloor uplift plate that propagates across the basin, shoals and grows taller near a coastline, and interacts with harbor walls while tiny labeled boats and buildings are impacted."
+    },
+    {
+      "number": "4",
+      "title": "Double-Slit Water Wave Interference",
+      "description": "A shallow rectangular pool has a wave generator on one side sending ripples through two narrow slits in a barrier, forming an interference pattern of peaks and troughs visualized with height-based color gradients and floating markers that trace crest paths.",
+      "seed": "Double-Slit Water Wave Interference: A shallow rectangular pool has a wave generator on one side sending ripples through two narrow slits in a barrier, forming an interference pattern of peaks and troughs visualized with height-based color gradients and floating markers that trace crest paths."
+    },
+    {
+      "number": "5",
+      "title": "Orbiting Moon and Earth Tide Bulges",
+      "description": "A rotating Earth sphere with semi-transparent blue tidal bulges wrapped around it is orbited by a moon sphere; the bulges lag slightly and stretch as the moon moves, with arrows showing gravitational pull and labels for spring and neap tide configurations.",
+      "seed": "Orbiting Moon and Earth Tide Bulges: A rotating Earth sphere with semi-transparent blue tidal bulges wrapped around it is orbited by a moon sphere; the bulges lag slightly and stretch as the moon moves, with arrows showing gravitational pull and labels for spring and neap tide configurations."
+    },
+    {
+      "number": "6",
+      "title": "Harbor Resonance and Amplified Tides",
+      "description": "A narrow, U-shaped harbor connected to the open ocean fills and drains with oscillating water level; incoming tidal waves resonate with the harbor’s natural frequency, amplifying wave heights and causing floating docks and boats to rise, fall, and bump gently.",
+      "seed": "Harbor Resonance and Amplified Tides: A narrow, U-shaped harbor connected to the open ocean fills and drains with oscillating water level; incoming tidal waves resonate with the harbor’s natural frequency, amplifying wave heights and causing floating docks and boats to rise, fall, and bump gently."
+    },
+    {
+      "number": "7",
+      "title": "Breaking Waves on a Sloping Beach",
+      "description": "A sloped sandy seabed meets incoming rolling waves that steepen, curl, and “break” into foamy particle sprays near the shore, with surfboards that ride up and down the waves and leave white particle trails as they move.",
+      "seed": "Breaking Waves on a Sloping Beach: A sloped sandy seabed meets incoming rolling waves that steepen, curl, and “break” into foamy particle sprays near the shore, with surfboards that ride up and down the waves and leave white particle trails as they move."
+    },
+    {
+      "number": "8",
+      "title": "Internal Waves at an Ocean Density Interface",
+      "description": "Two stacked layers of water (dark blue below, light blue above) are separated by a slightly transparent surface that undulates as internal waves propagate; marker particles at the interface move in orbital paths while surface waves above remain small.",
+      "seed": "Internal Waves at an Ocean Density Interface: Two stacked layers of water (dark blue below, light blue above) are separated by a slightly transparent surface that undulates as internal waves propagate; marker particles at the interface move in orbital paths while surface waves above remain small."
+    },
+    {
+      "number": "9",
+      "title": "Tidal Flow Through a Narrow Inlet",
+      "description": "A bay connected to the open sea by a narrow channel experiences rising and falling sea level, driving alternating inflow and outflow currents visualized with arrows and drifting particles that speed up in the constriction and slow in the wider bay.",
+      "seed": "Tidal Flow Through a Narrow Inlet: A bay connected to the open sea by a narrow channel experiences rising and falling sea level, driving alternating inflow and outflow currents visualized with arrows and drifting particles that speed up in the constriction and slow in the wider bay."
+    },
+    {
+      "number": "10",
+      "title": "Wave Reflection and Refraction Over a Submerged Reef",
+      "description": "Parallel waves approach from deep water and slow over a shallow reef, bending (refracting) and partially reflecting, with color-coded depth contours and floating buoys that trace the changing direction and speed of wave crests.",
+      "seed": "Wave Reflection and Refraction Over a Submerged Reef: Parallel waves approach from deep water and slow over a shallow reef, bending (refracting) and partially reflecting, with color-coded depth contours and floating buoys that trace the changing direction and speed of wave crests."
+    },
+    {
+      "number": "11",
+      "title": "Storm Surge and Superimposed Tidal Waves",
+      "description": "A low-lying coastline with a tide-driven rising and falling sea level experiences an approaching storm that adds a broad “surge” wave, causing water to overtop a seawall and flood inland, with buildings changing color when inundated.",
+      "seed": "Storm Surge and Superimposed Tidal Waves: A low-lying coastline with a tide-driven rising and falling sea level experiences an approaching storm that adds a broad “surge” wave, causing water to overtop a seawall and flood inland, with buildings changing color when inundated."
+    },
+    {
+      "number": "12",
+      "title": "Microscopic Capillary Waves on a Droplet Surface",
+      "description": "A magnified water droplet sphere on a flat surface supports tiny capillary waves that travel and interfere around its curved surface, with surface tension forces shown as radial arrows and bright specular highlights tracking wave crests.",
+      "seed": "Microscopic Capillary Waves on a Droplet Surface: A magnified water droplet sphere on a flat surface supports tiny capillary waves that travel and interfere around its curved surface, with surface tension forces shown as radial arrows and bright specular highlights tracking wave crests."
+    },
+    {
+      "number": "13",
+      "title": "Group Velocity and Wave Packets on a Rope",
+      "description": "A taut rope represented by a chain of small spheres oscillates in 3D as a localized wave packet travels along it, with the group of peaks moving at a different speed than individual crests, and colored trails highlighting both motions.",
+      "seed": "Group Velocity and Wave Packets on a Rope: A taut rope represented by a chain of small spheres oscillates in 3D as a localized wave packet travels along it, with the group of peaks moving at a different speed than individual crests, and colored trails highlighting both motions."
+    },
+    {
+      "number": "14",
+      "title": "Seiches in a Tilted Lake Basin",
+      "description": "A long lake basin partially filled with water tilts slightly back and forth, creating basin-scale sloshing (seiche) where the water surface rocks from one end to the other, with gauge markers at both ends recording and displaying water level oscillations.",
+      "seed": "Seiches in a Tilted Lake Basin: A long lake basin partially filled with water tilts slightly back and forth, creating basin-scale sloshing (seiche) where the water surface rocks from one end to the other, with gauge markers at both ends recording and displaying water level oscillations."
+    },
+    {
+      "number": "15",
+      "title": "Energy Transfer in Colliding Wave Trains",
+      "description": "Two perpendicular sets of surface waves travel across a square pool toward each other, collide in the center, form temporary high peaks and deep troughs, and then pass through, with energy density visualized via dynamic color intensity.",
+      "seed": "Energy Transfer in Colliding Wave Trains: Two perpendicular sets of surface waves travel across a square pool toward each other, collide in the center, form temporary high peaks and deep troughs, and then pass through, with energy density visualized via dynamic color intensity."
+    },
+    {
+      "number": "16",
+      "title": "Rip Currents in a Surf Zone",
+      "description": "Incoming breaking waves deposit water near the shoreline, which then returns seaward through narrow rip channels; floating particles and swimmers are pulled outward in these rips while others drift gently alongshore, all traced with color-coded paths.",
+      "seed": "Rip Currents in a Surf Zone: Incoming breaking waves deposit water near the shoreline, which then returns seaward through narrow rip channels; floating particles and swimmers are pulled outward in these rips while others drift gently alongshore, all traced with color-coded paths."
+    },
+    {
+      "number": "17",
+      "title": "Tidal Bending and Flexing of an Elastic Moon",
+      "description": "A slightly deformable spherical moon orbits a planet and stretches along the planet-moon line, with internal grid lines that flex in response to tidal forces and stored strain energy visualized as changing color patterns inside the body.",
+      "seed": "Tidal Bending and Flexing of an Elastic Moon: A slightly deformable spherical moon orbits a planet and stretches along the planet-moon line, with internal grid lines that flex in response to tidal forces and stored strain energy visualized as changing color patterns inside the body."
+    },
+    {
+      "number": "18",
+      "title": "Acoustic Standing Waves in an Air Column",
+      "description": "A transparent tube with air molecules represented by small spheres shows longitudinal oscillations driven by a vibrating piston; pressure nodes and antinodes are labeled, and amplitude is shown by density variations and subtle color shifts of the air.",
+      "seed": "Acoustic Standing Waves in an Air Column: A transparent tube with air molecules represented by small spheres shows longitudinal oscillations driven by a vibrating piston; pressure nodes and antinodes are labeled, and amplitude is shown by density variations and subtle color shifts of the air."
+    },
+    {
+      "number": "19",
+      "title": "Electromagnetic Wave Propagation in 3D Space",
+      "description": "A sinusoidal EM wave travels along a central axis with perpendicular red electric and blue magnetic field vectors oscillating in phase; field lines leave fading trails and labeled arrows show polarization and direction of energy transfer.",
+      "seed": "Electromagnetic Wave Propagation in 3D Space: A sinusoidal EM wave travels along a central axis with perpendicular red electric and blue magnetic field vectors oscillating in phase; field lines leave fading trails and labeled arrows show polarization and direction of energy transfer."
+    },
+    {
+      "number": "20",
+      "title": "Tidal Locking of a Moon Around a Planet",
+      "description": "A moon with a painted “face” texture orbits a planet while rotating exactly once per orbit so the same side always faces the planet, with arrows representing tidal torques gradually changing its rotation rate in a slowed-down, exaggerated animation.",
+      "seed": "Tidal Locking of a Moon Around a Planet: A moon with a painted “face” texture orbits a planet while rotating exactly once per orbit so the same side always faces the planet, with arrows representing tidal torques gradually changing its rotation rate in a slowed-down, exaggerated animation."
+    },
+    {
+      "number": "21",
+      "title": "Wave Diffraction Around a Breakwater",
+      "description": "A long breakwater barrier extends from a coastline into the sea while incoming waves bend around its end and spread into the sheltered region, with wave heights reduced behind the barrier and small boats bobbing more gently in the lee.",
+      "seed": "Wave Diffraction Around a Breakwater: A long breakwater barrier extends from a coastline into the sea while incoming waves bend around its end and spread into the sheltered region, with wave heights reduced behind the barrier and small boats bobbing more gently in the lee."
+    },
+    {
+      "number": "22",
+      "title": "Interacting Tidal Streams Around Islands",
+      "description": "Multiple small islands sit in a shallow sea where tidal water level oscillates; flow accelerates between islands, wraps around headlands, and forms swirling eddies with color-coded velocity fields and particle tracers showing vortex formation.",
+      "seed": "Interacting Tidal Streams Around Islands: Multiple small islands sit in a shallow sea where tidal water level oscillates; flow accelerates between islands, wraps around headlands, and forms swirling eddies with color-coded velocity fields and particle tracers showing vortex formation."
+    },
+    {
+      "number": "23",
+      "title": "Quantum Wave Packet Hitting a Potential Barrier",
+      "description": "A semi-transparent “wave packet” density cloud moves toward a raised rectangular barrier; part of the packet reflects and part transmits through, with probability density shown by brightness and a sliding energy level indicator below.",
+      "seed": "Quantum Wave Packet Hitting a Potential Barrier: A semi-transparent “wave packet” density cloud moves toward a raised rectangular barrier; part of the packet reflects and part transmits through, with probability density shown by brightness and a sliding energy level indicator below."
+    },
+    {
+      "number": "24",
+      "title": "Energy Cascades in a Wind-Driven Wave Field",
+      "description": "A broad ocean patch has small capillary waves that grow as a moving “wind” field pushes the surface, merging into larger gravity waves that travel downwind, with arrows showing energy transfer from wind to small waves to larger swells.",
+      "seed": "Energy Cascades in a Wind-Driven Wave Field: A broad ocean patch has small capillary waves that grow as a moving “wind” field pushes the surface, merging into larger gravity waves that travel downwind, with arrows showing energy transfer from wind to small waves to larger swells."
+    },
+    {
+      "number": "25",
+      "title": "Symbolic City Tides of Traffic Waves",
+      "description": "A grid of city streets with car spheres shows stop-and-go traffic waves propagating backward along a highway lane, with traffic lights and on-ramps causing density pulses, and a “congestion tide” meter rising and falling over time.",
+      "seed": "Symbolic City Tides of Traffic Waves: A grid of city streets with car spheres shows stop-and-go traffic waves propagating backward along a highway lane, with traffic lights and on-ramps causing density pulses, and a “congestion tide” meter rising and falling over time."
+    }
+  ],
+  "raw_output": "Here are strong **Waves and tides simulation inputs** you can plug into your prompt:\n\n1. **Lunar-Driven Ocean Tides on a Curved Coastline**\n   A translucent blue ocean surface made of oscillating wave segments along a curved shoreline responds to the orbit of a labeled moon sphere, with the water level rising and falling to show high and low tides along the coast and small boats bobbing and leaving trails.\n\n2. **Standing Wave in a Wave Tank**\n   A rectangular transparent tank holds a blue water surface where a paddle at one end oscillates to create waves that reflect off the opposite wall and form standing waves, with labeled nodes and antinodes marked by floating colored spheres.\n\n3. **Tsunami Propagation Across an Ocean Basin**\n   A curved Earth segment shows a shallow-water wave “bump” created by a seafloor uplift plate that propagates across the basin, shoals and grows taller near a coastline, and interacts with harbor walls while tiny labeled boats and buildings are impacted.\n\n4. **Double-Slit Water Wave Interference**\n   A shallow rectangular pool has a wave generator on one side sending ripples through two narrow slits in a barrier, forming an interference pattern of peaks and troughs visualized with height-based color gradients and floating markers that trace crest paths.\n\n5. **Orbiting Moon and Earth Tide Bulges**\n   A rotating Earth sphere with semi-transparent blue tidal bulges wrapped around it is orbited by a moon sphere; the bulges lag slightly and stretch as the moon moves, with arrows showing gravitational pull and labels for spring and neap tide configurations.\n\n6. **Harbor Resonance and Amplified Tides**\n   A narrow, U-shaped harbor connected to the open ocean fills and drains with oscillating water level; incoming tidal waves resonate with the harbor’s natural frequency, amplifying wave heights and causing floating docks and boats to rise, fall, and bump gently.\n\n7. **Breaking Waves on a Sloping Beach**\n   A sloped sandy seabed meets incoming rolling waves that steepen, curl, and “break” into foamy particle sprays near the shore, with surfboards that ride up and down the waves and leave white particle trails as they move.\n\n8. **Internal Waves at an Ocean Density Interface**\n   Two stacked layers of water (dark blue below, light blue above) are separated by a slightly transparent surface that undulates as internal waves propagate; marker particles at the interface move in orbital paths while surface waves above remain small.\n\n9. **Tidal Flow Through a Narrow Inlet**\n   A bay connected to the open sea by a narrow channel experiences rising and falling sea level, driving alternating inflow and outflow currents visualized with arrows and drifting particles that speed up in the constriction and slow in the wider bay.\n\n10. **Wave Reflection and Refraction Over a Submerged Reef**\n    Parallel waves approach from deep water and slow over a shallow reef, bending (refracting) and partially reflecting, with color-coded depth contours and floating buoys that trace the changing direction and speed of wave crests.\n\n11. **Storm Surge and Superimposed Tidal Waves**\n    A low-lying coastline with a tide-driven rising and falling sea level experiences an approaching storm that adds a broad “surge” wave, causing water to overtop a seawall and flood inland, with buildings changing color when inundated.\n\n12. **Microscopic Capillary Waves on a Droplet Surface**\n    A magnified water droplet sphere on a flat surface supports tiny capillary waves that travel and interfere around its curved surface, with surface tension forces shown as radial arrows and bright specular highlights tracking wave crests.\n\n13. **Group Velocity and Wave Packets on a Rope**\n    A taut rope represented by a chain of small spheres oscillates in 3D as a localized wave packet travels along it, with the group of peaks moving at a different speed than individual crests, and colored trails highlighting both motions.\n\n14. **Seiches in a Tilted Lake Basin**\n    A long lake basin partially filled with water tilts slightly back and forth, creating basin-scale sloshing (seiche) where the water surface rocks from one end to the other, with gauge markers at both ends recording and displaying water level oscillations.\n\n15. **Energy Transfer in Colliding Wave Trains**\n    Two perpendicular sets of surface waves travel across a square pool toward each other, collide in the center, form temporary high peaks and deep troughs, and then pass through, with energy density visualized via dynamic color intensity.\n\n16. **Rip Currents in a Surf Zone**\n    Incoming breaking waves deposit water near the shoreline, which then returns seaward through narrow rip channels; floating particles and swimmers are pulled outward in these rips while others drift gently alongshore, all traced with color-coded paths.\n\n17. **Tidal Bending and Flexing of an Elastic Moon**\n    A slightly deformable spherical moon orbits a planet and stretches along the planet-moon line, with internal grid lines that flex in response to tidal forces and stored strain energy visualized as changing color patterns inside the body.\n\n18. **Acoustic Standing Waves in an Air Column**\n    A transparent tube with air molecules represented by small spheres shows longitudinal oscillations driven by a vibrating piston; pressure nodes and antinodes are labeled, and amplitude is shown by density variations and subtle color shifts of the air.\n\n19. **Electromagnetic Wave Propagation in 3D Space**\n    A sinusoidal EM wave travels along a central axis with perpendicular red electric and blue magnetic field vectors oscillating in phase; field lines leave fading trails and labeled arrows show polarization and direction of energy transfer.\n\n20. **Tidal Locking of a Moon Around a Planet**\n    A moon with a painted “face” texture orbits a planet while rotating exactly once per orbit so the same side always faces the planet, with arrows representing tidal torques gradually changing its rotation rate in a slowed-down, exaggerated animation.\n\n21. **Wave Diffraction Around a Breakwater**\n    A long breakwater barrier extends from a coastline into the sea while incoming waves bend around its end and spread into the sheltered region, with wave heights reduced behind the barrier and small boats bobbing more gently in the lee.\n\n22. **Interacting Tidal Streams Around Islands**\n    Multiple small islands sit in a shallow sea where tidal water level oscillates; flow accelerates between islands, wraps around headlands, and forms swirling eddies with color-coded velocity fields and particle tracers showing vortex formation.\n\n23. **Quantum Wave Packet Hitting a Potential Barrier**\n    A semi-transparent “wave packet” density cloud moves toward a raised rectangular barrier; part of the packet reflects and part transmits through, with probability density shown by brightness and a sliding energy level indicator below.\n\n24. **Energy Cascades in a Wind-Driven Wave Field**\n    A broad ocean patch has small capillary waves that grow as a moving “wind” field pushes the surface, merging into larger gravity waves that travel downwind, with arrows showing energy transfer from wind to small waves to larger swells.\n\n25. **Symbolic City Tides of Traffic Waves**\n    A grid of city streets with car spheres shows stop-and-go traffic waves propagating backward along a highway lane, with traffic lights and on-ramps causing density pulses, and a “congestion tide” meter rising and falling over time."
+}

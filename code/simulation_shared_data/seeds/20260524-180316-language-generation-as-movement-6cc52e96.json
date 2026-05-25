@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Language generation as movement",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:03:16",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Word Particles in a Flow Field",
+      "description": "A stream of small labeled spheres (words) continuously spawns from a source tube, drifts along a 3D vector field, collides, briefly sticks to form short phrase-chains, then detaches and leaves fading trails in a light background.",
+      "seed": "Word Particles in a Flow Field: A stream of small labeled spheres (words) continuously spawns from a source tube, drifts along a 3D vector field, collides, briefly sticks to form short phrase-chains, then detaches and leaves fading trails in a light background."
+    },
+    {
+      "number": "2",
+      "title": "Sentence Conveyor Factory",
+      "description": "Boxes labeled with words ride along branching conveyor belts, merge at junctions to form larger “sentence crates,” which then split, rotate, and re-route through color-coded assembly stations that attach, detach, and re-label segments.",
+      "seed": "Sentence Conveyor Factory: Boxes labeled with words ride along branching conveyor belts, merge at junctions to form larger “sentence crates,” which then split, rotate, and re-route through color-coded assembly stations that attach, detach, and re-label segments."
+    },
+    {
+      "number": "3",
+      "title": "Neural Language Galaxy",
+      "description": "Glowing nodes (concepts) float in space and connect with color-coded beams (syntactic/semantic links); as a sentence is “generated,” a wandering light orb travels from node to node, activating paths, causing nearby nodes to orbit, pulse, or detach to form new clusters.",
+      "seed": "Neural Language Galaxy: Glowing nodes (concepts) float in space and connect with color-coded beams (syntactic/semantic links); as a sentence is “generated,” a wandering light orb travels from node to node, activating paths, causing nearby nodes to orbit, pulse, or detach to form new clusters."
+    },
+    {
+      "number": "4",
+      "title": "Ink Droplets Writing in Air",
+      "description": "Transparent tubes emit colored liquid droplets (tokens) that arc through space and leave semi-transparent ribbon trails that spell out shifting sentences, while gravity and gentle air currents bend and mix the ribbons into evolving 3D calligraphy.",
+      "seed": "Ink Droplets Writing in Air: Transparent tubes emit colored liquid droplets (tokens) that arc through space and leave semi-transparent ribbon trails that spell out shifting sentences, while gravity and gentle air currents bend and mix the ribbons into evolving 3D calligraphy."
+    },
+    {
+      "number": "5",
+      "title": "Grammar Gear Machine",
+      "description": "Interlocking transparent gears labeled as parts of speech rotate and transfer motion to small word-capsules that drop into slots; capsules attach to each other in certain gear regions to form phrases and detach in others, with misfits bouncing away and glowing red.",
+      "seed": "Grammar Gear Machine: Interlocking transparent gears labeled as parts of speech rotate and transfer motion to small word-capsules that drop into slots; capsules attach to each other in certain gear regions to form phrases and detach in others, with misfits bouncing away and glowing red."
+    },
+    {
+      "number": "6",
+      "title": "Conversation Orbits",
+      "description": "Two or more floating spheres (speakers) sit stationary while colored word-orbs orbit between them; orbs accelerate toward one speaker, then slingshot to another, cluster into topic-rings, and occasionally collide and merge into larger “idea-planets.”",
+      "seed": "Conversation Orbits: Two or more floating spheres (speakers) sit stationary while colored word-orbs orbit between them; orbs accelerate toward one speaker, then slingshot to another, cluster into topic-rings, and occasionally collide and merge into larger “idea-planets.”"
+    },
+    {
+      "number": "7",
+      "title": "Language River Delta",
+      "description": "A main river of token-cubes flows across a light landscape, splitting into branching channels for nouns, verbs, adjectives, etc.; cubes change color depending on the channel, occasionally jump between streams, merge into sentence-rafts, and spill into a mixing estuary.",
+      "seed": "Language River Delta: A main river of token-cubes flows across a light landscape, splitting into branching channels for nouns, verbs, adjectives, etc.; cubes change color depending on the channel, occasionally jump between streams, merge into sentence-rafts, and spill into a mixing estuary."
+    },
+    {
+      "number": "8",
+      "title": "Text Swarm Flocking",
+      "description": "Tiny arrow-shaped boids with word labels flock through a 3D volume, following simple cohesion and separation rules; when they come close, their labels align to form phrases that briefly lock together as larger glowing clusters before splitting and rejoining the swarm.",
+      "seed": "Text Swarm Flocking: Tiny arrow-shaped boids with word labels flock through a 3D volume, following simple cohesion and separation rules; when they come close, their labels align to form phrases that briefly lock together as larger glowing clusters before splitting and rejoining the swarm."
+    },
+    {
+      "number": "9",
+      "title": "Idea Cloud Condensation",
+      "description": "A hazy conceptual cloud releases small colored droplets that fall, collide, and merge on a ground plane into larger labeled puddles (themes); occasionally a puddle evaporates, sending particles back up to the cloud, which thickens and condenses new combinations.",
+      "seed": "Idea Cloud Condensation: A hazy conceptual cloud releases small colored droplets that fall, collide, and merge on a ground plane into larger labeled puddles (themes); occasionally a puddle evaporates, sending particles back up to the cloud, which thickens and condenses new combinations."
+    },
+    {
+      "number": "10",
+      "title": "Typing Force Chain",
+      "description": "Each keystroke is represented by a hammer-like object that swings down and hits a token-sphere on a track, sending it forward; spheres collide, attach in order, and form a moving sentence-chain that snakes through 3D space leaving a glowing trail of completed text.",
+      "seed": "Typing Force Chain: Each keystroke is represented by a hammer-like object that swings down and hits a token-sphere on a track, sending it forward; spheres collide, attach in order, and form a moving sentence-chain that snakes through 3D space leaving a glowing trail of completed text."
+    },
+    {
+      "number": "11",
+      "title": "Language Loom",
+      "description": "Parallel transparent threads (time, syntax, semantics) run along the z-axis while colored word-beads slide along them; mechanical shuttles weave beads across threads, causing beads to attach into patterns (sentences) that slowly scroll forward as a 3D fabric.",
+      "seed": "Language Loom: Parallel transparent threads (time, syntax, semantics) run along the z-axis while colored word-beads slide along them; mechanical shuttles weave beads across threads, causing beads to attach into patterns (sentences) that slowly scroll forward as a 3D fabric."
+    },
+    {
+      "number": "12",
+      "title": "Predictive Text Crystal Growth",
+      "description": "A seed word at the center grows a branching crystal of blocks, each face labeled with a next-token candidate; blocks attach probabilistically, some branches dissolve, and favored paths thicken and glow, with obsolete branches fading to transparency.",
+      "seed": "Predictive Text Crystal Growth: A seed word at the center grows a branching crystal of blocks, each face labeled with a next-token candidate; blocks attach probabilistically, some branches dissolve, and favored paths thicken and glow, with obsolete branches fading to transparency."
+    },
+    {
+      "number": "13",
+      "title": "Morphing Phrase Conveyor Tunnel",
+      "description": "A tunnel of rotating rings pulls in word-capsules at one end; as capsules pass through rings, they change color, detach from old neighbors, and reattach in new positions, so a sentence physically rearranges into new forms by the time it exits.",
+      "seed": "Morphing Phrase Conveyor Tunnel: A tunnel of rotating rings pulls in word-capsules at one end; as capsules pass through rings, they change color, detach from old neighbors, and reattach in new positions, so a sentence physically rearranges into new forms by the time it exits."
+    },
+    {
+      "number": "14",
+      "title": "Error Correction Billiards",
+      "description": "Word-spheres roll across a flat table toward a target phrase; when they misalign with ghost-targets, correction-cue spheres strike them, causing collisions that knock them into new positions and swap labels until the rolling sequence matches the target layout.",
+      "seed": "Error Correction Billiards: Word-spheres roll across a flat table toward a target phrase; when they misalign with ghost-targets, correction-cue spheres strike them, causing collisions that knock them into new positions and swap labels until the rolling sequence matches the target layout."
+    },
+    {
+      "number": "15",
+      "title": "Multi-Language Translation Bridge",
+      "description": "On one side, a stream of blue word-blocks crosses a transparent arch bridge; along the arch, blocks detach from each other, pass through rotating decoder/encoder rings, then reattach as differently colored blocks on the other side, with beams showing alignment.",
+      "seed": "Multi-Language Translation Bridge: On one side, a stream of blue word-blocks crosses a transparent arch bridge; along the arch, blocks detach from each other, pass through rotating decoder/encoder rings, then reattach as differently colored blocks on the other side, with beams showing alignment."
+    },
+    {
+      "number": "16",
+      "title": "Topic Landscape Migration",
+      "description": "A hilly terrain is color-coded by topic; small agent-spheres carrying word labels walk, hop, and slide over the surface, clustering in topic valleys; when the topic shifts, the landscape subtly morphs and agents relocate, leaving faint trails of their semantic paths.",
+      "seed": "Topic Landscape Migration: A hilly terrain is color-coded by topic; small agent-spheres carrying word labels walk, hop, and slide over the surface, clustering in topic valleys; when the topic shifts, the landscape subtly morphs and agents relocate, leaving faint trails of their semantic paths."
+    },
+    {
+      "number": "17",
+      "title": "Syntax Tree Growth Forest",
+      "description": "From a ground-level root sphere (the sentence start), branches grow upward and outward as cylinders; each node spawns labeled leaves (words) that can detach and reattach to nearby branches when rules change, while the entire tree gently sways in an invisible breeze.",
+      "seed": "Syntax Tree Growth Forest: From a ground-level root sphere (the sentence start), branches grow upward and outward as cylinders; each node spawns labeled leaves (words) that can detach and reattach to nearby branches when rules change, while the entire tree gently sways in an invisible breeze."
+    },
+    {
+      "number": "18",
+      "title": "Chat Turn Ping-Pong",
+      "description": "Two stationary paddles face each other in 3D space; each message turn is a cluster of bouncing word-balls launched from one paddle, which reflects or absorbs them; some balls stick to form ongoing context-chains hovering between the paddles, others bounce away and fade.",
+      "seed": "Chat Turn Ping-Pong: Two stationary paddles face each other in 3D space; each message turn is a cluster of bouncing word-balls launched from one paddle, which reflects or absorbs them; some balls stick to form ongoing context-chains hovering between the paddles, others bounce away and fade."
+    },
+    {
+      "number": "19",
+      "title": "Language Conveyor with Memory Belt",
+      "description": "A main belt carries current word-blocks forward while a parallel transparent belt underneath moves past context-blocks; vertical lifts occasionally raise context blocks to attach to current ones, merging into bigger composites that then travel onward.",
+      "seed": "Language Conveyor with Memory Belt: A main belt carries current word-blocks forward while a parallel transparent belt underneath moves past context-blocks; vertical lifts occasionally raise context blocks to attach to current ones, merging into bigger composites that then travel onward."
+    },
+    {
+      "number": "20",
+      "title": "Semantic Gravity Wells",
+      "description": "Heavy spheres represent core concepts and sit in place, warping a flexible grid; passing word-particles curve around these wells, sometimes captured into orbit (forming stable collocations) or slingshotted away, with orbiting particles leaving spiraling trails.",
+      "seed": "Semantic Gravity Wells: Heavy spheres represent core concepts and sit in place, warping a flexible grid; passing word-particles curve around these wells, sometimes captured into orbit (forming stable collocations) or slingshotted away, with orbiting particles leaving spiraling trails."
+    },
+    {
+      "number": "21",
+      "title": "Text as Flowing Sand Columns",
+      "description": "Columns of fine colored sand grains fall from multiple hoppers, each grain tagged with a tiny letter or symbol; grains collide and briefly stick in midair to form hovering word-shapes before breaking apart and piling on the ground into layers representing paragraphs.",
+      "seed": "Text as Flowing Sand Columns: Columns of fine colored sand grains fall from multiple hoppers, each grain tagged with a tiny letter or symbol; grains collide and briefly stick in midair to form hovering word-shapes before breaking apart and piling on the ground into layers representing paragraphs."
+    },
+    {
+      "number": "22",
+      "title": "Language Conveyor Crane Yard",
+      "description": "Moving cranes slide along overhead tracks, picking up word-blocks from one conveyor and dropping them onto others; blocks can stack into phrase-towers, split when dropped from heights, and be wrapped with glowing bands that indicate grammar roles.",
+      "seed": "Language Conveyor Crane Yard: Moving cranes slide along overhead tracks, picking up word-blocks from one conveyor and dropping them onto others; blocks can stack into phrase-towers, split when dropped from heights, and be wrapped with glowing bands that indicate grammar roles."
+    },
+    {
+      "number": "23",
+      "title": "Dialogue Orbit Network",
+      "description": "Multiple speaker-spheres are positioned in a circle; word-orbs spawned by one speaker travel in curved paths, sometimes orbiting intermediate “topic hubs” before attaching to another speaker’s halo, building colored rings that thicken with repeated themes.",
+      "seed": "Dialogue Orbit Network: Multiple speaker-spheres are positioned in a circle; word-orbs spawned by one speaker travel in curved paths, sometimes orbiting intermediate “topic hubs” before attaching to another speaker’s halo, building colored rings that thicken with repeated themes."
+    },
+    {
+      "number": "24",
+      "title": "Token Mixing Reactor",
+      "description": "A transparent spherical chamber spins slowly, filled with floating token-cubes from different input sources; internal paddles stir them, causing cubes to collide, merge into phrase-chains, or split apart, while a side pipe siphons out coherent chains that glow brighter.",
+      "seed": "Token Mixing Reactor: A transparent spherical chamber spins slowly, filled with floating token-cubes from different input sources; internal paddles stir them, causing cubes to collide, merge into phrase-chains, or split apart, while a side pipe siphons out coherent chains that glow brighter."
+    },
+    {
+      "number": "25",
+      "title": "Scrolling Text Ribbon Roller",
+      "description": "A long, thin ribbon scrolls through space while little letter-cubes hop on from below; rollers twist, stretch, and compress the ribbon so attached letters slide, swap, and sometimes detach and fall, with the ribbon’s color shifting as the local sequence changes.",
+      "seed": "Scrolling Text Ribbon Roller: A long, thin ribbon scrolls through space while little letter-cubes hop on from below; rollers twist, stretch, and compress the ribbon so attached letters slide, swap, and sometimes detach and fall, with the ribbon’s color shifting as the local sequence changes."
+    }
+  ],
+  "raw_output": "Here are strong **Language generation as movement simulation inputs** you can plug into your prompt:\n\n1. **Word Particles in a Flow Field**\n   A stream of small labeled spheres (words) continuously spawns from a source tube, drifts along a 3D vector field, collides, briefly sticks to form short phrase-chains, then detaches and leaves fading trails in a light background.\n\n2. **Sentence Conveyor Factory**\n   Boxes labeled with words ride along branching conveyor belts, merge at junctions to form larger “sentence crates,” which then split, rotate, and re-route through color-coded assembly stations that attach, detach, and re-label segments.\n\n3. **Neural Language Galaxy**\n   Glowing nodes (concepts) float in space and connect with color-coded beams (syntactic/semantic links); as a sentence is “generated,” a wandering light orb travels from node to node, activating paths, causing nearby nodes to orbit, pulse, or detach to form new clusters.\n\n4. **Ink Droplets Writing in Air**\n   Transparent tubes emit colored liquid droplets (tokens) that arc through space and leave semi-transparent ribbon trails that spell out shifting sentences, while gravity and gentle air currents bend and mix the ribbons into evolving 3D calligraphy.\n\n5. **Grammar Gear Machine**\n   Interlocking transparent gears labeled as parts of speech rotate and transfer motion to small word-capsules that drop into slots; capsules attach to each other in certain gear regions to form phrases and detach in others, with misfits bouncing away and glowing red.\n\n6. **Conversation Orbits**\n   Two or more floating spheres (speakers) sit stationary while colored word-orbs orbit between them; orbs accelerate toward one speaker, then slingshot to another, cluster into topic-rings, and occasionally collide and merge into larger “idea-planets.”\n\n7. **Language River Delta**\n   A main river of token-cubes flows across a light landscape, splitting into branching channels for nouns, verbs, adjectives, etc.; cubes change color depending on the channel, occasionally jump between streams, merge into sentence-rafts, and spill into a mixing estuary.\n\n8. **Text Swarm Flocking**\n   Tiny arrow-shaped boids with word labels flock through a 3D volume, following simple cohesion and separation rules; when they come close, their labels align to form phrases that briefly lock together as larger glowing clusters before splitting and rejoining the swarm.\n\n9. **Idea Cloud Condensation**\n   A hazy conceptual cloud releases small colored droplets that fall, collide, and merge on a ground plane into larger labeled puddles (themes); occasionally a puddle evaporates, sending particles back up to the cloud, which thickens and condenses new combinations.\n\n10. **Typing Force Chain**\n    Each keystroke is represented by a hammer-like object that swings down and hits a token-sphere on a track, sending it forward; spheres collide, attach in order, and form a moving sentence-chain that snakes through 3D space leaving a glowing trail of completed text.\n\n11. **Language Loom**\n    Parallel transparent threads (time, syntax, semantics) run along the z-axis while colored word-beads slide along them; mechanical shuttles weave beads across threads, causing beads to attach into patterns (sentences) that slowly scroll forward as a 3D fabric.\n\n12. **Predictive Text Crystal Growth**\n    A seed word at the center grows a branching crystal of blocks, each face labeled with a next-token candidate; blocks attach probabilistically, some branches dissolve, and favored paths thicken and glow, with obsolete branches fading to transparency.\n\n13. **Morphing Phrase Conveyor Tunnel**\n    A tunnel of rotating rings pulls in word-capsules at one end; as capsules pass through rings, they change color, detach from old neighbors, and reattach in new positions, so a sentence physically rearranges into new forms by the time it exits.\n\n14. **Error Correction Billiards**\n    Word-spheres roll across a flat table toward a target phrase; when they misalign with ghost-targets, correction-cue spheres strike them, causing collisions that knock them into new positions and swap labels until the rolling sequence matches the target layout.\n\n15. **Multi-Language Translation Bridge**\n    On one side, a stream of blue word-blocks crosses a transparent arch bridge; along the arch, blocks detach from each other, pass through rotating decoder/encoder rings, then reattach as differently colored blocks on the other side, with beams showing alignment.\n\n16. **Topic Landscape Migration**\n    A hilly terrain is color-coded by topic; small agent-spheres carrying word labels walk, hop, and slide over the surface, clustering in topic valleys; when the topic shifts, the landscape subtly morphs and agents relocate, leaving faint trails of their semantic paths.\n\n17. **Syntax Tree Growth Forest**\n    From a ground-level root sphere (the sentence start), branches grow upward and outward as cylinders; each node spawns labeled leaves (words) that can detach and reattach to nearby branches when rules change, while the entire tree gently sways in an invisible breeze.\n\n18. **Chat Turn Ping-Pong**\n    Two stationary paddles face each other in 3D space; each message turn is a cluster of bouncing word-balls launched from one paddle, which reflects or absorbs them; some balls stick to form ongoing context-chains hovering between the paddles, others bounce away and fade.\n\n19. **Language Conveyor with Memory Belt**\n    A main belt carries current word-blocks forward while a parallel transparent belt underneath moves past context-blocks; vertical lifts occasionally raise context blocks to attach to current ones, merging into bigger composites that then travel onward.\n\n20. **Semantic Gravity Wells**\n    Heavy spheres represent core concepts and sit in place, warping a flexible grid; passing word-particles curve around these wells, sometimes captured into orbit (forming stable collocations) or slingshotted away, with orbiting particles leaving spiraling trails.\n\n21. **Text as Flowing Sand Columns**\n    Columns of fine colored sand grains fall from multiple hoppers, each grain tagged with a tiny letter or symbol; grains collide and briefly stick in midair to form hovering word-shapes before breaking apart and piling on the ground into layers representing paragraphs.\n\n22. **Language Conveyor Crane Yard**\n    Moving cranes slide along overhead tracks, picking up word-blocks from one conveyor and dropping them onto others; blocks can stack into phrase-towers, split when dropped from heights, and be wrapped with glowing bands that indicate grammar roles.\n\n23. **Dialogue Orbit Network**\n    Multiple speaker-spheres are positioned in a circle; word-orbs spawned by one speaker travel in curved paths, sometimes orbiting intermediate “topic hubs” before attaching to another speaker’s halo, building colored rings that thicken with repeated themes.\n\n24. **Token Mixing Reactor**\n    A transparent spherical chamber spins slowly, filled with floating token-cubes from different input sources; internal paddles stir them, causing cubes to collide, merge into phrase-chains, or split apart, while a side pipe siphons out coherent chains that glow brighter.\n\n25. **Scrolling Text Ribbon Roller**\n    A long, thin ribbon scrolls through space while little letter-cubes hop on from below; rollers twist, stretch, and compress the ribbon so attached letters slide, swap, and sometimes detach and fall, with the ribbon’s color shifting as the local sequence changes."
+}

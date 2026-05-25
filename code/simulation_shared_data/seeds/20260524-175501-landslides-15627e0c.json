@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Landslides",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:55:01",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Rain-Triggered Hillside Landslide",
+      "description": "A sloped terrain made of many small colored blocks slowly saturates as semi-transparent blue rain particles fall, until upper layers detach, slide downslope as a flowing mass, collide with trees and houses, and leave a visible scar and debris fan labeled on the hillside.",
+      "seed": "Rain-Triggered Hillside Landslide: A sloped terrain made of many small colored blocks slowly saturates as semi-transparent blue rain particles fall, until upper layers detach, slide downslope as a flowing mass, collide with trees and houses, and leave a visible scar and debris fan labeled on the hillside."
+    },
+    {
+      "number": "2",
+      "title": "Rockfall and Debris Flow in a Mountain Gorge",
+      "description": "A steep cliff of gray rock segments periodically sheds loose boulders that bounce, spin, and fragment as they fall into a narrow valley, then mix with brown particle “mud” to form a fast-moving debris flow that follows a winding channel and splashes against a small bridge.",
+      "seed": "Rockfall and Debris Flow in a Mountain Gorge: A steep cliff of gray rock segments periodically sheds loose boulders that bounce, spin, and fragment as they fall into a narrow valley, then mix with brown particle “mud” to form a fast-moving debris flow that follows a winding channel and splashes against a small bridge."
+    },
+    {
+      "number": "3",
+      "title": "Rotating Drum Landslide Experiment",
+      "description": "A clear cylindrical drum half-filled with differently colored granular particles slowly rotates, causing internal layers to build up and suddenly fail along a sliding plane, with labels tracking slope angle, failure line, and the shifting center of mass.",
+      "seed": "Rotating Drum Landslide Experiment: A clear cylindrical drum half-filled with differently colored granular particles slowly rotates, causing internal layers to build up and suddenly fail along a sliding plane, with labels tracking slope angle, failure line, and the shifting center of mass."
+    },
+    {
+      "number": "4",
+      "title": "Road Cut Slope Failure with Retaining Wall",
+      "description": "A layered hillside above a road is supported by a segmented retaining wall whose anchors stretch and glow red as stress increases, until some anchors detach, the wall tilts, and a block of soil slides down to bury a car model, leaving stress and displacement meters updating in real time.",
+      "seed": "Road Cut Slope Failure with Retaining Wall: A layered hillside above a road is supported by a segmented retaining wall whose anchors stretch and glow red as stress increases, until some anchors detach, the wall tilts, and a block of soil slides down to bury a car model, leaving stress and displacement meters updating in real time."
+    },
+    {
+      "number": "5",
+      "title": "Underwater Submarine Landslide and Tsunami Generation",
+      "description": "A continental shelf made of sand-like particles suddenly slumps into deeper water, with the mass flowing downslope under a transparent blue water layer, displacing the surface into propagating waves that radiate across the scene toward a simple coastline.",
+      "seed": "Underwater Submarine Landslide and Tsunami Generation: A continental shelf made of sand-like particles suddenly slumps into deeper water, with the mass flowing downslope under a transparent blue water layer, displacing the surface into propagating waves that radiate across the scene toward a simple coastline."
+    },
+    {
+      "number": "6",
+      "title": "Slow Earthflow on a Gentle Slope",
+      "description": "A broad, gentle hillside of semi-viscous material slowly creeps downslope, with surface marker spheres leaving trails that show different velocities at different depths, and fences and trees bending and tilting as the ground beneath them gradually deforms.",
+      "seed": "Slow Earthflow on a Gentle Slope: A broad, gentle hillside of semi-viscous material slowly creeps downslope, with surface marker spheres leaving trails that show different velocities at different depths, and fences and trees bending and tilting as the ground beneath them gradually deforms."
+    },
+    {
+      "number": "7",
+      "title": "Triggered Landslide from Earthquake Shaking",
+      "description": "A blocky hillside with houses and trees experiences sinusoidal ground shaking, making particles jiggle and detach along a pre-marked weak layer, then slide and bounce down, while a seismograph at the base draws a real-time trace of shaking amplitude versus time.",
+      "seed": "Triggered Landslide from Earthquake Shaking: A blocky hillside with houses and trees experiences sinusoidal ground shaking, making particles jiggle and detach along a pre-marked weak layer, then slide and bounce down, while a seismograph at the base draws a real-time trace of shaking amplitude versus time."
+    },
+    {
+      "number": "8",
+      "title": "Landslide Dam Formation and Sudden Breach",
+      "description": "A valley river channel is blocked as a large rock and soil mass slides in from the side and stacks up to form a temporary dam, causing water to rise behind it as a transparent blue volume, then gradually erode a breach that rapidly enlarges and sends a flood wave downstream.",
+      "seed": "Landslide Dam Formation and Sudden Breach: A valley river channel is blocked as a large rock and soil mass slides in from the side and stacks up to form a temporary dam, causing water to rise behind it as a transparent blue volume, then gradually erode a breach that rapidly enlarges and sends a flood wave downstream."
+    },
+    {
+      "number": "9",
+      "title": "3D Translational vs. Rotational Landslide Comparison",
+      "description": "Two adjacent miniature hills each fail differently: on one, a rigid block slides linearly along a planar surface, while on the other a curved slip surface forms and the upper block rotates as it moves, with moving arrows and colored slip surfaces highlighting motion style.",
+      "seed": "3D Translational vs. Rotational Landslide Comparison: Two adjacent miniature hills each fail differently: on one, a rigid block slides linearly along a planar surface, while on the other a curved slip surface forms and the upper block rotates as it moves, with moving arrows and colored slip surfaces highlighting motion style."
+    },
+    {
+      "number": "10",
+      "title": "Rainfall Infiltration and Pore Pressure Build-Up",
+      "description": "A layered slope of semi-transparent voxels changes color from dry to saturated as rainfall infiltrates from the top, raising pore pressure indicators (tiny vertical bars) until a critical zone glows and the overlying block detaches and slides, leaving a labeled failure surface.",
+      "seed": "Rainfall Infiltration and Pore Pressure Build-Up: A layered slope of semi-transparent voxels changes color from dry to saturated as rainfall infiltrates from the top, raising pore pressure indicators (tiny vertical bars) until a critical zone glows and the overlying block detaches and slides, leaving a labeled failure surface."
+    },
+    {
+      "number": "11",
+      "title": "Terraced Hillside Failure in a Farming Village",
+      "description": "Stepped terraces with crops and stone retaining walls sit on a hillside; heavy rain turns soil particles darker and heavier, causing some terrace walls to bulge and crack, then collapse, with soil, plants, and water mixing and cascading down to bury a road and small buildings.",
+      "seed": "Terraced Hillside Failure in a Farming Village: Stepped terraces with crops and stone retaining walls sit on a hillside; heavy rain turns soil particles darker and heavier, causing some terrace walls to bulge and crack, then collapse, with soil, plants, and water mixing and cascading down to bury a road and small buildings."
+    },
+    {
+      "number": "12",
+      "title": "Microscopic Grain-Scale Landslide Mechanics",
+      "description": "A slope made entirely of colored spherical grains packed in a wedge is sheared from below; grains roll, slide, and rearrange in slow motion, forming a localized shear band that glows, while contact forces are shown as thin lines whose thickness and color change as stress evolves.",
+      "seed": "Microscopic Grain-Scale Landslide Mechanics: A slope made entirely of colored spherical grains packed in a wedge is sheared from below; grains roll, slide, and rearrange in slow motion, forming a localized shear band that glows, while contact forces are shown as thin lines whose thickness and color change as stress evolves."
+    },
+    {
+      "number": "13",
+      "title": "Landslide Runout Path with Obstacle Interaction",
+      "description": "A mass of granular material is released at the top of a long valley with boulders, buildings, and trees; particles spread, split around obstacles, pile up behind them, and overtop some barriers, leaving a final deposit shape outlined with a transparent hull and area labels.",
+      "seed": "Landslide Runout Path with Obstacle Interaction: A mass of granular material is released at the top of a long valley with boulders, buildings, and trees; particles spread, split around obstacles, pile up behind them, and overtop some barriers, leaving a final deposit shape outlined with a transparent hull and area labels."
+    },
+    {
+      "number": "14",
+      "title": "Snow Slab Avalanche as a Type of Landslide",
+      "description": "A layered snowpack on a mountain face shows a weak layer as a translucent plane; when triggered, a slab detaches along that plane and accelerates downslope, fragmenting into powder particles that form a white turbulent cloud with a soft trail and engulfing a skier model.",
+      "seed": "Snow Slab Avalanche as a Type of Landslide: A layered snowpack on a mountain face shows a weak layer as a translucent plane; when triggered, a slab detaches along that plane and accelerates downslope, fragmenting into powder particles that form a white turbulent cloud with a soft trail and engulfing a skier model."
+    },
+    {
+      "number": "15",
+      "title": "Retrogressive Landslide on a River Bank",
+      "description": "A vertical river bank made of layered soil blocks collapses in stages as the toe is eroded by flowing water; each failure causes a new block at the top to detach and rotate into the river, with collapsing segments labeled in sequence and the river carrying away debris.",
+      "seed": "Retrogressive Landslide on a River Bank: A vertical river bank made of layered soil blocks collapses in stages as the toe is eroded by flowing water; each failure causes a new block at the top to detach and rotate into the river, with collapsing segments labeled in sequence and the river carrying away debris."
+    },
+    {
+      "number": "16",
+      "title": "Space Landslide on an Asteroid",
+      "description": "A small irregular asteroid rotates in space with loose regolith particles on its surface; as rotation speed increases, particles at the equator detach and slide downslope toward low spots, some even escaping into orbit, leaving faint trails and altering the asteroid’s spin slightly.",
+      "seed": "Space Landslide on an Asteroid: A small irregular asteroid rotates in space with loose regolith particles on its surface; as rotation speed increases, particles at the equator detach and slide downslope toward low spots, some even escaping into orbit, leaving faint trails and altering the asteroid’s spin slightly."
+    },
+    {
+      "number": "17",
+      "title": "Highway Embankment Stability with Drainage Pipes",
+      "description": "A road embankment constructed of colored soil layers sits above a culvert and perforated drains; as water level rises, semi-transparent blue fills pores, drains slowly remove water, and a stability indicator meter changes color, with a failure event if drains are blocked and the slope slides.",
+      "seed": "Highway Embankment Stability with Drainage Pipes: A road embankment constructed of colored soil layers sits above a culvert and perforated drains; as water level rises, semi-transparent blue fills pores, drains slowly remove water, and a stability indicator meter changes color, with a failure event if drains are blocked and the slope slides."
+    },
+    {
+      "number": "18",
+      "title": "Landslide Hazard Map in 3D Terrain",
+      "description": "A small 3D landscape with multiple hills, rivers, and roads shows colored hazard zones on slopes (green to red), then animates several simulated landslides triggered by rain in the highest-risk areas, with flowing debris volumes and changing hazard colors as slopes fail and stabilize.",
+      "seed": "Landslide Hazard Map in 3D Terrain: A small 3D landscape with multiple hills, rivers, and roads shows colored hazard zones on slopes (green to red), then animates several simulated landslides triggered by rain in the highest-risk areas, with flowing debris volumes and changing hazard colors as slopes fail and stabilize."
+    },
+    {
+      "number": "19",
+      "title": "Mining Pit Wall Failure",
+      "description": "A stepped open-pit mine with benches and haul roads has stress lines drawn in the walls; as excavation removes support at the base, cracks open and propagate upward, then a large wedge of rock detaches and slides into the pit, colliding with mining trucks and burying part of the road.",
+      "seed": "Mining Pit Wall Failure: A stepped open-pit mine with benches and haul roads has stress lines drawn in the walls; as excavation removes support at the base, cracks open and propagate upward, then a large wedge of rock detaches and slides into the pit, colliding with mining trucks and burying part of the road."
+    },
+    {
+      "number": "20",
+      "title": "Landslide as a Data Cascade Metaphor",
+      "description": "A stack of labeled data blocks on a sloping “pipeline” platform gradually overloads as more blocks attach at the top; once a critical angle or count is reached, blocks detach and cascade down, colliding, splitting, and merging into error piles at the bottom, with counters tracking lost vs. saved data.",
+      "seed": "Landslide as a Data Cascade Metaphor: A stack of labeled data blocks on a sloping “pipeline” platform gradually overloads as more blocks attach at the top; once a critical angle or count is reached, blocks detach and cascade down, colliding, splitting, and merging into error piles at the bottom, with counters tracking lost vs. saved data."
+    },
+    {
+      "number": "21",
+      "title": "Composite Multi-Stage Hillslope Evolution",
+      "description": "A large hillside undergoes repeated storms and slides: each storm adds rain, triggers a landslide that removes part of the slope, deposits material at the base, and slightly reshapes the terrain mesh, with a timeline slider to replay successive slope failures and landscape evolution.",
+      "seed": "Composite Multi-Stage Hillslope Evolution: A large hillside undergoes repeated storms and slides: each storm adds rain, triggers a landslide that removes part of the slope, deposits material at the base, and slightly reshapes the terrain mesh, with a timeline slider to replay successive slope failures and landscape evolution."
+    },
+    {
+      "number": "22",
+      "title": "Landslide Impact on a Reservoir",
+      "description": "A steep slope directly above a calm reservoir suddenly fails as a block and debris flow; when it enters the transparent blue water volume, a large splash and wave propagate across the reservoir, overtopping a dam and spilling water down the downstream face with white spray particles.",
+      "seed": "Landslide Impact on a Reservoir: A steep slope directly above a calm reservoir suddenly fails as a block and debris flow; when it enters the transparent blue water volume, a large splash and wave propagate across the reservoir, overtopping a dam and spilling water down the downstream face with white spray particles."
+    },
+    {
+      "number": "23",
+      "title": "Railway Cut Landslide with Monitoring Instruments",
+      "description": "A train track at the base of a cut slope is monitored by virtual instruments: inclinometers, crack meters, and GPS points that move subtly as the slope deforms; when thresholds are exceeded, alarms flash and a block slides down onto the tracks just as a train model approaches.",
+      "seed": "Railway Cut Landslide with Monitoring Instruments: A train track at the base of a cut slope is monitored by virtual instruments: inclinometers, crack meters, and GPS points that move subtly as the slope deforms; when thresholds are exceeded, alarms flash and a block slides down onto the tracks just as a train model approaches."
+    },
+    {
+      "number": "24",
+      "title": "Tree Root Reinforcement and Slope Stability",
+      "description": "Two adjacent slopes, one bare and one forested with semi-transparent root systems, are subjected to the same rainfall; the bare slope fails quickly as soil blocks detach, while the rooted slope deforms but mostly holds, with roots stretching, some breaking, and stress colors changing.",
+      "seed": "Tree Root Reinforcement and Slope Stability: Two adjacent slopes, one bare and one forested with semi-transparent root systems, are subjected to the same rainfall; the bare slope fails quickly as soil blocks detach, while the rooted slope deforms but mostly holds, with roots stretching, some breaking, and stress colors changing."
+    },
+    {
+      "number": "25",
+      "title": "Planetary-Scale Landslide on a Volcanic Cone",
+      "description": "A tall volcanic cone with layered lava and ash experiences a flank collapse: a huge wedge detaches, slides, and breaks into blocks racing downslope, carving a horseshoe-shaped scar on the volcano and spreading a debris avalanche across the surrounding plain, leaving labeled deposit thickness contours.",
+      "seed": "Planetary-Scale Landslide on a Volcanic Cone: A tall volcanic cone with layered lava and ash experiences a flank collapse: a huge wedge detaches, slides, and breaks into blocks racing downslope, carving a horseshoe-shaped scar on the volcano and spreading a debris avalanche across the surrounding plain, leaving labeled deposit thickness contours."
+    }
+  ],
+  "raw_output": "Here are strong **Landslides simulation inputs** you can plug into your prompt:\n\n1. **Rain-Triggered Hillside Landslide**\n   A sloped terrain made of many small colored blocks slowly saturates as semi-transparent blue rain particles fall, until upper layers detach, slide downslope as a flowing mass, collide with trees and houses, and leave a visible scar and debris fan labeled on the hillside.\n\n2. **Rockfall and Debris Flow in a Mountain Gorge**\n   A steep cliff of gray rock segments periodically sheds loose boulders that bounce, spin, and fragment as they fall into a narrow valley, then mix with brown particle “mud” to form a fast-moving debris flow that follows a winding channel and splashes against a small bridge.\n\n3. **Rotating Drum Landslide Experiment**\n   A clear cylindrical drum half-filled with differently colored granular particles slowly rotates, causing internal layers to build up and suddenly fail along a sliding plane, with labels tracking slope angle, failure line, and the shifting center of mass.\n\n4. **Road Cut Slope Failure with Retaining Wall**\n   A layered hillside above a road is supported by a segmented retaining wall whose anchors stretch and glow red as stress increases, until some anchors detach, the wall tilts, and a block of soil slides down to bury a car model, leaving stress and displacement meters updating in real time.\n\n5. **Underwater Submarine Landslide and Tsunami Generation**\n   A continental shelf made of sand-like particles suddenly slumps into deeper water, with the mass flowing downslope under a transparent blue water layer, displacing the surface into propagating waves that radiate across the scene toward a simple coastline.\n\n6. **Slow Earthflow on a Gentle Slope**\n   A broad, gentle hillside of semi-viscous material slowly creeps downslope, with surface marker spheres leaving trails that show different velocities at different depths, and fences and trees bending and tilting as the ground beneath them gradually deforms.\n\n7. **Triggered Landslide from Earthquake Shaking**\n   A blocky hillside with houses and trees experiences sinusoidal ground shaking, making particles jiggle and detach along a pre-marked weak layer, then slide and bounce down, while a seismograph at the base draws a real-time trace of shaking amplitude versus time.\n\n8. **Landslide Dam Formation and Sudden Breach**\n   A valley river channel is blocked as a large rock and soil mass slides in from the side and stacks up to form a temporary dam, causing water to rise behind it as a transparent blue volume, then gradually erode a breach that rapidly enlarges and sends a flood wave downstream.\n\n9. **3D Translational vs. Rotational Landslide Comparison**\n   Two adjacent miniature hills each fail differently: on one, a rigid block slides linearly along a planar surface, while on the other a curved slip surface forms and the upper block rotates as it moves, with moving arrows and colored slip surfaces highlighting motion style.\n\n10. **Rainfall Infiltration and Pore Pressure Build-Up**\n    A layered slope of semi-transparent voxels changes color from dry to saturated as rainfall infiltrates from the top, raising pore pressure indicators (tiny vertical bars) until a critical zone glows and the overlying block detaches and slides, leaving a labeled failure surface.\n\n11. **Terraced Hillside Failure in a Farming Village**\n    Stepped terraces with crops and stone retaining walls sit on a hillside; heavy rain turns soil particles darker and heavier, causing some terrace walls to bulge and crack, then collapse, with soil, plants, and water mixing and cascading down to bury a road and small buildings.\n\n12. **Microscopic Grain-Scale Landslide Mechanics**\n    A slope made entirely of colored spherical grains packed in a wedge is sheared from below; grains roll, slide, and rearrange in slow motion, forming a localized shear band that glows, while contact forces are shown as thin lines whose thickness and color change as stress evolves.\n\n13. **Landslide Runout Path with Obstacle Interaction**\n    A mass of granular material is released at the top of a long valley with boulders, buildings, and trees; particles spread, split around obstacles, pile up behind them, and overtop some barriers, leaving a final deposit shape outlined with a transparent hull and area labels.\n\n14. **Snow Slab Avalanche as a Type of Landslide**\n    A layered snowpack on a mountain face shows a weak layer as a translucent plane; when triggered, a slab detaches along that plane and accelerates downslope, fragmenting into powder particles that form a white turbulent cloud with a soft trail and engulfing a skier model.\n\n15. **Retrogressive Landslide on a River Bank**\n    A vertical river bank made of layered soil blocks collapses in stages as the toe is eroded by flowing water; each failure causes a new block at the top to detach and rotate into the river, with collapsing segments labeled in sequence and the river carrying away debris.\n\n16. **Space Landslide on an Asteroid**\n    A small irregular asteroid rotates in space with loose regolith particles on its surface; as rotation speed increases, particles at the equator detach and slide downslope toward low spots, some even escaping into orbit, leaving faint trails and altering the asteroid’s spin slightly.\n\n17. **Highway Embankment Stability with Drainage Pipes**\n    A road embankment constructed of colored soil layers sits above a culvert and perforated drains; as water level rises, semi-transparent blue fills pores, drains slowly remove water, and a stability indicator meter changes color, with a failure event if drains are blocked and the slope slides.\n\n18. **Landslide Hazard Map in 3D Terrain**\n    A small 3D landscape with multiple hills, rivers, and roads shows colored hazard zones on slopes (green to red), then animates several simulated landslides triggered by rain in the highest-risk areas, with flowing debris volumes and changing hazard colors as slopes fail and stabilize.\n\n19. **Mining Pit Wall Failure**\n    A stepped open-pit mine with benches and haul roads has stress lines drawn in the walls; as excavation removes support at the base, cracks open and propagate upward, then a large wedge of rock detaches and slides into the pit, colliding with mining trucks and burying part of the road.\n\n20. **Landslide as a Data Cascade Metaphor**\n    A stack of labeled data blocks on a sloping “pipeline” platform gradually overloads as more blocks attach at the top; once a critical angle or count is reached, blocks detach and cascade down, colliding, splitting, and merging into error piles at the bottom, with counters tracking lost vs. saved data.\n\n21. **Composite Multi-Stage Hillslope Evolution**\n    A large hillside undergoes repeated storms and slides: each storm adds rain, triggers a landslide that removes part of the slope, deposits material at the base, and slightly reshapes the terrain mesh, with a timeline slider to replay successive slope failures and landscape evolution.\n\n22. **Landslide Impact on a Reservoir**\n    A steep slope directly above a calm reservoir suddenly fails as a block and debris flow; when it enters the transparent blue water volume, a large splash and wave propagate across the reservoir, overtopping a dam and spilling water down the downstream face with white spray particles.\n\n23. **Railway Cut Landslide with Monitoring Instruments**\n    A train track at the base of a cut slope is monitored by virtual instruments: inclinometers, crack meters, and GPS points that move subtly as the slope deforms; when thresholds are exceeded, alarms flash and a block slides down onto the tracks just as a train model approaches.\n\n24. **Tree Root Reinforcement and Slope Stability**\n    Two adjacent slopes, one bare and one forested with semi-transparent root systems, are subjected to the same rainfall; the bare slope fails quickly as soil blocks detach, while the rooted slope deforms but mostly holds, with roots stretching, some breaking, and stress colors changing.\n\n25. **Planetary-Scale Landslide on a Volcanic Cone**\n    A tall volcanic cone with layered lava and ash experiences a flank collapse: a huge wedge detaches, slides, and breaks into blocks racing downslope, carving a horseshoe-shaped scar on the volcano and spreading a debris avalanche across the surrounding plain, leaving labeled deposit thickness contours."
+}

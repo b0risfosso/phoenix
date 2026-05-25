@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Sensors and feedback loops",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:59:25",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Thermostat-Controlled Heated Room",
+      "description": "A cube room with a glowing heater box, a temperature sensor sphere on the wall, and floating “heat particles” that change speed and color as the sensor triggers the heater on and off in a feedback loop, with a temperature gauge bar updating in real time.",
+      "seed": "Thermostat-Controlled Heated Room: A cube room with a glowing heater box, a temperature sensor sphere on the wall, and floating “heat particles” that change speed and color as the sensor triggers the heater on and off in a feedback loop, with a temperature gauge bar updating in real time."
+    },
+    {
+      "number": "2",
+      "title": "Water Tank Level Control with Float Sensor",
+      "description": "A transparent vertical cylinder tank fills with water (blue rising cylinder) from an inlet pipe while a floating buoy sensor ring moves up and down, turning a pump box on and off via a glowing link as the water level crosses set thresholds, with numeric level labels.",
+      "seed": "Water Tank Level Control with Float Sensor: A transparent vertical cylinder tank fills with water (blue rising cylinder) from an inlet pipe while a floating buoy sensor ring moves up and down, turning a pump box on and off via a glowing link as the water level crosses set thresholds, with numeric level labels."
+    },
+    {
+      "number": "3",
+      "title": "Self-Balancing Inverted Pendulum on a Cart",
+      "description": "A cart sliding along a track with a tall rod pivoting on top and a small sensor box at the pivot that measures tilt; the cart moves left/right to keep the rod upright using a feedback loop, showing trail lines of the cart, angle labels, and color changes when it’s about to tip.",
+      "seed": "Self-Balancing Inverted Pendulum on a Cart: A cart sliding along a track with a tall rod pivoting on top and a small sensor box at the pivot that measures tilt; the cart moves left/right to keep the rod upright using a feedback loop, showing trail lines of the cart, angle labels, and color changes when it’s about to tip."
+    },
+    {
+      "number": "4",
+      "title": "Autonomous Drone Hover with Altitude Sensor",
+      "description": "A quadcopter-like box with four spinning rotor disks hovering above a plane, using a downward-facing sensor cone to measure altitude, adjusting rotor thrust to stay at a target height as wind gust arrows push it up or down, with its height error shown on a vertical bar gauge.",
+      "seed": "Autonomous Drone Hover with Altitude Sensor: A quadcopter-like box with four spinning rotor disks hovering above a plane, using a downward-facing sensor cone to measure altitude, adjusting rotor thrust to stay at a target height as wind gust arrows push it up or down, with its height error shown on a vertical bar gauge."
+    },
+    {
+      "number": "5",
+      "title": "Light-Seeking Robot with Dual Light Sensors",
+      "description": "A small wheeled robot sphere with two side-mounted light sensor dots moves across a bright floor toward a moving glowing lamp; each sensor’s brightness drives one wheel in a feedback loop, making the robot curve and correct its path, with trails marking its trajectory.",
+      "seed": "Light-Seeking Robot with Dual Light Sensors: A small wheeled robot sphere with two side-mounted light sensor dots moves across a bright floor toward a moving glowing lamp; each sensor’s brightness drives one wheel in a feedback loop, making the robot curve and correct its path, with trails marking its trajectory."
+    },
+    {
+      "number": "6",
+      "title": "Greenhouse Climate Feedback System",
+      "description": "A transparent greenhouse box with plants, a heater box, fan blades, and sensor spheres for temperature and humidity; heaters and fans pulse on and off in response to readings, while mist particles appear and dissipate, and colored bars show live temp/humidity setpoints.",
+      "seed": "Greenhouse Climate Feedback System: A transparent greenhouse box with plants, a heater box, fan blades, and sensor spheres for temperature and humidity; heaters and fans pulse on and off in response to readings, while mist particles appear and dissipate, and colored bars show live temp/humidity setpoints."
+    },
+    {
+      "number": "7",
+      "title": "Population and Resource Feedback Ecosystem",
+      "description": "A flat terrain where herbivore spheres and plant patches grow, move, and disappear; a “resource sensor” tower monitors plant density and triggers reproduction or migration of animals in a feedback loop, with color-coded regions showing overuse and regrowth.",
+      "seed": "Population and Resource Feedback Ecosystem: A flat terrain where herbivore spheres and plant patches grow, move, and disappear; a “resource sensor” tower monitors plant density and triggers reproduction or migration of animals in a feedback loop, with color-coded regions showing overuse and regrowth."
+    },
+    {
+      "number": "8",
+      "title": "Heart Pacemaker and ECG Sensor Loop",
+      "description": "A semi-transparent beating heart object with a sensor pad on its surface measuring rhythm; when the beat slows or irregularities appear, a pacemaker box sends timed pulses as glowing particles along a wire, tightening the heartbeat pattern and updating an ECG line display.",
+      "seed": "Heart Pacemaker and ECG Sensor Loop: A semi-transparent beating heart object with a sensor pad on its surface measuring rhythm; when the beat slows or irregularities appear, a pacemaker box sends timed pulses as glowing particles along a wire, tightening the heartbeat pattern and updating an ECG line display."
+    },
+    {
+      "number": "9",
+      "title": "Factory Conveyor with Optical Counter and Reject Gate",
+      "description": "Boxes (products) move along a conveyor belt while an overhead light sensor bar counts them; if a box is detected as defective (color-coded), the sensor triggers a side pusher arm that swings out to knock it into a reject bin, with counters and status lights updating.",
+      "seed": "Factory Conveyor with Optical Counter and Reject Gate: Boxes (products) move along a conveyor belt while an overhead light sensor bar counts them; if a box is detected as defective (color-coded), the sensor triggers a side pusher arm that swings out to knock it into a reject bin, with counters and status lights updating."
+    },
+    {
+      "number": "10",
+      "title": "Smart Streetlight with Ambient Light Sensor",
+      "description": "A street segment with a tall lamp post holding a light sensor sphere that measures sky brightness; the lamp’s glow smoothly increases at “sunset” and decreases at “sunrise” as a feedback loop, with a small panel showing sensor reading and power usage as bars.",
+      "seed": "Smart Streetlight with Ambient Light Sensor: A street segment with a tall lamp post holding a light sensor sphere that measures sky brightness; the lamp’s glow smoothly increases at “sunset” and decreases at “sunrise” as a feedback loop, with a small panel showing sensor reading and power usage as bars."
+    },
+    {
+      "number": "11",
+      "title": "PID-Controlled Rotating Arm Reaching a Target",
+      "description": "A pivoting arm rotating over a circular base tries to align with a moving target sphere; an angle sensor at the joint feeds a PID controller box that adjusts motor torque, with the arm overshooting, correcting, and settling, and trails showing error reduction over time.",
+      "seed": "PID-Controlled Rotating Arm Reaching a Target: A pivoting arm rotating over a circular base tries to align with a moving target sphere; an angle sensor at the joint feeds a PID controller box that adjusts motor torque, with the arm overshooting, correcting, and settling, and trails showing error reduction over time."
+    },
+    {
+      "number": "12",
+      "title": "Liquid Mixer with Temperature and Speed Feedback",
+      "description": "A transparent beaker cylinder with colored liquid and a central stir rod spins faster or slower based on a sensor that measures temperature and mixing uniformity; heaters at the base and a speed controller box adjust in a loop, while dye particles swirl, blend, and fade.",
+      "seed": "Liquid Mixer with Temperature and Speed Feedback: A transparent beaker cylinder with colored liquid and a central stir rod spins faster or slower based on a sensor that measures temperature and mixing uniformity; heaters at the base and a speed controller box adjust in a loop, while dye particles swirl, blend, and fade."
+    },
+    {
+      "number": "13",
+      "title": "Traffic Intersection with Smart Signal Sensors",
+      "description": "A 4-way road intersection where cars (small boxes) arrive in random streams and sensor pads in each lane detect queues; the traffic lights change timing in response, extending green for busy directions, with queue lengths and light cycle graphs updating continuously.",
+      "seed": "Traffic Intersection with Smart Signal Sensors: A 4-way road intersection where cars (small boxes) arrive in random streams and sensor pads in each lane detect queues; the traffic lights change timing in response, extending green for busy directions, with queue lengths and light cycle graphs updating continuously."
+    },
+    {
+      "number": "14",
+      "title": "Biological Neuron with Activity Feedback Inhibition",
+      "description": "A large neuron cell body with branching dendrites and an axon emits glowing pulses along its branches when stimulated; a “feedback inhibitor” interneuron sphere senses high pulse frequency and sends dampening pulses back, visibly reducing firing rate and branch brightness.",
+      "seed": "Biological Neuron with Activity Feedback Inhibition: A large neuron cell body with branching dendrites and an axon emits glowing pulses along its branches when stimulated; a “feedback inhibitor” interneuron sphere senses high pulse frequency and sends dampening pulses back, visibly reducing firing rate and branch brightness."
+    },
+    {
+      "number": "15",
+      "title": "Thermal Feedback in a Metal Rod Cooling System",
+      "description": "A long metallic rod colored by temperature sits between a heater block and a cooling block; temperature sensors along the rod report gradients to a controller that adjusts heater power and coolant flow, with temperature labels, color gradients, and transient heat waves.",
+      "seed": "Thermal Feedback in a Metal Rod Cooling System: A long metallic rod colored by temperature sits between a heater block and a cooling block; temperature sensors along the rod report gradients to a controller that adjusts heater power and coolant flow, with temperature labels, color gradients, and transient heat waves."
+    },
+    {
+      "number": "16",
+      "title": "Camera Tracking System with Pan-Tilt Feedback",
+      "description": "A camera box on a pan-tilt mount tracks a moving target sphere across a floor; angle sensors in the joints feed a controller that rotates the camera to keep the target centered, with the camera’s field-of-view cone shown and an on-screen reticle error indicator.",
+      "seed": "Camera Tracking System with Pan-Tilt Feedback: A camera box on a pan-tilt mount tracks a moving target sphere across a floor; angle sensors in the joints feed a controller that rotates the camera to keep the target centered, with the camera’s field-of-view cone shown and an on-screen reticle error indicator."
+    },
+    {
+      "number": "17",
+      "title": "Smart Irrigation Field with Moisture Sensors",
+      "description": "A rectangular field grid with soil tiles that change from dry brown to moist blue; moisture sensor stakes in some tiles report levels to a controller that opens/closes sprinkler arcs, creating a feedback loop that keeps each zone near a target moisture percentage.",
+      "seed": "Smart Irrigation Field with Moisture Sensors: A rectangular field grid with soil tiles that change from dry brown to moist blue; moisture sensor stakes in some tiles report levels to a controller that opens/closes sprinkler arcs, creating a feedback loop that keeps each zone near a target moisture percentage."
+    },
+    {
+      "number": "18",
+      "title": "Chemical Reactor with Concentration Feedback Control",
+      "description": "A mixing chamber where two colored streams enter and react to form a third color; concentration sensors (small transparent spheres) float in the mix, sending data to valves that adjust inflow rates, visibly changing color proportions and stabilizing the outlet mixture.",
+      "seed": "Chemical Reactor with Concentration Feedback Control: A mixing chamber where two colored streams enter and react to form a third color; concentration sensors (small transparent spheres) float in the mix, sending data to valves that adjust inflow rates, visibly changing color proportions and stabilizing the outlet mixture."
+    },
+    {
+      "number": "19",
+      "title": "Autonomous Submarine Depth Control",
+      "description": "A submersible capsule moves up and down in a tall water column, using a depth sensor and ballast tank spheres that fill and empty with virtual water; feedback adjusts buoyancy to maintain a set depth while external currents push it, with depth error graphed alongside.",
+      "seed": "Autonomous Submarine Depth Control: A submersible capsule moves up and down in a tall water column, using a depth sensor and ballast tank spheres that fill and empty with virtual water; feedback adjusts buoyancy to maintain a set depth while external currents push it, with depth error graphed alongside."
+    },
+    {
+      "number": "20",
+      "title": "Bouncing Ball with Adaptive Damping Sensor",
+      "description": "A sphere bouncing on a floor over a springy platform has a height sensor that measures bounce amplitude; a controller changes the platform’s effective stiffness and damping (shown by spring color and thickness) to keep bounce height near a target value.",
+      "seed": "Bouncing Ball with Adaptive Damping Sensor: A sphere bouncing on a floor over a springy platform has a height sensor that measures bounce amplitude; a controller changes the platform’s effective stiffness and damping (shown by spring color and thickness) to keep bounce height near a target value."
+    },
+    {
+      "number": "21",
+      "title": "Green Energy Microgrid with Load Sensors",
+      "description": "A few houses, a wind turbine, solar panel arrays, and a battery box are connected by glowing power lines; load sensors at each house and generation sensors at sources feed a controller that redirects power, charges/discharges the battery, and changes line glow intensity.",
+      "seed": "Green Energy Microgrid with Load Sensors: A few houses, a wind turbine, solar panel arrays, and a battery box are connected by glowing power lines; load sensors at each house and generation sensors at sources feed a controller that redirects power, charges/discharges the battery, and changes line glow intensity."
+    },
+    {
+      "number": "22",
+      "title": "Robot Arm Gripping with Force Feedback",
+      "description": "A multi-jointed robotic arm with a gripper tries to pick up and move fragile transparent cubes; force sensors at the gripper jaws measure contact pressure, feeding a loop that prevents crushing by adjusting grip strength, with force vectors and color-coded stress shown.",
+      "seed": "Robot Arm Gripping with Force Feedback: A multi-jointed robotic arm with a gripper tries to pick up and move fragile transparent cubes; force sensors at the gripper jaws measure contact pressure, feeding a loop that prevents crushing by adjusting grip strength, with force vectors and color-coded stress shown."
+    },
+    {
+      "number": "23",
+      "title": "Crowd Flow in a Hallway with Density Sensors",
+      "description": "Small walking agents move through a corridor where overhead sensors detect local density; gate doors and side passages open or close in response, redirecting flow, with density heatmaps on the floor and live graphs of congestion levels.",
+      "seed": "Crowd Flow in a Hallway with Density Sensors: Small walking agents move through a corridor where overhead sensors detect local density; gate doors and side passages open or close in response, redirecting flow, with density heatmaps on the floor and live graphs of congestion levels."
+    },
+    {
+      "number": "24",
+      "title": "Planetary Climate Model with Ice-Albedo Feedback",
+      "description": "A rotating sphere planet receives sunlight from a bright lamp; polar caps grow or shrink (white regions) based on temperature sensors, while increased ice changes reflectivity and further alters temperature, with temperature bands and ice boundaries dynamically shifting.",
+      "seed": "Planetary Climate Model with Ice-Albedo Feedback: A rotating sphere planet receives sunlight from a bright lamp; polar caps grow or shrink (white regions) based on temperature sensors, while increased ice changes reflectivity and further alters temperature, with temperature bands and ice boundaries dynamically shifting."
+    },
+    {
+      "number": "25",
+      "title": "Audio Volume Leveler with Peak Sensor Visualization",
+      "description": "A “sound stream” represented by pulsing bars flows into a processor box; amplitude sensors detect peaks and drive a gain control in a loop to keep output bars within a target range, with color changes when clipping or under-modulation occurs.",
+      "seed": "Audio Volume Leveler with Peak Sensor Visualization: A “sound stream” represented by pulsing bars flows into a processor box; amplitude sensors detect peaks and drive a gain control in a loop to keep output bars within a target range, with color changes when clipping or under-modulation occurs."
+    }
+  ],
+  "raw_output": "Here are strong **Sensors and feedback loops simulation inputs** you can plug into your prompt:\n\n1. **Thermostat-Controlled Heated Room**\n   A cube room with a glowing heater box, a temperature sensor sphere on the wall, and floating “heat particles” that change speed and color as the sensor triggers the heater on and off in a feedback loop, with a temperature gauge bar updating in real time.\n\n2. **Water Tank Level Control with Float Sensor**\n   A transparent vertical cylinder tank fills with water (blue rising cylinder) from an inlet pipe while a floating buoy sensor ring moves up and down, turning a pump box on and off via a glowing link as the water level crosses set thresholds, with numeric level labels.\n\n3. **Self-Balancing Inverted Pendulum on a Cart**\n   A cart sliding along a track with a tall rod pivoting on top and a small sensor box at the pivot that measures tilt; the cart moves left/right to keep the rod upright using a feedback loop, showing trail lines of the cart, angle labels, and color changes when it’s about to tip.\n\n4. **Autonomous Drone Hover with Altitude Sensor**\n   A quadcopter-like box with four spinning rotor disks hovering above a plane, using a downward-facing sensor cone to measure altitude, adjusting rotor thrust to stay at a target height as wind gust arrows push it up or down, with its height error shown on a vertical bar gauge.\n\n5. **Light-Seeking Robot with Dual Light Sensors**\n   A small wheeled robot sphere with two side-mounted light sensor dots moves across a bright floor toward a moving glowing lamp; each sensor’s brightness drives one wheel in a feedback loop, making the robot curve and correct its path, with trails marking its trajectory.\n\n6. **Greenhouse Climate Feedback System**\n   A transparent greenhouse box with plants, a heater box, fan blades, and sensor spheres for temperature and humidity; heaters and fans pulse on and off in response to readings, while mist particles appear and dissipate, and colored bars show live temp/humidity setpoints.\n\n7. **Population and Resource Feedback Ecosystem**\n   A flat terrain where herbivore spheres and plant patches grow, move, and disappear; a “resource sensor” tower monitors plant density and triggers reproduction or migration of animals in a feedback loop, with color-coded regions showing overuse and regrowth.\n\n8. **Heart Pacemaker and ECG Sensor Loop**\n   A semi-transparent beating heart object with a sensor pad on its surface measuring rhythm; when the beat slows or irregularities appear, a pacemaker box sends timed pulses as glowing particles along a wire, tightening the heartbeat pattern and updating an ECG line display.\n\n9. **Factory Conveyor with Optical Counter and Reject Gate**\n   Boxes (products) move along a conveyor belt while an overhead light sensor bar counts them; if a box is detected as defective (color-coded), the sensor triggers a side pusher arm that swings out to knock it into a reject bin, with counters and status lights updating.\n\n10. **Smart Streetlight with Ambient Light Sensor**\n    A street segment with a tall lamp post holding a light sensor sphere that measures sky brightness; the lamp’s glow smoothly increases at “sunset” and decreases at “sunrise” as a feedback loop, with a small panel showing sensor reading and power usage as bars.\n\n11. **PID-Controlled Rotating Arm Reaching a Target**\n    A pivoting arm rotating over a circular base tries to align with a moving target sphere; an angle sensor at the joint feeds a PID controller box that adjusts motor torque, with the arm overshooting, correcting, and settling, and trails showing error reduction over time.\n\n12. **Liquid Mixer with Temperature and Speed Feedback**\n    A transparent beaker cylinder with colored liquid and a central stir rod spins faster or slower based on a sensor that measures temperature and mixing uniformity; heaters at the base and a speed controller box adjust in a loop, while dye particles swirl, blend, and fade.\n\n13. **Traffic Intersection with Smart Signal Sensors**\n    A 4-way road intersection where cars (small boxes) arrive in random streams and sensor pads in each lane detect queues; the traffic lights change timing in response, extending green for busy directions, with queue lengths and light cycle graphs updating continuously.\n\n14. **Biological Neuron with Activity Feedback Inhibition**\n    A large neuron cell body with branching dendrites and an axon emits glowing pulses along its branches when stimulated; a “feedback inhibitor” interneuron sphere senses high pulse frequency and sends dampening pulses back, visibly reducing firing rate and branch brightness.\n\n15. **Thermal Feedback in a Metal Rod Cooling System**\n    A long metallic rod colored by temperature sits between a heater block and a cooling block; temperature sensors along the rod report gradients to a controller that adjusts heater power and coolant flow, with temperature labels, color gradients, and transient heat waves.\n\n16. **Camera Tracking System with Pan-Tilt Feedback**\n    A camera box on a pan-tilt mount tracks a moving target sphere across a floor; angle sensors in the joints feed a controller that rotates the camera to keep the target centered, with the camera’s field-of-view cone shown and an on-screen reticle error indicator.\n\n17. **Smart Irrigation Field with Moisture Sensors**\n    A rectangular field grid with soil tiles that change from dry brown to moist blue; moisture sensor stakes in some tiles report levels to a controller that opens/closes sprinkler arcs, creating a feedback loop that keeps each zone near a target moisture percentage.\n\n18. **Chemical Reactor with Concentration Feedback Control**\n    A mixing chamber where two colored streams enter and react to form a third color; concentration sensors (small transparent spheres) float in the mix, sending data to valves that adjust inflow rates, visibly changing color proportions and stabilizing the outlet mixture.\n\n19. **Autonomous Submarine Depth Control**\n    A submersible capsule moves up and down in a tall water column, using a depth sensor and ballast tank spheres that fill and empty with virtual water; feedback adjusts buoyancy to maintain a set depth while external currents push it, with depth error graphed alongside.\n\n20. **Bouncing Ball with Adaptive Damping Sensor**\n    A sphere bouncing on a floor over a springy platform has a height sensor that measures bounce amplitude; a controller changes the platform’s effective stiffness and damping (shown by spring color and thickness) to keep bounce height near a target value.\n\n21. **Green Energy Microgrid with Load Sensors**\n    A few houses, a wind turbine, solar panel arrays, and a battery box are connected by glowing power lines; load sensors at each house and generation sensors at sources feed a controller that redirects power, charges/discharges the battery, and changes line glow intensity.\n\n22. **Robot Arm Gripping with Force Feedback**\n    A multi-jointed robotic arm with a gripper tries to pick up and move fragile transparent cubes; force sensors at the gripper jaws measure contact pressure, feeding a loop that prevents crushing by adjusting grip strength, with force vectors and color-coded stress shown.\n\n23. **Crowd Flow in a Hallway with Density Sensors**\n    Small walking agents move through a corridor where overhead sensors detect local density; gate doors and side passages open or close in response, redirecting flow, with density heatmaps on the floor and live graphs of congestion levels.\n\n24. **Planetary Climate Model with Ice-Albedo Feedback**\n    A rotating sphere planet receives sunlight from a bright lamp; polar caps grow or shrink (white regions) based on temperature sensors, while increased ice changes reflectivity and further alters temperature, with temperature bands and ice boundaries dynamically shifting.\n\n25. **Audio Volume Leveler with Peak Sensor Visualization**\n    A “sound stream” represented by pulsing bars flows into a processor box; amplitude sensors detect peaks and drive a gain control in a loop to keep output bars within a target range, with color changes when clipping or under-modulation occurs."
+}

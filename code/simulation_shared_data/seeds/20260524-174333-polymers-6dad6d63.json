@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Polymers",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:43:33",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Step-Growth Polymerization in a Reaction Box",
+      "description": "A 3D box filled with floating colored monomers that randomly collide and, upon collision, attach to form longer chains that wiggle, bend, and occasionally break, with chain lengths labeled and a meter tracking average polymer size.",
+      "seed": "Step-Growth Polymerization in a Reaction Box: A 3D box filled with floating colored monomers that randomly collide and, upon collision, attach to form longer chains that wiggle, bend, and occasionally break, with chain lengths labeled and a meter tracking average polymer size."
+    },
+    {
+      "number": "2",
+      "title": "Linear vs Branched Polymer Chain Dynamics",
+      "description": "Several long bead-spring chains (linear) and Y-shaped chains (branched) drift and collide in a light-colored box, stretching, coiling, and entangling with different stiffness and colors, while labels show chain type and length.",
+      "seed": "Linear vs Branched Polymer Chain Dynamics: Several long bead-spring chains (linear) and Y-shaped chains (branched) drift and collide in a light-colored box, stretching, coiling, and entangling with different stiffness and colors, while labels show chain type and length."
+    },
+    {
+      "number": "3",
+      "title": "Polymer Melt Under Shear Between Moving Plates",
+      "description": "A dense tangle of flexible chains confined between two transparent parallel plates where the top plate slowly slides, causing chains to align, stretch, and slip past one another with arrows and a meter showing average orientation.",
+      "seed": "Polymer Melt Under Shear Between Moving Plates: A dense tangle of flexible chains confined between two transparent parallel plates where the top plate slowly slides, causing chains to align, stretch, and slip past one another with arrows and a meter showing average orientation."
+    },
+    {
+      "number": "4",
+      "title": "Crosslinking of a Polymer Network (Gel Formation)",
+      "description": "Flexible polymer chains float in a volume while small crosslinker spheres drift and, when they hit two chains, create glowing fixed joints that stiffen the structure, gradually forming a spanning gel network that changes color when percolation occurs.",
+      "seed": "Crosslinking of a Polymer Network (Gel Formation): Flexible polymer chains float in a volume while small crosslinker spheres drift and, when they hit two chains, create glowing fixed joints that stiffen the structure, gradually forming a spanning gel network that changes color when percolation occurs."
+    },
+    {
+      "number": "5",
+      "title": "Polymer Coil–to–Stretch Transition in Flow",
+      "description": "A few long polymer chains enter from one side of a channel as random coils and are pulled by a laminar flow field toward the other side, visibly stretching out and snapping back, with velocity arrows and color change indicating local tension.",
+      "seed": "Polymer Coil–to–Stretch Transition in Flow: A few long polymer chains enter from one side of a channel as random coils and are pulled by a laminar flow field toward the other side, visibly stretching out and snapping back, with velocity arrows and color change indicating local tension."
+    },
+    {
+      "number": "6",
+      "title": "Entangled Polymer Reptation in a Tube-Like Environment",
+      "description": "Several long chains are constrained within invisible “tubes” formed by surrounding chains, wriggling snake-like (reptation) along their own length with faint ghost tubes drawn as semi-transparent cylinders and end beads leaving short trails.",
+      "seed": "Entangled Polymer Reptation in a Tube-Like Environment: Several long chains are constrained within invisible “tubes” formed by surrounding chains, wriggling snake-like (reptation) along their own length with faint ghost tubes drawn as semi-transparent cylinders and end beads leaving short trails."
+    },
+    {
+      "number": "7",
+      "title": "Polymer Brush on a Surface in a Solvent",
+      "description": "One flat surface is grafted with many vertical flexible chains that sway and stretch in response to drifting solvent particles, with brushes changing color and height as solvent density changes, and a slider controlling grafting density.",
+      "seed": "Polymer Brush on a Surface in a Solvent: One flat surface is grafted with many vertical flexible chains that sway and stretch in response to drifting solvent particles, with brushes changing color and height as solvent density changes, and a slider controlling grafting density."
+    },
+    {
+      "number": "8",
+      "title": "Block Copolymer Microphase Separation",
+      "description": "Dozens of short AB block copolymer chains (half blue, half red beads) diffuse in a box and gradually segregate into lamellae or micelle-like domains, with faint isosurfaces highlighting red-rich and blue-rich regions over time.",
+      "seed": "Block Copolymer Microphase Separation: Dozens of short AB block copolymer chains (half blue, half red beads) diffuse in a box and gradually segregate into lamellae or micelle-like domains, with faint isosurfaces highlighting red-rich and blue-rich regions over time."
+    },
+    {
+      "number": "9",
+      "title": "Polymer Crystallization from a Melt",
+      "description": "A hot, disordered mass of chains slowly cools, and some segments align and lock into ordered, straight crystalline lamellae that grow outward like plates, changing to a brighter color while amorphous segments remain coiled and semi-transparent.",
+      "seed": "Polymer Crystallization from a Melt: A hot, disordered mass of chains slowly cools, and some segments align and lock into ordered, straight crystalline lamellae that grow outward like plates, changing to a brighter color while amorphous segments remain coiled and semi-transparent."
+    },
+    {
+      "number": "10",
+      "title": "Single Polymer Pulling Experiment (Optical Tweezers Analogy)",
+      "description": "One polymer chain is anchored at one end to a fixed wall and the other end attached to a movable sphere that can be dragged by the user’s mouse, stretching the chain; a live force-extension plot updates beside the 3D scene.",
+      "seed": "Single Polymer Pulling Experiment (Optical Tweezers Analogy): One polymer chain is anchored at one end to a fixed wall and the other end attached to a movable sphere that can be dragged by the user’s mouse, stretching the chain; a live force-extension plot updates beside the 3D scene."
+    },
+    {
+      "number": "11",
+      "title": "Polymer Diffusion Through a Nanopore Membrane",
+      "description": "A wall with a small pore separates two chambers: a long chain threads through the pore bead by bead, pulled by a weak force and random thermal kicks, with the number of translocated beads counted and displayed as a graph.",
+      "seed": "Polymer Diffusion Through a Nanopore Membrane: A wall with a small pore separates two chambers: a long chain threads through the pore bead by bead, pulled by a weak force and random thermal kicks, with the number of translocated beads counted and displayed as a graph."
+    },
+    {
+      "number": "12",
+      "title": "DNA-Like Double-Helix Polymer Unzipping and Re-Zipping",
+      "description": "A double-helix polymer (two intertwined bead chains connected by base-pair springs) sits in space and is slowly pulled apart from one end, base pairs detaching and glowing briefly, then allowing the user to relax it and watch it re-zip.",
+      "seed": "DNA-Like Double-Helix Polymer Unzipping and Re-Zipping: A double-helix polymer (two intertwined bead chains connected by base-pair springs) sits in space and is slowly pulled apart from one end, base pairs detaching and glowing briefly, then allowing the user to relax it and watch it re-zip."
+    },
+    {
+      "number": "13",
+      "title": "Polymer Network Under Cyclic Stretching (Rubber Band Model)",
+      "description": "A crosslinked 3D network of chains is anchored to two opposite faces of a box that periodically move apart and together, causing the network to stretch, thin, and recoil elastically, with color intensity indicating local strain.",
+      "seed": "Polymer Network Under Cyclic Stretching (Rubber Band Model): A crosslinked 3D network of chains is anchored to two opposite faces of a box that periodically move apart and together, causing the network to stretch, thin, and recoil elastically, with color intensity indicating local strain."
+    },
+    {
+      "number": "14",
+      "title": "Self-Assembling Micelles from Amphiphilic Polymers",
+      "description": "Dozens of short amphiphilic chains (hydrophilic heads, hydrophobic tails) float in a solvent and spontaneously cluster into spherical micelles with hydrophobic cores, which merge, split, and rearrange while the solvent is shown as small fading particles.",
+      "seed": "Self-Assembling Micelles from Amphiphilic Polymers: Dozens of short amphiphilic chains (hydrophilic heads, hydrophobic tails) float in a solvent and spontaneously cluster into spherical micelles with hydrophobic cores, which merge, split, and rearrange while the solvent is shown as small fading particles."
+    },
+    {
+      "number": "15",
+      "title": "Polymer-Based Drug Delivery Nanocapsules",
+      "description": "Hollow polymer shells (semi-transparent spheres made of connected beads) drift through a fluid filled with small drug particles that diffuse in and out; when a capsule reaches a target region, it opens (bonds detach) and releases a colorful particle cloud.",
+      "seed": "Polymer-Based Drug Delivery Nanocapsules: Hollow polymer shells (semi-transparent spheres made of connected beads) drift through a fluid filled with small drug particles that diffuse in and out; when a capsule reaches a target region, it opens (bonds detach) and releases a colorful particle cloud."
+    },
+    {
+      "number": "16",
+      "title": "Polymer Additive Mixing in a Recycling Extruder",
+      "description": "Two differently colored polymer “chunks” (collections of chains) are fed into a rotating screw inside a transparent cylinder, where they are stretched, folded, and mixed as the screw turns and the mixed melt is extruded as a striped strand.",
+      "seed": "Polymer Additive Mixing in a Recycling Extruder: Two differently colored polymer “chunks” (collections of chains) are fed into a rotating screw inside a transparent cylinder, where they are stretched, folded, and mixed as the screw turns and the mixed melt is extruded as a striped strand."
+    },
+    {
+      "number": "17",
+      "title": "Polymer Tangle in a 3D Printer Filament Spool",
+      "description": "A long polymer filament is coiled around a rotating spool, unwrapping and feeding through small guiding rings toward a nozzle; sections can snag, tighten, or loosen, with tension shown as color and the user able to change spool speed.",
+      "seed": "Polymer Tangle in a 3D Printer Filament Spool: A long polymer filament is coiled around a rotating spool, unwrapping and feeding through small guiding rings toward a nozzle; sections can snag, tighten, or loosen, with tension shown as color and the user able to change spool speed."
+    },
+    {
+      "number": "18",
+      "title": "Polymer Film Dewetting on a Surface",
+      "description": "A thin continuous polymer layer on a flat substrate gradually breaks into droplets: the film retracts, holes grow, and rims thicken, forming beads that coalesce, with height shown via color gradient and a meter tracking average droplet radius.",
+      "seed": "Polymer Film Dewetting on a Surface: A thin continuous polymer layer on a flat substrate gradually breaks into droplets: the film retracts, holes grow, and rims thicken, forming beads that coalesce, with height shown via color gradient and a meter tracking average droplet radius."
+    },
+    {
+      "number": "19",
+      "title": "Polymer Chains in a Stretchy Fabric Under Load",
+      "description": "A square patch of “fabric” made from woven polymer strands is fixed on two sides and pulled from the other sides; strands slide, straighten, and stiffen, some bonds break (glow red then vanish), and stress is visualized as a heatmap on the patch.",
+      "seed": "Polymer Chains in a Stretchy Fabric Under Load: A square patch of “fabric” made from woven polymer strands is fixed on two sides and pulled from the other sides; strands slide, straighten, and stiffen, some bonds break (glow red then vanish), and stress is visualized as a heatmap on the patch."
+    },
+    {
+      "number": "20",
+      "title": "Charged Polyelectrolyte Chains in an Electric Field",
+      "description": "Negatively charged polymer chains float among positive counterions; when an external electric field is turned on, chains stretch and drift, ions rearrange into moving clouds, and field lines plus a potential color map appear in the background.",
+      "seed": "Charged Polyelectrolyte Chains in an Electric Field: Negatively charged polymer chains float among positive counterions; when an external electric field is turned on, chains stretch and drift, ions rearrange into moving clouds, and field lines plus a potential color map appear in the background."
+    },
+    {
+      "number": "21",
+      "title": "Polymer Encapsulation and Release of a Droplet",
+      "description": "A flexible polymer sheet (mesh of springs) wraps around a small droplet sphere, gradually enclosing it into a capsule that drifts; an external “shock” event triggers the mesh to rupture at weak points, releasing the droplet as small particles.",
+      "seed": "Polymer Encapsulation and Release of a Droplet: A flexible polymer sheet (mesh of springs) wraps around a small droplet sphere, gradually enclosing it into a capsule that drifts; an external “shock” event triggers the mesh to rupture at weak points, releasing the droplet as small particles."
+    },
+    {
+      "number": "22",
+      "title": "Polymer Coil Adsorption on a Surface",
+      "description": "Free chains drift toward a flat attractive surface and, upon contact, progressively flatten and spread, with adsorbed segments turning a different color; chains can detach if thermal kicks are strong, and an adsorption fraction meter updates.",
+      "seed": "Polymer Coil Adsorption on a Surface: Free chains drift toward a flat attractive surface and, upon contact, progressively flatten and spread, with adsorbed segments turning a different color; chains can detach if thermal kicks are strong, and an adsorption fraction meter updates."
+    },
+    {
+      "number": "23",
+      "title": "Interpenetrating Polymer Networks (IPN) Formation",
+      "description": "Two sets of chains in different colors grow and crosslink at different times within the same volume, creating overlapping networks that swell or shrink differently when a solvent front moves through, warping the combined structure.",
+      "seed": "Interpenetrating Polymer Networks (IPN) Formation: Two sets of chains in different colors grow and crosslink at different times within the same volume, creating overlapping networks that swell or shrink differently when a solvent front moves through, warping the combined structure."
+    },
+    {
+      "number": "24",
+      "title": "Polymer-Based Artificial Muscle Fiber Contraction",
+      "description": "A bundle of aligned polymer chains between two anchors shortens when “activated” by a signal (traveling glowing wave), chains bending or rotating segments, causing the whole bundle to contract and lift a small attached weight.",
+      "seed": "Polymer-Based Artificial Muscle Fiber Contraction: A bundle of aligned polymer chains between two anchors shortens when “activated” by a signal (traveling glowing wave), chains bending or rotating segments, causing the whole bundle to contract and lift a small attached weight."
+    },
+    {
+      "number": "25",
+      "title": "Symbolic Polymer City with Growing Chain-Like Roads",
+      "description": "A stylized city on a light plane where “polymer chains” are road segments that grow, branch, and merge in response to drifting “traffic particles,” with intersections acting as crosslinks that can appear, strengthen, or dissolve over time.",
+      "seed": "Symbolic Polymer City with Growing Chain-Like Roads: A stylized city on a light plane where “polymer chains” are road segments that grow, branch, and merge in response to drifting “traffic particles,” with intersections acting as crosslinks that can appear, strengthen, or dissolve over time."
+    }
+  ],
+  "raw_output": "Here are strong **Polymers simulation inputs** you can plug into your prompt:\n\n1. **Step-Growth Polymerization in a Reaction Box**  \n   A 3D box filled with floating colored monomers that randomly collide and, upon collision, attach to form longer chains that wiggle, bend, and occasionally break, with chain lengths labeled and a meter tracking average polymer size.\n\n2. **Linear vs Branched Polymer Chain Dynamics**  \n   Several long bead-spring chains (linear) and Y-shaped chains (branched) drift and collide in a light-colored box, stretching, coiling, and entangling with different stiffness and colors, while labels show chain type and length.\n\n3. **Polymer Melt Under Shear Between Moving Plates**  \n   A dense tangle of flexible chains confined between two transparent parallel plates where the top plate slowly slides, causing chains to align, stretch, and slip past one another with arrows and a meter showing average orientation.\n\n4. **Crosslinking of a Polymer Network (Gel Formation)**  \n   Flexible polymer chains float in a volume while small crosslinker spheres drift and, when they hit two chains, create glowing fixed joints that stiffen the structure, gradually forming a spanning gel network that changes color when percolation occurs.\n\n5. **Polymer Coil–to–Stretch Transition in Flow**  \n   A few long polymer chains enter from one side of a channel as random coils and are pulled by a laminar flow field toward the other side, visibly stretching out and snapping back, with velocity arrows and color change indicating local tension.\n\n6. **Entangled Polymer Reptation in a Tube-Like Environment**  \n   Several long chains are constrained within invisible “tubes” formed by surrounding chains, wriggling snake-like (reptation) along their own length with faint ghost tubes drawn as semi-transparent cylinders and end beads leaving short trails.\n\n7. **Polymer Brush on a Surface in a Solvent**  \n   One flat surface is grafted with many vertical flexible chains that sway and stretch in response to drifting solvent particles, with brushes changing color and height as solvent density changes, and a slider controlling grafting density.\n\n8. **Block Copolymer Microphase Separation**  \n   Dozens of short AB block copolymer chains (half blue, half red beads) diffuse in a box and gradually segregate into lamellae or micelle-like domains, with faint isosurfaces highlighting red-rich and blue-rich regions over time.\n\n9. **Polymer Crystallization from a Melt**  \n   A hot, disordered mass of chains slowly cools, and some segments align and lock into ordered, straight crystalline lamellae that grow outward like plates, changing to a brighter color while amorphous segments remain coiled and semi-transparent.\n\n10. **Single Polymer Pulling Experiment (Optical Tweezers Analogy)**  \n    One polymer chain is anchored at one end to a fixed wall and the other end attached to a movable sphere that can be dragged by the user’s mouse, stretching the chain; a live force-extension plot updates beside the 3D scene.\n\n11. **Polymer Diffusion Through a Nanopore Membrane**  \n    A wall with a small pore separates two chambers: a long chain threads through the pore bead by bead, pulled by a weak force and random thermal kicks, with the number of translocated beads counted and displayed as a graph.\n\n12. **DNA-Like Double-Helix Polymer Unzipping and Re-Zipping**  \n    A double-helix polymer (two intertwined bead chains connected by base-pair springs) sits in space and is slowly pulled apart from one end, base pairs detaching and glowing briefly, then allowing the user to relax it and watch it re-zip.\n\n13. **Polymer Network Under Cyclic Stretching (Rubber Band Model)**  \n    A crosslinked 3D network of chains is anchored to two opposite faces of a box that periodically move apart and together, causing the network to stretch, thin, and recoil elastically, with color intensity indicating local strain.\n\n14. **Self-Assembling Micelles from Amphiphilic Polymers**  \n    Dozens of short amphiphilic chains (hydrophilic heads, hydrophobic tails) float in a solvent and spontaneously cluster into spherical micelles with hydrophobic cores, which merge, split, and rearrange while the solvent is shown as small fading particles.\n\n15. **Polymer-Based Drug Delivery Nanocapsules**  \n    Hollow polymer shells (semi-transparent spheres made of connected beads) drift through a fluid filled with small drug particles that diffuse in and out; when a capsule reaches a target region, it opens (bonds detach) and releases a colorful particle cloud.\n\n16. **Polymer Additive Mixing in a Recycling Extruder**  \n    Two differently colored polymer “chunks” (collections of chains) are fed into a rotating screw inside a transparent cylinder, where they are stretched, folded, and mixed as the screw turns and the mixed melt is extruded as a striped strand.\n\n17. **Polymer Tangle in a 3D Printer Filament Spool**  \n    A long polymer filament is coiled around a rotating spool, unwrapping and feeding through small guiding rings toward a nozzle; sections can snag, tighten, or loosen, with tension shown as color and the user able to change spool speed.\n\n18. **Polymer Film Dewetting on a Surface**  \n    A thin continuous polymer layer on a flat substrate gradually breaks into droplets: the film retracts, holes grow, and rims thicken, forming beads that coalesce, with height shown via color gradient and a meter tracking average droplet radius.\n\n19. **Polymer Chains in a Stretchy Fabric Under Load**  \n    A square patch of “fabric” made from woven polymer strands is fixed on two sides and pulled from the other sides; strands slide, straighten, and stiffen, some bonds break (glow red then vanish), and stress is visualized as a heatmap on the patch.\n\n20. **Charged Polyelectrolyte Chains in an Electric Field**  \n    Negatively charged polymer chains float among positive counterions; when an external electric field is turned on, chains stretch and drift, ions rearrange into moving clouds, and field lines plus a potential color map appear in the background.\n\n21. **Polymer Encapsulation and Release of a Droplet**  \n    A flexible polymer sheet (mesh of springs) wraps around a small droplet sphere, gradually enclosing it into a capsule that drifts; an external “shock” event triggers the mesh to rupture at weak points, releasing the droplet as small particles.\n\n22. **Polymer Coil Adsorption on a Surface**  \n    Free chains drift toward a flat attractive surface and, upon contact, progressively flatten and spread, with adsorbed segments turning a different color; chains can detach if thermal kicks are strong, and an adsorption fraction meter updates.\n\n23. **Interpenetrating Polymer Networks (IPN) Formation**  \n    Two sets of chains in different colors grow and crosslink at different times within the same volume, creating overlapping networks that swell or shrink differently when a solvent front moves through, warping the combined structure.\n\n24. **Polymer-Based Artificial Muscle Fiber Contraction**  \n    A bundle of aligned polymer chains between two anchors shortens when “activated” by a signal (traveling glowing wave), chains bending or rotating segments, causing the whole bundle to contract and lift a small attached weight.\n\n25. **Symbolic Polymer City with Growing Chain-Like Roads**  \n    A stylized city on a light plane where “polymer chains” are road segments that grow, branch, and merge in response to drifting “traffic particles,” with intersections acting as crosslinks that can appear, strengthen, or dissolve over time."
+}

@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Crystals and lattice growth",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:37:23",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Seeded Crystal Lattice Growing in a Solution Box",
+      "description": "A small cube “seed crystal” at the center of a transparent box of floating ions that randomly move, collide with the seed, and snap into a growing cubic lattice, with attached ions glowing briefly and a counter showing lattice size.",
+      "seed": "Seeded Crystal Lattice Growing in a Solution Box: A small cube “seed crystal” at the center of a transparent box of floating ions that randomly move, collide with the seed, and snap into a growing cubic lattice, with attached ions glowing briefly and a counter showing lattice size."
+    },
+    {
+      "number": "2",
+      "title": "Snowflake Branching from a Single Nucleus",
+      "description": "A tiny hexagonal nucleus in the center where water molecules drift in from a mist, attach only at certain angles to form branching hexagonal arms, with tips glowing blue as they grow and a slider to change temperature (attachment probability).",
+      "seed": "Snowflake Branching from a Single Nucleus: A tiny hexagonal nucleus in the center where water molecules drift in from a mist, attach only at certain angles to form branching hexagonal arms, with tips glowing blue as they grow and a slider to change temperature (attachment probability)."
+    },
+    {
+      "number": "3",
+      "title": "Crystal Growth Against a Rock Wall",
+      "description": "A rough, fixed rock wall mesh where mineral particles in a flowing transparent fluid slowly attach, forming faceted crystals that protrude outwards, with color changing from faint to vivid as each crystal gets larger.",
+      "seed": "Crystal Growth Against a Rock Wall: A rough, fixed rock wall mesh where mineral particles in a flowing transparent fluid slowly attach, forming faceted crystals that protrude outwards, with color changing from faint to vivid as each crystal gets larger."
+    },
+    {
+      "number": "4",
+      "title": "Lattice Defects and Dislocation Motion",
+      "description": "A 3D grid of spheres forming a perfect crystal where a few missing atoms (vacancies) and extra atoms (interstitials) can wander, collide, and move along, with dislocation lines highlighted in red and a stress meter that, when increased, makes defects glide through the lattice.",
+      "seed": "Lattice Defects and Dislocation Motion: A 3D grid of spheres forming a perfect crystal where a few missing atoms (vacancies) and extra atoms (interstitials) can wander, collide, and move along, with dislocation lines highlighted in red and a stress meter that, when increased, makes defects glide through the lattice."
+    },
+    {
+      "number": "5",
+      "title": "Layer‑by‑Layer Epitaxial Film Growth on a Substrate",
+      "description": "A flat stationary substrate plane with a different‑colored material raining down as atoms that land, diffuse along the surface, and attach in terraces and islands, with the developing film shown semi‑transparent and height mapped with a color gradient.",
+      "seed": "Layer‑by‑Layer Epitaxial Film Growth on a Substrate: A flat stationary substrate plane with a different‑colored material raining down as atoms that land, diffuse along the surface, and attach in terraces and islands, with the developing film shown semi‑transparent and height mapped with a color gradient."
+    },
+    {
+      "number": "6",
+      "title": "Crystal Dissolution vs. Growth in Changing Solution",
+      "description": "A single crystal in the center of a transparent container where ions detach from or attach to its faces depending on a “concentration” slider, showing surfaces smoothing or pitting while free ions change color when they switch between dissolved and bound.",
+      "seed": "Crystal Dissolution vs. Growth in Changing Solution: A single crystal in the center of a transparent container where ions detach from or attach to its faces depending on a “concentration” slider, showing surfaces smoothing or pitting while free ions change color when they switch between dissolved and bound."
+    },
+    {
+      "number": "7",
+      "title": "Polycrystal Grain Growth and Boundary Motion",
+      "description": "A block filled with many tiny differently colored crystal grains (small lattices with varying orientations) where grain boundaries slowly move, shrink, and disappear over time, with labels showing grain size and boundaries glowing as they migrate.",
+      "seed": "Polycrystal Grain Growth and Boundary Motion: A block filled with many tiny differently colored crystal grains (small lattices with varying orientations) where grain boundaries slowly move, shrink, and disappear over time, with labels showing grain size and boundaries glowing as they migrate."
+    },
+    {
+      "number": "8",
+      "title": "Ionic Crystal Formation from Oppositely Charged Ions",
+      "description": "Red and blue charged spheres drift and bounce gently in a box, then snap into place when they approach a growing NaCl‑like lattice seed, forming alternating colors in all directions, with faint electric field lines drawn around the forming crystal.",
+      "seed": "Ionic Crystal Formation from Oppositely Charged Ions: Red and blue charged spheres drift and bounce gently in a box, then snap into place when they approach a growing NaCl‑like lattice seed, forming alternating colors in all directions, with faint electric field lines drawn around the forming crystal."
+    },
+    {
+      "number": "9",
+      "title": "Crystal Under Mechanical Stress Fracturing Along Planes",
+      "description": "A rectangular crystal block with visible lattice planes is slowly bent by two moving paddles; as stress increases, cracks nucleate on specific lattice planes, propagate in straight lines, and split the crystal into pieces that detach and fall with trails.",
+      "seed": "Crystal Under Mechanical Stress Fracturing Along Planes: A rectangular crystal block with visible lattice planes is slowly bent by two moving paddles; as stress increases, cracks nucleate on specific lattice planes, propagate in straight lines, and split the crystal into pieces that detach and fall with trails."
+    },
+    {
+      "number": "10",
+      "title": "Metallic Crystal Melting and Recrystallizing",
+      "description": "A close‑packed lattice of spheres jitters slightly at low “temperature,” then jiggles more violently as a temperature slider rises, causing the lattice to dissolve into a liquid; lowering the slider lets atoms reattach, nucleate new crystals, and grow polycrystalline regions with distinct colors.",
+      "seed": "Metallic Crystal Melting and Recrystallizing: A close‑packed lattice of spheres jitters slightly at low “temperature,” then jiggles more violently as a temperature slider rises, causing the lattice to dissolve into a liquid; lowering the slider lets atoms reattach, nucleate new crystals, and grow polycrystalline regions with distinct colors."
+    },
+    {
+      "number": "11",
+      "title": "Self‑Assembling Crystal Lattice from Floating Nanoblocks",
+      "description": "Small cubic blocks with docking faces rotate and float in a zero‑gravity box, snap together when matching faces collide, and gradually assemble into a large ordered crystal structure, with successful attachments producing a quick white flash and a growing “order parameter” bar.",
+      "seed": "Self‑Assembling Crystal Lattice from Floating Nanoblocks: Small cubic blocks with docking faces rotate and float in a zero‑gravity box, snap together when matching faces collide, and gradually assemble into a large ordered crystal structure, with successful attachments producing a quick white flash and a growing “order parameter” bar."
+    },
+    {
+      "number": "12",
+      "title": "Lattice Vibration (Phonon) Waves Through a Crystal",
+      "description": "A fixed 3D grid of connected spheres where one side is suddenly displaced, sending a wave of oscillations through the lattice; color intensity of each sphere pulses with its displacement, and a control lets you start single pulses or periodic waves.",
+      "seed": "Lattice Vibration (Phonon) Waves Through a Crystal: A fixed 3D grid of connected spheres where one side is suddenly displaced, sending a wave of oscillations through the lattice; color intensity of each sphere pulses with its displacement, and a control lets you start single pulses or periodic waves."
+    },
+    {
+      "number": "13",
+      "title": "Salt Crystals Growing on an Evaporating Droplet",
+      "description": "A shallow transparent dish holds a slightly raised liquid droplet with dissolved ions; as the droplet slowly shrinks and flattens, ions condense at the edges to form bright white salt crystals that grow outward in jagged patterns.",
+      "seed": "Salt Crystals Growing on an Evaporating Droplet: A shallow transparent dish holds a slightly raised liquid droplet with dissolved ions; as the droplet slowly shrinks and flattens, ions condense at the edges to form bright white salt crystals that grow outward in jagged patterns."
+    },
+    {
+      "number": "14",
+      "title": "Crystal Growth Competition Around Multiple Seeds",
+      "description": "Several small seed crystals of different colors are placed in a shared box of mobile atoms; each seed grows outward by capturing passing atoms, and when growing fronts meet they form distinct, color‑coded grain boundaries that freeze in place.",
+      "seed": "Crystal Growth Competition Around Multiple Seeds: Several small seed crystals of different colors are placed in a shared box of mobile atoms; each seed grows outward by capturing passing atoms, and when growing fronts meet they form distinct, color‑coded grain boundaries that freeze in place."
+    },
+    {
+      "number": "15",
+      "title": "Protein Crystal Lattice Formation from Random Coils",
+      "description": "Flexible chain‑like molecules tumble in a solution, occasionally folding into a compact “binding” shape; only folded proteins can attach to a growing 3D lattice of proteins, which is shown in a distinct color and becomes more transparent as it thickens.",
+      "seed": "Protein Crystal Lattice Formation from Random Coils: Flexible chain‑like molecules tumble in a solution, occasionally folding into a compact “binding” shape; only folded proteins can attach to a growing 3D lattice of proteins, which is shown in a distinct color and becomes more transparent as it thickens."
+    },
+    {
+      "number": "16",
+      "title": "Cracking Ice Sheet with Columnar Crystal Growth",
+      "description": "A semi‑transparent horizontal ice sheet with visible vertical crystal columns slowly thickens downward into water while thermal cracks appear on top, widen, and branch; new ice columns grow from the base upward and glow faint blue at their tips.",
+      "seed": "Cracking Ice Sheet with Columnar Crystal Growth: A semi‑transparent horizontal ice sheet with visible vertical crystal columns slowly thickens downward into water while thermal cracks appear on top, widen, and branch; new ice columns grow from the base upward and glow faint blue at their tips."
+    },
+    {
+      "number": "17",
+      "title": "Crystal Lattice as a City Grid Metaphor",
+      "description": "A stylized “city” of glowing cubic buildings on a regular grid grows outward as new blocks attach only at the perimeter, with “traffic particles” flowing along straight lattice streets and changing color when passing through junctions that represent lattice defects.",
+      "seed": "Crystal Lattice as a City Grid Metaphor: A stylized “city” of glowing cubic buildings on a regular grid grows outward as new blocks attach only at the perimeter, with “traffic particles” flowing along straight lattice streets and changing color when passing through junctions that represent lattice defects."
+    },
+    {
+      "number": "18",
+      "title": "Magnetic Spin Lattice Ordering on Cooling",
+      "description": "A square 2D layer of arrows (spins) stacked in several transparent layers forms a 3D lattice; at high temperature arrows point randomly, but as a cooling slider is lowered they gradually align, forming domains, with domain walls highlighted and a magnetization bar increasing.",
+      "seed": "Magnetic Spin Lattice Ordering on Cooling: A square 2D layer of arrows (spins) stacked in several transparent layers forms a 3D lattice; at high temperature arrows point randomly, but as a cooling slider is lowered they gradually align, forming domains, with domain walls highlighted and a magnetization bar increasing."
+    },
+    {
+      "number": "19",
+      "title": "Crystal Growth in a Porous Rock Network",
+      "description": "A semi‑transparent 3D maze of pores in rock is flooded by a slowly moving fluid containing ions; where the fluid slows, crystals nucleate on pore walls and grow inward as faceted shapes that can eventually block channels and redirect the flow.",
+      "seed": "Crystal Growth in a Porous Rock Network: A semi‑transparent 3D maze of pores in rock is flooded by a slowly moving fluid containing ions; where the fluid slows, crystals nucleate on pore walls and grow inward as faceted shapes that can eventually block channels and redirect the flow."
+    },
+    {
+      "number": "20",
+      "title": "Layered Mineral Vein Filling a Fracture",
+      "description": "Two stationary rock slabs are separated by a narrow vertical crack; mineral‑rich fluid pulses upward through the crack, depositing thin crystal layers of alternating colors that grow inward from both sides, with labels tracking layer thickness over time.",
+      "seed": "Layered Mineral Vein Filling a Fracture: Two stationary rock slabs are separated by a narrow vertical crack; mineral‑rich fluid pulses upward through the crack, depositing thin crystal layers of alternating colors that grow inward from both sides, with labels tracking layer thickness over time."
+    },
+    {
+      "number": "21",
+      "title": "Fractal Crystal Dendrite in a Cooling Metal",
+      "description": "A hot metallic liquid in a box cools from one side, where a tiny solid seed appears and grows into a branching dendritic crystal; branches split and extend in preferred directions, with new growth tips glowing and a color gradient showing the temperature field.",
+      "seed": "Fractal Crystal Dendrite in a Cooling Metal: A hot metallic liquid in a box cools from one side, where a tiny solid seed appears and grows into a branching dendritic crystal; branches split and extend in preferred directions, with new growth tips glowing and a color gradient showing the temperature field."
+    },
+    {
+      "number": "22",
+      "title": "Lattice Point Defects Migrating Under a Thermal Gradient",
+      "description": "A large 3D crystal block with a few highlighted defect atoms experiences a temperature gradient from left (hot) to right (cold); defect atoms hop from site to site more often on the hot side, drifting overall toward the cold side, with their paths leaving faint trails.",
+      "seed": "Lattice Point Defects Migrating Under a Thermal Gradient: A large 3D crystal block with a few highlighted defect atoms experiences a temperature gradient from left (hot) to right (cold); defect atoms hop from site to site more often on the hot side, drifting overall toward the cold side, with their paths leaving faint trails."
+    },
+    {
+      "number": "23",
+      "title": "Crystal Growth in a Rotating Supersaturated Beaker",
+      "description": "A transparent rotating cylinder contains a supersaturated solution and a small seed at the bottom; as the cylinder spins, particles spiral upward in flow lines, occasionally colliding with and attaching to the seed, which grows unevenly depending on flow speed.",
+      "seed": "Crystal Growth in a Rotating Supersaturated Beaker: A transparent rotating cylinder contains a supersaturated solution and a small seed at the bottom; as the cylinder spins, particles spiral upward in flow lines, occasionally colliding with and attaching to the seed, which grows unevenly depending on flow speed."
+    },
+    {
+      "number": "24",
+      "title": "Molecular Lattice Building a Transparent Photonic Crystal",
+      "description": "Spherical dielectric beads float in a box and slowly settle into a perfectly ordered 3D lattice, with light rays (thin colored beams) passing through and visibly diffracting more strongly as the lattice becomes more regular.",
+      "seed": "Molecular Lattice Building a Transparent Photonic Crystal: Spherical dielectric beads float in a box and slowly settle into a perfectly ordered 3D lattice, with light rays (thin colored beams) passing through and visibly diffracting more strongly as the lattice becomes more regular."
+    },
+    {
+      "number": "25",
+      "title": "Symbolic “Idea Crystal” Growing in a Social Network Lattice",
+      "description": "Nodes arranged in a 3D lattice represent people, with edges as connections; an “idea” starts at one node as a small glowing crystal that can jump to connected nodes, where it attaches and grows differently colored facets depending on how many neighbors already have it.",
+      "seed": "Symbolic “Idea Crystal” Growing in a Social Network Lattice: Nodes arranged in a 3D lattice represent people, with edges as connections; an “idea” starts at one node as a small glowing crystal that can jump to connected nodes, where it attaches and grows differently colored facets depending on how many neighbors already have it."
+    }
+  ],
+  "raw_output": "Here are strong **Crystals and lattice growth simulation inputs** you can plug into your prompt:\n\n1. **Seeded Crystal Lattice Growing in a Solution Box**  \n   A small cube “seed crystal” at the center of a transparent box of floating ions that randomly move, collide with the seed, and snap into a growing cubic lattice, with attached ions glowing briefly and a counter showing lattice size.\n\n2. **Snowflake Branching from a Single Nucleus**  \n   A tiny hexagonal nucleus in the center where water molecules drift in from a mist, attach only at certain angles to form branching hexagonal arms, with tips glowing blue as they grow and a slider to change temperature (attachment probability).\n\n3. **Crystal Growth Against a Rock Wall**  \n   A rough, fixed rock wall mesh where mineral particles in a flowing transparent fluid slowly attach, forming faceted crystals that protrude outwards, with color changing from faint to vivid as each crystal gets larger.\n\n4. **Lattice Defects and Dislocation Motion**  \n   A 3D grid of spheres forming a perfect crystal where a few missing atoms (vacancies) and extra atoms (interstitials) can wander, collide, and move along, with dislocation lines highlighted in red and a stress meter that, when increased, makes defects glide through the lattice.\n\n5. **Layer‑by‑Layer Epitaxial Film Growth on a Substrate**  \n   A flat stationary substrate plane with a different‑colored material raining down as atoms that land, diffuse along the surface, and attach in terraces and islands, with the developing film shown semi‑transparent and height mapped with a color gradient.\n\n6. **Crystal Dissolution vs. Growth in Changing Solution**  \n   A single crystal in the center of a transparent container where ions detach from or attach to its faces depending on a “concentration” slider, showing surfaces smoothing or pitting while free ions change color when they switch between dissolved and bound.\n\n7. **Polycrystal Grain Growth and Boundary Motion**  \n   A block filled with many tiny differently colored crystal grains (small lattices with varying orientations) where grain boundaries slowly move, shrink, and disappear over time, with labels showing grain size and boundaries glowing as they migrate.\n\n8. **Ionic Crystal Formation from Oppositely Charged Ions**  \n   Red and blue charged spheres drift and bounce gently in a box, then snap into place when they approach a growing NaCl‑like lattice seed, forming alternating colors in all directions, with faint electric field lines drawn around the forming crystal.\n\n9. **Crystal Under Mechanical Stress Fracturing Along Planes**  \n   A rectangular crystal block with visible lattice planes is slowly bent by two moving paddles; as stress increases, cracks nucleate on specific lattice planes, propagate in straight lines, and split the crystal into pieces that detach and fall with trails.\n\n10. **Metallic Crystal Melting and Recrystallizing**  \n    A close‑packed lattice of spheres jitters slightly at low “temperature,” then jiggles more violently as a temperature slider rises, causing the lattice to dissolve into a liquid; lowering the slider lets atoms reattach, nucleate new crystals, and grow polycrystalline regions with distinct colors.\n\n11. **Self‑Assembling Crystal Lattice from Floating Nanoblocks**  \n    Small cubic blocks with docking faces rotate and float in a zero‑gravity box, snap together when matching faces collide, and gradually assemble into a large ordered crystal structure, with successful attachments producing a quick white flash and a growing “order parameter” bar.\n\n12. **Lattice Vibration (Phonon) Waves Through a Crystal**  \n    A fixed 3D grid of connected spheres where one side is suddenly displaced, sending a wave of oscillations through the lattice; color intensity of each sphere pulses with its displacement, and a control lets you start single pulses or periodic waves.\n\n13. **Salt Crystals Growing on an Evaporating Droplet**  \n    A shallow transparent dish holds a slightly raised liquid droplet with dissolved ions; as the droplet slowly shrinks and flattens, ions condense at the edges to form bright white salt crystals that grow outward in jagged patterns.\n\n14. **Crystal Growth Competition Around Multiple Seeds**  \n    Several small seed crystals of different colors are placed in a shared box of mobile atoms; each seed grows outward by capturing passing atoms, and when growing fronts meet they form distinct, color‑coded grain boundaries that freeze in place.\n\n15. **Protein Crystal Lattice Formation from Random Coils**  \n    Flexible chain‑like molecules tumble in a solution, occasionally folding into a compact “binding” shape; only folded proteins can attach to a growing 3D lattice of proteins, which is shown in a distinct color and becomes more transparent as it thickens.\n\n16. **Cracking Ice Sheet with Columnar Crystal Growth**  \n    A semi‑transparent horizontal ice sheet with visible vertical crystal columns slowly thickens downward into water while thermal cracks appear on top, widen, and branch; new ice columns grow from the base upward and glow faint blue at their tips.\n\n17. **Crystal Lattice as a City Grid Metaphor**  \n    A stylized “city” of glowing cubic buildings on a regular grid grows outward as new blocks attach only at the perimeter, with “traffic particles” flowing along straight lattice streets and changing color when passing through junctions that represent lattice defects.\n\n18. **Magnetic Spin Lattice Ordering on Cooling**  \n    A square 2D layer of arrows (spins) stacked in several transparent layers forms a 3D lattice; at high temperature arrows point randomly, but as a cooling slider is lowered they gradually align, forming domains, with domain walls highlighted and a magnetization bar increasing.\n\n19. **Crystal Growth in a Porous Rock Network**  \n    A semi‑transparent 3D maze of pores in rock is flooded by a slowly moving fluid containing ions; where the fluid slows, crystals nucleate on pore walls and grow inward as faceted shapes that can eventually block channels and redirect the flow.\n\n20. **Layered Mineral Vein Filling a Fracture**  \n    Two stationary rock slabs are separated by a narrow vertical crack; mineral‑rich fluid pulses upward through the crack, depositing thin crystal layers of alternating colors that grow inward from both sides, with labels tracking layer thickness over time.\n\n21. **Fractal Crystal Dendrite in a Cooling Metal**  \n    A hot metallic liquid in a box cools from one side, where a tiny solid seed appears and grows into a branching dendritic crystal; branches split and extend in preferred directions, with new growth tips glowing and a color gradient showing the temperature field.\n\n22. **Lattice Point Defects Migrating Under a Thermal Gradient**  \n    A large 3D crystal block with a few highlighted defect atoms experiences a temperature gradient from left (hot) to right (cold); defect atoms hop from site to site more often on the hot side, drifting overall toward the cold side, with their paths leaving faint trails.\n\n23. **Crystal Growth in a Rotating Supersaturated Beaker**  \n    A transparent rotating cylinder contains a supersaturated solution and a small seed at the bottom; as the cylinder spins, particles spiral upward in flow lines, occasionally colliding with and attaching to the seed, which grows unevenly depending on flow speed.\n\n24. **Molecular Lattice Building a Transparent Photonic Crystal**  \n    Spherical dielectric beads float in a box and slowly settle into a perfectly ordered 3D lattice, with light rays (thin colored beams) passing through and visibly diffracting more strongly as the lattice becomes more regular.\n\n25. **Symbolic “Idea Crystal” Growing in a Social Network Lattice**  \n    Nodes arranged in a 3D lattice represent people, with edges as connections; an “idea” starts at one node as a small glowing crystal that can jump to connected nodes, where it attaches and grows differently colored facets depending on how many neighbors already have it."
+}

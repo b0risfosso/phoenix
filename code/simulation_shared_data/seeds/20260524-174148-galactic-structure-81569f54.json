@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Galactic structure",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:41:48",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Spiral Galaxy Disk with Rotating Arms",
+      "description": "A flat spiral galaxy made of thousands of tiny glowing particles or small spheres rotates around a bright central bulge, with particles following curved orbits in the arms, leaving faint colored trails as they move through a light background.",
+      "seed": "Spiral Galaxy Disk with Rotating Arms: A flat spiral galaxy made of thousands of tiny glowing particles or small spheres rotates around a bright central bulge, with particles following curved orbits in the arms, leaving faint colored trails as they move through a light background."
+    },
+    {
+      "number": "2",
+      "title": "Galactic Bar and Ring Dynamics",
+      "description": "A barred spiral galaxy with an elongated central bar of stars slowly rotates, driving a ring of colored gas particles that orbit, collide softly, and gradually condense into brighter star-cluster spheres along the bar ends.",
+      "seed": "Galactic Bar and Ring Dynamics: A barred spiral galaxy with an elongated central bar of stars slowly rotates, driving a ring of colored gas particles that orbit, collide softly, and gradually condense into brighter star-cluster spheres along the bar ends."
+    },
+    {
+      "number": "3",
+      "title": "Galaxy Merger and Tidal Tails",
+      "description": "Two differently colored spiral galaxies approach, their star particles and gas clouds stretching into tidal tails that wrap and intertwine, while some stars are flung out on long, arcing trails and others settle into a shared rotating core.",
+      "seed": "Galaxy Merger and Tidal Tails: Two differently colored spiral galaxies approach, their star particles and gas clouds stretching into tidal tails that wrap and intertwine, while some stars are flung out on long, arcing trails and others settle into a shared rotating core."
+    },
+    {
+      "number": "4",
+      "title": "Rotating Galactic Halo with Dark Matter Shell",
+      "description": "A central luminous disk orbits inside a large transparent spherical shell representing dark matter, with labeled test particles at different radii tracing circular paths and leaving trails colored by orbital speed to show the rotation curve.",
+      "seed": "Rotating Galactic Halo with Dark Matter Shell: A central luminous disk orbits inside a large transparent spherical shell representing dark matter, with labeled test particles at different radii tracing circular paths and leaving trails colored by orbital speed to show the rotation curve."
+    },
+    {
+      "number": "5",
+      "title": "Star Cluster Migration Through a Galactic Disk",
+      "description": "Several compact star clusters (glowing clumps of small spheres) orbit within a flat galactic disk of fainter background particles, occasionally passing through spiral arms where they gain/lose members via gentle collisions and gravitational capture.",
+      "seed": "Star Cluster Migration Through a Galactic Disk: Several compact star clusters (glowing clumps of small spheres) orbit within a flat galactic disk of fainter background particles, occasionally passing through spiral arms where they gain/lose members via gentle collisions and gravitational capture."
+    },
+    {
+      "number": "6",
+      "title": "Formation of Spiral Arms from a Rotating Disk",
+      "description": "A nearly uniform rotating disk of particles slowly develops spiral arms as particles bunch together into brighter lanes, with color and thickness changing over time and labels marking regions of higher density.",
+      "seed": "Formation of Spiral Arms from a Rotating Disk: A nearly uniform rotating disk of particles slowly develops spiral arms as particles bunch together into brighter lanes, with color and thickness changing over time and labels marking regions of higher density."
+    },
+    {
+      "number": "7",
+      "title": "Galactic Nucleus with Orbiting Star Swarms",
+      "description": "A supermassive black hole (dark sphere with a bright accretion ring) sits at the center while swarms of stars orbit on inclined ellipses, some stars precessing and leaving 3D trails to visualize the structure of orbits near the nucleus.",
+      "seed": "Galactic Nucleus with Orbiting Star Swarms: A supermassive black hole (dark sphere with a bright accretion ring) sits at the center while swarms of stars orbit on inclined ellipses, some stars precessing and leaving 3D trails to visualize the structure of orbits near the nucleus."
+    },
+    {
+      "number": "8",
+      "title": "Warped Galactic Disk and Flaring Edges",
+      "description": "A thin, rotating galaxy disk is bent upward on one side and downward on the other, with particles following the warped plane and outer edge stars oscillating vertically, leaving vertical motion trails that highlight the warp.",
+      "seed": "Warped Galactic Disk and Flaring Edges: A thin, rotating galaxy disk is bent upward on one side and downward on the other, with particles following the warped plane and outer edge stars oscillating vertically, leaving vertical motion trails that highlight the warp."
+    },
+    {
+      "number": "9",
+      "title": "Satellite Galaxies Orbiting a Massive Host",
+      "description": "One large spiral galaxy is surrounded by several smaller, differently colored dwarf galaxy clouds that orbit, occasionally passing through the host’s halo, losing stars that detach and form a faint stellar stream wrapping around the main galaxy.",
+      "seed": "Satellite Galaxies Orbiting a Massive Host: One large spiral galaxy is surrounded by several smaller, differently colored dwarf galaxy clouds that orbit, occasionally passing through the host’s halo, losing stars that detach and form a faint stellar stream wrapping around the main galaxy."
+    },
+    {
+      "number": "10",
+      "title": "Galactic Fountain of Gas Clouds",
+      "description": "Gas clouds (semi-transparent blobs) rise from the galactic disk, arc into the halo, cool and fall back, changing color with height, while a few clouds collide and merge, and labels show inflow vs outflow regions.",
+      "seed": "Galactic Fountain of Gas Clouds: Gas clouds (semi-transparent blobs) rise from the galactic disk, arc into the halo, cool and fall back, changing color with height, while a few clouds collide and merge, and labels show inflow vs outflow regions."
+    },
+    {
+      "number": "11",
+      "title": "Bar-Driven Central Star Formation Ring",
+      "description": "A rotating galactic bar funnels glowing gas particles inward along its length into a bright, rotating inner ring, where gas clouds collide, compress, and transform into new blue star clusters that then orbit around the center.",
+      "seed": "Bar-Driven Central Star Formation Ring: A rotating galactic bar funnels glowing gas particles inward along its length into a bright, rotating inner ring, where gas clouds collide, compress, and transform into new blue star clusters that then orbit around the center."
+    },
+    {
+      "number": "12",
+      "title": "Thick Disk and Thin Disk Comparison",
+      "description": "A central galactic disk is split into a thin, bright inner layer and a puffier, fainter thick layer of stars above and below, with color-coded particles and toggled labels showing thin-disk vs thick-disk orbits as they rotate together.",
+      "seed": "Thick Disk and Thin Disk Comparison: A central galactic disk is split into a thin, bright inner layer and a puffier, fainter thick layer of stars above and below, with color-coded particles and toggled labels showing thin-disk vs thick-disk orbits as they rotate together."
+    },
+    {
+      "number": "13",
+      "title": "Stellar Streams from a Disrupted Dwarf Galaxy",
+      "description": "A small, labeled dwarf galaxy cluster orbits a larger galaxy and gradually sheds stars, forming long, curving streams that wrap around the host, with trails marking the path of stripped stars and the shrinking core of the dwarf.",
+      "seed": "Stellar Streams from a Disrupted Dwarf Galaxy: A small, labeled dwarf galaxy cluster orbits a larger galaxy and gradually sheds stars, forming long, curving streams that wrap around the host, with trails marking the path of stripped stars and the shrinking core of the dwarf."
+    },
+    {
+      "number": "14",
+      "title": "Galaxy Cluster with Intracluster Medium",
+      "description": "Multiple galaxies (elliptical and spiral shapes) float in a larger volume filled with a faint, semi-transparent gas, with some galaxies slowly drifting, merging, and leaving hot gas wakes, while a central cluster potential keeps them bound.",
+      "seed": "Galaxy Cluster with Intracluster Medium: Multiple galaxies (elliptical and spiral shapes) float in a larger volume filled with a faint, semi-transparent gas, with some galaxies slowly drifting, merging, and leaving hot gas wakes, while a central cluster potential keeps them bound."
+    },
+    {
+      "number": "15",
+      "title": "Ring Galaxy from a Head-On Collision",
+      "description": "A compact intruder galaxy passes through the center of a larger disk, triggering an expanding ring of bright star-forming particles that propagates outward across the disk, leaving behind a central hole and labeled shock front.",
+      "seed": "Ring Galaxy from a Head-On Collision: A compact intruder galaxy passes through the center of a larger disk, triggering an expanding ring of bright star-forming particles that propagates outward across the disk, leaving behind a central hole and labeled shock front."
+    },
+    {
+      "number": "16",
+      "title": "Lenticular Galaxy Transitioning from Spiral",
+      "description": "A galaxy gradually loses its spiral pattern as star-forming gas particles fade and disperse, while the stellar disk thickens and becomes smoother, with a slider-like meter indicating gas fraction and star formation rate over time.",
+      "seed": "Lenticular Galaxy Transitioning from Spiral: A galaxy gradually loses its spiral pattern as star-forming gas particles fade and disperse, while the stellar disk thickens and becomes smoother, with a slider-like meter indicating gas fraction and star formation rate over time."
+    },
+    {
+      "number": "17",
+      "title": "Flocculent vs Grand-Design Spiral Structures",
+      "description": "Two side-by-side galaxies rotate: one with many short, patchy spiral arms (flocculent) and one with two long, smooth arms, each star particle leaving colored trails so the different arm morphologies and orbital paths are clear.",
+      "seed": "Flocculent vs Grand-Design Spiral Structures: Two side-by-side galaxies rotate: one with many short, patchy spiral arms (flocculent) and one with two long, smooth arms, each star particle leaving colored trails so the different arm morphologies and orbital paths are clear."
+    },
+    {
+      "number": "18",
+      "title": "Galactic Bar Instability Growth",
+      "description": "A symmetric rotating stellar disk begins slightly perturbed, and over time a central bar structure grows and elongates as stars gradually align along the bar, with color changing for particles that become bar members vs those that remain in the disk.",
+      "seed": "Galactic Bar Instability Growth: A symmetric rotating stellar disk begins slightly perturbed, and over time a central bar structure grows and elongates as stars gradually align along the bar, with color changing for particles that become bar members vs those that remain in the disk."
+    },
+    {
+      "number": "19",
+      "title": "Polar Ring Galaxy with Perpendicular Disk",
+      "description": "A central spheroidal galaxy is encircled by a large, tilted ring of stars and gas that orbits nearly perpendicular to an inner disk, with transparent guides and labels showing the two distinct orbital planes.",
+      "seed": "Polar Ring Galaxy with Perpendicular Disk: A central spheroidal galaxy is encircled by a large, tilted ring of stars and gas that orbits nearly perpendicular to an inner disk, with transparent guides and labels showing the two distinct orbital planes."
+    },
+    {
+      "number": "20",
+      "title": "Spiral Density Wave with Passing Star Clumps",
+      "description": "A spiral density wave pattern (rotating, slightly overdense arms) sweeps through a disk of stars and gas, compressing gas clouds into bright star-forming knots that light up as they pass through the arms and then drift into the inter-arm regions.",
+      "seed": "Spiral Density Wave with Passing Star Clumps: A spiral density wave pattern (rotating, slightly overdense arms) sweeps through a disk of stars and gas, compressing gas clouds into bright star-forming knots that light up as they pass through the arms and then drift into the inter-arm regions."
+    },
+    {
+      "number": "21",
+      "title": "Radial Migration of Stars in a Galactic Disk",
+      "description": "Star particles in a disk change their orbital radius over time due to interactions with transient spiral features, with some stars gradually moving outward or inward, their trails color-shifting to show change in orbital distance.",
+      "seed": "Radial Migration of Stars in a Galactic Disk: Star particles in a disk change their orbital radius over time due to interactions with transient spiral features, with some stars gradually moving outward or inward, their trails color-shifting to show change in orbital distance."
+    },
+    {
+      "number": "22",
+      "title": "Pseudobulge vs Classical Bulge Structures",
+      "description": "Two galaxies are shown: one with a smooth, round central bulge and one with a flattened, rotating pseudobulge formed from disk stars, with colored orbits and rotation arrows indicating how bulge stars move differently in each case.",
+      "seed": "Pseudobulge vs Classical Bulge Structures: Two galaxies are shown: one with a smooth, round central bulge and one with a flattened, rotating pseudobulge formed from disk stars, with colored orbits and rotation arrows indicating how bulge stars move differently in each case."
+    },
+    {
+      "number": "23",
+      "title": "Multi-Component Galaxy: Bulge, Disk, Halo, and Streams",
+      "description": "A single galaxy is decomposed into color-coded components—red bulge stars, blue thin-disk stars, orange thick-disk stars, gray halo stars, and pale stellar streams—each in motion, with an interactive legend labeling the structures.",
+      "seed": "Multi-Component Galaxy: Bulge, Disk, Halo, and Streams: A single galaxy is decomposed into color-coded components—red bulge stars, blue thin-disk stars, orange thick-disk stars, gray halo stars, and pale stellar streams—each in motion, with an interactive legend labeling the structures."
+    },
+    {
+      "number": "24",
+      "title": "Gas Accretion Filaments Feeding a Galaxy",
+      "description": "Long, semi-transparent filaments of gas flow inward from the edges of the scene toward a central galaxy, wrapping into the disk and changing color as they heat and cool, while some gas clumps detach to form small satellite clouds.",
+      "seed": "Gas Accretion Filaments Feeding a Galaxy: Long, semi-transparent filaments of gas flow inward from the edges of the scene toward a central galaxy, wrapping into the disk and changing color as they heat and cool, while some gas clumps detach to form small satellite clouds."
+    },
+    {
+      "number": "25",
+      "title": "Symbolic “Galactic City” Structure",
+      "description": "A metaphorical galaxy is represented as a glowing central “downtown” sphere with orbiting “suburb” rings made of block-like buildings that slowly rotate; small “traffic” particles flow along spiral “roads” connecting core and outskirts, leaving light trails that reveal the city’s galactic structure.",
+      "seed": "Symbolic “Galactic City” Structure: A metaphorical galaxy is represented as a glowing central “downtown” sphere with orbiting “suburb” rings made of block-like buildings that slowly rotate; small “traffic” particles flow along spiral “roads” connecting core and outskirts, leaving light trails that reveal the city’s galactic structure."
+    }
+  ],
+  "raw_output": "Here are strong **Galactic structure simulation inputs** you can plug into your prompt:\n\n1. **Spiral Galaxy Disk with Rotating Arms**\n   A flat spiral galaxy made of thousands of tiny glowing particles or small spheres rotates around a bright central bulge, with particles following curved orbits in the arms, leaving faint colored trails as they move through a light background.\n\n2. **Galactic Bar and Ring Dynamics**\n   A barred spiral galaxy with an elongated central bar of stars slowly rotates, driving a ring of colored gas particles that orbit, collide softly, and gradually condense into brighter star-cluster spheres along the bar ends.\n\n3. **Galaxy Merger and Tidal Tails**\n   Two differently colored spiral galaxies approach, their star particles and gas clouds stretching into tidal tails that wrap and intertwine, while some stars are flung out on long, arcing trails and others settle into a shared rotating core.\n\n4. **Rotating Galactic Halo with Dark Matter Shell**\n   A central luminous disk orbits inside a large transparent spherical shell representing dark matter, with labeled test particles at different radii tracing circular paths and leaving trails colored by orbital speed to show the rotation curve.\n\n5. **Star Cluster Migration Through a Galactic Disk**\n   Several compact star clusters (glowing clumps of small spheres) orbit within a flat galactic disk of fainter background particles, occasionally passing through spiral arms where they gain/lose members via gentle collisions and gravitational capture.\n\n6. **Formation of Spiral Arms from a Rotating Disk**\n   A nearly uniform rotating disk of particles slowly develops spiral arms as particles bunch together into brighter lanes, with color and thickness changing over time and labels marking regions of higher density.\n\n7. **Galactic Nucleus with Orbiting Star Swarms**\n   A supermassive black hole (dark sphere with a bright accretion ring) sits at the center while swarms of stars orbit on inclined ellipses, some stars precessing and leaving 3D trails to visualize the structure of orbits near the nucleus.\n\n8. **Warped Galactic Disk and Flaring Edges**\n   A thin, rotating galaxy disk is bent upward on one side and downward on the other, with particles following the warped plane and outer edge stars oscillating vertically, leaving vertical motion trails that highlight the warp.\n\n9. **Satellite Galaxies Orbiting a Massive Host**\n   One large spiral galaxy is surrounded by several smaller, differently colored dwarf galaxy clouds that orbit, occasionally passing through the host’s halo, losing stars that detach and form a faint stellar stream wrapping around the main galaxy.\n\n10. **Galactic Fountain of Gas Clouds**\n    Gas clouds (semi-transparent blobs) rise from the galactic disk, arc into the halo, cool and fall back, changing color with height, while a few clouds collide and merge, and labels show inflow vs outflow regions.\n\n11. **Bar-Driven Central Star Formation Ring**\n    A rotating galactic bar funnels glowing gas particles inward along its length into a bright, rotating inner ring, where gas clouds collide, compress, and transform into new blue star clusters that then orbit around the center.\n\n12. **Thick Disk and Thin Disk Comparison**\n    A central galactic disk is split into a thin, bright inner layer and a puffier, fainter thick layer of stars above and below, with color-coded particles and toggled labels showing thin-disk vs thick-disk orbits as they rotate together.\n\n13. **Stellar Streams from a Disrupted Dwarf Galaxy**\n    A small, labeled dwarf galaxy cluster orbits a larger galaxy and gradually sheds stars, forming long, curving streams that wrap around the host, with trails marking the path of stripped stars and the shrinking core of the dwarf.\n\n14. **Galaxy Cluster with Intracluster Medium**\n    Multiple galaxies (elliptical and spiral shapes) float in a larger volume filled with a faint, semi-transparent gas, with some galaxies slowly drifting, merging, and leaving hot gas wakes, while a central cluster potential keeps them bound.\n\n15. **Ring Galaxy from a Head-On Collision**\n    A compact intruder galaxy passes through the center of a larger disk, triggering an expanding ring of bright star-forming particles that propagates outward across the disk, leaving behind a central hole and labeled shock front.\n\n16. **Lenticular Galaxy Transitioning from Spiral**\n    A galaxy gradually loses its spiral pattern as star-forming gas particles fade and disperse, while the stellar disk thickens and becomes smoother, with a slider-like meter indicating gas fraction and star formation rate over time.\n\n17. **Flocculent vs Grand-Design Spiral Structures**\n    Two side-by-side galaxies rotate: one with many short, patchy spiral arms (flocculent) and one with two long, smooth arms, each star particle leaving colored trails so the different arm morphologies and orbital paths are clear.\n\n18. **Galactic Bar Instability Growth**\n    A symmetric rotating stellar disk begins slightly perturbed, and over time a central bar structure grows and elongates as stars gradually align along the bar, with color changing for particles that become bar members vs those that remain in the disk.\n\n19. **Polar Ring Galaxy with Perpendicular Disk**\n    A central spheroidal galaxy is encircled by a large, tilted ring of stars and gas that orbits nearly perpendicular to an inner disk, with transparent guides and labels showing the two distinct orbital planes.\n\n20. **Spiral Density Wave with Passing Star Clumps**\n    A spiral density wave pattern (rotating, slightly overdense arms) sweeps through a disk of stars and gas, compressing gas clouds into bright star-forming knots that light up as they pass through the arms and then drift into the inter-arm regions.\n\n21. **Radial Migration of Stars in a Galactic Disk**\n    Star particles in a disk change their orbital radius over time due to interactions with transient spiral features, with some stars gradually moving outward or inward, their trails color-shifting to show change in orbital distance.\n\n22. **Pseudobulge vs Classical Bulge Structures**\n    Two galaxies are shown: one with a smooth, round central bulge and one with a flattened, rotating pseudobulge formed from disk stars, with colored orbits and rotation arrows indicating how bulge stars move differently in each case.\n\n23. **Multi-Component Galaxy: Bulge, Disk, Halo, and Streams**\n    A single galaxy is decomposed into color-coded components—red bulge stars, blue thin-disk stars, orange thick-disk stars, gray halo stars, and pale stellar streams—each in motion, with an interactive legend labeling the structures.\n\n24. **Gas Accretion Filaments Feeding a Galaxy**\n    Long, semi-transparent filaments of gas flow inward from the edges of the scene toward a central galaxy, wrapping into the disk and changing color as they heat and cool, while some gas clumps detach to form small satellite clouds.\n\n25. **Symbolic “Galactic City” Structure**\n    A metaphorical galaxy is represented as a glowing central “downtown” sphere with orbiting “suburb” rings made of block-like buildings that slowly rotate; small “traffic” particles flow along spiral “roads” connecting core and outskirts, leaving light trails that reveal the city’s galactic structure."
+}

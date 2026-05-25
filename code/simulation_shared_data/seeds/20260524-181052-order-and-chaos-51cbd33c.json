@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Order and chaos",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:10:52",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Crystal vs Gas Box",
+      "description": "A box half-filled with an orderly crystal lattice of spheres and half-filled with a chaotic gas of bouncing particles, where temperature sliders gradually melt the lattice into a disordered gas, with color-coded kinetic-energy trails and a thermometer bar.",
+      "seed": "Crystal vs Gas Box: A box half-filled with an orderly crystal lattice of spheres and half-filled with a chaotic gas of bouncing particles, where temperature sliders gradually melt the lattice into a disordered gas, with color-coded kinetic-energy trails and a thermometer bar."
+    },
+    {
+      "number": "2",
+      "title": "Planetary System Going Chaotic",
+      "description": "A central star with a few orderly orbiting planets slowly perturbed by a wandering massive body, showing stable orbits turning into chaotic slingshots, collisions, and ejections, with fading orbit trails and impact flashes.",
+      "seed": "Planetary System Going Chaotic: A central star with a few orderly orbiting planets slowly perturbed by a wandering massive body, showing stable orbits turning into chaotic slingshots, collisions, and ejections, with fading orbit trails and impact flashes."
+    },
+    {
+      "number": "3",
+      "title": "Flocking to Frenzy",
+      "description": "Hundreds of small arrow-shaped boids start in orderly flock formations and then switch parameters to cause chaotic swarms, with vectors showing alignment forces, color changes for local density, and a slider to tune from order to chaos.",
+      "seed": "Flocking to Frenzy: Hundreds of small arrow-shaped boids start in orderly flock formations and then switch parameters to cause chaotic swarms, with vectors showing alignment forces, color changes for local density, and a slider to tune from order to chaos."
+    },
+    {
+      "number": "4",
+      "title": "Pendulum Clock vs Double Pendulum Wall",
+      "description": "A row of identical, synchronized simple pendulums on one side and a row of double pendulums on the other, all started together, where the simple ones swing in neat patterns while the double pendulums quickly become wildly chaotic, with trails and phase-space plots floating beside them.",
+      "seed": "Pendulum Clock vs Double Pendulum Wall: A row of identical, synchronized simple pendulums on one side and a row of double pendulums on the other, all started together, where the simple ones swing in neat patterns while the double pendulums quickly become wildly chaotic, with trails and phase-space plots floating beside them."
+    },
+    {
+      "number": "5",
+      "title": "Traffic Roundabout Breakdown",
+      "description": "Cars (boxes) smoothly orbit a roundabout following rules (ordered flow) until occasional rule-breaking or random delays are introduced, leading to jams and chaotic weaving, with lane markings, turn signals, and color-coded congestion zones.",
+      "seed": "Traffic Roundabout Breakdown: Cars (boxes) smoothly orbit a roundabout following rules (ordered flow) until occasional rule-breaking or random delays are introduced, leading to jams and chaotic weaving, with lane markings, turn signals, and color-coded congestion zones."
+    },
+    {
+      "number": "6",
+      "title": "Domino Grid vs Random Scatter",
+      "description": "A neat 3D grid of standing domino blocks topples in a clean wave, then transitions into a scene where scattered blocks collide and bounce unpredictably, with toppling chains traced by glowing paths and a reset button that randomizes layouts.",
+      "seed": "Domino Grid vs Random Scatter: A neat 3D grid of standing domino blocks topples in a clean wave, then transitions into a scene where scattered blocks collide and bounce unpredictably, with toppling chains traced by glowing paths and a reset button that randomizes layouts."
+    },
+    {
+      "number": "7",
+      "title": "Orderly Lattice to Turbulent Fluid",
+      "description": "A 3D lattice of tiny velocity arrows in a transparent cube representing laminar flow that gradually transitions into swirling turbulent eddies, with dye-like colored particles released to visualize smooth streamlines turning into chaotic vortices.",
+      "seed": "Orderly Lattice to Turbulent Fluid: A 3D lattice of tiny velocity arrows in a transparent cube representing laminar flow that gradually transitions into swirling turbulent eddies, with dye-like colored particles released to visualize smooth streamlines turning into chaotic vortices."
+    },
+    {
+      "number": "8",
+      "title": "Galaxy Formation from Particle Chaos",
+      "description": "A cloud of randomly moving stars and dark particles gravitationally collapses into rotating spiral galaxies, with some runs producing neat disks and others fragmenting into chaotic multi-core systems, orbit trails and density-based coloring showing emergent order.",
+      "seed": "Galaxy Formation from Particle Chaos: A cloud of randomly moving stars and dark particles gravitationally collapses into rotating spiral galaxies, with some runs producing neat disks and others fragmenting into chaotic multi-core systems, orbit trails and density-based coloring showing emergent order."
+    },
+    {
+      "number": "9",
+      "title": "Conveyor Assembly vs Scrap Storm",
+      "description": "A factory line where identical parts move in an orderly straight path on a conveyor, being assembled into structured devices, while misaligned parts fall off, collide below, and form a chaotic bouncing scrap heap with sparks and dust particles.",
+      "seed": "Conveyor Assembly vs Scrap Storm: A factory line where identical parts move in an orderly straight path on a conveyor, being assembled into structured devices, while misaligned parts fall off, collide below, and form a chaotic bouncing scrap heap with sparks and dust particles."
+    },
+    {
+      "number": "10",
+      "title": "Magnetic Spins Aligning and Melting",
+      "description": "A 3D array of tiny arrows (magnetic spins) randomly oriented gradually align into ordered domains under a magnetic field, then “heat up” and become disordered again, with domain regions colored and a magnetization meter on the side.",
+      "seed": "Magnetic Spins Aligning and Melting: A 3D array of tiny arrows (magnetic spins) randomly oriented gradually align into ordered domains under a magnetic field, then “heat up” and become disordered again, with domain regions colored and a magnetization meter on the side."
+    },
+    {
+      "number": "11",
+      "title": "Crystal Growth in a Chaotic Solution",
+      "description": "Randomly drifting ions or molecules in a liquid box bump into and attach to a growing crystal seed, building an ordered shape from chaotic motion, while temperature or impurity sliders cause defects, branching, and partial dissolution with dissolving particles.",
+      "seed": "Crystal Growth in a Chaotic Solution: Randomly drifting ions or molecules in a liquid box bump into and attach to a growing crystal seed, building an ordered shape from chaotic motion, while temperature or impurity sliders cause defects, branching, and partial dissolution with dissolving particles."
+    },
+    {
+      "number": "12",
+      "title": "City Grid vs Riot Swarm",
+      "description": "Little human-shaped agents walk along straight city-grid paths (streets drawn on the ground) in orderly commuting patterns until a trigger event makes some agents panic, causing chaotic crowd swirls, collisions, and clustering, with police units trying to restore order via repelling zones.",
+      "seed": "City Grid vs Riot Swarm: Little human-shaped agents walk along straight city-grid paths (streets drawn on the ground) in orderly commuting patterns until a trigger event makes some agents panic, causing chaotic crowd swirls, collisions, and clustering, with police units trying to restore order via repelling zones."
+    },
+    {
+      "number": "13",
+      "title": "Metronome Synchronization on a Moving Platform",
+      "description": "Many small metronome boxes with swinging arms on a shared movable base start out of sync and gradually synchronize into ordered motion, then have random kicks applied to drive them into temporary chaos, with base rocking and angle trails.",
+      "seed": "Metronome Synchronization on a Moving Platform: Many small metronome boxes with swinging arms on a shared movable base start out of sync and gradually synchronize into ordered motion, then have random kicks applied to drive them into temporary chaos, with base rocking and angle trails."
+    },
+    {
+      "number": "14",
+      "title": "Orderly Orbiting Satellites and Space Debris Cascade",
+      "description": "A ring of satellites in neat orbits around a planet begins to collide with a single rogue debris piece, producing a cascading chain of fragments that spread into a chaotic cloud, with impact flashes, fragment trails, and color-coding by altitude bands.",
+      "seed": "Orderly Orbiting Satellites and Space Debris Cascade: A ring of satellites in neat orbits around a planet begins to collide with a single rogue debris piece, producing a cascading chain of fragments that spread into a chaotic cloud, with impact flashes, fragment trails, and color-coding by altitude bands."
+    },
+    {
+      "number": "15",
+      "title": "Fractal Growth from Random Walkers",
+      "description": "Randomly walking particles drift from all sides toward a central seed and stick on contact, building a branching fractal structure that looks ordered at large scale but chaotic up close, with transparent bounding box and time-lapse coloring from old (blue) to new (yellow) branches.",
+      "seed": "Fractal Growth from Random Walkers: Randomly walking particles drift from all sides toward a central seed and stick on contact, building a branching fractal structure that looks ordered at large scale but chaotic up close, with transparent bounding box and time-lapse coloring from old (blue) to new (yellow) branches."
+    },
+    {
+      "number": "16",
+      "title": "Orderly Solar System Orrery vs Chaotic Three-Body Corner",
+      "description": "One side of the scene shows a tidy mechanical orrery of planets and gears moving in stable orbits, while in another corner three massive bodies interact gravitationally in a chaotic dance, with orbit trails and labels showing energy exchanges.",
+      "seed": "Orderly Solar System Orrery vs Chaotic Three-Body Corner: One side of the scene shows a tidy mechanical orrery of planets and gears moving in stable orbits, while in another corner three massive bodies interact gravitationally in a chaotic dance, with orbit trails and labels showing energy exchanges."
+    },
+    {
+      "number": "17",
+      "title": "Neural Network Firing Patterns",
+      "description": "A 3D lattice of neuron nodes connected by transparent lines starts with a steady, repeating firing pattern (order), then small timing perturbations cause pulses to spread irregularly, branches to over-activate, and chaotic bursts to appear, all shown with glowing pulses and fading trails.",
+      "seed": "Neural Network Firing Patterns: A 3D lattice of neuron nodes connected by transparent lines starts with a steady, repeating firing pattern (order), then small timing perturbations cause pulses to spread irregularly, branches to over-activate, and chaotic bursts to appear, all shown with glowing pulses and fading trails."
+    },
+    {
+      "number": "18",
+      "title": "Sorting Machine from Disorder to Order",
+      "description": "Colored balls drop randomly into a bin then get transported by conveyors and ramps into sorted columns by color and size, while occasional jams or misroutes cause chaotic spills and bouncing balls, with counters and labels for “ordered” vs “unsorted.”",
+      "seed": "Sorting Machine from Disorder to Order: Colored balls drop randomly into a bin then get transported by conveyors and ramps into sorted columns by color and size, while occasional jams or misroutes cause chaotic spills and bouncing balls, with counters and labels for “ordered” vs “unsorted.”"
+    },
+    {
+      "number": "19",
+      "title": "Sandpile Avalanche Model",
+      "description": "Grains of sand (small spheres) are dropped steadily onto a central pile forming an ordered cone until local slopes exceed a threshold, triggering sudden chaotic avalanches down the sides, with sliding grains leaving temporary trail lines and a graph showing pile height over time.",
+      "seed": "Sandpile Avalanche Model: Grains of sand (small spheres) are dropped steadily onto a central pile forming an ordered cone until local slopes exceed a threshold, triggering sudden chaotic avalanches down the sides, with sliding grains leaving temporary trail lines and a graph showing pile height over time."
+    },
+    {
+      "number": "20",
+      "title": "Orderly Wave vs Chaotic Reflections in a Pool",
+      "description": "A flat, calm water-like square surface begins with a single circular wave spreading out neatly, then multiple moving droplet emitters create overlapping waves, interference patterns, and apparently chaotic ripples, visualized with height-based coloring and reflective lighting.",
+      "seed": "Orderly Wave vs Chaotic Reflections in a Pool: A flat, calm water-like square surface begins with a single circular wave spreading out neatly, then multiple moving droplet emitters create overlapping waves, interference patterns, and apparently chaotic ripples, visualized with height-based coloring and reflective lighting."
+    },
+    {
+      "number": "21",
+      "title": "Cell Division Grid vs Cancerous Chaos",
+      "description": "A transparent box with neatly arranged cells that divide in a synchronized, layered pattern contrasts with a region where mutated cells divide at random orientations and rates, pushing and deforming neighbors into a chaotic cluster, with color-coded normal vs mutated cells and division timers.",
+      "seed": "Cell Division Grid vs Cancerous Chaos: A transparent box with neatly arranged cells that divide in a synchronized, layered pattern contrasts with a region where mutated cells divide at random orientations and rates, pushing and deforming neighbors into a chaotic cluster, with color-coded normal vs mutated cells and division timers."
+    },
+    {
+      "number": "22",
+      "title": "Lattice of Coupled Oscillators to Wave Chaos",
+      "description": "A 3D grid of small oscillating masses connected by springs begins oscillating in phase, sending orderly waves through the lattice, then coupling strengths vary and a few random pushes cause complex, chaotic vibrations, with spring colors indicating tension.",
+      "seed": "Lattice of Coupled Oscillators to Wave Chaos: A 3D grid of small oscillating masses connected by springs begins oscillating in phase, sending orderly waves through the lattice, then coupling strengths vary and a few random pushes cause complex, chaotic vibrations, with spring colors indicating tension."
+    },
+    {
+      "number": "23",
+      "title": "Warehouse Robot Swarm Logistics",
+      "description": "Box-shaped robots move along floor grid lines in tidy, collision-free patterns to fetch and store crates, then a sudden priority change introduces path conflicts, jams, and re-routing chaos, with overhead path lines and task labels hovering above each robot.",
+      "seed": "Warehouse Robot Swarm Logistics: Box-shaped robots move along floor grid lines in tidy, collision-free patterns to fetch and store crates, then a sudden priority change introduces path conflicts, jams, and re-routing chaos, with overhead path lines and task labels hovering above each robot."
+    },
+    {
+      "number": "24",
+      "title": "Magnetic Beads Self-Assembling and Breaking Apart",
+      "description": "Small magnetized spheres float in a low-friction box, first randomly colliding to form straight chains and rings (order) and then being shaken so chains snap, reattach, and form irregular clusters (chaos), with bonds visualized as glowing links.",
+      "seed": "Magnetic Beads Self-Assembling and Breaking Apart: Small magnetized spheres float in a low-friction box, first randomly colliding to form straight chains and rings (order) and then being shaken so chains snap, reattach, and form irregular clusters (chaos), with bonds visualized as glowing links."
+    },
+    {
+      "number": "25",
+      "title": "Planetary Rings from Disrupted Moon",
+      "description": "A small moon orbiting a planet is gradually tidally disrupted into streams of particles that settle into an ordered ring system, while nearby shepherd moons stir local chaotic clumps, collisions, and gaps, with particle trails and ring density visualized by brightness.",
+      "seed": "Planetary Rings from Disrupted Moon: A small moon orbiting a planet is gradually tidally disrupted into streams of particles that settle into an ordered ring system, while nearby shepherd moons stir local chaotic clumps, collisions, and gaps, with particle trails and ring density visualized by brightness."
+    }
+  ],
+  "raw_output": "Here are strong **Order and chaos simulation inputs** you can plug into your prompt:\n\n1. **Crystal vs Gas Box**\n   A box half-filled with an orderly crystal lattice of spheres and half-filled with a chaotic gas of bouncing particles, where temperature sliders gradually melt the lattice into a disordered gas, with color-coded kinetic-energy trails and a thermometer bar.\n\n2. **Planetary System Going Chaotic**\n   A central star with a few orderly orbiting planets slowly perturbed by a wandering massive body, showing stable orbits turning into chaotic slingshots, collisions, and ejections, with fading orbit trails and impact flashes.\n\n3. **Flocking to Frenzy**\n   Hundreds of small arrow-shaped boids start in orderly flock formations and then switch parameters to cause chaotic swarms, with vectors showing alignment forces, color changes for local density, and a slider to tune from order to chaos.\n\n4. **Pendulum Clock vs Double Pendulum Wall**\n   A row of identical, synchronized simple pendulums on one side and a row of double pendulums on the other, all started together, where the simple ones swing in neat patterns while the double pendulums quickly become wildly chaotic, with trails and phase-space plots floating beside them.\n\n5. **Traffic Roundabout Breakdown**\n   Cars (boxes) smoothly orbit a roundabout following rules (ordered flow) until occasional rule-breaking or random delays are introduced, leading to jams and chaotic weaving, with lane markings, turn signals, and color-coded congestion zones.\n\n6. **Domino Grid vs Random Scatter**\n   A neat 3D grid of standing domino blocks topples in a clean wave, then transitions into a scene where scattered blocks collide and bounce unpredictably, with toppling chains traced by glowing paths and a reset button that randomizes layouts.\n\n7. **Orderly Lattice to Turbulent Fluid**\n   A 3D lattice of tiny velocity arrows in a transparent cube representing laminar flow that gradually transitions into swirling turbulent eddies, with dye-like colored particles released to visualize smooth streamlines turning into chaotic vortices.\n\n8. **Galaxy Formation from Particle Chaos**\n   A cloud of randomly moving stars and dark particles gravitationally collapses into rotating spiral galaxies, with some runs producing neat disks and others fragmenting into chaotic multi-core systems, orbit trails and density-based coloring showing emergent order.\n\n9. **Conveyor Assembly vs Scrap Storm**\n   A factory line where identical parts move in an orderly straight path on a conveyor, being assembled into structured devices, while misaligned parts fall off, collide below, and form a chaotic bouncing scrap heap with sparks and dust particles.\n\n10. **Magnetic Spins Aligning and Melting**\n    A 3D array of tiny arrows (magnetic spins) randomly oriented gradually align into ordered domains under a magnetic field, then “heat up” and become disordered again, with domain regions colored and a magnetization meter on the side.\n\n11. **Crystal Growth in a Chaotic Solution**\n    Randomly drifting ions or molecules in a liquid box bump into and attach to a growing crystal seed, building an ordered shape from chaotic motion, while temperature or impurity sliders cause defects, branching, and partial dissolution with dissolving particles.\n\n12. **City Grid vs Riot Swarm**\n    Little human-shaped agents walk along straight city-grid paths (streets drawn on the ground) in orderly commuting patterns until a trigger event makes some agents panic, causing chaotic crowd swirls, collisions, and clustering, with police units trying to restore order via repelling zones.\n\n13. **Metronome Synchronization on a Moving Platform**\n    Many small metronome boxes with swinging arms on a shared movable base start out of sync and gradually synchronize into ordered motion, then have random kicks applied to drive them into temporary chaos, with base rocking and angle trails.\n\n14. **Orderly Orbiting Satellites and Space Debris Cascade**\n    A ring of satellites in neat orbits around a planet begins to collide with a single rogue debris piece, producing a cascading chain of fragments that spread into a chaotic cloud, with impact flashes, fragment trails, and color-coding by altitude bands.\n\n15. **Fractal Growth from Random Walkers**\n    Randomly walking particles drift from all sides toward a central seed and stick on contact, building a branching fractal structure that looks ordered at large scale but chaotic up close, with transparent bounding box and time-lapse coloring from old (blue) to new (yellow) branches.\n\n16. **Orderly Solar System Orrery vs Chaotic Three-Body Corner**\n    One side of the scene shows a tidy mechanical orrery of planets and gears moving in stable orbits, while in another corner three massive bodies interact gravitationally in a chaotic dance, with orbit trails and labels showing energy exchanges.\n\n17. **Neural Network Firing Patterns**\n    A 3D lattice of neuron nodes connected by transparent lines starts with a steady, repeating firing pattern (order), then small timing perturbations cause pulses to spread irregularly, branches to over-activate, and chaotic bursts to appear, all shown with glowing pulses and fading trails.\n\n18. **Sorting Machine from Disorder to Order**\n    Colored balls drop randomly into a bin then get transported by conveyors and ramps into sorted columns by color and size, while occasional jams or misroutes cause chaotic spills and bouncing balls, with counters and labels for “ordered” vs “unsorted.”\n\n19. **Sandpile Avalanche Model**\n    Grains of sand (small spheres) are dropped steadily onto a central pile forming an ordered cone until local slopes exceed a threshold, triggering sudden chaotic avalanches down the sides, with sliding grains leaving temporary trail lines and a graph showing pile height over time.\n\n20. **Orderly Wave vs Chaotic Reflections in a Pool**\n    A flat, calm water-like square surface begins with a single circular wave spreading out neatly, then multiple moving droplet emitters create overlapping waves, interference patterns, and apparently chaotic ripples, visualized with height-based coloring and reflective lighting.\n\n21. **Cell Division Grid vs Cancerous Chaos**\n    A transparent box with neatly arranged cells that divide in a synchronized, layered pattern contrasts with a region where mutated cells divide at random orientations and rates, pushing and deforming neighbors into a chaotic cluster, with color-coded normal vs mutated cells and division timers.\n\n22. **Lattice of Coupled Oscillators to Wave Chaos**\n    A 3D grid of small oscillating masses connected by springs begins oscillating in phase, sending orderly waves through the lattice, then coupling strengths vary and a few random pushes cause complex, chaotic vibrations, with spring colors indicating tension.\n\n23. **Warehouse Robot Swarm Logistics**\n    Box-shaped robots move along floor grid lines in tidy, collision-free patterns to fetch and store crates, then a sudden priority change introduces path conflicts, jams, and re-routing chaos, with overhead path lines and task labels hovering above each robot.\n\n24. **Magnetic Beads Self-Assembling and Breaking Apart**\n    Small magnetized spheres float in a low-friction box, first randomly colliding to form straight chains and rings (order) and then being shaken so chains snap, reattach, and form irregular clusters (chaos), with bonds visualized as glowing links.\n\n25. **Planetary Rings from Disrupted Moon**\n    A small moon orbiting a planet is gradually tidally disrupted into streams of particles that settle into an ordered ring system, while nearby shepherd moons stir local chaotic clumps, collisions, and gaps, with particle trails and ring density visualized by brightness."
+}

@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Asteroid fields",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:39:52",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Binary Star Asteroid Belt Orbits",
+      "description": "A bright double-star system with hundreds of small asteroids of varying sizes orbiting in tilted rings, where asteroids can collide, fragment into glowing shards, and leave faint trails, with orbit paths and object labels dynamically shown.",
+      "seed": "Binary Star Asteroid Belt Orbits: A bright double-star system with hundreds of small asteroids of varying sizes orbiting in tilted rings, where asteroids can collide, fragment into glowing shards, and leave faint trails, with orbit paths and object labels dynamically shown."
+    },
+    {
+      "number": "2",
+      "title": "Spaceship Navigating a Dense Asteroid Field",
+      "description": "A small controllable ship with thrusters flies through a moving 3D asteroid maze where rocks slowly rotate, drift, and occasionally collide, leaving dust particle bursts on impact, with the ship bouncing, scraping, or breaking off small chunks on contact.",
+      "seed": "Spaceship Navigating a Dense Asteroid Field: A small controllable ship with thrusters flies through a moving 3D asteroid maze where rocks slowly rotate, drift, and occasionally collide, leaving dust particle bursts on impact, with the ship bouncing, scraping, or breaking off small chunks on contact."
+    },
+    {
+      "number": "3",
+      "title": "Asteroid Mining Station and Detachable Drones",
+      "description": "A central mining platform is anchored near a cluster of tumbling asteroids, launching small drone spheres that attach to rocks, drill (sparks and dust particles), detach with ore containers, and return to dock, with ore transfer shown as color-coded bars and glowing lines.",
+      "seed": "Asteroid Mining Station and Detachable Drones: A central mining platform is anchored near a cluster of tumbling asteroids, launching small drone spheres that attach to rocks, drill (sparks and dust particles), detach with ore containers, and return to dock, with ore transfer shown as color-coded bars and glowing lines."
+    },
+    {
+      "number": "4",
+      "title": "Gravitational Slingshot Through an Asteroid Ring",
+      "description": "A probe is launched from a planet and slingshots around a large asteroid, with a cloud of smaller asteroids orbiting both bodies; trails show curved trajectories, and collisions cause fragmentation and mass transfer, updating labels for mass and velocity.",
+      "seed": "Gravitational Slingshot Through an Asteroid Ring: A probe is launched from a planet and slingshots around a large asteroid, with a cloud of smaller asteroids orbiting both bodies; trails show curved trajectories, and collisions cause fragmentation and mass transfer, updating labels for mass and velocity."
+    },
+    {
+      "number": "5",
+      "title": "Proto-Planet Growing in an Asteroid Disk",
+      "description": "A light-background protoplanetary disk of icy and rocky chunks orbits a young star while a central “seed” body grows as nearby asteroids spiral inward, attach, and merge, with color-coded temperature, changing radius, and faint dust rings forming and dissipating.",
+      "seed": "Proto-Planet Growing in an Asteroid Disk: A light-background protoplanetary disk of icy and rocky chunks orbits a young star while a central “seed” body grows as nearby asteroids spiral inward, attach, and merge, with color-coded temperature, changing radius, and faint dust rings forming and dissipating."
+    },
+    {
+      "number": "6",
+      "title": "Asteroid Field with Dynamic Gravitational Clumping",
+      "description": "Hundreds of small asteroids drift randomly and gradually attract each other, forming temporary clusters that orbit a shared center of mass, split apart after energetic collisions, and leave glowing trails that fade, with live labels of cluster size and total mass.",
+      "seed": "Asteroid Field with Dynamic Gravitational Clumping: Hundreds of small asteroids drift randomly and gradually attract each other, forming temporary clusters that orbit a shared center of mass, split apart after energetic collisions, and leave glowing trails that fade, with live labels of cluster size and total mass."
+    },
+    {
+      "number": "7",
+      "title": "Magnetized Asteroid Fragments and Metal Sorting",
+      "description": "A mining craft fires an invisible magnetic field pulse that pulls only metal-rich (silver-colored) asteroid fragments toward a collection grid while rocky (brown) pieces drift past, with particles showing field lines, pieces bouncing off the grid, and labels for collected mass.",
+      "seed": "Magnetized Asteroid Fragments and Metal Sorting: A mining craft fires an invisible magnetic field pulse that pulls only metal-rich (silver-colored) asteroid fragments toward a collection grid while rocky (brown) pieces drift past, with particles showing field lines, pieces bouncing off the grid, and labels for collected mass."
+    },
+    {
+      "number": "8",
+      "title": "Asteroid Impact Experiment on a Small Moon",
+      "description": "A small moon sits stationary while scripted asteroids of varying mass and speed are launched toward it, creating craters (raised rims), ejecta particle sprays, and bouncing fragments, with an on-screen meter for impact energy and crater diameter that updates each collision.",
+      "seed": "Asteroid Impact Experiment on a Small Moon: A small moon sits stationary while scripted asteroids of varying mass and speed are launched toward it, creating craters (raised rims), ejecta particle sprays, and bouncing fragments, with an on-screen meter for impact energy and crater diameter that updates each collision."
+    },
+    {
+      "number": "9",
+      "title": "Chaotic Triple-Asteroid System",
+      "description": "Three large irregular asteroids orbit a shared barycenter while dozens of smaller rocks orbit and occasionally get captured, ejected, or collide, with orbit lines toggled on/off, color-coded by gravitational binding, and labels that appear when a body switches from bound to escaping.",
+      "seed": "Chaotic Triple-Asteroid System: Three large irregular asteroids orbit a shared barycenter while dozens of smaller rocks orbit and occasionally get captured, ejected, or collide, with orbit lines toggled on/off, color-coded by gravitational binding, and labels that appear when a body switches from bound to escaping."
+    },
+    {
+      "number": "10",
+      "title": "Asteroid Tether Construction and Detachment",
+      "description": "Two large asteroids are connected by a flexible, slightly transparent tether that can attach and detach from anchor points, with small robotic pods crawling along the tether, adjusting its length and causing the asteroids to slowly rotate and reorient as tension changes.",
+      "seed": "Asteroid Tether Construction and Detachment: Two large asteroids are connected by a flexible, slightly transparent tether that can attach and detach from anchor points, with small robotic pods crawling along the tether, adjusting its length and causing the asteroids to slowly rotate and reorient as tension changes."
+    },
+    {
+      "number": "11",
+      "title": "Comet Passing Through an Asteroid Belt",
+      "description": "A glowing, icy comet with a translucent tail moves through a populated asteroid belt, warming and shedding particles that interact with nearby asteroids, causing some to slowly spin up, crack, or fragment, with colored trails for gas vs. dust and labels for sublimation rate.",
+      "seed": "Comet Passing Through an Asteroid Belt: A glowing, icy comet with a translucent tail moves through a populated asteroid belt, warming and shedding particles that interact with nearby asteroids, causing some to slowly spin up, crack, or fragment, with colored trails for gas vs. dust and labels for sublimation rate."
+    },
+    {
+      "number": "12",
+      "title": "Asteroid Field with Rotating Laser Defense Grid",
+      "description": "A central station emits rotating laser beams (thin colored cylinders) that scan the field and vaporize or split incoming asteroids into smaller pieces, which bounce away, dissolve into particles, or re-merge when they collide, with a threat meter showing how many reach a protected inner zone.",
+      "seed": "Asteroid Field with Rotating Laser Defense Grid: A central station emits rotating laser beams (thin colored cylinders) that scan the field and vaporize or split incoming asteroids into smaller pieces, which bounce away, dissolve into particles, or re-merge when they collide, with a threat meter showing how many reach a protected inner zone."
+    },
+    {
+      "number": "13",
+      "title": "Asteroid Capture into Planetary Rings",
+      "description": "A small planet with a faint ring system gravitationally captures passing asteroids; incoming bodies either pass by, get slingshotted, crash into the planet, or join the ring, changing the ring’s thickness and brightness, with ghosted orbit projections and impact flashes.",
+      "seed": "Asteroid Capture into Planetary Rings: A small planet with a faint ring system gravitationally captures passing asteroids; incoming bodies either pass by, get slingshotted, crash into the planet, or join the ring, changing the ring’s thickness and brightness, with ghosted orbit projections and impact flashes."
+    },
+    {
+      "number": "14",
+      "title": "Self-Replicating Mining Probes in an Asteroid Swarm",
+      "description": "A few initial probes move through a sparse asteroid field, latch onto rocks to harvest material, then detach and replicate as new probes, visualized by glowing attachments, color-changing asteroids as they’re depleted, and labels counting probe generations.",
+      "seed": "Self-Replicating Mining Probes in an Asteroid Swarm: A few initial probes move through a sparse asteroid field, latch onto rocks to harvest material, then detach and replicate as new probes, visualized by glowing attachments, color-changing asteroids as they’re depleted, and labels counting probe generations."
+    },
+    {
+      "number": "15",
+      "title": "Asteroid Field with Localized Gravity Wells",
+      "description": "Invisible moving gravity wells (shown by faint transparent spheres when toggled) drift through a field of slow asteroids, bending their paths, concentrating some into spiraling mini-disks that merge and then disperse, with curved trails highlighting path deflections.",
+      "seed": "Asteroid Field with Localized Gravity Wells: Invisible moving gravity wells (shown by faint transparent spheres when toggled) drift through a field of slow asteroids, bending their paths, concentrating some into spiraling mini-disks that merge and then disperse, with curved trails highlighting path deflections."
+    },
+    {
+      "number": "16",
+      "title": "Asteroid Conveyor and Space Elevator Concept",
+      "description": "A rotating asteroid acts as a hub with a thin, translucent tether extending outward where small cargo pods attach, move along the tether, detach into transfer orbits, and rendezvous with passing asteroids, with color-coded velocity vectors and labels for transfer timing.",
+      "seed": "Asteroid Conveyor and Space Elevator Concept: A rotating asteroid acts as a hub with a thin, translucent tether extending outward where small cargo pods attach, move along the tether, detach into transfer orbits, and rendezvous with passing asteroids, with color-coded velocity vectors and labels for transfer timing."
+    },
+    {
+      "number": "17",
+      "title": "Planetary Defense Kinetic Impact Testbed",
+      "description": "A planet sits on one side of the scene while a stream of asteroids approaches; kinetic interceptor projectiles are launched to collide with them, causing visible deflections, fragment sprays, or complete vaporization, with gauges for “threat remaining” and impact angles.",
+      "seed": "Planetary Defense Kinetic Impact Testbed: A planet sits on one side of the scene while a stream of asteroids approaches; kinetic interceptor projectiles are launched to collide with them, causing visible deflections, fragment sprays, or complete vaporization, with gauges for “threat remaining” and impact angles."
+    },
+    {
+      "number": "18",
+      "title": "Electrostatic Dust and Pebbles Around a Large Asteroid",
+      "description": "A single large asteroid is surrounded by fine dust and pebble-sized particles that hover, bounce, and levitate due to electrostatic forces; occasional charge pulses cause particles to detach, jump, and then reattach elsewhere, with particles glowing briefly when charged.",
+      "seed": "Electrostatic Dust and Pebbles Around a Large Asteroid: A single large asteroid is surrounded by fine dust and pebble-sized particles that hover, bounce, and levitate due to electrostatic forces; occasional charge pulses cause particles to detach, jump, and then reattach elsewhere, with particles glowing briefly when charged."
+    },
+    {
+      "number": "19",
+      "title": "Asteroid Field Inside a Transparent Dyson-Like Shell",
+      "description": "A translucent polyhedral shell surrounds a central star with an inner asteroid swarm bouncing off its inner walls, sticking at certain “collector” panels, and sliding along grooves, with trails that wrap along the shell’s surface and labels for captured vs. free-floating mass.",
+      "seed": "Asteroid Field Inside a Transparent Dyson-Like Shell: A translucent polyhedral shell surrounds a central star with an inner asteroid swarm bouncing off its inner walls, sticking at certain “collector” panels, and sliding along grooves, with trails that wrap along the shell’s surface and labels for captured vs. free-floating mass."
+    },
+    {
+      "number": "20",
+      "title": "Asteroid Tugboats Repositioning a Hazardous Rock",
+      "description": "Several small thruster-equipped tug ships attach to different points on a dangerous asteroid, fire angled jets (particle exhaust), and gradually rotate and push it into a safer orbit, with dynamic arrows showing net force vectors and a timeline of projected vs. actual path.",
+      "seed": "Asteroid Tugboats Repositioning a Hazardous Rock: Several small thruster-equipped tug ships attach to different points on a dangerous asteroid, fire angled jets (particle exhaust), and gradually rotate and push it into a safer orbit, with dynamic arrows showing net force vectors and a timeline of projected vs. actual path."
+    },
+    {
+      "number": "21",
+      "title": "Fracturing Rubble-Pile Asteroid Under Spin-Up",
+      "description": "A loosely bound rubble-pile asteroid is spun faster over time; individual constituent boulders shift, detach, and drift away, some re-merging into smaller clusters that orbit the original core, with stress zones highlighted in changing colors and trails for escaping fragments.",
+      "seed": "Fracturing Rubble-Pile Asteroid Under Spin-Up: A loosely bound rubble-pile asteroid is spun faster over time; individual constituent boulders shift, detach, and drift away, some re-merging into smaller clusters that orbit the original core, with stress zones highlighted in changing colors and trails for escaping fragments."
+    },
+    {
+      "number": "22",
+      "title": "Asteroid Field with Color-Coded Composition Mapping",
+      "description": "A scanner probe flies through an asteroid field, briefly illuminating each asteroid and changing its color based on inferred composition (ice-blue, metal-silver, rock-brown, carbon-dark), leaving labeled markers and semi-transparent bounding boxes around high-value targets.",
+      "seed": "Asteroid Field with Color-Coded Composition Mapping: A scanner probe flies through an asteroid field, briefly illuminating each asteroid and changing its color based on inferred composition (ice-blue, metal-silver, rock-brown, carbon-dark), leaving labeled markers and semi-transparent bounding boxes around high-value targets."
+    },
+    {
+      "number": "23",
+      "title": "Asteroid Corridor in a Binary Planet System",
+      "description": "Two close-orbiting planets create a narrow, curved corridor where asteroids preferentially travel; rocks drift, bounce off the planets’ atmospheres (subtle glow and deflection), or get captured into temporary orbits, with orbit lines wrapping between both planets.",
+      "seed": "Asteroid Corridor in a Binary Planet System: Two close-orbiting planets create a narrow, curved corridor where asteroids preferentially travel; rocks drift, bounce off the planets’ atmospheres (subtle glow and deflection), or get captured into temporary orbits, with orbit lines wrapping between both planets."
+    },
+    {
+      "number": "24",
+      "title": "Asteroid Field with Time-Looping Trails",
+      "description": "Asteroids move in a complex 3D pattern, each leaving a semi-transparent trail that “rewinds” periodically to show their past paths looping back, with colors shifting over time and labels temporarily showing when two asteroids shared nearly the same position.",
+      "seed": "Asteroid Field with Time-Looping Trails: Asteroids move in a complex 3D pattern, each leaving a semi-transparent trail that “rewinds” periodically to show their past paths looping back, with colors shifting over time and labels temporarily showing when two asteroids shared nearly the same position."
+    },
+    {
+      "number": "25",
+      "title": "Asteroid Field as a 3D Data Visualization",
+      "description": "Each asteroid represents a data point whose position encodes three variables, size shows magnitude, color shows category, and gentle orbital motion keeps them drifting; collisions cause temporary highlighting and label pop-ups showing combined data values before they separate again.",
+      "seed": "Asteroid Field as a 3D Data Visualization: Each asteroid represents a data point whose position encodes three variables, size shows magnitude, color shows category, and gentle orbital motion keeps them drifting; collisions cause temporary highlighting and label pop-ups showing combined data values before they separate again."
+    }
+  ],
+  "raw_output": "Here are strong **Asteroid fields simulation inputs** you can plug into your prompt:\n\n1. **Binary Star Asteroid Belt Orbits**\n   A bright double-star system with hundreds of small asteroids of varying sizes orbiting in tilted rings, where asteroids can collide, fragment into glowing shards, and leave faint trails, with orbit paths and object labels dynamically shown.\n\n2. **Spaceship Navigating a Dense Asteroid Field**\n   A small controllable ship with thrusters flies through a moving 3D asteroid maze where rocks slowly rotate, drift, and occasionally collide, leaving dust particle bursts on impact, with the ship bouncing, scraping, or breaking off small chunks on contact.\n\n3. **Asteroid Mining Station and Detachable Drones**\n   A central mining platform is anchored near a cluster of tumbling asteroids, launching small drone spheres that attach to rocks, drill (sparks and dust particles), detach with ore containers, and return to dock, with ore transfer shown as color-coded bars and glowing lines.\n\n4. **Gravitational Slingshot Through an Asteroid Ring**\n   A probe is launched from a planet and slingshots around a large asteroid, with a cloud of smaller asteroids orbiting both bodies; trails show curved trajectories, and collisions cause fragmentation and mass transfer, updating labels for mass and velocity.\n\n5. **Proto-Planet Growing in an Asteroid Disk**\n   A light-background protoplanetary disk of icy and rocky chunks orbits a young star while a central “seed” body grows as nearby asteroids spiral inward, attach, and merge, with color-coded temperature, changing radius, and faint dust rings forming and dissipating.\n\n6. **Asteroid Field with Dynamic Gravitational Clumping**\n   Hundreds of small asteroids drift randomly and gradually attract each other, forming temporary clusters that orbit a shared center of mass, split apart after energetic collisions, and leave glowing trails that fade, with live labels of cluster size and total mass.\n\n7. **Magnetized Asteroid Fragments and Metal Sorting**\n   A mining craft fires an invisible magnetic field pulse that pulls only metal-rich (silver-colored) asteroid fragments toward a collection grid while rocky (brown) pieces drift past, with particles showing field lines, pieces bouncing off the grid, and labels for collected mass.\n\n8. **Asteroid Impact Experiment on a Small Moon**\n   A small moon sits stationary while scripted asteroids of varying mass and speed are launched toward it, creating craters (raised rims), ejecta particle sprays, and bouncing fragments, with an on-screen meter for impact energy and crater diameter that updates each collision.\n\n9. **Chaotic Triple-Asteroid System**\n   Three large irregular asteroids orbit a shared barycenter while dozens of smaller rocks orbit and occasionally get captured, ejected, or collide, with orbit lines toggled on/off, color-coded by gravitational binding, and labels that appear when a body switches from bound to escaping.\n\n10. **Asteroid Tether Construction and Detachment**\n    Two large asteroids are connected by a flexible, slightly transparent tether that can attach and detach from anchor points, with small robotic pods crawling along the tether, adjusting its length and causing the asteroids to slowly rotate and reorient as tension changes.\n\n11. **Comet Passing Through an Asteroid Belt**\n    A glowing, icy comet with a translucent tail moves through a populated asteroid belt, warming and shedding particles that interact with nearby asteroids, causing some to slowly spin up, crack, or fragment, with colored trails for gas vs. dust and labels for sublimation rate.\n\n12. **Asteroid Field with Rotating Laser Defense Grid**\n    A central station emits rotating laser beams (thin colored cylinders) that scan the field and vaporize or split incoming asteroids into smaller pieces, which bounce away, dissolve into particles, or re-merge when they collide, with a threat meter showing how many reach a protected inner zone.\n\n13. **Asteroid Capture into Planetary Rings**\n    A small planet with a faint ring system gravitationally captures passing asteroids; incoming bodies either pass by, get slingshotted, crash into the planet, or join the ring, changing the ring’s thickness and brightness, with ghosted orbit projections and impact flashes.\n\n14. **Self-Replicating Mining Probes in an Asteroid Swarm**\n    A few initial probes move through a sparse asteroid field, latch onto rocks to harvest material, then detach and replicate as new probes, visualized by glowing attachments, color-changing asteroids as they’re depleted, and labels counting probe generations.\n\n15. **Asteroid Field with Localized Gravity Wells**\n    Invisible moving gravity wells (shown by faint transparent spheres when toggled) drift through a field of slow asteroids, bending their paths, concentrating some into spiraling mini-disks that merge and then disperse, with curved trails highlighting path deflections.\n\n16. **Asteroid Conveyor and Space Elevator Concept**\n    A rotating asteroid acts as a hub with a thin, translucent tether extending outward where small cargo pods attach, move along the tether, detach into transfer orbits, and rendezvous with passing asteroids, with color-coded velocity vectors and labels for transfer timing.\n\n17. **Planetary Defense Kinetic Impact Testbed**\n    A planet sits on one side of the scene while a stream of asteroids approaches; kinetic interceptor projectiles are launched to collide with them, causing visible deflections, fragment sprays, or complete vaporization, with gauges for “threat remaining” and impact angles.\n\n18. **Electrostatic Dust and Pebbles Around a Large Asteroid**\n    A single large asteroid is surrounded by fine dust and pebble-sized particles that hover, bounce, and levitate due to electrostatic forces; occasional charge pulses cause particles to detach, jump, and then reattach elsewhere, with particles glowing briefly when charged.\n\n19. **Asteroid Field Inside a Transparent Dyson-Like Shell**\n    A translucent polyhedral shell surrounds a central star with an inner asteroid swarm bouncing off its inner walls, sticking at certain “collector” panels, and sliding along grooves, with trails that wrap along the shell’s surface and labels for captured vs. free-floating mass.\n\n20. **Asteroid Tugboats Repositioning a Hazardous Rock**\n    Several small thruster-equipped tug ships attach to different points on a dangerous asteroid, fire angled jets (particle exhaust), and gradually rotate and push it into a safer orbit, with dynamic arrows showing net force vectors and a timeline of projected vs. actual path.\n\n21. **Fracturing Rubble-Pile Asteroid Under Spin-Up**\n    A loosely bound rubble-pile asteroid is spun faster over time; individual constituent boulders shift, detach, and drift away, some re-merging into smaller clusters that orbit the original core, with stress zones highlighted in changing colors and trails for escaping fragments.\n\n22. **Asteroid Field with Color-Coded Composition Mapping**\n    A scanner probe flies through an asteroid field, briefly illuminating each asteroid and changing its color based on inferred composition (ice-blue, metal-silver, rock-brown, carbon-dark), leaving labeled markers and semi-transparent bounding boxes around high-value targets.\n\n23. **Asteroid Corridor in a Binary Planet System**\n    Two close-orbiting planets create a narrow, curved corridor where asteroids preferentially travel; rocks drift, bounce off the planets’ atmospheres (subtle glow and deflection), or get captured into temporary orbits, with orbit lines wrapping between both planets.\n\n24. **Asteroid Field with Time-Looping Trails**\n    Asteroids move in a complex 3D pattern, each leaving a semi-transparent trail that “rewinds” periodically to show their past paths looping back, with colors shifting over time and labels temporarily showing when two asteroids shared nearly the same position.\n\n25. **Asteroid Field as a 3D Data Visualization**\n    Each asteroid represents a data point whose position encodes three variables, size shows magnitude, color shows category, and gentle orbital motion keeps them drifting; collisions cause temporary highlighting and label pop-ups showing combined data values before they separate again."
+}

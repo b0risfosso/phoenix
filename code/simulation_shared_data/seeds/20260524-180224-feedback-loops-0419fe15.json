@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Feedback loops",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:02:24",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Thermostat-Controlled Room with Heating Feedback Loop",
+      "description": "A transparent box room with a heater cube, a thermometer pole, and air particles that change color with temperature, where the heater turns on/off based on a floating “target temp” slider, visualizing a feedback loop with glowing arrows and a temperature graph bar that rises and falls.",
+      "seed": "Thermostat-Controlled Room with Heating Feedback Loop: A transparent box room with a heater cube, a thermometer pole, and air particles that change color with temperature, where the heater turns on/off based on a floating “target temp” slider, visualizing a feedback loop with glowing arrows and a temperature graph bar that rises and falls."
+    },
+    {
+      "number": "2",
+      "title": "Predator–Prey Population Feedback Ecosystem",
+      "description": "A green plane with bouncing herbivore spheres and predator cones that chase and “tag” herbivores to replicate or vanish, with population meters on the side and color-coded trails showing how rising prey causes predator growth and eventual crashes in a repeating loop.",
+      "seed": "Predator–Prey Population Feedback Ecosystem: A green plane with bouncing herbivore spheres and predator cones that chase and “tag” herbivores to replicate or vanish, with population meters on the side and color-coded trails showing how rising prey causes predator growth and eventual crashes in a repeating loop."
+    },
+    {
+      "number": "3",
+      "title": "Water Tank with Float Valve Feedback Control",
+      "description": "A tall transparent cylinder slowly filling with blue water level, a floating disk that rises and pushes a lever attached to an inlet pipe, so that as the float lifts it gradually closes the inflow, demonstrating a mechanical feedback loop as the water oscillates around a set height.",
+      "seed": "Water Tank with Float Valve Feedback Control: A tall transparent cylinder slowly filling with blue water level, a floating disk that rises and pushes a lever attached to an inlet pipe, so that as the float lifts it gradually closes the inflow, demonstrating a mechanical feedback loop as the water oscillates around a set height."
+    },
+    {
+      "number": "4",
+      "title": "Planetary Climate Albedo Feedback",
+      "description": "A rotating gray sphere “planet” with white ice caps that grow or shrink based on incoming yellow light beams, where more ice increases reflected light (shown as bouncing rays) and cools the planet, creating a feedback loop oscillation in ice coverage and color-coded surface temperature.",
+      "seed": "Planetary Climate Albedo Feedback: A rotating gray sphere “planet” with white ice caps that grow or shrink based on incoming yellow light beams, where more ice increases reflected light (shown as bouncing rays) and cools the planet, creating a feedback loop oscillation in ice coverage and color-coded surface temperature."
+    },
+    {
+      "number": "5",
+      "title": "Neural Feedback Circuit with Firing Pulses",
+      "description": "A ring of semi-transparent neuron spheres connected by glowing tubular synapses, where firing pulses travel around the loop, feed back to the first neuron, and either amplify or damp out depending on adjustable synapse strengths controlled by draggable sliders.",
+      "seed": "Neural Feedback Circuit with Firing Pulses: A ring of semi-transparent neuron spheres connected by glowing tubular synapses, where firing pulses travel around the loop, feed back to the first neuron, and either amplify or damp out depending on adjustable synapse strengths controlled by draggable sliders."
+    },
+    {
+      "number": "6",
+      "title": "Microphone–Speaker Feedback Squeal Visualizer",
+      "description": "A speaker box and a microphone object facing each other with wavy sound-field rings that bounce between them, where increasing a “gain” knob causes amplified waves to grow in amplitude, change color, and form a visible standing-wave feedback loop that can saturate the scene.",
+      "seed": "Microphone–Speaker Feedback Squeal Visualizer: A speaker box and a microphone object facing each other with wavy sound-field rings that bounce between them, where increasing a “gain” knob causes amplified waves to grow in amplitude, change color, and form a visible standing-wave feedback loop that can saturate the scene."
+    },
+    {
+      "number": "7",
+      "title": "Economic Supply–Demand Price Feedback Market",
+      "description": "Two vertical bars representing supply and demand that grow/shrink in height based on a central price cylinder, where changes in price cause animated arrows to adjust supply/demand and then push price up or down, forming visible feedback cycles with labeled, color-coded segments.",
+      "seed": "Economic Supply–Demand Price Feedback Market: Two vertical bars representing supply and demand that grow/shrink in height based on a central price cylinder, where changes in price cause animated arrows to adjust supply/demand and then push price up or down, forming visible feedback cycles with labeled, color-coded segments."
+    },
+    {
+      "number": "8",
+      "title": "Biochemical Gene Regulation Feedback Loop",
+      "description": "A cell-like transparent sphere containing three colored gene cubes producing floating protein particles that orbit and then attach to other gene cubes as activators or repressors, changing their glow intensity and protein emission rate in a closed feedback loop.",
+      "seed": "Biochemical Gene Regulation Feedback Loop: A cell-like transparent sphere containing three colored gene cubes producing floating protein particles that orbit and then attach to other gene cubes as activators or repressors, changing their glow intensity and protein emission rate in a closed feedback loop."
+    },
+    {
+      "number": "9",
+      "title": "Thermostable Reaction in a Jacketed Reactor",
+      "description": "A transparent reactor cylinder with swirling colored particles representing reactants that heat the vessel, surrounded by a cooling jacket tube; as temperature rises, reaction rate and color intensity increase, which then triggers stronger cooling flow arrows in a feedback cycle.",
+      "seed": "Thermostable Reaction in a Jacketed Reactor: A transparent reactor cylinder with swirling colored particles representing reactants that heat the vessel, surrounded by a cooling jacket tube; as temperature rises, reaction rate and color intensity increase, which then triggers stronger cooling flow arrows in a feedback cycle."
+    },
+    {
+      "number": "10",
+      "title": "Traffic Flow with Feedback-Based Signal Timing",
+      "description": "A grid of light roads with small car boxes moving along lanes, where intersection signal poles adjust their green-light duration based on a queue-length meter, creating feedback that can smooth or worsen congestion visualized by growing or shrinking car clusters and changing light colors.",
+      "seed": "Traffic Flow with Feedback-Based Signal Timing: A grid of light roads with small car boxes moving along lanes, where intersection signal poles adjust their green-light duration based on a queue-length meter, creating feedback that can smooth or worsen congestion visualized by growing or shrinking car clusters and changing light colors."
+    },
+    {
+      "number": "11",
+      "title": "Bank Run Feedback in a Simple Financial Network",
+      "description": "A row of bank boxes connected to depositor spheres by glowing lines; when a bank’s “confidence meter” cylinder falls below a threshold, depositor spheres quickly detach and move to withdraw, which further lowers confidence and propagates the feedback to neighboring banks.",
+      "seed": "Bank Run Feedback in a Simple Financial Network: A row of bank boxes connected to depositor spheres by glowing lines; when a bank’s “confidence meter” cylinder falls below a threshold, depositor spheres quickly detach and move to withdraw, which further lowers confidence and propagates the feedback to neighboring banks."
+    },
+    {
+      "number": "12",
+      "title": "Forest Fire and Regrowth Feedback Landscape",
+      "description": "A patchy green plane with small tree cylinders that can ignite into orange-red flame particles, where fire reduces local fuel, which then slows spread, while regrowth (green sprouting particles) slowly rebuilds fuel, creating cycles of growth, burn, and recovery in a feedback pattern.",
+      "seed": "Forest Fire and Regrowth Feedback Landscape: A patchy green plane with small tree cylinders that can ignite into orange-red flame particles, where fire reduces local fuel, which then slows spread, while regrowth (green sprouting particles) slowly rebuilds fuel, creating cycles of growth, burn, and recovery in a feedback pattern."
+    },
+    {
+      "number": "13",
+      "title": "Thermal Runaway Battery Cell Feedback",
+      "description": "A stack of battery cells that warm up (color-shifting from blue to red) as current flows; heating one cell increases its current (shown by brighter moving charge particles), which heats neighbors via conduction rods, creating positive feedback that may stabilize or cascade.",
+      "seed": "Thermal Runaway Battery Cell Feedback: A stack of battery cells that warm up (color-shifting from blue to red) as current flows; heating one cell increases its current (shown by brighter moving charge particles), which heats neighbors via conduction rods, creating positive feedback that may stabilize or cascade."
+    },
+    {
+      "number": "14",
+      "title": "Feedback-Controlled Hovering Drone",
+      "description": "A quadcopter frame hovering over a flat plane, with downward thrust arrows from its propellers adjusting in real time based on altitude error measured by a vertical distance line, showing a feedback loop that keeps it at a target height while it drifts and self-corrects.",
+      "seed": "Feedback-Controlled Hovering Drone: A quadcopter frame hovering over a flat plane, with downward thrust arrows from its propellers adjusting in real time based on altitude error measured by a vertical distance line, showing a feedback loop that keeps it at a target height while it drifts and self-corrects."
+    },
+    {
+      "number": "15",
+      "title": "Social Media Feedback Bubble",
+      "description": "A cluster of user spheres exchanging colored “post” particles via connecting lines, where receiving more of one color increases a user’s probability to send the same color, thickening same-colored links and shrinking cross-colored links, forming self-reinforcing echo chambers.",
+      "seed": "Social Media Feedback Bubble: A cluster of user spheres exchanging colored “post” particles via connecting lines, where receiving more of one color increases a user’s probability to send the same color, thickening same-colored links and shrinking cross-colored links, forming self-reinforcing echo chambers."
+    },
+    {
+      "number": "16",
+      "title": "Feedback-Driven Population of Competing Species",
+      "description": "A shared habitat plane with two species (e.g., red cubes and blue spheres) that consume different resource patches; as one species grows, it depletes its resource (patch color fades), which then reduces its own growth and allows the other species to rebound, visualizing coupled feedback loops.",
+      "seed": "Feedback-Driven Population of Competing Species: A shared habitat plane with two species (e.g., red cubes and blue spheres) that consume different resource patches; as one species grows, it depletes its resource (patch color fades), which then reduces its own growth and allows the other species to rebound, visualizing coupled feedback loops."
+    },
+    {
+      "number": "17",
+      "title": "Audio Compressor with Gain Reduction Feedback",
+      "description": "A waveform bar moving through a transparent tunnel into a compressor box that measures its height; when peaks exceed a threshold line, a feedback arrow reduces the output bar’s height, with a gain-reduction meter cylinder showing dynamic negative feedback in real time.",
+      "seed": "Audio Compressor with Gain Reduction Feedback: A waveform bar moving through a transparent tunnel into a compressor box that measures its height; when peaks exceed a threshold line, a feedback arrow reduces the output bar’s height, with a gain-reduction meter cylinder showing dynamic negative feedback in real time."
+    },
+    {
+      "number": "18",
+      "title": "Feedback-Coordinated Flocking of Drones",
+      "description": "Many small drone spheres flying above a plane, each adjusting speed and direction via local feedback rules (maintaining distance, aligning velocity, moving toward neighbors’ center), with colored velocity vectors and trails visualizing how feedback yields coherent flocking patterns.",
+      "seed": "Feedback-Coordinated Flocking of Drones: Many small drone spheres flying above a plane, each adjusting speed and direction via local feedback rules (maintaining distance, aligning velocity, moving toward neighbors’ center), with colored velocity vectors and trails visualizing how feedback yields coherent flocking patterns."
+    },
+    {
+      "number": "19",
+      "title": "Investment Growth with Interest and Inflation Feedback",
+      "description": "A stack of coin cylinders representing savings that grows via interest particles flowing in, while a separate “price level” bar rises as money supply increases; inflation feeds back to reduce real growth (shown by dimming coin glow), illustrating coupled financial feedback loops.",
+      "seed": "Investment Growth with Interest and Inflation Feedback: A stack of coin cylinders representing savings that grows via interest particles flowing in, while a separate “price level” bar rises as money supply increases; inflation feeds back to reduce real growth (shown by dimming coin glow), illustrating coupled financial feedback loops."
+    },
+    {
+      "number": "20",
+      "title": "Hydraulic Governor Feedback in a Turbine System",
+      "description": "A rotating turbine wheel driving a shaft connected to a governor mechanism with two spinning masses that rise outward as speed increases, pulling a linkage to partially close an inlet valve, thus slowing the turbine in a continuous visual feedback control loop.",
+      "seed": "Hydraulic Governor Feedback in a Turbine System: A rotating turbine wheel driving a shaft connected to a governor mechanism with two spinning masses that rise outward as speed increases, pulling a linkage to partially close an inlet valve, thus slowing the turbine in a continuous visual feedback control loop."
+    },
+    {
+      "number": "21",
+      "title": "Greenhouse Gas Emission–Temperature Feedback",
+      "description": "A planet sphere with an atmosphere shell that thickens with emission particles from small industrial boxes; a thicker shell bends and traps more outgoing heat rays, warming the planet’s surface (color shift), which increases emission activity and cloud feedback, forming visible cycles.",
+      "seed": "Greenhouse Gas Emission–Temperature Feedback: A planet sphere with an atmosphere shell that thickens with emission particles from small industrial boxes; a thicker shell bends and traps more outgoing heat rays, warming the planet’s surface (color shift), which increases emission activity and cloud feedback, forming visible cycles."
+    },
+    {
+      "number": "22",
+      "title": "Biological Homeostasis of Blood Glucose",
+      "description": "A simplified body cross-section with a blood vessel tube carrying glucose particles and a pancreas object that releases insulin or glucagon particles depending on a floating “glucose level” bar, causing tissue cubes to absorb or release glucose in a regulatory feedback loop.",
+      "seed": "Biological Homeostasis of Blood Glucose: A simplified body cross-section with a blood vessel tube carrying glucose particles and a pancreas object that releases insulin or glucagon particles depending on a floating “glucose level” bar, causing tissue cubes to absorb or release glucose in a regulatory feedback loop."
+    },
+    {
+      "number": "23",
+      "title": "Feedback-Driven Oscillating Spring-Mass-Damper",
+      "description": "A mass on a vertical spring above a plane, with a sensor bar that measures its position and a controller box that applies an upward or downward force arrow based on displacement, creating adjustable feedback that can overdamp, underdamp, or sustain oscillations.",
+      "seed": "Feedback-Driven Oscillating Spring-Mass-Damper: A mass on a vertical spring above a plane, with a sensor bar that measures its position and a controller box that applies an upward or downward force arrow based on displacement, creating adjustable feedback that can overdamp, underdamp, or sustain oscillations."
+    },
+    {
+      "number": "24",
+      "title": "Light-Controlled Plant Growth Feedback",
+      "description": "A row of plant stalks that grow (extend upward and branch) toward a moving light source sphere; taller plants shade shorter ones with semi-transparent leaves, reducing their light intake and slowing growth, which in turn changes the overall canopy structure in a feedback loop.",
+      "seed": "Light-Controlled Plant Growth Feedback: A row of plant stalks that grow (extend upward and branch) toward a moving light source sphere; taller plants shade shorter ones with semi-transparent leaves, reducing their light intake and slowing growth, which in turn changes the overall canopy structure in a feedback loop."
+    },
+    {
+      "number": "25",
+      "title": "Urban Heat Island Feedback in a Growing City",
+      "description": "A terrain plane with green and gray tiles representing vegetation and buildings; as city blocks expand (more gray cubes appear), local temperature bars rise, causing vegetation patches to shrink or dry (color fade), which further raises heat and accelerates city expansion through feedback.",
+      "seed": "Urban Heat Island Feedback in a Growing City: A terrain plane with green and gray tiles representing vegetation and buildings; as city blocks expand (more gray cubes appear), local temperature bars rise, causing vegetation patches to shrink or dry (color fade), which further raises heat and accelerates city expansion through feedback."
+    }
+  ],
+  "raw_output": "Here are strong **Feedback loops simulation inputs** you can plug into your prompt:\n\n1. **Thermostat-Controlled Room with Heating Feedback Loop**\n   A transparent box room with a heater cube, a thermometer pole, and air particles that change color with temperature, where the heater turns on/off based on a floating “target temp” slider, visualizing a feedback loop with glowing arrows and a temperature graph bar that rises and falls.\n\n2. **Predator–Prey Population Feedback Ecosystem**\n   A green plane with bouncing herbivore spheres and predator cones that chase and “tag” herbivores to replicate or vanish, with population meters on the side and color-coded trails showing how rising prey causes predator growth and eventual crashes in a repeating loop.\n\n3. **Water Tank with Float Valve Feedback Control**\n   A tall transparent cylinder slowly filling with blue water level, a floating disk that rises and pushes a lever attached to an inlet pipe, so that as the float lifts it gradually closes the inflow, demonstrating a mechanical feedback loop as the water oscillates around a set height.\n\n4. **Planetary Climate Albedo Feedback**\n   A rotating gray sphere “planet” with white ice caps that grow or shrink based on incoming yellow light beams, where more ice increases reflected light (shown as bouncing rays) and cools the planet, creating a feedback loop oscillation in ice coverage and color-coded surface temperature.\n\n5. **Neural Feedback Circuit with Firing Pulses**\n   A ring of semi-transparent neuron spheres connected by glowing tubular synapses, where firing pulses travel around the loop, feed back to the first neuron, and either amplify or damp out depending on adjustable synapse strengths controlled by draggable sliders.\n\n6. **Microphone–Speaker Feedback Squeal Visualizer**\n   A speaker box and a microphone object facing each other with wavy sound-field rings that bounce between them, where increasing a “gain” knob causes amplified waves to grow in amplitude, change color, and form a visible standing-wave feedback loop that can saturate the scene.\n\n7. **Economic Supply–Demand Price Feedback Market**\n   Two vertical bars representing supply and demand that grow/shrink in height based on a central price cylinder, where changes in price cause animated arrows to adjust supply/demand and then push price up or down, forming visible feedback cycles with labeled, color-coded segments.\n\n8. **Biochemical Gene Regulation Feedback Loop**\n   A cell-like transparent sphere containing three colored gene cubes producing floating protein particles that orbit and then attach to other gene cubes as activators or repressors, changing their glow intensity and protein emission rate in a closed feedback loop.\n\n9. **Thermostable Reaction in a Jacketed Reactor**\n   A transparent reactor cylinder with swirling colored particles representing reactants that heat the vessel, surrounded by a cooling jacket tube; as temperature rises, reaction rate and color intensity increase, which then triggers stronger cooling flow arrows in a feedback cycle.\n\n10. **Traffic Flow with Feedback-Based Signal Timing**\n    A grid of light roads with small car boxes moving along lanes, where intersection signal poles adjust their green-light duration based on a queue-length meter, creating feedback that can smooth or worsen congestion visualized by growing or shrinking car clusters and changing light colors.\n\n11. **Bank Run Feedback in a Simple Financial Network**\n    A row of bank boxes connected to depositor spheres by glowing lines; when a bank’s “confidence meter” cylinder falls below a threshold, depositor spheres quickly detach and move to withdraw, which further lowers confidence and propagates the feedback to neighboring banks.\n\n12. **Forest Fire and Regrowth Feedback Landscape**\n    A patchy green plane with small tree cylinders that can ignite into orange-red flame particles, where fire reduces local fuel, which then slows spread, while regrowth (green sprouting particles) slowly rebuilds fuel, creating cycles of growth, burn, and recovery in a feedback pattern.\n\n13. **Thermal Runaway Battery Cell Feedback**\n    A stack of battery cells that warm up (color-shifting from blue to red) as current flows; heating one cell increases its current (shown by brighter moving charge particles), which heats neighbors via conduction rods, creating positive feedback that may stabilize or cascade.\n\n14. **Feedback-Controlled Hovering Drone**\n    A quadcopter frame hovering over a flat plane, with downward thrust arrows from its propellers adjusting in real time based on altitude error measured by a vertical distance line, showing a feedback loop that keeps it at a target height while it drifts and self-corrects.\n\n15. **Social Media Feedback Bubble**\n    A cluster of user spheres exchanging colored “post” particles via connecting lines, where receiving more of one color increases a user’s probability to send the same color, thickening same-colored links and shrinking cross-colored links, forming self-reinforcing echo chambers.\n\n16. **Feedback-Driven Population of Competing Species**\n    A shared habitat plane with two species (e.g., red cubes and blue spheres) that consume different resource patches; as one species grows, it depletes its resource (patch color fades), which then reduces its own growth and allows the other species to rebound, visualizing coupled feedback loops.\n\n17. **Audio Compressor with Gain Reduction Feedback**\n    A waveform bar moving through a transparent tunnel into a compressor box that measures its height; when peaks exceed a threshold line, a feedback arrow reduces the output bar’s height, with a gain-reduction meter cylinder showing dynamic negative feedback in real time.\n\n18. **Feedback-Coordinated Flocking of Drones**\n    Many small drone spheres flying above a plane, each adjusting speed and direction via local feedback rules (maintaining distance, aligning velocity, moving toward neighbors’ center), with colored velocity vectors and trails visualizing how feedback yields coherent flocking patterns.\n\n19. **Investment Growth with Interest and Inflation Feedback**\n    A stack of coin cylinders representing savings that grows via interest particles flowing in, while a separate “price level” bar rises as money supply increases; inflation feeds back to reduce real growth (shown by dimming coin glow), illustrating coupled financial feedback loops.\n\n20. **Hydraulic Governor Feedback in a Turbine System**\n    A rotating turbine wheel driving a shaft connected to a governor mechanism with two spinning masses that rise outward as speed increases, pulling a linkage to partially close an inlet valve, thus slowing the turbine in a continuous visual feedback control loop.\n\n21. **Greenhouse Gas Emission–Temperature Feedback**\n    A planet sphere with an atmosphere shell that thickens with emission particles from small industrial boxes; a thicker shell bends and traps more outgoing heat rays, warming the planet’s surface (color shift), which increases emission activity and cloud feedback, forming visible cycles.\n\n22. **Biological Homeostasis of Blood Glucose**\n    A simplified body cross-section with a blood vessel tube carrying glucose particles and a pancreas object that releases insulin or glucagon particles depending on a floating “glucose level” bar, causing tissue cubes to absorb or release glucose in a regulatory feedback loop.\n\n23. **Feedback-Driven Oscillating Spring-Mass-Damper**\n    A mass on a vertical spring above a plane, with a sensor bar that measures its position and a controller box that applies an upward or downward force arrow based on displacement, creating adjustable feedback that can overdamp, underdamp, or sustain oscillations.\n\n24. **Light-Controlled Plant Growth Feedback**\n    A row of plant stalks that grow (extend upward and branch) toward a moving light source sphere; taller plants shade shorter ones with semi-transparent leaves, reducing their light intake and slowing growth, which in turn changes the overall canopy structure in a feedback loop.\n\n25. **Urban Heat Island Feedback in a Growing City**\n    A terrain plane with green and gray tiles representing vegetation and buildings; as city blocks expand (more gray cubes appear), local temperature bars rise, causing vegetation patches to shrink or dry (color fade), which further raises heat and accelerates city expansion through feedback."
+}

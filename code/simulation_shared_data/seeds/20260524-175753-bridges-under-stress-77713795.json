@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Bridges under stress",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:57:53",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Dynamic Load on a Beam Bridge",
+      "description": "A 3D beam bridge made of connected rectangular segments spans a gap while moving colored box “vehicles” cross it, causing the bridge segments to flex, change color from green to red with stress, and display live force vectors and numeric labels above each support.",
+      "seed": "Dynamic Load on a Beam Bridge: A 3D beam bridge made of connected rectangular segments spans a gap while moving colored box “vehicles” cross it, causing the bridge segments to flex, change color from green to red with stress, and display live force vectors and numeric labels above each support."
+    },
+    {
+      "number": "2",
+      "title": "Suspension Bridge in High Winds",
+      "description": "A suspension bridge with cables made from chains of small spheres sways as invisible wind forces push on a translucent deck, with cable tension visualized as changing thickness and color, and a side meter showing wind speed and deck deflection over time.",
+      "seed": "Suspension Bridge in High Winds: A suspension bridge with cables made from chains of small spheres sways as invisible wind forces push on a translucent deck, with cable tension visualized as changing thickness and color, and a side meter showing wind speed and deck deflection over time."
+    },
+    {
+      "number": "3",
+      "title": "Arch Bridge Compression Visualization",
+      "description": "A stone arch bridge made from wedge-shaped blocks experiences increasing vertical loads from stacked cylinders, with contact forces shown as short arrows between blocks, blocks slightly shifting if compression is too high, and stressed joints glowing red.",
+      "seed": "Arch Bridge Compression Visualization: A stone arch bridge made from wedge-shaped blocks experiences increasing vertical loads from stacked cylinders, with contact forces shown as short arrows between blocks, blocks slightly shifting if compression is too high, and stressed joints glowing red."
+    },
+    {
+      "number": "4",
+      "title": "Truss Bridge Under Moving Train",
+      "description": "A lattice truss bridge carries a line of box-shaped train cars that roll across on wheels, with each truss member changing color based on tension or compression, and a legend panel explaining the stress colors against a light sky background.",
+      "seed": "Truss Bridge Under Moving Train: A lattice truss bridge carries a line of box-shaped train cars that roll across on wheels, with each truss member changing color based on tension or compression, and a legend panel explaining the stress colors against a light sky background."
+    },
+    {
+      "number": "5",
+      "title": "Cable-Stayed Bridge Load Redistribution",
+      "description": "A cable-stayed bridge with a central tower and multiple stay cables responds to vehicles that attach and detach from the deck; as cars move, cable segments stretch slightly, tilt, and change color, while a plot window shows real-time load transfer between cables.",
+      "seed": "Cable-Stayed Bridge Load Redistribution: A cable-stayed bridge with a central tower and multiple stay cables responds to vehicles that attach and detach from the deck; as cars move, cable segments stretch slightly, tilt, and change color, while a plot window shows real-time load transfer between cables."
+    },
+    {
+      "number": "6",
+      "title": "Bridge Resonance and Oscillation",
+      "description": "A straight pedestrian bridge made of connected beams vibrates vertically as a group of small sphere “walkers” march in step, with oscillation amplitude shown by fading displacement trails and a frequency label updating as walking patterns change.",
+      "seed": "Bridge Resonance and Oscillation: A straight pedestrian bridge made of connected beams vibrates vertically as a group of small sphere “walkers” march in step, with oscillation amplitude shown by fading displacement trails and a frequency label updating as walking patterns change."
+    },
+    {
+      "number": "7",
+      "title": "Bridge Collapse Sequence Simulation",
+      "description": "A simplified modular bridge made of jointed blocks gradually loses key support elements when certain blocks detach after exceeding a stress threshold, triggering a cascading collapse where falling pieces collide, bounce, and leave impact marks on the ground.",
+      "seed": "Bridge Collapse Sequence Simulation: A simplified modular bridge made of jointed blocks gradually loses key support elements when certain blocks detach after exceeding a stress threshold, triggering a cascading collapse where falling pieces collide, bounce, and leave impact marks on the ground."
+    },
+    {
+      "number": "8",
+      "title": "Thermal Expansion of a Steel Bridge",
+      "description": "A long steel bridge heats and cools over time under a moving sun lamp, with the deck length visibly expanding and contracting, expansion joints opening and closing, and color shifting from blue (cool) to orange (hot) with a thermometer-style side gauge.",
+      "seed": "Thermal Expansion of a Steel Bridge: A long steel bridge heats and cools over time under a moving sun lamp, with the deck length visibly expanding and contracting, expansion joints opening and closing, and color shifting from blue (cool) to orange (hot) with a thermometer-style side gauge."
+    },
+    {
+      "number": "9",
+      "title": "Drawbridge Under Asymmetric Load",
+      "description": "A two-leaf drawbridge over water opens and closes while vehicles stop and start on one side, causing one leaf to sag more than the other, with hinge torques shown as rotating arrows and water below reflecting and rippling when chunks fall in.",
+      "seed": "Drawbridge Under Asymmetric Load: A two-leaf drawbridge over water opens and closes while vehicles stop and start on one side, causing one leaf to sag more than the other, with hinge torques shown as rotating arrows and water below reflecting and rippling when chunks fall in."
+    },
+    {
+      "number": "10",
+      "title": "Snow and Ice Load on a Mountain Bridge",
+      "description": "A high-altitude bridge slowly accumulates translucent white snow blocks and icy particle flakes that settle and stick, increasing downward load and sag, until parts of the snow slide off, leaving trails and sudden load drops visualized in a stress meter.",
+      "seed": "Snow and Ice Load on a Mountain Bridge: A high-altitude bridge slowly accumulates translucent white snow blocks and icy particle flakes that settle and stick, increasing downward load and sag, until parts of the snow slide off, leaving trails and sudden load drops visualized in a stress meter."
+    },
+    {
+      "number": "11",
+      "title": "Microscopic Crack Propagation in a Bridge Girder",
+      "description": "A zoomed-in steel girder cross-section shows micro-cracks as small dark lines that grow and branch when cyclic loads pulse through the beam, with stress waves visualized as moving color bands, and cracks glowing at their tips as they propagate.",
+      "seed": "Microscopic Crack Propagation in a Bridge Girder: A zoomed-in steel girder cross-section shows micro-cracks as small dark lines that grow and branch when cyclic loads pulse through the beam, with stress waves visualized as moving color bands, and cracks glowing at their tips as they propagate."
+    },
+    {
+      "number": "12",
+      "title": "River Erosion Undermining Bridge Piers",
+      "description": "A bridge stands on cylindrical piers embedded in a semi-transparent riverbed while flowing blue particles represent water; as flow speed increases, soil particles detach from around the piers, the ground surface erodes and sinks, and pier stress indicators turn from green to red.",
+      "seed": "River Erosion Undermining Bridge Piers: A bridge stands on cylindrical piers embedded in a semi-transparent riverbed while flowing blue particles represent water; as flow speed increases, soil particles detach from around the piers, the ground surface erodes and sinks, and pier stress indicators turn from green to red."
+    },
+    {
+      "number": "13",
+      "title": "Traffic Jam Stress Build-Up on Urban Overpass",
+      "description": "A multilane overpass fills with colored car boxes that accelerate and brake, causing dynamic loads that make the overpass deck flex and twist slightly; congestion “pressure” is shown as a heatmap on the deck surface and via vertical deflection arrows.",
+      "seed": "Traffic Jam Stress Build-Up on Urban Overpass: A multilane overpass fills with colored car boxes that accelerate and brake, causing dynamic loads that make the overpass deck flex and twist slightly; congestion “pressure” is shown as a heatmap on the deck surface and via vertical deflection arrows."
+    },
+    {
+      "number": "14",
+      "title": "Bridge Under Earthquake Shaking",
+      "description": "A bridge model with piers, bearings, and deck sits on a ground plane that oscillates laterally in a programmed earthquake pattern, with bearings sliding and rotating, deck displacement plotted over time, and peak stresses highlighting vulnerable zones in bright colors.",
+      "seed": "Bridge Under Earthquake Shaking: A bridge model with piers, bearings, and deck sits on a ground plane that oscillates laterally in a programmed earthquake pattern, with bearings sliding and rotating, deck displacement plotted over time, and peak stresses highlighting vulnerable zones in bright colors."
+    },
+    {
+      "number": "15",
+      "title": "Floating Bridge on Waves",
+      "description": "A pontoon bridge consisting of linked floating blocks supports moving pedestrians while sinusoidal waves travel through the water plane; pontoons bob and tilt, joints flex, and wave energy is visualized as luminous ripples that transfer motion along the structure.",
+      "seed": "Floating Bridge on Waves: A pontoon bridge consisting of linked floating blocks supports moving pedestrians while sinusoidal waves travel through the water plane; pontoons bob and tilt, joints flex, and wave energy is visualized as luminous ripples that transfer motion along the structure."
+    },
+    {
+      "number": "16",
+      "title": "Bridge Cable Fatigue from Cyclic Loading",
+      "description": "A single suspension cable segment is shown in close-up as a chain of small masses connected by springs; repeated vertical loading pulses from a moving mass cause the springs to stretch and relax, with cumulative fatigue displayed as a changing color gradient along the cable.",
+      "seed": "Bridge Cable Fatigue from Cyclic Loading: A single suspension cable segment is shown in close-up as a chain of small masses connected by springs; repeated vertical loading pulses from a moving mass cause the springs to stretch and relax, with cumulative fatigue displayed as a changing color gradient along the cable."
+    },
+    {
+      "number": "17",
+      "title": "Bridge Under Explosive Shock",
+      "description": "A short concrete bridge is struck beneath by a spherical shock wave that expands from a point source, temporarily lifting parts of the deck; pressure is visualized as expanding transparent shells, fragments detach, bounce, and leave scorch marks on impact zones.",
+      "seed": "Bridge Under Explosive Shock: A short concrete bridge is struck beneath by a spherical shock wave that expands from a point source, temporarily lifting parts of the deck; pressure is visualized as expanding transparent shells, fragments detach, bounce, and leave scorch marks on impact zones."
+    },
+    {
+      "number": "18",
+      "title": "Social “Bridge” Under Information Stress",
+      "description": "Nodes representing people are arranged in two clusters connected by “bridge” links; colored message particles travel along the connections, and overloaded bridge links pulse, thicken, and eventually “snap,” forcing messages to reroute while link stress values float above them.",
+      "seed": "Social “Bridge” Under Information Stress: Nodes representing people are arranged in two clusters connected by “bridge” links; colored message particles travel along the connections, and overloaded bridge links pulse, thicken, and eventually “snap,” forcing messages to reroute while link stress values float above them."
+    },
+    {
+      "number": "19",
+      "title": "Fiber-Reinforced Composite Bridge Deck",
+      "description": "A rectangular bridge deck cross-section shows embedded fiber bundles as colored rods; vertical loads compress the deck while individual fibers stretch, some breaking and turning dark, and load redistributes among remaining fibers with a live stress distribution legend.",
+      "seed": "Fiber-Reinforced Composite Bridge Deck: A rectangular bridge deck cross-section shows embedded fiber bundles as colored rods; vertical loads compress the deck while individual fibers stretch, some breaking and turning dark, and load redistributes among remaining fibers with a live stress distribution legend."
+    },
+    {
+      "number": "20",
+      "title": "Bridge Under Wind-Driven Vortex Shedding",
+      "description": "A slender bridge deck experiences crosswinds visualized as moving particle streams; alternating vortices form and shed behind the deck, causing it to oscillate torsionally, with angle-of-twist displayed as a rotating gauge and color bands marking regions of highest motion.",
+      "seed": "Bridge Under Wind-Driven Vortex Shedding: A slender bridge deck experiences crosswinds visualized as moving particle streams; alternating vortices form and shed behind the deck, causing it to oscillate torsionally, with angle-of-twist displayed as a rotating gauge and color bands marking regions of highest motion."
+    },
+    {
+      "number": "21",
+      "title": "Bridge Pier Impacted by Floating Debris",
+      "description": "Logs and boxy debris float down a river towards a bridge pier; collisions cause the pier to vibrate and deflect slightly, with impact forces shown as short impulses, debris bouncing or getting trapped, and a cumulative damage bar filling as impacts continue.",
+      "seed": "Bridge Pier Impacted by Floating Debris: Logs and boxy debris float down a river towards a bridge pier; collisions cause the pier to vibrate and deflect slightly, with impact forces shown as short impulses, debris bouncing or getting trapped, and a cumulative damage bar filling as impacts continue."
+    },
+    {
+      "number": "22",
+      "title": "Adaptive Smart Bridge with Active Dampers",
+      "description": "A modern bridge equipped with small actuator boxes between deck and supports senses oscillations via virtual sensors; as vibrations grow, actuators extend and contract, shown by animated pistons and glowing control signals, reducing motion and lowering a displayed “stress level” dial.",
+      "seed": "Adaptive Smart Bridge with Active Dampers: A modern bridge equipped with small actuator boxes between deck and supports senses oscillations via virtual sensors; as vibrations grow, actuators extend and contract, shown by animated pistons and glowing control signals, reducing motion and lowering a displayed “stress level” dial."
+    },
+    {
+      "number": "23",
+      "title": "Cantilever Bridge Construction Under Self-Weight",
+      "description": "Two cantilever arms extend out from opposite piers as new beam segments attach one by one at the tips, making the structure sag more with each addition; construction stages are labeled, and deflection is traced as a fading curve beneath each arm until the central span is connected.",
+      "seed": "Cantilever Bridge Construction Under Self-Weight: Two cantilever arms extend out from opposite piers as new beam segments attach one by one at the tips, making the structure sag more with each addition; construction stages are labeled, and deflection is traced as a fading curve beneath each arm until the central span is connected."
+    },
+    {
+      "number": "24",
+      "title": "Corrosion-Induced Weakening of Steel Bridge",
+      "description": "A steel girder bridge over humid water gradually accumulates a rust layer shown as a growing orange-brown shell that reduces effective cross-section; as corrosion progresses, the same vehicle loads cause greater deflection, and a time slider lets you replay degradation versus stress.",
+      "seed": "Corrosion-Induced Weakening of Steel Bridge: A steel girder bridge over humid water gradually accumulates a rust layer shown as a growing orange-brown shell that reduces effective cross-section; as corrosion progresses, the same vehicle loads cause greater deflection, and a time slider lets you replay degradation versus stress."
+    },
+    {
+      "number": "25",
+      "title": "Bridge Under Uneven Foundation Settlement",
+      "description": "A bridge with multiple piers stands on a layered soil block where one support slowly sinks over time; deck segments tilt and crack lines appear and grow at stress concentrations, while vertical displacement of each pier is shown as numeric labels above their bases.",
+      "seed": "Bridge Under Uneven Foundation Settlement: A bridge with multiple piers stands on a layered soil block where one support slowly sinks over time; deck segments tilt and crack lines appear and grow at stress concentrations, while vertical displacement of each pier is shown as numeric labels above their bases."
+    }
+  ],
+  "raw_output": "Here are strong **Bridges under stress simulation inputs** you can plug into your prompt:\n\n1. **Dynamic Load on a Beam Bridge**\n   A 3D beam bridge made of connected rectangular segments spans a gap while moving colored box “vehicles” cross it, causing the bridge segments to flex, change color from green to red with stress, and display live force vectors and numeric labels above each support.\n\n2. **Suspension Bridge in High Winds**\n   A suspension bridge with cables made from chains of small spheres sways as invisible wind forces push on a translucent deck, with cable tension visualized as changing thickness and color, and a side meter showing wind speed and deck deflection over time.\n\n3. **Arch Bridge Compression Visualization**\n   A stone arch bridge made from wedge-shaped blocks experiences increasing vertical loads from stacked cylinders, with contact forces shown as short arrows between blocks, blocks slightly shifting if compression is too high, and stressed joints glowing red.\n\n4. **Truss Bridge Under Moving Train**\n   A lattice truss bridge carries a line of box-shaped train cars that roll across on wheels, with each truss member changing color based on tension or compression, and a legend panel explaining the stress colors against a light sky background.\n\n5. **Cable-Stayed Bridge Load Redistribution**\n   A cable-stayed bridge with a central tower and multiple stay cables responds to vehicles that attach and detach from the deck; as cars move, cable segments stretch slightly, tilt, and change color, while a plot window shows real-time load transfer between cables.\n\n6. **Bridge Resonance and Oscillation**\n   A straight pedestrian bridge made of connected beams vibrates vertically as a group of small sphere “walkers” march in step, with oscillation amplitude shown by fading displacement trails and a frequency label updating as walking patterns change.\n\n7. **Bridge Collapse Sequence Simulation**\n   A simplified modular bridge made of jointed blocks gradually loses key support elements when certain blocks detach after exceeding a stress threshold, triggering a cascading collapse where falling pieces collide, bounce, and leave impact marks on the ground.\n\n8. **Thermal Expansion of a Steel Bridge**\n   A long steel bridge heats and cools over time under a moving sun lamp, with the deck length visibly expanding and contracting, expansion joints opening and closing, and color shifting from blue (cool) to orange (hot) with a thermometer-style side gauge.\n\n9. **Drawbridge Under Asymmetric Load**\n   A two-leaf drawbridge over water opens and closes while vehicles stop and start on one side, causing one leaf to sag more than the other, with hinge torques shown as rotating arrows and water below reflecting and rippling when chunks fall in.\n\n10. **Snow and Ice Load on a Mountain Bridge**\n    A high-altitude bridge slowly accumulates translucent white snow blocks and icy particle flakes that settle and stick, increasing downward load and sag, until parts of the snow slide off, leaving trails and sudden load drops visualized in a stress meter.\n\n11. **Microscopic Crack Propagation in a Bridge Girder**\n    A zoomed-in steel girder cross-section shows micro-cracks as small dark lines that grow and branch when cyclic loads pulse through the beam, with stress waves visualized as moving color bands, and cracks glowing at their tips as they propagate.\n\n12. **River Erosion Undermining Bridge Piers**\n    A bridge stands on cylindrical piers embedded in a semi-transparent riverbed while flowing blue particles represent water; as flow speed increases, soil particles detach from around the piers, the ground surface erodes and sinks, and pier stress indicators turn from green to red.\n\n13. **Traffic Jam Stress Build-Up on Urban Overpass**\n    A multilane overpass fills with colored car boxes that accelerate and brake, causing dynamic loads that make the overpass deck flex and twist slightly; congestion “pressure” is shown as a heatmap on the deck surface and via vertical deflection arrows.\n\n14. **Bridge Under Earthquake Shaking**\n    A bridge model with piers, bearings, and deck sits on a ground plane that oscillates laterally in a programmed earthquake pattern, with bearings sliding and rotating, deck displacement plotted over time, and peak stresses highlighting vulnerable zones in bright colors.\n\n15. **Floating Bridge on Waves**\n    A pontoon bridge consisting of linked floating blocks supports moving pedestrians while sinusoidal waves travel through the water plane; pontoons bob and tilt, joints flex, and wave energy is visualized as luminous ripples that transfer motion along the structure.\n\n16. **Bridge Cable Fatigue from Cyclic Loading**\n    A single suspension cable segment is shown in close-up as a chain of small masses connected by springs; repeated vertical loading pulses from a moving mass cause the springs to stretch and relax, with cumulative fatigue displayed as a changing color gradient along the cable.\n\n17. **Bridge Under Explosive Shock**\n    A short concrete bridge is struck beneath by a spherical shock wave that expands from a point source, temporarily lifting parts of the deck; pressure is visualized as expanding transparent shells, fragments detach, bounce, and leave scorch marks on impact zones.\n\n18. **Social “Bridge” Under Information Stress**\n    Nodes representing people are arranged in two clusters connected by “bridge” links; colored message particles travel along the connections, and overloaded bridge links pulse, thicken, and eventually “snap,” forcing messages to reroute while link stress values float above them.\n\n19. **Fiber-Reinforced Composite Bridge Deck**\n    A rectangular bridge deck cross-section shows embedded fiber bundles as colored rods; vertical loads compress the deck while individual fibers stretch, some breaking and turning dark, and load redistributes among remaining fibers with a live stress distribution legend.\n\n20. **Bridge Under Wind-Driven Vortex Shedding**\n    A slender bridge deck experiences crosswinds visualized as moving particle streams; alternating vortices form and shed behind the deck, causing it to oscillate torsionally, with angle-of-twist displayed as a rotating gauge and color bands marking regions of highest motion.\n\n21. **Bridge Pier Impacted by Floating Debris**\n    Logs and boxy debris float down a river towards a bridge pier; collisions cause the pier to vibrate and deflect slightly, with impact forces shown as short impulses, debris bouncing or getting trapped, and a cumulative damage bar filling as impacts continue.\n\n22. **Adaptive Smart Bridge with Active Dampers**\n    A modern bridge equipped with small actuator boxes between deck and supports senses oscillations via virtual sensors; as vibrations grow, actuators extend and contract, shown by animated pistons and glowing control signals, reducing motion and lowering a displayed “stress level” dial.\n\n23. **Cantilever Bridge Construction Under Self-Weight**\n    Two cantilever arms extend out from opposite piers as new beam segments attach one by one at the tips, making the structure sag more with each addition; construction stages are labeled, and deflection is traced as a fading curve beneath each arm until the central span is connected.\n\n24. **Corrosion-Induced Weakening of Steel Bridge**\n    A steel girder bridge over humid water gradually accumulates a rust layer shown as a growing orange-brown shell that reduces effective cross-section; as corrosion progresses, the same vehicle loads cause greater deflection, and a time slider lets you replay degradation versus stress.\n\n25. **Bridge Under Uneven Foundation Settlement**\n    A bridge with multiple piers stands on a layered soil block where one support slowly sinks over time; deck segments tilt and crack lines appear and grow at stress concentrations, while vertical displacement of each pier is shown as numeric labels above their bases."
+}

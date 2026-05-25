@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Traffic systems",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:58:28",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Four-Way Intersection with Adaptive Traffic Lights",
+      "description": "A 3D city intersection with colored cars following lanes, stopping at red lights, accelerating on green, with traffic lights that change timing based on sensor boxes that count waiting vehicles and display queue lengths as floating labels.",
+      "seed": "Four-Way Intersection with Adaptive Traffic Lights: A 3D city intersection with colored cars following lanes, stopping at red lights, accelerating on green, with traffic lights that change timing based on sensor boxes that count waiting vehicles and display queue lengths as floating labels."
+    },
+    {
+      "number": "2",
+      "title": "Highway On-Ramp Merge Dynamics",
+      "description": "A multilane highway with continuous flow of cars and a curved on-ramp where entering vehicles accelerate along a merge lane, adjust speed to gaps, sometimes collide if spacing is too tight, with overhead signs that update lane speeds and color-coded congestion.",
+      "seed": "Highway On-Ramp Merge Dynamics: A multilane highway with continuous flow of cars and a curved on-ramp where entering vehicles accelerate along a merge lane, adjust speed to gaps, sometimes collide if spacing is too tight, with overhead signs that update lane speeds and color-coded congestion."
+    },
+    {
+      "number": "3",
+      "title": "Roundabout Flow and Gridlock Formation",
+      "description": "A circular roundabout with multiple entry arms where cars yield, enter when gaps appear, circle, and exit, with trails showing their paths, occasional near-collisions highlighted as flashing transparent cones, and a central island with a label indicating live vehicle count inside the circle.",
+      "seed": "Roundabout Flow and Gridlock Formation: A circular roundabout with multiple entry arms where cars yield, enter when gaps appear, circle, and exit, with trails showing their paths, occasional near-collisions highlighted as flashing transparent cones, and a central island with a label indicating live vehicle count inside the circle."
+    },
+    {
+      "number": "4",
+      "title": "City Grid with Synchronized “Green Wave”",
+      "description": "A small 3D city grid of streets and buildings where traffic lights are synchronized to create a green wave along one main avenue, cars leaving trails to show stop-and-go patterns, and overhead time-phase bars showing the wave moving down the street.",
+      "seed": "City Grid with Synchronized “Green Wave”: A small 3D city grid of streets and buildings where traffic lights are synchronized to create a green wave along one main avenue, cars leaving trails to show stop-and-go patterns, and overhead time-phase bars showing the wave moving down the street."
+    },
+    {
+      "number": "5",
+      "title": "Pedestrian Crosswalk and Vehicle Interaction",
+      "description": "A two-lane road with sidewalks where 3D human figures approach crosswalks, wait for walk signals, cross at varying speeds, and sometimes force cars to brake or stop, with transparent safety zones around each pedestrian that briefly glow when a vehicle enters too close.",
+      "seed": "Pedestrian Crosswalk and Vehicle Interaction: A two-lane road with sidewalks where 3D human figures approach crosswalks, wait for walk signals, cross at varying speeds, and sometimes force cars to brake or stop, with transparent safety zones around each pedestrian that briefly glow when a vehicle enters too close."
+    },
+    {
+      "number": "6",
+      "title": "Railway Level Crossing with Barrier Arms",
+      "description": "A straight road intersecting train tracks where cars move along the road and a long train periodically approaches, triggering flashing lights, lowering barrier arms that rotate down, stopping cars, and lifting after the train passes, with train cars leaving fading motion trails.",
+      "seed": "Railway Level Crossing with Barrier Arms: A straight road intersecting train tracks where cars move along the road and a long train periodically approaches, triggering flashing lights, lowering barrier arms that rotate down, stopping cars, and lifting after the train passes, with train cars leaving fading motion trails."
+    },
+    {
+      "number": "7",
+      "title": "Microscopic “Cell Traffic” in Capillaries",
+      "description": "A translucent vein-like tube network where red and white blood cells float, collide gently, and divert at branch points, with constricted segments simulating “traffic jams” of cells, color-coded flow speed, and particles representing nutrients that attach to then detach from cells.",
+      "seed": "Microscopic “Cell Traffic” in Capillaries: A translucent vein-like tube network where red and white blood cells float, collide gently, and divert at branch points, with constricted segments simulating “traffic jams” of cells, color-coded flow speed, and particles representing nutrients that attach to then detach from cells."
+    },
+    {
+      "number": "8",
+      "title": "Airport Ground Traffic and Runway Queue",
+      "description": "A 3D airport apron with taxiing airplanes following yellow taxi lines, stopping at hold-short points, entering the runway one at a time for takeoff, ground vehicles weaving between gates, and glowing path lines that light up in sequence to guide each plane.",
+      "seed": "Airport Ground Traffic and Runway Queue: A 3D airport apron with taxiing airplanes following yellow taxi lines, stopping at hold-short points, entering the runway one at a time for takeoff, ground vehicles weaving between gates, and glowing path lines that light up in sequence to guide each plane."
+    },
+    {
+      "number": "9",
+      "title": "Logistics Warehouse Conveyor and Robot Swarm",
+      "description": "A warehouse floor with conveyor belts carrying colored packages, autonomous robots that detach packages from belts, navigate grid-like lanes avoiding collisions, queue at packing stations, and then reattach packages to outbound belts, with overhead meters showing throughput.",
+      "seed": "Logistics Warehouse Conveyor and Robot Swarm: A warehouse floor with conveyor belts carrying colored packages, autonomous robots that detach packages from belts, navigate grid-like lanes avoiding collisions, queue at packing stations, and then reattach packages to outbound belts, with overhead meters showing throughput."
+    },
+    {
+      "number": "10",
+      "title": "Port Container Yard with Crane and Truck Flows",
+      "description": "A container terminal where stacks of colored containers sit on a grid, cranes move and attach to containers, lift and place them onto trucks that follow marked lanes to gates, forming queues, with arrows on the ground lighting up to show active routes.",
+      "seed": "Port Container Yard with Crane and Truck Flows: A container terminal where stacks of colored containers sit on a grid, cranes move and attach to containers, lift and place them onto trucks that follow marked lanes to gates, forming queues, with arrows on the ground lighting up to show active routes."
+    },
+    {
+      "number": "11",
+      "title": "Traffic Flow in a Multi-Level Parking Garage",
+      "description": "A spiraling multi-level parking garage where cars enter at ground level, climb ramps, search for free transparent parking spots that glow when available, turn into spaces, and later reverse out and descend, with arrows and labels showing level occupancy.",
+      "seed": "Traffic Flow in a Multi-Level Parking Garage: A spiraling multi-level parking garage where cars enter at ground level, climb ramps, search for free transparent parking spots that glow when available, turn into spaces, and later reverse out and descend, with arrows and labels showing level occupancy."
+    },
+    {
+      "number": "12",
+      "title": "Signalized Pedestrian-Only Plaza with Delivery Vehicles",
+      "description": "A city plaza mostly for pedestrians walking in random directions, with a few small delivery carts constrained to narrow lanes, stopping at virtual traffic lights and yielding at marked crossings, with collision zones shown as faint translucent cylinders around each mover.",
+      "seed": "Signalized Pedestrian-Only Plaza with Delivery Vehicles: A city plaza mostly for pedestrians walking in random directions, with a few small delivery carts constrained to narrow lanes, stopping at virtual traffic lights and yielding at marked crossings, with collision zones shown as faint translucent cylinders around each mover."
+    },
+    {
+      "number": "13",
+      "title": "Subway Train Network with Platform Crowding",
+      "description": "A simplified underground network drawn as transparent tunnels where subway trains move between stations, dwell with doors “open,” and 3D human figures accumulate on platforms, boarding and alighting, with station labels and color-coded bar meters showing crowding.",
+      "seed": "Subway Train Network with Platform Crowding: A simplified underground network drawn as transparent tunnels where subway trains move between stations, dwell with doors “open,” and 3D human figures accumulate on platforms, boarding and alighting, with station labels and color-coded bar meters showing crowding."
+    },
+    {
+      "number": "14",
+      "title": "Drone Delivery Corridors Above a City",
+      "description": "A light-background cityscape with drones flying along invisible 3D corridors at different altitudes, accelerating, turning at waypoints, stacking into vertical queues at busy intersections, and leaving thin trails, with collision-avoidance spheres that briefly glow when activated.",
+      "seed": "Drone Delivery Corridors Above a City: A light-background cityscape with drones flying along invisible 3D corridors at different altitudes, accelerating, turning at waypoints, stacking into vertical queues at busy intersections, and leaving thin trails, with collision-avoidance spheres that briefly glow when activated."
+    },
+    {
+      "number": "15",
+      "title": "Emergency Vehicle Priority Routing",
+      "description": "A small town grid with regular car traffic and occasional ambulances that activate sirens, changing nearby traffic lights to green, causing cars to pull aside into transparent shoulder zones, with a glowing path drawn ahead of the ambulance that dynamically reroutes around jams.",
+      "seed": "Emergency Vehicle Priority Routing: A small town grid with regular car traffic and occasional ambulances that activate sirens, changing nearby traffic lights to green, causing cars to pull aside into transparent shoulder zones, with a glowing path drawn ahead of the ambulance that dynamically reroutes around jams."
+    },
+    {
+      "number": "16",
+      "title": "Traffic Shockwave and Phantom Jam Visualization",
+      "description": "A circular one-lane ring road filled with cars moving at similar speed, where a small disturbance causes some drivers to brake and a backward-moving “shockwave” of slowing traffic propagates, highlighted by a traveling red band and speed labels above each car.",
+      "seed": "Traffic Shockwave and Phantom Jam Visualization: A circular one-lane ring road filled with cars moving at similar speed, where a small disturbance causes some drivers to brake and a backward-moving “shockwave” of slowing traffic propagates, highlighted by a traveling red band and speed labels above each car."
+    },
+    {
+      "number": "17",
+      "title": "Smart Intersection with Vehicle-to-Infrastructure Communication",
+      "description": "A cross intersection where cars broadcast their approach as thin pulsing beams to a central smart pole, which adjusts signal phases and displays predicted wait times above each lane, with cars that slow early when they “know” a red light is coming.",
+      "seed": "Smart Intersection with Vehicle-to-Infrastructure Communication: A cross intersection where cars broadcast their approach as thin pulsing beams to a central smart pole, which adjusts signal phases and displays predicted wait times above each lane, with cars that slow early when they “know” a red light is coming."
+    },
+    {
+      "number": "18",
+      "title": "Bicycle Lane and Car Lane Interaction",
+      "description": "A two-way road with a dedicated bike lane separated by small posts, bikes and cars both moving, with bikes occasionally needing to merge around obstacles, cars yielding at bike crossings, and collision risk zones between bikes and cars visualized as overlapping translucent shapes.",
+      "seed": "Bicycle Lane and Car Lane Interaction: A two-way road with a dedicated bike lane separated by small posts, bikes and cars both moving, with bikes occasionally needing to merge around obstacles, cars yielding at bike crossings, and collision risk zones between bikes and cars visualized as overlapping translucent shapes."
+    },
+    {
+      "number": "19",
+      "title": "Shipping Lanes Across an Ocean Map",
+      "description": "A curved Earth patch with semi-transparent water and ports, where ships follow arcing great-circle routes that glow, queue offshore when ports are busy, overtake slower ships, and occasionally reroute around a “storm” region represented by a rotating translucent vortex.",
+      "seed": "Shipping Lanes Across an Ocean Map: A curved Earth patch with semi-transparent water and ports, where ships follow arcing great-circle routes that glow, queue offshore when ports are busy, overtake slower ships, and occasionally reroute around a “storm” region represented by a rotating translucent vortex."
+    },
+    {
+      "number": "20",
+      "title": "Traffic Flow Through a Toll Plaza",
+      "description": "A multi-lane highway that widens into a toll plaza with several booths, where cars choose lanes, slow down, stop briefly at booths with animated gates that lift and lower, then merge back into fewer lanes, with queue lengths displayed above each toll lane.",
+      "seed": "Traffic Flow Through a Toll Plaza: A multi-lane highway that widens into a toll plaza with several booths, where cars choose lanes, slow down, stop briefly at booths with animated gates that lift and lower, then merge back into fewer lanes, with queue lengths displayed above each toll lane."
+    },
+    {
+      "number": "21",
+      "title": "Factory Production Line with Intersecting Conveyors",
+      "description": "A network of conveyors carrying different-colored parts that merge and split at junctions, where parts can collide, accumulate, and be redirected by rotating diverter arms, with throughput gauges and glowing jam indicators lighting up where parts pile up.",
+      "seed": "Factory Production Line with Intersecting Conveyors: A network of conveyors carrying different-colored parts that merge and split at junctions, where parts can collide, accumulate, and be redirected by rotating diverter arms, with throughput gauges and glowing jam indicators lighting up where parts pile up."
+    },
+    {
+      "number": "22",
+      "title": "Crowd Evacuation Through Narrow Exits",
+      "description": "A large hall filled with 3D people walking toward marked exits when an alarm light begins to pulse, forming dense “traffic” near bottleneck doors, with floor heatmap colors showing local density and arrows that adapt to guide flows more evenly.",
+      "seed": "Crowd Evacuation Through Narrow Exits: A large hall filled with 3D people walking toward marked exits when an alarm light begins to pulse, forming dense “traffic” near bottleneck doors, with floor heatmap colors showing local density and arrows that adapt to guide flows more evenly."
+    },
+    {
+      "number": "23",
+      "title": "Orbital Traffic Around a Space Station",
+      "description": "A central space station with multiple docking ports orbiting a planet, and small spacecraft following curved transfer orbits that intersect near the station, matching velocity to dock (attach) and later detach, with collision-avoidance paths and ghosted predicted trajectories.",
+      "seed": "Orbital Traffic Around a Space Station: A central space station with multiple docking ports orbiting a planet, and small spacecraft following curved transfer orbits that intersect near the station, matching velocity to dock (attach) and later detach, with collision-avoidance paths and ghosted predicted trajectories."
+    },
+    {
+      "number": "24",
+      "title": "Data Packet Traffic on a 3D Network Graph",
+      "description": "A 3D graph of nodes (routers) connected by glowing edges, where small spheres representing data packets pulse along links, queue at overloaded nodes, reroute around failed links that turn dark, and leave faint trails, with node labels showing live traffic load.",
+      "seed": "Data Packet Traffic on a 3D Network Graph: A 3D graph of nodes (routers) connected by glowing edges, where small spheres representing data packets pulse along links, queue at overloaded nodes, reroute around failed links that turn dark, and leave faint trails, with node labels showing live traffic load."
+    },
+    {
+      "number": "25",
+      "title": "Autonomous Intersection with No Traffic Lights",
+      "description": "A busy four-way intersection without signals where autonomous cars approach, communicate with each other as glowing lines, adjust speed to slip through gaps without stopping, and highlight potential collisions as brief red translucent boxes that disappear when paths are safely adjusted.",
+      "seed": "Autonomous Intersection with No Traffic Lights: A busy four-way intersection without signals where autonomous cars approach, communicate with each other as glowing lines, adjust speed to slip through gaps without stopping, and highlight potential collisions as brief red translucent boxes that disappear when paths are safely adjusted."
+    }
+  ],
+  "raw_output": "Here are strong **Traffic systems simulation inputs** you can plug into your prompt:\n\n1. **Four-Way Intersection with Adaptive Traffic Lights**\n   A 3D city intersection with colored cars following lanes, stopping at red lights, accelerating on green, with traffic lights that change timing based on sensor boxes that count waiting vehicles and display queue lengths as floating labels.\n\n2. **Highway On-Ramp Merge Dynamics**\n   A multilane highway with continuous flow of cars and a curved on-ramp where entering vehicles accelerate along a merge lane, adjust speed to gaps, sometimes collide if spacing is too tight, with overhead signs that update lane speeds and color-coded congestion.\n\n3. **Roundabout Flow and Gridlock Formation**\n   A circular roundabout with multiple entry arms where cars yield, enter when gaps appear, circle, and exit, with trails showing their paths, occasional near-collisions highlighted as flashing transparent cones, and a central island with a label indicating live vehicle count inside the circle.\n\n4. **City Grid with Synchronized “Green Wave”**\n   A small 3D city grid of streets and buildings where traffic lights are synchronized to create a green wave along one main avenue, cars leaving trails to show stop-and-go patterns, and overhead time-phase bars showing the wave moving down the street.\n\n5. **Pedestrian Crosswalk and Vehicle Interaction**\n   A two-lane road with sidewalks where 3D human figures approach crosswalks, wait for walk signals, cross at varying speeds, and sometimes force cars to brake or stop, with transparent safety zones around each pedestrian that briefly glow when a vehicle enters too close.\n\n6. **Railway Level Crossing with Barrier Arms**\n   A straight road intersecting train tracks where cars move along the road and a long train periodically approaches, triggering flashing lights, lowering barrier arms that rotate down, stopping cars, and lifting after the train passes, with train cars leaving fading motion trails.\n\n7. **Microscopic “Cell Traffic” in Capillaries**\n   A translucent vein-like tube network where red and white blood cells float, collide gently, and divert at branch points, with constricted segments simulating “traffic jams” of cells, color-coded flow speed, and particles representing nutrients that attach to then detach from cells.\n\n8. **Airport Ground Traffic and Runway Queue**\n   A 3D airport apron with taxiing airplanes following yellow taxi lines, stopping at hold-short points, entering the runway one at a time for takeoff, ground vehicles weaving between gates, and glowing path lines that light up in sequence to guide each plane.\n\n9. **Logistics Warehouse Conveyor and Robot Swarm**\n   A warehouse floor with conveyor belts carrying colored packages, autonomous robots that detach packages from belts, navigate grid-like lanes avoiding collisions, queue at packing stations, and then reattach packages to outbound belts, with overhead meters showing throughput.\n\n10. **Port Container Yard with Crane and Truck Flows**\n    A container terminal where stacks of colored containers sit on a grid, cranes move and attach to containers, lift and place them onto trucks that follow marked lanes to gates, forming queues, with arrows on the ground lighting up to show active routes.\n\n11. **Traffic Flow in a Multi-Level Parking Garage**\n    A spiraling multi-level parking garage where cars enter at ground level, climb ramps, search for free transparent parking spots that glow when available, turn into spaces, and later reverse out and descend, with arrows and labels showing level occupancy.\n\n12. **Signalized Pedestrian-Only Plaza with Delivery Vehicles**\n    A city plaza mostly for pedestrians walking in random directions, with a few small delivery carts constrained to narrow lanes, stopping at virtual traffic lights and yielding at marked crossings, with collision zones shown as faint translucent cylinders around each mover.\n\n13. **Subway Train Network with Platform Crowding**\n    A simplified underground network drawn as transparent tunnels where subway trains move between stations, dwell with doors “open,” and 3D human figures accumulate on platforms, boarding and alighting, with station labels and color-coded bar meters showing crowding.\n\n14. **Drone Delivery Corridors Above a City**\n    A light-background cityscape with drones flying along invisible 3D corridors at different altitudes, accelerating, turning at waypoints, stacking into vertical queues at busy intersections, and leaving thin trails, with collision-avoidance spheres that briefly glow when activated.\n\n15. **Emergency Vehicle Priority Routing**\n    A small town grid with regular car traffic and occasional ambulances that activate sirens, changing nearby traffic lights to green, causing cars to pull aside into transparent shoulder zones, with a glowing path drawn ahead of the ambulance that dynamically reroutes around jams.\n\n16. **Traffic Shockwave and Phantom Jam Visualization**\n    A circular one-lane ring road filled with cars moving at similar speed, where a small disturbance causes some drivers to brake and a backward-moving “shockwave” of slowing traffic propagates, highlighted by a traveling red band and speed labels above each car.\n\n17. **Smart Intersection with Vehicle-to-Infrastructure Communication**\n    A cross intersection where cars broadcast their approach as thin pulsing beams to a central smart pole, which adjusts signal phases and displays predicted wait times above each lane, with cars that slow early when they “know” a red light is coming.\n\n18. **Bicycle Lane and Car Lane Interaction**\n    A two-way road with a dedicated bike lane separated by small posts, bikes and cars both moving, with bikes occasionally needing to merge around obstacles, cars yielding at bike crossings, and collision risk zones between bikes and cars visualized as overlapping translucent shapes.\n\n19. **Shipping Lanes Across an Ocean Map**\n    A curved Earth patch with semi-transparent water and ports, where ships follow arcing great-circle routes that glow, queue offshore when ports are busy, overtake slower ships, and occasionally reroute around a “storm” region represented by a rotating translucent vortex.\n\n20. **Traffic Flow Through a Toll Plaza**\n    A multi-lane highway that widens into a toll plaza with several booths, where cars choose lanes, slow down, stop briefly at booths with animated gates that lift and lower, then merge back into fewer lanes, with queue lengths displayed above each toll lane.\n\n21. **Factory Production Line with Intersecting Conveyors**\n    A network of conveyors carrying different-colored parts that merge and split at junctions, where parts can collide, accumulate, and be redirected by rotating diverter arms, with throughput gauges and glowing jam indicators lighting up where parts pile up.\n\n22. **Crowd Evacuation Through Narrow Exits**\n    A large hall filled with 3D people walking toward marked exits when an alarm light begins to pulse, forming dense “traffic” near bottleneck doors, with floor heatmap colors showing local density and arrows that adapt to guide flows more evenly.\n\n23. **Orbital Traffic Around a Space Station**\n    A central space station with multiple docking ports orbiting a planet, and small spacecraft following curved transfer orbits that intersect near the station, matching velocity to dock (attach) and later detach, with collision-avoidance paths and ghosted predicted trajectories.\n\n24. **Data Packet Traffic on a 3D Network Graph**\n    A 3D graph of nodes (routers) connected by glowing edges, where small spheres representing data packets pulse along links, queue at overloaded nodes, reroute around failed links that turn dark, and leave faint trails, with node labels showing live traffic load.\n\n25. **Autonomous Intersection with No Traffic Lights**\n    A busy four-way intersection without signals where autonomous cars approach, communicate with each other as glowing lines, adjust speed to slip through gaps without stopping, and highlight potential collisions as brief red translucent boxes that disappear when paths are safely adjusted."
+}

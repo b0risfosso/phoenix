@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Elevators",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:58:14",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Multi-Shaft Glass Elevator Lobby",
+      "description": "A transparent lobby with 3–4 glass elevator cars sliding in separate vertical shafts, doors that open and close to colored waiting zones, passengers as small spheres that enter and exit, with floor indicators, glowing call buttons, and trails showing each car’s recent path.",
+      "seed": "Multi-Shaft Glass Elevator Lobby: A transparent lobby with 3–4 glass elevator cars sliding in separate vertical shafts, doors that open and close to colored waiting zones, passengers as small spheres that enter and exit, with floor indicators, glowing call buttons, and trails showing each car’s recent path."
+    },
+    {
+      "number": "2",
+      "title": "Elevator Traffic Optimization Visualizer",
+      "description": "A tall building cross-section where multiple elevator cars move between 20+ labeled floors, picking up and dropping off color-coded passenger groups whose wait times are displayed as vertical bar meters, with arrows showing requested directions and lines connecting pending calls to assigned cars.",
+      "seed": "Elevator Traffic Optimization Visualizer: A tall building cross-section where multiple elevator cars move between 20+ labeled floors, picking up and dropping off color-coded passenger groups whose wait times are displayed as vertical bar meters, with arrows showing requested directions and lines connecting pending calls to assigned cars."
+    },
+    {
+      "number": "3",
+      "title": "Counterweight and Pulley Mechanics",
+      "description": "A single elevator car and its counterweight attached by a cable over a rotating pulley wheel, with gravity acting, friction adjustable by a slider, and real-time force vectors displayed as colored arrows on the car, counterweight, and pulley.",
+      "seed": "Counterweight and Pulley Mechanics: A single elevator car and its counterweight attached by a cable over a rotating pulley wheel, with gravity acting, friction adjustable by a slider, and real-time force vectors displayed as colored arrows on the car, counterweight, and pulley."
+    },
+    {
+      "number": "4",
+      "title": "Glass Elevator in a Rotating Tower",
+      "description": "A cylindrical tower rotating slowly around its vertical axis with a transparent elevator car sliding up and down along an external track, leaving a faint trail that shows its helical path relative to the ground as the tower spins.",
+      "seed": "Glass Elevator in a Rotating Tower: A cylindrical tower rotating slowly around its vertical axis with a transparent elevator car sliding up and down along an external track, leaving a faint trail that shows its helical path relative to the ground as the tower spins."
+    },
+    {
+      "number": "5",
+      "title": "Spiral Elevators in a Helix Tower",
+      "description": "Several small platform elevators that climb and descend along helical rails wrapping around a central transparent tower, occasionally merging onto shared straight segments, with collision-avoidance distances visualized as faint translucent safety cylinders around each car.",
+      "seed": "Spiral Elevators in a Helix Tower: Several small platform elevators that climb and descend along helical rails wrapping around a central transparent tower, occasionally merging onto shared straight segments, with collision-avoidance distances visualized as faint translucent safety cylinders around each car."
+    },
+    {
+      "number": "6",
+      "title": "Microscopic Vesicle “Elevators” in a Cell",
+      "description": "A spherical cell interior where protein “elevator platforms” move along vertical microtubule tracks, carrying glowing cargo vesicles between labeled “membrane,” “Golgi,” and “nucleus” zones, with cargo attaching, detaching, and leaving fading particle trails.",
+      "seed": "Microscopic Vesicle “Elevators” in a Cell: A spherical cell interior where protein “elevator platforms” move along vertical microtubule tracks, carrying glowing cargo vesicles between labeled “membrane,” “Golgi,” and “nucleus” zones, with cargo attaching, detaching, and leaving fading particle trails."
+    },
+    {
+      "number": "7",
+      "title": "Warehouse Pallet Elevators and Conveyor Belts",
+      "description": "A tall storage rack with vertical pallet elevators lifting crates from a ground-level conveyor up to different shelf levels, where crates roll off, stack, and occasionally bump or collide, with colored labels indicating crate destinations and a counter of successful deliveries.",
+      "seed": "Warehouse Pallet Elevators and Conveyor Belts: A tall storage rack with vertical pallet elevators lifting crates from a ground-level conveyor up to different shelf levels, where crates roll off, stack, and occasionally bump or collide, with colored labels indicating crate destinations and a counter of successful deliveries."
+    },
+    {
+      "number": "8",
+      "title": "Emergency Brake Test in an Elevator Shaft",
+      "description": "An elevator car drops in a shaft and triggers a mechanical safety brake that clamps onto rail guides, with sparks visualized as short-lived particles, deceleration vectors drawn, and a graph panel that updates in 3D showing speed and braking force over time.",
+      "seed": "Emergency Brake Test in an Elevator Shaft: An elevator car drops in a shaft and triggers a mechanical safety brake that clamps onto rail guides, with sparks visualized as short-lived particles, deceleration vectors drawn, and a graph panel that updates in 3D showing speed and braking force over time."
+    },
+    {
+      "number": "9",
+      "title": "Glass Elevators in a Shopping Mall Atrium",
+      "description": "A multi-level open atrium with 3–5 glass elevators moving between floors, people represented as small colored spheres boarding and leaving at balconies, while overhead walkways and plants stay stationary, and elevator paths are traced with lightly glowing trails.",
+      "seed": "Glass Elevators in a Shopping Mall Atrium: A multi-level open atrium with 3–5 glass elevators moving between floors, people represented as small colored spheres boarding and leaving at balconies, while overhead walkways and plants stay stationary, and elevator paths are traced with lightly glowing trails."
+    },
+    {
+      "number": "10",
+      "title": "Underwater Bubble Elevators",
+      "description": "Vertical columns of bubbles rising through clear water tubes, lifting small colored particles (“passengers”) that attach to rising bubbles and detach at certain heights into collection basins, with turbulence visualized as swirling particle motions around larger bubbles.",
+      "seed": "Underwater Bubble Elevators: Vertical columns of bubbles rising through clear water tubes, lifting small colored particles (“passengers”) that attach to rising bubbles and detach at certain heights into collection basins, with turbulence visualized as swirling particle motions around larger bubbles."
+    },
+    {
+      "number": "11",
+      "title": "Space Station Radial Elevators",
+      "description": "A rotating ring-shaped space station with radial “elevators” moving between a central hub and outer ring, passengers attaching at the hub and being flung outward as the ring rotates, with Coriolis forces shown as curved trajectories and ghost trails of predicted vs actual paths.",
+      "seed": "Space Station Radial Elevators: A rotating ring-shaped space station with radial “elevators” moving between a central hub and outer ring, passengers attaching at the hub and being flung outward as the ring rotates, with Coriolis forces shown as curved trajectories and ghost trails of predicted vs actual paths."
+    },
+    {
+      "number": "12",
+      "title": "Freight Elevator Load and Balance Simulator",
+      "description": "A large square elevator car where boxes of varying mass are dropped in and slide on the floor, shifting the car’s center of mass and slightly tilting its suspension cables, with a live 3D marker showing the center-of-mass location and tension values on each corner cable.",
+      "seed": "Freight Elevator Load and Balance Simulator: A large square elevator car where boxes of varying mass are dropped in and slide on the floor, shifting the car’s center of mass and slightly tilting its suspension cables, with a live 3D marker showing the center-of-mass location and tension values on each corner cable."
+    },
+    {
+      "number": "13",
+      "title": "Elevator Shaft with Fire and Smoke Dynamics",
+      "description": "A vertical shaft with an elevator car stuck on one floor while smoke particles rise from a fire at the bottom, interacting with a venting fan that pulls smoke sideways, with visibility in the shaft represented by changing transparency and color of the air.",
+      "seed": "Elevator Shaft with Fire and Smoke Dynamics: A vertical shaft with an elevator car stuck on one floor while smoke particles rise from a fire at the bottom, interacting with a venting fan that pulls smoke sideways, with visibility in the shaft represented by changing transparency and color of the air."
+    },
+    {
+      "number": "14",
+      "title": "Ant Colony Elevator Tunnels",
+      "description": "An anthill cross-section with vertical “elevator” tunnels where clusters of ant spheres ride up and down soil shafts on moving soil platforms, carrying glowing food particles that transfer between ants and storage chambers, leaving pheromone trails on the tunnel walls.",
+      "seed": "Ant Colony Elevator Tunnels: An anthill cross-section with vertical “elevator” tunnels where clusters of ant spheres ride up and down soil shafts on moving soil platforms, carrying glowing food particles that transfer between ants and storage chambers, leaving pheromone trails on the tunnel walls."
+    },
+    {
+      "number": "15",
+      "title": "Energy-Efficient Twin Elevators Sharing a Counterweight",
+      "description": "Two elevator cars in adjacent shafts connected by a shared counterweight system, where energy usage is displayed as a bar, and different traffic patterns (cars moving together vs opposite directions) show how energy transfers and balances between them.",
+      "seed": "Energy-Efficient Twin Elevators Sharing a Counterweight: Two elevator cars in adjacent shafts connected by a shared counterweight system, where energy usage is displayed as a bar, and different traffic patterns (cars moving together vs opposite directions) show how energy transfers and balances between them."
+    },
+    {
+      "number": "16",
+      "title": "Vertical Parking Garage Car Elevators",
+      "description": "A tall parking tower where car boxes roll onto platform elevators that rise and rotate to align with different parking bays, with cars sliding into slots, backing out, and occasionally queuing on ground level, while glowing arrows show planned routes and collision zones.",
+      "seed": "Vertical Parking Garage Car Elevators: A tall parking tower where car boxes roll onto platform elevators that rise and rotate to align with different parking bays, with cars sliding into slots, backing out, and occasionally queuing on ground level, while glowing arrows show planned routes and collision zones."
+    },
+    {
+      "number": "17",
+      "title": "Floating Island Elevators with Magnetic Tracks",
+      "description": "Several small islands at different heights connected by vertical magnetic tracks where platform elevators float and glide without cables, gently bouncing at stops, with magnetic field strength visualized as faint blue halos around the rails.",
+      "seed": "Floating Island Elevators with Magnetic Tracks: Several small islands at different heights connected by vertical magnetic tracks where platform elevators float and glide without cables, gently bouncing at stops, with magnetic field strength visualized as faint blue halos around the rails."
+    },
+    {
+      "number": "18",
+      "title": "Elevator Cable Vibration and Resonance",
+      "description": "A stationary elevator car at mid-shaft with its cable modeled as a taut string that can be plucked; waves travel up and down the cable, reflect at ends, and sometimes resonate, with displacement shown as exaggerated oscillations and colored nodes/antinodes.",
+      "seed": "Elevator Cable Vibration and Resonance: A stationary elevator car at mid-shaft with its cable modeled as a taut string that can be plucked; waves travel up and down the cable, reflect at ends, and sometimes resonate, with displacement shown as exaggerated oscillations and colored nodes/antinodes."
+    },
+    {
+      "number": "19",
+      "title": "Liquid Metal Elevators in a Factory",
+      "description": "Vertical glass tubes filled with shimmering liquid metal that rises and falls like an elevator piston, lifting small platform disks to different machine levels; occasionally droplets spill, merge, and rejoin the main column, with reflective surfaces and soft highlights.",
+      "seed": "Liquid Metal Elevators in a Factory: Vertical glass tubes filled with shimmering liquid metal that rises and falls like an elevator piston, lifting small platform disks to different machine levels; occasionally droplets spill, merge, and rejoin the main column, with reflective surfaces and soft highlights."
+    },
+    {
+      "number": "20",
+      "title": "Stacked Elevator Puzzle Maze",
+      "description": "Multiple elevator platforms in intersecting shafts forming a 3D puzzle where a small marble must be transported from bottom to top; platforms move only when toggled by buttons, and the marble rolls, bounces off walls, and can fall if platforms misalign.",
+      "seed": "Stacked Elevator Puzzle Maze: Multiple elevator platforms in intersecting shafts forming a 3D puzzle where a small marble must be transported from bottom to top; platforms move only when toggled by buttons, and the marble rolls, bounces off walls, and can fall if platforms misalign."
+    },
+    {
+      "number": "21",
+      "title": "Skybridge Elevators Between Moving Skyscrapers",
+      "description": "Two slightly swaying skyscrapers with skybridges and external elevators that must adjust their attachment points as the buildings oscillate, with elastic connector beams stretching, compressing, and changing color based on tension.",
+      "seed": "Skybridge Elevators Between Moving Skyscrapers: Two slightly swaying skyscrapers with skybridges and external elevators that must adjust their attachment points as the buildings oscillate, with elastic connector beams stretching, compressing, and changing color based on tension."
+    },
+    {
+      "number": "22",
+      "title": "Subway Station Platform Elevators and Crowd Flow",
+      "description": "A cross-section of a subway station with escalators, stairs, and a central glass elevator moving between street, mezzanine, and platform; spherical “people” flow between paths, queue at the elevator, and are color-coded by route, with density shown as vertical columns.",
+      "seed": "Subway Station Platform Elevators and Crowd Flow: A cross-section of a subway station with escalators, stairs, and a central glass elevator moving between street, mezzanine, and platform; spherical “people” flow between paths, queue at the elevator, and are color-coded by route, with density shown as vertical columns."
+    },
+    {
+      "number": "23",
+      "title": "Elevator of Light: Photon Ladders",
+      "description": "A vertical shaft where pulses of light climb step-like energy levels, each “elevator step” represented by a glowing platform that lifts or drops photons between levels, with emitted and absorbed photons shown as colored streaks radiating outwards.",
+      "seed": "Elevator of Light: Photon Ladders: A vertical shaft where pulses of light climb step-like energy levels, each “elevator step” represented by a glowing platform that lifts or drops photons between levels, with emitted and absorbed photons shown as colored streaks radiating outwards."
+    },
+    {
+      "number": "24",
+      "title": "Ocean Platform Equipment Elevators",
+      "description": "An offshore platform with waves rocking the base while a heavy equipment elevator moves between sea level and deck level, cables stretching, spray particles splashing, and the platform’s motion slightly perturbing the elevator’s alignment and swing.",
+      "seed": "Ocean Platform Equipment Elevators: An offshore platform with waves rocking the base while a heavy equipment elevator moves between sea level and deck level, cables stretching, spray particles splashing, and the platform’s motion slightly perturbing the elevator’s alignment and swing."
+    },
+    {
+      "number": "25",
+      "title": "Elevator-Themed Data Sorting Visualizer",
+      "description": "Vertical shafts representing different data buckets where blocks (data items) ride elevator platforms up and down to correct “floors” according to their value, with each move leaving a short trail, and a side panel showing how sorted the array is over time.",
+      "seed": "Elevator-Themed Data Sorting Visualizer: Vertical shafts representing different data buckets where blocks (data items) ride elevator platforms up and down to correct “floors” according to their value, with each move leaving a short trail, and a side panel showing how sorted the array is over time."
+    }
+  ],
+  "raw_output": "Here are strong **Elevators simulation inputs** you can plug into your prompt:\n\n1. **Multi-Shaft Glass Elevator Lobby**\n   A transparent lobby with 3–4 glass elevator cars sliding in separate vertical shafts, doors that open and close to colored waiting zones, passengers as small spheres that enter and exit, with floor indicators, glowing call buttons, and trails showing each car’s recent path.\n\n2. **Elevator Traffic Optimization Visualizer**\n   A tall building cross-section where multiple elevator cars move between 20+ labeled floors, picking up and dropping off color-coded passenger groups whose wait times are displayed as vertical bar meters, with arrows showing requested directions and lines connecting pending calls to assigned cars.\n\n3. **Counterweight and Pulley Mechanics**\n   A single elevator car and its counterweight attached by a cable over a rotating pulley wheel, with gravity acting, friction adjustable by a slider, and real-time force vectors displayed as colored arrows on the car, counterweight, and pulley.\n\n4. **Glass Elevator in a Rotating Tower**\n   A cylindrical tower rotating slowly around its vertical axis with a transparent elevator car sliding up and down along an external track, leaving a faint trail that shows its helical path relative to the ground as the tower spins.\n\n5. **Spiral Elevators in a Helix Tower**\n   Several small platform elevators that climb and descend along helical rails wrapping around a central transparent tower, occasionally merging onto shared straight segments, with collision-avoidance distances visualized as faint translucent safety cylinders around each car.\n\n6. **Microscopic Vesicle “Elevators” in a Cell**\n   A spherical cell interior where protein “elevator platforms” move along vertical microtubule tracks, carrying glowing cargo vesicles between labeled “membrane,” “Golgi,” and “nucleus” zones, with cargo attaching, detaching, and leaving fading particle trails.\n\n7. **Warehouse Pallet Elevators and Conveyor Belts**\n   A tall storage rack with vertical pallet elevators lifting crates from a ground-level conveyor up to different shelf levels, where crates roll off, stack, and occasionally bump or collide, with colored labels indicating crate destinations and a counter of successful deliveries.\n\n8. **Emergency Brake Test in an Elevator Shaft**\n   An elevator car drops in a shaft and triggers a mechanical safety brake that clamps onto rail guides, with sparks visualized as short-lived particles, deceleration vectors drawn, and a graph panel that updates in 3D showing speed and braking force over time.\n\n9. **Glass Elevators in a Shopping Mall Atrium**\n   A multi-level open atrium with 3–5 glass elevators moving between floors, people represented as small colored spheres boarding and leaving at balconies, while overhead walkways and plants stay stationary, and elevator paths are traced with lightly glowing trails.\n\n10. **Underwater Bubble Elevators**\n    Vertical columns of bubbles rising through clear water tubes, lifting small colored particles (“passengers”) that attach to rising bubbles and detach at certain heights into collection basins, with turbulence visualized as swirling particle motions around larger bubbles.\n\n11. **Space Station Radial Elevators**\n    A rotating ring-shaped space station with radial “elevators” moving between a central hub and outer ring, passengers attaching at the hub and being flung outward as the ring rotates, with Coriolis forces shown as curved trajectories and ghost trails of predicted vs actual paths.\n\n12. **Freight Elevator Load and Balance Simulator**\n    A large square elevator car where boxes of varying mass are dropped in and slide on the floor, shifting the car’s center of mass and slightly tilting its suspension cables, with a live 3D marker showing the center-of-mass location and tension values on each corner cable.\n\n13. **Elevator Shaft with Fire and Smoke Dynamics**\n    A vertical shaft with an elevator car stuck on one floor while smoke particles rise from a fire at the bottom, interacting with a venting fan that pulls smoke sideways, with visibility in the shaft represented by changing transparency and color of the air.\n\n14. **Ant Colony Elevator Tunnels**\n    An anthill cross-section with vertical “elevator” tunnels where clusters of ant spheres ride up and down soil shafts on moving soil platforms, carrying glowing food particles that transfer between ants and storage chambers, leaving pheromone trails on the tunnel walls.\n\n15. **Energy-Efficient Twin Elevators Sharing a Counterweight**\n    Two elevator cars in adjacent shafts connected by a shared counterweight system, where energy usage is displayed as a bar, and different traffic patterns (cars moving together vs opposite directions) show how energy transfers and balances between them.\n\n16. **Vertical Parking Garage Car Elevators**\n    A tall parking tower where car boxes roll onto platform elevators that rise and rotate to align with different parking bays, with cars sliding into slots, backing out, and occasionally queuing on ground level, while glowing arrows show planned routes and collision zones.\n\n17. **Floating Island Elevators with Magnetic Tracks**\n    Several small islands at different heights connected by vertical magnetic tracks where platform elevators float and glide without cables, gently bouncing at stops, with magnetic field strength visualized as faint blue halos around the rails.\n\n18. **Elevator Cable Vibration and Resonance**\n    A stationary elevator car at mid-shaft with its cable modeled as a taut string that can be plucked; waves travel up and down the cable, reflect at ends, and sometimes resonate, with displacement shown as exaggerated oscillations and colored nodes/antinodes.\n\n19. **Liquid Metal Elevators in a Factory**\n    Vertical glass tubes filled with shimmering liquid metal that rises and falls like an elevator piston, lifting small platform disks to different machine levels; occasionally droplets spill, merge, and rejoin the main column, with reflective surfaces and soft highlights.\n\n20. **Stacked Elevator Puzzle Maze**\n    Multiple elevator platforms in intersecting shafts forming a 3D puzzle where a small marble must be transported from bottom to top; platforms move only when toggled by buttons, and the marble rolls, bounces off walls, and can fall if platforms misalign.\n\n21. **Skybridge Elevators Between Moving Skyscrapers**\n    Two slightly swaying skyscrapers with skybridges and external elevators that must adjust their attachment points as the buildings oscillate, with elastic connector beams stretching, compressing, and changing color based on tension.\n\n22. **Subway Station Platform Elevators and Crowd Flow**\n    A cross-section of a subway station with escalators, stairs, and a central glass elevator moving between street, mezzanine, and platform; spherical “people” flow between paths, queue at the elevator, and are color-coded by route, with density shown as vertical columns.\n\n23. **Elevator of Light: Photon Ladders**\n    A vertical shaft where pulses of light climb step-like energy levels, each “elevator step” represented by a glowing platform that lifts or drops photons between levels, with emitted and absorbed photons shown as colored streaks radiating outwards.\n\n24. **Ocean Platform Equipment Elevators**\n    An offshore platform with waves rocking the base while a heavy equipment elevator moves between sea level and deck level, cables stretching, spray particles splashing, and the platform’s motion slightly perturbing the elevator’s alignment and swing.\n\n25. **Elevator-Themed Data Sorting Visualizer**\n    Vertical shafts representing different data buckets where blocks (data items) ride elevator platforms up and down to correct “floors” according to their value, with each move leaving a short trail, and a side panel showing how sorted the array is over time."
+}

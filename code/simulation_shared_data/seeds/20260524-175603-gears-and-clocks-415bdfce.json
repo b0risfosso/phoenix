@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Gears and clocks",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:56:03",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Transparent Gear Clock Tower",
+      "description": "A tall, mostly transparent clock tower with stacked gear trains, a swinging pendulum, and labeled hour/minute/second hands where gears rotate, mesh, and transfer motion while the clock face updates time and trails trace gear tooth paths.",
+      "seed": "Transparent Gear Clock Tower: A tall, mostly transparent clock tower with stacked gear trains, a swinging pendulum, and labeled hour/minute/second hands where gears rotate, mesh, and transfer motion while the clock face updates time and trails trace gear tooth paths."
+    },
+    {
+      "number": "2",
+      "title": "Exploded View Gearbox Clock",
+      "description": "A mechanical clock frozen in mid‑air “exploded view” where gears start detached and slowly slide, rotate, and snap into place, each part glowing briefly on contact, until the assembled clock runs and drives the hands.",
+      "seed": "Exploded View Gearbox Clock: A mechanical clock frozen in mid‑air “exploded view” where gears start detached and slowly slide, rotate, and snap into place, each part glowing briefly on contact, until the assembled clock runs and drives the hands."
+    },
+    {
+      "number": "3",
+      "title": "Planetary Gear Solar Clock",
+      "description": "A central sun gear drives orbiting planet gears that carry small clock faces, where the planets orbit, spin, and periodically align, and colored arrows and labels show how rotation ratios produce different time speeds on each mini‑clock.",
+      "seed": "Planetary Gear Solar Clock: A central sun gear drives orbiting planet gears that carry small clock faces, where the planets orbit, spin, and periodically align, and colored arrows and labels show how rotation ratios produce different time speeds on each mini‑clock."
+    },
+    {
+      "number": "4",
+      "title": "Pendulum-Regulated Gear Train",
+      "description": "A long pendulum swings with a fading motion trail, engaging an escapement wheel that ticks gear-by-gear, with each tick advancing a visible gear train and incrementing a digital time label floating above the assembly.",
+      "seed": "Pendulum-Regulated Gear Train: A long pendulum swings with a fading motion trail, engaging an escapement wheel that ticks gear-by-gear, with each tick advancing a visible gear train and incrementing a digital time label floating above the assembly."
+    },
+    {
+      "number": "5",
+      "title": "Gear-Driven Orrery Clock",
+      "description": "A gear network at the base rotates miniature planets on arms around a central “sun clock,” where planetary orbits and spins are gear-coupled to the clock’s second and minute hands, with semi-transparent orbit rings and labels.",
+      "seed": "Gear-Driven Orrery Clock: A gear network at the base rotates miniature planets on arms around a central “sun clock,” where planetary orbits and spins are gear-coupled to the clock’s second and minute hands, with semi-transparent orbit rings and labels."
+    },
+    {
+      "number": "6",
+      "title": "Clockwork City with Gear Streets",
+      "description": "A small city whose streets are long gears and racks that slide and rotate, driving clock towers and rooftop clocks that turn as vehicles roll along, with collisions transferring rotation and colored arrows indicating torque flow.",
+      "seed": "Clockwork City with Gear Streets: A small city whose streets are long gears and racks that slide and rotate, driving clock towers and rooftop clocks that turn as vehicles roll along, with collisions transferring rotation and colored arrows indicating torque flow."
+    },
+    {
+      "number": "7",
+      "title": "Mechanical Calendar Clock",
+      "description": "Interlocking date, day, and month wheels with teeth engage a central time gear, where every simulated “midnight” causes the date disc to click forward, and once per rotation the month ring advances with a highlighted sector.",
+      "seed": "Mechanical Calendar Clock: Interlocking date, day, and month wheels with teeth engage a central time gear, where every simulated “midnight” causes the date disc to click forward, and once per rotation the month ring advances with a highlighted sector."
+    },
+    {
+      "number": "8",
+      "title": "Gear Transmission Stress Visualizer",
+      "description": "A set of meshing gears rotates under a clear casing, their teeth color-shifting from cool blue to warm red depending on torque, while a connected clock face speeds up or slows down with load changes controlled by a draggable weight.",
+      "seed": "Gear Transmission Stress Visualizer: A set of meshing gears rotates under a clear casing, their teeth color-shifting from cool blue to warm red depending on torque, while a connected clock face speeds up or slows down with load changes controlled by a draggable weight."
+    },
+    {
+      "number": "9",
+      "title": "Floating Gear Constellation Clock",
+      "description": "In a light sky backdrop, floating gears of different sizes rotate and drift, occasionally colliding and snapping into temporary gear trains that briefly power glowing clock faces before detaching and drifting apart again.",
+      "seed": "Floating Gear Constellation Clock: In a light sky backdrop, floating gears of different sizes rotate and drift, occasionally colliding and snapping into temporary gear trains that briefly power glowing clock faces before detaching and drifting apart again."
+    },
+    {
+      "number": "10",
+      "title": "Water-Driven Gear Clock",
+      "description": "A transparent waterwheel gets hit by particle-based water droplets spilling from a raised trough, turning a vertical gear train that powers a rustic clock face; leaks, flow rate, and spillover visibly speed or slow the time display.",
+      "seed": "Water-Driven Gear Clock: A transparent waterwheel gets hit by particle-based water droplets spilling from a raised trough, turning a vertical gear train that powers a rustic clock face; leaks, flow rate, and spillover visibly speed or slow the time display."
+    },
+    {
+      "number": "11",
+      "title": "Magnetic Levitation Gear Clock",
+      "description": "Gears hover above a base plate using invisible magnetic forces shown by faint field lines; when aligned, levitating gears attach and start rotating, driving a suspended clock ring whose glowing numerals orbit and gently wobble.",
+      "seed": "Magnetic Levitation Gear Clock: Gears hover above a base plate using invisible magnetic forces shown by faint field lines; when aligned, levitating gears attach and start rotating, driving a suspended clock ring whose glowing numerals orbit and gently wobble."
+    },
+    {
+      "number": "12",
+      "title": "Self-Assembling Clock from Loose Gears",
+      "description": "Loose gears float randomly in a clear box, slowly rotating; when compatible teeth meet, they magnetically attach, forming growing gear chains that eventually assemble into a functioning clock that starts ticking once the last gear clicks in.",
+      "seed": "Self-Assembling Clock from Loose Gears: Loose gears float randomly in a clear box, slowly rotating; when compatible teeth meet, they magnetically attach, forming growing gear chains that eventually assemble into a functioning clock that starts ticking once the last gear clicks in."
+    },
+    {
+      "number": "13",
+      "title": "Binary Gear Time Counter",
+      "description": "Vertical stacks of small gears represent binary bits, flipping between two orientations as a main drive gear rotates; each bit change ripples down the stack and updates a labeled binary and decimal time readout above.",
+      "seed": "Binary Gear Time Counter: Vertical stacks of small gears represent binary bits, flipping between two orientations as a main drive gear rotates; each bit change ripples down the stack and updates a labeled binary and decimal time readout above."
+    },
+    {
+      "number": "14",
+      "title": "Microscopic Protein Gear Clock",
+      "description": "In a cell-like translucent sphere, protein “gears” shaped as irregular cogs rotate, attach, detach, and pass glowing molecules that act as timing signals, forming and breaking cycles that advance a biological clock label.",
+      "seed": "Microscopic Protein Gear Clock: In a cell-like translucent sphere, protein “gears” shaped as irregular cogs rotate, attach, detach, and pass glowing molecules that act as timing signals, forming and breaking cycles that advance a biological clock label."
+    },
+    {
+      "number": "15",
+      "title": "Clock Escape Room Mechanism",
+      "description": "A room with multiple wall-mounted gear clusters and a central floor clock where players (represented by colored spheres) can push levers that attach or detach gear segments, redirecting rotation to finally unlock and spin the main clock.",
+      "seed": "Clock Escape Room Mechanism: A room with multiple wall-mounted gear clusters and a central floor clock where players (represented by colored spheres) can push levers that attach or detach gear segments, redirecting rotation to finally unlock and spin the main clock."
+    },
+    {
+      "number": "16",
+      "title": "Time Zone Gear Globe",
+      "description": "A rotating globe is ringed by 24 vertical clock faces, each linked via transparent shafts to an internal ring of gears; as the globe spins, the internal gears transfer motion so each clock shows a different time, with time zones color-coded.",
+      "seed": "Time Zone Gear Globe: A rotating globe is ringed by 24 vertical clock faces, each linked via transparent shafts to an internal ring of gears; as the globe spins, the internal gears transfer motion so each clock shows a different time, with time zones color-coded."
+    },
+    {
+      "number": "17",
+      "title": "Gear-Powered Drawing Clock",
+      "description": "A horizontal plate covered in fine dust is moved by orthogonal gear-driven arms, tracing Lissajous-like paths as the clock ticks; the pattern changes as different gear ratios engage, with trails slowly fading to reveal new designs.",
+      "seed": "Gear-Powered Drawing Clock: A horizontal plate covered in fine dust is moved by orthogonal gear-driven arms, tracing Lissajous-like paths as the clock ticks; the pattern changes as different gear ratios engage, with trails slowly fading to reveal new designs."
+    },
+    {
+      "number": "18",
+      "title": "Gravity-Driven Weight and Gear Clock",
+      "description": "Stacked weights hang from cords wrapped around drums attached to gears; as the weights slowly descend, they power a clock mechanism until they hit the floor, where a reset button teleports weights back up and rewinds the gears.",
+      "seed": "Gravity-Driven Weight and Gear Clock: Stacked weights hang from cords wrapped around drums attached to gears; as the weights slowly descend, they power a clock mechanism until they hit the floor, where a reset button teleports weights back up and rewinds the gears."
+    },
+    {
+      "number": "19",
+      "title": "Clock Gears in Low Gravity",
+      "description": "A classic gear clock floats in a low-gravity chamber, its pieces loosely constrained by invisible rods; impacts from slow-moving spheres cause gears to wobble, detach, and reattach, sometimes disrupting and then restoring the tick rate.",
+      "seed": "Clock Gears in Low Gravity: A classic gear clock floats in a low-gravity chamber, its pieces loosely constrained by invisible rods; impacts from slow-moving spheres cause gears to wobble, detach, and reattach, sometimes disrupting and then restoring the tick rate."
+    },
+    {
+      "number": "20",
+      "title": "Fractal Gear Clock Tower",
+      "description": "A tall central gear clock sprouts smaller self-similar gear-clock modules on its sides, each rotating at a higher speed; light trails on the hands show nested time scales, and clicking a module causes it to detach and orbit the main tower.",
+      "seed": "Fractal Gear Clock Tower: A tall central gear clock sprouts smaller self-similar gear-clock modules on its sides, each rotating at a higher speed; light trails on the hands show nested time scales, and clicking a module causes it to detach and orbit the main tower."
+    },
+    {
+      "number": "21",
+      "title": "Sand Clock with Gear-Controlled Flow",
+      "description": "A large hourglass contains granular particles that pour through a variable aperture controlled by rotating gears; changing gear speed widens or narrows the opening, visually affecting sand flow and a linked analog/digital time display.",
+      "seed": "Sand Clock with Gear-Controlled Flow: A large hourglass contains granular particles that pour through a variable aperture controlled by rotating gears; changing gear speed widens or narrows the opening, visually affecting sand flow and a linked analog/digital time display."
+    },
+    {
+      "number": "22",
+      "title": "Gear-Linked Double Pendulum Clock",
+      "description": "Two chaotic double pendulums are gear-linked to a shared clock face; as the pendulums swing, their complex motion alternately advances and retards the hands, with curved trails and torque arrows visualizing the unstable coupling.",
+      "seed": "Gear-Linked Double Pendulum Clock: Two chaotic double pendulums are gear-linked to a shared clock face; as the pendulums swing, their complex motion alternately advances and retards the hands, with curved trails and torque arrows visualizing the unstable coupling."
+    },
+    {
+      "number": "23",
+      "title": "Mechanical Heartbeat Clock",
+      "description": "A heart-shaped chamber expands and contracts rhythmically, driving piston rods that rotate gears connected to a small clock; each “beat” advances the second hand and sends a pulse of glowing particles through transparent tubes.",
+      "seed": "Mechanical Heartbeat Clock: A heart-shaped chamber expands and contracts rhythmically, driving piston rods that rotate gears connected to a small clock; each “beat” advances the second hand and sends a pulse of glowing particles through transparent tubes."
+    },
+    {
+      "number": "24",
+      "title": "Origami Clock Unfolding from Gears",
+      "description": "A flat sheet with etched gear outlines slowly raises and folds along creases as hidden gears beneath rotate, gradually forming a 3D clock tower whose gears become exposed and begin to drive visible hands and chimes.",
+      "seed": "Origami Clock Unfolding from Gears: A flat sheet with etched gear outlines slowly raises and folds along creases as hidden gears beneath rotate, gradually forming a 3D clock tower whose gears become exposed and begin to drive visible hands and chimes."
+    },
+    {
+      "number": "25",
+      "title": "Gear-Encoded Message Clock",
+      "description": "Multiple concentric gear rings carry engraved letters; as an internal clock gear rotates, outer rings step in a cipher pattern, aligning letters under a transparent window, revealing a scrolling encoded message synchronized with the ticking.",
+      "seed": "Gear-Encoded Message Clock: Multiple concentric gear rings carry engraved letters; as an internal clock gear rotates, outer rings step in a cipher pattern, aligning letters under a transparent window, revealing a scrolling encoded message synchronized with the ticking."
+    }
+  ],
+  "raw_output": "Here are strong **Gears and clocks simulation inputs** you can plug into your prompt:\n\n1. **Transparent Gear Clock Tower**\n   A tall, mostly transparent clock tower with stacked gear trains, a swinging pendulum, and labeled hour/minute/second hands where gears rotate, mesh, and transfer motion while the clock face updates time and trails trace gear tooth paths.\n\n2. **Exploded View Gearbox Clock**\n   A mechanical clock frozen in mid‑air “exploded view” where gears start detached and slowly slide, rotate, and snap into place, each part glowing briefly on contact, until the assembled clock runs and drives the hands.\n\n3. **Planetary Gear Solar Clock**\n   A central sun gear drives orbiting planet gears that carry small clock faces, where the planets orbit, spin, and periodically align, and colored arrows and labels show how rotation ratios produce different time speeds on each mini‑clock.\n\n4. **Pendulum-Regulated Gear Train**\n   A long pendulum swings with a fading motion trail, engaging an escapement wheel that ticks gear-by-gear, with each tick advancing a visible gear train and incrementing a digital time label floating above the assembly.\n\n5. **Gear-Driven Orrery Clock**\n   A gear network at the base rotates miniature planets on arms around a central “sun clock,” where planetary orbits and spins are gear-coupled to the clock’s second and minute hands, with semi-transparent orbit rings and labels.\n\n6. **Clockwork City with Gear Streets**\n   A small city whose streets are long gears and racks that slide and rotate, driving clock towers and rooftop clocks that turn as vehicles roll along, with collisions transferring rotation and colored arrows indicating torque flow.\n\n7. **Mechanical Calendar Clock**\n   Interlocking date, day, and month wheels with teeth engage a central time gear, where every simulated “midnight” causes the date disc to click forward, and once per rotation the month ring advances with a highlighted sector.\n\n8. **Gear Transmission Stress Visualizer**\n   A set of meshing gears rotates under a clear casing, their teeth color-shifting from cool blue to warm red depending on torque, while a connected clock face speeds up or slows down with load changes controlled by a draggable weight.\n\n9. **Floating Gear Constellation Clock**\n   In a light sky backdrop, floating gears of different sizes rotate and drift, occasionally colliding and snapping into temporary gear trains that briefly power glowing clock faces before detaching and drifting apart again.\n\n10. **Water-Driven Gear Clock**\n    A transparent waterwheel gets hit by particle-based water droplets spilling from a raised trough, turning a vertical gear train that powers a rustic clock face; leaks, flow rate, and spillover visibly speed or slow the time display.\n\n11. **Magnetic Levitation Gear Clock**\n    Gears hover above a base plate using invisible magnetic forces shown by faint field lines; when aligned, levitating gears attach and start rotating, driving a suspended clock ring whose glowing numerals orbit and gently wobble.\n\n12. **Self-Assembling Clock from Loose Gears**\n    Loose gears float randomly in a clear box, slowly rotating; when compatible teeth meet, they magnetically attach, forming growing gear chains that eventually assemble into a functioning clock that starts ticking once the last gear clicks in.\n\n13. **Binary Gear Time Counter**\n    Vertical stacks of small gears represent binary bits, flipping between two orientations as a main drive gear rotates; each bit change ripples down the stack and updates a labeled binary and decimal time readout above.\n\n14. **Microscopic Protein Gear Clock**\n    In a cell-like translucent sphere, protein “gears” shaped as irregular cogs rotate, attach, detach, and pass glowing molecules that act as timing signals, forming and breaking cycles that advance a biological clock label.\n\n15. **Clock Escape Room Mechanism**\n    A room with multiple wall-mounted gear clusters and a central floor clock where players (represented by colored spheres) can push levers that attach or detach gear segments, redirecting rotation to finally unlock and spin the main clock.\n\n16. **Time Zone Gear Globe**\n    A rotating globe is ringed by 24 vertical clock faces, each linked via transparent shafts to an internal ring of gears; as the globe spins, the internal gears transfer motion so each clock shows a different time, with time zones color-coded.\n\n17. **Gear-Powered Drawing Clock**\n    A horizontal plate covered in fine dust is moved by orthogonal gear-driven arms, tracing Lissajous-like paths as the clock ticks; the pattern changes as different gear ratios engage, with trails slowly fading to reveal new designs.\n\n18. **Gravity-Driven Weight and Gear Clock**\n    Stacked weights hang from cords wrapped around drums attached to gears; as the weights slowly descend, they power a clock mechanism until they hit the floor, where a reset button teleports weights back up and rewinds the gears.\n\n19. **Clock Gears in Low Gravity**\n    A classic gear clock floats in a low-gravity chamber, its pieces loosely constrained by invisible rods; impacts from slow-moving spheres cause gears to wobble, detach, and reattach, sometimes disrupting and then restoring the tick rate.\n\n20. **Fractal Gear Clock Tower**\n    A tall central gear clock sprouts smaller self-similar gear-clock modules on its sides, each rotating at a higher speed; light trails on the hands show nested time scales, and clicking a module causes it to detach and orbit the main tower.\n\n21. **Sand Clock with Gear-Controlled Flow**\n    A large hourglass contains granular particles that pour through a variable aperture controlled by rotating gears; changing gear speed widens or narrows the opening, visually affecting sand flow and a linked analog/digital time display.\n\n22. **Gear-Linked Double Pendulum Clock**\n    Two chaotic double pendulums are gear-linked to a shared clock face; as the pendulums swing, their complex motion alternately advances and retards the hands, with curved trails and torque arrows visualizing the unstable coupling.\n\n23. **Mechanical Heartbeat Clock**\n    A heart-shaped chamber expands and contracts rhythmically, driving piston rods that rotate gears connected to a small clock; each “beat” advances the second hand and sends a pulse of glowing particles through transparent tubes.\n\n24. **Origami Clock Unfolding from Gears**\n    A flat sheet with etched gear outlines slowly raises and folds along creases as hidden gears beneath rotate, gradually forming a 3D clock tower whose gears become exposed and begin to drive visible hands and chimes.\n\n25. **Gear-Encoded Message Clock**\n    Multiple concentric gear rings carry engraved letters; as an internal clock gear rotates, outer rings step in a cipher pattern, aligning letters under a transparent window, revealing a scrolling encoded message synchronized with the ticking."
+}

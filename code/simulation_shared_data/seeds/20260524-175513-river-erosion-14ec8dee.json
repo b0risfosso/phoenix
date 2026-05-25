@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "River erosion",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:55:13",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Meandering River Cutting a Valley",
+      "description": "A flowing blue river ribbon curves across a slightly sloped green terrain mesh, with moving water particles eroding and carrying away brown terrain voxels, depositing lighter sand downstream and gradually widening bends over time.",
+      "seed": "Meandering River Cutting a Valley: A flowing blue river ribbon curves across a slightly sloped green terrain mesh, with moving water particles eroding and carrying away brown terrain voxels, depositing lighter sand downstream and gradually widening bends over time."
+    },
+    {
+      "number": "2",
+      "title": "Raindrop-Induced Hillslope Erosion",
+      "description": "Transparent raindrop spheres fall from a light sky onto a sloped, layered hillside block, loosening colored soil particles that detach, slide, and merge into tiny rivulets that carve branching channels down to a main river at the base.",
+      "seed": "Raindrop-Induced Hillslope Erosion: Transparent raindrop spheres fall from a light sky onto a sloped, layered hillside block, loosening colored soil particles that detach, slide, and merge into tiny rivulets that carve branching channels down to a main river at the base."
+    },
+    {
+      "number": "3",
+      "title": "Riverbank Undercutting and Collapse",
+      "description": "A main river channel flows beside tall, stratified riverbanks made of stacked colored layers; water particles collide with the bank, gradually dissolving support until chunks detach, tumble into the river, and are transported as rolling, bouncing blocks downstream.",
+      "seed": "Riverbank Undercutting and Collapse: A main river channel flows beside tall, stratified riverbanks made of stacked colored layers; water particles collide with the bank, gradually dissolving support until chunks detach, tumble into the river, and are transported as rolling, bouncing blocks downstream."
+    },
+    {
+      "number": "4",
+      "title": "Sediment Transport and Deposition Bars",
+      "description": "A straight river section carries colored sediment spheres of different sizes (gravels, sands, silts) that bounce and roll along the bed, settle into mid-channel sandbars and point bars, and are reshaped as flow speed (indicated by arrows and a meter) increases or decreases.",
+      "seed": "Sediment Transport and Deposition Bars: A straight river section carries colored sediment spheres of different sizes (gravels, sands, silts) that bounce and roll along the bed, settle into mid-channel sandbars and point bars, and are reshaped as flow speed (indicated by arrows and a meter) increases or decreases."
+    },
+    {
+      "number": "5",
+      "title": "Delta Formation at a Lake Mouth",
+      "description": "A river enters a calm, wide, transparent lake where suspended particles slow, settle, and build a branching delta structure; new distributary channels split and migrate across the growing delta, with labels tracking sediment thickness and shoreline position.",
+      "seed": "Delta Formation at a Lake Mouth: A river enters a calm, wide, transparent lake where suspended particles slow, settle, and build a branching delta structure; new distributary channels split and migrate across the growing delta, with labels tracking sediment thickness and shoreline position."
+    },
+    {
+      "number": "6",
+      "title": "Waterfall Retreat and Plunge Pool Erosion",
+      "description": "A river flows over a resistant rock ledge into a deep pool, where fast-moving water and swirling particle tracers scour the plunge pool and undercut the ledge, causing rock blocks to detach from the cliff face, fall, splash, and gradually move the waterfall upstream.",
+      "seed": "Waterfall Retreat and Plunge Pool Erosion: A river flows over a resistant rock ledge into a deep pool, where fast-moving water and swirling particle tracers scour the plunge pool and undercut the ledge, causing rock blocks to detach from the cliff face, fall, splash, and gradually move the waterfall upstream."
+    },
+    {
+      "number": "7",
+      "title": "Braided River Channel Dynamics",
+      "description": "A gently sloped valley floor hosts several shallow, shifting river threads that split and merge around transient sandbars; bars grow, shrink, and migrate as sediment is transferred, with trails marking past channel paths over a light background.",
+      "seed": "Braided River Channel Dynamics: A gently sloped valley floor hosts several shallow, shifting river threads that split and merge around transient sandbars; bars grow, shrink, and migrate as sediment is transferred, with trails marking past channel paths over a light background."
+    },
+    {
+      "number": "8",
+      "title": "Flood Event and Overbank Erosion",
+      "description": "A river cross-section with levees and a floodplain fills as water level rises; during a flood, water overtops banks, erodes levees, carves new overflow paths, and deposits a thin, colored silt layer across the floodplain, with a time-lapse slider to replay the event.",
+      "seed": "Flood Event and Overbank Erosion: A river cross-section with levees and a floodplain fills as water level rises; during a flood, water overtops banks, erodes levees, carves new overflow paths, and deposits a thin, colored silt layer across the floodplain, with a time-lapse slider to replay the event."
+    },
+    {
+      "number": "9",
+      "title": "Bedrock River Incision Through Uplifted Terrain",
+      "description": "A river cuts down through a rising block of layered rock; as the base level drops, the river bed incises, forming a canyon with steep walls, knickpoints that migrate upstream, and labeled terraces marking former river levels.",
+      "seed": "Bedrock River Incision Through Uplifted Terrain: A river cuts down through a rising block of layered rock; as the base level drops, the river bed incises, forming a canyon with steep walls, knickpoints that migrate upstream, and labeled terraces marking former river levels."
+    },
+    {
+      "number": "10",
+      "title": "Sediment Sorting Along a River Profile",
+      "description": "A long, gently curving 3D river profile shows large, medium, and small sediment spheres moving from steep headwaters to flat lowlands, with larger particles dropping out earlier and smaller ones traveling farther, color-coding where each size class accumulates.",
+      "seed": "Sediment Sorting Along a River Profile: A long, gently curving 3D river profile shows large, medium, and small sediment spheres moving from steep headwaters to flat lowlands, with larger particles dropping out earlier and smaller ones traveling farther, color-coding where each size class accumulates."
+    },
+    {
+      "number": "11",
+      "title": "Oxbow Lake Formation from Meander Cutoff",
+      "description": "A sinuous river gradually exaggerates its meanders as bank erosion shifts the channel, until two nearby limbs collide and merge, cutting off a loop that becomes a still, semi-transparent oxbow lake while the main channel straightens and abandons the old path.",
+      "seed": "Oxbow Lake Formation from Meander Cutoff: A sinuous river gradually exaggerates its meanders as bank erosion shifts the channel, until two nearby limbs collide and merge, cutting off a loop that becomes a still, semi-transparent oxbow lake while the main channel straightens and abandons the old path."
+    },
+    {
+      "number": "12",
+      "title": "Groundwater Seep Erosion and Spring-Fed Gully",
+      "description": "A hillside block shows a water table plane beneath the surface; groundwater seeps emerge at a line of springs, eroding small gullies that grow upslope (headward erosion) and eventually connect into a small stream that feeds a main river below.",
+      "seed": "Groundwater Seep Erosion and Spring-Fed Gully: A hillside block shows a water table plane beneath the surface; groundwater seeps emerge at a line of springs, eroding small gullies that grow upslope (headward erosion) and eventually connect into a small stream that feeds a main river below."
+    },
+    {
+      "number": "13",
+      "title": "Micro-Scale Riverbed Grain Abrasion",
+      "description": "A zoomed-in view of the riverbed shows a few large rock clasts being repeatedly hit by fast-moving sediment grains, chipping off tiny fragments and smoothing edges, with slow shrinkage of rock size and a trail of fine particles drifting into the current.",
+      "seed": "Micro-Scale Riverbed Grain Abrasion: A zoomed-in view of the riverbed shows a few large rock clasts being repeatedly hit by fast-moving sediment grains, chipping off tiny fragments and smoothing edges, with slow shrinkage of rock size and a trail of fine particles drifting into the current."
+    },
+    {
+      "number": "14",
+      "title": "Ice-Dammed River and Catastrophic Outburst",
+      "description": "A river is blocked by a translucent ice dam, forming a growing lake upstream; as water pressure builds, cracks glow and widen in the ice until the dam fails, releasing a surge that erodes the downstream channel, strips banks, and deposits a thick sediment wedge.",
+      "seed": "Ice-Dammed River and Catastrophic Outburst: A river is blocked by a translucent ice dam, forming a growing lake upstream; as water pressure builds, cracks glow and widen in the ice until the dam fails, releasing a surge that erodes the downstream channel, strips banks, and deposits a thick sediment wedge."
+    },
+    {
+      "number": "15",
+      "title": "Urban Riverbank Stabilization vs. Natural Erosion",
+      "description": "A city river stretch has one bank armored with gray blocks (riprap) and the other left natural; during base flow and simulated flood pulses, water erodes the natural bank (vegetation and soil detach and slump), while armored blocks occasionally loosen and slide.",
+      "seed": "Urban Riverbank Stabilization vs. Natural Erosion: A city river stretch has one bank armored with gray blocks (riprap) and the other left natural; during base flow and simulated flood pulses, water erodes the natural bank (vegetation and soil detach and slump), while armored blocks occasionally loosen and slide."
+    },
+    {
+      "number": "16",
+      "title": "Suspended Load Cloud and Turbidity Plume",
+      "description": "A river carrying a brownish suspended sediment cloud enters a clearer main stem or lake, with particles slowly settling and forming a wedge-shaped deposit; turbidity gradients are shown by changing water color and labeled transparency zones.",
+      "seed": "Suspended Load Cloud and Turbidity Plume: A river carrying a brownish suspended sediment cloud enters a clearer main stem or lake, with particles slowly settling and forming a wedge-shaped deposit; turbidity gradients are shown by changing water color and labeled transparency zones."
+    },
+    {
+      "number": "17",
+      "title": "Vegetation’s Role in Riverbank Protection",
+      "description": "Two parallel channels flow through identical soils, but one bank is anchored with rooted plant models; roots attach to soil particles, reducing their detachment when hit by water, while unrooted banks erode faster, visibly changing cross-sectional profiles.",
+      "seed": "Vegetation’s Role in Riverbank Protection: Two parallel channels flow through identical soils, but one bank is anchored with rooted plant models; roots attach to soil particles, reducing their detachment when hit by water, while unrooted banks erode faster, visibly changing cross-sectional profiles."
+    },
+    {
+      "number": "18",
+      "title": "River Network Evolution from Random Raindrops",
+      "description": "A flat surface receives random raindrop impacts that create small pits and micro-channels; runoff flows downslope, merging into branching tributaries that carve a dendritic drainage network, with glowing lines tracing the evolving river tree.",
+      "seed": "River Network Evolution from Random Raindrops: A flat surface receives random raindrop impacts that create small pits and micro-channels; runoff flows downslope, merging into branching tributaries that carve a dendritic drainage network, with glowing lines tracing the evolving river tree."
+    },
+    {
+      "number": "19",
+      "title": "Tidal River Mouth and Estuary Erosion",
+      "description": "A river meets the ocean in an estuary where rising and falling water levels (animated surface plane) reverse flow direction; tidal currents alternately erode and deposit sediments in the channel and on tidal flats, reshaping sandbars and channel depth.",
+      "seed": "Tidal River Mouth and Estuary Erosion: A river meets the ocean in an estuary where rising and falling water levels (animated surface plane) reverse flow direction; tidal currents alternately erode and deposit sediments in the channel and on tidal flats, reshaping sandbars and channel depth."
+    },
+    {
+      "number": "20",
+      "title": "Cross-Sectional Channel Shape Adjustment",
+      "description": "A 3D slice of a river cross-section shows water shear stress along the bed and banks; faster zones erode, widening and deepening the channel, while slower inner zones accumulate sediment, changing the cross-section from narrow/deep to wide/shallow or vice versa.",
+      "seed": "Cross-Sectional Channel Shape Adjustment: A 3D slice of a river cross-section shows water shear stress along the bed and banks; faster zones erode, widening and deepening the channel, while slower inner zones accumulate sediment, changing the cross-section from narrow/deep to wide/shallow or vice versa."
+    },
+    {
+      "number": "21",
+      "title": "Meander Migration Time-Lapse with Bank Markers",
+      "description": "A plan-view river channel with evenly spaced bank markers shows successive positions of the banks as the river migrates laterally, eroding outer bends and depositing on inner bends, leaving behind color-coded “ghost” outlines of former channel positions.",
+      "seed": "Meander Migration Time-Lapse with Bank Markers: A plan-view river channel with evenly spaced bank markers shows successive positions of the banks as the river migrates laterally, eroding outer bends and depositing on inner bends, leaving behind color-coded “ghost” outlines of former channel positions."
+    },
+    {
+      "number": "22",
+      "title": "Permafrost River Erosion and Thermokarst Slumps",
+      "description": "A cold-region river cuts into frozen, ice-rich banks; as warmer water and air melt ground ice, sections slump as large rotating blocks, slide into the channel, and melt into muddy flows that mix with the river and increase sediment load.",
+      "seed": "Permafrost River Erosion and Thermokarst Slumps: A cold-region river cuts into frozen, ice-rich banks; as warmer water and air melt ground ice, sections slump as large rotating blocks, slide into the channel, and melt into muddy flows that mix with the river and increase sediment load."
+    },
+    {
+      "number": "23",
+      "title": "River Terrace Formation Through Fluctuating Base Level",
+      "description": "A river responds to alternating periods of incision and aggradation, carving down and then partially filling its valley; multiple stepped terraces form on both sides, with each terrace surface labeled by age and shown as a distinct color band.",
+      "seed": "River Terrace Formation Through Fluctuating Base Level: A river responds to alternating periods of incision and aggradation, carving down and then partially filling its valley; multiple stepped terraces form on both sides, with each terrace surface labeled by age and shown as a distinct color band."
+    },
+    {
+      "number": "24",
+      "title": "River Confluence and Mixing of Two Erosive Streams",
+      "description": "Two differently colored rivers (e.g., clear blue and sediment-laden brown) meet at a confluence, where their flows collide, wrap around each other, and mix; enhanced turbulence erodes the bed and banks at the junction, deepening the confluence zone.",
+      "seed": "River Confluence and Mixing of Two Erosive Streams: Two differently colored rivers (e.g., clear blue and sediment-laden brown) meet at a confluence, where their flows collide, wrap around each other, and mix; enhanced turbulence erodes the bed and banks at the junction, deepening the confluence zone."
+    },
+    {
+      "number": "25",
+      "title": "Symbolic “River of Time” Eroding Events",
+      "description": "A glowing, transparent river of light flows past 3D labeled “memory” blocks on its banks; as time passes, some blocks slowly erode, dissolve, and drift into the stream, while others strengthen and grow roots into the ground, visualizing selective erosion of events.",
+      "seed": "Symbolic “River of Time” Eroding Events: A glowing, transparent river of light flows past 3D labeled “memory” blocks on its banks; as time passes, some blocks slowly erode, dissolve, and drift into the stream, while others strengthen and grow roots into the ground, visualizing selective erosion of events."
+    }
+  ],
+  "raw_output": "Here are strong **River erosion simulation inputs** you can plug into your prompt:\n\n1. **Meandering River Cutting a Valley**\n   A flowing blue river ribbon curves across a slightly sloped green terrain mesh, with moving water particles eroding and carrying away brown terrain voxels, depositing lighter sand downstream and gradually widening bends over time.\n\n2. **Raindrop-Induced Hillslope Erosion**\n   Transparent raindrop spheres fall from a light sky onto a sloped, layered hillside block, loosening colored soil particles that detach, slide, and merge into tiny rivulets that carve branching channels down to a main river at the base.\n\n3. **Riverbank Undercutting and Collapse**\n   A main river channel flows beside tall, stratified riverbanks made of stacked colored layers; water particles collide with the bank, gradually dissolving support until chunks detach, tumble into the river, and are transported as rolling, bouncing blocks downstream.\n\n4. **Sediment Transport and Deposition Bars**\n   A straight river section carries colored sediment spheres of different sizes (gravels, sands, silts) that bounce and roll along the bed, settle into mid-channel sandbars and point bars, and are reshaped as flow speed (indicated by arrows and a meter) increases or decreases.\n\n5. **Delta Formation at a Lake Mouth**\n   A river enters a calm, wide, transparent lake where suspended particles slow, settle, and build a branching delta structure; new distributary channels split and migrate across the growing delta, with labels tracking sediment thickness and shoreline position.\n\n6. **Waterfall Retreat and Plunge Pool Erosion**\n   A river flows over a resistant rock ledge into a deep pool, where fast-moving water and swirling particle tracers scour the plunge pool and undercut the ledge, causing rock blocks to detach from the cliff face, fall, splash, and gradually move the waterfall upstream.\n\n7. **Braided River Channel Dynamics**\n   A gently sloped valley floor hosts several shallow, shifting river threads that split and merge around transient sandbars; bars grow, shrink, and migrate as sediment is transferred, with trails marking past channel paths over a light background.\n\n8. **Flood Event and Overbank Erosion**\n   A river cross-section with levees and a floodplain fills as water level rises; during a flood, water overtops banks, erodes levees, carves new overflow paths, and deposits a thin, colored silt layer across the floodplain, with a time-lapse slider to replay the event.\n\n9. **Bedrock River Incision Through Uplifted Terrain**\n   A river cuts down through a rising block of layered rock; as the base level drops, the river bed incises, forming a canyon with steep walls, knickpoints that migrate upstream, and labeled terraces marking former river levels.\n\n10. **Sediment Sorting Along a River Profile**\n    A long, gently curving 3D river profile shows large, medium, and small sediment spheres moving from steep headwaters to flat lowlands, with larger particles dropping out earlier and smaller ones traveling farther, color-coding where each size class accumulates.\n\n11. **Oxbow Lake Formation from Meander Cutoff**\n    A sinuous river gradually exaggerates its meanders as bank erosion shifts the channel, until two nearby limbs collide and merge, cutting off a loop that becomes a still, semi-transparent oxbow lake while the main channel straightens and abandons the old path.\n\n12. **Groundwater Seep Erosion and Spring-Fed Gully**\n    A hillside block shows a water table plane beneath the surface; groundwater seeps emerge at a line of springs, eroding small gullies that grow upslope (headward erosion) and eventually connect into a small stream that feeds a main river below.\n\n13. **Micro-Scale Riverbed Grain Abrasion**\n    A zoomed-in view of the riverbed shows a few large rock clasts being repeatedly hit by fast-moving sediment grains, chipping off tiny fragments and smoothing edges, with slow shrinkage of rock size and a trail of fine particles drifting into the current.\n\n14. **Ice-Dammed River and Catastrophic Outburst**\n    A river is blocked by a translucent ice dam, forming a growing lake upstream; as water pressure builds, cracks glow and widen in the ice until the dam fails, releasing a surge that erodes the downstream channel, strips banks, and deposits a thick sediment wedge.\n\n15. **Urban Riverbank Stabilization vs. Natural Erosion**\n    A city river stretch has one bank armored with gray blocks (riprap) and the other left natural; during base flow and simulated flood pulses, water erodes the natural bank (vegetation and soil detach and slump), while armored blocks occasionally loosen and slide.\n\n16. **Suspended Load Cloud and Turbidity Plume**\n    A river carrying a brownish suspended sediment cloud enters a clearer main stem or lake, with particles slowly settling and forming a wedge-shaped deposit; turbidity gradients are shown by changing water color and labeled transparency zones.\n\n17. **Vegetation’s Role in Riverbank Protection**\n    Two parallel channels flow through identical soils, but one bank is anchored with rooted plant models; roots attach to soil particles, reducing their detachment when hit by water, while unrooted banks erode faster, visibly changing cross-sectional profiles.\n\n18. **River Network Evolution from Random Raindrops**\n    A flat surface receives random raindrop impacts that create small pits and micro-channels; runoff flows downslope, merging into branching tributaries that carve a dendritic drainage network, with glowing lines tracing the evolving river tree.\n\n19. **Tidal River Mouth and Estuary Erosion**\n    A river meets the ocean in an estuary where rising and falling water levels (animated surface plane) reverse flow direction; tidal currents alternately erode and deposit sediments in the channel and on tidal flats, reshaping sandbars and channel depth.\n\n20. **Cross-Sectional Channel Shape Adjustment**\n    A 3D slice of a river cross-section shows water shear stress along the bed and banks; faster zones erode, widening and deepening the channel, while slower inner zones accumulate sediment, changing the cross-section from narrow/deep to wide/shallow or vice versa.\n\n21. **Meander Migration Time-Lapse with Bank Markers**\n    A plan-view river channel with evenly spaced bank markers shows successive positions of the banks as the river migrates laterally, eroding outer bends and depositing on inner bends, leaving behind color-coded “ghost” outlines of former channel positions.\n\n22. **Permafrost River Erosion and Thermokarst Slumps**\n    A cold-region river cuts into frozen, ice-rich banks; as warmer water and air melt ground ice, sections slump as large rotating blocks, slide into the channel, and melt into muddy flows that mix with the river and increase sediment load.\n\n23. **River Terrace Formation Through Fluctuating Base Level**\n    A river responds to alternating periods of incision and aggradation, carving down and then partially filling its valley; multiple stepped terraces form on both sides, with each terrace surface labeled by age and shown as a distinct color band.\n\n24. **River Confluence and Mixing of Two Erosive Streams**\n    Two differently colored rivers (e.g., clear blue and sediment-laden brown) meet at a confluence, where their flows collide, wrap around each other, and mix; enhanced turbulence erodes the bed and banks at the junction, deepening the confluence zone.\n\n25. **Symbolic “River of Time” Eroding Events**\n    A glowing, transparent river of light flows past 3D labeled “memory” blocks on its banks; as time passes, some blocks slowly erode, dissolve, and drift into the stream, while others strengthen and grow roots into the ground, visualizing selective erosion of events."
+}

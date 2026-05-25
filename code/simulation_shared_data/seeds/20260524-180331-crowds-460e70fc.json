@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Crowds",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:03:31",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Pedestrian Flow Through a City Plaza",
+      "description": "Simulate hundreds of small spheres representing people moving across a flat plaza with a few box buildings, where agents avoid collisions, form temporary clusters, leave faint motion trails, and gather around labeled points of interest like a fountain or street performer.",
+      "seed": "Pedestrian Flow Through a City Plaza: Simulate hundreds of small spheres representing people moving across a flat plaza with a few box buildings, where agents avoid collisions, form temporary clusters, leave faint motion trails, and gather around labeled points of interest like a fountain or street performer."
+    },
+    {
+      "number": "2",
+      "title": "Evacuation of a Stadium",
+      "description": "Model a bowl-shaped stadium with fixed tiered seats and exits, where colored crowd particles stand up, move down aisles, queue at stairwells, and flow through narrow doorways, with overhead counters and heatmap-style floor coloring to show congestion.",
+      "seed": "Evacuation of a Stadium: Model a bowl-shaped stadium with fixed tiered seats and exits, where colored crowd particles stand up, move down aisles, queue at stairwells, and flow through narrow doorways, with overhead counters and heatmap-style floor coloring to show congestion."
+    },
+    {
+      "number": "3",
+      "title": "Subway Platform Boarding Dynamics",
+      "description": "Represent a long rectangular platform with a transparent train arriving and doors opening, as crowd agents cluster, rush, and jostle to enter, some bouncing off closed doors, with labels above showing passenger counts per car.",
+      "seed": "Subway Platform Boarding Dynamics: Represent a long rectangular platform with a transparent train arriving and doors opening, as crowd agents cluster, rush, and jostle to enter, some bouncing off closed doors, with labels above showing passenger counts per car."
+    },
+    {
+      "number": "4",
+      "title": "Crosswalk Crowd and Car Interaction",
+      "description": "Show a city intersection with traffic lights controlling both rectangular vehicles and pedestrian agents, where crowds accumulate at corners, stream across when the light turns, and cars stop, start, and occasionally near-collide with pedestrians who step out late.",
+      "seed": "Crosswalk Crowd and Car Interaction: Show a city intersection with traffic lights controlling both rectangular vehicles and pedestrian agents, where crowds accumulate at corners, stream across when the light turns, and cars stop, start, and occasionally near-collide with pedestrians who step out late."
+    },
+    {
+      "number": "5",
+      "title": "Mosh Pit Particle Swarm",
+      "description": "In a flat concert floor with a simple stage, crowd particles near the stage pulse, collide, and bounce more erratically, while outer-ring agents sway gently, with color intensity and slight vertical bobbing increasing near the “music source.”",
+      "seed": "Mosh Pit Particle Swarm: In a flat concert floor with a simple stage, crowd particles near the stage pulse, collide, and bounce more erratically, while outer-ring agents sway gently, with color intensity and slight vertical bobbing increasing near the “music source.”"
+    },
+    {
+      "number": "6",
+      "title": "Microscopic Cell Crowd in a Capillary",
+      "description": "Visualize red and white blood cells as deformable spheres crowding through a semi-transparent tube, occasionally colliding, sticking to vessel walls, or squeezing past each other, with flow speed shown by colored arrows along the capillary.",
+      "seed": "Microscopic Cell Crowd in a Capillary: Visualize red and white blood cells as deformable spheres crowding through a semi-transparent tube, occasionally colliding, sticking to vessel walls, or squeezing past each other, with flow speed shown by colored arrows along the capillary."
+    },
+    {
+      "number": "7",
+      "title": "Bird Flock Crowding Around a Feeder",
+      "description": "Simulate many bird-like triangular prisms flocking in 3D space to a central feeder object, where they avoid each other, perch on rods, detach and rejoin the flock, leaving light trails that show swirling crowd patterns.",
+      "seed": "Bird Flock Crowding Around a Feeder: Simulate many bird-like triangular prisms flocking in 3D space to a central feeder object, where they avoid each other, perch on rods, detach and rejoin the flock, leaving light trails that show swirling crowd patterns."
+    },
+    {
+      "number": "8",
+      "title": "Fish School Avoiding a Predator",
+      "description": "Render a 3D tank with a school of small fish particles crowding together and dynamically splitting and merging as a larger predator object approaches, with density-based coloring and labels showing “school tightness” over time.",
+      "seed": "Fish School Avoiding a Predator: Render a 3D tank with a school of small fish particles crowding together and dynamically splitting and merging as a larger predator object approaches, with density-based coloring and labels showing “school tightness” over time."
+    },
+    {
+      "number": "9",
+      "title": "Queue Crowding at Airport Security",
+      "description": "Model multiple snaking queues made of small humanoid cylinders with luggage boxes, where agents attach to the end of lines, shuffle forward, sometimes switch to shorter queues, and pass through a scanner gate that changes their color to “cleared.”",
+      "seed": "Queue Crowding at Airport Security: Model multiple snaking queues made of small humanoid cylinders with luggage boxes, where agents attach to the end of lines, shuffle forward, sometimes switch to shorter queues, and pass through a scanner gate that changes their color to “cleared.”"
+    },
+    {
+      "number": "10",
+      "title": "Crowd Waves in a Sports Arena",
+      "description": "Create a circular arena of fixed seat positions populated with small cheering sprites that stand (rise) and sit (lower) in propagating waves, with glowing arcs tracking the wave front and labels indicating wave speed and direction.",
+      "seed": "Crowd Waves in a Sports Arena: Create a circular arena of fixed seat positions populated with small cheering sprites that stand (rise) and sit (lower) in propagating waves, with glowing arcs tracking the wave front and labels indicating wave speed and direction."
+    },
+    {
+      "number": "11",
+      "title": "Market Square Crowd Around Vendors",
+      "description": "Show a square with several vendor stalls as stationary boxes, where crowd particles drift, cluster densely near popular stalls, detach to wander or exit, and leave subtle footprints on the ground marking high-traffic zones.",
+      "seed": "Market Square Crowd Around Vendors: Show a square with several vendor stalls as stationary boxes, where crowd particles drift, cluster densely near popular stalls, detach to wander or exit, and leave subtle footprints on the ground marking high-traffic zones."
+    },
+    {
+      "number": "12",
+      "title": "Ant Colony Crowding Along Trails",
+      "description": "Visualize ants as small moving dots leaving semi-transparent pheromone trails between the nest and food, with trail intensity increasing where ants crowd, and branch trails forming, fading, and merging as food sources deplete.",
+      "seed": "Ant Colony Crowding Along Trails: Visualize ants as small moving dots leaving semi-transparent pheromone trails between the nest and food, with trail intensity increasing where ants crowd, and branch trails forming, fading, and merging as food sources deplete."
+    },
+    {
+      "number": "13",
+      "title": "Molecular Crowd in a Confined Chamber",
+      "description": "Simulate gas molecules as bouncing spheres in a box that is slowly compressed, causing rising collision rates and crowding at the walls, with a pressure gauge label and color shifts indicating kinetic energy and local density.",
+      "seed": "Molecular Crowd in a Confined Chamber: Simulate gas molecules as bouncing spheres in a box that is slowly compressed, causing rising collision rates and crowding at the walls, with a pressure gauge label and color shifts indicating kinetic energy and local density."
+    },
+    {
+      "number": "14",
+      "title": "Concert Hall Entry Bottleneck",
+      "description": "Represent a large open field narrowing into a few gate openings, with crowd agents flowing toward entrances, forming irregular dense clusters, bouncing off barriers, and being counted by overhead sensors that display throughput metrics.",
+      "seed": "Concert Hall Entry Bottleneck: Represent a large open field narrowing into a few gate openings, with crowd agents flowing toward entrances, forming irregular dense clusters, bouncing off barriers, and being counted by overhead sensors that display throughput metrics."
+    },
+    {
+      "number": "15",
+      "title": "Crowded Escalators and Stairs in a Mall",
+      "description": "Model a multi-level mall atrium with moving escalator steps, static stairs, and wandering shoppers that choose paths, jam at escalator entrances, stand in lanes, and occasionally reverse direction, with transparent railings and labels for each floor.",
+      "seed": "Crowded Escalators and Stairs in a Mall: Model a multi-level mall atrium with moving escalator steps, static stairs, and wandering shoppers that choose paths, jam at escalator entrances, stand in lanes, and occasionally reverse direction, with transparent railings and labels for each floor."
+    },
+    {
+      "number": "16",
+      "title": "Robot Swarm Crowding Around Charging Stations",
+      "description": "In a warehouse-like arena, small mobile robots with battery meters navigate around shelves and crowd near limited charging docks, attaching to docking ports, queuing when docks are full, and color-shifting from red (low power) to green as they charge.",
+      "seed": "Robot Swarm Crowding Around Charging Stations: In a warehouse-like arena, small mobile robots with battery meters navigate around shelves and crowd near limited charging docks, attaching to docking ports, queuing when docks are full, and color-shifting from red (low power) to green as they charge."
+    },
+    {
+      "number": "17",
+      "title": "Traffic Crowd on a Multi-Lane Highway",
+      "description": "Simulate colored car boxes moving along several lanes, forming dense clusters, stop-and-go waves, and lane changes, with an overhead view showing density bands and a side graph plotting vehicle count per segment.",
+      "seed": "Traffic Crowd on a Multi-Lane Highway: Simulate colored car boxes moving along several lanes, forming dense clusters, stop-and-go waves, and lane changes, with an overhead view showing density bands and a side graph plotting vehicle count per segment."
+    },
+    {
+      "number": "18",
+      "title": "Protest March Through City Streets",
+      "description": "Show a simple street grid with building blocks and a marching crowd mass that follows a route, splits at intersections, surrounds a central square, and interacts with stationary barriers and small differently colored police units.",
+      "seed": "Protest March Through City Streets: Show a simple street grid with building blocks and a marching crowd mass that follows a route, splits at intersections, surrounds a central square, and interacts with stationary barriers and small differently colored police units."
+    },
+    {
+      "number": "19",
+      "title": "Crowding at a Theme Park Ride Entrance",
+      "description": "Model an attraction entrance with a serpentine queue, fast-pass lane, and open plaza, where agents choose lanes, bunch near the entry gate, merge streams, and pass through turnstiles that count and color them as they board.",
+      "seed": "Crowding at a Theme Park Ride Entrance: Model an attraction entrance with a serpentine queue, fast-pass lane, and open plaza, where agents choose lanes, bunch near the entry gate, merge streams, and pass through turnstiles that count and color them as they board."
+    },
+    {
+      "number": "20",
+      "title": "Particles Crowding a Black Hole Accretion Disk",
+      "description": "Visualize a central dark sphere (black hole) with a glowing disk of orbiting particles that crowd closer and accelerate as they spiral inward, occasionally colliding, merging, and emitting bright flares that leave fading radial streaks.",
+      "seed": "Particles Crowding a Black Hole Accretion Disk: Visualize a central dark sphere (black hole) with a glowing disk of orbiting particles that crowd closer and accelerate as they spiral inward, occasionally colliding, merging, and emitting bright flares that leave fading radial streaks."
+    },
+    {
+      "number": "21",
+      "title": "Crowded Elevator System in a High-Rise",
+      "description": "Create a building cross-section with multiple shafts and floors, where small person-agents wait at floors, enter and exit elevators, crowd inside cars to capacity, and trigger car routing with labels showing current load and wait times.",
+      "seed": "Crowded Elevator System in a High-Rise: Create a building cross-section with multiple shafts and floors, where small person-agents wait at floors, enter and exit elevators, crowd inside cars to capacity, and trigger car routing with labels showing current load and wait times."
+    },
+    {
+      "number": "22",
+      "title": "Swarm of Drones Over a Disaster Zone",
+      "description": "Simulate many aerial drones scanning a ground grid, avoiding collisions while crowding around high-interest zones, dropping colored marker particles onto detected sites, and exchanging data via glowing lines when they come close.",
+      "seed": "Swarm of Drones Over a Disaster Zone: Simulate many aerial drones scanning a ground grid, avoiding collisions while crowding around high-interest zones, dropping colored marker particles onto detected sites, and exchanging data via glowing lines when they come close."
+    },
+    {
+      "number": "23",
+      "title": "Crowding of Boats at a Harbor Entrance",
+      "description": "Show a sea plane with a narrow harbor mouth, where boat objects approach from open water, slow down, queue, and sometimes collide or reroute, leaving wakes as trails and forming dense packs near the entrance.",
+      "seed": "Crowding of Boats at a Harbor Entrance: Show a sea plane with a narrow harbor mouth, where boat objects approach from open water, slow down, queue, and sometimes collide or reroute, leaving wakes as trails and forming dense packs near the entrance."
+    },
+    {
+      "number": "24",
+      "title": "Bee Crowd at a Hive Entrance",
+      "description": "Render a hive box with a small entrance where bee particles fly in arcs, crowd the opening, bounce off each other, land on the surface, and then enter, with pollen-carrying bees marked by a different color and simple counters for inbound/outbound flows.",
+      "seed": "Bee Crowd at a Hive Entrance: Render a hive box with a small entrance where bee particles fly in arcs, crowd the opening, bounce off each other, land on the surface, and then enter, with pollen-carrying bees marked by a different color and simple counters for inbound/outbound flows."
+    },
+    {
+      "number": "25",
+      "title": "Data Packets Crowding Network Nodes",
+      "description": "Visualize a network of labeled nodes connected by semi-transparent edges, with packet spheres flowing along edges, crowding and queuing at busy routers, splitting and merging flows, and changing color based on delay or congestion level.",
+      "seed": "Data Packets Crowding Network Nodes: Visualize a network of labeled nodes connected by semi-transparent edges, with packet spheres flowing along edges, crowding and queuing at busy routers, splitting and merging flows, and changing color based on delay or congestion level."
+    }
+  ],
+  "raw_output": "Here are strong **Crowds simulation inputs** you can plug into your prompt:\n\n1. **Pedestrian Flow Through a City Plaza**\n   Simulate hundreds of small spheres representing people moving across a flat plaza with a few box buildings, where agents avoid collisions, form temporary clusters, leave faint motion trails, and gather around labeled points of interest like a fountain or street performer.\n\n2. **Evacuation of a Stadium**\n   Model a bowl-shaped stadium with fixed tiered seats and exits, where colored crowd particles stand up, move down aisles, queue at stairwells, and flow through narrow doorways, with overhead counters and heatmap-style floor coloring to show congestion.\n\n3. **Subway Platform Boarding Dynamics**\n   Represent a long rectangular platform with a transparent train arriving and doors opening, as crowd agents cluster, rush, and jostle to enter, some bouncing off closed doors, with labels above showing passenger counts per car.\n\n4. **Crosswalk Crowd and Car Interaction**\n   Show a city intersection with traffic lights controlling both rectangular vehicles and pedestrian agents, where crowds accumulate at corners, stream across when the light turns, and cars stop, start, and occasionally near-collide with pedestrians who step out late.\n\n5. **Mosh Pit Particle Swarm**\n   In a flat concert floor with a simple stage, crowd particles near the stage pulse, collide, and bounce more erratically, while outer-ring agents sway gently, with color intensity and slight vertical bobbing increasing near the “music source.”\n\n6. **Microscopic Cell Crowd in a Capillary**\n   Visualize red and white blood cells as deformable spheres crowding through a semi-transparent tube, occasionally colliding, sticking to vessel walls, or squeezing past each other, with flow speed shown by colored arrows along the capillary.\n\n7. **Bird Flock Crowding Around a Feeder**\n   Simulate many bird-like triangular prisms flocking in 3D space to a central feeder object, where they avoid each other, perch on rods, detach and rejoin the flock, leaving light trails that show swirling crowd patterns.\n\n8. **Fish School Avoiding a Predator**\n   Render a 3D tank with a school of small fish particles crowding together and dynamically splitting and merging as a larger predator object approaches, with density-based coloring and labels showing “school tightness” over time.\n\n9. **Queue Crowding at Airport Security**\n   Model multiple snaking queues made of small humanoid cylinders with luggage boxes, where agents attach to the end of lines, shuffle forward, sometimes switch to shorter queues, and pass through a scanner gate that changes their color to “cleared.”\n\n10. **Crowd Waves in a Sports Arena**\n    Create a circular arena of fixed seat positions populated with small cheering sprites that stand (rise) and sit (lower) in propagating waves, with glowing arcs tracking the wave front and labels indicating wave speed and direction.\n\n11. **Market Square Crowd Around Vendors**\n    Show a square with several vendor stalls as stationary boxes, where crowd particles drift, cluster densely near popular stalls, detach to wander or exit, and leave subtle footprints on the ground marking high-traffic zones.\n\n12. **Ant Colony Crowding Along Trails**\n    Visualize ants as small moving dots leaving semi-transparent pheromone trails between the nest and food, with trail intensity increasing where ants crowd, and branch trails forming, fading, and merging as food sources deplete.\n\n13. **Molecular Crowd in a Confined Chamber**\n    Simulate gas molecules as bouncing spheres in a box that is slowly compressed, causing rising collision rates and crowding at the walls, with a pressure gauge label and color shifts indicating kinetic energy and local density.\n\n14. **Concert Hall Entry Bottleneck**\n    Represent a large open field narrowing into a few gate openings, with crowd agents flowing toward entrances, forming irregular dense clusters, bouncing off barriers, and being counted by overhead sensors that display throughput metrics.\n\n15. **Crowded Escalators and Stairs in a Mall**\n    Model a multi-level mall atrium with moving escalator steps, static stairs, and wandering shoppers that choose paths, jam at escalator entrances, stand in lanes, and occasionally reverse direction, with transparent railings and labels for each floor.\n\n16. **Robot Swarm Crowding Around Charging Stations**\n    In a warehouse-like arena, small mobile robots with battery meters navigate around shelves and crowd near limited charging docks, attaching to docking ports, queuing when docks are full, and color-shifting from red (low power) to green as they charge.\n\n17. **Traffic Crowd on a Multi-Lane Highway**\n    Simulate colored car boxes moving along several lanes, forming dense clusters, stop-and-go waves, and lane changes, with an overhead view showing density bands and a side graph plotting vehicle count per segment.\n\n18. **Protest March Through City Streets**\n    Show a simple street grid with building blocks and a marching crowd mass that follows a route, splits at intersections, surrounds a central square, and interacts with stationary barriers and small differently colored police units.\n\n19. **Crowding at a Theme Park Ride Entrance**\n    Model an attraction entrance with a serpentine queue, fast-pass lane, and open plaza, where agents choose lanes, bunch near the entry gate, merge streams, and pass through turnstiles that count and color them as they board.\n\n20. **Particles Crowding a Black Hole Accretion Disk**\n    Visualize a central dark sphere (black hole) with a glowing disk of orbiting particles that crowd closer and accelerate as they spiral inward, occasionally colliding, merging, and emitting bright flares that leave fading radial streaks.\n\n21. **Crowded Elevator System in a High-Rise**\n    Create a building cross-section with multiple shafts and floors, where small person-agents wait at floors, enter and exit elevators, crowd inside cars to capacity, and trigger car routing with labels showing current load and wait times.\n\n22. **Swarm of Drones Over a Disaster Zone**\n    Simulate many aerial drones scanning a ground grid, avoiding collisions while crowding around high-interest zones, dropping colored marker particles onto detected sites, and exchanging data via glowing lines when they come close.\n\n23. **Crowding of Boats at a Harbor Entrance**\n    Show a sea plane with a narrow harbor mouth, where boat objects approach from open water, slow down, queue, and sometimes collide or reroute, leaving wakes as trails and forming dense packs near the entrance.\n\n24. **Bee Crowd at a Hive Entrance**\n    Render a hive box with a small entrance where bee particles fly in arcs, crowd the opening, bounce off each other, land on the surface, and then enter, with pollen-carrying bees marked by a different color and simple counters for inbound/outbound flows.\n\n25. **Data Packets Crowding Network Nodes**\n    Visualize a network of labeled nodes connected by semi-transparent edges, with packet spheres flowing along edges, crowding and queuing at busy routers, splitting and merging flows, and changing color based on delay or congestion level."
+}

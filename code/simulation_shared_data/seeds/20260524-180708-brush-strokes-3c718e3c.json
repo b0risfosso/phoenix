@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Brush strokes",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:07:08",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Floating Paintbrushes Painting in Midair",
+      "description": "Several floating paintbrush objects sweep through a light 3D space, leaving semi-transparent colored stroke ribbons that curve, intersect, fade over time, and gently collide with invisible walls that bend their paths.",
+      "seed": "Floating Paintbrushes Painting in Midair: Several floating paintbrush objects sweep through a light 3D space, leaving semi-transparent colored stroke ribbons that curve, intersect, fade over time, and gently collide with invisible walls that bend their paths."
+    },
+    {
+      "number": "2",
+      "title": "Robotic Arms Painting a 3D Canvas",
+      "description": "Two or three articulated robotic arms with brush tips move around a standing rectangular canvas, dipping into hovering paint orbs and applying layered strokes that drip, mix, and dry while a side panel shows color usage bars.",
+      "seed": "Robotic Arms Painting a 3D Canvas: Two or three articulated robotic arms with brush tips move around a standing rectangular canvas, dipping into hovering paint orbs and applying layered strokes that drip, mix, and dry while a side panel shows color usage bars."
+    },
+    {
+      "number": "3",
+      "title": "Wind-Driven Brush Stroke Stream",
+      "description": "A single anchored brush at the origin emits continuous ribbon-like strokes that stretch and flutter as a variable wind field blows through the scene, with particles tracing airflow and color gradients showing stroke age.",
+      "seed": "Wind-Driven Brush Stroke Stream: A single anchored brush at the origin emits continuous ribbon-like strokes that stretch and flutter as a variable wind field blows through the scene, with particles tracing airflow and color gradients showing stroke age."
+    },
+    {
+      "number": "4",
+      "title": "Orbital Brushes Around a Sculpture",
+      "description": "Multiple small brush satellites orbit a central 3D statue, periodically swooping in to apply curved strokes that wrap around the surface, with strokes sticking, sliding, or flaking off depending on impact speed.",
+      "seed": "Orbital Brushes Around a Sculpture: Multiple small brush satellites orbit a central 3D statue, periodically swooping in to apply curved strokes that wrap around the surface, with strokes sticking, sliding, or flaking off depending on impact speed."
+    },
+    {
+      "number": "5",
+      "title": "Microscopic Brush Stroke Nanobots",
+      "description": "Dozens of nanobot “brushes” roam a transparent cube of fluid, each leaving thin, glowing trails that branch, split, and merge as they respond to chemical gradients visualized as color-tinted fog.",
+      "seed": "Microscopic Brush Stroke Nanobots: Dozens of nanobot “brushes” roam a transparent cube of fluid, each leaving thin, glowing trails that branch, split, and merge as they respond to chemical gradients visualized as color-tinted fog."
+    },
+    {
+      "number": "6",
+      "title": "Calligraphy Strokes on a Floating Scroll",
+      "description": "A long, slowly unrolling parchment scroll drifts through space while an invisible calligraphy brush draws bold black strokes that pulse, thicken on curves, and fade to gray as the scroll advances.",
+      "seed": "Calligraphy Strokes on a Floating Scroll: A long, slowly unrolling parchment scroll drifts through space while an invisible calligraphy brush draws bold black strokes that pulse, thicken on curves, and fade to gray as the scroll advances."
+    },
+    {
+      "number": "7",
+      "title": "Paint Splash and Stroke Collision Lab",
+      "description": "Spherical blobs of paint launch from one side of the scene toward a hovering brush that swipes them into elongated strokes on a transparent plane; strokes can overlap, blend colors, or bounce off if impact angle is too shallow.",
+      "seed": "Paint Splash and Stroke Collision Lab: Spherical blobs of paint launch from one side of the scene toward a hovering brush that swipes them into elongated strokes on a transparent plane; strokes can overlap, blend colors, or bounce off if impact angle is too shallow."
+    },
+    {
+      "number": "8",
+      "title": "3D Graffiti Stroke Simulator on a Rotating Wall",
+      "description": "A large, slowly rotating cube face acts as a wall while a spray-brush tool moves along scripted paths, spraying colored particles that condense into thick strokes, drip downward under gravity, and leave mist halos.",
+      "seed": "3D Graffiti Stroke Simulator on a Rotating Wall: A large, slowly rotating cube face acts as a wall while a spray-brush tool moves along scripted paths, spraying colored particles that condense into thick strokes, drip downward under gravity, and leave mist halos."
+    },
+    {
+      "number": "9",
+      "title": "Brush Strokes as Flow Field Lines",
+      "description": "A 3D vector field is represented by flowing brush-like ribbons that originate at seeded points, curve along field lines, change color with speed, and leave fading trails that reveal turbulent versus calm regions.",
+      "seed": "Brush Strokes as Flow Field Lines: A 3D vector field is represented by flowing brush-like ribbons that originate at seeded points, curve along field lines, change color with speed, and leave fading trails that reveal turbulent versus calm regions."
+    },
+    {
+      "number": "10",
+      "title": "Brush Painting a Moving Cloth Banner",
+      "description": "A waving cloth sheet is suspended from two poles while a flying brush tracks across it, leaving strokes that stretch, wrinkle, and distort along with the cloth mesh, with paint saturation shown as opacity.",
+      "seed": "Brush Painting a Moving Cloth Banner: A waving cloth sheet is suspended from two poles while a flying brush tracks across it, leaving strokes that stretch, wrinkle, and distort along with the cloth mesh, with paint saturation shown as opacity."
+    },
+    {
+      "number": "11",
+      "title": "Planetary-Scale Brush Strokes on a Globe",
+      "description": "A rotating Earth-like sphere is gradually covered by orbiting brush probes that paint wide strokes representing ocean currents or climate bands, with older strokes fading and new ones overlaying in lighter tints.",
+      "seed": "Planetary-Scale Brush Strokes on a Globe: A rotating Earth-like sphere is gradually covered by orbiting brush probes that paint wide strokes representing ocean currents or climate bands, with older strokes fading and new ones overlaying in lighter tints."
+    },
+    {
+      "number": "12",
+      "title": "Ink Brush Strokes Spreading in Water",
+      "description": "A brush at the top of a transparent tank periodically dips into it, releasing dark ink strokes that descend, curl, and dissolve into particle clouds that diffuse and mix with other colors in the tank.",
+      "seed": "Ink Brush Strokes Spreading in Water: A brush at the top of a transparent tank periodically dips into it, releasing dark ink strokes that descend, curl, and dissolve into particle clouds that diffuse and mix with other colors in the tank."
+    },
+    {
+      "number": "13",
+      "title": "Collaborative Brushes Painting a 3D Logo",
+      "description": "Several brushes with different colors and sizes coordinate to paint a floating 3D logo outline, each following its path, avoiding collisions, handing off segments, and leaving strokes that snap into place when completed.",
+      "seed": "Collaborative Brushes Painting a 3D Logo: Several brushes with different colors and sizes coordinate to paint a floating 3D logo outline, each following its path, avoiding collisions, handing off segments, and leaving strokes that snap into place when completed."
+    },
+    {
+      "number": "14",
+      "title": "Musical Brush Strokes Responding to Sound",
+      "description": "Invisible speakers around the scene emit sound waves that cause brush-like beams to pulse, thicken, and trace arcs in 3D; stroke color and length map to frequency and volume, with labels for live audio levels.",
+      "seed": "Musical Brush Strokes Responding to Sound: Invisible speakers around the scene emit sound waves that cause brush-like beams to pulse, thicken, and trace arcs in 3D; stroke color and length map to frequency and volume, with labels for live audio levels."
+    },
+    {
+      "number": "15",
+      "title": "Brush Stroke Pendulums",
+      "description": "Paintbrushes attached to long rods swing like pendulums above a flat canvas, dripping paint that creates overlapping stroke arcs; users can change gravity or push a brush to see new intersecting patterns.",
+      "seed": "Brush Stroke Pendulums: Paintbrushes attached to long rods swing like pendulums above a flat canvas, dripping paint that creates overlapping stroke arcs; users can change gravity or push a brush to see new intersecting patterns."
+    },
+    {
+      "number": "16",
+      "title": "Brush Strokes as Growing Vines on a Tree",
+      "description": "A bare 3D tree trunk stands in the center while brush strokes emerge from its base like vines, wrapping and spiraling up branches, splitting and re-merging, with leaf particles sprouting along stroke paths.",
+      "seed": "Brush Strokes as Growing Vines on a Tree: A bare 3D tree trunk stands in the center while brush strokes emerge from its base like vines, wrapping and spiraling up branches, splitting and re-merging, with leaf particles sprouting along stroke paths."
+    },
+    {
+      "number": "17",
+      "title": "Robotic Floor Painter with Overlapping Strokes",
+      "description": "A small wheeled robot carries a downward-facing brush that moves on a flat white floor, leaving strokes along its path; it avoids obstacles, re-traces some routes with new colors, and a top-down mini-map shows the resulting pattern.",
+      "seed": "Robotic Floor Painter with Overlapping Strokes: A small wheeled robot carries a downward-facing brush that moves on a flat white floor, leaving strokes along its path; it avoids obstacles, re-traces some routes with new colors, and a top-down mini-map shows the resulting pattern."
+    },
+    {
+      "number": "18",
+      "title": "Brush Strokes Drawing Constellations in Space",
+      "description": "Stars are fixed points in a transparent sphere while a glowing brush connects them with smooth strokes to form constellations, with existing lines slowly drifting outward and dissolving as new patterns are drawn.",
+      "seed": "Brush Strokes Drawing Constellations in Space: Stars are fixed points in a transparent sphere while a glowing brush connects them with smooth strokes to form constellations, with existing lines slowly drifting outward and dissolving as new patterns are drawn."
+    },
+    {
+      "number": "19",
+      "title": "Brush Stroke Printer Head",
+      "description": "A 3D printer-like gantry moves a brush head over a vertical panel, “printing” an image as horizontal passes of strokes that slightly wobble, overlap, and blend; a side meter shows progress and ink levels.",
+      "seed": "Brush Stroke Printer Head: A 3D printer-like gantry moves a brush head over a vertical panel, “printing” an image as horizontal passes of strokes that slightly wobble, overlap, and blend; a side meter shows progress and ink levels."
+    },
+    {
+      "number": "20",
+      "title": "Brush Strokes as Crowd Movement Trails",
+      "description": "Small spheres representing people move through a plaza, each leaving a colorful brush-like trail that curves, intersects, and fades; crowd density is shown by thicker, more opaque strokes accumulating in busy areas.",
+      "seed": "Brush Strokes as Crowd Movement Trails: Small spheres representing people move through a plaza, each leaving a colorful brush-like trail that curves, intersects, and fades; crowd density is shown by thicker, more opaque strokes accumulating in busy areas."
+    },
+    {
+      "number": "21",
+      "title": "Brush Painting on Rotating 3D Shapes",
+      "description": "A central rotating set of simple solids (cube, sphere, cylinder) pass in front of a fixed brush that paints strokes across their surfaces; as shapes rotate, strokes wrap around edges, stretch, and occasionally chip off as flakes.",
+      "seed": "Brush Painting on Rotating 3D Shapes: A central rotating set of simple solids (cube, sphere, cylinder) pass in front of a fixed brush that paints strokes across their surfaces; as shapes rotate, strokes wrap around edges, stretch, and occasionally chip off as flakes."
+    },
+    {
+      "number": "22",
+      "title": "Brush Stroke Fireworks in the Sky",
+      "description": "Firework shells launch upward and explode into dozens of brush-tipped particles that streak outward, leaving curved, glowing strokes that arc under gravity, change color at peak height, and fade into sparks.",
+      "seed": "Brush Stroke Fireworks in the Sky: Firework shells launch upward and explode into dozens of brush-tipped particles that streak outward, leaving curved, glowing strokes that arc under gravity, change color at peak height, and fade into sparks."
+    },
+    {
+      "number": "23",
+      "title": "Brush Strokes Carving Through Mist",
+      "description": "A dense, light-colored fog fills the scene while a large brush sweeps through it, leaving clear stroke tunnels that slowly refill with mist; particles show fog flow back into the cleared regions.",
+      "seed": "Brush Strokes Carving Through Mist: A dense, light-colored fog fills the scene while a large brush sweeps through it, leaving clear stroke tunnels that slowly refill with mist; particles show fog flow back into the cleared regions."
+    },
+    {
+      "number": "24",
+      "title": "Brush Strokes as Data Pathways in a Network",
+      "description": "Floating nodes in 3D are connected over time by animated brush strokes representing data flows; strokes thicken with traffic, pulse when overloaded, and split or reroute when nodes detach or fail.",
+      "seed": "Brush Strokes as Data Pathways in a Network: Floating nodes in 3D are connected over time by animated brush strokes representing data flows; strokes thicken with traffic, pulse when overloaded, and split or reroute when nodes detach or fail."
+    },
+    {
+      "number": "25",
+      "title": "Brush Stroke Waves on a Water Surface",
+      "description": "A flat, light-blue water plane reflects a hovering brush that taps and drags along the surface, generating waves that radiate outward as brush-colored strokes, intersecting, mixing, and fading as they travel.",
+      "seed": "Brush Stroke Waves on a Water Surface: A flat, light-blue water plane reflects a hovering brush that taps and drags along the surface, generating waves that radiate outward as brush-colored strokes, intersecting, mixing, and fading as they travel."
+    }
+  ],
+  "raw_output": "Here are strong **Brush strokes simulation inputs** you can plug into your prompt:\n\n1. **Floating Paintbrushes Painting in Midair**\n   Several floating paintbrush objects sweep through a light 3D space, leaving semi-transparent colored stroke ribbons that curve, intersect, fade over time, and gently collide with invisible walls that bend their paths.\n\n2. **Robotic Arms Painting a 3D Canvas**\n   Two or three articulated robotic arms with brush tips move around a standing rectangular canvas, dipping into hovering paint orbs and applying layered strokes that drip, mix, and dry while a side panel shows color usage bars.\n\n3. **Wind-Driven Brush Stroke Stream**\n   A single anchored brush at the origin emits continuous ribbon-like strokes that stretch and flutter as a variable wind field blows through the scene, with particles tracing airflow and color gradients showing stroke age.\n\n4. **Orbital Brushes Around a Sculpture**\n   Multiple small brush satellites orbit a central 3D statue, periodically swooping in to apply curved strokes that wrap around the surface, with strokes sticking, sliding, or flaking off depending on impact speed.\n\n5. **Microscopic Brush Stroke Nanobots**\n   Dozens of nanobot “brushes” roam a transparent cube of fluid, each leaving thin, glowing trails that branch, split, and merge as they respond to chemical gradients visualized as color-tinted fog.\n\n6. **Calligraphy Strokes on a Floating Scroll**\n   A long, slowly unrolling parchment scroll drifts through space while an invisible calligraphy brush draws bold black strokes that pulse, thicken on curves, and fade to gray as the scroll advances.\n\n7. **Paint Splash and Stroke Collision Lab**\n   Spherical blobs of paint launch from one side of the scene toward a hovering brush that swipes them into elongated strokes on a transparent plane; strokes can overlap, blend colors, or bounce off if impact angle is too shallow.\n\n8. **3D Graffiti Stroke Simulator on a Rotating Wall**\n   A large, slowly rotating cube face acts as a wall while a spray-brush tool moves along scripted paths, spraying colored particles that condense into thick strokes, drip downward under gravity, and leave mist halos.\n\n9. **Brush Strokes as Flow Field Lines**\n   A 3D vector field is represented by flowing brush-like ribbons that originate at seeded points, curve along field lines, change color with speed, and leave fading trails that reveal turbulent versus calm regions.\n\n10. **Brush Painting a Moving Cloth Banner**\n    A waving cloth sheet is suspended from two poles while a flying brush tracks across it, leaving strokes that stretch, wrinkle, and distort along with the cloth mesh, with paint saturation shown as opacity.\n\n11. **Planetary-Scale Brush Strokes on a Globe**\n    A rotating Earth-like sphere is gradually covered by orbiting brush probes that paint wide strokes representing ocean currents or climate bands, with older strokes fading and new ones overlaying in lighter tints.\n\n12. **Ink Brush Strokes Spreading in Water**\n    A brush at the top of a transparent tank periodically dips into it, releasing dark ink strokes that descend, curl, and dissolve into particle clouds that diffuse and mix with other colors in the tank.\n\n13. **Collaborative Brushes Painting a 3D Logo**\n    Several brushes with different colors and sizes coordinate to paint a floating 3D logo outline, each following its path, avoiding collisions, handing off segments, and leaving strokes that snap into place when completed.\n\n14. **Musical Brush Strokes Responding to Sound**\n    Invisible speakers around the scene emit sound waves that cause brush-like beams to pulse, thicken, and trace arcs in 3D; stroke color and length map to frequency and volume, with labels for live audio levels.\n\n15. **Brush Stroke Pendulums**\n    Paintbrushes attached to long rods swing like pendulums above a flat canvas, dripping paint that creates overlapping stroke arcs; users can change gravity or push a brush to see new intersecting patterns.\n\n16. **Brush Strokes as Growing Vines on a Tree**\n    A bare 3D tree trunk stands in the center while brush strokes emerge from its base like vines, wrapping and spiraling up branches, splitting and re-merging, with leaf particles sprouting along stroke paths.\n\n17. **Robotic Floor Painter with Overlapping Strokes**\n    A small wheeled robot carries a downward-facing brush that moves on a flat white floor, leaving strokes along its path; it avoids obstacles, re-traces some routes with new colors, and a top-down mini-map shows the resulting pattern.\n\n18. **Brush Strokes Drawing Constellations in Space**\n    Stars are fixed points in a transparent sphere while a glowing brush connects them with smooth strokes to form constellations, with existing lines slowly drifting outward and dissolving as new patterns are drawn.\n\n19. **Brush Stroke Printer Head**\n    A 3D printer-like gantry moves a brush head over a vertical panel, “printing” an image as horizontal passes of strokes that slightly wobble, overlap, and blend; a side meter shows progress and ink levels.\n\n20. **Brush Strokes as Crowd Movement Trails**\n    Small spheres representing people move through a plaza, each leaving a colorful brush-like trail that curves, intersects, and fades; crowd density is shown by thicker, more opaque strokes accumulating in busy areas.\n\n21. **Brush Painting on Rotating 3D Shapes**\n    A central rotating set of simple solids (cube, sphere, cylinder) pass in front of a fixed brush that paints strokes across their surfaces; as shapes rotate, strokes wrap around edges, stretch, and occasionally chip off as flakes.\n\n22. **Brush Stroke Fireworks in the Sky**\n    Firework shells launch upward and explode into dozens of brush-tipped particles that streak outward, leaving curved, glowing strokes that arc under gravity, change color at peak height, and fade into sparks.\n\n23. **Brush Strokes Carving Through Mist**\n    A dense, light-colored fog fills the scene while a large brush sweeps through it, leaving clear stroke tunnels that slowly refill with mist; particles show fog flow back into the cleared regions.\n\n24. **Brush Strokes as Data Pathways in a Network**\n    Floating nodes in 3D are connected over time by animated brush strokes representing data flows; strokes thicken with traffic, pulse when overloaded, and split or reroute when nodes detach or fail.\n\n25. **Brush Stroke Waves on a Water Surface**\n    A flat, light-blue water plane reflects a hovering brush that taps and drags along the surface, generating waves that radiate outward as brush-colored strokes, intersecting, mixing, and fading as they travel."
+}

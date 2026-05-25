@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Coral reefs",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:49:46",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Fractal Coral Colony Growth",
+      "description": "A 3D scene where branching coral structures slowly grow upward and outward from a rocky seafloor, splitting and thickening over time while labeled nutrient particles float, collide, and attach to coral tips, causing them to glow briefly and extend.",
+      "seed": "Fractal Coral Colony Growth: A 3D scene where branching coral structures slowly grow upward and outward from a rocky seafloor, splitting and thickening over time while labeled nutrient particles float, collide, and attach to coral tips, causing them to glow briefly and extend."
+    },
+    {
+      "number": "2",
+      "title": "Reef Fish School Navigation",
+      "description": "A colorful school of small fish spheres and arrow-shaped bodies weave through a maze of stationary coral blocks and branching tubes, avoiding collisions, leaving short fading trails, and changing direction as a few predator shapes approach and scatter them.",
+      "seed": "Reef Fish School Navigation: A colorful school of small fish spheres and arrow-shaped bodies weave through a maze of stationary coral blocks and branching tubes, avoiding collisions, leaving short fading trails, and changing direction as a few predator shapes approach and scatter them."
+    },
+    {
+      "number": "3",
+      "title": "Symbiotic Coral–Algae Energy Transfer",
+      "description": "Transparent coral skeletons house pulsing green algae particles that orbit within polyps, transferring “energy” along glowing lines to coral branches that change color intensity based on received energy, while a light meter tracks total energy flow.",
+      "seed": "Symbiotic Coral–Algae Energy Transfer: Transparent coral skeletons house pulsing green algae particles that orbit within polyps, transferring “energy” along glowing lines to coral branches that change color intensity based on received energy, while a light meter tracks total energy flow."
+    },
+    {
+      "number": "4",
+      "title": "Coral Bleaching Heat Wave",
+      "description": "A reef scene where rising “water temperature” is shown by a color-coded transparent plane moving upward, causing coral objects to gradually fade from bright colors to white as algae particles detach, drift away, and dissolve into the water.",
+      "seed": "Coral Bleaching Heat Wave: A reef scene where rising “water temperature” is shown by a color-coded transparent plane moving upward, causing coral objects to gradually fade from bright colors to white as algae particles detach, drift away, and dissolve into the water."
+    },
+    {
+      "number": "5",
+      "title": "Wave Surge Over Reef Crest",
+      "description": "A moving semi-transparent blue surface oscillates like waves over a fixed coral ridge, pushing floating debris particles and plankton spheres that tumble, bounce off coral surfaces, and occasionally get trapped in branching structures.",
+      "seed": "Wave Surge Over Reef Crest: A moving semi-transparent blue surface oscillates like waves over a fixed coral ridge, pushing floating debris particles and plankton spheres that tumble, bounce off coral surfaces, and occasionally get trapped in branching structures."
+    },
+    {
+      "number": "6",
+      "title": "Reef Construction by Coral Polyps",
+      "description": "Tiny polyp spheres crawl slowly over a base rock, leaving behind growing solid calcium “tubes” that stack and fuse into complex coral columns, while falling sand grains collide, bounce, or get cemented into the reef structure.",
+      "seed": "Reef Construction by Coral Polyps: Tiny polyp spheres crawl slowly over a base rock, leaving behind growing solid calcium “tubes” that stack and fuse into complex coral columns, while falling sand grains collide, bounce, or get cemented into the reef structure."
+    },
+    {
+      "number": "7",
+      "title": "Nighttime Bioluminescent Reef",
+      "description": "A dim scene with lightly colored background where coral tips and small plankton particles intermittently glow, pulsing with blue-green light when they collide, while a few slow-moving jelly-like transparent blobs drift through and wrap around coral branches.",
+      "seed": "Nighttime Bioluminescent Reef: A dim scene with lightly colored background where coral tips and small plankton particles intermittently glow, pulsing with blue-green light when they collide, while a few slow-moving jelly-like transparent blobs drift through and wrap around coral branches."
+    },
+    {
+      "number": "8",
+      "title": "Predator–Prey Chase in a Coral Maze",
+      "description": "A fast predator shape (e.g., a sleek cone or shark-like object) chases smaller fish spheres through a dense coral forest, with fish darting, bouncing off invisible boundaries, and some “hiding” by hugging close to coral columns that slightly change color when used as cover.",
+      "seed": "Predator–Prey Chase in a Coral Maze: A fast predator shape (e.g., a sleek cone or shark-like object) chases smaller fish spheres through a dense coral forest, with fish darting, bouncing off invisible boundaries, and some “hiding” by hugging close to coral columns that slightly change color when used as cover."
+    },
+    {
+      "number": "9",
+      "title": "Sediment Smothering the Reef",
+      "description": "A cloud of fine, light-colored particles descends from above, slowly settling onto coral surfaces, forming growing sediment layers that reduce coral color intensity, while occasional water pulses detach and re-suspend some particles into the water column.",
+      "seed": "Sediment Smothering the Reef: A cloud of fine, light-colored particles descends from above, slowly settling onto coral surfaces, forming growing sediment layers that reduce coral color intensity, while occasional water pulses detach and re-suspend some particles into the water column."
+    },
+    {
+      "number": "10",
+      "title": "Coral Larvae Dispersal and Settlement",
+      "description": "Tiny glowing larvae particles drift and spiral in gentle currents above a patchy seafloor, leaving faint trails, then slow down, test different surfaces by bouncing lightly, and finally attach to suitable rock spots where they transform into small fixed coral nodes that start to grow.",
+      "seed": "Coral Larvae Dispersal and Settlement: Tiny glowing larvae particles drift and spiral in gentle currents above a patchy seafloor, leaving faint trails, then slow down, test different surfaces by bouncing lightly, and finally attach to suitable rock spots where they transform into small fixed coral nodes that start to grow."
+    },
+    {
+      "number": "11",
+      "title": "Reef Soundscape Visualization",
+      "description": "Stationary coral structures are surrounded by oscillating, semi-transparent spherical “sound shells” emanating from snapping shrimp and fish call sources; these expanding shells intersect corals and fish, causing them to vibrate subtly and shift colors with sound intensity.",
+      "seed": "Reef Soundscape Visualization: Stationary coral structures are surrounded by oscillating, semi-transparent spherical “sound shells” emanating from snapping shrimp and fish call sources; these expanding shells intersect corals and fish, causing them to vibrate subtly and shift colors with sound intensity."
+    },
+    {
+      "number": "12",
+      "title": "Reef Nutrient Cycling Loops",
+      "description": "Color-coded nutrient particles (nitrogen, phosphorus, carbon) move in loops between coral, algae, fish, and bacteria spheres; when particles collide with specific organisms they change color, attach briefly, and then detach toward the next organism in the cycle, with a side diagram tracking total amounts.",
+      "seed": "Reef Nutrient Cycling Loops: Color-coded nutrient particles (nitrogen, phosphorus, carbon) move in loops between coral, algae, fish, and bacteria spheres; when particles collide with specific organisms they change color, attach briefly, and then detach toward the next organism in the cycle, with a side diagram tracking total amounts."
+    },
+    {
+      "number": "13",
+      "title": "Storm Damage and Reef Breakage",
+      "description": "Strong directional wave forces push large debris blocks and logs across the reef, colliding with branching corals that bend, fracture into smaller pieces, and either settle as new rubble mounds or get rolled further, while suspended particles increase in density.",
+      "seed": "Storm Damage and Reef Breakage: Strong directional wave forces push large debris blocks and logs across the reef, colliding with branching corals that bend, fracture into smaller pieces, and either settle as new rubble mounds or get rolled further, while suspended particles increase in density."
+    },
+    {
+      "number": "14",
+      "title": "Coral Reef as a Breakwater",
+      "description": "Incoming waves approach from one side as oscillating planes; when they hit the reef barrier, their height and speed visibly decrease on the far side, with floating boats or buoys bobbing more gently in the sheltered zone, showing the protective effect.",
+      "seed": "Coral Reef as a Breakwater: Incoming waves approach from one side as oscillating planes; when they hit the reef barrier, their height and speed visibly decrease on the far side, with floating boats or buoys bobbing more gently in the sheltered zone, showing the protective effect."
+    },
+    {
+      "number": "15",
+      "title": "Reef Carbonate Chemistry Micro-World",
+      "description": "At microscopic scale, ions (CO₃²⁻, Ca²⁺, H⁺) appear as labeled spheres that collide, merge, and split near a coral skeleton surface, building or dissolving a lattice of small cubes; changes in a pH slider shift the rates of attachment and detachment, visualized by color shifts.",
+      "seed": "Reef Carbonate Chemistry Micro-World: At microscopic scale, ions (CO₃²⁻, Ca²⁺, H⁺) appear as labeled spheres that collide, merge, and split near a coral skeleton surface, building or dissolving a lattice of small cubes; changes in a pH slider shift the rates of attachment and detachment, visualized by color shifts."
+    },
+    {
+      "number": "16",
+      "title": "Competing Coral Species Overgrowth",
+      "description": "Two or three different coral species with distinct colors and growth styles (branching, plating, massive) expand from seed points, spreading, branching, and colliding; when growth fronts meet, one species overgrows or shades the other, shown by fading or shrinking of the loser’s structures.",
+      "seed": "Competing Coral Species Overgrowth: Two or three different coral species with distinct colors and growth styles (branching, plating, massive) expand from seed points, spreading, branching, and colliding; when growth fronts meet, one species overgrows or shades the other, shown by fading or shrinking of the loser’s structures."
+    },
+    {
+      "number": "17",
+      "title": "Reef Cleaning Station Interaction",
+      "description": "Larger “client” fish periodically approach a fixed coral head where smaller cleaner fish orbit closely, detach parasites (small dark spheres) from client surfaces, and carry them to a waste zone where they dissolve, while labels show cleaning duration and number of parasites removed.",
+      "seed": "Reef Cleaning Station Interaction: Larger “client” fish periodically approach a fixed coral head where smaller cleaner fish orbit closely, detach parasites (small dark spheres) from client surfaces, and carry them to a waste zone where they dissolve, while labels show cleaning duration and number of parasites removed."
+    },
+    {
+      "number": "18",
+      "title": "Coral Reef Light Gradient and Zonation",
+      "description": "A vertical water column above a sloping reef shows decreasing light intensity with depth via a color gradient; different coral and algal shapes occupy specific depth bands, with their color brightness and growth speed tied to local light levels.",
+      "seed": "Coral Reef Light Gradient and Zonation: A vertical water column above a sloping reef shows decreasing light intensity with depth via a color gradient; different coral and algal shapes occupy specific depth bands, with their color brightness and growth speed tied to local light levels."
+    },
+    {
+      "number": "19",
+      "title": "Plastic Debris Entanglement on Reef",
+      "description": "Flexible ring and strip objects drift with currents around coral branches, wrapping and tangling when they collide, while some pieces detach under stronger wave pulses; entangled corals slowly dim and shrink, and a counter tracks number of entanglements over time.",
+      "seed": "Plastic Debris Entanglement on Reef: Flexible ring and strip objects drift with currents around coral branches, wrapping and tangling when they collide, while some pieces detach under stronger wave pulses; entangled corals slowly dim and shrink, and a counter tracks number of entanglements over time."
+    },
+    {
+      "number": "20",
+      "title": "Artificial Reef Deployment and Colonization",
+      "description": "Simple geometric concrete blocks are dropped from above, fall, collide, and settle on the seafloor, then gradually attract drifting larvae, algae, and fish; over time, new coral structures grow on the blocks, changing their color and roughness as they become a living reef.",
+      "seed": "Artificial Reef Deployment and Colonization: Simple geometric concrete blocks are dropped from above, fall, collide, and settle on the seafloor, then gradually attract drifting larvae, algae, and fish; over time, new coral structures grow on the blocks, changing their color and roughness as they become a living reef."
+    },
+    {
+      "number": "21",
+      "title": "Coral Disease Spread Visualization",
+      "description": "A connected network of coral branches slowly changes as infected segments turn a distinct color and emit small pathogen particles that drift, collide with nearby healthy corals, and sometimes trigger new infection zones that expand along the branches.",
+      "seed": "Coral Disease Spread Visualization: A connected network of coral branches slowly changes as infected segments turn a distinct color and emit small pathogen particles that drift, collide with nearby healthy corals, and sometimes trigger new infection zones that expand along the branches."
+    },
+    {
+      "number": "22",
+      "title": "Tide-Driven Reef Exposure Cycle",
+      "description": "A transparent water surface moves up and down in a slow tidal cycle, sometimes exposing the tops of coral heads to air; exposed parts change color, dry (lose shine), and later rehydrate when submerged again, while small tidal pools form and trap fish temporarily.",
+      "seed": "Tide-Driven Reef Exposure Cycle: A transparent water surface moves up and down in a slow tidal cycle, sometimes exposing the tops of coral heads to air; exposed parts change color, dry (lose shine), and later rehydrate when submerged again, while small tidal pools form and trap fish temporarily."
+    },
+    {
+      "number": "23",
+      "title": "Reef Fish Territorial Boundaries",
+      "description": "Individual fish have semi-transparent, color-coded territorial bubbles that move with them among stationary corals; when territories collide, fish perform chase behaviors, bounce off boundary lines, or expand/shrink their territories based on simple rules.",
+      "seed": "Reef Fish Territorial Boundaries: Individual fish have semi-transparent, color-coded territorial bubbles that move with them among stationary corals; when territories collide, fish perform chase behaviors, bounce off boundary lines, or expand/shrink their territories based on simple rules."
+    },
+    {
+      "number": "24",
+      "title": "Microscopic Coral Polyp Feeding",
+      "description": "Zoomed-in polyps extend and retract tentacles that sway in an oscillating current, grabbing passing plankton spheres; captured plankton are pulled into the polyp mouth opening, causing a brief color pulse along internal channels toward the skeleton-building edge.",
+      "seed": "Microscopic Coral Polyp Feeding: Zoomed-in polyps extend and retract tentacles that sway in an oscillating current, grabbing passing plankton spheres; captured plankton are pulled into the polyp mouth opening, causing a brief color pulse along internal channels toward the skeleton-building edge."
+    },
+    {
+      "number": "25",
+      "title": "Reef Restoration Fragment Transplanting",
+      "description": "Human diver proxies (simple moving capsules) place small coral fragments on a grid of artificial supports; fragments attach, then gradually branch and merge with neighbors, while metrics display survival, growth rate, and percent of the frame covered over simulated years.",
+      "seed": "Reef Restoration Fragment Transplanting: Human diver proxies (simple moving capsules) place small coral fragments on a grid of artificial supports; fragments attach, then gradually branch and merge with neighbors, while metrics display survival, growth rate, and percent of the frame covered over simulated years."
+    }
+  ],
+  "raw_output": "Here are strong **Coral reefs simulation inputs** you can plug into your prompt:\n\n1. **Fractal Coral Colony Growth**\n   A 3D scene where branching coral structures slowly grow upward and outward from a rocky seafloor, splitting and thickening over time while labeled nutrient particles float, collide, and attach to coral tips, causing them to glow briefly and extend.\n\n2. **Reef Fish School Navigation**\n   A colorful school of small fish spheres and arrow-shaped bodies weave through a maze of stationary coral blocks and branching tubes, avoiding collisions, leaving short fading trails, and changing direction as a few predator shapes approach and scatter them.\n\n3. **Symbiotic Coral–Algae Energy Transfer**\n   Transparent coral skeletons house pulsing green algae particles that orbit within polyps, transferring “energy” along glowing lines to coral branches that change color intensity based on received energy, while a light meter tracks total energy flow.\n\n4. **Coral Bleaching Heat Wave**\n   A reef scene where rising “water temperature” is shown by a color-coded transparent plane moving upward, causing coral objects to gradually fade from bright colors to white as algae particles detach, drift away, and dissolve into the water.\n\n5. **Wave Surge Over Reef Crest**\n   A moving semi-transparent blue surface oscillates like waves over a fixed coral ridge, pushing floating debris particles and plankton spheres that tumble, bounce off coral surfaces, and occasionally get trapped in branching structures.\n\n6. **Reef Construction by Coral Polyps**\n   Tiny polyp spheres crawl slowly over a base rock, leaving behind growing solid calcium “tubes” that stack and fuse into complex coral columns, while falling sand grains collide, bounce, or get cemented into the reef structure.\n\n7. **Nighttime Bioluminescent Reef**\n   A dim scene with lightly colored background where coral tips and small plankton particles intermittently glow, pulsing with blue-green light when they collide, while a few slow-moving jelly-like transparent blobs drift through and wrap around coral branches.\n\n8. **Predator–Prey Chase in a Coral Maze**\n   A fast predator shape (e.g., a sleek cone or shark-like object) chases smaller fish spheres through a dense coral forest, with fish darting, bouncing off invisible boundaries, and some “hiding” by hugging close to coral columns that slightly change color when used as cover.\n\n9. **Sediment Smothering the Reef**\n   A cloud of fine, light-colored particles descends from above, slowly settling onto coral surfaces, forming growing sediment layers that reduce coral color intensity, while occasional water pulses detach and re-suspend some particles into the water column.\n\n10. **Coral Larvae Dispersal and Settlement**\n    Tiny glowing larvae particles drift and spiral in gentle currents above a patchy seafloor, leaving faint trails, then slow down, test different surfaces by bouncing lightly, and finally attach to suitable rock spots where they transform into small fixed coral nodes that start to grow.\n\n11. **Reef Soundscape Visualization**\n    Stationary coral structures are surrounded by oscillating, semi-transparent spherical “sound shells” emanating from snapping shrimp and fish call sources; these expanding shells intersect corals and fish, causing them to vibrate subtly and shift colors with sound intensity.\n\n12. **Reef Nutrient Cycling Loops**\n    Color-coded nutrient particles (nitrogen, phosphorus, carbon) move in loops between coral, algae, fish, and bacteria spheres; when particles collide with specific organisms they change color, attach briefly, and then detach toward the next organism in the cycle, with a side diagram tracking total amounts.\n\n13. **Storm Damage and Reef Breakage**\n    Strong directional wave forces push large debris blocks and logs across the reef, colliding with branching corals that bend, fracture into smaller pieces, and either settle as new rubble mounds or get rolled further, while suspended particles increase in density.\n\n14. **Coral Reef as a Breakwater**\n    Incoming waves approach from one side as oscillating planes; when they hit the reef barrier, their height and speed visibly decrease on the far side, with floating boats or buoys bobbing more gently in the sheltered zone, showing the protective effect.\n\n15. **Reef Carbonate Chemistry Micro-World**\n    At microscopic scale, ions (CO₃²⁻, Ca²⁺, H⁺) appear as labeled spheres that collide, merge, and split near a coral skeleton surface, building or dissolving a lattice of small cubes; changes in a pH slider shift the rates of attachment and detachment, visualized by color shifts.\n\n16. **Competing Coral Species Overgrowth**\n    Two or three different coral species with distinct colors and growth styles (branching, plating, massive) expand from seed points, spreading, branching, and colliding; when growth fronts meet, one species overgrows or shades the other, shown by fading or shrinking of the loser’s structures.\n\n17. **Reef Cleaning Station Interaction**\n    Larger “client” fish periodically approach a fixed coral head where smaller cleaner fish orbit closely, detach parasites (small dark spheres) from client surfaces, and carry them to a waste zone where they dissolve, while labels show cleaning duration and number of parasites removed.\n\n18. **Coral Reef Light Gradient and Zonation**\n    A vertical water column above a sloping reef shows decreasing light intensity with depth via a color gradient; different coral and algal shapes occupy specific depth bands, with their color brightness and growth speed tied to local light levels.\n\n19. **Plastic Debris Entanglement on Reef**\n    Flexible ring and strip objects drift with currents around coral branches, wrapping and tangling when they collide, while some pieces detach under stronger wave pulses; entangled corals slowly dim and shrink, and a counter tracks number of entanglements over time.\n\n20. **Artificial Reef Deployment and Colonization**\n    Simple geometric concrete blocks are dropped from above, fall, collide, and settle on the seafloor, then gradually attract drifting larvae, algae, and fish; over time, new coral structures grow on the blocks, changing their color and roughness as they become a living reef.\n\n21. **Coral Disease Spread Visualization**\n    A connected network of coral branches slowly changes as infected segments turn a distinct color and emit small pathogen particles that drift, collide with nearby healthy corals, and sometimes trigger new infection zones that expand along the branches.\n\n22. **Tide-Driven Reef Exposure Cycle**\n    A transparent water surface moves up and down in a slow tidal cycle, sometimes exposing the tops of coral heads to air; exposed parts change color, dry (lose shine), and later rehydrate when submerged again, while small tidal pools form and trap fish temporarily.\n\n23. **Reef Fish Territorial Boundaries**\n    Individual fish have semi-transparent, color-coded territorial bubbles that move with them among stationary corals; when territories collide, fish perform chase behaviors, bounce off boundary lines, or expand/shrink their territories based on simple rules.\n\n24. **Microscopic Coral Polyp Feeding**\n    Zoomed-in polyps extend and retract tentacles that sway in an oscillating current, grabbing passing plankton spheres; captured plankton are pulled into the polyp mouth opening, causing a brief color pulse along internal channels toward the skeleton-building edge.\n\n25. **Reef Restoration Fragment Transplanting**\n    Human diver proxies (simple moving capsules) place small coral fragments on a grid of artificial supports; fragments attach, then gradually branch and merge with neighbors, while metrics display survival, growth rate, and percent of the frame covered over simulated years."
+}

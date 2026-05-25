@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Tidal forces",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:40:50",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Earth–Moon Ocean Tides Globe",
+      "description": "A rotating Earth sphere with blue semi-transparent oceans and a small orbiting Moon where gravitational tidal bulges visibly stretch and shift around the globe, with labeled high/low tide markers and trails showing the Moon’s orbit.",
+      "seed": "Earth–Moon Ocean Tides Globe: A rotating Earth sphere with blue semi-transparent oceans and a small orbiting Moon where gravitational tidal bulges visibly stretch and shift around the globe, with labeled high/low tide markers and trails showing the Moon’s orbit."
+    },
+    {
+      "number": "2",
+      "title": "Stretching Comet Near a Planet",
+      "description": "A dusty comet nucleus made of bonded spheres passes close to a massive planet, with tidal forces pulling particles off into a tail, stretching and splitting the nucleus while particle trails and force vectors glow between comet and planet.",
+      "seed": "Stretching Comet Near a Planet: A dusty comet nucleus made of bonded spheres passes close to a massive planet, with tidal forces pulling particles off into a tail, stretching and splitting the nucleus while particle trails and force vectors glow between comet and planet."
+    },
+    {
+      "number": "3",
+      "title": "Spaghettification Near a Black Hole",
+      "description": "A human-shaped stick figure or capsule falls feet-first toward a central black hole sphere, gradually stretching into a long filament as tidal forces increase, with radial grid lines that warp, and a color bar meter showing tidal stress over time.",
+      "seed": "Spaghettification Near a Black Hole: A human-shaped stick figure or capsule falls feet-first toward a central black hole sphere, gradually stretching into a long filament as tidal forces increase, with radial grid lines that warp, and a color bar meter showing tidal stress over time."
+    },
+    {
+      "number": "4",
+      "title": "Tidal Locking of a Moon",
+      "description": "A planet and a single moon orbit each other while the moon slowly despins due to tidal torques, with an arrow painted on the moon’s surface and a glowing torque vector that shrinks over time until one face always points at the planet.",
+      "seed": "Tidal Locking of a Moon: A planet and a single moon orbit each other while the moon slowly despins due to tidal torques, with an arrow painted on the moon’s surface and a glowing torque vector that shrinks over time until one face always points at the planet."
+    },
+    {
+      "number": "5",
+      "title": "Breaking Asteroid in a Roche Limit",
+      "description": "A rubble-pile asteroid made of many small spheres approaches a giant planet; as it crosses the Roche limit, the spheres detach, orbit, and form a thin ring, with color-coded gravitational force arrows and a transparent reference sphere for the Roche radius.",
+      "seed": "Breaking Asteroid in a Roche Limit: A rubble-pile asteroid made of many small spheres approaches a giant planet; as it crosses the Roche limit, the spheres detach, orbit, and form a thin ring, with color-coded gravitational force arrows and a transparent reference sphere for the Roche radius."
+    },
+    {
+      "number": "6",
+      "title": "Binary Star with Tidal Mass Transfer",
+      "description": "Two close stars orbit each other, one slightly larger and filling its Roche lobe; semi-transparent gas particles stream from the larger star to the smaller, spiraling into an accretion disk that glows brighter with increasing mass transfer.",
+      "seed": "Binary Star with Tidal Mass Transfer: Two close stars orbit each other, one slightly larger and filling its Roche lobe; semi-transparent gas particles stream from the larger star to the smaller, spiraling into an accretion disk that glows brighter with increasing mass transfer."
+    },
+    {
+      "number": "7",
+      "title": "Tidal Flexing and Heating of an Icy Moon",
+      "description": "An icy moon orbits a gas giant on a slightly elliptical path, periodically squashing and stretching (slight shape deformation) with its surface color pulsing from blue to red to indicate internal tidal heating, while cracks on the surface glow along stress lines.",
+      "seed": "Tidal Flexing and Heating of an Icy Moon: An icy moon orbits a gas giant on a slightly elliptical path, periodically squashing and stretching (slight shape deformation) with its surface color pulsing from blue to red to indicate internal tidal heating, while cracks on the surface glow along stress lines."
+    },
+    {
+      "number": "8",
+      "title": "Tidal Stripping of a Dwarf Galaxy",
+      "description": "A swarm of star-particles representing a dwarf galaxy orbits a large central galaxy; as it passes close, outer stars get tidally stripped into long, curved stellar streams, with orbit trails and labels for core vs. stripped stars.",
+      "seed": "Tidal Stripping of a Dwarf Galaxy: A swarm of star-particles representing a dwarf galaxy orbits a large central galaxy; as it passes close, outer stars get tidally stripped into long, curved stellar streams, with orbit trails and labels for core vs. stripped stars."
+    },
+    {
+      "number": "9",
+      "title": "Tidal Bulge in a Deformable Planet",
+      "description": "A soft, slightly squishy planet (ellipsoid that can deform) orbits a star; a small moon orbits the planet, causing the planet’s shape to pulsate with rotating tidal bulges that lag behind the moon’s position, with arrows showing resulting torque on the moon’s orbit.",
+      "seed": "Tidal Bulge in a Deformable Planet: A soft, slightly squishy planet (ellipsoid that can deform) orbits a star; a small moon orbits the planet, causing the planet’s shape to pulsate with rotating tidal bulges that lag behind the moon’s position, with arrows showing resulting torque on the moon’s orbit."
+    },
+    {
+      "number": "10",
+      "title": "Floating Buoys in a Tidally Rising Bay",
+      "description": "A shallow bay represented by a sloped transparent container of water rises and falls periodically; floating colored buoys bob up and down and drift as the water level changes, while a wall-mounted tide gauge and numeric label track water height over time.",
+      "seed": "Floating Buoys in a Tidally Rising Bay: A shallow bay represented by a sloped transparent container of water rises and falls periodically; floating colored buoys bob up and down and drift as the water level changes, while a wall-mounted tide gauge and numeric label track water height over time."
+    },
+    {
+      "number": "11",
+      "title": "Tidal River Bore Front",
+      "description": "A long, narrow river channel with semi-transparent water shows a tidal bore wave front traveling upstream as the “sea” end rises; particles on the surface are carried, collide with riverbank markers, and leave foam-like white trails at the wave front.",
+      "seed": "Tidal River Bore Front: A long, narrow river channel with semi-transparent water shows a tidal bore wave front traveling upstream as the “sea” end rises; particles on the surface are carried, collide with riverbank markers, and leave foam-like white trails at the wave front."
+    },
+    {
+      "number": "12",
+      "title": "Harbor Resonance Under Tidal Forcing",
+      "description": "A rectangular harbor basin connected to the open sea oscillates in water level due to a sinusoidal tidal boundary; multiple floating markers bounce and sometimes resonate, with a graph-like floating bar displaying amplitude growth or damping of water sloshing.",
+      "seed": "Harbor Resonance Under Tidal Forcing: A rectangular harbor basin connected to the open sea oscillates in water level due to a sinusoidal tidal boundary; multiple floating markers bounce and sometimes resonate, with a graph-like floating bar displaying amplitude growth or damping of water sloshing."
+    },
+    {
+      "number": "13",
+      "title": "Tidal Shear on a Flexible Space Elevator Cable",
+      "description": "A tall, vertical tether anchored to Earth’s surface and extending into orbit experiences varying gravitational and centrifugal forces; colored segments stretch and sway differently with altitude, visualizing tidal shear as the cable bends and vibrates.",
+      "seed": "Tidal Shear on a Flexible Space Elevator Cable: A tall, vertical tether anchored to Earth’s surface and extending into orbit experiences varying gravitational and centrifugal forces; colored segments stretch and sway differently with altitude, visualizing tidal shear as the cable bends and vibrates."
+    },
+    {
+      "number": "14",
+      "title": "Tidal Deformation of a Rotating Dumbbell Satellite",
+      "description": "A dumbbell-shaped satellite (two masses connected by a rod) orbits a planet; it rotates and is torqued by tidal forces so that the rod gradually aligns toward the planet, with torque arrows and an energy meter showing loss of rotational energy.",
+      "seed": "Tidal Deformation of a Rotating Dumbbell Satellite: A dumbbell-shaped satellite (two masses connected by a rod) orbits a planet; it rotates and is torqued by tidal forces so that the rod gradually aligns toward the planet, with torque arrows and an energy meter showing loss of rotational energy."
+    },
+    {
+      "number": "15",
+      "title": "Microscopic “Tidal” Forces in a Cell Cluster",
+      "description": "A cluster of soft spherical cells floating in a viscous medium is pulled between two opposing attractors; edge cells detach and drift, while the cluster elongates and splits into two, with faint lines showing “tidal” gradients and colored stress on individual cells.",
+      "seed": "Microscopic “Tidal” Forces in a Cell Cluster: A cluster of soft spherical cells floating in a viscous medium is pulled between two opposing attractors; edge cells detach and drift, while the cluster elongates and splits into two, with faint lines showing “tidal” gradients and colored stress on individual cells."
+    },
+    {
+      "number": "16",
+      "title": "Tidal Unfolding of a Flexible Ring Around a Planet",
+      "description": "A lumpy, irregular ring of small icy chunks orbits a planet; passing shepherd moons and tidal gradients cause clumps to stretch out, collide, and spread, eventually forming a smoother, more uniform ring with collisions shown as brief flashes.",
+      "seed": "Tidal Unfolding of a Flexible Ring Around a Planet: A lumpy, irregular ring of small icy chunks orbits a planet; passing shepherd moons and tidal gradients cause clumps to stretch out, collide, and spread, eventually forming a smoother, more uniform ring with collisions shown as brief flashes."
+    },
+    {
+      "number": "17",
+      "title": "Tidal Sculpting of a Binary Asteroid Pair",
+      "description": "Two touching asteroids orbit each other and a nearby planet; tidal forces slowly reshape their mutual orbit and pull them apart, with their surfaces slightly deforming and a glowing line showing the changing center-of-mass connection.",
+      "seed": "Tidal Sculpting of a Binary Asteroid Pair: Two touching asteroids orbit each other and a nearby planet; tidal forces slowly reshape their mutual orbit and pull them apart, with their surfaces slightly deforming and a glowing line showing the changing center-of-mass connection."
+    },
+    {
+      "number": "18",
+      "title": "Tidal Stress Cracking a Planet’s Crust",
+      "description": "A rocky planet with a crust texture orbits very close to a star; as it rotates, surface regions pulse with stress (color changes), and new cracks appear as bright red lines that branch and grow along predicted tidal stress directions.",
+      "seed": "Tidal Stress Cracking a Planet’s Crust: A rocky planet with a crust texture orbits very close to a star; as it rotates, surface regions pulse with stress (color changes), and new cracks appear as bright red lines that branch and grow along predicted tidal stress directions."
+    },
+    {
+      "number": "19",
+      "title": "Tidal Influence on Floating City Platforms",
+      "description": "Several flat platforms representing a floating city rest on a semi-transparent ocean whose level and slope shift with a moving “moon”; platforms tilt, collide at edges, or detach and drift apart, with connector cables that stretch, snap, and recoil.",
+      "seed": "Tidal Influence on Floating City Platforms: Several flat platforms representing a floating city rest on a semi-transparent ocean whose level and slope shift with a moving “moon”; platforms tilt, collide at edges, or detach and drift apart, with connector cables that stretch, snap, and recoil."
+    },
+    {
+      "number": "20",
+      "title": "Symbolic Tidal Forces on Social Groups",
+      "description": "Groups of colored spheres (communities) are pulled between two larger attractor spheres (e.g., “Influence A” and “Influence B”); clusters stretch, split, and merge as the attractors orbit each other, with thin glowing lines representing “social ties” that tense and break under tidal-like stress.",
+      "seed": "Symbolic Tidal Forces on Social Groups: Groups of colored spheres (communities) are pulled between two larger attractor spheres (e.g., “Influence A” and “Influence B”); clusters stretch, split, and merge as the attractors orbit each other, with thin glowing lines representing “social ties” that tense and break under tidal-like stress."
+    },
+    {
+      "number": "21",
+      "title": "Tidal Mixing in an Estuary Cross-Section",
+      "description": "A rectangular channel with a horizontal salinity gradient (blue freshwater on one side, green salty water on the other) is periodically sloshed by a tidal forcing at one end; water parcels mix, wrap, and form filaments, with particles changing color as they mix.",
+      "seed": "Tidal Mixing in an Estuary Cross-Section: A rectangular channel with a horizontal salinity gradient (blue freshwater on one side, green salty water on the other) is periodically sloshed by a tidal forcing at one end; water parcels mix, wrap, and form filaments, with particles changing color as they mix."
+    },
+    {
+      "number": "22",
+      "title": "Tidal Compression of a Gas Cloud Near a Black Hole",
+      "description": "A fluffy, semi-transparent gas cloud passes near a black hole; it is stretched along the orbital path but compressed perpendicular to it, forming a bright, narrow stream that wraps around the black hole, glowing more intensely where compression is strongest.",
+      "seed": "Tidal Compression of a Gas Cloud Near a Black Hole: A fluffy, semi-transparent gas cloud passes near a black hole; it is stretched along the orbital path but compressed perpendicular to it, forming a bright, narrow stream that wraps around the black hole, glowing more intensely where compression is strongest."
+    },
+    {
+      "number": "23",
+      "title": "Tidal Deformation of a Rotating Star",
+      "description": "A rapidly rotating star is modeled as a glowing oblate spheroid, and a close-orbiting planet raises a tidal bulge that rotates slightly out of phase; surface patches brighten and dim where the bulge passes, and force vectors connect planet to bulge.",
+      "seed": "Tidal Deformation of a Rotating Star: A rapidly rotating star is modeled as a glowing oblate spheroid, and a close-orbiting planet raises a tidal bulge that rotates slightly out of phase; surface patches brighten and dim where the bulge passes, and force vectors connect planet to bulge."
+    },
+    {
+      "number": "24",
+      "title": "Tidal Spin–Orbit Resonances of Multiple Moons",
+      "description": "A gas giant with three differently sized moons shows each moon’s spin synchronized differently (1:1, 3:2, etc.); tidal forces slowly adjust their rotation rates, with rotating surface markers and numeric labels tracking each moon’s spin–orbit ratio.",
+      "seed": "Tidal Spin–Orbit Resonances of Multiple Moons: A gas giant with three differently sized moons shows each moon’s spin synchronized differently (1:1, 3:2, etc.); tidal forces slowly adjust their rotation rates, with rotating surface markers and numeric labels tracking each moon’s spin–orbit ratio."
+    },
+    {
+      "number": "25",
+      "title": "Tidal “Ripping” of a Space Station by Twin Planets",
+      "description": "A modular space station made of connected segments drifts between two massive planets that orbit each other; as it moves toward the midpoint, segments experience opposing pulls, stretching, bending, and eventually snapping off, with broken modules drifting away along curved trajectories.",
+      "seed": "Tidal “Ripping” of a Space Station by Twin Planets: A modular space station made of connected segments drifts between two massive planets that orbit each other; as it moves toward the midpoint, segments experience opposing pulls, stretching, bending, and eventually snapping off, with broken modules drifting away along curved trajectories."
+    }
+  ],
+  "raw_output": "Here are strong **Tidal forces simulation inputs** you can plug into your prompt:\n\n1. **Earth–Moon Ocean Tides Globe**\n   A rotating Earth sphere with blue semi-transparent oceans and a small orbiting Moon where gravitational tidal bulges visibly stretch and shift around the globe, with labeled high/low tide markers and trails showing the Moon’s orbit.\n\n2. **Stretching Comet Near a Planet**\n   A dusty comet nucleus made of bonded spheres passes close to a massive planet, with tidal forces pulling particles off into a tail, stretching and splitting the nucleus while particle trails and force vectors glow between comet and planet.\n\n3. **Spaghettification Near a Black Hole**\n   A human-shaped stick figure or capsule falls feet-first toward a central black hole sphere, gradually stretching into a long filament as tidal forces increase, with radial grid lines that warp, and a color bar meter showing tidal stress over time.\n\n4. **Tidal Locking of a Moon**\n   A planet and a single moon orbit each other while the moon slowly despins due to tidal torques, with an arrow painted on the moon’s surface and a glowing torque vector that shrinks over time until one face always points at the planet.\n\n5. **Breaking Asteroid in a Roche Limit**\n   A rubble-pile asteroid made of many small spheres approaches a giant planet; as it crosses the Roche limit, the spheres detach, orbit, and form a thin ring, with color-coded gravitational force arrows and a transparent reference sphere for the Roche radius.\n\n6. **Binary Star with Tidal Mass Transfer**\n   Two close stars orbit each other, one slightly larger and filling its Roche lobe; semi-transparent gas particles stream from the larger star to the smaller, spiraling into an accretion disk that glows brighter with increasing mass transfer.\n\n7. **Tidal Flexing and Heating of an Icy Moon**\n   An icy moon orbits a gas giant on a slightly elliptical path, periodically squashing and stretching (slight shape deformation) with its surface color pulsing from blue to red to indicate internal tidal heating, while cracks on the surface glow along stress lines.\n\n8. **Tidal Stripping of a Dwarf Galaxy**\n   A swarm of star-particles representing a dwarf galaxy orbits a large central galaxy; as it passes close, outer stars get tidally stripped into long, curved stellar streams, with orbit trails and labels for core vs. stripped stars.\n\n9. **Tidal Bulge in a Deformable Planet**\n   A soft, slightly squishy planet (ellipsoid that can deform) orbits a star; a small moon orbits the planet, causing the planet’s shape to pulsate with rotating tidal bulges that lag behind the moon’s position, with arrows showing resulting torque on the moon’s orbit.\n\n10. **Floating Buoys in a Tidally Rising Bay**\n    A shallow bay represented by a sloped transparent container of water rises and falls periodically; floating colored buoys bob up and down and drift as the water level changes, while a wall-mounted tide gauge and numeric label track water height over time.\n\n11. **Tidal River Bore Front**\n    A long, narrow river channel with semi-transparent water shows a tidal bore wave front traveling upstream as the “sea” end rises; particles on the surface are carried, collide with riverbank markers, and leave foam-like white trails at the wave front.\n\n12. **Harbor Resonance Under Tidal Forcing**\n    A rectangular harbor basin connected to the open sea oscillates in water level due to a sinusoidal tidal boundary; multiple floating markers bounce and sometimes resonate, with a graph-like floating bar displaying amplitude growth or damping of water sloshing.\n\n13. **Tidal Shear on a Flexible Space Elevator Cable**\n    A tall, vertical tether anchored to Earth’s surface and extending into orbit experiences varying gravitational and centrifugal forces; colored segments stretch and sway differently with altitude, visualizing tidal shear as the cable bends and vibrates.\n\n14. **Tidal Deformation of a Rotating Dumbbell Satellite**\n    A dumbbell-shaped satellite (two masses connected by a rod) orbits a planet; it rotates and is torqued by tidal forces so that the rod gradually aligns toward the planet, with torque arrows and an energy meter showing loss of rotational energy.\n\n15. **Microscopic “Tidal” Forces in a Cell Cluster**\n    A cluster of soft spherical cells floating in a viscous medium is pulled between two opposing attractors; edge cells detach and drift, while the cluster elongates and splits into two, with faint lines showing “tidal” gradients and colored stress on individual cells.\n\n16. **Tidal Unfolding of a Flexible Ring Around a Planet**\n    A lumpy, irregular ring of small icy chunks orbits a planet; passing shepherd moons and tidal gradients cause clumps to stretch out, collide, and spread, eventually forming a smoother, more uniform ring with collisions shown as brief flashes.\n\n17. **Tidal Sculpting of a Binary Asteroid Pair**\n    Two touching asteroids orbit each other and a nearby planet; tidal forces slowly reshape their mutual orbit and pull them apart, with their surfaces slightly deforming and a glowing line showing the changing center-of-mass connection.\n\n18. **Tidal Stress Cracking a Planet’s Crust**\n    A rocky planet with a crust texture orbits very close to a star; as it rotates, surface regions pulse with stress (color changes), and new cracks appear as bright red lines that branch and grow along predicted tidal stress directions.\n\n19. **Tidal Influence on Floating City Platforms**\n    Several flat platforms representing a floating city rest on a semi-transparent ocean whose level and slope shift with a moving “moon”; platforms tilt, collide at edges, or detach and drift apart, with connector cables that stretch, snap, and recoil.\n\n20. **Symbolic Tidal Forces on Social Groups**\n    Groups of colored spheres (communities) are pulled between two larger attractor spheres (e.g., “Influence A” and “Influence B”); clusters stretch, split, and merge as the attractors orbit each other, with thin glowing lines representing “social ties” that tense and break under tidal-like stress.\n\n21. **Tidal Mixing in an Estuary Cross-Section**\n    A rectangular channel with a horizontal salinity gradient (blue freshwater on one side, green salty water on the other) is periodically sloshed by a tidal forcing at one end; water parcels mix, wrap, and form filaments, with particles changing color as they mix.\n\n22. **Tidal Compression of a Gas Cloud Near a Black Hole**\n    A fluffy, semi-transparent gas cloud passes near a black hole; it is stretched along the orbital path but compressed perpendicular to it, forming a bright, narrow stream that wraps around the black hole, glowing more intensely where compression is strongest.\n\n23. **Tidal Deformation of a Rotating Star**\n    A rapidly rotating star is modeled as a glowing oblate spheroid, and a close-orbiting planet raises a tidal bulge that rotates slightly out of phase; surface patches brighten and dim where the bulge passes, and force vectors connect planet to bulge.\n\n24. **Tidal Spin–Orbit Resonances of Multiple Moons**\n    A gas giant with three differently sized moons shows each moon’s spin synchronized differently (1:1, 3:2, etc.); tidal forces slowly adjust their rotation rates, with rotating surface markers and numeric labels tracking each moon’s spin–orbit ratio.\n\n25. **Tidal “Ripping” of a Space Station by Twin Planets**\n    A modular space station made of connected segments drifts between two massive planets that orbit each other; as it moves toward the midpoint, segments experience opposing pulls, stretching, bending, and eventually snapping off, with broken modules drifting away along curved trajectories."
+}

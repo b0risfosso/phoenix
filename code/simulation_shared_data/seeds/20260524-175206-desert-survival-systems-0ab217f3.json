@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Desert survival systems",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:52:06",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Solar Still Water Collector Field",
+      "description": "A grid of transparent dome-shaped solar stills sits on bright sand, where sun-heated moist sand and buried “water packets” slowly evaporate, condense on the inner dome, form droplets that merge, slide down, and drip into labeled collection cups whose water level bars rise over time.",
+      "seed": "Solar Still Water Collector Field: A grid of transparent dome-shaped solar stills sits on bright sand, where sun-heated moist sand and buried “water packets” slowly evaporate, condense on the inner dome, form droplets that merge, slide down, and drip into labeled collection cups whose water level bars rise over time."
+    },
+    {
+      "number": "2",
+      "title": "Mobile Shade Shelter Optimization",
+      "description": "A humanoid avatar walks across a hot desert plane under a moving sun, dragging a collapsible reflective shade panel that can rotate, fold, and unfold, while color-coded heat maps on the ground and on the avatar’s body shift as shade coverage changes and wind particles cool exposed surfaces.",
+      "seed": "Mobile Shade Shelter Optimization: A humanoid avatar walks across a hot desert plane under a moving sun, dragging a collapsible reflective shade panel that can rotate, fold, and unfold, while color-coded heat maps on the ground and on the avatar’s body shift as shade coverage changes and wind particles cool exposed surfaces."
+    },
+    {
+      "number": "3",
+      "title": "Desert Wind-Powered Water Pump",
+      "description": "A tall, light-colored windmill with rotating blades drives a vertical piston connected to an underground water layer, where each blade rotation transfers motion through rods to pump translucent blue water up a pipe, filling elevated storage tanks with visible water surfaces that slosh and overflow into troughs.",
+      "seed": "Desert Wind-Powered Water Pump: A tall, light-colored windmill with rotating blades drives a vertical piston connected to an underground water layer, where each blade rotation transfers motion through rods to pump translucent blue water up a pipe, filling elevated storage tanks with visible water surfaces that slosh and overflow into troughs."
+    },
+    {
+      "number": "4",
+      "title": "Sandstorm Shelter Integrity Test",
+      "description": "A small camp of tents, vehicles, and a central shelter is bombarded by a moving sandstorm front made of dense beige particle streams that collide with surfaces, gradually bury low objects, erode exposed faces, and test which anchored structures stay upright versus which detach, tip, or get dragged across the sand.",
+      "seed": "Sandstorm Shelter Integrity Test: A small camp of tents, vehicles, and a central shelter is bombarded by a moving sandstorm front made of dense beige particle streams that collide with surfaces, gradually bury low objects, erode exposed faces, and test which anchored structures stay upright versus which detach, tip, or get dragged across the sand."
+    },
+    {
+      "number": "5",
+      "title": "Solar-Powered Desalination Backpack",
+      "description": "A backpack unit on a stranded figure unfolds reflective solar wings that rotate toward the sun and glow faintly as energy flows through color-coded cables to a transparent desalination cartridge, where salty water particles enter one side, membranes filter them, fresh water droplets collect in a tank, and brine spills out.",
+      "seed": "Solar-Powered Desalination Backpack: A backpack unit on a stranded figure unfolds reflective solar wings that rotate toward the sun and glow faintly as energy flows through color-coded cables to a transparent desalination cartridge, where salty water particles enter one side, membranes filter them, fresh water droplets collect in a tank, and brine spills out."
+    },
+    {
+      "number": "6",
+      "title": "Underground Cistern and Capillary Wicking System",
+      "description": "A buried spherical cistern holds a reservoir of blue water beneath hot sand, with several vertical porous wicks that draw water upward; watch water climb each wick as a blue gradient, slowly wetting shaded fabric canopies above that evaporate and cool nearby air, shown as drifting cool-colored particles.",
+      "seed": "Underground Cistern and Capillary Wicking System: A buried spherical cistern holds a reservoir of blue water beneath hot sand, with several vertical porous wicks that draw water upward; watch water climb each wick as a blue gradient, slowly wetting shaded fabric canopies above that evaporate and cool nearby air, shown as drifting cool-colored particles."
+    },
+    {
+      "number": "7",
+      "title": "Desert Food Chain Survival Network",
+      "description": "A stylized oasis scene shows cacti, shrubs, insects, lizards, rodents, and a hawk, each with colored energy bars; animals move, forage, chase, and collide to transfer energy, plants grow or shrink with water level changes, and labels track which species survive as heat and scarce water stress the system.",
+      "seed": "Desert Food Chain Survival Network: A stylized oasis scene shows cacti, shrubs, insects, lizards, rodents, and a hawk, each with colored energy bars; animals move, forage, chase, and collide to transfer energy, plants grow or shrink with water level changes, and labels track which species survive as heat and scarce water stress the system."
+    },
+    {
+      "number": "8",
+      "title": "Emergency Signal Mirror and Drone Locator",
+      "description": "A survivor on dunes rotates a reflective mirror that sends bright, narrow light beams across the desert, which occasionally intersect a scanning drone’s cone-shaped sensor; when beams collide with the sensor region, the drone’s trajectory curves toward the survivor, leaving a colored trail that shows its search path.",
+      "seed": "Emergency Signal Mirror and Drone Locator: A survivor on dunes rotates a reflective mirror that sends bright, narrow light beams across the desert, which occasionally intersect a scanning drone’s cone-shaped sensor; when beams collide with the sensor region, the drone’s trajectory curves toward the survivor, leaving a colored trail that shows its search path."
+    },
+    {
+      "number": "9",
+      "title": "Buried Water Cache Detection and Extraction",
+      "description": "Several partially buried barrels of water are randomly placed under dunes, with only weak color-coded “moisture halos” under the sand; a rover with a scanning mast moves, sends pulsing radar waves into the ground, marks possible cache locations with flags, then drills straight down and pumps water that fills visible canisters.",
+      "seed": "Buried Water Cache Detection and Extraction: Several partially buried barrels of water are randomly placed under dunes, with only weak color-coded “moisture halos” under the sand; a rover with a scanning mast moves, sends pulsing radar waves into the ground, marks possible cache locations with flags, then drills straight down and pumps water that fills visible canisters."
+    },
+    {
+      "number": "10",
+      "title": "Adaptive Clothing Heat Regulation System",
+      "description": "A human model stands in the sun wearing layered desert clothing whose segments can open, close, and change color, while solar radiation, body heat, and evaporative cooling are shown as colored particle flows that attach to, bounce off, and pass through different fabric panels, with a temperature meter hovering overhead.",
+      "seed": "Adaptive Clothing Heat Regulation System: A human model stands in the sun wearing layered desert clothing whose segments can open, close, and change color, while solar radiation, body heat, and evaporative cooling are shown as colored particle flows that attach to, bounce off, and pass through different fabric panels, with a temperature meter hovering overhead."
+    },
+    {
+      "number": "11",
+      "title": "Self-Deploying Desert Survival Pod",
+      "description": "A compact survival pod lands on the sand and unfolds like a mechanical flower: legs extend and anchor, fabric walls rise and clip together, a reflective roof panel rotates toward the sun, and interior modules (water tank, food cache, medical kit) slide into place, each labeled and glowing when active.",
+      "seed": "Self-Deploying Desert Survival Pod: A compact survival pod lands on the sand and unfolds like a mechanical flower: legs extend and anchor, fabric walls rise and clip together, a reflective roof panel rotates toward the sun, and interior modules (water tank, food cache, medical kit) slide into place, each labeled and glowing when active."
+    },
+    {
+      "number": "12",
+      "title": "Sand-Filtered Underground Water Tunnel",
+      "description": "A cross-sectional view of desert ground shows an underground horizontal pipe system drawing water from a shallow aquifer, where sand layers filter dirty water particles moving through perforated sections, gradually clearing color from brownish to blue as it travels, with sediment collecting in transparent filter chambers.",
+      "seed": "Sand-Filtered Underground Water Tunnel: A cross-sectional view of desert ground shows an underground horizontal pipe system drawing water from a shallow aquifer, where sand layers filter dirty water particles moving through perforated sections, gradually clearing color from brownish to blue as it travels, with sediment collecting in transparent filter chambers."
+    },
+    {
+      "number": "13",
+      "title": "Dune-Based Water Harvesting Net",
+      "description": "A large mesh net stretches between poles atop a dune ridge, capturing passing fog particles represented as semi-transparent spheres that collide with the mesh, condense into droplets, merge, and drip down guiding ropes into collection basins, whose rising water levels are marked with floating measurement rings.",
+      "seed": "Dune-Based Water Harvesting Net: A large mesh net stretches between poles atop a dune ridge, capturing passing fog particles represented as semi-transparent spheres that collide with the mesh, condense into droplets, merge, and drip down guiding ropes into collection basins, whose rising water levels are marked with floating measurement rings."
+    },
+    {
+      "number": "14",
+      "title": "Solar Panel Array and Battery Lifeline",
+      "description": "A line of bright solar panels is staked into the sand, each tilting and rotating to track the sun; electrical energy is visualized as glowing pulses traveling through cables into a battery crate, where charge bars fill up and then flow onward to power a pump, fan, and beacon light, each turning on or dimming as power changes.",
+      "seed": "Solar Panel Array and Battery Lifeline: A line of bright solar panels is staked into the sand, each tilting and rotating to track the sun; electrical energy is visualized as glowing pulses traveling through cables into a battery crate, where charge bars fill up and then flow onward to power a pump, fan, and beacon light, each turning on or dimming as power changes."
+    },
+    {
+      "number": "15",
+      "title": "Cactus-Inspired Water Storage Prosthesis",
+      "description": "A bio-inspired artificial “water limb” attached to a backpack pulses as it absorbs small water packets from the air and from rare puddles; internal chambers branch like cactus ribs and slowly fill, while outer spines radiate heat away as red-to-blue gradients, helping preserve stored water volume shown in transparent reservoirs.",
+      "seed": "Cactus-Inspired Water Storage Prosthesis: A bio-inspired artificial “water limb” attached to a backpack pulses as it absorbs small water packets from the air and from rare puddles; internal chambers branch like cactus ribs and slowly fill, while outer spines radiate heat away as red-to-blue gradients, helping preserve stored water volume shown in transparent reservoirs."
+    },
+    {
+      "number": "16",
+      "title": "Desert Navigation Using Moving Stars and Sun",
+      "description": "A figure walks across a spherical desert world, using a rotating sun and orbiting stars as cues; a compass and shadow-stick appear in the sand, with the shadow’s length and direction changing continuously, while a glowing path projects the predicted safe route to water caches that the user can follow or ignore.",
+      "seed": "Desert Navigation Using Moving Stars and Sun: A figure walks across a spherical desert world, using a rotating sun and orbiting stars as cues; a compass and shadow-stick appear in the sand, with the shadow’s length and direction changing continuously, while a glowing path projects the predicted safe route to water caches that the user can follow or ignore."
+    },
+    {
+      "number": "17",
+      "title": "Thermal Rock Shelter Day–Night Cycle",
+      "description": "A desert rock overhang and several large boulders heat up in the day and cool at night, visualized as color shifts from blue to red; a survivor avatar attaches and detaches from shaded spots, moving as the sun arcs overhead, while an overhead graph plots rock surface temperature versus air temperature in real time.",
+      "seed": "Thermal Rock Shelter Day–Night Cycle: A desert rock overhang and several large boulders heat up in the day and cool at night, visualized as color shifts from blue to red; a survivor avatar attaches and detaches from shaded spots, moving as the sun arcs overhead, while an overhead graph plots rock surface temperature versus air temperature in real time."
+    },
+    {
+      "number": "18",
+      "title": "Evaporation-Driven Water Lifting Tree",
+      "description": "A mechanical “tree” with many thin, branching capillaries draws water from an underground pool up into elevated leaves where it evaporates; water particles climb narrow tubes, branch into multiple paths, and evaporate into the air as tiny vapor spheres, creating a small cool zone under the canopy shown with swirling blue particles.",
+      "seed": "Evaporation-Driven Water Lifting Tree: A mechanical “tree” with many thin, branching capillaries draws water from an underground pool up into elevated leaves where it evaporates; water particles climb narrow tubes, branch into multiple paths, and evaporate into the air as tiny vapor spheres, creating a small cool zone under the canopy shown with swirling blue particles."
+    },
+    {
+      "number": "19",
+      "title": "Desert Convoy Resource Sharing System",
+      "description": "Several vehicles travel in a convoy across rolling dunes, leaving dusty trails; each has tanks for water, fuel, and food shown as color-coded bars, and when vehicles dock side-by-side, hoses connect and resources transfer and equalize, while occasional breakdowns force re-distribution to keep the entire convoy alive.",
+      "seed": "Desert Convoy Resource Sharing System: Several vehicles travel in a convoy across rolling dunes, leaving dusty trails; each has tanks for water, fuel, and food shown as color-coded bars, and when vehicles dock side-by-side, hoses connect and resources transfer and equalize, while occasional breakdowns force re-distribution to keep the entire convoy alive."
+    },
+    {
+      "number": "20",
+      "title": "Emergency Parachute Water Catcher",
+      "description": "A parachute canopy repurposed as a large catchment basin is stretched between stakes on a slope; scattered rain bursts arrive as falling droplets that bounce, merge, and slide down the fabric toward a central funnel, collecting in a transparent drum whose level and purity (color) change with incoming water and sediment.",
+      "seed": "Emergency Parachute Water Catcher: A parachute canopy repurposed as a large catchment basin is stretched between stakes on a slope; scattered rain bursts arrive as falling droplets that bounce, merge, and slide down the fabric toward a central funnel, collecting in a transparent drum whose level and purity (color) change with incoming water and sediment."
+    },
+    {
+      "number": "21",
+      "title": "Subsurface Burrow Cooling Habitat",
+      "description": "A cross-section shows an animal or human shelter dug into the sand, with tunnels and a living chamber; hot air particles skim over the surface, while cooler air slowly circulates through shaded entrances and vertical shafts, creating a gradient of temperature and humidity visualized as layered colored volumes underground.",
+      "seed": "Subsurface Burrow Cooling Habitat: A cross-section shows an animal or human shelter dug into the sand, with tunnels and a living chamber; hot air particles skim over the surface, while cooler air slowly circulates through shaded entrances and vertical shafts, creating a gradient of temperature and humidity visualized as layered colored volumes underground."
+    },
+    {
+      "number": "22",
+      "title": "Solar Concentrator Cooking and Sterilization System",
+      "description": "A reflective parabolic dish rotates to track the sun, focusing light rays onto a small pot and a water sterilization tube; incoming rays are drawn as lines that bounce off the dish and converge, heating the pot (color shift) and boiling water inside the tube, where microbe particles shrink, dissolve, and disappear as the water becomes safe.",
+      "seed": "Solar Concentrator Cooking and Sterilization System: A reflective parabolic dish rotates to track the sun, focusing light rays onto a small pot and a water sterilization tube; incoming rays are drawn as lines that bounce off the dish and converge, heating the pot (color shift) and boiling water inside the tube, where microbe particles shrink, dissolve, and disappear as the water becomes safe."
+    },
+    {
+      "number": "23",
+      "title": "Modular Desert Camp that Grows and Shrinks",
+      "description": "A base camp made of modular cubes (sleeping, water, food, comms) can attach, detach, and rearrange; as more survivors arrive, new modules slide in and snap magnetically into the grid, with shared resource lines glowing between modules, and when resources run low, modules detach and collapse to a smaller, sustainable cluster.",
+      "seed": "Modular Desert Camp that Grows and Shrinks: A base camp made of modular cubes (sleeping, water, food, comms) can attach, detach, and rearrange; as more survivors arrive, new modules slide in and snap magnetically into the grid, with shared resource lines glowing between modules, and when resources run low, modules detach and collapse to a smaller, sustainable cluster."
+    },
+    {
+      "number": "24",
+      "title": "Microscale Desert Crust and Water Retention System",
+      "description": "Zoomed-in soil particles form a fragile biological crust with tiny channels; occasional raindrops impact, breaking or compacting crust patches, and water moves through micro-pores, pooling beneath crust islands where root-like filaments grow, branch, and absorb moisture, shown as thin blue trails feeding tiny plant sprouts.",
+      "seed": "Microscale Desert Crust and Water Retention System: Zoomed-in soil particles form a fragile biological crust with tiny channels; occasional raindrops impact, breaking or compacting crust patches, and water moves through micro-pores, pooling beneath crust islands where root-like filaments grow, branch, and absorb moisture, shown as thin blue trails feeding tiny plant sprouts."
+    },
+    {
+      "number": "25",
+      "title": "Signal Fire and Airflow Management System",
+      "description": "A small camp builds a rock ring fire pit with adjustable vents; as wood burns, smoke particles rise and drift with wind, forming a dark plume visible to a distant tower; opening or closing vents changes airflow patterns, making smoke rise straight up, spread, or pulse in bursts, while a visibility meter at the tower shows signal strength.",
+      "seed": "Signal Fire and Airflow Management System: A small camp builds a rock ring fire pit with adjustable vents; as wood burns, smoke particles rise and drift with wind, forming a dark plume visible to a distant tower; opening or closing vents changes airflow patterns, making smoke rise straight up, spread, or pulse in bursts, while a visibility meter at the tower shows signal strength."
+    }
+  ],
+  "raw_output": "Here are strong **Desert survival systems simulation inputs** you can plug into your prompt:\n\n1. **Solar Still Water Collector Field**\n   A grid of transparent dome-shaped solar stills sits on bright sand, where sun-heated moist sand and buried “water packets” slowly evaporate, condense on the inner dome, form droplets that merge, slide down, and drip into labeled collection cups whose water level bars rise over time.\n\n2. **Mobile Shade Shelter Optimization**\n   A humanoid avatar walks across a hot desert plane under a moving sun, dragging a collapsible reflective shade panel that can rotate, fold, and unfold, while color-coded heat maps on the ground and on the avatar’s body shift as shade coverage changes and wind particles cool exposed surfaces.\n\n3. **Desert Wind-Powered Water Pump**\n   A tall, light-colored windmill with rotating blades drives a vertical piston connected to an underground water layer, where each blade rotation transfers motion through rods to pump translucent blue water up a pipe, filling elevated storage tanks with visible water surfaces that slosh and overflow into troughs.\n\n4. **Sandstorm Shelter Integrity Test**\n   A small camp of tents, vehicles, and a central shelter is bombarded by a moving sandstorm front made of dense beige particle streams that collide with surfaces, gradually bury low objects, erode exposed faces, and test which anchored structures stay upright versus which detach, tip, or get dragged across the sand.\n\n5. **Solar-Powered Desalination Backpack**\n   A backpack unit on a stranded figure unfolds reflective solar wings that rotate toward the sun and glow faintly as energy flows through color-coded cables to a transparent desalination cartridge, where salty water particles enter one side, membranes filter them, fresh water droplets collect in a tank, and brine spills out.\n\n6. **Underground Cistern and Capillary Wicking System**\n   A buried spherical cistern holds a reservoir of blue water beneath hot sand, with several vertical porous wicks that draw water upward; watch water climb each wick as a blue gradient, slowly wetting shaded fabric canopies above that evaporate and cool nearby air, shown as drifting cool-colored particles.\n\n7. **Desert Food Chain Survival Network**\n   A stylized oasis scene shows cacti, shrubs, insects, lizards, rodents, and a hawk, each with colored energy bars; animals move, forage, chase, and collide to transfer energy, plants grow or shrink with water level changes, and labels track which species survive as heat and scarce water stress the system.\n\n8. **Emergency Signal Mirror and Drone Locator**\n   A survivor on dunes rotates a reflective mirror that sends bright, narrow light beams across the desert, which occasionally intersect a scanning drone’s cone-shaped sensor; when beams collide with the sensor region, the drone’s trajectory curves toward the survivor, leaving a colored trail that shows its search path.\n\n9. **Buried Water Cache Detection and Extraction**\n   Several partially buried barrels of water are randomly placed under dunes, with only weak color-coded “moisture halos” under the sand; a rover with a scanning mast moves, sends pulsing radar waves into the ground, marks possible cache locations with flags, then drills straight down and pumps water that fills visible canisters.\n\n10. **Adaptive Clothing Heat Regulation System**\n    A human model stands in the sun wearing layered desert clothing whose segments can open, close, and change color, while solar radiation, body heat, and evaporative cooling are shown as colored particle flows that attach to, bounce off, and pass through different fabric panels, with a temperature meter hovering overhead.\n\n11. **Self-Deploying Desert Survival Pod**\n    A compact survival pod lands on the sand and unfolds like a mechanical flower: legs extend and anchor, fabric walls rise and clip together, a reflective roof panel rotates toward the sun, and interior modules (water tank, food cache, medical kit) slide into place, each labeled and glowing when active.\n\n12. **Sand-Filtered Underground Water Tunnel**\n    A cross-sectional view of desert ground shows an underground horizontal pipe system drawing water from a shallow aquifer, where sand layers filter dirty water particles moving through perforated sections, gradually clearing color from brownish to blue as it travels, with sediment collecting in transparent filter chambers.\n\n13. **Dune-Based Water Harvesting Net**\n    A large mesh net stretches between poles atop a dune ridge, capturing passing fog particles represented as semi-transparent spheres that collide with the mesh, condense into droplets, merge, and drip down guiding ropes into collection basins, whose rising water levels are marked with floating measurement rings.\n\n14. **Solar Panel Array and Battery Lifeline**\n    A line of bright solar panels is staked into the sand, each tilting and rotating to track the sun; electrical energy is visualized as glowing pulses traveling through cables into a battery crate, where charge bars fill up and then flow onward to power a pump, fan, and beacon light, each turning on or dimming as power changes.\n\n15. **Cactus-Inspired Water Storage Prosthesis**\n    A bio-inspired artificial “water limb” attached to a backpack pulses as it absorbs small water packets from the air and from rare puddles; internal chambers branch like cactus ribs and slowly fill, while outer spines radiate heat away as red-to-blue gradients, helping preserve stored water volume shown in transparent reservoirs.\n\n16. **Desert Navigation Using Moving Stars and Sun**\n    A figure walks across a spherical desert world, using a rotating sun and orbiting stars as cues; a compass and shadow-stick appear in the sand, with the shadow’s length and direction changing continuously, while a glowing path projects the predicted safe route to water caches that the user can follow or ignore.\n\n17. **Thermal Rock Shelter Day–Night Cycle**\n    A desert rock overhang and several large boulders heat up in the day and cool at night, visualized as color shifts from blue to red; a survivor avatar attaches and detaches from shaded spots, moving as the sun arcs overhead, while an overhead graph plots rock surface temperature versus air temperature in real time.\n\n18. **Evaporation-Driven Water Lifting Tree**\n    A mechanical “tree” with many thin, branching capillaries draws water from an underground pool up into elevated leaves where it evaporates; water particles climb narrow tubes, branch into multiple paths, and evaporate into the air as tiny vapor spheres, creating a small cool zone under the canopy shown with swirling blue particles.\n\n19. **Desert Convoy Resource Sharing System**\n    Several vehicles travel in a convoy across rolling dunes, leaving dusty trails; each has tanks for water, fuel, and food shown as color-coded bars, and when vehicles dock side-by-side, hoses connect and resources transfer and equalize, while occasional breakdowns force re-distribution to keep the entire convoy alive.\n\n20. **Emergency Parachute Water Catcher**\n    A parachute canopy repurposed as a large catchment basin is stretched between stakes on a slope; scattered rain bursts arrive as falling droplets that bounce, merge, and slide down the fabric toward a central funnel, collecting in a transparent drum whose level and purity (color) change with incoming water and sediment.\n\n21. **Subsurface Burrow Cooling Habitat**\n    A cross-section shows an animal or human shelter dug into the sand, with tunnels and a living chamber; hot air particles skim over the surface, while cooler air slowly circulates through shaded entrances and vertical shafts, creating a gradient of temperature and humidity visualized as layered colored volumes underground.\n\n22. **Solar Concentrator Cooking and Sterilization System**\n    A reflective parabolic dish rotates to track the sun, focusing light rays onto a small pot and a water sterilization tube; incoming rays are drawn as lines that bounce off the dish and converge, heating the pot (color shift) and boiling water inside the tube, where microbe particles shrink, dissolve, and disappear as the water becomes safe.\n\n23. **Modular Desert Camp that Grows and Shrinks**\n    A base camp made of modular cubes (sleeping, water, food, comms) can attach, detach, and rearrange; as more survivors arrive, new modules slide in and snap magnetically into the grid, with shared resource lines glowing between modules, and when resources run low, modules detach and collapse to a smaller, sustainable cluster.\n\n24. **Microscale Desert Crust and Water Retention System**\n    Zoomed-in soil particles form a fragile biological crust with tiny channels; occasional raindrops impact, breaking or compacting crust patches, and water moves through micro-pores, pooling beneath crust islands where root-like filaments grow, branch, and absorb moisture, shown as thin blue trails feeding tiny plant sprouts.\n\n25. **Signal Fire and Airflow Management System**\n    A small camp builds a rock ring fire pit with adjustable vents; as wood burns, smoke particles rise and drift with wind, forming a dark plume visible to a distant tower; opening or closing vents changes airflow patterns, making smoke rise straight up, spread, or pulse in bursts, while a visibility meter at the tower shows signal strength."
+}

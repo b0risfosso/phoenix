@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Loops and cycles",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:12:03",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Triple-Pendulum Loop Chaos",
+      "description": "A 3D simulation of three pendulums chained in a looped ring, each bob swinging and transferring energy around the circle, with colored trails showing chaotic cycles and labels indicating angular velocity.",
+      "seed": "Triple-Pendulum Loop Chaos: A 3D simulation of three pendulums chained in a looped ring, each bob swinging and transferring energy around the circle, with colored trails showing chaotic cycles and labels indicating angular velocity."
+    },
+    {
+      "number": "2",
+      "title": "Water Cycle in a Transparent Mini-Planet",
+      "description": "A small transparent globe with an ocean, clouds, and mountains where water evaporates, condenses into moving cloud particles, rains back down, and flows in rivers, all color-coded and labeled to show the repeating water cycle.",
+      "seed": "Water Cycle in a Transparent Mini-Planet: A small transparent globe with an ocean, clouds, and mountains where water evaporates, condenses into moving cloud particles, rains back down, and flows in rivers, all color-coded and labeled to show the repeating water cycle."
+    },
+    {
+      "number": "3",
+      "title": "Orbiting Moons with Tidal Loops",
+      "description": "A planet with multiple moons on inclined orbits, where tidal bulges on the planet’s surface grow and shrink in cycles as moons pass, with translucent bands showing orbital paths and time-based labels cycling through “high tide” and “low tide.”",
+      "seed": "Orbiting Moons with Tidal Loops: A planet with multiple moons on inclined orbits, where tidal bulges on the planet’s surface grow and shrink in cycles as moons pass, with translucent bands showing orbital paths and time-based labels cycling through “high tide” and “low tide.”"
+    },
+    {
+      "number": "4",
+      "title": "Traffic Roundabout Flow",
+      "description": "A circular 3D roundabout with cars (boxes) entering, looping around, and exiting on multiple levels, with arrows and changing light colors showing traffic cycles, plus occasional collisions or jams that ripple through the loop.",
+      "seed": "Traffic Roundabout Flow: A circular 3D roundabout with cars (boxes) entering, looping around, and exiting on multiple levels, with arrows and changing light colors showing traffic cycles, plus occasional collisions or jams that ripple through the loop."
+    },
+    {
+      "number": "5",
+      "title": "Conveyor Belt Production Loop",
+      "description": "A rectangular loop of conveyor belts where colored packages circulate, stop at stations to attach or detach components, get scanned by rotating arms, and then return to the start, with counters and labels tracking items per cycle.",
+      "seed": "Conveyor Belt Production Loop: A rectangular loop of conveyor belts where colored packages circulate, stop at stations to attach or detach components, get scanned by rotating arms, and then return to the start, with counters and labels tracking items per cycle."
+    },
+    {
+      "number": "6",
+      "title": "Cell Division and Life Cycle Ring",
+      "description": "A group of spherical cells arranged in a ring that grow, divide into two, age, and then dissolve into particles that re-merge into new young cells, with color gradients indicating life-cycle stage and faint trails marking division history.",
+      "seed": "Cell Division and Life Cycle Ring: A group of spherical cells arranged in a ring that grow, divide into two, age, and then dissolve into particles that re-merge into new young cells, with color gradients indicating life-cycle stage and faint trails marking division history."
+    },
+    {
+      "number": "7",
+      "title": "Solar System Seasons Cycle",
+      "description": "A tilted, orbiting planet circling a sun, with a rotating axis, illuminated hemispheres, and labeled “summer/winter” regions cycling as the planet orbits, plus a transparent ring to show the orbital loop and months marked along it.",
+      "seed": "Solar System Seasons Cycle: A tilted, orbiting planet circling a sun, with a rotating axis, illuminated hemispheres, and labeled “summer/winter” regions cycling as the planet orbits, plus a transparent ring to show the orbital loop and months marked along it."
+    },
+    {
+      "number": "8",
+      "title": "Neural Feedback Loop Network",
+      "description": "A closed ring of 3D neuron-like nodes connected by curved glowing tubes, where pulses of light travel around the loop, split, merge, and sometimes reverse, with pulse speed and intensity cycling over time.",
+      "seed": "Neural Feedback Loop Network: A closed ring of 3D neuron-like nodes connected by curved glowing tubes, where pulses of light travel around the loop, split, merge, and sometimes reverse, with pulse speed and intensity cycling over time."
+    },
+    {
+      "number": "9",
+      "title": "Looping Roller Coaster with Repeating Trains",
+      "description": "A 3D roller coaster track with vertical loops and corkscrews, where multiple trains circulate, climb, drop, and invert, with colored trails behind each train and a cycle timer showing loop completion time.",
+      "seed": "Looping Roller Coaster with Repeating Trains: A 3D roller coaster track with vertical loops and corkscrews, where multiple trains circulate, climb, drop, and invert, with colored trails behind each train and a cycle timer showing loop completion time."
+    },
+    {
+      "number": "10",
+      "title": "Carnival Ferris Wheel of Orbits",
+      "description": "A large Ferris wheel where each rotating cabin contains a miniature orbiting satellite or planet, so each cabin both orbits the wheel and has its own inner orbit, with labels and trails to show nested cycles of motion.",
+      "seed": "Carnival Ferris Wheel of Orbits: A large Ferris wheel where each rotating cabin contains a miniature orbiting satellite or planet, so each cabin both orbits the wheel and has its own inner orbit, with labels and trails to show nested cycles of motion."
+    },
+    {
+      "number": "11",
+      "title": "Predator–Prey Population Cycle Rings",
+      "description": "Two circular tracks around a central area: prey cubes loop on the inner ring while predator spheres loop on the outer ring, with occasional radial “chase” paths, population counters, and colors cycling as one population rises and the other falls.",
+      "seed": "Predator–Prey Population Cycle Rings: Two circular tracks around a central area: prey cubes loop on the inner ring while predator spheres loop on the outer ring, with occasional radial “chase” paths, population counters, and colors cycling as one population rises and the other falls."
+    },
+    {
+      "number": "12",
+      "title": "Recycling Plant Material Loop",
+      "description": "Streams of different colored material chunks flow on looping belts through shredders, sorters, and melters, then re-form into blocks that re-enter the loop, with transparent chutes showing mixing and separation cycles.",
+      "seed": "Recycling Plant Material Loop: Streams of different colored material chunks flow on looping belts through shredders, sorters, and melters, then re-form into blocks that re-enter the loop, with transparent chutes showing mixing and separation cycles."
+    },
+    {
+      "number": "13",
+      "title": "Magnetic Particle Cyclotron",
+      "description": "Charged particles spiral inside a transparent cylindrical chamber in looping paths under magnetic fields, accelerating as they complete cycles, with color-coded energy levels and faint circular field lines.",
+      "seed": "Magnetic Particle Cyclotron: Charged particles spiral inside a transparent cylindrical chamber in looping paths under magnetic fields, accelerating as they complete cycles, with color-coded energy levels and faint circular field lines."
+    },
+    {
+      "number": "14",
+      "title": "Day–Night City Light Cycle",
+      "description": "A small city block under a moving sun that loops around the scene, with building lights turning on and off, traffic density changing, and sky color cycling between day and night, all driven by a repeating time-of-day loop.",
+      "seed": "Day–Night City Light Cycle: A small city block under a moving sun that loops around the scene, with building lights turning on and off, traffic density changing, and sky color cycling between day and night, all driven by a repeating time-of-day loop."
+    },
+    {
+      "number": "15",
+      "title": "DNA Replication and Repair Loop",
+      "description": "A semi-transparent double-helix that periodically unzips, with small enzyme spheres sliding along, copying, and repairing sections, then the strands re-zip into a full loop, with errors highlighted and corrected in each cycle.",
+      "seed": "DNA Replication and Repair Loop: A semi-transparent double-helix that periodically unzips, with small enzyme spheres sliding along, copying, and repairing sections, then the strands re-zip into a full loop, with errors highlighted and corrected in each cycle."
+    },
+    {
+      "number": "16",
+      "title": "Looping Supply Chain Network",
+      "description": "A ring of warehouses and factories exchanging container cubes on moving drones that orbit between nodes, attach and detach cargo, and periodically reverse directions, with stock levels and flow rates displayed as cycling bar meters.",
+      "seed": "Looping Supply Chain Network: A ring of warehouses and factories exchanging container cubes on moving drones that orbit between nodes, attach and detach cargo, and periodically reverse directions, with stock levels and flow rates displayed as cycling bar meters."
+    },
+    {
+      "number": "17",
+      "title": "Planetary Ring Particle Cycles",
+      "description": "A planet with a wide, flat ring made of thousands of tiny spheres orbiting in slightly different loops, colliding, clustering, and spreading out, with density variations and subtle waves moving around the ring.",
+      "seed": "Planetary Ring Particle Cycles: A planet with a wide, flat ring made of thousands of tiny spheres orbiting in slightly different loops, colliding, clustering, and spreading out, with density variations and subtle waves moving around the ring."
+    },
+    {
+      "number": "18",
+      "title": "Thermodynamic Heat Engine Loop",
+      "description": "A piston system with gas in a cylinder that cyclically compresses, heats, expands, and cools in a closed loop, visualized with changing colors, labeled stages (A→B→C→D), and a rotating arrow showing the Carnot cycle direction.",
+      "seed": "Thermodynamic Heat Engine Loop: A piston system with gas in a cylinder that cyclically compresses, heats, expands, and cools in a closed loop, visualized with changing colors, labeled stages (A→B→C→D), and a rotating arrow showing the Carnot cycle direction."
+    },
+    {
+      "number": "19",
+      "title": "Food Chain Loop in a Mini Ecosystem Dome",
+      "description": "A transparent dome with plants, herbivores, and predators moving on the terrain, where plants grow and wither cyclically, herbivores graze and reproduce, predators hunt and decline, and nutrient particles recycle in a visible loop.",
+      "seed": "Food Chain Loop in a Mini Ecosystem Dome: A transparent dome with plants, herbivores, and predators moving on the terrain, where plants grow and wither cyclically, herbivores graze and reproduce, predators hunt and decline, and nutrient particles recycle in a visible loop."
+    },
+    {
+      "number": "20",
+      "title": "Looping String of Pendulum Waves",
+      "description": "A circular chain of pendulums around a central axis, each slightly different length, started with a synchronized push so wave patterns travel around the ring, with fading trails and labels marking repeating wave cycles.",
+      "seed": "Looping String of Pendulum Waves: A circular chain of pendulums around a central axis, each slightly different length, started with a synchronized push so wave patterns travel around the ring, with fading trails and labels marking repeating wave cycles."
+    },
+    {
+      "number": "21",
+      "title": "Planet–Moon–Eclipse Cycle",
+      "description": "A sun, planet, and moon aligned in 3D where the moon orbits the planet and the planet orbits the sun, producing cyclical eclipses visualized with shadow cones, dimming light, and an “eclipse meter” that fills and empties each cycle.",
+      "seed": "Planet–Moon–Eclipse Cycle: A sun, planet, and moon aligned in 3D where the moon orbits the planet and the planet orbits the sun, producing cyclical eclipses visualized with shadow cones, dimming light, and an “eclipse meter” that fills and empties each cycle."
+    },
+    {
+      "number": "22",
+      "title": "Rainwater Harvesting Loop",
+      "description": "A building rooftop where raindrop particles fall, collect in gutters, travel through transparent pipes into a storage tank, then get pumped back up in a loop, with water level indicators and color changes as the cycle repeats.",
+      "seed": "Rainwater Harvesting Loop: A building rooftop where raindrop particles fall, collect in gutters, travel through transparent pipes into a storage tank, then get pumped back up in a loop, with water level indicators and color changes as the cycle repeats."
+    },
+    {
+      "number": "23",
+      "title": "Looped Assembly of a Modular Robot",
+      "description": "Segmented robot modules travel on a circular rail, attach to form a long robot that walks a short path, then returns to the rail where segments detach and recirculate, with connectors glowing when they lock and unlock in each cycle.",
+      "seed": "Looped Assembly of a Modular Robot: Segmented robot modules travel on a circular rail, attach to form a long robot that walks a short path, then returns to the rail where segments detach and recirculate, with connectors glowing when they lock and unlock in each cycle."
+    },
+    {
+      "number": "24",
+      "title": "Circular Queue of Data Packets",
+      "description": "A ring-shaped “network bus” where colored data packets orbit, queue at nodes, merge or split, and occasionally collide and get rerouted, with node labels and a clock hand sweeping around to show processing cycles.",
+      "seed": "Circular Queue of Data Packets: A ring-shaped “network bus” where colored data packets orbit, queue at nodes, merge or split, and occasionally collide and get rerouted, with node labels and a clock hand sweeping around to show processing cycles."
+    },
+    {
+      "number": "25",
+      "title": "Lava Lamp Convection Loop",
+      "description": "A tall transparent cylinder with blobs of colored “lava” that warm at the bottom, rise, cool at the top, sink, and merge or split continuously, showing convection loops with subtle flow arrows and temperature-dependent colors.",
+      "seed": "Lava Lamp Convection Loop: A tall transparent cylinder with blobs of colored “lava” that warm at the bottom, rise, cool at the top, sink, and merge or split continuously, showing convection loops with subtle flow arrows and temperature-dependent colors."
+    }
+  ],
+  "raw_output": "Here are strong **Loops and cycles simulation inputs** you can plug into your prompt:\n\n1. **Triple-Pendulum Loop Chaos**\n   A 3D simulation of three pendulums chained in a looped ring, each bob swinging and transferring energy around the circle, with colored trails showing chaotic cycles and labels indicating angular velocity.\n\n2. **Water Cycle in a Transparent Mini-Planet**\n   A small transparent globe with an ocean, clouds, and mountains where water evaporates, condenses into moving cloud particles, rains back down, and flows in rivers, all color-coded and labeled to show the repeating water cycle.\n\n3. **Orbiting Moons with Tidal Loops**\n   A planet with multiple moons on inclined orbits, where tidal bulges on the planet’s surface grow and shrink in cycles as moons pass, with translucent bands showing orbital paths and time-based labels cycling through “high tide” and “low tide.”\n\n4. **Traffic Roundabout Flow**\n   A circular 3D roundabout with cars (boxes) entering, looping around, and exiting on multiple levels, with arrows and changing light colors showing traffic cycles, plus occasional collisions or jams that ripple through the loop.\n\n5. **Conveyor Belt Production Loop**\n   A rectangular loop of conveyor belts where colored packages circulate, stop at stations to attach or detach components, get scanned by rotating arms, and then return to the start, with counters and labels tracking items per cycle.\n\n6. **Cell Division and Life Cycle Ring**\n   A group of spherical cells arranged in a ring that grow, divide into two, age, and then dissolve into particles that re-merge into new young cells, with color gradients indicating life-cycle stage and faint trails marking division history.\n\n7. **Solar System Seasons Cycle**\n   A tilted, orbiting planet circling a sun, with a rotating axis, illuminated hemispheres, and labeled “summer/winter” regions cycling as the planet orbits, plus a transparent ring to show the orbital loop and months marked along it.\n\n8. **Neural Feedback Loop Network**\n   A closed ring of 3D neuron-like nodes connected by curved glowing tubes, where pulses of light travel around the loop, split, merge, and sometimes reverse, with pulse speed and intensity cycling over time.\n\n9. **Looping Roller Coaster with Repeating Trains**\n   A 3D roller coaster track with vertical loops and corkscrews, where multiple trains circulate, climb, drop, and invert, with colored trails behind each train and a cycle timer showing loop completion time.\n\n10. **Carnival Ferris Wheel of Orbits**\n    A large Ferris wheel where each rotating cabin contains a miniature orbiting satellite or planet, so each cabin both orbits the wheel and has its own inner orbit, with labels and trails to show nested cycles of motion.\n\n11. **Predator–Prey Population Cycle Rings**\n    Two circular tracks around a central area: prey cubes loop on the inner ring while predator spheres loop on the outer ring, with occasional radial “chase” paths, population counters, and colors cycling as one population rises and the other falls.\n\n12. **Recycling Plant Material Loop**\n    Streams of different colored material chunks flow on looping belts through shredders, sorters, and melters, then re-form into blocks that re-enter the loop, with transparent chutes showing mixing and separation cycles.\n\n13. **Magnetic Particle Cyclotron**\n    Charged particles spiral inside a transparent cylindrical chamber in looping paths under magnetic fields, accelerating as they complete cycles, with color-coded energy levels and faint circular field lines.\n\n14. **Day–Night City Light Cycle**\n    A small city block under a moving sun that loops around the scene, with building lights turning on and off, traffic density changing, and sky color cycling between day and night, all driven by a repeating time-of-day loop.\n\n15. **DNA Replication and Repair Loop**\n    A semi-transparent double-helix that periodically unzips, with small enzyme spheres sliding along, copying, and repairing sections, then the strands re-zip into a full loop, with errors highlighted and corrected in each cycle.\n\n16. **Looping Supply Chain Network**\n    A ring of warehouses and factories exchanging container cubes on moving drones that orbit between nodes, attach and detach cargo, and periodically reverse directions, with stock levels and flow rates displayed as cycling bar meters.\n\n17. **Planetary Ring Particle Cycles**\n    A planet with a wide, flat ring made of thousands of tiny spheres orbiting in slightly different loops, colliding, clustering, and spreading out, with density variations and subtle waves moving around the ring.\n\n18. **Thermodynamic Heat Engine Loop**\n    A piston system with gas in a cylinder that cyclically compresses, heats, expands, and cools in a closed loop, visualized with changing colors, labeled stages (A→B→C→D), and a rotating arrow showing the Carnot cycle direction.\n\n19. **Food Chain Loop in a Mini Ecosystem Dome**\n    A transparent dome with plants, herbivores, and predators moving on the terrain, where plants grow and wither cyclically, herbivores graze and reproduce, predators hunt and decline, and nutrient particles recycle in a visible loop.\n\n20. **Looping String of Pendulum Waves**\n    A circular chain of pendulums around a central axis, each slightly different length, started with a synchronized push so wave patterns travel around the ring, with fading trails and labels marking repeating wave cycles.\n\n21. **Planet–Moon–Eclipse Cycle**\n    A sun, planet, and moon aligned in 3D where the moon orbits the planet and the planet orbits the sun, producing cyclical eclipses visualized with shadow cones, dimming light, and an “eclipse meter” that fills and empties each cycle.\n\n22. **Rainwater Harvesting Loop**\n    A building rooftop where raindrop particles fall, collect in gutters, travel through transparent pipes into a storage tank, then get pumped back up in a loop, with water level indicators and color changes as the cycle repeats.\n\n23. **Looped Assembly of a Modular Robot**\n    Segmented robot modules travel on a circular rail, attach to form a long robot that walks a short path, then returns to the rail where segments detach and recirculate, with connectors glowing when they lock and unlock in each cycle.\n\n24. **Circular Queue of Data Packets**\n    A ring-shaped “network bus” where colored data packets orbit, queue at nodes, merge or split, and occasionally collide and get rerouted, with node labels and a clock hand sweeping around to show processing cycles.\n\n25. **Lava Lamp Convection Loop**\n    A tall transparent cylinder with blobs of colored “lava” that warm at the bottom, rise, cool at the top, sink, and merge or split continuously, showing convection loops with subtle flow arrows and temperature-dependent colors."
+}

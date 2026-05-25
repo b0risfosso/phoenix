@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Rhythm systems",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:08:16",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Pendulum Rhythm Grid",
+      "description": "A 3D grid of pendulums with slightly different lengths swings over a light plane, gradually shifting from synchronized motion to complex phase patterns, with trails showing their arcs and color-changing bobs indicating local rhythm clusters.",
+      "seed": "Pendulum Rhythm Grid: A 3D grid of pendulums with slightly different lengths swings over a light plane, gradually shifting from synchronized motion to complex phase patterns, with trails showing their arcs and color-changing bobs indicating local rhythm clusters."
+    },
+    {
+      "number": "2",
+      "title": "Orbital Beat Planets",
+      "description": "Colored spheres orbit a central transparent sun on circular tracks where each orbit speed represents a tempo, and when planets cross a marked axis they briefly glow and emit particles, visualizing layered rhythmic cycles.",
+      "seed": "Orbital Beat Planets: Colored spheres orbit a central transparent sun on circular tracks where each orbit speed represents a tempo, and when planets cross a marked axis they briefly glow and emit particles, visualizing layered rhythmic cycles."
+    },
+    {
+      "number": "3",
+      "title": "Neural Rhythm Firing Network",
+      "description": "A floating network of semi-transparent nodes connected by lines pulses in waves as nodes fire in rhythmic patterns, sending glowing particles along connections that can sync, desync, split, and merge into circulating rhythm loops.",
+      "seed": "Neural Rhythm Firing Network: A floating network of semi-transparent nodes connected by lines pulses in waves as nodes fire in rhythmic patterns, sending glowing particles along connections that can sync, desync, split, and merge into circulating rhythm loops."
+    },
+    {
+      "number": "4",
+      "title": "Traffic Light Rhythm City",
+      "description": "A small 3D city block with cars following roads while traffic lights change in repeating patterns, showing rhythmic stop-and-go flows, with labels above intersections tracking phase alignment and congestion pulses.",
+      "seed": "Traffic Light Rhythm City: A small 3D city block with cars following roads while traffic lights change in repeating patterns, showing rhythmic stop-and-go flows, with labels above intersections tracking phase alignment and congestion pulses."
+    },
+    {
+      "number": "5",
+      "title": "Dripping Rhythm Fountain",
+      "description": "Multiple elevated basins drip colored spheres at different intervals into a clear central pool, where ripples expand and overlap on the water surface, and a side meter shows the evolving combined rhythm density over time.",
+      "seed": "Dripping Rhythm Fountain: Multiple elevated basins drip colored spheres at different intervals into a clear central pool, where ripples expand and overlap on the water surface, and a side meter shows the evolving combined rhythm density over time."
+    },
+    {
+      "number": "6",
+      "title": "Mechanical Rhythm Gears",
+      "description": "Interlocking transparent gears of various sizes rotate at fixed ratios, with colored markers on each tooth creating visible rhythmic patterns as they pass a sensor bar that logs and displays beat sequences above the system.",
+      "seed": "Mechanical Rhythm Gears: Interlocking transparent gears of various sizes rotate at fixed ratios, with colored markers on each tooth creating visible rhythmic patterns as they pass a sensor bar that logs and displays beat sequences above the system."
+    },
+    {
+      "number": "7",
+      "title": "Biological Heartbeat Field",
+      "description": "A field of semi-transparent heart-shaped objects contracts and expands rhythmically with slightly different periods, sending out soft spherical pulses that collide and interfere, forming shifting interference patterns in the air.",
+      "seed": "Biological Heartbeat Field: A field of semi-transparent heart-shaped objects contracts and expands rhythmically with slightly different periods, sending out soft spherical pulses that collide and interfere, forming shifting interference patterns in the air."
+    },
+    {
+      "number": "8",
+      "title": "Rhythmic Firefly Swarm",
+      "description": "Small glowing particles (fireflies) hover above a grassy plane, each blinking at its own rhythm but adjusting when near others, gradually synchronizing into clusters of shared blinking patterns with fading light trails.",
+      "seed": "Rhythmic Firefly Swarm: Small glowing particles (fireflies) hover above a grassy plane, each blinking at its own rhythm but adjusting when near others, gradually synchronizing into clusters of shared blinking patterns with fading light trails."
+    },
+    {
+      "number": "9",
+      "title": "Drum Circle Orb Rings",
+      "description": "Rings of hovering drums (cylinders) form concentric circles around a center, where invisible beat sources trigger drumheads to briefly depress and glow, sending shockwave ripples along the floor that overlap in rhythmic mosaics.",
+      "seed": "Drum Circle Orb Rings: Rings of hovering drums (cylinders) form concentric circles around a center, where invisible beat sources trigger drumheads to briefly depress and glow, sending shockwave ripples along the floor that overlap in rhythmic mosaics."
+    },
+    {
+      "number": "10",
+      "title": "Assembly Line Rhythm Factory",
+      "description": "A 3D conveyor system with stations that stamp, cut, and paint blocks at different intervals, so blocks queue, collide, and backup when rhythms misalign, with overhead displays showing station timing and throughput pulses.",
+      "seed": "Assembly Line Rhythm Factory: A 3D conveyor system with stations that stamp, cut, and paint blocks at different intervals, so blocks queue, collide, and backup when rhythms misalign, with overhead displays showing station timing and throughput pulses."
+    },
+    {
+      "number": "11",
+      "title": "Planetary Day–Night Rhythm System",
+      "description": "Multiple rotating planets orbit a star, each spinning at a different rate so day–night boundaries sweep across their surfaces in distinct rhythms, with transparent arcs showing day length and labeled timelines tracking their cycles.",
+      "seed": "Planetary Day–Night Rhythm System: Multiple rotating planets orbit a star, each spinning at a different rate so day–night boundaries sweep across their surfaces in distinct rhythms, with transparent arcs showing day length and labeled timelines tracking their cycles."
+    },
+    {
+      "number": "12",
+      "title": "Subway Rhythm Network",
+      "description": "Trains (elongated boxes) move through transparent underground tunnels between stations on rhythmic schedules, with glowing station rings that pulse when trains arrive, and a floating timeline that shows departures and delays as moving markers.",
+      "seed": "Subway Rhythm Network: Trains (elongated boxes) move through transparent underground tunnels between stations on rhythmic schedules, with glowing station rings that pulse when trains arrive, and a floating timeline that shows departures and delays as moving markers."
+    },
+    {
+      "number": "13",
+      "title": "Cell Cycle Rhythm Colony",
+      "description": "A cluster of semi-transparent cells slowly grow, split, and sometimes merge according to periodic cycles, their membranes pulsing brightness with each phase, and a rising plane marks global colony “beats” as synchronized division waves spread.",
+      "seed": "Cell Cycle Rhythm Colony: A cluster of semi-transparent cells slowly grow, split, and sometimes merge according to periodic cycles, their membranes pulsing brightness with each phase, and a rising plane marks global colony “beats” as synchronized division waves spread."
+    },
+    {
+      "number": "14",
+      "title": "Rhythmic Wave Interference Pool",
+      "description": "Several pistons along the edges of a shallow square pool periodically dip to generate water waves at different frequencies, creating 3D surface interference patterns with color-coded height and a top-view mini-map showing node/antinode grids.",
+      "seed": "Rhythmic Wave Interference Pool: Several pistons along the edges of a shallow square pool periodically dip to generate water waves at different frequencies, creating 3D surface interference patterns with color-coded height and a top-view mini-map showing node/antinode grids."
+    },
+    {
+      "number": "15",
+      "title": "Metronome Synchronization Table",
+      "description": "Many small metronomes (ticking arms) stand on a shared movable platform; as they swing, their base slightly shifts and causes gradual phase locking, with each arm leaving faint trails and a phase diagram floating above.",
+      "seed": "Metronome Synchronization Table: Many small metronomes (ticking arms) stand on a shared movable platform; as they swing, their base slightly shifts and causes gradual phase locking, with each arm leaving faint trails and a phase diagram floating above."
+    },
+    {
+      "number": "16",
+      "title": "Forest Rhythm Seasons",
+      "description": "A 3D forest on a gently rolling terrain cycles through seasons at different rates in different patches—trees change color, drop leaves, and regrow in offset rhythms, with a moving “year marker” plane sweeping across to trigger changes.",
+      "seed": "Forest Rhythm Seasons: A 3D forest on a gently rolling terrain cycles through seasons at different rates in different patches—trees change color, drop leaves, and regrow in offset rhythms, with a moving “year marker” plane sweeping across to trigger changes."
+    },
+    {
+      "number": "17",
+      "title": "Network Load Rhythm Dashboard",
+      "description": "A transparent 3D cube contains nodes representing servers that repeatedly send data packets along glowing lines; packet bursts come in rhythmic waves, lines thicken with load, and floating graphs show periodic congestion and relief.",
+      "seed": "Network Load Rhythm Dashboard: A transparent 3D cube contains nodes representing servers that repeatedly send data packets along glowing lines; packet bursts come in rhythmic waves, lines thicken with load, and floating graphs show periodic congestion and relief."
+    },
+    {
+      "number": "18",
+      "title": "Rhythmic Dance Flock",
+      "description": "Humanoid stick figures on a bright floor follow looping paths while performing periodic arm and leg motions; nearby dancers gradually sync their steps, forming clusters of coordinated choreography with trails marking foot paths.",
+      "seed": "Rhythmic Dance Flock: Humanoid stick figures on a bright floor follow looping paths while performing periodic arm and leg motions; nearby dancers gradually sync their steps, forming clusters of coordinated choreography with trails marking foot paths."
+    },
+    {
+      "number": "19",
+      "title": "Beating Galaxy Spiral",
+      "description": "A spiral galaxy of small stars orbits a center while their brightness pulses in waves that travel along spiral arms, with rotating camera views revealing rhythmic density waves and labels marking beat-propagation speed.",
+      "seed": "Beating Galaxy Spiral: A spiral galaxy of small stars orbits a center while their brightness pulses in waves that travel along spiral arms, with rotating camera views revealing rhythmic density waves and labels marking beat-propagation speed."
+    },
+    {
+      "number": "20",
+      "title": "Factory Pump Rhythm Pipes",
+      "description": "A network of transparent pipes carries colored fluid slugs pushed by pumps that activate at different intervals, causing slugs to collide, merge, or stall at junctions, while pressure gauges rhythmically bounce with each pulse.",
+      "seed": "Factory Pump Rhythm Pipes: A network of transparent pipes carries colored fluid slugs pushed by pumps that activate at different intervals, causing slugs to collide, merge, or stall at junctions, while pressure gauges rhythmically bounce with each pulse."
+    },
+    {
+      "number": "21",
+      "title": "Rhythmic Laser Scan Grid",
+      "description": "A flat plane is scanned by multiple laser beams that sweep back and forth at differing frequencies, leaving temporary glowing lines; where beams cross, bright nodes flash, visualizing complex rhythmic intersections on a light background.",
+      "seed": "Rhythmic Laser Scan Grid: A flat plane is scanned by multiple laser beams that sweep back and forth at differing frequencies, leaving temporary glowing lines; where beams cross, bright nodes flash, visualizing complex rhythmic intersections on a light background."
+    },
+    {
+      "number": "22",
+      "title": "Heartbeat–Breath Coupling Torso",
+      "description": "A semi-transparent torso model shows rhythmic lung expansion and heart contraction; colored pulses travel through arteries and veins in time with the heart, and a floating chart displays the shifting ratio between breath and heartbeat cycles.",
+      "seed": "Heartbeat–Breath Coupling Torso: A semi-transparent torso model shows rhythmic lung expansion and heart contraction; colored pulses travel through arteries and veins in time with the heart, and a floating chart displays the shifting ratio between breath and heartbeat cycles."
+    },
+    {
+      "number": "23",
+      "title": "Rhythmic Crystallization Lattice",
+      "description": "A 3D lattice grows from a seed as new nodes attach in periodic bursts, sending shimmering waves through the structure; some nodes detach in counter-rhythm, creating a breathing crystalline form with color-coded growth phases.",
+      "seed": "Rhythmic Crystallization Lattice: A 3D lattice grows from a seed as new nodes attach in periodic bursts, sending shimmering waves through the structure; some nodes detach in counter-rhythm, creating a breathing crystalline form with color-coded growth phases."
+    },
+    {
+      "number": "24",
+      "title": "Rhythm-Based Sorting Machine",
+      "description": "Colored balls drop from multiple feeders at different rhythmic rates into a sorting mechanism of rotating paddles and gates that open and close periodically, causing balls to bounce, jam, and reroute according to timing alignments.",
+      "seed": "Rhythm-Based Sorting Machine: Colored balls drop from multiple feeders at different rhythmic rates into a sorting mechanism of rotating paddles and gates that open and close periodically, causing balls to bounce, jam, and reroute according to timing alignments."
+    },
+    {
+      "number": "25",
+      "title": "Circadian Rhythm City Lights",
+      "description": "A stylized cityscape cycles through a 24-hour rhythm where building windows, streetlights, and traffic intensity rise and fall at staggered times; labels over districts show their phase in the daily cycle and arcs track light intensity rhythms.",
+      "seed": "Circadian Rhythm City Lights: A stylized cityscape cycles through a 24-hour rhythm where building windows, streetlights, and traffic intensity rise and fall at staggered times; labels over districts show their phase in the daily cycle and arcs track light intensity rhythms."
+    }
+  ],
+  "raw_output": "Here are strong **Rhythm systems simulation inputs** you can plug into your prompt:\n\n1. **Pendulum Rhythm Grid**\n   A 3D grid of pendulums with slightly different lengths swings over a light plane, gradually shifting from synchronized motion to complex phase patterns, with trails showing their arcs and color-changing bobs indicating local rhythm clusters.\n\n2. **Orbital Beat Planets**\n   Colored spheres orbit a central transparent sun on circular tracks where each orbit speed represents a tempo, and when planets cross a marked axis they briefly glow and emit particles, visualizing layered rhythmic cycles.\n\n3. **Neural Rhythm Firing Network**\n   A floating network of semi-transparent nodes connected by lines pulses in waves as nodes fire in rhythmic patterns, sending glowing particles along connections that can sync, desync, split, and merge into circulating rhythm loops.\n\n4. **Traffic Light Rhythm City**\n   A small 3D city block with cars following roads while traffic lights change in repeating patterns, showing rhythmic stop-and-go flows, with labels above intersections tracking phase alignment and congestion pulses.\n\n5. **Dripping Rhythm Fountain**\n   Multiple elevated basins drip colored spheres at different intervals into a clear central pool, where ripples expand and overlap on the water surface, and a side meter shows the evolving combined rhythm density over time.\n\n6. **Mechanical Rhythm Gears**\n   Interlocking transparent gears of various sizes rotate at fixed ratios, with colored markers on each tooth creating visible rhythmic patterns as they pass a sensor bar that logs and displays beat sequences above the system.\n\n7. **Biological Heartbeat Field**\n   A field of semi-transparent heart-shaped objects contracts and expands rhythmically with slightly different periods, sending out soft spherical pulses that collide and interfere, forming shifting interference patterns in the air.\n\n8. **Rhythmic Firefly Swarm**\n   Small glowing particles (fireflies) hover above a grassy plane, each blinking at its own rhythm but adjusting when near others, gradually synchronizing into clusters of shared blinking patterns with fading light trails.\n\n9. **Drum Circle Orb Rings**\n   Rings of hovering drums (cylinders) form concentric circles around a center, where invisible beat sources trigger drumheads to briefly depress and glow, sending shockwave ripples along the floor that overlap in rhythmic mosaics.\n\n10. **Assembly Line Rhythm Factory**\n    A 3D conveyor system with stations that stamp, cut, and paint blocks at different intervals, so blocks queue, collide, and backup when rhythms misalign, with overhead displays showing station timing and throughput pulses.\n\n11. **Planetary Day–Night Rhythm System**\n    Multiple rotating planets orbit a star, each spinning at a different rate so day–night boundaries sweep across their surfaces in distinct rhythms, with transparent arcs showing day length and labeled timelines tracking their cycles.\n\n12. **Subway Rhythm Network**\n    Trains (elongated boxes) move through transparent underground tunnels between stations on rhythmic schedules, with glowing station rings that pulse when trains arrive, and a floating timeline that shows departures and delays as moving markers.\n\n13. **Cell Cycle Rhythm Colony**\n    A cluster of semi-transparent cells slowly grow, split, and sometimes merge according to periodic cycles, their membranes pulsing brightness with each phase, and a rising plane marks global colony “beats” as synchronized division waves spread.\n\n14. **Rhythmic Wave Interference Pool**\n    Several pistons along the edges of a shallow square pool periodically dip to generate water waves at different frequencies, creating 3D surface interference patterns with color-coded height and a top-view mini-map showing node/antinode grids.\n\n15. **Metronome Synchronization Table**\n    Many small metronomes (ticking arms) stand on a shared movable platform; as they swing, their base slightly shifts and causes gradual phase locking, with each arm leaving faint trails and a phase diagram floating above.\n\n16. **Forest Rhythm Seasons**\n    A 3D forest on a gently rolling terrain cycles through seasons at different rates in different patches—trees change color, drop leaves, and regrow in offset rhythms, with a moving “year marker” plane sweeping across to trigger changes.\n\n17. **Network Load Rhythm Dashboard**\n    A transparent 3D cube contains nodes representing servers that repeatedly send data packets along glowing lines; packet bursts come in rhythmic waves, lines thicken with load, and floating graphs show periodic congestion and relief.\n\n18. **Rhythmic Dance Flock**\n    Humanoid stick figures on a bright floor follow looping paths while performing periodic arm and leg motions; nearby dancers gradually sync their steps, forming clusters of coordinated choreography with trails marking foot paths.\n\n19. **Beating Galaxy Spiral**\n    A spiral galaxy of small stars orbits a center while their brightness pulses in waves that travel along spiral arms, with rotating camera views revealing rhythmic density waves and labels marking beat-propagation speed.\n\n20. **Factory Pump Rhythm Pipes**\n    A network of transparent pipes carries colored fluid slugs pushed by pumps that activate at different intervals, causing slugs to collide, merge, or stall at junctions, while pressure gauges rhythmically bounce with each pulse.\n\n21. **Rhythmic Laser Scan Grid**\n    A flat plane is scanned by multiple laser beams that sweep back and forth at differing frequencies, leaving temporary glowing lines; where beams cross, bright nodes flash, visualizing complex rhythmic intersections on a light background.\n\n22. **Heartbeat–Breath Coupling Torso**\n    A semi-transparent torso model shows rhythmic lung expansion and heart contraction; colored pulses travel through arteries and veins in time with the heart, and a floating chart displays the shifting ratio between breath and heartbeat cycles.\n\n23. **Rhythmic Crystallization Lattice**\n    A 3D lattice grows from a seed as new nodes attach in periodic bursts, sending shimmering waves through the structure; some nodes detach in counter-rhythm, creating a breathing crystalline form with color-coded growth phases.\n\n24. **Rhythm-Based Sorting Machine**\n    Colored balls drop from multiple feeders at different rhythmic rates into a sorting mechanism of rotating paddles and gates that open and close periodically, causing balls to bounce, jam, and reroute according to timing alignments.\n\n25. **Circadian Rhythm City Lights**\n    A stylized cityscape cycles through a 24-hour rhythm where building windows, streetlights, and traffic intensity rise and fall at staggered times; labels over districts show their phase in the daily cycle and arcs track light intensity rhythms."
+}

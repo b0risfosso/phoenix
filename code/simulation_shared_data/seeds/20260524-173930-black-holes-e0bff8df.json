@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Black holes",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:39:30",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Binary Black Hole Dance",
+      "description": "Two dark spheres with glowing accretion disks orbit each other while colored particle streams spiral in, merge, and emit pulsing “gravitational wave” rings that expand outward and fade.",
+      "seed": "Binary Black Hole Dance: Two dark spheres with glowing accretion disks orbit each other while colored particle streams spiral in, merge, and emit pulsing “gravitational wave” rings that expand outward and fade."
+    },
+    {
+      "number": "2",
+      "title": "Star Falling into a Black Hole",
+      "description": "A bright star orbits a central black hole, getting stretched into a glowing tidal “spaghetti” stream that wraps around, collides with itself, and forms a hot, swirling accretion disk with flickering particle jets.",
+      "seed": "Star Falling into a Black Hole: A bright star orbits a central black hole, getting stretched into a glowing tidal “spaghetti” stream that wraps around, collides with itself, and forms a hot, swirling accretion disk with flickering particle jets."
+    },
+    {
+      "number": "3",
+      "title": "Accretion Disk with Test Particles",
+      "description": "Hundreds of small colored spheres orbit a central black hole, forming a flat disk where particles collide, stick, or scatter, leaving faint trails while some spiral inward and vanish at the event horizon.",
+      "seed": "Accretion Disk with Test Particles: Hundreds of small colored spheres orbit a central black hole, forming a flat disk where particles collide, stick, or scatter, leaving faint trails while some spiral inward and vanish at the event horizon."
+    },
+    {
+      "number": "4",
+      "title": "Gravitational Lensing of Background Grid",
+      "description": "A transparent grid of light rays and distant stars sits behind a central black hole, and as the camera orbits, the grid and stars warp and bend around the black hole, with curved light paths drawn as glowing arcs.",
+      "seed": "Gravitational Lensing of Background Grid: A transparent grid of light rays and distant stars sits behind a central black hole, and as the camera orbits, the grid and stars warp and bend around the black hole, with curved light paths drawn as glowing arcs."
+    },
+    {
+      "number": "5",
+      "title": "Black Hole and Orbiting Planetary System",
+      "description": "A black hole at the center pulls on a small planetary system: planets with trails follow distorted, precessing orbits, occasionally slingshotting away or spiraling inward and disappearing with a flash.",
+      "seed": "Black Hole and Orbiting Planetary System: A black hole at the center pulls on a small planetary system: planets with trails follow distorted, precessing orbits, occasionally slingshotting away or spiraling inward and disappearing with a flash."
+    },
+    {
+      "number": "6",
+      "title": "Matter Jet Emission from Spinning Black Hole",
+      "description": "A rapidly rotating black hole with a bright, thin accretion disk launches two narrow particle jets along its spin axis, where particles accelerate, collide, branch, and slowly fade while the disk glows and thickens.",
+      "seed": "Matter Jet Emission from Spinning Black Hole: A rapidly rotating black hole with a bright, thin accretion disk launches two narrow particle jets along its spin axis, where particles accelerate, collide, branch, and slowly fade while the disk glows and thickens."
+    },
+    {
+      "number": "7",
+      "title": "Three-Body Chaos with a Black Hole",
+      "description": "A black hole and two stars move in 3D, gravitationally tugging each other; trajectories twist chaotically with colored trails, sometimes ejecting one star while the other gets captured or swallowed.",
+      "seed": "Three-Body Chaos with a Black Hole: A black hole and two stars move in 3D, gravitationally tugging each other; trajectories twist chaotically with colored trails, sometimes ejecting one star while the other gets captured or swallowed."
+    },
+    {
+      "number": "8",
+      "title": "Black Hole Swallowing a Gas Cloud",
+      "description": "A semi-transparent colored gas blob drifts toward a black hole, stretches, splits into streamers, and wraps into a clumpy ring where segments collide, merge, and gradually transfer mass into the black hole.",
+      "seed": "Black Hole Swallowing a Gas Cloud: A semi-transparent colored gas blob drifts toward a black hole, stretches, splits into streamers, and wraps into a clumpy ring where segments collide, merge, and gradually transfer mass into the black hole."
+    },
+    {
+      "number": "9",
+      "title": "Black Hole Cluster in a Star Field",
+      "description": "Several black holes drift within a sparse star cluster; stars orbit, get captured, or slingshot between them, while merging black holes combine into larger ones with changing labels and glow intensity.",
+      "seed": "Black Hole Cluster in a Star Field: Several black holes drift within a sparse star cluster; stars orbit, get captured, or slingshot between them, while merging black holes combine into larger ones with changing labels and glow intensity."
+    },
+    {
+      "number": "10",
+      "title": "Miniature “Black Hole” Marble Experiment",
+      "description": "Small “marble” spheres roll on a shallow funnel surface that slopes into a central hole, orbiting, bouncing, and spiraling inward, with trails that reveal their decaying orbits and collisions.",
+      "seed": "Miniature “Black Hole” Marble Experiment: Small “marble” spheres roll on a shallow funnel surface that slopes into a central hole, orbiting, bouncing, and spiraling inward, with trails that reveal their decaying orbits and collisions."
+    },
+    {
+      "number": "11",
+      "title": "Black Hole Mass Growth Meter",
+      "description": "A single black hole sits in the center while multicolored particles fall in from random directions; each swallowed particle slightly enlarges the black hole and raises a floating mass bar and numeric label.",
+      "seed": "Black Hole Mass Growth Meter: A single black hole sits in the center while multicolored particles fall in from random directions; each swallowed particle slightly enlarges the black hole and raises a floating mass bar and numeric label."
+    },
+    {
+      "number": "12",
+      "title": "Tidal Disruption of a Binary Star Pair",
+      "description": "A close pair of orbiting stars approaches a black hole; their orbits stretch and twist, one star is captured and shredded into a stream, while the other escapes with a new, bent trajectory and a fading trail.",
+      "seed": "Tidal Disruption of a Binary Star Pair: A close pair of orbiting stars approaches a black hole; their orbits stretch and twist, one star is captured and shredded into a stream, while the other escapes with a new, bent trajectory and a fading trail."
+    },
+    {
+      "number": "13",
+      "title": "Black Hole + Magnetic Field Lines",
+      "description": "A spinning black hole is surrounded by arcing, glowing magnetic field lines represented as looping tubes; charged particles slide along these tubes, spiral, and get ejected in structured jets.",
+      "seed": "Black Hole + Magnetic Field Lines: A spinning black hole is surrounded by arcing, glowing magnetic field lines represented as looping tubes; charged particles slide along these tubes, spiral, and get ejected in structured jets."
+    },
+    {
+      "number": "14",
+      "title": "Multi-Scale Galaxy Core with Central Black Hole",
+      "description": "A transparent galactic disk of stars orbits a bright core containing a black hole; inner stars move faster on warped paths, occasionally colliding or being pulled inward, with color-coded orbital speeds.",
+      "seed": "Multi-Scale Galaxy Core with Central Black Hole: A transparent galactic disk of stars orbits a bright core containing a black hole; inner stars move faster on warped paths, occasionally colliding or being pulled inward, with color-coded orbital speeds."
+    },
+    {
+      "number": "15",
+      "title": "Black Hole as a Gravity Well on a Flexible Grid",
+      "description": "A light-colored elastic grid deforms under a central mass; small balls roll and orbit along the curved surface, with the grid dynamically dipping more as additional mass attaches to the central object.",
+      "seed": "Black Hole as a Gravity Well on a Flexible Grid: A light-colored elastic grid deforms under a central mass; small balls roll and orbit along the curved surface, with the grid dynamically dipping more as additional mass attaches to the central object."
+    },
+    {
+      "number": "16",
+      "title": "Black Hole Evaporation Visualization",
+      "description": "A small black hole slowly shrinks over time while emitting tiny, colored particle bursts in all directions; a size label and lifetime bar decrease as more particles escape instead of falling back.",
+      "seed": "Black Hole Evaporation Visualization: A small black hole slowly shrinks over time while emitting tiny, colored particle bursts in all directions; a size label and lifetime bar decrease as more particles escape instead of falling back."
+    },
+    {
+      "number": "17",
+      "title": "Accretion Disk Instability and Ring Breakup",
+      "description": "A smooth ring of particles around a black hole develops clumps that grow, collide, and split; sections of the ring detach and form spiral arms that either fall in or escape as arcs of particles.",
+      "seed": "Accretion Disk Instability and Ring Breakup: A smooth ring of particles around a black hole develops clumps that grow, collide, and split; sections of the ring detach and form spiral arms that either fall in or escape as arcs of particles."
+    },
+    {
+      "number": "18",
+      "title": "Black Hole and Photon Orbits",
+      "description": "Streams of light-like particles approach a black hole from different angles; some skim, curve, and escape, others enter a tight photon ring orbit before spiraling in, with curved paths drawn as glowing trails.",
+      "seed": "Black Hole and Photon Orbits: Streams of light-like particles approach a black hole from different angles; some skim, curve, and escape, others enter a tight photon ring orbit before spiraling in, with curved paths drawn as glowing trails."
+    },
+    {
+      "number": "19",
+      "title": "Educational Black Hole Cross-Section",
+      "description": "A cutaway 3D sphere shows layers: event horizon, ergosphere, and singularity; labeled, semi-transparent shells rotate slowly while colored test particles demonstrate which regions allow escape or capture.",
+      "seed": "Educational Black Hole Cross-Section: A cutaway 3D sphere shows layers: event horizon, ergosphere, and singularity; labeled, semi-transparent shells rotate slowly while colored test particles demonstrate which regions allow escape or capture."
+    },
+    {
+      "number": "20",
+      "title": "Black Hole Feeding from a Companion Star",
+      "description": "A star and a black hole orbit a shared center; gas gently pulls off the star’s surface, forming a spiraling transfer stream that wraps into a small disk around the black hole, with mass transfer rate shown on a gauge.",
+      "seed": "Black Hole Feeding from a Companion Star: A star and a black hole orbit a shared center; gas gently pulls off the star’s surface, forming a spiraling transfer stream that wraps into a small disk around the black hole, with mass transfer rate shown on a gauge."
+    },
+    {
+      "number": "21",
+      "title": "Black Hole Merger in a Starry Background",
+      "description": "Two black holes with small disks slowly spiral together, their orbits shrinking while they emit expanding, rippling rings; at merger, they form one larger black hole whose spin axis reorients and jets realign.",
+      "seed": "Black Hole Merger in a Starry Background: Two black holes with small disks slowly spiral together, their orbits shrinking while they emit expanding, rippling rings; at merger, they form one larger black hole whose spin axis reorients and jets realign."
+    },
+    {
+      "number": "22",
+      "title": "Particle Fountain Near a Micro Black Hole",
+      "description": "A tiny central black hole levitates above a platform; colored particles are sprayed upward like a fountain and either escape, bounce off a transparent “lab” dome, or get deflected and swallowed by the black hole.",
+      "seed": "Particle Fountain Near a Micro Black Hole: A tiny central black hole levitates above a platform; colored particles are sprayed upward like a fountain and either escape, bounce off a transparent “lab” dome, or get deflected and swallowed by the black hole."
+    },
+    {
+      "number": "23",
+      "title": "Symbolic “Information Loss” Box as Black Hole",
+      "description": "Data-cube objects with binary-texture surfaces float toward a dark “information hole” box; cubes entering dissolve into colored particles while a side panel tracks “in” vs. “recovered” information counts.",
+      "seed": "Symbolic “Information Loss” Box as Black Hole: Data-cube objects with binary-texture surfaces float toward a dark “information hole” box; cubes entering dissolve into colored particles while a side panel tracks “in” vs. “recovered” information counts."
+    },
+    {
+      "number": "24",
+      "title": "Black Hole with Orbiting Debris Ring",
+      "description": "Rock fragments and metal chunks orbit a black hole in a thick debris ring, colliding, bouncing, and sometimes sticking into larger clumps that migrate inward or outward depending on repeated impacts.",
+      "seed": "Black Hole with Orbiting Debris Ring: Rock fragments and metal chunks orbit a black hole in a thick debris ring, colliding, bouncing, and sometimes sticking into larger clumps that migrate inward or outward depending on repeated impacts."
+    },
+    {
+      "number": "25",
+      "title": "Wormhole vs. Black Hole Comparison",
+      "description": "A black hole on one side and a wormhole throat on the other both pull in particles; particles entering the black hole vanish, while those entering the wormhole emerge at a distant opening, with paths color-coded and labeled.",
+      "seed": "Wormhole vs. Black Hole Comparison: A black hole on one side and a wormhole throat on the other both pull in particles; particles entering the black hole vanish, while those entering the wormhole emerge at a distant opening, with paths color-coded and labeled."
+    }
+  ],
+  "raw_output": "Here are strong **Black holes simulation inputs** you can plug into your prompt:\n\n1. **Binary Black Hole Dance**\n   Two dark spheres with glowing accretion disks orbit each other while colored particle streams spiral in, merge, and emit pulsing “gravitational wave” rings that expand outward and fade.\n\n2. **Star Falling into a Black Hole**\n   A bright star orbits a central black hole, getting stretched into a glowing tidal “spaghetti” stream that wraps around, collides with itself, and forms a hot, swirling accretion disk with flickering particle jets.\n\n3. **Accretion Disk with Test Particles**\n   Hundreds of small colored spheres orbit a central black hole, forming a flat disk where particles collide, stick, or scatter, leaving faint trails while some spiral inward and vanish at the event horizon.\n\n4. **Gravitational Lensing of Background Grid**\n   A transparent grid of light rays and distant stars sits behind a central black hole, and as the camera orbits, the grid and stars warp and bend around the black hole, with curved light paths drawn as glowing arcs.\n\n5. **Black Hole and Orbiting Planetary System**\n   A black hole at the center pulls on a small planetary system: planets with trails follow distorted, precessing orbits, occasionally slingshotting away or spiraling inward and disappearing with a flash.\n\n6. **Matter Jet Emission from Spinning Black Hole**\n   A rapidly rotating black hole with a bright, thin accretion disk launches two narrow particle jets along its spin axis, where particles accelerate, collide, branch, and slowly fade while the disk glows and thickens.\n\n7. **Three-Body Chaos with a Black Hole**\n   A black hole and two stars move in 3D, gravitationally tugging each other; trajectories twist chaotically with colored trails, sometimes ejecting one star while the other gets captured or swallowed.\n\n8. **Black Hole Swallowing a Gas Cloud**\n   A semi-transparent colored gas blob drifts toward a black hole, stretches, splits into streamers, and wraps into a clumpy ring where segments collide, merge, and gradually transfer mass into the black hole.\n\n9. **Black Hole Cluster in a Star Field**\n   Several black holes drift within a sparse star cluster; stars orbit, get captured, or slingshot between them, while merging black holes combine into larger ones with changing labels and glow intensity.\n\n10. **Miniature “Black Hole” Marble Experiment**\n    Small “marble” spheres roll on a shallow funnel surface that slopes into a central hole, orbiting, bouncing, and spiraling inward, with trails that reveal their decaying orbits and collisions.\n\n11. **Black Hole Mass Growth Meter**\n    A single black hole sits in the center while multicolored particles fall in from random directions; each swallowed particle slightly enlarges the black hole and raises a floating mass bar and numeric label.\n\n12. **Tidal Disruption of a Binary Star Pair**\n    A close pair of orbiting stars approaches a black hole; their orbits stretch and twist, one star is captured and shredded into a stream, while the other escapes with a new, bent trajectory and a fading trail.\n\n13. **Black Hole + Magnetic Field Lines**\n    A spinning black hole is surrounded by arcing, glowing magnetic field lines represented as looping tubes; charged particles slide along these tubes, spiral, and get ejected in structured jets.\n\n14. **Multi-Scale Galaxy Core with Central Black Hole**\n    A transparent galactic disk of stars orbits a bright core containing a black hole; inner stars move faster on warped paths, occasionally colliding or being pulled inward, with color-coded orbital speeds.\n\n15. **Black Hole as a Gravity Well on a Flexible Grid**\n    A light-colored elastic grid deforms under a central mass; small balls roll and orbit along the curved surface, with the grid dynamically dipping more as additional mass attaches to the central object.\n\n16. **Black Hole Evaporation Visualization**\n    A small black hole slowly shrinks over time while emitting tiny, colored particle bursts in all directions; a size label and lifetime bar decrease as more particles escape instead of falling back.\n\n17. **Accretion Disk Instability and Ring Breakup**\n    A smooth ring of particles around a black hole develops clumps that grow, collide, and split; sections of the ring detach and form spiral arms that either fall in or escape as arcs of particles.\n\n18. **Black Hole and Photon Orbits**\n    Streams of light-like particles approach a black hole from different angles; some skim, curve, and escape, others enter a tight photon ring orbit before spiraling in, with curved paths drawn as glowing trails.\n\n19. **Educational Black Hole Cross-Section**\n    A cutaway 3D sphere shows layers: event horizon, ergosphere, and singularity; labeled, semi-transparent shells rotate slowly while colored test particles demonstrate which regions allow escape or capture.\n\n20. **Black Hole Feeding from a Companion Star**\n    A star and a black hole orbit a shared center; gas gently pulls off the star’s surface, forming a spiraling transfer stream that wraps into a small disk around the black hole, with mass transfer rate shown on a gauge.\n\n21. **Black Hole Merger in a Starry Background**\n    Two black holes with small disks slowly spiral together, their orbits shrinking while they emit expanding, rippling rings; at merger, they form one larger black hole whose spin axis reorients and jets realign.\n\n22. **Particle Fountain Near a Micro Black Hole**\n    A tiny central black hole levitates above a platform; colored particles are sprayed upward like a fountain and either escape, bounce off a transparent “lab” dome, or get deflected and swallowed by the black hole.\n\n23. **Symbolic “Information Loss” Box as Black Hole**\n    Data-cube objects with binary-texture surfaces float toward a dark “information hole” box; cubes entering dissolve into colored particles while a side panel tracks “in” vs. “recovered” information counts.\n\n24. **Black Hole with Orbiting Debris Ring**\n    Rock fragments and metal chunks orbit a black hole in a thick debris ring, colliding, bouncing, and sometimes sticking into larger clumps that migrate inward or outward depending on repeated impacts.\n\n25. **Wormhole vs. Black Hole Comparison**\n    A black hole on one side and a wormhole throat on the other both pull in particles; particles entering the black hole vanish, while those entering the wormhole emerge at a distant opening, with paths color-coded and labeled."
+}

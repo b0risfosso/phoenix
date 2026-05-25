@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Search algorithms",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:00:26",
+  "entries": [
+    {
+      "number": "1",
+      "title": "3D Maze with Competing Search Agents",
+      "description": "A translucent 3D maze of boxes where differently colored spheres (DFS, BFS, A*) start from the same point, branch through corridors, leave colored trails, and race to a glowing goal cube while visited nodes briefly pulse.",
+      "seed": "3D Maze with Competing Search Agents: A translucent 3D maze of boxes where differently colored spheres (DFS, BFS, A*) start from the same point, branch through corridors, leave colored trails, and race to a glowing goal cube while visited nodes briefly pulse."
+    },
+    {
+      "number": "2",
+      "title": "Graph Search on Floating Nodes",
+      "description": "Dozens of semi-transparent spheres (nodes) float in space connected by thin rods (edges), and a search algorithm animates a small glowing scout orb that hops node-to-node, coloring visited edges, growing a visible “frontier” ring, and labeling costs above each node.",
+      "seed": "Graph Search on Floating Nodes: Dozens of semi-transparent spheres (nodes) float in space connected by thin rods (edges), and a search algorithm animates a small glowing scout orb that hops node-to-node, coloring visited edges, growing a visible “frontier” ring, and labeling costs above each node."
+    },
+    {
+      "number": "3",
+      "title": "A* Pathfinding on a Terraced Landscape",
+      "description": "A gently undulating 3D terrain of pastel tiles with varying heights and costs is overlaid by a start and goal marker; small pathfinding agents slide over tiles, leaving gradient-colored trails that thicken on optimal routes and fade on discarded paths.",
+      "seed": "A* Pathfinding on a Terraced Landscape: A gently undulating 3D terrain of pastel tiles with varying heights and costs is overlaid by a start and goal marker; small pathfinding agents slide over tiles, leaving gradient-colored trails that thicken on optimal routes and fade on discarded paths."
+    },
+    {
+      "number": "4",
+      "title": "Swarm Search in a Debris Field",
+      "description": "A cloud of tumbling gray rocks fills space while multiple small drones (cones with glowing tips) fan out using different search strategies, scanning with rotating beams, tagging debris with colored markers, and converging on hidden target objects that flash when found.",
+      "seed": "Swarm Search in a Debris Field: A cloud of tumbling gray rocks fills space while multiple small drones (cones with glowing tips) fan out using different search strategies, scanning with rotating beams, tagging debris with colored markers, and converging on hidden target objects that flash when found."
+    },
+    {
+      "number": "5",
+      "title": "Warehouse Robot Route Planning",
+      "description": "Tall shelves form aisles in a bright warehouse, and cube-shaped robots plan and follow search paths between shelves, pausing at intersections, leaving directional arrow markers on the floor, and adjusting paths dynamically as a moving obstacle cart blocks routes.",
+      "seed": "Warehouse Robot Route Planning: Tall shelves form aisles in a bright warehouse, and cube-shaped robots plan and follow search paths between shelves, pausing at intersections, leaving directional arrow markers on the floor, and adjusting paths dynamically as a moving obstacle cart blocks routes."
+    },
+    {
+      "number": "6",
+      "title": "3D Tree Search Growing from a Root Node",
+      "description": "A central root sphere at the origin sprouts branching rods as a tree search unfolds, with new child nodes budding outward in 3D, visited nodes changing from transparent to solid, frontier nodes glowing, and pruned branches fading away.",
+      "seed": "3D Tree Search Growing from a Root Node: A central root sphere at the origin sprouts branching rods as a tree search unfolds, with new child nodes budding outward in 3D, visited nodes changing from transparent to solid, frontier nodes glowing, and pruned branches fading away."
+    },
+    {
+      "number": "7",
+      "title": "Search and Rescue in a Collapsed Building",
+      "description": "A multi-level lattice of beams and slabs partially blocks the view; small crawler bots navigate through gaps using different search algorithms, attaching signal beacons to discovered survivors (glowing capsules) and leaving color-coded cable trails to mark explored paths.",
+      "seed": "Search and Rescue in a Collapsed Building: A multi-level lattice of beams and slabs partially blocks the view; small crawler bots navigate through gaps using different search algorithms, attaching signal beacons to discovered survivors (glowing capsules) and leaving color-coded cable trails to mark explored paths."
+    },
+    {
+      "number": "8",
+      "title": "Heuristic Search on a Rubik’s Cube State Space",
+      "description": "A Rubik’s cube in the center is surrounded by semi-transparent ghost cubes representing explored states that orbit outward as search depth increases, while edges between cubes appear and brighten for promising heuristic moves.",
+      "seed": "Heuristic Search on a Rubik’s Cube State Space: A Rubik’s cube in the center is surrounded by semi-transparent ghost cubes representing explored states that orbit outward as search depth increases, while edges between cubes appear and brighten for promising heuristic moves."
+    },
+    {
+      "number": "9",
+      "title": "Dijkstra vs A* on a Weighted Tunnel Network",
+      "description": "A 3D network of translucent tunnels with thickness indicating cost connects start and goal rooms; one colored particle cloud follows Dijkstra’s exhaustive expansion while another cloud follows A*, each cloud filling tunnels as they’re explored and labeling cumulative distances.",
+      "seed": "Dijkstra vs A* on a Weighted Tunnel Network: A 3D network of translucent tunnels with thickness indicating cost connects start and goal rooms; one colored particle cloud follows Dijkstra’s exhaustive expansion while another cloud follows A*, each cloud filling tunnels as they’re explored and labeling cumulative distances."
+    },
+    {
+      "number": "10",
+      "title": "Search Algorithms Exploring a Planetary Surface",
+      "description": "A small rover drives over a spherical planet covered in crater-like depressions and ridges, planning routes to multiple sample sites by testing BFS, DFS, and greedy search modes, with each mode drawing different colored geodesic paths around the globe.",
+      "seed": "Search Algorithms Exploring a Planetary Surface: A small rover drives over a spherical planet covered in crater-like depressions and ridges, planning routes to multiple sample sites by testing BFS, DFS, and greedy search modes, with each mode drawing different colored geodesic paths around the globe."
+    },
+    {
+      "number": "11",
+      "title": "Beam Search Spotlight Through a Node Cloud",
+      "description": "Hundreds of faint spheres (candidate states) float in a 3D volume; a horizontal “beam” of bright cylinders shows which nodes are kept each level, while discarded nodes dim and drift away, and selected nodes rise upward to form a luminous solution chain.",
+      "seed": "Beam Search Spotlight Through a Node Cloud: Hundreds of faint spheres (candidate states) float in a 3D volume; a horizontal “beam” of bright cylinders shows which nodes are kept each level, while discarded nodes dim and drift away, and selected nodes rise upward to form a luminous solution chain."
+    },
+    {
+      "number": "12",
+      "title": "Bidirectional Search Tunnels Converging",
+      "description": "Two glowing orbs start from opposite sides of a complex transparent obstacle field, each carving a tunnel of visited points toward the other, with their expanding frontiers shown as growing semi-spherical shells until they meet and a final shortest path line snaps into place.",
+      "seed": "Bidirectional Search Tunnels Converging: Two glowing orbs start from opposite sides of a complex transparent obstacle field, each carving a tunnel of visited points toward the other, with their expanding frontiers shown as growing semi-spherical shells until they meet and a final shortest path line snaps into place."
+    },
+    {
+      "number": "13",
+      "title": "Search Agents Exploring a 3D Labyrinth Cave",
+      "description": "A twisting cavern with stalagmites and stalactites is explored by small lantern-carrying explorers using different search strategies, whose lights gradually illuminate the map, leave phosphorescent footprints, and mark dead-ends with dim red X symbols on the ground.",
+      "seed": "Search Agents Exploring a 3D Labyrinth Cave: A twisting cavern with stalagmites and stalactites is explored by small lantern-carrying explorers using different search strategies, whose lights gradually illuminate the map, leave phosphorescent footprints, and mark dead-ends with dim red X symbols on the ground."
+    },
+    {
+      "number": "14",
+      "title": "Genetic Search for Shortest 3D Tour",
+      "description": "Dozens of numbered waypoints float in a cube volume while multiple candidate tours appear as looping polylines; each generation, some paths fade, others merge and mutate, with the currently best path thickening and glowing brighter as its length meter drops.",
+      "seed": "Genetic Search for Shortest 3D Tour: Dozens of numbered waypoints float in a cube volume while multiple candidate tours appear as looping polylines; each generation, some paths fade, others merge and mutate, with the currently best path thickening and glowing brighter as its length meter drops."
+    },
+    {
+      "number": "15",
+      "title": "Hill-Climbing Search on a 3D Cost Landscape",
+      "description": "A smooth pastel 3D surface represents a cost function, and multiple marbles start at random points, rolling uphill or downhill based on different hill-climbing variants, leaving trails that show where they got stuck on local maxima or successfully reached the global peak.",
+      "seed": "Hill-Climbing Search on a 3D Cost Landscape: A smooth pastel 3D surface represents a cost function, and multiple marbles start at random points, rolling uphill or downhill based on different hill-climbing variants, leaving trails that show where they got stuck on local maxima or successfully reached the global peak."
+    },
+    {
+      "number": "16",
+      "title": "Search-Based Puzzle Solver on Sliding Blocks",
+      "description": "A 3D sliding-block puzzle (colored rectangular prisms) floats in space, and a ghost “search tree” of miniature puzzle states fans out behind it as an algorithm explores moves, with the chosen path to the solution lighting up and re-playing as a smooth sequence of block slides.",
+      "seed": "Search-Based Puzzle Solver on Sliding Blocks: A 3D sliding-block puzzle (colored rectangular prisms) floats in space, and a ghost “search tree” of miniature puzzle states fans out behind it as an algorithm explores moves, with the chosen path to the solution lighting up and re-playing as a smooth sequence of block slides."
+    },
+    {
+      "number": "17",
+      "title": "Depth-Limited and Iterative Deepening Tree Dive",
+      "description": "A large 3D tree of linked nodes hangs downward like roots; a small search orb dives along branches to a depth limit, marking nodes with a depth label, then resets and dives deeper each iteration, leaving stacked rings of different colors for each limit.",
+      "seed": "Depth-Limited and Iterative Deepening Tree Dive: A large 3D tree of linked nodes hangs downward like roots; a small search orb dives along branches to a depth limit, marking nodes with a depth label, then resets and dives deeper each iteration, leaving stacked rings of different colors for each limit."
+    },
+    {
+      "number": "18",
+      "title": "Robot Vacuum Searching a Multilevel Apartment",
+      "description": "A transparent cutaway apartment with multiple floors shows a disc-shaped robot vacuum systematically searching rooms, leaving faint cleaned-floor marks, bumping gently into furniture, and changing its search pattern as it detects stairs, walls, and dirt clusters.",
+      "seed": "Robot Vacuum Searching a Multilevel Apartment: A transparent cutaway apartment with multiple floors shows a disc-shaped robot vacuum systematically searching rooms, leaving faint cleaned-floor marks, bumping gently into furniture, and changing its search pattern as it detects stairs, walls, and dirt clusters."
+    },
+    {
+      "number": "19",
+      "title": "Particle Filter Search for a Hidden Target",
+      "description": "A rectangular room with obstacles contains an invisible target; hundreds of tiny semi-transparent particles represent hypotheses, spreading, bouncing off walls, updating weights via color intensity as sensors fire, and gradually condensing into a bright cluster around the target.",
+      "seed": "Particle Filter Search for a Hidden Target: A rectangular room with obstacles contains an invisible target; hundreds of tiny semi-transparent particles represent hypotheses, spreading, bouncing off walls, updating weights via color intensity as sensors fire, and gradually condensing into a bright cluster around the target."
+    },
+    {
+      "number": "20",
+      "title": "Ant Colony Search on a 3D Grid",
+      "description": "A lattice of nodes forms a 3D grid where tiny ant agents move along edges, depositing and following pheromone trails visualized as glowing lines that thicken and brighten on more promising paths between a food source sphere and a nest sphere.",
+      "seed": "Ant Colony Search on a 3D Grid: A lattice of nodes forms a 3D grid where tiny ant agents move along edges, depositing and following pheromone trails visualized as glowing lines that thicken and brighten on more promising paths between a food source sphere and a nest sphere."
+    },
+    {
+      "number": "21",
+      "title": "Search Algorithms Navigating Traffic Networks",
+      "description": "Elevated roads and ramps form a 3D highway interchange with moving car boxes; virtual “search cars” simulate routing from on-ramp to off-ramp with different algorithms, showing their chosen paths above the roads as floating colored tubes with estimated vs actual time labels.",
+      "seed": "Search Algorithms Navigating Traffic Networks: Elevated roads and ramps form a 3D highway interchange with moving car boxes; virtual “search cars” simulate routing from on-ramp to off-ramp with different algorithms, showing their chosen paths above the roads as floating colored tubes with estimated vs actual time labels."
+    },
+    {
+      "number": "22",
+      "title": "Monte Carlo Tree Search on a 3D Game Board",
+      "description": "A board game arena with towers and pieces sits in the center, while a branching cloud of semitransparent cubes (states) grows above it as MCTS runs simulations, with simulation rollouts shown as quick ghost-piece moves and high-value branches turning vivid green.",
+      "seed": "Monte Carlo Tree Search on a 3D Game Board: A board game arena with towers and pieces sits in the center, while a branching cloud of semitransparent cubes (states) grows above it as MCTS runs simulations, with simulation rollouts shown as quick ghost-piece moves and high-value branches turning vivid green."
+    },
+    {
+      "number": "23",
+      "title": "Search for Signal in a 3D Noise Field",
+      "description": "A volume of tiny, randomly moving particles represents noise, with a few rare “signal” particles that glow slightly; different search strategies guide a scanning probe that sweeps, spirals, or jumps through the field, leaving behind trails and highlighting detected signals.",
+      "seed": "Search for Signal in a 3D Noise Field: A volume of tiny, randomly moving particles represents noise, with a few rare “signal” particles that glow slightly; different search strategies guide a scanning probe that sweeps, spirals, or jumps through the field, leaving behind trails and highlighting detected signals."
+    },
+    {
+      "number": "24",
+      "title": "Search Algorithm Race on a 3D Grid Maze",
+      "description": "A cubic grid maze of cells with some blocked as opaque cubes hosts several small colored spheres, each representing a search strategy; they simultaneously explore, painting visited cells, pushing aside movable barriers, and racing to reach a central treasure orb first.",
+      "seed": "Search Algorithm Race on a 3D Grid Maze: A cubic grid maze of cells with some blocked as opaque cubes hosts several small colored spheres, each representing a search strategy; they simultaneously explore, painting visited cells, pushing aside movable barriers, and racing to reach a central treasure orb first."
+    },
+    {
+      "number": "25",
+      "title": "Iterative Deepening Search of Orbital Paths",
+      "description": "A central planet with many possible orbital rings and transfer paths is surrounded by small spacecraft that attempt to find a fuel-efficient route to a distant station; each iterative deepening step adds a new layer of possible orbits, with used paths glowing and unused ones fading.",
+      "seed": "Iterative Deepening Search of Orbital Paths: A central planet with many possible orbital rings and transfer paths is surrounded by small spacecraft that attempt to find a fuel-efficient route to a distant station; each iterative deepening step adds a new layer of possible orbits, with used paths glowing and unused ones fading."
+    }
+  ],
+  "raw_output": "Here are strong **Search algorithms simulation inputs** you can plug into your prompt:\n\n1. **3D Maze with Competing Search Agents**  \n   A translucent 3D maze of boxes where differently colored spheres (DFS, BFS, A*) start from the same point, branch through corridors, leave colored trails, and race to a glowing goal cube while visited nodes briefly pulse.\n\n2. **Graph Search on Floating Nodes**  \n   Dozens of semi-transparent spheres (nodes) float in space connected by thin rods (edges), and a search algorithm animates a small glowing scout orb that hops node-to-node, coloring visited edges, growing a visible “frontier” ring, and labeling costs above each node.\n\n3. **A* Pathfinding on a Terraced Landscape**  \n   A gently undulating 3D terrain of pastel tiles with varying heights and costs is overlaid by a start and goal marker; small pathfinding agents slide over tiles, leaving gradient-colored trails that thicken on optimal routes and fade on discarded paths.\n\n4. **Swarm Search in a Debris Field**  \n   A cloud of tumbling gray rocks fills space while multiple small drones (cones with glowing tips) fan out using different search strategies, scanning with rotating beams, tagging debris with colored markers, and converging on hidden target objects that flash when found.\n\n5. **Warehouse Robot Route Planning**  \n   Tall shelves form aisles in a bright warehouse, and cube-shaped robots plan and follow search paths between shelves, pausing at intersections, leaving directional arrow markers on the floor, and adjusting paths dynamically as a moving obstacle cart blocks routes.\n\n6. **3D Tree Search Growing from a Root Node**  \n   A central root sphere at the origin sprouts branching rods as a tree search unfolds, with new child nodes budding outward in 3D, visited nodes changing from transparent to solid, frontier nodes glowing, and pruned branches fading away.\n\n7. **Search and Rescue in a Collapsed Building**  \n   A multi-level lattice of beams and slabs partially blocks the view; small crawler bots navigate through gaps using different search algorithms, attaching signal beacons to discovered survivors (glowing capsules) and leaving color-coded cable trails to mark explored paths.\n\n8. **Heuristic Search on a Rubik’s Cube State Space**  \n   A Rubik’s cube in the center is surrounded by semi-transparent ghost cubes representing explored states that orbit outward as search depth increases, while edges between cubes appear and brighten for promising heuristic moves.\n\n9. **Dijkstra vs A* on a Weighted Tunnel Network**  \n   A 3D network of translucent tunnels with thickness indicating cost connects start and goal rooms; one colored particle cloud follows Dijkstra’s exhaustive expansion while another cloud follows A*, each cloud filling tunnels as they’re explored and labeling cumulative distances.\n\n10. **Search Algorithms Exploring a Planetary Surface**  \n    A small rover drives over a spherical planet covered in crater-like depressions and ridges, planning routes to multiple sample sites by testing BFS, DFS, and greedy search modes, with each mode drawing different colored geodesic paths around the globe.\n\n11. **Beam Search Spotlight Through a Node Cloud**  \n    Hundreds of faint spheres (candidate states) float in a 3D volume; a horizontal “beam” of bright cylinders shows which nodes are kept each level, while discarded nodes dim and drift away, and selected nodes rise upward to form a luminous solution chain.\n\n12. **Bidirectional Search Tunnels Converging**  \n    Two glowing orbs start from opposite sides of a complex transparent obstacle field, each carving a tunnel of visited points toward the other, with their expanding frontiers shown as growing semi-spherical shells until they meet and a final shortest path line snaps into place.\n\n13. **Search Agents Exploring a 3D Labyrinth Cave**  \n    A twisting cavern with stalagmites and stalactites is explored by small lantern-carrying explorers using different search strategies, whose lights gradually illuminate the map, leave phosphorescent footprints, and mark dead-ends with dim red X symbols on the ground.\n\n14. **Genetic Search for Shortest 3D Tour**  \n    Dozens of numbered waypoints float in a cube volume while multiple candidate tours appear as looping polylines; each generation, some paths fade, others merge and mutate, with the currently best path thickening and glowing brighter as its length meter drops.\n\n15. **Hill-Climbing Search on a 3D Cost Landscape**  \n    A smooth pastel 3D surface represents a cost function, and multiple marbles start at random points, rolling uphill or downhill based on different hill-climbing variants, leaving trails that show where they got stuck on local maxima or successfully reached the global peak.\n\n16. **Search-Based Puzzle Solver on Sliding Blocks**  \n    A 3D sliding-block puzzle (colored rectangular prisms) floats in space, and a ghost “search tree” of miniature puzzle states fans out behind it as an algorithm explores moves, with the chosen path to the solution lighting up and re-playing as a smooth sequence of block slides.\n\n17. **Depth-Limited and Iterative Deepening Tree Dive**  \n    A large 3D tree of linked nodes hangs downward like roots; a small search orb dives along branches to a depth limit, marking nodes with a depth label, then resets and dives deeper each iteration, leaving stacked rings of different colors for each limit.\n\n18. **Robot Vacuum Searching a Multilevel Apartment**  \n    A transparent cutaway apartment with multiple floors shows a disc-shaped robot vacuum systematically searching rooms, leaving faint cleaned-floor marks, bumping gently into furniture, and changing its search pattern as it detects stairs, walls, and dirt clusters.\n\n19. **Particle Filter Search for a Hidden Target**  \n    A rectangular room with obstacles contains an invisible target; hundreds of tiny semi-transparent particles represent hypotheses, spreading, bouncing off walls, updating weights via color intensity as sensors fire, and gradually condensing into a bright cluster around the target.\n\n20. **Ant Colony Search on a 3D Grid**  \n    A lattice of nodes forms a 3D grid where tiny ant agents move along edges, depositing and following pheromone trails visualized as glowing lines that thicken and brighten on more promising paths between a food source sphere and a nest sphere.\n\n21. **Search Algorithms Navigating Traffic Networks**  \n    Elevated roads and ramps form a 3D highway interchange with moving car boxes; virtual “search cars” simulate routing from on-ramp to off-ramp with different algorithms, showing their chosen paths above the roads as floating colored tubes with estimated vs actual time labels.\n\n22. **Monte Carlo Tree Search on a 3D Game Board**  \n    A board game arena with towers and pieces sits in the center, while a branching cloud of semitransparent cubes (states) grows above it as MCTS runs simulations, with simulation rollouts shown as quick ghost-piece moves and high-value branches turning vivid green.\n\n23. **Search for Signal in a 3D Noise Field**  \n    A volume of tiny, randomly moving particles represents noise, with a few rare “signal” particles that glow slightly; different search strategies guide a scanning probe that sweeps, spirals, or jumps through the field, leaving behind trails and highlighting detected signals.\n\n24. **Search Algorithm Race on a 3D Grid Maze**  \n    A cubic grid maze of cells with some blocked as opaque cubes hosts several small colored spheres, each representing a search strategy; they simultaneously explore, painting visited cells, pushing aside movable barriers, and racing to reach a central treasure orb first.\n\n25. **Iterative Deepening Search of Orbital Paths**  \n    A central planet with many possible orbital rings and transfer paths is surrounded by small spacecraft that attempt to find a fuel-efficient route to a distant station; each iterative deepening step adds a new layer of possible orbits, with used paths glowing and unused ones fading."
+}

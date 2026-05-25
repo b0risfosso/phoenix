@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Drones",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:57:37",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Urban Drone Traffic Intersection",
+      "description": "A 3D city crossroads where dozens of small box-shaped drones follow colored flight lanes, slow at virtual “air-traffic lights,” avoid collisions, leave faint motion trails, and trigger changing status labels as they queue, pass, and occasionally reroute around a stationary “no-fly” tower.",
+      "seed": "Urban Drone Traffic Intersection: A 3D city crossroads where dozens of small box-shaped drones follow colored flight lanes, slow at virtual “air-traffic lights,” avoid collisions, leave faint motion trails, and trigger changing status labels as they queue, pass, and occasionally reroute around a stationary “no-fly” tower."
+    },
+    {
+      "number": "2",
+      "title": "Drone Swarm Flocking Around a Beacon",
+      "description": "A swarm of small sphere-drones with arrow indicators uses simple flocking rules to orbit a glowing central beacon, splitting into sub-swarms, merging again, avoiding collisions, and leaving color-coded trails that show their changing paths and velocities.",
+      "seed": "Drone Swarm Flocking Around a Beacon: A swarm of small sphere-drones with arrow indicators uses simple flocking rules to orbit a glowing central beacon, splitting into sub-swarms, merging again, avoiding collisions, and leaving color-coded trails that show their changing paths and velocities."
+    },
+    {
+      "number": "3",
+      "title": "Warehouse Inventory Drones and Shelf System",
+      "description": "A bright warehouse grid with shelves (stationary boxes) and quadcopter drones that pick up small colored packages, attach them under their bodies, fly them along marked air corridors, avoid each other, drop them in delivery zones, and display labels showing package IDs and drone load.",
+      "seed": "Warehouse Inventory Drones and Shelf System: A bright warehouse grid with shelves (stationary boxes) and quadcopter drones that pick up small colored packages, attach them under their bodies, fly them along marked air corridors, avoid each other, drop them in delivery zones, and display labels showing package IDs and drone load."
+    },
+    {
+      "number": "4",
+      "title": "Search-and-Rescue Drones Over Disaster Terrain",
+      "description": "A hilly terrain with rubble blocks where drones hover low, scan the surface with rotating cones of light, drop small marker beacons on detected “victims” (colored spheres), communicate by drawing temporary glowing lines between themselves, and occasionally land to recharge at a central station.",
+      "seed": "Search-and-Rescue Drones Over Disaster Terrain: A hilly terrain with rubble blocks where drones hover low, scan the surface with rotating cones of light, drop small marker beacons on detected “victims” (colored spheres), communicate by drawing temporary glowing lines between themselves, and occasionally land to recharge at a central station."
+    },
+    {
+      "number": "5",
+      "title": "Drone Racing Circuit with Gates and Obstacles",
+      "description": "A race track in the air with floating hoops, pylons, and moving barriers, where multiple drones accelerate, bank, and weave through gates, leaving colored trails that fade over time, while collisions with obstacles cause bounces, spins, and temporary “damage” indicators over each drone.",
+      "seed": "Drone Racing Circuit with Gates and Obstacles: A race track in the air with floating hoops, pylons, and moving barriers, where multiple drones accelerate, bank, and weave through gates, leaving colored trails that fade over time, while collisions with obstacles cause bounces, spins, and temporary “damage” indicators over each drone."
+    },
+    {
+      "number": "6",
+      "title": "Package-Delivery Drones in a Suburban Neighborhood",
+      "description": "A patchwork of houses with mailboxes where delivery drones take off from a central depot, pick up box parcels, fly along semi-random yet efficient paths, avoid trees and power poles, gently descend to drop parcels at doorsteps, and show status labels (“en route,” “delivering,” “returning”) above each body.",
+      "seed": "Package-Delivery Drones in a Suburban Neighborhood: A patchwork of houses with mailboxes where delivery drones take off from a central depot, pick up box parcels, fly along semi-random yet efficient paths, avoid trees and power poles, gently descend to drop parcels at doorsteps, and show status labels (“en route,” “delivering,” “returning”) above each body."
+    },
+    {
+      "number": "7",
+      "title": "Drone Swarm Mapping a 3D Cave",
+      "description": "A transparent cave mesh with stalagmites and stalactites where a formation of small drones moves in, scatters to explore, uses colored scanning beams to “paint” a gradually appearing wireframe map, and then regroups and exits, leaving a ghostly 3D map floating above the terrain.",
+      "seed": "Drone Swarm Mapping a 3D Cave: A transparent cave mesh with stalagmites and stalactites where a formation of small drones moves in, scatters to explore, uses colored scanning beams to “paint” a gradually appearing wireframe map, and then regroups and exits, leaving a ghostly 3D map floating above the terrain."
+    },
+    {
+      "number": "8",
+      "title": "Drone vs. Wind Tunnel Simulation",
+      "description": "A drone hovering in a wind tunnel with visible airflow particles streaming past; the drone tilts and adjusts thrust to maintain position as wind speed changes, its orientation and force vectors shown as arrows, while collisions with invisible gusts push it off-center and trigger corrective movements.",
+      "seed": "Drone vs. Wind Tunnel Simulation: A drone hovering in a wind tunnel with visible airflow particles streaming past; the drone tilts and adjusts thrust to maintain position as wind speed changes, its orientation and force vectors shown as arrows, while collisions with invisible gusts push it off-center and trigger corrective movements."
+    },
+    {
+      "number": "9",
+      "title": "Charging Dock Network for Delivery Drones",
+      "description": "Several charging towers on a light ground plane where drones with visible battery meters (ring or bar on their bodies) depart on missions, return as levels drop, dock by aligning with glowing pads that “fill” with green as energy transfers, and detach to rejoin the traffic once charged.",
+      "seed": "Charging Dock Network for Delivery Drones: Several charging towers on a light ground plane where drones with visible battery meters (ring or bar on their bodies) depart on missions, return as levels drop, dock by aligning with glowing pads that “fill” with green as energy transfers, and detach to rejoin the traffic once charged."
+    },
+    {
+      "number": "10",
+      "title": "Drone Formation Show with Light Patterns",
+      "description": "A set of drones in a stadium-like void that rise and form shifting geometric patterns (lines, circles, spirals, 3D shapes), each carrying a glowing colored light; they synchronize to pulse, rotate, split into multiple shapes, and merge again while leaving faint luminous trails.",
+      "seed": "Drone Formation Show with Light Patterns: A set of drones in a stadium-like void that rise and form shifting geometric patterns (lines, circles, spirals, 3D shapes), each carrying a glowing colored light; they synchronize to pulse, rotate, split into multiple shapes, and merge again while leaving faint luminous trails."
+    },
+    {
+      "number": "11",
+      "title": "Pollination Drones in a Flower Field",
+      "description": "A garden grid with flowers as colorful cones where tiny drones buzz between blooms, gently touch down to collect “pollen” particles, which visibly accumulate in transparent pods, and then transfer these particles to other flowers, causing them to gradually change color as they are pollinated.",
+      "seed": "Pollination Drones in a Flower Field: A garden grid with flowers as colorful cones where tiny drones buzz between blooms, gently touch down to collect “pollen” particles, which visibly accumulate in transparent pods, and then transfer these particles to other flowers, causing them to gradually change color as they are pollinated."
+    },
+    {
+      "number": "12",
+      "title": "Drone Inspection of Skyscraper Facades",
+      "description": "A tall transparent skyscraper model with windows as small squares where a single inspection drone moves in a systematic pattern, scanning each window with a narrow beam that highlights cracks or defects in red, leaving subtle marker dots and textual labels at damaged spots.",
+      "seed": "Drone Inspection of Skyscraper Facades: A tall transparent skyscraper model with windows as small squares where a single inspection drone moves in a systematic pattern, scanning each window with a narrow beam that highlights cracks or defects in red, leaving subtle marker dots and textual labels at damaged spots."
+    },
+    {
+      "number": "13",
+      "title": "Mars Terrain Survey with Autonomous Drones",
+      "description": "A reddish, cratered Martian landscape where drones launch from a lander, fan out in a search pattern, map elevation using downward scanning cones, drop reflective markers at interesting sites, and maintain a loose mesh network shown as thin connecting lines that stretch and reattach as they move.",
+      "seed": "Mars Terrain Survey with Autonomous Drones: A reddish, cratered Martian landscape where drones launch from a lander, fan out in a search pattern, map elevation using downward scanning cones, drop reflective markers at interesting sites, and maintain a loose mesh network shown as thin connecting lines that stretch and reattach as they move."
+    },
+    {
+      "number": "14",
+      "title": "Drone Relay Communication Chain",
+      "description": "A series of drones forming an aerial communication chain between two distant towers; each drone hovers and auto-adjusts position when wind gusts (forces) move it, and glowing beams show data packets traveling along the chain, with colors changing when a link drops and re-establishes.",
+      "seed": "Drone Relay Communication Chain: A series of drones forming an aerial communication chain between two distant towers; each drone hovers and auto-adjusts position when wind gusts (forces) move it, and glowing beams show data packets traveling along the chain, with colors changing when a link drops and re-establishes."
+    },
+    {
+      "number": "15",
+      "title": "Drone Swarm as a Flowing 3D Data Sculpture",
+      "description": "Drones represent data points that continuously rearrange to form a 3D bar chart, then a rising curve, then a rotating helix, with each drone’s color and height encoding values, while smooth transitions show them flowing, splitting, and merging to create evolving “data statues” in the air.",
+      "seed": "Drone Swarm as a Flowing 3D Data Sculpture: Drones represent data points that continuously rearrange to form a 3D bar chart, then a rising curve, then a rotating helix, with each drone’s color and height encoding values, while smooth transitions show them flowing, splitting, and merging to create evolving “data statues” in the air."
+    },
+    {
+      "number": "16",
+      "title": "Microscopic “Nanodrones” in a Blood Vessel",
+      "description": "Tiny drone-like nanobots move inside a transparent red blood vessel tube among flowing blood cells; they attach briefly to vessel walls to inspect plaques, emit small bursts of particles to “dissolve” blockages (blocks shrinking and changing color), and then detach to ride with the flow again.",
+      "seed": "Microscopic “Nanodrones” in a Blood Vessel: Tiny drone-like nanobots move inside a transparent red blood vessel tube among flowing blood cells; they attach briefly to vessel walls to inspect plaques, emit small bursts of particles to “dissolve” blockages (blocks shrinking and changing color), and then detach to ride with the flow again."
+    },
+    {
+      "number": "17",
+      "title": "Drone-Based Firefighting over a Forest",
+      "description": "A forest scene with tree cones where fire is visualized as orange-red particle systems; water drones fly in from a lake, scoop transparent blue “water blobs,” then hover over flames to drop them, causing fire particles to shrink, cool to gray smoke, and vanish while leaves change from burning to safe green.",
+      "seed": "Drone-Based Firefighting over a Forest: A forest scene with tree cones where fire is visualized as orange-red particle systems; water drones fly in from a lake, scoop transparent blue “water blobs,” then hover over flames to drop them, causing fire particles to shrink, cool to gray smoke, and vanish while leaves change from burning to safe green."
+    },
+    {
+      "number": "18",
+      "title": "Drone Construction of a Floating Structure",
+      "description": "Drones carry small beam-like blocks from a supply platform to a construction zone, where they attach the blocks to build a floating frame; each block snaps into place magnetically with a visual flash, and the partially built structure slowly grows as drones coordinate, avoid collisions, and update labels showing progress.",
+      "seed": "Drone Construction of a Floating Structure: Drones carry small beam-like blocks from a supply platform to a construction zone, where they attach the blocks to build a floating frame; each block snaps into place magnetically with a visual flash, and the partially built structure slowly grows as drones coordinate, avoid collisions, and update labels showing progress."
+    },
+    {
+      "number": "19",
+      "title": "Drone Swarm Herding Moving Agents",
+      "description": "A group of drones works together to “herd” moving spherical agents (like animals or crowds) across a field into a corral; drones adjust positions, form curved barriers, gently bump or block agents, and their behavior regions are shown as semi-transparent colored zones that expand and contract.",
+      "seed": "Drone Swarm Herding Moving Agents: A group of drones works together to “herd” moving spherical agents (like animals or crowds) across a field into a corral; drones adjust positions, form curved barriers, gently bump or block agents, and their behavior regions are shown as semi-transparent colored zones that expand and contract."
+    },
+    {
+      "number": "20",
+      "title": "Underwater Drone Exploration of a Sunken Wreck",
+      "description": "Submersible drones move through a pale blue water volume around a sunken ship model, with gentle particle drift indicating currents; the drones’ lights create cones of visibility, they avoid hull collisions, drop small marker buoys at points of interest, and leave shimmering trails in the water.",
+      "seed": "Underwater Drone Exploration of a Sunken Wreck: Submersible drones move through a pale blue water volume around a sunken ship model, with gentle particle drift indicating currents; the drones’ lights create cones of visibility, they avoid hull collisions, drop small marker buoys at points of interest, and leave shimmering trails in the water."
+    },
+    {
+      "number": "21",
+      "title": "Drone Orbiting and Docking with a Space Station",
+      "description": "A single drone approaches a rotating space station module, uses thruster jets (small particle bursts) to match rotation, then carefully approaches a docking port; successful alignment triggers a smooth attach and status label change, while misalignment causes gentle bounces and retries.",
+      "seed": "Drone Orbiting and Docking with a Space Station: A single drone approaches a rotating space station module, uses thruster jets (small particle bursts) to match rotation, then carefully approaches a docking port; successful alignment triggers a smooth attach and status label change, while misalignment causes gentle bounces and retries."
+    },
+    {
+      "number": "22",
+      "title": "Drone-Based Graffiti and Skywriting",
+      "description": "Multiple drones carry paint sprayers or vapor emitters, flying close to a large wall or into open sky to “draw” shapes and words; colored particles mark their spray paths, which linger then fade, while each drone follows a pre-defined curve and can detach from the group to correct or add strokes.",
+      "seed": "Drone-Based Graffiti and Skywriting: Multiple drones carry paint sprayers or vapor emitters, flying close to a large wall or into open sky to “draw” shapes and words; colored particles mark their spray paths, which linger then fade, while each drone follows a pre-defined curve and can detach from the group to correct or add strokes."
+    },
+    {
+      "number": "23",
+      "title": "Drone Swarm Protecting a Moving Convoy",
+      "description": "A convoy of ground vehicles moves along a road while a protective drone layer above them shifts, rotates, and re-forms to cover different arcs, with drones intercepting incoming “threat” spheres by colliding, bouncing them away, or attaching and dragging them off-course.",
+      "seed": "Drone Swarm Protecting a Moving Convoy: A convoy of ground vehicles moves along a road while a protective drone layer above them shifts, rotates, and re-forms to cover different arcs, with drones intercepting incoming “threat” spheres by colliding, bouncing them away, or attaching and dragging them off-course."
+    },
+    {
+      "number": "24",
+      "title": "Drone Orchard Monitoring with Color Mapping",
+      "description": "An orchard grid of trees where drones fly over and between rows, scanning trees with downward cones that measure “health,” then attach small colored tags to branches; a floating 3D heatmap gradually forms above the orchard where tiles change color based on aggregated drone measurements.",
+      "seed": "Drone Orchard Monitoring with Color Mapping: An orchard grid of trees where drones fly over and between rows, scanning trees with downward cones that measure “health,” then attach small colored tags to branches; a floating 3D heatmap gradually forms above the orchard where tiles change color based on aggregated drone measurements."
+    },
+    {
+      "number": "25",
+      "title": "Drone-Driven Floating Logistics Hub",
+      "description": "A central floating platform with containers stacked as colored blocks where a fleet of drones continuously picks up, rearranges, and delivers containers to outer platforms; collisions are avoided via local rules, and the platform’s layout gradually morphs as containers merge into stacks, split, and shift positions.",
+      "seed": "Drone-Driven Floating Logistics Hub: A central floating platform with containers stacked as colored blocks where a fleet of drones continuously picks up, rearranges, and delivers containers to outer platforms; collisions are avoided via local rules, and the platform’s layout gradually morphs as containers merge into stacks, split, and shift positions."
+    }
+  ],
+  "raw_output": "Here are strong **Drones simulation inputs** you can plug into your prompt:\n\n1. **Urban Drone Traffic Intersection**\n   A 3D city crossroads where dozens of small box-shaped drones follow colored flight lanes, slow at virtual “air-traffic lights,” avoid collisions, leave faint motion trails, and trigger changing status labels as they queue, pass, and occasionally reroute around a stationary “no-fly” tower.\n\n2. **Drone Swarm Flocking Around a Beacon**\n   A swarm of small sphere-drones with arrow indicators uses simple flocking rules to orbit a glowing central beacon, splitting into sub-swarms, merging again, avoiding collisions, and leaving color-coded trails that show their changing paths and velocities.\n\n3. **Warehouse Inventory Drones and Shelf System**\n   A bright warehouse grid with shelves (stationary boxes) and quadcopter drones that pick up small colored packages, attach them under their bodies, fly them along marked air corridors, avoid each other, drop them in delivery zones, and display labels showing package IDs and drone load.\n\n4. **Search-and-Rescue Drones Over Disaster Terrain**\n   A hilly terrain with rubble blocks where drones hover low, scan the surface with rotating cones of light, drop small marker beacons on detected “victims” (colored spheres), communicate by drawing temporary glowing lines between themselves, and occasionally land to recharge at a central station.\n\n5. **Drone Racing Circuit with Gates and Obstacles**\n   A race track in the air with floating hoops, pylons, and moving barriers, where multiple drones accelerate, bank, and weave through gates, leaving colored trails that fade over time, while collisions with obstacles cause bounces, spins, and temporary “damage” indicators over each drone.\n\n6. **Package-Delivery Drones in a Suburban Neighborhood**\n   A patchwork of houses with mailboxes where delivery drones take off from a central depot, pick up box parcels, fly along semi-random yet efficient paths, avoid trees and power poles, gently descend to drop parcels at doorsteps, and show status labels (“en route,” “delivering,” “returning”) above each body.\n\n7. **Drone Swarm Mapping a 3D Cave**\n   A transparent cave mesh with stalagmites and stalactites where a formation of small drones moves in, scatters to explore, uses colored scanning beams to “paint” a gradually appearing wireframe map, and then regroups and exits, leaving a ghostly 3D map floating above the terrain.\n\n8. **Drone vs. Wind Tunnel Simulation**\n   A drone hovering in a wind tunnel with visible airflow particles streaming past; the drone tilts and adjusts thrust to maintain position as wind speed changes, its orientation and force vectors shown as arrows, while collisions with invisible gusts push it off-center and trigger corrective movements.\n\n9. **Charging Dock Network for Delivery Drones**\n   Several charging towers on a light ground plane where drones with visible battery meters (ring or bar on their bodies) depart on missions, return as levels drop, dock by aligning with glowing pads that “fill” with green as energy transfers, and detach to rejoin the traffic once charged.\n\n10. **Drone Formation Show with Light Patterns**\n    A set of drones in a stadium-like void that rise and form shifting geometric patterns (lines, circles, spirals, 3D shapes), each carrying a glowing colored light; they synchronize to pulse, rotate, split into multiple shapes, and merge again while leaving faint luminous trails.\n\n11. **Pollination Drones in a Flower Field**\n    A garden grid with flowers as colorful cones where tiny drones buzz between blooms, gently touch down to collect “pollen” particles, which visibly accumulate in transparent pods, and then transfer these particles to other flowers, causing them to gradually change color as they are pollinated.\n\n12. **Drone Inspection of Skyscraper Facades**\n    A tall transparent skyscraper model with windows as small squares where a single inspection drone moves in a systematic pattern, scanning each window with a narrow beam that highlights cracks or defects in red, leaving subtle marker dots and textual labels at damaged spots.\n\n13. **Mars Terrain Survey with Autonomous Drones**\n    A reddish, cratered Martian landscape where drones launch from a lander, fan out in a search pattern, map elevation using downward scanning cones, drop reflective markers at interesting sites, and maintain a loose mesh network shown as thin connecting lines that stretch and reattach as they move.\n\n14. **Drone Relay Communication Chain**\n    A series of drones forming an aerial communication chain between two distant towers; each drone hovers and auto-adjusts position when wind gusts (forces) move it, and glowing beams show data packets traveling along the chain, with colors changing when a link drops and re-establishes.\n\n15. **Drone Swarm as a Flowing 3D Data Sculpture**\n    Drones represent data points that continuously rearrange to form a 3D bar chart, then a rising curve, then a rotating helix, with each drone’s color and height encoding values, while smooth transitions show them flowing, splitting, and merging to create evolving “data statues” in the air.\n\n16. **Microscopic “Nanodrones” in a Blood Vessel**\n    Tiny drone-like nanobots move inside a transparent red blood vessel tube among flowing blood cells; they attach briefly to vessel walls to inspect plaques, emit small bursts of particles to “dissolve” blockages (blocks shrinking and changing color), and then detach to ride with the flow again.\n\n17. **Drone-Based Firefighting over a Forest**\n    A forest scene with tree cones where fire is visualized as orange-red particle systems; water drones fly in from a lake, scoop transparent blue “water blobs,” then hover over flames to drop them, causing fire particles to shrink, cool to gray smoke, and vanish while leaves change from burning to safe green.\n\n18. **Drone Construction of a Floating Structure**\n    Drones carry small beam-like blocks from a supply platform to a construction zone, where they attach the blocks to build a floating frame; each block snaps into place magnetically with a visual flash, and the partially built structure slowly grows as drones coordinate, avoid collisions, and update labels showing progress.\n\n19. **Drone Swarm Herding Moving Agents**\n    A group of drones works together to “herd” moving spherical agents (like animals or crowds) across a field into a corral; drones adjust positions, form curved barriers, gently bump or block agents, and their behavior regions are shown as semi-transparent colored zones that expand and contract.\n\n20. **Underwater Drone Exploration of a Sunken Wreck**\n    Submersible drones move through a pale blue water volume around a sunken ship model, with gentle particle drift indicating currents; the drones’ lights create cones of visibility, they avoid hull collisions, drop small marker buoys at points of interest, and leave shimmering trails in the water.\n\n21. **Drone Orbiting and Docking with a Space Station**\n    A single drone approaches a rotating space station module, uses thruster jets (small particle bursts) to match rotation, then carefully approaches a docking port; successful alignment triggers a smooth attach and status label change, while misalignment causes gentle bounces and retries.\n\n22. **Drone-Based Graffiti and Skywriting**\n    Multiple drones carry paint sprayers or vapor emitters, flying close to a large wall or into open sky to “draw” shapes and words; colored particles mark their spray paths, which linger then fade, while each drone follows a pre-defined curve and can detach from the group to correct or add strokes.\n\n23. **Drone Swarm Protecting a Moving Convoy**\n    A convoy of ground vehicles moves along a road while a protective drone layer above them shifts, rotates, and re-forms to cover different arcs, with drones intercepting incoming “threat” spheres by colliding, bouncing them away, or attaching and dragging them off-course.\n\n24. **Drone Orchard Monitoring with Color Mapping**\n    An orchard grid of trees where drones fly over and between rows, scanning trees with downward cones that measure “health,” then attach small colored tags to branches; a floating 3D heatmap gradually forms above the orchard where tiles change color based on aggregated drone measurements.\n\n25. **Drone-Driven Floating Logistics Hub**\n    A central floating platform with containers stacked as colored blocks where a fleet of drones continuously picks up, rearranges, and delivers containers to outer platforms; collisions are avoided via local rules, and the platform’s layout gradually morphs as containers merge into stacks, split, and shift positions."
+}

@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Sound and vibration",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:36:13",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Standing Waves on a Vibrating String",
+      "description": "A taut 3D string represented by a series of connected spheres vibrates between two fixed supports, forming standing waves with nodes and antinodes that glow and leave faint trails, while sliders and labels show frequency, wavelength, and amplitude changes.",
+      "seed": "Standing Waves on a Vibrating String: A taut 3D string represented by a series of connected spheres vibrates between two fixed supports, forming standing waves with nodes and antinodes that glow and leave faint trails, while sliders and labels show frequency, wavelength, and amplitude changes."
+    },
+    {
+      "number": "2",
+      "title": "Ripple Tank with Interfering Sound Waves",
+      "description": "A shallow rectangular “water” surface made of a grid of small boxes pulses up and down as two sound sources at opposite edges emit circular waves that propagate, overlap, and create an interference pattern visualized with color gradients and moving contour lines.",
+      "seed": "Ripple Tank with Interfering Sound Waves: A shallow rectangular “water” surface made of a grid of small boxes pulses up and down as two sound sources at opposite edges emit circular waves that propagate, overlap, and create an interference pattern visualized with color gradients and moving contour lines."
+    },
+    {
+      "number": "3",
+      "title": "Resonating Wine Glass Shattered by Sound",
+      "description": "A transparent glass cup made of thin curved shells sits on a table while an invisible speaker emits a pulsing sound wave visualized as expanding semi-transparent rings; as the driving frequency approaches resonance, the glass vibrates more intensely until it cracks into bouncing fragments.",
+      "seed": "Resonating Wine Glass Shattered by Sound: A transparent glass cup made of thin curved shells sits on a table while an invisible speaker emits a pulsing sound wave visualized as expanding semi-transparent rings; as the driving frequency approaches resonance, the glass vibrates more intensely until it cracks into bouncing fragments."
+    },
+    {
+      "number": "4",
+      "title": "Chladni Plate Sand Pattern Formation",
+      "description": "A square metal plate fixed at its center vibrates up and down at selectable frequencies while a cloud of tiny sand particles bounces on its surface, gradually migrating and clustering into standing-wave nodal patterns traced with bright color lines over a light background.",
+      "seed": "Chladni Plate Sand Pattern Formation: A square metal plate fixed at its center vibrates up and down at selectable frequencies while a cloud of tiny sand particles bounces on its surface, gradually migrating and clustering into standing-wave nodal patterns traced with bright color lines over a light background."
+    },
+    {
+      "number": "5",
+      "title": "Acoustic Resonance Inside an Organ Pipe",
+      "description": "A vertical pipe with one open and one closed end contains a column of air represented by translucent segments whose brightness oscillates with pressure peaks; animated arrows show particle velocity and a side panel displays adjustable frequency and resulting harmonic mode.",
+      "seed": "Acoustic Resonance Inside an Organ Pipe: A vertical pipe with one open and one closed end contains a column of air represented by translucent segments whose brightness oscillates with pressure peaks; animated arrows show particle velocity and a side panel displays adjustable frequency and resulting harmonic mode."
+    },
+    {
+      "number": "6",
+      "title": "Vibrating Tuning Fork and Radiating Sound Field",
+      "description": "A 3D tuning fork vibrates near a small sphere representing an “ear,” with the fork’s prongs flexing back and forth and emitting concentric, semi-transparent pressure shells that expand outward, reflect from walls, and gently push a cloud of suspended dust particles.",
+      "seed": "Vibrating Tuning Fork and Radiating Sound Field: A 3D tuning fork vibrates near a small sphere representing an “ear,” with the fork’s prongs flexing back and forth and emitting concentric, semi-transparent pressure shells that expand outward, reflect from walls, and gently push a cloud of suspended dust particles."
+    },
+    {
+      "number": "7",
+      "title": "Suspension Bridge Under Periodic Traffic-Induced Vibration",
+      "description": "A long suspension bridge with cables, towers, and a flexible deck vibrates as cars (small boxes) periodically cross; the deck flexes, cables oscillate, and colored displacement markers and trails highlight nodes, antinodes, and resonant amplification in different modes.",
+      "seed": "Suspension Bridge Under Periodic Traffic-Induced Vibration: A long suspension bridge with cables, towers, and a flexible deck vibrates as cars (small boxes) periodically cross; the deck flexes, cables oscillate, and colored displacement markers and trails highlight nodes, antinodes, and resonant amplification in different modes."
+    },
+    {
+      "number": "8",
+      "title": "Seismic Wave Propagation Through Layered Ground",
+      "description": "A cross-sectional 3D block of layered soil and rock is shaken at one end, sending P- and S-wave pulses (color-coded expanding fronts) through transparent layers with different stiffness, causing surface buildings (small boxes) to sway and sometimes topple based on the local ground motion.",
+      "seed": "Seismic Wave Propagation Through Layered Ground: A cross-sectional 3D block of layered soil and rock is shaken at one end, sending P- and S-wave pulses (color-coded expanding fronts) through transparent layers with different stiffness, causing surface buildings (small boxes) to sway and sometimes topple based on the local ground motion."
+    },
+    {
+      "number": "9",
+      "title": "Vibrating Drumhead Membrane Modes",
+      "description": "A circular, semi-transparent membrane stretched over a ring oscillates in different normal modes when tapped by a small sphere; its surface deforms into complex patterns while nodal lines are traced in contrasting color and activate floating labels of mode numbers.",
+      "seed": "Vibrating Drumhead Membrane Modes: A circular, semi-transparent membrane stretched over a ring oscillates in different normal modes when tapped by a small sphere; its surface deforms into complex patterns while nodal lines are traced in contrasting color and activate floating labels of mode numbers."
+    },
+    {
+      "number": "10",
+      "title": "Sound-Driven Levitation of Lightweight Particles",
+      "description": "Two opposed speakers generate a standing acoustic field between them, visualized as alternating bright and dim planes; tiny spheres (styrofoam beads) drift and then get trapped at pressure nodes, forming stable floating clusters that rearrange when frequency or phase is changed.",
+      "seed": "Sound-Driven Levitation of Lightweight Particles: Two opposed speakers generate a standing acoustic field between them, visualized as alternating bright and dim planes; tiny spheres (styrofoam beads) drift and then get trapped at pressure nodes, forming stable floating clusters that rearrange when frequency or phase is changed."
+    },
+    {
+      "number": "11",
+      "title": "Sound Pulse in a 3D Room with Echoes and Absorption",
+      "description": "A simple furnished room (walls, floor, a few boxes as furniture) receives a short sound pulse from a small speaker, represented by expanding semi-transparent wavefronts that reflect off hard surfaces, dim when hitting absorbing panels, and leave faint trails showing echo paths.",
+      "seed": "Sound Pulse in a 3D Room with Echoes and Absorption: A simple furnished room (walls, floor, a few boxes as furniture) receives a short sound pulse from a small speaker, represented by expanding semi-transparent wavefronts that reflect off hard surfaces, dim when hitting absorbing panels, and leave faint trails showing echo paths."
+    },
+    {
+      "number": "12",
+      "title": "Vibration Isolation System for a Sensitive Instrument",
+      "description": "A central delicate device (small box) rests on stacked springs and rubber pads on a vibrating base plate; the base oscillates sinusoidally, while the upper mass motion is smaller and delayed, with arrows, energy bars, and color-coded springs showing damping and isolation performance.",
+      "seed": "Vibration Isolation System for a Sensitive Instrument: A central delicate device (small box) rests on stacked springs and rubber pads on a vibrating base plate; the base oscillates sinusoidally, while the upper mass motion is smaller and delayed, with arrows, energy bars, and color-coded springs showing damping and isolation performance."
+    },
+    {
+      "number": "13",
+      "title": "Resonant Coupling Between Two Pendulums via a String",
+      "description": "Two equal pendulums hang from a common light support and are linked by a loose string; when one bob is displaced and released, its oscillation gradually transfers energy to the other, visualized by changing amplitude, colored trails, and a bar chart of energy distribution between them.",
+      "seed": "Resonant Coupling Between Two Pendulums via a String: Two equal pendulums hang from a common light support and are linked by a loose string; when one bob is displaced and released, its oscillation gradually transfers energy to the other, visualized by changing amplitude, colored trails, and a bar chart of energy distribution between them."
+    },
+    {
+      "number": "14",
+      "title": "Vibrating Crystal Lattice and Phonon Visualization",
+      "description": "A 3D grid of atoms (spheres connected by springs) vibrates about their equilibrium positions, with one mode excited so waves propagate through the lattice; displacement is color-coded, phonon “packets” are indicated as glowing clusters, and average energy is shown with a meter.",
+      "seed": "Vibrating Crystal Lattice and Phonon Visualization: A 3D grid of atoms (spheres connected by springs) vibrates about their equilibrium positions, with one mode excited so waves propagate through the lattice; displacement is color-coded, phonon “packets” are indicated as glowing clusters, and average energy is shown with a meter."
+    },
+    {
+      "number": "15",
+      "title": "Sound Waveguides and Reflection in a Duct System",
+      "description": "A branching network of transparent rectangular ducts carries a pulsed sound wave represented by moving pressure fronts; at junctions the wave splits, reflects, and partially transmits, while animated arrows show energy flow and labels show reflection/transmission coefficients.",
+      "seed": "Sound Waveguides and Reflection in a Duct System: A branching network of transparent rectangular ducts carries a pulsed sound wave represented by moving pressure fronts; at junctions the wave splits, reflects, and partially transmits, while animated arrows show energy flow and labels show reflection/transmission coefficients."
+    },
+    {
+      "number": "16",
+      "title": "Speaker Cone and Air Particle Oscillation",
+      "description": "A large speaker cone at one end of a rectangular air region moves back and forth, pushing a cloud of small particles that oscillate longitudinally in place; color gradients represent pressure variations, and sliders adjust amplitude and frequency to show compression/rarefaction spacing.",
+      "seed": "Speaker Cone and Air Particle Oscillation: A large speaker cone at one end of a rectangular air region moves back and forth, pushing a cloud of small particles that oscillate longitudinally in place; color gradients represent pressure variations, and sliders adjust amplitude and frequency to show compression/rarefaction spacing."
+    },
+    {
+      "number": "17",
+      "title": "Earthquake-Induced Building Vibration with Tuned Mass Damper",
+      "description": "A tall transparent skyscraper model with floors as stacked slabs sways on a shaking ground base while a heavy mass near the top slides on rails with a spring-damper; the building and damper motions are traced, and energy exchange between them is shown with changing bar graphs.",
+      "seed": "Earthquake-Induced Building Vibration with Tuned Mass Damper: A tall transparent skyscraper model with floors as stacked slabs sways on a shaking ground base while a heavy mass near the top slides on rails with a spring-damper; the building and damper motions are traced, and energy exchange between them is shown with changing bar graphs."
+    },
+    {
+      "number": "18",
+      "title": "Vibrating Guitar Body and Sound Radiation",
+      "description": "A simplified guitar body with a vibrating string attached shows the bridge and top plate flexing, with hotspots of displacement glowing; expanding semi-transparent wavefronts radiate from the sound hole, and different pluck positions alter the surface vibration patterns.",
+      "seed": "Vibrating Guitar Body and Sound Radiation: A simplified guitar body with a vibrating string attached shows the bridge and top plate flexing, with hotspots of displacement glowing; expanding semi-transparent wavefronts radiate from the sound hole, and different pluck positions alter the surface vibration patterns."
+    },
+    {
+      "number": "19",
+      "title": "Ultrasound Imaging Beam Scanning a Tissue Phantom",
+      "description": "A small ultrasound probe on one side of a semi-transparent tissue block emits narrow pulsed beams that sweep across, with reflections from embedded spheres and layers returning as faint backward-moving wavelets and appearing simultaneously as bright dots on a floating 2D “screen.”",
+      "seed": "Ultrasound Imaging Beam Scanning a Tissue Phantom: A small ultrasound probe on one side of a semi-transparent tissue block emits narrow pulsed beams that sweep across, with reflections from embedded spheres and layers returning as faint backward-moving wavelets and appearing simultaneously as bright dots on a floating 2D “screen.”"
+    },
+    {
+      "number": "20",
+      "title": "Microscopic Hair Cell Bundle Responding to Sound",
+      "description": "A cluster of flexible hairs (thin cylinders) on top of a small cell in a fluid vibrates when an incoming sound wave (oscillating fluid flow arrows) passes; the hairs bend coherently, opening a glowing “ion channel” marker that pulses in brightness with the vibration amplitude.",
+      "seed": "Microscopic Hair Cell Bundle Responding to Sound: A cluster of flexible hairs (thin cylinders) on top of a small cell in a fluid vibrates when an incoming sound wave (oscillating fluid flow arrows) passes; the hairs bend coherently, opening a glowing “ion channel” marker that pulses in brightness with the vibration amplitude."
+    },
+    {
+      "number": "21",
+      "title": "Railway Track Vibration from Passing Train",
+      "description": "A straight segment of track modeled as rails on sleepers and ballast deforms slightly as a series of box-shaped train cars roll over; the rails flex and vibrate after each axle passes, with displacement magnitudes color-coded along the rail and traveling vibration waves visible.",
+      "seed": "Railway Track Vibration from Passing Train: A straight segment of track modeled as rails on sleepers and ballast deforms slightly as a series of box-shaped train cars roll over; the rails flex and vibrate after each axle passes, with displacement magnitudes color-coded along the rail and traveling vibration waves visible."
+    },
+    {
+      "number": "22",
+      "title": "Acoustic Standing Waves in a 3D Rectangular Room",
+      "description": "A rectangular, mostly empty room has a speaker at one corner emitting a steady tone, while the interior is filled with a subtle 3D grid whose nodes change color according to instantaneous pressure; at resonance frequencies, clear standing-wave patterns with bright nodal planes appear.",
+      "seed": "Acoustic Standing Waves in a 3D Rectangular Room: A rectangular, mostly empty room has a speaker at one corner emitting a steady tone, while the interior is filled with a subtle 3D grid whose nodes change color according to instantaneous pressure; at resonance frequencies, clear standing-wave patterns with bright nodal planes appear."
+    },
+    {
+      "number": "23",
+      "title": "Shock Wave from an Explosion and Structural Response",
+      "description": "A small sphere “explodes” near a simple building, emitting a fast, bright pressure front that races outward and hits a wall and the building surfaces; panels flex, some detach and fall, and pressure vs. time at various sensors is displayed as small live graphs.",
+      "seed": "Shock Wave from an Explosion and Structural Response: A small sphere “explodes” near a simple building, emitting a fast, bright pressure front that races outward and hits a wall and the building surfaces; panels flex, some detach and fall, and pressure vs. time at various sensors is displayed as small live graphs."
+    },
+    {
+      "number": "24",
+      "title": "Vibrating Molecular Bond as a Spring-Mass System",
+      "description": "Two atoms connected by a spring vibrate along their bond axis, surrounded by a semi-transparent electron cloud; multiple such molecules float and collide softly, exchanging vibrational energy, while each bond’s stretching amplitude is color-coded and labeled with vibrational energy.",
+      "seed": "Vibrating Molecular Bond as a Spring-Mass System: Two atoms connected by a spring vibrate along their bond axis, surrounded by a semi-transparent electron cloud; multiple such molecules float and collide softly, exchanging vibrational energy, while each bond’s stretching amplitude is color-coded and labeled with vibrational energy."
+    },
+    {
+      "number": "25",
+      "title": "Sound-Activated Light Sculpture",
+      "description": "A central “microphone” sphere senses a synthetic sound waveform and drives a radial array of thin rods and panels that vibrate in different modes; their tips glow and change color with amplitude, and faint trails form shimmering patterns synchronized with the sound.",
+      "seed": "Sound-Activated Light Sculpture: A central “microphone” sphere senses a synthetic sound waveform and drives a radial array of thin rods and panels that vibrate in different modes; their tips glow and change color with amplitude, and faint trails form shimmering patterns synchronized with the sound."
+    }
+  ],
+  "raw_output": "Here are strong **Sound and vibration simulation inputs** you can plug into your prompt:\n\n1. **Standing Waves on a Vibrating String**\n   A taut 3D string represented by a series of connected spheres vibrates between two fixed supports, forming standing waves with nodes and antinodes that glow and leave faint trails, while sliders and labels show frequency, wavelength, and amplitude changes.\n\n2. **Ripple Tank with Interfering Sound Waves**\n   A shallow rectangular “water” surface made of a grid of small boxes pulses up and down as two sound sources at opposite edges emit circular waves that propagate, overlap, and create an interference pattern visualized with color gradients and moving contour lines.\n\n3. **Resonating Wine Glass Shattered by Sound**\n   A transparent glass cup made of thin curved shells sits on a table while an invisible speaker emits a pulsing sound wave visualized as expanding semi-transparent rings; as the driving frequency approaches resonance, the glass vibrates more intensely until it cracks into bouncing fragments.\n\n4. **Chladni Plate Sand Pattern Formation**\n   A square metal plate fixed at its center vibrates up and down at selectable frequencies while a cloud of tiny sand particles bounces on its surface, gradually migrating and clustering into standing-wave nodal patterns traced with bright color lines over a light background.\n\n5. **Acoustic Resonance Inside an Organ Pipe**\n   A vertical pipe with one open and one closed end contains a column of air represented by translucent segments whose brightness oscillates with pressure peaks; animated arrows show particle velocity and a side panel displays adjustable frequency and resulting harmonic mode.\n\n6. **Vibrating Tuning Fork and Radiating Sound Field**\n   A 3D tuning fork vibrates near a small sphere representing an “ear,” with the fork’s prongs flexing back and forth and emitting concentric, semi-transparent pressure shells that expand outward, reflect from walls, and gently push a cloud of suspended dust particles.\n\n7. **Suspension Bridge Under Periodic Traffic-Induced Vibration**\n   A long suspension bridge with cables, towers, and a flexible deck vibrates as cars (small boxes) periodically cross; the deck flexes, cables oscillate, and colored displacement markers and trails highlight nodes, antinodes, and resonant amplification in different modes.\n\n8. **Seismic Wave Propagation Through Layered Ground**\n   A cross-sectional 3D block of layered soil and rock is shaken at one end, sending P- and S-wave pulses (color-coded expanding fronts) through transparent layers with different stiffness, causing surface buildings (small boxes) to sway and sometimes topple based on the local ground motion.\n\n9. **Vibrating Drumhead Membrane Modes**\n   A circular, semi-transparent membrane stretched over a ring oscillates in different normal modes when tapped by a small sphere; its surface deforms into complex patterns while nodal lines are traced in contrasting color and activate floating labels of mode numbers.\n\n10. **Sound-Driven Levitation of Lightweight Particles**\n    Two opposed speakers generate a standing acoustic field between them, visualized as alternating bright and dim planes; tiny spheres (styrofoam beads) drift and then get trapped at pressure nodes, forming stable floating clusters that rearrange when frequency or phase is changed.\n\n11. **Sound Pulse in a 3D Room with Echoes and Absorption**\n    A simple furnished room (walls, floor, a few boxes as furniture) receives a short sound pulse from a small speaker, represented by expanding semi-transparent wavefronts that reflect off hard surfaces, dim when hitting absorbing panels, and leave faint trails showing echo paths.\n\n12. **Vibration Isolation System for a Sensitive Instrument**\n    A central delicate device (small box) rests on stacked springs and rubber pads on a vibrating base plate; the base oscillates sinusoidally, while the upper mass motion is smaller and delayed, with arrows, energy bars, and color-coded springs showing damping and isolation performance.\n\n13. **Resonant Coupling Between Two Pendulums via a String**\n    Two equal pendulums hang from a common light support and are linked by a loose string; when one bob is displaced and released, its oscillation gradually transfers energy to the other, visualized by changing amplitude, colored trails, and a bar chart of energy distribution between them.\n\n14. **Vibrating Crystal Lattice and Phonon Visualization**\n    A 3D grid of atoms (spheres connected by springs) vibrates about their equilibrium positions, with one mode excited so waves propagate through the lattice; displacement is color-coded, phonon “packets” are indicated as glowing clusters, and average energy is shown with a meter.\n\n15. **Sound Waveguides and Reflection in a Duct System**\n    A branching network of transparent rectangular ducts carries a pulsed sound wave represented by moving pressure fronts; at junctions the wave splits, reflects, and partially transmits, while animated arrows show energy flow and labels show reflection/transmission coefficients.\n\n16. **Speaker Cone and Air Particle Oscillation**\n    A large speaker cone at one end of a rectangular air region moves back and forth, pushing a cloud of small particles that oscillate longitudinally in place; color gradients represent pressure variations, and sliders adjust amplitude and frequency to show compression/rarefaction spacing.\n\n17. **Earthquake-Induced Building Vibration with Tuned Mass Damper**\n    A tall transparent skyscraper model with floors as stacked slabs sways on a shaking ground base while a heavy mass near the top slides on rails with a spring-damper; the building and damper motions are traced, and energy exchange between them is shown with changing bar graphs.\n\n18. **Vibrating Guitar Body and Sound Radiation**\n    A simplified guitar body with a vibrating string attached shows the bridge and top plate flexing, with hotspots of displacement glowing; expanding semi-transparent wavefronts radiate from the sound hole, and different pluck positions alter the surface vibration patterns.\n\n19. **Ultrasound Imaging Beam Scanning a Tissue Phantom**\n    A small ultrasound probe on one side of a semi-transparent tissue block emits narrow pulsed beams that sweep across, with reflections from embedded spheres and layers returning as faint backward-moving wavelets and appearing simultaneously as bright dots on a floating 2D “screen.”\n\n20. **Microscopic Hair Cell Bundle Responding to Sound**\n    A cluster of flexible hairs (thin cylinders) on top of a small cell in a fluid vibrates when an incoming sound wave (oscillating fluid flow arrows) passes; the hairs bend coherently, opening a glowing “ion channel” marker that pulses in brightness with the vibration amplitude.\n\n21. **Railway Track Vibration from Passing Train**\n    A straight segment of track modeled as rails on sleepers and ballast deforms slightly as a series of box-shaped train cars roll over; the rails flex and vibrate after each axle passes, with displacement magnitudes color-coded along the rail and traveling vibration waves visible.\n\n22. **Acoustic Standing Waves in a 3D Rectangular Room**\n    A rectangular, mostly empty room has a speaker at one corner emitting a steady tone, while the interior is filled with a subtle 3D grid whose nodes change color according to instantaneous pressure; at resonance frequencies, clear standing-wave patterns with bright nodal planes appear.\n\n23. **Shock Wave from an Explosion and Structural Response**\n    A small sphere “explodes” near a simple building, emitting a fast, bright pressure front that races outward and hits a wall and the building surfaces; panels flex, some detach and fall, and pressure vs. time at various sensors is displayed as small live graphs.\n\n24. **Vibrating Molecular Bond as a Spring-Mass System**\n    Two atoms connected by a spring vibrate along their bond axis, surrounded by a semi-transparent electron cloud; multiple such molecules float and collide softly, exchanging vibrational energy, while each bond’s stretching amplitude is color-coded and labeled with vibrational energy.\n\n25. **Sound-Activated Light Sculpture**\n    A central “microphone” sphere senses a synthetic sound waveform and drives a radial array of thin rods and panels that vibrate in different modes; their tips glow and change color with amplitude, and faint trails form shimmering patterns synchronized with the sound."
+}

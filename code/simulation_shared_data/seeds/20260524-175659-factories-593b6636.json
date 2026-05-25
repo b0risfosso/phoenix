@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Factories",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:56:59",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Conveyor-Belt Assembly Line",
+      "description": "A bright factory floor with multiple color-coded conveyor belts carrying box-shaped parts that attach, rotate for inspection, get stamped by descending pistons, and occasionally collide or fall off into labeled bins with particle sparks on impact.",
+      "seed": "Conveyor-Belt Assembly Line: A bright factory floor with multiple color-coded conveyor belts carrying box-shaped parts that attach, rotate for inspection, get stamped by descending pistons, and occasionally collide or fall off into labeled bins with particle sparks on impact."
+    },
+    {
+      "number": "2",
+      "title": "Robotic Arm Car Factory",
+      "description": "Several articulated robotic arms pick up chassis frames, weld glowing joint points, attach spinning wheels, and transfer finished cars along a moving platform while transparent safety barriers and floating labels indicate each production stage.",
+      "seed": "Robotic Arm Car Factory: Several articulated robotic arms pick up chassis frames, weld glowing joint points, attach spinning wheels, and transfer finished cars along a moving platform while transparent safety barriers and floating labels indicate each production stage."
+    },
+    {
+      "number": "3",
+      "title": "Bottling Plant with Fluid Filling",
+      "description": "Transparent bottles move along a conveyor under a filling nozzle where colored liquid streams down, splashes, and sometimes spills into a trough, while caps drop from a hopper, bounce, and snap onto bottles with small particle bursts.",
+      "seed": "Bottling Plant with Fluid Filling: Transparent bottles move along a conveyor under a filling nozzle where colored liquid streams down, splashes, and sometimes spills into a trough, while caps drop from a hopper, bounce, and snap onto bottles with small particle bursts."
+    },
+    {
+      "number": "4",
+      "title": "3D Printer Factory Farm",
+      "description": "A grid of 3D printers with moving nozzles extrude glowing filaments to build stacked shapes layer by layer, with print heads tracing visible trails, pausing, and occasionally colliding with misaligned objects that knock them off the platform.",
+      "seed": "3D Printer Factory Farm: A grid of 3D printers with moving nozzles extrude glowing filaments to build stacked shapes layer by layer, with print heads tracing visible trails, pausing, and occasionally colliding with misaligned objects that knock them off the platform."
+    },
+    {
+      "number": "5",
+      "title": "Warehouse Sorting Factory",
+      "description": "Autonomous cube-shaped robots glide on a light floor, pick up colored packages, avoid collisions using invisible sensor spheres, and deposit boxes onto vertical shelves that grow upward, with paths leaving faint trails and arrows.",
+      "seed": "Warehouse Sorting Factory: Autonomous cube-shaped robots glide on a light floor, pick up colored packages, avoid collisions using invisible sensor spheres, and deposit boxes onto vertical shelves that grow upward, with paths leaving faint trails and arrows."
+    },
+    {
+      "number": "6",
+      "title": "Steel Mill Casting Line",
+      "description": "A glowing, semi-transparent stream of molten metal pours from a tilting furnace into molds on a slow conveyor, where it cools from bright orange to dull gray, emitting rising particle steam and occasionally overflowing into a spill channel.",
+      "seed": "Steel Mill Casting Line: A glowing, semi-transparent stream of molten metal pours from a tilting furnace into molds on a slow conveyor, where it cools from bright orange to dull gray, emitting rising particle steam and occasionally overflowing into a spill channel."
+    },
+    {
+      "number": "7",
+      "title": "Textile Weaving Factory",
+      "description": "A long loom stretches semi-transparent colored threads that vibrate and slide as shuttle blocks weave across, interlacing strands into a growing fabric sheet that rolls onto a drum, with occasional thread breaks that snap back and detach.",
+      "seed": "Textile Weaving Factory: A long loom stretches semi-transparent colored threads that vibrate and slide as shuttle blocks weave across, interlacing strands into a growing fabric sheet that rolls onto a drum, with occasional thread breaks that snap back and detach."
+    },
+    {
+      "number": "8",
+      "title": "Circuit Board Assembly Factory",
+      "description": "A pick-and-place head moves in a grid above flat green boards, rapidly lowering to attach tiny component blocks, while a scanning head with a narrow light beam sweeps across, marking defective boards with a red glowing dot.",
+      "seed": "Circuit Board Assembly Factory: A pick-and-place head moves in a grid above flat green boards, rapidly lowering to attach tiny component blocks, while a scanning head with a narrow light beam sweeps across, marking defective boards with a red glowing dot."
+    },
+    {
+      "number": "9",
+      "title": "Packaging and Palletizing Line",
+      "description": "Boxes move down a belt, get folded by rotating arms, filled with smaller objects that bounce inside, taped by a spinning roller, and finally stacked by a robotic arm into neat pallets that grow like block towers and can topple if misaligned.",
+      "seed": "Packaging and Palletizing Line: Boxes move down a belt, get folded by rotating arms, filled with smaller objects that bounce inside, taped by a spinning roller, and finally stacked by a robotic arm into neat pallets that grow like block towers and can topple if misaligned."
+    },
+    {
+      "number": "10",
+      "title": "Microscopic Protein Factories in a Cell",
+      "description": "Ribosome-like spheres attach to a glowing RNA strand, move along it, and extrude chain-like proteins that fold, merge, or split in the cytoplasm, with translucent cell walls, floating organelles, and particle trails showing molecular transfers.",
+      "seed": "Microscopic Protein Factories in a Cell: Ribosome-like spheres attach to a glowing RNA strand, move along it, and extrude chain-like proteins that fold, merge, or split in the cytoplasm, with translucent cell walls, floating organelles, and particle trails showing molecular transfers."
+    },
+    {
+      "number": "11",
+      "title": "Smoke-Stack Emissions Factory",
+      "description": "A cluster of factories with rotating turbines and chimneys emit colored particle plumes that rise, mix, and drift in a light sky, while wind direction changes cause trails to bend and occasionally collide with a hovering “filter dome” that absorbs them.",
+      "seed": "Smoke-Stack Emissions Factory: A cluster of factories with rotating turbines and chimneys emit colored particle plumes that rise, mix, and drift in a light sky, while wind direction changes cause trails to bend and occasionally collide with a hovering “filter dome” that absorbs them."
+    },
+    {
+      "number": "12",
+      "title": "Toy Factory with Quality Control Drop",
+      "description": "Colorful toy blocks ride conveyors through painting sprays, drying tunnels, and then a test ramp where they bounce down steps; faulty ones, detected by a glowing scanner, are pushed sideways into a transparent rejection chute.",
+      "seed": "Toy Factory with Quality Control Drop: Colorful toy blocks ride conveyors through painting sprays, drying tunnels, and then a test ramp where they bounce down steps; faulty ones, detected by a glowing scanner, are pushed sideways into a transparent rejection chute."
+    },
+    {
+      "number": "13",
+      "title": "Solar-Powered Micro Factory",
+      "description": "A small automated factory sits under adjustable solar panels that rotate to track a moving light source, with energy levels shown by a rising/falling bar while machines inside speed up, slow down, or pause as power transfers between glowing capacitors.",
+      "seed": "Solar-Powered Micro Factory: A small automated factory sits under adjustable solar panels that rotate to track a moving light source, with energy levels shown by a rising/falling bar while machines inside speed up, slow down, or pause as power transfers between glowing capacitors."
+    },
+    {
+      "number": "14",
+      "title": "Chocolate Bar Production Line",
+      "description": "Liquid chocolate flows along a shallow channel into molds, cools and solidifies, then gets wrapped by thin, shiny sheets that fold and wrap around bars, with occasional splashes, drips that fall and harden, and sprinklers that add bouncing toppings.",
+      "seed": "Chocolate Bar Production Line: Liquid chocolate flows along a shallow channel into molds, cools and solidifies, then gets wrapped by thin, shiny sheets that fold and wrap around bars, with occasional splashes, drips that fall and harden, and sprinklers that add bouncing toppings."
+    },
+    {
+      "number": "15",
+      "title": "Lego-Style Block Factory",
+      "description": "A machine extrudes colored rectangular blocks that are cut, ejected, and then assembled by robotic arms into towers and bridges; blocks can detach and topple, colliding and scattering, leaving brief impact particles and labels for different shapes.",
+      "seed": "Lego-Style Block Factory: A machine extrudes colored rectangular blocks that are cut, ejected, and then assembled by robotic arms into towers and bridges; blocks can detach and topple, colliding and scattering, leaving brief impact particles and labels for different shapes."
+    },
+    {
+      "number": "16",
+      "title": "Automated Paint Factory Mixing Tanks",
+      "description": "Several transparent mixing tanks rotate paddles inside colored liquids that swirl, blend, and separate; pipes open and close to transfer fluids between tanks, while floating meters show fill levels and mixing ratios changing over time.",
+      "seed": "Automated Paint Factory Mixing Tanks: Several transparent mixing tanks rotate paddles inside colored liquids that swirl, blend, and separate; pipes open and close to transfer fluids between tanks, while floating meters show fill levels and mixing ratios changing over time."
+    },
+    {
+      "number": "17",
+      "title": "Paper Mill Roller System",
+      "description": "A continuous sheet of semi-transparent paper unwinds from a huge roll, threads through multiple spinning rollers that stretch and flatten it, then passes under cutting blades that slice it into sheets which flutter down into stacking trays.",
+      "seed": "Paper Mill Roller System: A continuous sheet of semi-transparent paper unwinds from a huge roll, threads through multiple spinning rollers that stretch and flatten it, then passes under cutting blades that slice it into sheets which flutter down into stacking trays."
+    },
+    {
+      "number": "18",
+      "title": "Drone Assembly and Test Factory",
+      "description": "Frames move along a line where arms attach rotors and batteries; completed drones detach, lift off, hover along a test corridor with visible thrust trails, avoid obstacles, and then land back on pads for disassembly or storage.",
+      "seed": "Drone Assembly and Test Factory: Frames move along a line where arms attach rotors and batteries; completed drones detach, lift off, hover along a test corridor with visible thrust trails, avoid obstacles, and then land back on pads for disassembly or storage."
+    },
+    {
+      "number": "19",
+      "title": "Battery Factory with Charge Testing",
+      "description": "Cylindrical cells move through stations where layers wrap around their cores, caps attach, and then each battery rolls into a transparent test chamber that glows from red to green as charge flows, with a meter bar and occasional overheating sparks.",
+      "seed": "Battery Factory with Charge Testing: Cylindrical cells move through stations where layers wrap around their cores, caps attach, and then each battery rolls into a transparent test chamber that glows from red to green as charge flows, with a meter bar and occasional overheating sparks."
+    },
+    {
+      "number": "20",
+      "title": "Glass Bottle Blowing Factory",
+      "description": "Glowing glass blobs hang from rods, rotate in front of gas flames, then descend into molds where air jets inflate them into bottle shapes; some bottles deform or burst into small glowing shards that scatter and cool.",
+      "seed": "Glass Bottle Blowing Factory: Glowing glass blobs hang from rods, rotate in front of gas flames, then descend into molds where air jets inflate them into bottle shapes; some bottles deform or burst into small glowing shards that scatter and cool."
+    },
+    {
+      "number": "21",
+      "title": "Robot Factory Building Robots",
+      "description": "A meta-factory where partially assembled robot bodies roll along a track, arms and heads are attached by other small robots, and finished robots step off the line, walk to a charging rail to dock and glow, then rejoin the assembly process.",
+      "seed": "Robot Factory Building Robots: A meta-factory where partially assembled robot bodies roll along a track, arms and heads are attached by other small robots, and finished robots step off the line, walk to a charging rail to dock and glow, then rejoin the assembly process."
+    },
+    {
+      "number": "22",
+      "title": "Assembly Line with Jams and Maintenance",
+      "description": "Multiple conveyors intersect, moving parts that occasionally jam and pile up, triggering a flashing warning light and summoning a maintenance bot that rolls over, lifts, and clears the jammed objects, restoring smooth flow.",
+      "seed": "Assembly Line with Jams and Maintenance: Multiple conveyors intersect, moving parts that occasionally jam and pile up, triggering a flashing warning light and summoning a maintenance bot that rolls over, lifts, and clears the jammed objects, restoring smooth flow."
+    },
+    {
+      "number": "23",
+      "title": "Nanobot Construction Factory",
+      "description": "At a microscopic scale, larger “assembler” bots float in a fluid, attracting tiny particles, snapping them into lattice structures, then releasing completed nanobots that swim away with faint trails, while defective ones dissolve back into particles.",
+      "seed": "Nanobot Construction Factory: At a microscopic scale, larger “assembler” bots float in a fluid, attracting tiny particles, snapping them into lattice structures, then releasing completed nanobots that swim away with faint trails, while defective ones dissolve back into particles."
+    },
+    {
+      "number": "24",
+      "title": "Recycling Factory with Separation Streams",
+      "description": "Mixed trash blocks move up a ramp, fall onto vibrating, tilted platforms where metal pieces are magnetically lifted, plastics float down air jets, and glass pieces bounce into a separate chute, with colored labels and particle dust.",
+      "seed": "Recycling Factory with Separation Streams: Mixed trash blocks move up a ramp, fall onto vibrating, tilted platforms where metal pieces are magnetically lifted, plastics float down air jets, and glass pieces bounce into a separate chute, with colored labels and particle dust."
+    },
+    {
+      "number": "25",
+      "title": "Symbolic Idea Factory",
+      "description": "Glowing spheres representing ideas enter a white chamber, split, merge, and change color as they pass through rotating “machine” shapes; some ideas attach to others forming chains, some dissolve into particles, and output streams are labeled as different “products.”",
+      "seed": "Symbolic Idea Factory: Glowing spheres representing ideas enter a white chamber, split, merge, and change color as they pass through rotating “machine” shapes; some ideas attach to others forming chains, some dissolve into particles, and output streams are labeled as different “products.”"
+    }
+  ],
+  "raw_output": "Here are strong **Factories simulation inputs** you can plug into your prompt:\n\n1. **Conveyor-Belt Assembly Line**\n   A bright factory floor with multiple color-coded conveyor belts carrying box-shaped parts that attach, rotate for inspection, get stamped by descending pistons, and occasionally collide or fall off into labeled bins with particle sparks on impact.\n\n2. **Robotic Arm Car Factory**\n   Several articulated robotic arms pick up chassis frames, weld glowing joint points, attach spinning wheels, and transfer finished cars along a moving platform while transparent safety barriers and floating labels indicate each production stage.\n\n3. **Bottling Plant with Fluid Filling**\n   Transparent bottles move along a conveyor under a filling nozzle where colored liquid streams down, splashes, and sometimes spills into a trough, while caps drop from a hopper, bounce, and snap onto bottles with small particle bursts.\n\n4. **3D Printer Factory Farm**\n   A grid of 3D printers with moving nozzles extrude glowing filaments to build stacked shapes layer by layer, with print heads tracing visible trails, pausing, and occasionally colliding with misaligned objects that knock them off the platform.\n\n5. **Warehouse Sorting Factory**\n   Autonomous cube-shaped robots glide on a light floor, pick up colored packages, avoid collisions using invisible sensor spheres, and deposit boxes onto vertical shelves that grow upward, with paths leaving faint trails and arrows.\n\n6. **Steel Mill Casting Line**\n   A glowing, semi-transparent stream of molten metal pours from a tilting furnace into molds on a slow conveyor, where it cools from bright orange to dull gray, emitting rising particle steam and occasionally overflowing into a spill channel.\n\n7. **Textile Weaving Factory**\n   A long loom stretches semi-transparent colored threads that vibrate and slide as shuttle blocks weave across, interlacing strands into a growing fabric sheet that rolls onto a drum, with occasional thread breaks that snap back and detach.\n\n8. **Circuit Board Assembly Factory**\n   A pick-and-place head moves in a grid above flat green boards, rapidly lowering to attach tiny component blocks, while a scanning head with a narrow light beam sweeps across, marking defective boards with a red glowing dot.\n\n9. **Packaging and Palletizing Line**\n   Boxes move down a belt, get folded by rotating arms, filled with smaller objects that bounce inside, taped by a spinning roller, and finally stacked by a robotic arm into neat pallets that grow like block towers and can topple if misaligned.\n\n10. **Microscopic Protein Factories in a Cell**\n   Ribosome-like spheres attach to a glowing RNA strand, move along it, and extrude chain-like proteins that fold, merge, or split in the cytoplasm, with translucent cell walls, floating organelles, and particle trails showing molecular transfers.\n\n11. **Smoke-Stack Emissions Factory**\n   A cluster of factories with rotating turbines and chimneys emit colored particle plumes that rise, mix, and drift in a light sky, while wind direction changes cause trails to bend and occasionally collide with a hovering “filter dome” that absorbs them.\n\n12. **Toy Factory with Quality Control Drop**\n   Colorful toy blocks ride conveyors through painting sprays, drying tunnels, and then a test ramp where they bounce down steps; faulty ones, detected by a glowing scanner, are pushed sideways into a transparent rejection chute.\n\n13. **Solar-Powered Micro Factory**\n   A small automated factory sits under adjustable solar panels that rotate to track a moving light source, with energy levels shown by a rising/falling bar while machines inside speed up, slow down, or pause as power transfers between glowing capacitors.\n\n14. **Chocolate Bar Production Line**\n   Liquid chocolate flows along a shallow channel into molds, cools and solidifies, then gets wrapped by thin, shiny sheets that fold and wrap around bars, with occasional splashes, drips that fall and harden, and sprinklers that add bouncing toppings.\n\n15. **Lego-Style Block Factory**\n   A machine extrudes colored rectangular blocks that are cut, ejected, and then assembled by robotic arms into towers and bridges; blocks can detach and topple, colliding and scattering, leaving brief impact particles and labels for different shapes.\n\n16. **Automated Paint Factory Mixing Tanks**\n   Several transparent mixing tanks rotate paddles inside colored liquids that swirl, blend, and separate; pipes open and close to transfer fluids between tanks, while floating meters show fill levels and mixing ratios changing over time.\n\n17. **Paper Mill Roller System**\n   A continuous sheet of semi-transparent paper unwinds from a huge roll, threads through multiple spinning rollers that stretch and flatten it, then passes under cutting blades that slice it into sheets which flutter down into stacking trays.\n\n18. **Drone Assembly and Test Factory**\n   Frames move along a line where arms attach rotors and batteries; completed drones detach, lift off, hover along a test corridor with visible thrust trails, avoid obstacles, and then land back on pads for disassembly or storage.\n\n19. **Battery Factory with Charge Testing**\n   Cylindrical cells move through stations where layers wrap around their cores, caps attach, and then each battery rolls into a transparent test chamber that glows from red to green as charge flows, with a meter bar and occasional overheating sparks.\n\n20. **Glass Bottle Blowing Factory**\n   Glowing glass blobs hang from rods, rotate in front of gas flames, then descend into molds where air jets inflate them into bottle shapes; some bottles deform or burst into small glowing shards that scatter and cool.\n\n21. **Robot Factory Building Robots**\n   A meta-factory where partially assembled robot bodies roll along a track, arms and heads are attached by other small robots, and finished robots step off the line, walk to a charging rail to dock and glow, then rejoin the assembly process.\n\n22. **Assembly Line with Jams and Maintenance**\n   Multiple conveyors intersect, moving parts that occasionally jam and pile up, triggering a flashing warning light and summoning a maintenance bot that rolls over, lifts, and clears the jammed objects, restoring smooth flow.\n\n23. **Nanobot Construction Factory**\n   At a microscopic scale, larger “assembler” bots float in a fluid, attracting tiny particles, snapping them into lattice structures, then releasing completed nanobots that swim away with faint trails, while defective ones dissolve back into particles.\n\n24. **Recycling Factory with Separation Streams**\n   Mixed trash blocks move up a ramp, fall onto vibrating, tilted platforms where metal pieces are magnetically lifted, plastics float down air jets, and glass pieces bounce into a separate chute, with colored labels and particle dust.\n\n25. **Symbolic Idea Factory**\n   Glowing spheres representing ideas enter a white chamber, split, merge, and change color as they pass through rotating “machine” shapes; some ideas attach to others forming chains, some dissolve into particles, and output streams are labeled as different “products.”"
+}

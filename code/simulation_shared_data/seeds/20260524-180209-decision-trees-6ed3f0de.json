@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Decision trees",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:02:09",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Growing Decision Forest",
+      "description": "A central translucent sphere emits branching rods that split recursively into a glowing 3D tree of colored nodes, where each branch point is a labeled sphere that can grow, shrink, or fade as “decisions” propagate as moving particles along the branches.",
+      "seed": "Growing Decision Forest: A central translucent sphere emits branching rods that split recursively into a glowing 3D tree of colored nodes, where each branch point is a labeled sphere that can grow, shrink, or fade as “decisions” propagate as moving particles along the branches."
+    },
+    {
+      "number": "2",
+      "title": "Binary Split Machine",
+      "description": "A stream of small balls falls from above onto a 3D array of hinged paddles that automatically rotate left or right to simulate binary decisions, sending the balls down branching chutes to labeled bins whose fill level is shown with transparent columns.",
+      "seed": "Binary Split Machine: A stream of small balls falls from above onto a 3D array of hinged paddles that automatically rotate left or right to simulate binary decisions, sending the balls down branching chutes to labeled bins whose fill level is shown with transparent columns."
+    },
+    {
+      "number": "3",
+      "title": "Interactive Choice Maze",
+      "description": "A hovering camera moves through a suspended 3D lattice of corridors where each junction is a decision node with floating labels, and a glowing “agent” sphere travels, splits, or backtracks along paths as the user clicks nodes to choose directions.",
+      "seed": "Interactive Choice Maze: A hovering camera moves through a suspended 3D lattice of corridors where each junction is a decision node with floating labels, and a glowing “agent” sphere travels, splits, or backtracks along paths as the user clicks nodes to choose directions."
+    },
+    {
+      "number": "4",
+      "title": "Decision Tree Waterfall",
+      "description": "A fountain at the top of the scene releases continuous streams of blue particles that split at transparent branching “gates,” with each gate rotating to send water droplets down different colored channels representing decisions, filling various basins.",
+      "seed": "Decision Tree Waterfall: A fountain at the top of the scene releases continuous streams of blue particles that split at transparent branching “gates,” with each gate rotating to send water droplets down different colored channels representing decisions, filling various basins."
+    },
+    {
+      "number": "5",
+      "title": "Evolution of a Decision Tree",
+      "description": "Multiple generations of translucent trees grow from the same root, with old branches slowly dissolving while new, thicker branches sprout and pulse brighter, and a side meter tracks total branch count and tree depth over time.",
+      "seed": "Evolution of a Decision Tree: Multiple generations of translucent trees grow from the same root, with old branches slowly dissolving while new, thicker branches sprout and pulse brighter, and a side meter tracks total branch count and tree depth over time."
+    },
+    {
+      "number": "6",
+      "title": "Decision Tree Classifier in 3D Space",
+      "description": "Colored data spheres float in a 3D cube while semi-transparent decision planes rotate and slide to partition the space; each region is connected by thin rods to a tree structure on the side, which highlights and pulses when data points enter its cell.",
+      "seed": "Decision Tree Classifier in 3D Space: Colored data spheres float in a 3D cube while semi-transparent decision planes rotate and slide to partition the space; each region is connected by thin rods to a tree structure on the side, which highlights and pulses when data points enter its cell."
+    },
+    {
+      "number": "7",
+      "title": "Decision Tree Pruning Visualizer",
+      "description": "A dense 3D decision tree of slender rods and tiny node spheres gradually simplifies as weak branches turn transparent, then detach and gently float away, while remaining branches thicken and glow; a bar at the bottom shows model complexity over time.",
+      "seed": "Decision Tree Pruning Visualizer: A dense 3D decision tree of slender rods and tiny node spheres gradually simplifies as weak branches turn transparent, then detach and gently float away, while remaining branches thicken and glow; a bar at the bottom shows model complexity over time."
+    },
+    {
+      "number": "8",
+      "title": "Multi-Path Robot Navigator",
+      "description": "A small wheeled robot moves over a light floor toward a goal while encountering branching signposts; at each signpost, the robot either splits into ghost copies following different paths on a 3D decision tree above, or merges back when paths rejoin.",
+      "seed": "Multi-Path Robot Navigator: A small wheeled robot moves over a light floor toward a goal while encountering branching signposts; at each signpost, the robot either splits into ghost copies following different paths on a 3D decision tree above, or merges back when paths rejoin."
+    },
+    {
+      "number": "9",
+      "title": "Decision Tree as a Power Grid",
+      "description": "An energy source at the root sends glowing current along branching cables to houses (small boxes) at the leaves; switches at internal nodes flip, rerouting current, dimming some houses and brightening others, with current visualized as pulsing light.",
+      "seed": "Decision Tree as a Power Grid: An energy source at the root sends glowing current along branching cables to houses (small boxes) at the leaves; switches at internal nodes flip, rerouting current, dimming some houses and brightening others, with current visualized as pulsing light."
+    },
+    {
+      "number": "10",
+      "title": "Decision Tree Particle Sorter",
+      "description": "A cloud of multicolored particles drifts into a 3D branching pipeline where transparent valves rotate to route particles based on color or size, with each leaf pipe ending in a labeled collector that shows particle counts as rising columns.",
+      "seed": "Decision Tree Particle Sorter: A cloud of multicolored particles drifts into a 3D branching pipeline where transparent valves rotate to route particles based on color or size, with each leaf pipe ending in a labeled collector that shows particle counts as rising columns."
+    },
+    {
+      "number": "11",
+      "title": "Decision Tree Weather Predictor",
+      "description": "A central transparent globe shows a tiny rotating Earth, while branching rods extend outward to different weather outcomes; particles representing humidity, temperature, and wind travel from sensors into the tree, lighting up the likely forecast leaves.",
+      "seed": "Decision Tree Weather Predictor: A central transparent globe shows a tiny rotating Earth, while branching rods extend outward to different weather outcomes; particles representing humidity, temperature, and wind travel from sensors into the tree, lighting up the likely forecast leaves."
+    },
+    {
+      "number": "12",
+      "title": "Decision Tree Garden",
+      "description": "A stylized tree grows from a pot, where each decision node sprouts different colored leaves or flowers; selecting different nutrient streams (colored droplets falling into the pot) changes which branches thicken, bloom, or wither.",
+      "seed": "Decision Tree Garden: A stylized tree grows from a pot, where each decision node sprouts different colored leaves or flowers; selecting different nutrient streams (colored droplets falling into the pot) changes which branches thicken, bloom, or wither."
+    },
+    {
+      "number": "13",
+      "title": "3D Decision Tournament Bracket",
+      "description": "Floating spheres representing players move along a branching 3D bracket; at each match node, two spheres collide and one is propelled forward along the branch while the other fades, with the whole bracket forming a decision tree of outcomes.",
+      "seed": "3D Decision Tournament Bracket: Floating spheres representing players move along a branching 3D bracket; at each match node, two spheres collide and one is propelled forward along the branch while the other fades, with the whole bracket forming a decision tree of outcomes."
+    },
+    {
+      "number": "14",
+      "title": "Decision Tree Traffic Controller",
+      "description": "Streams of small cars (boxes with wheels) approach a raised hub and then are routed along elevated branching highways; traffic lights at each node decide which lane opens, causing cars to queue, merge, or split while overhead labels show routing rules.",
+      "seed": "Decision Tree Traffic Controller: Streams of small cars (boxes with wheels) approach a raised hub and then are routed along elevated branching highways; traffic lights at each node decide which lane opens, causing cars to queue, merge, or split while overhead labels show routing rules."
+    },
+    {
+      "number": "15",
+      "title": "Decision Tree Packet Router",
+      "description": "Glowing data packets travel through a transparent 3D network of branching tubes; at each router node, packets inspect a floating label and choose a tube, leaving faint trails, while congestion causes packets to temporarily orbit waiting queues.",
+      "seed": "Decision Tree Packet Router: Glowing data packets travel through a transparent 3D network of branching tubes; at each router node, packets inspect a floating label and choose a tube, leaving faint trails, while congestion causes packets to temporarily orbit waiting queues."
+    },
+    {
+      "number": "16",
+      "title": "Decision Tree as Crystal Growth",
+      "description": "A crystalline structure grows from a seed, with each decision node forming a branching crystal shard whose direction and color depend on incoming “choice” particles; some branches dissolve if they receive too few particles, visually pruning the crystal.",
+      "seed": "Decision Tree as Crystal Growth: A crystalline structure grows from a seed, with each decision node forming a branching crystal shard whose direction and color depend on incoming “choice” particles; some branches dissolve if they receive too few particles, visually pruning the crystal."
+    },
+    {
+      "number": "17",
+      "title": "Decision Tree Mine Explorer",
+      "description": "A miner sphere starts at the surface and travels down a branching mine shaft system; at each fork, ghost paths show alternate choices, and the miner’s actual path leaves a glowing trail, with gems appearing at some leaf nodes when reached.",
+      "seed": "Decision Tree Mine Explorer: A miner sphere starts at the surface and travels down a branching mine shaft system; at each fork, ghost paths show alternate choices, and the miner’s actual path leaves a glowing trail, with gems appearing at some leaf nodes when reached."
+    },
+    {
+      "number": "18",
+      "title": "Decision Tree Disease Diagnosis",
+      "description": "A patient avatar at the root sends symptom particles into a branching diagnostic tree; each decision node filters and splits particles, lighting up certain branches, and final diagnoses at the leaves glow and expand when reached, with text labels hovering.",
+      "seed": "Decision Tree Disease Diagnosis: A patient avatar at the root sends symptom particles into a branching diagnostic tree; each decision node filters and splits particles, lighting up certain branches, and final diagnoses at the leaves glow and expand when reached, with text labels hovering."
+    },
+    {
+      "number": "19",
+      "title": "Decision Tree Voting Flow",
+      "description": "A crowd of tiny walking figures approaches a decision “hub” and then splits along branching walkways according to different choices; walkways elevate into a 3D branching structure, and the thickness and color intensity of each branch reflect how many figures chose it.",
+      "seed": "Decision Tree Voting Flow: A crowd of tiny walking figures approaches a decision “hub” and then splits along branching walkways according to different choices; walkways elevate into a 3D branching structure, and the thickness and color intensity of each branch reflect how many figures chose it."
+    },
+    {
+      "number": "20",
+      "title": "Decision Tree Compression Visualizer",
+      "description": "A messy cloud of labeled data boxes condenses into a neat 3D decision tree as boxes slide, stack, and merge into nodes; hovering over a node makes its contributing boxes temporarily detach, orbit around it, then snap back, showing how splits compress information.",
+      "seed": "Decision Tree Compression Visualizer: A messy cloud of labeled data boxes condenses into a neat 3D decision tree as boxes slide, stack, and merge into nodes; hovering over a node makes its contributing boxes temporarily detach, orbit around it, then snap back, showing how splits compress information."
+    },
+    {
+      "number": "21",
+      "title": "Decision Tree Music Conductor",
+      "description": "A central conductor sphere sends timing pulses along branching rods to small instrument cubes at the leaves; changing decisions at internal nodes reroutes beats, making some branches pulse faster or slower, with notes visualized as colored sound waves.",
+      "seed": "Decision Tree Music Conductor: A central conductor sphere sends timing pulses along branching rods to small instrument cubes at the leaves; changing decisions at internal nodes reroutes beats, making some branches pulse faster or slower, with notes visualized as colored sound waves."
+    },
+    {
+      "number": "22",
+      "title": "Decision Tree DNA Replication Choices",
+      "description": "A DNA strand unwinds and moves through a branching repair-and-replication decision structure; repair enzymes (tiny spheres) travel along branches, attach to the DNA, and either fix, mutate, or discard segments depending on which leaf node is reached.",
+      "seed": "Decision Tree DNA Replication Choices: A DNA strand unwinds and moves through a branching repair-and-replication decision structure; repair enzymes (tiny spheres) travel along branches, attach to the DNA, and either fix, mutate, or discard segments depending on which leaf node is reached."
+    },
+    {
+      "number": "23",
+      "title": "Decision Tree Investment Flow",
+      "description": "Coins drop from a source and roll along branching ramps representing investment decisions; some ramps merge and accelerate coins, others split and slow them, and transparent cylinders at the bottom show accumulated wealth in each outcome path.",
+      "seed": "Decision Tree Investment Flow: Coins drop from a source and roll along branching ramps representing investment decisions; some ramps merge and accelerate coins, others split and slow them, and transparent cylinders at the bottom show accumulated wealth in each outcome path."
+    },
+    {
+      "number": "24",
+      "title": "Decision Tree Fire Spread Simulator",
+      "description": "A small flame at the root ignites branching lines of semi-transparent “fuel” rods; at each node, the flame either continues, dims, or jumps to a different branch based on hovering environmental indicators, with burned branches turning black and brittle.",
+      "seed": "Decision Tree Fire Spread Simulator: A small flame at the root ignites branching lines of semi-transparent “fuel” rods; at each node, the flame either continues, dims, or jumps to a different branch based on hovering environmental indicators, with burned branches turning black and brittle."
+    },
+    {
+      "number": "25",
+      "title": "Multi-Agent Decision Forest",
+      "description": "Several colored agent spheres wander a flat plane and, above them, matching-colored 3D decision trees grow or shrink; as each agent collides with different objects or zones on the plane, corresponding branches in its overhead tree light, grow, or prune in real time.",
+      "seed": "Multi-Agent Decision Forest: Several colored agent spheres wander a flat plane and, above them, matching-colored 3D decision trees grow or shrink; as each agent collides with different objects or zones on the plane, corresponding branches in its overhead tree light, grow, or prune in real time."
+    }
+  ],
+  "raw_output": "Here are strong **Decision trees simulation inputs** you can plug into your prompt:\n\n1. **Growing Decision Forest**\n   A central translucent sphere emits branching rods that split recursively into a glowing 3D tree of colored nodes, where each branch point is a labeled sphere that can grow, shrink, or fade as “decisions” propagate as moving particles along the branches.\n\n2. **Binary Split Machine**\n   A stream of small balls falls from above onto a 3D array of hinged paddles that automatically rotate left or right to simulate binary decisions, sending the balls down branching chutes to labeled bins whose fill level is shown with transparent columns.\n\n3. **Interactive Choice Maze**\n   A hovering camera moves through a suspended 3D lattice of corridors where each junction is a decision node with floating labels, and a glowing “agent” sphere travels, splits, or backtracks along paths as the user clicks nodes to choose directions.\n\n4. **Decision Tree Waterfall**\n   A fountain at the top of the scene releases continuous streams of blue particles that split at transparent branching “gates,” with each gate rotating to send water droplets down different colored channels representing decisions, filling various basins.\n\n5. **Evolution of a Decision Tree**\n   Multiple generations of translucent trees grow from the same root, with old branches slowly dissolving while new, thicker branches sprout and pulse brighter, and a side meter tracks total branch count and tree depth over time.\n\n6. **Decision Tree Classifier in 3D Space**\n   Colored data spheres float in a 3D cube while semi-transparent decision planes rotate and slide to partition the space; each region is connected by thin rods to a tree structure on the side, which highlights and pulses when data points enter its cell.\n\n7. **Decision Tree Pruning Visualizer**\n   A dense 3D decision tree of slender rods and tiny node spheres gradually simplifies as weak branches turn transparent, then detach and gently float away, while remaining branches thicken and glow; a bar at the bottom shows model complexity over time.\n\n8. **Multi-Path Robot Navigator**\n   A small wheeled robot moves over a light floor toward a goal while encountering branching signposts; at each signpost, the robot either splits into ghost copies following different paths on a 3D decision tree above, or merges back when paths rejoin.\n\n9. **Decision Tree as a Power Grid**\n   An energy source at the root sends glowing current along branching cables to houses (small boxes) at the leaves; switches at internal nodes flip, rerouting current, dimming some houses and brightening others, with current visualized as pulsing light.\n\n10. **Decision Tree Particle Sorter**\n    A cloud of multicolored particles drifts into a 3D branching pipeline where transparent valves rotate to route particles based on color or size, with each leaf pipe ending in a labeled collector that shows particle counts as rising columns.\n\n11. **Decision Tree Weather Predictor**\n    A central transparent globe shows a tiny rotating Earth, while branching rods extend outward to different weather outcomes; particles representing humidity, temperature, and wind travel from sensors into the tree, lighting up the likely forecast leaves.\n\n12. **Decision Tree Garden**\n    A stylized tree grows from a pot, where each decision node sprouts different colored leaves or flowers; selecting different nutrient streams (colored droplets falling into the pot) changes which branches thicken, bloom, or wither.\n\n13. **3D Decision Tournament Bracket**\n    Floating spheres representing players move along a branching 3D bracket; at each match node, two spheres collide and one is propelled forward along the branch while the other fades, with the whole bracket forming a decision tree of outcomes.\n\n14. **Decision Tree Traffic Controller**\n    Streams of small cars (boxes with wheels) approach a raised hub and then are routed along elevated branching highways; traffic lights at each node decide which lane opens, causing cars to queue, merge, or split while overhead labels show routing rules.\n\n15. **Decision Tree Packet Router**\n    Glowing data packets travel through a transparent 3D network of branching tubes; at each router node, packets inspect a floating label and choose a tube, leaving faint trails, while congestion causes packets to temporarily orbit waiting queues.\n\n16. **Decision Tree as Crystal Growth**\n    A crystalline structure grows from a seed, with each decision node forming a branching crystal shard whose direction and color depend on incoming “choice” particles; some branches dissolve if they receive too few particles, visually pruning the crystal.\n\n17. **Decision Tree Mine Explorer**\n    A miner sphere starts at the surface and travels down a branching mine shaft system; at each fork, ghost paths show alternate choices, and the miner’s actual path leaves a glowing trail, with gems appearing at some leaf nodes when reached.\n\n18. **Decision Tree Disease Diagnosis**\n    A patient avatar at the root sends symptom particles into a branching diagnostic tree; each decision node filters and splits particles, lighting up certain branches, and final diagnoses at the leaves glow and expand when reached, with text labels hovering.\n\n19. **Decision Tree Voting Flow**\n    A crowd of tiny walking figures approaches a decision “hub” and then splits along branching walkways according to different choices; walkways elevate into a 3D branching structure, and the thickness and color intensity of each branch reflect how many figures chose it.\n\n20. **Decision Tree Compression Visualizer**\n    A messy cloud of labeled data boxes condenses into a neat 3D decision tree as boxes slide, stack, and merge into nodes; hovering over a node makes its contributing boxes temporarily detach, orbit around it, then snap back, showing how splits compress information.\n\n21. **Decision Tree Music Conductor**\n    A central conductor sphere sends timing pulses along branching rods to small instrument cubes at the leaves; changing decisions at internal nodes reroutes beats, making some branches pulse faster or slower, with notes visualized as colored sound waves.\n\n22. **Decision Tree DNA Replication Choices**\n    A DNA strand unwinds and moves through a branching repair-and-replication decision structure; repair enzymes (tiny spheres) travel along branches, attach to the DNA, and either fix, mutate, or discard segments depending on which leaf node is reached.\n\n23. **Decision Tree Investment Flow**\n    Coins drop from a source and roll along branching ramps representing investment decisions; some ramps merge and accelerate coins, others split and slow them, and transparent cylinders at the bottom show accumulated wealth in each outcome path.\n\n24. **Decision Tree Fire Spread Simulator**\n    A small flame at the root ignites branching lines of semi-transparent “fuel” rods; at each node, the flame either continues, dims, or jumps to a different branch based on hovering environmental indicators, with burned branches turning black and brittle.\n\n25. **Multi-Agent Decision Forest**\n    Several colored agent spheres wander a flat plane and, above them, matching-colored 3D decision trees grow or shrink; as each agent collides with different objects or zones on the plane, corresponding branches in its overhead tree light, grow, or prune in real time."
+}

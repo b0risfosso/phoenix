@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Music waves",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:08:04",
+  "entries": [
+    {
+      "number": "1",
+      "title": "3D Sound Wave Tunnel",
+      "description": "A long transparent tube with a glowing ribbon of particles that pulses and ripples down its length to represent a music waveform, with amplitude-changing bulges, color-coded frequency bands, and a moving marker sphere that rides the crest with a trail.",
+      "seed": "3D Sound Wave Tunnel: A long transparent tube with a glowing ribbon of particles that pulses and ripples down its length to represent a music waveform, with amplitude-changing bulges, color-coded frequency bands, and a moving marker sphere that rides the crest with a trail."
+    },
+    {
+      "number": "2",
+      "title": "Floating Speakers and Rippled Air",
+      "description": "Several hovering box speakers emit expanding semi-transparent spherical shells that represent pressure waves, which overlap, interfere, and create brighter interference regions where shells collide, with a central meter showing combined loudness.",
+      "seed": "Floating Speakers and Rippled Air: Several hovering box speakers emit expanding semi-transparent spherical shells that represent pressure waves, which overlap, interfere, and create brighter interference regions where shells collide, with a central meter showing combined loudness."
+    },
+    {
+      "number": "3",
+      "title": "Piano Keys to 3D Wavefield",
+      "description": "A row of white piano keys at the bottom triggers vertical oscillating columns of air above them, each column a semi-transparent cylinder that vibrates up and down with color-coded amplitude and leaves faint oscillation trails in a light room.",
+      "seed": "Piano Keys to 3D Wavefield: A row of white piano keys at the bottom triggers vertical oscillating columns of air above them, each column a semi-transparent cylinder that vibrates up and down with color-coded amplitude and leaves faint oscillation trails in a light room."
+    },
+    {
+      "number": "4",
+      "title": "Laser Sheet Through Music Fog",
+      "description": "A thin glowing plane (laser sheet) passes through a foggy box of tiny particles that oscillate in place according to a traveling sound wave, causing the particles to pulse and drift in waves while the sheet scans back and forth like a music visualizer.",
+      "seed": "Laser Sheet Through Music Fog: A thin glowing plane (laser sheet) passes through a foggy box of tiny particles that oscillate in place according to a traveling sound wave, causing the particles to pulse and drift in waves while the sheet scans back and forth like a music visualizer."
+    },
+    {
+      "number": "5",
+      "title": "String Instrument Wave on a 3D Rope",
+      "description": "A taut rope stretched between two fixed posts vibrates in different standing wave modes when “plucked” by a moving sphere, with nodes labeled, antinodes glowing brightly, and overtones overlaying as semi-transparent colored curves along the rope.",
+      "seed": "String Instrument Wave on a 3D Rope: A taut rope stretched between two fixed posts vibrates in different standing wave modes when “plucked” by a moving sphere, with nodes labeled, antinodes glowing brightly, and overtones overlaying as semi-transparent colored curves along the rope."
+    },
+    {
+      "number": "6",
+      "title": "Water Surface Dancing to Beats",
+      "description": "A shallow transparent pool with a light-colored floor shows concentric surface waves emerging from several vibrating posts at the edges; waves collide, reflect from the walls, and form dynamic interference patterns colored by height.",
+      "seed": "Water Surface Dancing to Beats: A shallow transparent pool with a light-colored floor shows concentric surface waves emerging from several vibrating posts at the edges; waves collide, reflect from the walls, and form dynamic interference patterns colored by height."
+    },
+    {
+      "number": "7",
+      "title": "Wave Packet Traveling Around a Ring",
+      "description": "A circular tube loop with a bright localized bunch of particles (wave packet) travels around it, spreading, splitting, and re-merging as it encounters adjustable “barrier” segments, with labels showing frequency and speed changing in real time.",
+      "seed": "Wave Packet Traveling Around a Ring: A circular tube loop with a bright localized bunch of particles (wave packet) travels around it, spreading, splitting, and re-merging as it encounters adjustable “barrier” segments, with labels showing frequency and speed changing in real time."
+    },
+    {
+      "number": "8",
+      "title": "Sound Waves Bending Through Hot and Cold Air",
+      "description": "Layers of air represented by stacked transparent slabs of different refractive index cause a pulsing sound wavefront (semi-transparent sheet) to bend, compress, and expand as it travels, with little arrow vectors on particles that show local velocity changes.",
+      "seed": "Sound Waves Bending Through Hot and Cold Air: Layers of air represented by stacked transparent slabs of different refractive index cause a pulsing sound wavefront (semi-transparent sheet) to bend, compress, and expand as it travels, with little arrow vectors on particles that show local velocity changes."
+    },
+    {
+      "number": "9",
+      "title": "3D Standing Wave in a Room",
+      "description": "A rectangular transparent room filled with a 3D lattice of tiny spheres oscillates in place according to a standing sound wave pattern, with nodes dim and antinodes glowing, plus a movable listener sphere that shows perceived loudness with a color bar.",
+      "seed": "3D Standing Wave in a Room: A rectangular transparent room filled with a 3D lattice of tiny spheres oscillates in place according to a standing sound wave pattern, with nodes dim and antinodes glowing, plus a movable listener sphere that shows perceived loudness with a color bar."
+    },
+    {
+      "number": "10",
+      "title": "Headphones and Ear Canal Wave Propagation",
+      "description": "A pair of hovering headphones emit pulsing cylindrical waves that funnel into a simplified transparent ear canal tube, where the wave compresses, reflects at the eardrum membrane, and transfers energy to a tiny vibrating “ossicle” bar.",
+      "seed": "Headphones and Ear Canal Wave Propagation: A pair of hovering headphones emit pulsing cylindrical waves that funnel into a simplified transparent ear canal tube, where the wave compresses, reflects at the eardrum membrane, and transfers energy to a tiny vibrating “ossicle” bar."
+    },
+    {
+      "number": "11",
+      "title": "Colorful Frequency Bars as 3D Columns",
+      "description": "Multiple tall, slender columns arranged in a circle pulse in height, color, and slight radial expansion as different frequency bands of a music signal, with soft transparent domes on top that glow brighter and leave small particle bursts when peaks occur.",
+      "seed": "Colorful Frequency Bars as 3D Columns: Multiple tall, slender columns arranged in a circle pulse in height, color, and slight radial expansion as different frequency bands of a music signal, with soft transparent domes on top that glow brighter and leave small particle bursts when peaks occur."
+    },
+    {
+      "number": "12",
+      "title": "Music Wave Wrapped Around a Spiral",
+      "description": "A helical tube (like a stretched spring) carries a traveling wave of glowing beads that oscillate radially, with amplitude increasing as the bead wave climbs the spiral, and labels for low, mid, and high frequencies along the coil.",
+      "seed": "Music Wave Wrapped Around a Spiral: A helical tube (like a stretched spring) carries a traveling wave of glowing beads that oscillate radially, with amplitude increasing as the bead wave climbs the spiral, and labels for low, mid, and high frequencies along the coil."
+    },
+    {
+      "number": "13",
+      "title": "Acoustic Guitar Body Resonance",
+      "description": "A simplified guitar body shape with a sound hole shows sound waves as expanding semi-transparent bubbles emerging from the hole, while the top plate oscillates in complex modes illustrated by a colored height map that shifts with “plucking” spheres.",
+      "seed": "Acoustic Guitar Body Resonance: A simplified guitar body shape with a sound hole shows sound waves as expanding semi-transparent bubbles emerging from the hole, while the top plate oscillates in complex modes illustrated by a colored height map that shifts with “plucking” spheres."
+    },
+    {
+      "number": "14",
+      "title": "Wave Interference From Twin Subwoofers",
+      "description": "Two large subwoofer boxes at opposite ends of a bright room emit synchronized low-frequency waves that create 3D regions of constructive and destructive interference, visualized as isosurfaces of intensity and oscillating arrows marking local pressure.",
+      "seed": "Wave Interference From Twin Subwoofers: Two large subwoofer boxes at opposite ends of a bright room emit synchronized low-frequency waves that create 3D regions of constructive and destructive interference, visualized as isosurfaces of intensity and oscillating arrows marking local pressure."
+    },
+    {
+      "number": "15",
+      "title": "Music Waves Driving Floating Particles",
+      "description": "A cloud of light spheres (dust) floats in a transparent box and is pushed into bands, nodes, and clumps by a standing music wave, with particles drifting toward pressure antinodes, changing color and leaving short trails as they migrate.",
+      "seed": "Music Waves Driving Floating Particles: A cloud of light spheres (dust) floats in a transparent box and is pushed into bands, nodes, and clumps by a standing music wave, with particles drifting toward pressure antinodes, changing color and leaving short trails as they migrate."
+    },
+    {
+      "number": "16",
+      "title": "Traveling Pulse in a Crowd of People",
+      "description": "Cylinders representing people stand in a grid on a plaza, and a “music pulse” passes through them as each person bounces up and down in sequence, with a moving front line, labeled tempo, and an overhead view trail showing the propagation of the bounce wave.",
+      "seed": "Traveling Pulse in a Crowd of People: Cylinders representing people stand in a grid on a plaza, and a “music pulse” passes through them as each person bounces up and down in sequence, with a moving front line, labeled tempo, and an overhead view trail showing the propagation of the bounce wave."
+    },
+    {
+      "number": "17",
+      "title": "Coiled Horn and Expanding Sound Fronts",
+      "description": "A 3D coiled horn (like a brass instrument) guides a compressing wavefront that travels inside as a glowing cross-section, then exits as expanding spherical shells that reflect from surrounding walls and wrap around obstacles.",
+      "seed": "Coiled Horn and Expanding Sound Fronts: A 3D coiled horn (like a brass instrument) guides a compressing wavefront that travels inside as a glowing cross-section, then exits as expanding spherical shells that reflect from surrounding walls and wrap around obstacles."
+    },
+    {
+      "number": "18",
+      "title": "Wave Reflection and Absorption Panels",
+      "description": "A single oscillating panel acts as a music source at one end of a hallway, and semi-transparent wall tiles with adjustable absorption reflect or absorb incoming wavefronts, with absorbed energy shown as tiles glowing and reflection angles visualized by arrows.",
+      "seed": "Wave Reflection and Absorption Panels: A single oscillating panel acts as a music source at one end of a hallway, and semi-transparent wall tiles with adjustable absorption reflect or absorb incoming wavefronts, with absorbed energy shown as tiles glowing and reflection angles visualized by arrows."
+    },
+    {
+      "number": "19",
+      "title": "Visible Sound in a Glass Tube with Beads",
+      "description": "A horizontal transparent tube filled with small beads vibrates longitudinally as a standing wave forms, causing beads to bunch and spread in specific regions, while nodes are marked by hovering labels and adjustable frequency sliders change the pattern.",
+      "seed": "Visible Sound in a Glass Tube with Beads: A horizontal transparent tube filled with small beads vibrates longitudinally as a standing wave forms, causing beads to bunch and spread in specific regions, while nodes are marked by hovering labels and adjustable frequency sliders change the pattern."
+    },
+    {
+      "number": "20",
+      "title": "3D Spectrogram Mountain Range",
+      "description": "A long strip along the floor scrolls past as frequency bands rise into semi-transparent ridges, forming a moving mountain range where peaks pulse with music beats, colors represent amplitude, and a probe sphere can attach to any ridge to display its value.",
+      "seed": "3D Spectrogram Mountain Range: A long strip along the floor scrolls past as frequency bands rise into semi-transparent ridges, forming a moving mountain range where peaks pulse with music beats, colors represent amplitude, and a probe sphere can attach to any ridge to display its value."
+    },
+    {
+      "number": "21",
+      "title": "Music-Controlled Light Strings",
+      "description": "Multiple vertical glowing strings hang from a ceiling and oscillate sideways with different frequencies and phases, sometimes colliding and briefly attaching into braids before separating, with persistent trails showing their intertwined wave paths.",
+      "seed": "Music-Controlled Light Strings: Multiple vertical glowing strings hang from a ceiling and oscillate sideways with different frequencies and phases, sometimes colliding and briefly attaching into braids before separating, with persistent trails showing their intertwined wave paths."
+    },
+    {
+      "number": "22",
+      "title": "Wave Energy Transferring Between Coupled Strings",
+      "description": "Two parallel strings connected by small springs show how a pulse launched on one string transfers energy to the other, with the pulse splitting, reflecting at boundaries, and gradually equalizing as both strings glow in sync.",
+      "seed": "Wave Energy Transferring Between Coupled Strings: Two parallel strings connected by small springs show how a pulse launched on one string transfers energy to the other, with the pulse splitting, reflecting at boundaries, and gradually equalizing as both strings glow in sync."
+    },
+    {
+      "number": "23",
+      "title": "Microphone Membrane and Particle Stream",
+      "description": "A microphone diaphragm modeled as a thin circular membrane oscillates under incoming spherical sound waves, and sends out a stream of tiny charge particles along a cable that pulse with the waveform, changing density and speed with loudness.",
+      "seed": "Microphone Membrane and Particle Stream: A microphone diaphragm modeled as a thin circular membrane oscillates under incoming spherical sound waves, and sends out a stream of tiny charge particles along a cable that pulse with the waveform, changing density and speed with loudness."
+    },
+    {
+      "number": "24",
+      "title": "Music Waves Through a City of Towers",
+      "description": "A grid of blocky towers represents buildings in a city, while a low-frequency music wavefront sweeps through, making each tower vibrate slightly, with top edges visibly oscillating and taller towers glowing more as they resonate.",
+      "seed": "Music Waves Through a City of Towers: A grid of blocky towers represents buildings in a city, while a low-frequency music wavefront sweeps through, making each tower vibrate slightly, with top edges visibly oscillating and taller towers glowing more as they resonate."
+    },
+    {
+      "number": "25",
+      "title": "Wave Mixing in a Transparent Cube",
+      "description": "Three perpendicular speakers on the x, y, and z axes emit sinusoidal waves of different frequencies into a transparent cube, and their mixing creates complex 3D interference patterns shown as moving colored iso-surfaces and dancing particle clusters.",
+      "seed": "Wave Mixing in a Transparent Cube: Three perpendicular speakers on the x, y, and z axes emit sinusoidal waves of different frequencies into a transparent cube, and their mixing creates complex 3D interference patterns shown as moving colored iso-surfaces and dancing particle clusters."
+    }
+  ],
+  "raw_output": "Here are strong **Music waves simulation inputs** you can plug into your prompt:\n\n1. **3D Sound Wave Tunnel**\n   A long transparent tube with a glowing ribbon of particles that pulses and ripples down its length to represent a music waveform, with amplitude-changing bulges, color-coded frequency bands, and a moving marker sphere that rides the crest with a trail.\n\n2. **Floating Speakers and Rippled Air**\n   Several hovering box speakers emit expanding semi-transparent spherical shells that represent pressure waves, which overlap, interfere, and create brighter interference regions where shells collide, with a central meter showing combined loudness.\n\n3. **Piano Keys to 3D Wavefield**\n   A row of white piano keys at the bottom triggers vertical oscillating columns of air above them, each column a semi-transparent cylinder that vibrates up and down with color-coded amplitude and leaves faint oscillation trails in a light room.\n\n4. **Laser Sheet Through Music Fog**\n   A thin glowing plane (laser sheet) passes through a foggy box of tiny particles that oscillate in place according to a traveling sound wave, causing the particles to pulse and drift in waves while the sheet scans back and forth like a music visualizer.\n\n5. **String Instrument Wave on a 3D Rope**\n   A taut rope stretched between two fixed posts vibrates in different standing wave modes when “plucked” by a moving sphere, with nodes labeled, antinodes glowing brightly, and overtones overlaying as semi-transparent colored curves along the rope.\n\n6. **Water Surface Dancing to Beats**\n   A shallow transparent pool with a light-colored floor shows concentric surface waves emerging from several vibrating posts at the edges; waves collide, reflect from the walls, and form dynamic interference patterns colored by height.\n\n7. **Wave Packet Traveling Around a Ring**\n   A circular tube loop with a bright localized bunch of particles (wave packet) travels around it, spreading, splitting, and re-merging as it encounters adjustable “barrier” segments, with labels showing frequency and speed changing in real time.\n\n8. **Sound Waves Bending Through Hot and Cold Air**\n   Layers of air represented by stacked transparent slabs of different refractive index cause a pulsing sound wavefront (semi-transparent sheet) to bend, compress, and expand as it travels, with little arrow vectors on particles that show local velocity changes.\n\n9. **3D Standing Wave in a Room**\n   A rectangular transparent room filled with a 3D lattice of tiny spheres oscillates in place according to a standing sound wave pattern, with nodes dim and antinodes glowing, plus a movable listener sphere that shows perceived loudness with a color bar.\n\n10. **Headphones and Ear Canal Wave Propagation**\n    A pair of hovering headphones emit pulsing cylindrical waves that funnel into a simplified transparent ear canal tube, where the wave compresses, reflects at the eardrum membrane, and transfers energy to a tiny vibrating “ossicle” bar.\n\n11. **Colorful Frequency Bars as 3D Columns**\n   Multiple tall, slender columns arranged in a circle pulse in height, color, and slight radial expansion as different frequency bands of a music signal, with soft transparent domes on top that glow brighter and leave small particle bursts when peaks occur.\n\n12. **Music Wave Wrapped Around a Spiral**\n   A helical tube (like a stretched spring) carries a traveling wave of glowing beads that oscillate radially, with amplitude increasing as the bead wave climbs the spiral, and labels for low, mid, and high frequencies along the coil.\n\n13. **Acoustic Guitar Body Resonance**\n   A simplified guitar body shape with a sound hole shows sound waves as expanding semi-transparent bubbles emerging from the hole, while the top plate oscillates in complex modes illustrated by a colored height map that shifts with “plucking” spheres.\n\n14. **Wave Interference From Twin Subwoofers**\n   Two large subwoofer boxes at opposite ends of a bright room emit synchronized low-frequency waves that create 3D regions of constructive and destructive interference, visualized as isosurfaces of intensity and oscillating arrows marking local pressure.\n\n15. **Music Waves Driving Floating Particles**\n   A cloud of light spheres (dust) floats in a transparent box and is pushed into bands, nodes, and clumps by a standing music wave, with particles drifting toward pressure antinodes, changing color and leaving short trails as they migrate.\n\n16. **Traveling Pulse in a Crowd of People**\n   Cylinders representing people stand in a grid on a plaza, and a “music pulse” passes through them as each person bounces up and down in sequence, with a moving front line, labeled tempo, and an overhead view trail showing the propagation of the bounce wave.\n\n17. **Coiled Horn and Expanding Sound Fronts**\n   A 3D coiled horn (like a brass instrument) guides a compressing wavefront that travels inside as a glowing cross-section, then exits as expanding spherical shells that reflect from surrounding walls and wrap around obstacles.\n\n18. **Wave Reflection and Absorption Panels**\n   A single oscillating panel acts as a music source at one end of a hallway, and semi-transparent wall tiles with adjustable absorption reflect or absorb incoming wavefronts, with absorbed energy shown as tiles glowing and reflection angles visualized by arrows.\n\n19. **Visible Sound in a Glass Tube with Beads**\n   A horizontal transparent tube filled with small beads vibrates longitudinally as a standing wave forms, causing beads to bunch and spread in specific regions, while nodes are marked by hovering labels and adjustable frequency sliders change the pattern.\n\n20. **3D Spectrogram Mountain Range**\n   A long strip along the floor scrolls past as frequency bands rise into semi-transparent ridges, forming a moving mountain range where peaks pulse with music beats, colors represent amplitude, and a probe sphere can attach to any ridge to display its value.\n\n21. **Music-Controlled Light Strings**\n   Multiple vertical glowing strings hang from a ceiling and oscillate sideways with different frequencies and phases, sometimes colliding and briefly attaching into braids before separating, with persistent trails showing their intertwined wave paths.\n\n22. **Wave Energy Transferring Between Coupled Strings**\n   Two parallel strings connected by small springs show how a pulse launched on one string transfers energy to the other, with the pulse splitting, reflecting at boundaries, and gradually equalizing as both strings glow in sync.\n\n23. **Microphone Membrane and Particle Stream**\n   A microphone diaphragm modeled as a thin circular membrane oscillates under incoming spherical sound waves, and sends out a stream of tiny charge particles along a cable that pulse with the waveform, changing density and speed with loudness.\n\n24. **Music Waves Through a City of Towers**\n   A grid of blocky towers represents buildings in a city, while a low-frequency music wavefront sweeps through, making each tower vibrate slightly, with top edges visibly oscillating and taller towers glowing more as they resonate.\n\n25. **Wave Mixing in a Transparent Cube**\n   Three perpendicular speakers on the x, y, and z axes emit sinusoidal waves of different frequencies into a transparent cube, and their mixing creates complex 3D interference patterns shown as moving colored iso-surfaces and dancing particle clusters."
+}

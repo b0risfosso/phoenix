@@ -1,7 +1,7 @@
 {
   "version": 1,
   "created_at": "2026-05-22T22:17:39",
-  "updated_at": "2026-05-23T23:35:26",
+  "updated_at": "2026-05-24T21:01:41",
   "root_id": "root",
   "nodes": {
     "root": {
@@ -1833,7 +1833,28 @@
       "sentence": "Rod-shaped bacteria that replicate, slide, and cluster on a light-colored plane, leaving faint trails of secreted “slime,” forming expanding biofilm patches with color changes indicating nutrient-rich vs. depleted regions.",
       "title": "Core sentence",
       "parent_id": null,
-      "children": [],
+      "children": [
+        "7cf52b92dc80",
+        "83f8dbb8c35a",
+        "50e3b2118cfa",
+        "04065c6e6e6d",
+        "8275402652fd",
+        "19f038cf6e8e",
+        "12931983fcea",
+        "b602d8ab0ed3",
+        "fe3336c95bbb",
+        "1f914b93b2b7",
+        "3d258e698ba8",
+        "79155f9c5aa1",
+        "ab2a16ddcf69",
+        "750842d53d4b",
+        "0bae0c817015",
+        "185765ef67c6",
+        "e7d2c4115887",
+        "b738b8393d75",
+        "2fab1cc6f8dc",
+        "853d9111ab5e"
+      ],
       "scripts": [
         {
           "id": "0a98f84655",
@@ -1844,7 +1865,7 @@
         }
       ],
       "created_at": "2026-05-23T12:12:53",
-      "updated_at": "2026-05-23T12:13:12"
+      "updated_at": "2026-05-24T17:42:57"
     },
     "24dea88571ed": {
       "id": "24dea88571ed",
@@ -2441,6 +2462,290 @@
       "scripts": [],
       "created_at": "2026-05-23T23:14:51",
       "updated_at": "2026-05-23T23:14:51"
+    },
+    "7cf52b92dc80": {
+      "id": "7cf52b92dc80",
+      "kind": "core_sentence",
+      "sentence": "Nutrient particles diffuse across the surface, drawing clusters toward brighter regions and leaving depleted halos behind them.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [
+        {
+          "id": "3a5c3164de",
+          "filename": "sentence-script-nutrient-particles-diffuse-across-the-surface-drawing-clusters-toward-ba678a35.py",
+          "note": "",
+          "created_at": "2026-05-24T17:47:40",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-24T17:40:23",
+      "updated_at": "2026-05-24T17:47:40"
+    },
+    "83f8dbb8c35a": {
+      "id": "83f8dbb8c35a",
+      "kind": "core_sentence",
+      "sentence": "Some individuals become trapped in thickening slime, while others ride along the edge of the growing patch.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [
+        {
+          "id": "c758fc1684",
+          "filename": "sentence-script-some-individuals-become-trapped-in-thickening-slime-while-others-ride-b419986d.py",
+          "note": "",
+          "created_at": "2026-05-24T17:52:45",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-24T17:40:29",
+      "updated_at": "2026-05-24T17:52:45"
+    },
+    "50e3b2118cfa": {
+      "id": "50e3b2118cfa",
+      "kind": "core_sentence",
+      "sentence": "The colony develops branching fronts where fast-moving cells explore outward before the slower mass follows.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [
+        {
+          "id": "62eaaa120a",
+          "filename": "sentence-script-the-colony-develops-branching-fronts-where-fast-moving-cells-explore-o-6c3acf5e.py",
+          "note": "",
+          "created_at": "2026-05-24T17:59:45",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-24T17:40:39",
+      "updated_at": "2026-05-24T17:59:45"
+    },
+    "04065c6e6e6d": {
+      "id": "04065c6e6e6d",
+      "kind": "core_sentence",
+      "sentence": "Crowded regions rise into layered towers as cells stack on top of one another.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [
+        {
+          "id": "a9f2212ecf",
+          "filename": "sentence-script-crowded-regions-rise-into-layered-towers-as-cells-stack-on-top-of-one-7678912e.py",
+          "note": "",
+          "created_at": "2026-05-24T18:14:23",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-24T17:40:44",
+      "updated_at": "2026-05-24T18:14:23"
+    },
+    "8275402652fd": {
+      "id": "8275402652fd",
+      "kind": "core_sentence",
+      "sentence": "Slime trails merge into sticky highways that guide later movement and reinforce repeated paths.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [
+        {
+          "id": "d7b4b00c0a",
+          "filename": "sentence-script-slime-trails-merge-into-sticky-highways-that-guide-later-movement-and-3b153f10.py",
+          "note": "",
+          "created_at": "2026-05-24T18:18:25",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-24T17:40:51",
+      "updated_at": "2026-05-24T18:18:25"
+    },
+    "19f038cf6e8e": {
+      "id": "19f038cf6e8e",
+      "kind": "core_sentence",
+      "sentence": "Depleted zones force the colony to split into streams that search for fresh territory.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [
+        {
+          "id": "ded3523a08",
+          "filename": "sentence-script-depleted-zones-force-the-colony-to-split-into-streams-that-search-for-c602a575.py",
+          "note": "",
+          "created_at": "2026-05-24T18:24:44",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-24T17:40:56",
+      "updated_at": "2026-05-24T18:24:44"
+    },
+    "12931983fcea": {
+      "id": "12931983fcea",
+      "kind": "core_sentence",
+      "sentence": "A chemical signal spreads through the patch, causing nearby cells to slow down, cluster, or disperse.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [
+        {
+          "id": "7d653fbbfc",
+          "filename": "sentence-script-a-chemical-signal-spreads-through-the-patch-causing-nearby-cells-to-sl-e90d37b5.py",
+          "note": "",
+          "created_at": "2026-05-24T20:51:06",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-24T17:41:09",
+      "updated_at": "2026-05-24T20:51:06"
+    },
+    "b602d8ab0ed3": {
+      "id": "b602d8ab0ed3",
+      "kind": "core_sentence",
+      "sentence": "Some cells switch into a resistant state, changing color and becoming harder to move.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [
+        {
+          "id": "19edfdfd87",
+          "filename": "sentence-script-some-cells-switch-into-a-resistant-state-changing-color-and-becoming-h-98b7bf57.py",
+          "note": "",
+          "created_at": "2026-05-24T21:01:41",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-24T17:41:15",
+      "updated_at": "2026-05-24T21:01:41"
+    },
+    "fe3336c95bbb": {
+      "id": "fe3336c95bbb",
+      "kind": "core_sentence",
+      "sentence": "The outer edge becomes more active than the center as growth shifts toward nutrient-rich boundaries.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-24T17:41:20",
+      "updated_at": "2026-05-24T17:41:20"
+    },
+    "1f914b93b2b7": {
+      "id": "1f914b93b2b7",
+      "kind": "core_sentence",
+      "sentence": "Collisions rotate cells into alignment, creating flowing lanes through dense regions.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-24T17:41:25",
+      "updated_at": "2026-05-24T17:41:25"
+    },
+    "3d258e698ba8": {
+      "id": "3d258e698ba8",
+      "kind": "core_sentence",
+      "sentence": "Periodic pulses of fresh nutrients create expanding waves of movement and division.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-24T17:41:30",
+      "updated_at": "2026-05-24T17:41:30"
+    },
+    "79155f9c5aa1": {
+      "id": "79155f9c5aa1",
+      "kind": "core_sentence",
+      "sentence": "Waste buildup darkens old regions and pushes new growth outward.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-24T17:41:38",
+      "updated_at": "2026-05-24T17:41:38"
+    },
+    "ab2a16ddcf69": {
+      "id": "ab2a16ddcf69",
+      "kind": "core_sentence",
+      "sentence": "Small gaps open inside dense patches, forming channels that let particles and cells flow through.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-24T17:41:45",
+      "updated_at": "2026-05-24T17:41:45"
+    },
+    "750842d53d4b": {
+      "id": "750842d53d4b",
+      "kind": "core_sentence",
+      "sentence": "A competing colony appears nearby, and both patches reshape as they meet, repel, or merge.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-24T17:42:01",
+      "updated_at": "2026-05-24T17:42:01"
+    },
+    "0bae0c817015": {
+      "id": "0bae0c817015",
+      "kind": "core_sentence",
+      "sentence": "Environmental stress causes parts of the colony to detach and drift away as traveling clusters.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-24T17:42:08",
+      "updated_at": "2026-05-24T17:42:08"
+    },
+    "185765ef67c6": {
+      "id": "185765ef67c6",
+      "kind": "core_sentence",
+      "sentence": "Some cells sacrifice movement to produce thicker slime that protects nearby neighbors.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-24T17:42:23",
+      "updated_at": "2026-05-24T17:42:23"
+    },
+    "e7d2c4115887": {
+      "id": "e7d2c4115887",
+      "kind": "core_sentence",
+      "sentence": "The colony remembers previous paths as older slime trails remain faintly visible beneath new growth.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-24T17:42:33",
+      "updated_at": "2026-05-24T17:42:33"
+    },
+    "b738b8393d75": {
+      "id": "b738b8393d75",
+      "kind": "core_sentence",
+      "sentence": "Random mutations create faster, stickier, or more nutrient-efficient lineages that spread differently.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-24T17:42:38",
+      "updated_at": "2026-05-24T17:42:38"
+    },
+    "2fab1cc6f8dc": {
+      "id": "2fab1cc6f8dc",
+      "kind": "core_sentence",
+      "sentence": "A cleaning wave crosses the surface, scraping away weakly attached cells while dense regions resist.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-24T17:42:47",
+      "updated_at": "2026-05-24T17:42:47"
+    },
+    "853d9111ab5e": {
+      "id": "853d9111ab5e",
+      "kind": "core_sentence",
+      "sentence": "Over time, the patch becomes a living map of motion, hunger, crowding, protection, and expansion.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-24T17:42:57",
+      "updated_at": "2026-05-24T17:42:57"
     }
   }
 }

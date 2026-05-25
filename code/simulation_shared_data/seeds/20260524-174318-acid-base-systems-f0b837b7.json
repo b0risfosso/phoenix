@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Acid/base systems",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:43:18",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Titration Tower with Rising pH Column",
+      "description": "A tall transparent cylinder of liquid shows an acid solution while a burette-like pipe drips base droplets from above, with the pH displayed on a floating bar that changes color from red to blue as particles mix, collide, and spread with gentle convection currents.",
+      "seed": "Titration Tower with Rising pH Column: A tall transparent cylinder of liquid shows an acid solution while a burette-like pipe drips base droplets from above, with the pH displayed on a floating bar that changes color from red to blue as particles mix, collide, and spread with gentle convection currents."
+    },
+    {
+      "number": "2",
+      "title": "Microscopic Acid–Base Neutralization Dance",
+      "description": "Red “acid” spheres and blue “base” cubes float inside a clear box, randomly moving and colliding to form green “salt” clusters and transparent “water” pairs that detach and drift away, with trails briefly showing reaction paths and labels hovering over product clusters.",
+      "seed": "Microscopic Acid–Base Neutralization Dance: Red “acid” spheres and blue “base” cubes float inside a clear box, randomly moving and colliding to form green “salt” clusters and transparent “water” pairs that detach and drift away, with trails briefly showing reaction paths and labels hovering over product clusters."
+    },
+    {
+      "number": "3",
+      "title": "pH Gradient Lake Cross-Section",
+      "description": "A shallow rectangular “lake” of water is divided into zones from strongly acidic (red) to strongly basic (blue), with small neutral fish-shaped objects that bounce away from extreme regions, and a slider-controlled inflow pipe that injects acid or base plumes that diffuse and shift the color gradient.",
+      "seed": "pH Gradient Lake Cross-Section: A shallow rectangular “lake” of water is divided into zones from strongly acidic (red) to strongly basic (blue), with small neutral fish-shaped objects that bounce away from extreme regions, and a slider-controlled inflow pipe that injects acid or base plumes that diffuse and shift the color gradient."
+    },
+    {
+      "number": "4",
+      "title": "Buffer Solution Shock Test",
+      "description": "A beaker-shaped transparent container holds a pale green buffer filled with small paired “buffer molecules” that can attach to free H+ or OH– particles, while bursts of red or blue particles are injected from opposite sides and get captured, with a big floating pH meter needle that only slowly moves despite repeated injections.",
+      "seed": "Buffer Solution Shock Test: A beaker-shaped transparent container holds a pale green buffer filled with small paired “buffer molecules” that can attach to free H+ or OH– particles, while bursts of red or blue particles are injected from opposite sides and get captured, with a big floating pH meter needle that only slowly moves despite repeated injections."
+    },
+    {
+      "number": "5",
+      "title": "Acid Rain on Marble City",
+      "description": "A white “marble” cityscape with columns and statues receives drifting semi-transparent acid rain droplets from a cloud plane above, where impacting droplets cause small pieces of the marble surfaces to dissolve, fade, and chip off over time, with a side panel bar showing cumulative mass loss.",
+      "seed": "Acid Rain on Marble City: A white “marble” cityscape with columns and statues receives drifting semi-transparent acid rain droplets from a cloud plane above, where impacting droplets cause small pieces of the marble surfaces to dissolve, fade, and chip off over time, with a side panel bar showing cumulative mass loss."
+    },
+    {
+      "number": "6",
+      "title": "Battery Cell Acid–Base Ion Shuttle",
+      "description": "A rectangular battery cell is split by a semi-transparent membrane, with red acid ions and blue base ions drifting in opposite directions under an electric field, crossing the membrane channels and leaving glowing ion trails, while electrodes on each side show changing charge with dynamic color halos.",
+      "seed": "Battery Cell Acid–Base Ion Shuttle: A rectangular battery cell is split by a semi-transparent membrane, with red acid ions and blue base ions drifting in opposite directions under an electric field, crossing the membrane channels and leaving glowing ion trails, while electrodes on each side show changing charge with dynamic color halos."
+    },
+    {
+      "number": "7",
+      "title": "Acidic Volcano Venting into Basic Ocean",
+      "description": "A conical volcano at the bottom of a large transparent tank releases red acidic plumes that rise and swirl into a blue basic ocean layer, visibly mixing into purple neutral zones, with small neutral markers that float and cluster where pH is near 7, and a side view showing stratified color bands.",
+      "seed": "Acidic Volcano Venting into Basic Ocean: A conical volcano at the bottom of a large transparent tank releases red acidic plumes that rise and swirl into a blue basic ocean layer, visibly mixing into purple neutral zones, with small neutral markers that float and cluster where pH is near 7, and a side view showing stratified color bands."
+    },
+    {
+      "number": "8",
+      "title": "Acid–Base Conveyor Factory",
+      "description": "On a light-colored factory floor, conveyor belts carry containers of strong acid and strong base toward a central mixing chamber where they pour in, splash, and generate particle bursts; robotic arms move and tilt containers, while overhead digital displays show the mixture’s pH changing with each added load.",
+      "seed": "Acid–Base Conveyor Factory: On a light-colored factory floor, conveyor belts carry containers of strong acid and strong base toward a central mixing chamber where they pour in, splash, and generate particle bursts; robotic arms move and tilt containers, while overhead digital displays show the mixture’s pH changing with each added load."
+    },
+    {
+      "number": "9",
+      "title": "Protein Folding Under pH Change",
+      "description": "A large chain of connected spheres (a protein) sits in a transparent solution whose background color gradually shifts from blue (basic) to red (acidic), triggering sections of the chain to rotate, unfold, and refold into new shapes, with charged side groups glowing more intensely as they gain or lose protons.",
+      "seed": "Protein Folding Under pH Change: A large chain of connected spheres (a protein) sits in a transparent solution whose background color gradually shifts from blue (basic) to red (acidic), triggering sections of the chain to rotate, unfold, and refold into new shapes, with charged side groups glowing more intensely as they gain or lose protons."
+    },
+    {
+      "number": "10",
+      "title": "Soil Column Acid–Base Front",
+      "description": "A tall transparent soil column filled with stacked porous layers receives acidic water from the top and basic water from the bottom; colored fronts slowly migrate inward, meeting to form a neutral (purple) band that moves, thickens, and thins over time, while tracer particles follow water flow through pores.",
+      "seed": "Soil Column Acid–Base Front: A tall transparent soil column filled with stacked porous layers receives acidic water from the top and basic water from the bottom; colored fronts slowly migrate inward, meeting to form a neutral (purple) band that moves, thickens, and thins over time, while tracer particles follow water flow through pores."
+    },
+    {
+      "number": "11",
+      "title": "Acid–Base Rocket Fuel Reaction Chamber",
+      "description": "Two pressurized tanks (acid and base) feed particles into a central reaction chamber of a small rocket sitting on a launch pad, where their collision creates fast-moving neutral exhaust particles that blast downward and push the rocket upward, leaving a faint trail whose color reflects the overall pH of the exhaust.",
+      "seed": "Acid–Base Rocket Fuel Reaction Chamber: Two pressurized tanks (acid and base) feed particles into a central reaction chamber of a small rocket sitting on a launch pad, where their collision creates fast-moving neutral exhaust particles that blast downward and push the rocket upward, leaving a faint trail whose color reflects the overall pH of the exhaust."
+    },
+    {
+      "number": "12",
+      "title": "Interactive pH Aquarium Ecosystem",
+      "description": "A rectangular aquarium with fish, plants, and a decorative rock is filled with water whose color and transparency respond to pH; acid and base “dosing sticks” can be moved by the user to inject colored streams, and organisms change behavior (speed, glow level, and position) depending on the local pH zones.",
+      "seed": "Interactive pH Aquarium Ecosystem: A rectangular aquarium with fish, plants, and a decorative rock is filled with water whose color and transparency respond to pH; acid and base “dosing sticks” can be moved by the user to inject colored streams, and organisms change behavior (speed, glow level, and position) depending on the local pH zones."
+    },
+    {
+      "number": "13",
+      "title": "Corroding Metal in Acid Bath",
+      "description": "A shiny metal block is submerged in a red-tinted acidic solution, with tiny bubbles and particle fragments detaching from the surface, rising and dispersing; as time passes, the block’s surface becomes pitted and rough, its color dims, and a floating graph shows metal ion concentration increasing.",
+      "seed": "Corroding Metal in Acid Bath: A shiny metal block is submerged in a red-tinted acidic solution, with tiny bubbles and particle fragments detaching from the surface, rising and dispersing; as time passes, the block’s surface becomes pitted and rough, its color dims, and a floating graph shows metal ion concentration increasing."
+    },
+    {
+      "number": "14",
+      "title": "Acid Spill Neutralization on Factory Floor",
+      "description": "A puddle of bright red acid spreads across a light factory floor plane, while workers represented by simple cylinders push carts dropping blue neutralizing pellets that bounce, dissolve, and create localized neutral (purple) patches; the visible boundary of the acidic region shrinks as more base is applied.",
+      "seed": "Acid Spill Neutralization on Factory Floor: A puddle of bright red acid spreads across a light factory floor plane, while workers represented by simple cylinders push carts dropping blue neutralizing pellets that bounce, dissolve, and create localized neutral (purple) patches; the visible boundary of the acidic region shrinks as more base is applied."
+    },
+    {
+      "number": "15",
+      "title": "Atmospheric CO₂ Acidifying Ocean Surface",
+      "description": "A flat ocean surface is represented by a wide, shallow blue slab, while CO₂ particles drift down from a translucent sky layer, dissolve at the surface, and slowly turn the top layer toward green/yellow (more acidic), with floating pH buoys that change color and display numeric pH labels.",
+      "seed": "Atmospheric CO₂ Acidifying Ocean Surface: A flat ocean surface is represented by a wide, shallow blue slab, while CO₂ particles drift down from a translucent sky layer, dissolve at the surface, and slowly turn the top layer toward green/yellow (more acidic), with floating pH buoys that change color and display numeric pH labels."
+    },
+    {
+      "number": "16",
+      "title": "Acid–Base Color Indicator Swirl Mixer",
+      "description": "A rotating cylindrical mixer holds a clear solution with suspended indicator molecules represented by tiny spheres that glow different colors depending on pH; acid and base jets enter from opposite sides, forming swirling, colliding streams that spiral inward, creating dynamic bands of changing color.",
+      "seed": "Acid–Base Color Indicator Swirl Mixer: A rotating cylindrical mixer holds a clear solution with suspended indicator molecules represented by tiny spheres that glow different colors depending on pH; acid and base jets enter from opposite sides, forming swirling, colliding streams that spiral inward, creating dynamic bands of changing color."
+    },
+    {
+      "number": "17",
+      "title": "pH-Dependent Crystal Growth Chamber",
+      "description": "In a transparent box, seed crystals sit in a solution whose pH is controlled by streams of acid and base entering from the top; when the pH hovers in an optimal range, faceted crystals slowly grow and branch, while too acidic or basic conditions cause outer layers to dissolve and detach as drifting fragments.",
+      "seed": "pH-Dependent Crystal Growth Chamber: In a transparent box, seed crystals sit in a solution whose pH is controlled by streams of acid and base entering from the top; when the pH hovers in an optimal range, faceted crystals slowly grow and branch, while too acidic or basic conditions cause outer layers to dissolve and detach as drifting fragments."
+    },
+    {
+      "number": "18",
+      "title": "Cell Membrane Proton Pump",
+      "description": "A large semipermeable membrane sheet divides two compartments, with proton pumps represented as rotating paddles that grab red H+ particles on one side and release them on the other, building a gradient that is shown as a glowing color ramp; ATP-like energy packets attach, trigger a pump rotation, then detach.",
+      "seed": "Cell Membrane Proton Pump: A large semipermeable membrane sheet divides two compartments, with proton pumps represented as rotating paddles that grab red H+ particles on one side and release them on the other, building a gradient that is shown as a glowing color ramp; ATP-like energy packets attach, trigger a pump rotation, then detach."
+    },
+    {
+      "number": "19",
+      "title": "Acid/Base-Driven Molecular Motor",
+      "description": "A ring-shaped molecular rotor sits in solution, with binding sites that attract and release H+ or OH– particles; as different colored ions attach and detach, the rotor steps forward in discrete rotations, leaving a faint rotational trail and changing its speed depending on the surrounding pH.",
+      "seed": "Acid/Base-Driven Molecular Motor: A ring-shaped molecular rotor sits in solution, with binding sites that attract and release H+ or OH– particles; as different colored ions attach and detach, the rotor steps forward in discrete rotations, leaving a faint rotational trail and changing its speed depending on the surrounding pH."
+    },
+    {
+      "number": "20",
+      "title": "Acid/Base Tug-of-War on a Polymer Chain",
+      "description": "A long flexible polymer chain floats in solution with segments that change charge when touched by acid (red) or base (blue) particles; charged segments are pulled toward oppositely charged “anchor” plates on the sides, causing the chain to bend, stretch, and reconfigure as protonation states fluctuate.",
+      "seed": "Acid/Base Tug-of-War on a Polymer Chain: A long flexible polymer chain floats in solution with segments that change charge when touched by acid (red) or base (blue) particles; charged segments are pulled toward oppositely charged “anchor” plates on the sides, causing the chain to bend, stretch, and reconfigure as protonation states fluctuate."
+    },
+    {
+      "number": "21",
+      "title": "Neutralization Wave in a Microfluidic Channel",
+      "description": "A narrow, branching microfluidic chip glows from beneath as streams of red acidic and blue basic liquids enter from different inlets, merge at junctions, and form moving neutralization fronts that propagate, split, and recombine through channels, with labeled pH readouts at key branch points.",
+      "seed": "Neutralization Wave in a Microfluidic Channel: A narrow, branching microfluidic chip glows from beneath as streams of red acidic and blue basic liquids enter from different inlets, merge at junctions, and form moving neutralization fronts that propagate, split, and recombine through channels, with labeled pH readouts at key branch points."
+    },
+    {
+      "number": "22",
+      "title": "pH-Controlled Gel Gate",
+      "description": "A soft, semi-transparent gel barrier spans a tube containing particles trying to move from left to right; as acid or base is added from side ports, the gel swells or shrinks, opening or closing pores and changing color, while tracer particles either bounce off or pass through depending on the current pH.",
+      "seed": "pH-Controlled Gel Gate: A soft, semi-transparent gel barrier spans a tube containing particles trying to move from left to right; as acid or base is added from side ports, the gel swells or shrinks, opening or closing pores and changing color, while tracer particles either bounce off or pass through depending on the current pH."
+    },
+    {
+      "number": "23",
+      "title": "Bioreactor with pH Control Loop",
+      "description": "A large cylindrical bioreactor filled with a light-colored culture medium has sensors (small floating probes) that read pH and send signals along glowing lines to acid and base dosing nozzles, which pulse streams in short bursts; a floating control panel shows the target pH and the real-time feedback-driven corrections.",
+      "seed": "Bioreactor with pH Control Loop: A large cylindrical bioreactor filled with a light-colored culture medium has sensors (small floating probes) that read pH and send signals along glowing lines to acid and base dosing nozzles, which pulse streams in short bursts; a floating control panel shows the target pH and the real-time feedback-driven corrections."
+    },
+    {
+      "number": "24",
+      "title": "Acid–Base Chessboard Landscape",
+      "description": "A flat checkerboard plane has squares that can flip between acidic, basic, and neutral states, each with distinct colors and heights; spherical “agents” roam the board, gaining or losing charge and speed depending on the square they step on, leaving colored footprints that fade as the local pH equilibrates.",
+      "seed": "Acid–Base Chessboard Landscape: A flat checkerboard plane has squares that can flip between acidic, basic, and neutral states, each with distinct colors and heights; spherical “agents” roam the board, gaining or losing charge and speed depending on the square they step on, leaving colored footprints that fade as the local pH equilibrates."
+    },
+    {
+      "number": "25",
+      "title": "Acid/Base Storm Inside a Cell-Like Vesicle",
+      "description": "A large, transparent spherical vesicle contains compartments separated by thin internal membranes with channels; bursts of acid and base particles are released from different organelle-like zones, diffusing, getting pumped, and partially neutralizing, while the vesicle’s interior glows in a shifting pH gradient from core to membrane.",
+      "seed": "Acid/Base Storm Inside a Cell-Like Vesicle: A large, transparent spherical vesicle contains compartments separated by thin internal membranes with channels; bursts of acid and base particles are released from different organelle-like zones, diffusing, getting pumped, and partially neutralizing, while the vesicle’s interior glows in a shifting pH gradient from core to membrane."
+    }
+  ],
+  "raw_output": "Here are strong **Acid/base systems simulation inputs** you can plug into your prompt:\n\n1. **Titration Tower with Rising pH Column**\n   A tall transparent cylinder of liquid shows an acid solution while a burette-like pipe drips base droplets from above, with the pH displayed on a floating bar that changes color from red to blue as particles mix, collide, and spread with gentle convection currents.\n\n2. **Microscopic Acid–Base Neutralization Dance**\n   Red “acid” spheres and blue “base” cubes float inside a clear box, randomly moving and colliding to form green “salt” clusters and transparent “water” pairs that detach and drift away, with trails briefly showing reaction paths and labels hovering over product clusters.\n\n3. **pH Gradient Lake Cross-Section**\n   A shallow rectangular “lake” of water is divided into zones from strongly acidic (red) to strongly basic (blue), with small neutral fish-shaped objects that bounce away from extreme regions, and a slider-controlled inflow pipe that injects acid or base plumes that diffuse and shift the color gradient.\n\n4. **Buffer Solution Shock Test**\n   A beaker-shaped transparent container holds a pale green buffer filled with small paired “buffer molecules” that can attach to free H+ or OH– particles, while bursts of red or blue particles are injected from opposite sides and get captured, with a big floating pH meter needle that only slowly moves despite repeated injections.\n\n5. **Acid Rain on Marble City**\n   A white “marble” cityscape with columns and statues receives drifting semi-transparent acid rain droplets from a cloud plane above, where impacting droplets cause small pieces of the marble surfaces to dissolve, fade, and chip off over time, with a side panel bar showing cumulative mass loss.\n\n6. **Battery Cell Acid–Base Ion Shuttle**\n   A rectangular battery cell is split by a semi-transparent membrane, with red acid ions and blue base ions drifting in opposite directions under an electric field, crossing the membrane channels and leaving glowing ion trails, while electrodes on each side show changing charge with dynamic color halos.\n\n7. **Acidic Volcano Venting into Basic Ocean**\n   A conical volcano at the bottom of a large transparent tank releases red acidic plumes that rise and swirl into a blue basic ocean layer, visibly mixing into purple neutral zones, with small neutral markers that float and cluster where pH is near 7, and a side view showing stratified color bands.\n\n8. **Acid–Base Conveyor Factory**\n   On a light-colored factory floor, conveyor belts carry containers of strong acid and strong base toward a central mixing chamber where they pour in, splash, and generate particle bursts; robotic arms move and tilt containers, while overhead digital displays show the mixture’s pH changing with each added load.\n\n9. **Protein Folding Under pH Change**\n   A large chain of connected spheres (a protein) sits in a transparent solution whose background color gradually shifts from blue (basic) to red (acidic), triggering sections of the chain to rotate, unfold, and refold into new shapes, with charged side groups glowing more intensely as they gain or lose protons.\n\n10. **Soil Column Acid–Base Front**\n    A tall transparent soil column filled with stacked porous layers receives acidic water from the top and basic water from the bottom; colored fronts slowly migrate inward, meeting to form a neutral (purple) band that moves, thickens, and thins over time, while tracer particles follow water flow through pores.\n\n11. **Acid–Base Rocket Fuel Reaction Chamber**\n    Two pressurized tanks (acid and base) feed particles into a central reaction chamber of a small rocket sitting on a launch pad, where their collision creates fast-moving neutral exhaust particles that blast downward and push the rocket upward, leaving a faint trail whose color reflects the overall pH of the exhaust.\n\n12. **Interactive pH Aquarium Ecosystem**\n    A rectangular aquarium with fish, plants, and a decorative rock is filled with water whose color and transparency respond to pH; acid and base “dosing sticks” can be moved by the user to inject colored streams, and organisms change behavior (speed, glow level, and position) depending on the local pH zones.\n\n13. **Corroding Metal in Acid Bath**\n    A shiny metal block is submerged in a red-tinted acidic solution, with tiny bubbles and particle fragments detaching from the surface, rising and dispersing; as time passes, the block’s surface becomes pitted and rough, its color dims, and a floating graph shows metal ion concentration increasing.\n\n14. **Acid Spill Neutralization on Factory Floor**\n    A puddle of bright red acid spreads across a light factory floor plane, while workers represented by simple cylinders push carts dropping blue neutralizing pellets that bounce, dissolve, and create localized neutral (purple) patches; the visible boundary of the acidic region shrinks as more base is applied.\n\n15. **Atmospheric CO₂ Acidifying Ocean Surface**\n    A flat ocean surface is represented by a wide, shallow blue slab, while CO₂ particles drift down from a translucent sky layer, dissolve at the surface, and slowly turn the top layer toward green/yellow (more acidic), with floating pH buoys that change color and display numeric pH labels.\n\n16. **Acid–Base Color Indicator Swirl Mixer**\n    A rotating cylindrical mixer holds a clear solution with suspended indicator molecules represented by tiny spheres that glow different colors depending on pH; acid and base jets enter from opposite sides, forming swirling, colliding streams that spiral inward, creating dynamic bands of changing color.\n\n17. **pH-Dependent Crystal Growth Chamber**\n    In a transparent box, seed crystals sit in a solution whose pH is controlled by streams of acid and base entering from the top; when the pH hovers in an optimal range, faceted crystals slowly grow and branch, while too acidic or basic conditions cause outer layers to dissolve and detach as drifting fragments.\n\n18. **Cell Membrane Proton Pump**\n    A large semipermeable membrane sheet divides two compartments, with proton pumps represented as rotating paddles that grab red H+ particles on one side and release them on the other, building a gradient that is shown as a glowing color ramp; ATP-like energy packets attach, trigger a pump rotation, then detach.\n\n19. **Acid/Base-Driven Molecular Motor**\n    A ring-shaped molecular rotor sits in solution, with binding sites that attract and release H+ or OH– particles; as different colored ions attach and detach, the rotor steps forward in discrete rotations, leaving a faint rotational trail and changing its speed depending on the surrounding pH.\n\n20. **Acid/Base Tug-of-War on a Polymer Chain**\n    A long flexible polymer chain floats in solution with segments that change charge when touched by acid (red) or base (blue) particles; charged segments are pulled toward oppositely charged “anchor” plates on the sides, causing the chain to bend, stretch, and reconfigure as protonation states fluctuate.\n\n21. **Neutralization Wave in a Microfluidic Channel**\n    A narrow, branching microfluidic chip glows from beneath as streams of red acidic and blue basic liquids enter from different inlets, merge at junctions, and form moving neutralization fronts that propagate, split, and recombine through channels, with labeled pH readouts at key branch points.\n\n22. **pH-Controlled Gel Gate**\n    A soft, semi-transparent gel barrier spans a tube containing particles trying to move from left to right; as acid or base is added from side ports, the gel swells or shrinks, opening or closing pores and changing color, while tracer particles either bounce off or pass through depending on the current pH.\n\n23. **Bioreactor with pH Control Loop**\n    A large cylindrical bioreactor filled with a light-colored culture medium has sensors (small floating probes) that read pH and send signals along glowing lines to acid and base dosing nozzles, which pulse streams in short bursts; a floating control panel shows the target pH and the real-time feedback-driven corrections.\n\n24. **Acid–Base Chessboard Landscape**\n    A flat checkerboard plane has squares that can flip between acidic, basic, and neutral states, each with distinct colors and heights; spherical “agents” roam the board, gaining or losing charge and speed depending on the square they step on, leaving colored footprints that fade as the local pH equilibrates.\n\n25. **Acid/Base Storm Inside a Cell-Like Vesicle**\n    A large, transparent spherical vesicle contains compartments separated by thin internal membranes with channels; bursts of acid and base particles are released from different organelle-like zones, diffusing, getting pumped, and partially neutralizing, while the vesicle’s interior glows in a shifting pH gradient from core to membrane."
+}

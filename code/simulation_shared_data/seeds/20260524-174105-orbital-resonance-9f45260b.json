@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Orbital resonance",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:41:05",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Jupiter–Moon Orbital Resonance Dance",
+      "description": "A 3D model of a star, a Jupiter-like gas giant, and three moons in 1:2:4 orbital resonance with color-coded orbits, orbital trails, and labels showing how their positions line up periodically.",
+      "seed": "Jupiter–Moon Orbital Resonance Dance: A 3D model of a star, a Jupiter-like gas giant, and three moons in 1:2:4 orbital resonance with color-coded orbits, orbital trails, and labels showing how their positions line up periodically."
+    },
+    {
+      "number": "2",
+      "title": "Asteroid Belt Resonance Gaps",
+      "description": "A star, a large planet, and hundreds of small asteroid spheres orbit in a flat belt where specific resonance radii are highlighted as transparent rings that slowly clear out asteroids via repeated close passes and ejections.",
+      "seed": "Asteroid Belt Resonance Gaps: A star, a large planet, and hundreds of small asteroid spheres orbit in a flat belt where specific resonance radii are highlighted as transparent rings that slowly clear out asteroids via repeated close passes and ejections."
+    },
+    {
+      "number": "3",
+      "title": "Ring Particles in Resonance with a Shepherd Moon",
+      "description": "A bright planet with a thin ring of thousands of tiny particles and a single shepherd moon whose orbital resonance carves a visible gap and spiral density waves in the ring, with particle trails and density color-coding.",
+      "seed": "Ring Particles in Resonance with a Shepherd Moon: A bright planet with a thin ring of thousands of tiny particles and a single shepherd moon whose orbital resonance carves a visible gap and spiral density waves in the ring, with particle trails and density color-coding."
+    },
+    {
+      "number": "4",
+      "title": "Three-Body Resonant Chain Around a Star",
+      "description": "Three planets orbit a star on inclined planes with a 2:3:6 period ratio, each leaving glowing trails and flashing a brief pulse when their resonant alignment (conjunction) repeats, with on-screen period ratio labels.",
+      "seed": "Three-Body Resonant Chain Around a Star: Three planets orbit a star on inclined planes with a 2:3:6 period ratio, each leaving glowing trails and flashing a brief pulse when their resonant alignment (conjunction) repeats, with on-screen period ratio labels."
+    },
+    {
+      "number": "5",
+      "title": "Orbital Resonance Tuning Playground",
+      "description": "Two planets orbit a star while sliders (simple boxes the user can drag) adjust their initial distances; resonance zones are shown as translucent annular bands, and when their periods lock into a simple ratio their orbits and labels glow.",
+      "seed": "Orbital Resonance Tuning Playground: Two planets orbit a star while sliders (simple boxes the user can drag) adjust their initial distances; resonance zones are shown as translucent annular bands, and when their periods lock into a simple ratio their orbits and labels glow."
+    },
+    {
+      "number": "6",
+      "title": "Laplace Resonance Clockwork",
+      "description": "A star and three moons around a giant planet show a Laplace resonance where conjunctions always occur at the same moon positions, with a semi-transparent “gear” overlay visualizing phase angles and a rotating vector diagram beside the system.",
+      "seed": "Laplace Resonance Clockwork: A star and three moons around a giant planet show a Laplace resonance where conjunctions always occur at the same moon positions, with a semi-transparent “gear” overlay visualizing phase angles and a rotating vector diagram beside the system."
+    },
+    {
+      "number": "7",
+      "title": "Double-Planet Resonance Migration",
+      "description": "Two planets start in non-resonant orbits around a star and very slowly exchange angular momentum (via a small scripted torque), drifting until they lock into a 2:1 resonance where their trails change color and align in repeating patterns.",
+      "seed": "Double-Planet Resonance Migration: Two planets start in non-resonant orbits around a star and very slowly exchange angular momentum (via a small scripted torque), drifting until they lock into a 2:1 resonance where their trails change color and align in repeating patterns."
+    },
+    {
+      "number": "8",
+      "title": "Resonant Orbital Transfer Slingshots",
+      "description": "A spacecraft sphere repeatedly performs gravity-assist flybys of a planet in a star–planet system; each slingshot adjusts its orbit until its period resonates with the planet, shown by snapping onto a glowing resonant orbit track.",
+      "seed": "Resonant Orbital Transfer Slingshots: A spacecraft sphere repeatedly performs gravity-assist flybys of a planet in a star–planet system; each slingshot adjusts its orbit until its period resonates with the planet, shown by snapping onto a glowing resonant orbit track."
+    },
+    {
+      "number": "9",
+      "title": "Multiple Moon Resonance Ladder",
+      "description": "A gas giant hosts five moons whose orbital periods follow a stepped resonance ladder (e.g., 1:2:3:4:6), each moon differently colored with faint trails and labeled period ratios, while their conjunctions produce brief radial light pulses from the planet.",
+      "seed": "Multiple Moon Resonance Ladder: A gas giant hosts five moons whose orbital periods follow a stepped resonance ladder (e.g., 1:2:3:4:6), each moon differently colored with faint trails and labeled period ratios, while their conjunctions produce brief radial light pulses from the planet."
+    },
+    {
+      "number": "10",
+      "title": "Resonant Orbits in a Binary Star System",
+      "description": "Two stars orbit each other while several planets orbit the barycenter; a subset of planets enter 3:2 or 5:3 resonances with the binary’s period, their orbits highlighted with translucent tubes and periodic resonance “beats” visualized as expanding rings.",
+      "seed": "Resonant Orbits in a Binary Star System: Two stars orbit each other while several planets orbit the barycenter; a subset of planets enter 3:2 or 5:3 resonances with the binary’s period, their orbits highlighted with translucent tubes and periodic resonance “beats” visualized as expanding rings."
+    },
+    {
+      "number": "11",
+      "title": "Microscopic Charged Beads in Magnetic Orbital Resonance",
+      "description": "Charged beads orbit in a transparent cylindrical magnetic field region, with a central rod emitting field lines; when the beads’ orbital frequencies match a driving oscillation, their orbits expand into locked resonant loops with changing trail colors.",
+      "seed": "Microscopic Charged Beads in Magnetic Orbital Resonance: Charged beads orbit in a transparent cylindrical magnetic field region, with a central rod emitting field lines; when the beads’ orbital frequencies match a driving oscillation, their orbits expand into locked resonant loops with changing trail colors."
+    },
+    {
+      "number": "12",
+      "title": "Orbital Resonance as Musical Orbits",
+      "description": "Colored spheres orbit a central light source with orbital periods mapped to musical notes; when their ratios become resonant (like 2:1, 3:2), the spheres glow brighter and emit visible sound-wave rings while the orbits display labeled “chords.”",
+      "seed": "Orbital Resonance as Musical Orbits: Colored spheres orbit a central light source with orbital periods mapped to musical notes; when their ratios become resonant (like 2:1, 3:2), the spheres glow brighter and emit visible sound-wave rings while the orbits display labeled “chords.”"
+    },
+    {
+      "number": "13",
+      "title": "Resonant Satellite Constellation Around Earth",
+      "description": "Multiple artificial satellites orbit a textured Earth in synchronized resonant orbits (e.g., 4 satellites in 2:1 resonance with Earth’s rotation), drawing coverage footprints on the surface and snapping into repeating ground tracks.",
+      "seed": "Resonant Satellite Constellation Around Earth: Multiple artificial satellites orbit a textured Earth in synchronized resonant orbits (e.g., 4 satellites in 2:1 resonance with Earth’s rotation), drawing coverage footprints on the surface and snapping into repeating ground tracks."
+    },
+    {
+      "number": "14",
+      "title": "Tidal Heating from Resonant Moons",
+      "description": "A central planet with a semi-transparent, slightly deformable shape is orbited by resonant moons; the planet’s surface shows animated “hot spots” and gentle shape oscillations synchronized to the moons’ resonant orbital forcing.",
+      "seed": "Tidal Heating from Resonant Moons: A central planet with a semi-transparent, slightly deformable shape is orbited by resonant moons; the planet’s surface shows animated “hot spots” and gentle shape oscillations synchronized to the moons’ resonant orbital forcing."
+    },
+    {
+      "number": "15",
+      "title": "Dust Disk Gaps from Planetary Resonances",
+      "description": "A star is surrounded by a bright, slightly hazy dust disk filled with small particles; an embedded planet sweeps out resonant gaps and arc-like overdensities as particles are scattered, with the gap radii labeled by their period ratios.",
+      "seed": "Dust Disk Gaps from Planetary Resonances: A star is surrounded by a bright, slightly hazy dust disk filled with small particles; an embedded planet sweeps out resonant gaps and arc-like overdensities as particles are scattered, with the gap radii labeled by their period ratios."
+    },
+    {
+      "number": "16",
+      "title": "Resonant Capture of a Migrating Moon",
+      "description": "A small moon spirals slowly inward toward a planet under a weak drag force, passing through various resonant distances with an inner moon; each time it crosses a resonance, a probability of “capture” into that resonance is visualized with a color shift and orbit realignment.",
+      "seed": "Resonant Capture of a Migrating Moon: A small moon spirals slowly inward toward a planet under a weak drag force, passing through various resonant distances with an inner moon; each time it crosses a resonance, a probability of “capture” into that resonance is visualized with a color shift and orbit realignment."
+    },
+    {
+      "number": "17",
+      "title": "Orbital Resonance Domino Chain",
+      "description": "A chain of small planets orbit a star where each neighbor pair is locked in a slightly different resonance ratio; a slow change in one planet’s orbit (e.g., mild thrust) propagates through the chain, causing others to detach from or re-enter resonances.",
+      "seed": "Orbital Resonance Domino Chain: A chain of small planets orbit a star where each neighbor pair is locked in a slightly different resonance ratio; a slow change in one planet’s orbit (e.g., mild thrust) propagates through the chain, causing others to detach from or re-enter resonances."
+    },
+    {
+      "number": "18",
+      "title": "Resonant Swarm of Trojan Asteroids",
+      "description": "A giant planet orbits a star while swarms of small bodies cluster at its L4 and L5 points; the bodies librate around these stable points in resonant motion with the planet, with ghosted outlines of the equilibrium positions and color-coded libration amplitudes.",
+      "seed": "Resonant Swarm of Trojan Asteroids: A giant planet orbits a star while swarms of small bodies cluster at its L4 and L5 points; the bodies librate around these stable points in resonant motion with the planet, with ghosted outlines of the equilibrium positions and color-coded libration amplitudes."
+    },
+    {
+      "number": "19",
+      "title": "Inclined Resonant Orbits with Nodal Precession",
+      "description": "Two inclined planets orbit a star in a mean-motion resonance; their orbits are shown as 3D ellipses with nodes marked by small arrows, and slow nodal precession is visible while conjunctions still repeat at specific longitudes.",
+      "seed": "Inclined Resonant Orbits with Nodal Precession: Two inclined planets orbit a star in a mean-motion resonance; their orbits are shown as 3D ellipses with nodes marked by small arrows, and slow nodal precession is visible while conjunctions still repeat at specific longitudes."
+    },
+    {
+      "number": "20",
+      "title": "Radiation Belt Particles in Orbital Resonance",
+      "description": "A planet with magnetic field lines hosts many charged particles spiraling and bouncing along the field; a rotating electric field periodically pushes them, and when the forcing frequency matches their bounce or drift frequency, their orbits expand into bright resonant bands.",
+      "seed": "Radiation Belt Particles in Orbital Resonance: A planet with magnetic field lines hosts many charged particles spiraling and bouncing along the field; a rotating electric field periodically pushes them, and when the forcing frequency matches their bounce or drift frequency, their orbits expand into bright resonant bands."
+    },
+    {
+      "number": "21",
+      "title": "Resonant Planetary Rings in a Multi-Planet System",
+      "description": "Several planets orbit a star with a broad ring of test particles; resonances with each planet carve multiple overlapping gaps and spiral waves, with each planet’s resonance regions tinted in its color and labeled on a radial “resonance map” beside the disk.",
+      "seed": "Resonant Planetary Rings in a Multi-Planet System: Several planets orbit a star with a broad ring of test particles; resonances with each planet carve multiple overlapping gaps and spiral waves, with each planet’s resonance regions tinted in its color and labeled on a radial “resonance map” beside the disk."
+    },
+    {
+      "number": "22",
+      "title": "Orbital Resonance Breakup Event",
+      "description": "A tightly resonant chain of moons around a planet is disturbed by a passing rogue body; as it flies through, gravitational kicks knock some moons out of resonance, causing trails to change color and labels to switch from “locked” to “broken.”",
+      "seed": "Orbital Resonance Breakup Event: A tightly resonant chain of moons around a planet is disturbed by a passing rogue body; as it flies through, gravitational kicks knock some moons out of resonance, causing trails to change color and labels to switch from “locked” to “broken.”"
+    },
+    {
+      "number": "23",
+      "title": "Resonant Gravity-Well Surface Visualization",
+      "description": "A 3D “rubber sheet” gravitational potential surface shows a central star pit with orbiting planets as marbles; stable resonant orbits are drawn as shallow grooves, and marbles settle into these grooves, circling in lockstep while glowing when in resonance.",
+      "seed": "Resonant Gravity-Well Surface Visualization: A 3D “rubber sheet” gravitational potential surface shows a central star pit with orbiting planets as marbles; stable resonant orbits are drawn as shallow grooves, and marbles settle into these grooves, circling in lockstep while glowing when in resonance."
+    },
+    {
+      "number": "24",
+      "title": "Symbolic Resonant Orbits of Social Influence",
+      "description": "Colored “agent” spheres orbit a central “idea” sphere; as agents’ paths fall into simple time ratios, faint threads connect them and resonate with pulsing brightness, while non-resonant agents drift outward and lose their connecting threads.",
+      "seed": "Symbolic Resonant Orbits of Social Influence: Colored “agent” spheres orbit a central “idea” sphere; as agents’ paths fall into simple time ratios, faint threads connect them and resonate with pulsing brightness, while non-resonant agents drift outward and lose their connecting threads."
+    },
+    {
+      "number": "25",
+      "title": "Orbital Resonance Mapping Scanner",
+      "description": "A single test particle orbits a star–planet system while its semi-major axis is slowly scanned; whenever its period forms a low-integer ratio with the planet, its trail brightens and a vertical marker appears on a side graph showing resonance locations.",
+      "seed": "Orbital Resonance Mapping Scanner: A single test particle orbits a star–planet system while its semi-major axis is slowly scanned; whenever its period forms a low-integer ratio with the planet, its trail brightens and a vertical marker appears on a side graph showing resonance locations."
+    }
+  ],
+  "raw_output": "Here are strong **Orbital resonance simulation inputs** you can plug into your prompt:\n\n1. **Jupiter–Moon Orbital Resonance Dance**\n   A 3D model of a star, a Jupiter-like gas giant, and three moons in 1:2:4 orbital resonance with color-coded orbits, orbital trails, and labels showing how their positions line up periodically.\n\n2. **Asteroid Belt Resonance Gaps**\n   A star, a large planet, and hundreds of small asteroid spheres orbit in a flat belt where specific resonance radii are highlighted as transparent rings that slowly clear out asteroids via repeated close passes and ejections.\n\n3. **Ring Particles in Resonance with a Shepherd Moon**\n   A bright planet with a thin ring of thousands of tiny particles and a single shepherd moon whose orbital resonance carves a visible gap and spiral density waves in the ring, with particle trails and density color-coding.\n\n4. **Three-Body Resonant Chain Around a Star**\n   Three planets orbit a star on inclined planes with a 2:3:6 period ratio, each leaving glowing trails and flashing a brief pulse when their resonant alignment (conjunction) repeats, with on-screen period ratio labels.\n\n5. **Orbital Resonance Tuning Playground**\n   Two planets orbit a star while sliders (simple boxes the user can drag) adjust their initial distances; resonance zones are shown as translucent annular bands, and when their periods lock into a simple ratio their orbits and labels glow.\n\n6. **Laplace Resonance Clockwork**\n   A star and three moons around a giant planet show a Laplace resonance where conjunctions always occur at the same moon positions, with a semi-transparent “gear” overlay visualizing phase angles and a rotating vector diagram beside the system.\n\n7. **Double-Planet Resonance Migration**\n   Two planets start in non-resonant orbits around a star and very slowly exchange angular momentum (via a small scripted torque), drifting until they lock into a 2:1 resonance where their trails change color and align in repeating patterns.\n\n8. **Resonant Orbital Transfer Slingshots**\n   A spacecraft sphere repeatedly performs gravity-assist flybys of a planet in a star–planet system; each slingshot adjusts its orbit until its period resonates with the planet, shown by snapping onto a glowing resonant orbit track.\n\n9. **Multiple Moon Resonance Ladder**\n   A gas giant hosts five moons whose orbital periods follow a stepped resonance ladder (e.g., 1:2:3:4:6), each moon differently colored with faint trails and labeled period ratios, while their conjunctions produce brief radial light pulses from the planet.\n\n10. **Resonant Orbits in a Binary Star System**\n    Two stars orbit each other while several planets orbit the barycenter; a subset of planets enter 3:2 or 5:3 resonances with the binary’s period, their orbits highlighted with translucent tubes and periodic resonance “beats” visualized as expanding rings.\n\n11. **Microscopic Charged Beads in Magnetic Orbital Resonance**\n    Charged beads orbit in a transparent cylindrical magnetic field region, with a central rod emitting field lines; when the beads’ orbital frequencies match a driving oscillation, their orbits expand into locked resonant loops with changing trail colors.\n\n12. **Orbital Resonance as Musical Orbits**\n    Colored spheres orbit a central light source with orbital periods mapped to musical notes; when their ratios become resonant (like 2:1, 3:2), the spheres glow brighter and emit visible sound-wave rings while the orbits display labeled “chords.”\n\n13. **Resonant Satellite Constellation Around Earth**\n    Multiple artificial satellites orbit a textured Earth in synchronized resonant orbits (e.g., 4 satellites in 2:1 resonance with Earth’s rotation), drawing coverage footprints on the surface and snapping into repeating ground tracks.\n\n14. **Tidal Heating from Resonant Moons**\n    A central planet with a semi-transparent, slightly deformable shape is orbited by resonant moons; the planet’s surface shows animated “hot spots” and gentle shape oscillations synchronized to the moons’ resonant orbital forcing.\n\n15. **Dust Disk Gaps from Planetary Resonances**\n    A star is surrounded by a bright, slightly hazy dust disk filled with small particles; an embedded planet sweeps out resonant gaps and arc-like overdensities as particles are scattered, with the gap radii labeled by their period ratios.\n\n16. **Resonant Capture of a Migrating Moon**\n    A small moon spirals slowly inward toward a planet under a weak drag force, passing through various resonant distances with an inner moon; each time it crosses a resonance, a probability of “capture” into that resonance is visualized with a color shift and orbit realignment.\n\n17. **Orbital Resonance Domino Chain**\n    A chain of small planets orbit a star where each neighbor pair is locked in a slightly different resonance ratio; a slow change in one planet’s orbit (e.g., mild thrust) propagates through the chain, causing others to detach from or re-enter resonances.\n\n18. **Resonant Swarm of Trojan Asteroids**\n    A giant planet orbits a star while swarms of small bodies cluster at its L4 and L5 points; the bodies librate around these stable points in resonant motion with the planet, with ghosted outlines of the equilibrium positions and color-coded libration amplitudes.\n\n19. **Inclined Resonant Orbits with Nodal Precession**\n    Two inclined planets orbit a star in a mean-motion resonance; their orbits are shown as 3D ellipses with nodes marked by small arrows, and slow nodal precession is visible while conjunctions still repeat at specific longitudes.\n\n20. **Radiation Belt Particles in Orbital Resonance**\n    A planet with magnetic field lines hosts many charged particles spiraling and bouncing along the field; a rotating electric field periodically pushes them, and when the forcing frequency matches their bounce or drift frequency, their orbits expand into bright resonant bands.\n\n21. **Resonant Planetary Rings in a Multi-Planet System**\n    Several planets orbit a star with a broad ring of test particles; resonances with each planet carve multiple overlapping gaps and spiral waves, with each planet’s resonance regions tinted in its color and labeled on a radial “resonance map” beside the disk.\n\n22. **Orbital Resonance Breakup Event**\n    A tightly resonant chain of moons around a planet is disturbed by a passing rogue body; as it flies through, gravitational kicks knock some moons out of resonance, causing trails to change color and labels to switch from “locked” to “broken.”\n\n23. **Resonant Gravity-Well Surface Visualization**\n    A 3D “rubber sheet” gravitational potential surface shows a central star pit with orbiting planets as marbles; stable resonant orbits are drawn as shallow grooves, and marbles settle into these grooves, circling in lockstep while glowing when in resonance.\n\n24. **Symbolic Resonant Orbits of Social Influence**\n    Colored “agent” spheres orbit a central “idea” sphere; as agents’ paths fall into simple time ratios, faint threads connect them and resonate with pulsing brightness, while non-resonant agents drift outward and lose their connecting threads.\n\n25. **Orbital Resonance Mapping Scanner**\n    A single test particle orbits a star–planet system while its semi-major axis is slowly scanned; whenever its period forms a low-integer ratio with the planet, its trail brightens and a vertical marker appears on a side graph showing resonance locations."
+}

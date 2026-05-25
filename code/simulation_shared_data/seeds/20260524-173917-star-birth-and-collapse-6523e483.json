@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Star birth and collapse",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:39:17",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Protostellar Cloud Collapse to Star Core",
+      "description": "A large, semi-transparent rotating gas sphere slowly contracts under gravity, with small colored gas particles spiraling inward, density color-coding, and a bright, pulsing core forming at the center as outer regions darken.",
+      "seed": "Protostellar Cloud Collapse to Star Core: A large, semi-transparent rotating gas sphere slowly contracts under gravity, with small colored gas particles spiraling inward, density color-coding, and a bright, pulsing core forming at the center as outer regions darken."
+    },
+    {
+      "number": "2",
+      "title": "Accretion Disk and Jet Formation",
+      "description": "A central glowing sphere is fed by a flat, rotating disk of small particles that spiral inward, while narrow, opposite jets of fast-moving particles shoot out along the rotation axis with fading trails and brightness tied to infall rate.",
+      "seed": "Accretion Disk and Jet Formation: A central glowing sphere is fed by a flat, rotating disk of small particles that spiral inward, while narrow, opposite jets of fast-moving particles shoot out along the rotation axis with fading trails and brightness tied to infall rate."
+    },
+    {
+      "number": "3",
+      "title": "Fragmenting Molecular Cloud into Multiple Stars",
+      "description": "A big translucent gas cloud gradually condenses into several denser clumps that detach, spin, and glow, each forming its own mini-rotating disk and central star, with color-coded temperature and faint particle bridges that break as they drift apart.",
+      "seed": "Fragmenting Molecular Cloud into Multiple Stars: A big translucent gas cloud gradually condenses into several denser clumps that detach, spin, and glow, each forming its own mini-rotating disk and central star, with color-coded temperature and faint particle bridges that break as they drift apart."
+    },
+    {
+      "number": "4",
+      "title": "Binary Star Formation from Collapsing Cloud",
+      "description": "A rotating elongated gas blob collapses into two bright spheres that orbit a common center, pulling in nearby particles from a shared disk, with each star’s accreted material shown by differently colored swirling trails.",
+      "seed": "Binary Star Formation from Collapsing Cloud: A rotating elongated gas blob collapses into two bright spheres that orbit a common center, pulling in nearby particles from a shared disk, with each star’s accreted material shown by differently colored swirling trails."
+    },
+    {
+      "number": "5",
+      "title": "Supernova Core Collapse and Shock Wave",
+      "description": "A massive bright star sphere suddenly shrinks its core, then explodes into an expanding shell of colored particles, with a shock front ring that pushes ambient particles outward and leaves behind a tiny, extremely bright neutron star or black sphere.",
+      "seed": "Supernova Core Collapse and Shock Wave: A massive bright star sphere suddenly shrinks its core, then explodes into an expanding shell of colored particles, with a shock front ring that pushes ambient particles outward and leaves behind a tiny, extremely bright neutron star or black sphere."
+    },
+    {
+      "number": "6",
+      "title": "Black Hole Birth from Stellar Collapse",
+      "description": "A large star gradually brightens and pulses, then rapidly collapses into a small dark sphere with a glowing, warped halo, as nearby test particles and a loose gas cloud spiral into an accretion ring and disappear at the event horizon.",
+      "seed": "Black Hole Birth from Stellar Collapse: A large star gradually brightens and pulses, then rapidly collapses into a small dark sphere with a glowing, warped halo, as nearby test particles and a loose gas cloud spiral into an accretion ring and disappear at the event horizon."
+    },
+    {
+      "number": "7",
+      "title": "Nebula Expansion and New Star Seeds",
+      "description": "A compact glowing sphere erupts into a colorful, expanding, semi-transparent nebula with embedded small dense knots that slowly brighten and contract, showing stars “born” within the drifting cloud with soft radial light.",
+      "seed": "Nebula Expansion and New Star Seeds: A compact glowing sphere erupts into a colorful, expanding, semi-transparent nebula with embedded small dense knots that slowly brighten and contract, showing stars “born” within the drifting cloud with soft radial light."
+    },
+    {
+      "number": "8",
+      "title": "Star Cluster Birth from Turbulent Cloud",
+      "description": "A big rotating, clumpy gas volume contains dozens of dense regions that condense into small stars, which then begin to orbit in a loose cluster, leaving gas behind that gradually disperses as color-faded particles.",
+      "seed": "Star Cluster Birth from Turbulent Cloud: A big rotating, clumpy gas volume contains dozens of dense regions that condense into small stars, which then begin to orbit in a loose cluster, leaving gas behind that gradually disperses as color-faded particles."
+    },
+    {
+      "number": "9",
+      "title": "Lifecycle Timeline: From Protostar to White Dwarf",
+      "description": "Along a straight or curved 3D path, several spheres represent the same star at stages (cloud core, protostar, main sequence, red giant, planetary nebula, white dwarf), with arrows or thin glowing connectors, each stage animated with its own pulsing, shrinking, or expanding motion.",
+      "seed": "Lifecycle Timeline: From Protostar to White Dwarf: Along a straight or curved 3D path, several spheres represent the same star at stages (cloud core, protostar, main sequence, red giant, planetary nebula, white dwarf), with arrows or thin glowing connectors, each stage animated with its own pulsing, shrinking, or expanding motion."
+    },
+    {
+      "number": "10",
+      "title": "Stellar Nursery with Feedback Winds",
+      "description": "Multiple young stars embedded in a translucent cloud emit color-coded particle winds that carve out bubbles, push gas away, and sometimes compress other regions so they condense and glow, with gas motion shown by small arrowed trails.",
+      "seed": "Stellar Nursery with Feedback Winds: Multiple young stars embedded in a translucent cloud emit color-coded particle winds that carve out bubbles, push gas away, and sometimes compress other regions so they condense and glow, with gas motion shown by small arrowed trails."
+    },
+    {
+      "number": "11",
+      "title": "Star Formation Efficiency Meter in a Collapsing Region",
+      "description": "A gas cloud modeled by thousands of small, lightly colored particles collapses into dense sphere clusters (stars), while a side bar graph dynamically tracks the fraction of mass in stars versus gas as particles change color when “captured.”",
+      "seed": "Star Formation Efficiency Meter in a Collapsing Region: A gas cloud modeled by thousands of small, lightly colored particles collapses into dense sphere clusters (stars), while a side bar graph dynamically tracks the fraction of mass in stars versus gas as particles change color when “captured.”"
+    },
+    {
+      "number": "12",
+      "title": "Gas Filaments Feeding Growing Protostars",
+      "description": "Long, thin, semi-transparent filaments snake through space, with small bright protostar spheres attached at junctions; particles flow along the filaments and spiral into the protostars, which gradually grow and change color as their mass increases.",
+      "seed": "Gas Filaments Feeding Growing Protostars: Long, thin, semi-transparent filaments snake through space, with small bright protostar spheres attached at junctions; particles flow along the filaments and spiral into the protostars, which gradually grow and change color as their mass increases."
+    },
+    {
+      "number": "13",
+      "title": "Rotating Star with Pulsing Fusion Core",
+      "description": "A star represented by nested semi-transparent shells has an inner core that pulses in brightness and size, sending subtle brightness waves through the outer layers, while thin labeled rings indicate temperature zones that slightly expand and contract.",
+      "seed": "Rotating Star with Pulsing Fusion Core: A star represented by nested semi-transparent shells has an inner core that pulses in brightness and size, sending subtle brightness waves through the outer layers, while thin labeled rings indicate temperature zones that slightly expand and contract."
+    },
+    {
+      "number": "14",
+      "title": "Gravitational Collapse Versus Thermal Pressure",
+      "description": "A spherical gas cloud has two meters (gravity vs pressure) and shows particles either falling inward or bouncing outward depending on parameter sliders; as gravity wins, the cloud shrinks and brightens in the center, as pressure wins, it expands and fades.",
+      "seed": "Gravitational Collapse Versus Thermal Pressure: A spherical gas cloud has two meters (gravity vs pressure) and shows particles either falling inward or bouncing outward depending on parameter sliders; as gravity wins, the cloud shrinks and brightens in the center, as pressure wins, it expands and fades."
+    },
+    {
+      "number": "15",
+      "title": "Star Birth in a Galaxy Spiral Arm",
+      "description": "A rotating, flat galaxy disk with bright spiral arms holds many small gas clumps that drift along the arms; when clumps reach a density threshold, they condense into bright star clusters that gradually orbit and leave particle trails.",
+      "seed": "Star Birth in a Galaxy Spiral Arm: A rotating, flat galaxy disk with bright spiral arms holds many small gas clumps that drift along the arms; when clumps reach a density threshold, they condense into bright star clusters that gradually orbit and leave particle trails."
+    },
+    {
+      "number": "16",
+      "title": "Mass Transfer and Collapse in a Binary System",
+      "description": "Two close-orbiting stars (one normal, one compact) interact via a curved stream of particles transferring from one to the other, forming a hot accretion ring around the compact star that brightens until a collapse or nova-like particle ejection occurs.",
+      "seed": "Mass Transfer and Collapse in a Binary System: Two close-orbiting stars (one normal, one compact) interact via a curved stream of particles transferring from one to the other, forming a hot accretion ring around the compact star that brightens until a collapse or nova-like particle ejection occurs."
+    },
+    {
+      "number": "17",
+      "title": "Symbolic “Star of Ideas” Birth and Burnout",
+      "description": "A central transparent sphere represents a “mind,” into which small glowing idea-particles converge, merge, and ignite into a bright “star of creativity” that pulses, then gradually sheds dim particles and collapses into a small, dull remnant sphere.",
+      "seed": "Symbolic “Star of Ideas” Birth and Burnout: A central transparent sphere represents a “mind,” into which small glowing idea-particles converge, merge, and ignite into a bright “star of creativity” that pulses, then gradually sheds dim particles and collapses into a small, dull remnant sphere."
+    },
+    {
+      "number": "18",
+      "title": "Planet-Forming Disk Around a Young Star",
+      "description": "A bright central protostar is surrounded by a dusty, slightly thick disk of particles that collide, stick to form growing planetesimal spheres, and clear gaps in the disk as they orbit; some fragments fall into the star, leaving short, bright trails.",
+      "seed": "Planet-Forming Disk Around a Young Star: A bright central protostar is surrounded by a dusty, slightly thick disk of particles that collide, stick to form growing planetesimal spheres, and clear gaps in the disk as they orbit; some fragments fall into the star, leaving short, bright trails."
+    },
+    {
+      "number": "19",
+      "title": "Oscillating Star on the Edge of Collapse",
+      "description": "A single star sphere alternately expands and contracts like a breathing object, with its outer layers slightly lagging the core, color shifting from cool to hot during compression cycles, and faint particles periodically escaping into space.",
+      "seed": "Oscillating Star on the Edge of Collapse: A single star sphere alternately expands and contracts like a breathing object, with its outer layers slightly lagging the core, color shifting from cool to hot during compression cycles, and faint particles periodically escaping into space."
+    },
+    {
+      "number": "20",
+      "title": "Stellar Merger in a Dense Cluster",
+      "description": "Dozens of stars move randomly in a compact cluster; when two collide, they merge into a larger, brighter sphere with a brief explosion of particles, and a simple label shows the new mass and color shift to represent a rejuvenated star.",
+      "seed": "Stellar Merger in a Dense Cluster: Dozens of stars move randomly in a compact cluster; when two collide, they merge into a larger, brighter sphere with a brief explosion of particles, and a simple label shows the new mass and color shift to represent a rejuvenated star."
+    },
+    {
+      "number": "21",
+      "title": "Stellar Mass Loss and Planetary Nebula Formation",
+      "description": "A red giant star slowly sheds a semi-transparent shell of gas, which expands outward while the core shrinks into a small hot white sphere that illuminates the gas, making concentric glowing shells and arcs that drift away.",
+      "seed": "Stellar Mass Loss and Planetary Nebula Formation: A red giant star slowly sheds a semi-transparent shell of gas, which expands outward while the core shrinks into a small hot white sphere that illuminates the gas, making concentric glowing shells and arcs that drift away."
+    },
+    {
+      "number": "22",
+      "title": "Multiple Supernovae Sculpting a Star-Forming Bubble",
+      "description": "A group of massive stars in a loose cluster each explode in sequence, sending overlapping expanding shells that collide, compressing gas in certain regions into new bright protostars, with collision zones highlighted by increased particle density and color change.",
+      "seed": "Multiple Supernovae Sculpting a Star-Forming Bubble: A group of massive stars in a loose cluster each explode in sequence, sending overlapping expanding shells that collide, compressing gas in certain regions into new bright protostars, with collision zones highlighted by increased particle density and color change."
+    },
+    {
+      "number": "23",
+      "title": "Star Collapse into Neutron Star with Pulsar Beams",
+      "description": "A large star collapses to a tiny dense sphere that spins rapidly and emits two narrow sweeping light cones, while nearby test particles show gravitational focusing and a slight accretion ring that glows as it falls inward.",
+      "seed": "Star Collapse into Neutron Star with Pulsar Beams: A large star collapses to a tiny dense sphere that spins rapidly and emits two narrow sweeping light cones, while nearby test particles show gravitational focusing and a slight accretion ring that glows as it falls inward."
+    },
+    {
+      "number": "24",
+      "title": "Interactive Slider: From Small Stable Star to Collapse",
+      "description": "A single star’s mass is controlled by a slider; as mass increases, the sphere’s color, radius, and brightness change, and beyond a threshold it rapidly collapses, optionally producing either a white dwarf, neutron star, or black hole with matching visual effects.",
+      "seed": "Interactive Slider: From Small Stable Star to Collapse: A single star’s mass is controlled by a slider; as mass increases, the sphere’s color, radius, and brightness change, and beyond a threshold it rapidly collapses, optionally producing either a white dwarf, neutron star, or black hole with matching visual effects."
+    },
+    {
+      "number": "25",
+      "title": "Chain Reaction of Star Birth Along a Shock Front",
+      "description": "A flat sheet of gas with embedded dust particles is struck by a moving shock wave plane; as the wave passes, local regions compress, condense into small glowing protostars, and then send out their own weaker expanding waves that trigger new star formation downstream.",
+      "seed": "Chain Reaction of Star Birth Along a Shock Front: A flat sheet of gas with embedded dust particles is struck by a moving shock wave plane; as the wave passes, local regions compress, condense into small glowing protostars, and then send out their own weaker expanding waves that trigger new star formation downstream."
+    }
+  ],
+  "raw_output": "Here are strong **Star birth and collapse simulation inputs** you can plug into your prompt:\n\n1. **Protostellar Cloud Collapse to Star Core**\n   A large, semi-transparent rotating gas sphere slowly contracts under gravity, with small colored gas particles spiraling inward, density color-coding, and a bright, pulsing core forming at the center as outer regions darken.\n\n2. **Accretion Disk and Jet Formation**\n   A central glowing sphere is fed by a flat, rotating disk of small particles that spiral inward, while narrow, opposite jets of fast-moving particles shoot out along the rotation axis with fading trails and brightness tied to infall rate.\n\n3. **Fragmenting Molecular Cloud into Multiple Stars**\n   A big translucent gas cloud gradually condenses into several denser clumps that detach, spin, and glow, each forming its own mini-rotating disk and central star, with color-coded temperature and faint particle bridges that break as they drift apart.\n\n4. **Binary Star Formation from Collapsing Cloud**\n   A rotating elongated gas blob collapses into two bright spheres that orbit a common center, pulling in nearby particles from a shared disk, with each star’s accreted material shown by differently colored swirling trails.\n\n5. **Supernova Core Collapse and Shock Wave**\n   A massive bright star sphere suddenly shrinks its core, then explodes into an expanding shell of colored particles, with a shock front ring that pushes ambient particles outward and leaves behind a tiny, extremely bright neutron star or black sphere.\n\n6. **Black Hole Birth from Stellar Collapse**\n   A large star gradually brightens and pulses, then rapidly collapses into a small dark sphere with a glowing, warped halo, as nearby test particles and a loose gas cloud spiral into an accretion ring and disappear at the event horizon.\n\n7. **Nebula Expansion and New Star Seeds**\n   A compact glowing sphere erupts into a colorful, expanding, semi-transparent nebula with embedded small dense knots that slowly brighten and contract, showing stars “born” within the drifting cloud with soft radial light.\n\n8. **Star Cluster Birth from Turbulent Cloud**\n   A big rotating, clumpy gas volume contains dozens of dense regions that condense into small stars, which then begin to orbit in a loose cluster, leaving gas behind that gradually disperses as color-faded particles.\n\n9. **Lifecycle Timeline: From Protostar to White Dwarf**\n   Along a straight or curved 3D path, several spheres represent the same star at stages (cloud core, protostar, main sequence, red giant, planetary nebula, white dwarf), with arrows or thin glowing connectors, each stage animated with its own pulsing, shrinking, or expanding motion.\n\n10. **Stellar Nursery with Feedback Winds**\n    Multiple young stars embedded in a translucent cloud emit color-coded particle winds that carve out bubbles, push gas away, and sometimes compress other regions so they condense and glow, with gas motion shown by small arrowed trails.\n\n11. **Star Formation Efficiency Meter in a Collapsing Region**\n    A gas cloud modeled by thousands of small, lightly colored particles collapses into dense sphere clusters (stars), while a side bar graph dynamically tracks the fraction of mass in stars versus gas as particles change color when “captured.”\n\n12. **Gas Filaments Feeding Growing Protostars**\n    Long, thin, semi-transparent filaments snake through space, with small bright protostar spheres attached at junctions; particles flow along the filaments and spiral into the protostars, which gradually grow and change color as their mass increases.\n\n13. **Rotating Star with Pulsing Fusion Core**\n    A star represented by nested semi-transparent shells has an inner core that pulses in brightness and size, sending subtle brightness waves through the outer layers, while thin labeled rings indicate temperature zones that slightly expand and contract.\n\n14. **Gravitational Collapse Versus Thermal Pressure**\n    A spherical gas cloud has two meters (gravity vs pressure) and shows particles either falling inward or bouncing outward depending on parameter sliders; as gravity wins, the cloud shrinks and brightens in the center, as pressure wins, it expands and fades.\n\n15. **Star Birth in a Galaxy Spiral Arm**\n    A rotating, flat galaxy disk with bright spiral arms holds many small gas clumps that drift along the arms; when clumps reach a density threshold, they condense into bright star clusters that gradually orbit and leave particle trails.\n\n16. **Mass Transfer and Collapse in a Binary System**\n    Two close-orbiting stars (one normal, one compact) interact via a curved stream of particles transferring from one to the other, forming a hot accretion ring around the compact star that brightens until a collapse or nova-like particle ejection occurs.\n\n17. **Symbolic “Star of Ideas” Birth and Burnout**\n    A central transparent sphere represents a “mind,” into which small glowing idea-particles converge, merge, and ignite into a bright “star of creativity” that pulses, then gradually sheds dim particles and collapses into a small, dull remnant sphere.\n\n18. **Planet-Forming Disk Around a Young Star**\n    A bright central protostar is surrounded by a dusty, slightly thick disk of particles that collide, stick to form growing planetesimal spheres, and clear gaps in the disk as they orbit; some fragments fall into the star, leaving short, bright trails.\n\n19. **Oscillating Star on the Edge of Collapse**\n    A single star sphere alternately expands and contracts like a breathing object, with its outer layers slightly lagging the core, color shifting from cool to hot during compression cycles, and faint particles periodically escaping into space.\n\n20. **Stellar Merger in a Dense Cluster**\n    Dozens of stars move randomly in a compact cluster; when two collide, they merge into a larger, brighter sphere with a brief explosion of particles, and a simple label shows the new mass and color shift to represent a rejuvenated star.\n\n21. **Stellar Mass Loss and Planetary Nebula Formation**\n    A red giant star slowly sheds a semi-transparent shell of gas, which expands outward while the core shrinks into a small hot white sphere that illuminates the gas, making concentric glowing shells and arcs that drift away.\n\n22. **Multiple Supernovae Sculpting a Star-Forming Bubble**\n    A group of massive stars in a loose cluster each explode in sequence, sending overlapping expanding shells that collide, compressing gas in certain regions into new bright protostars, with collision zones highlighted by increased particle density and color change.\n\n23. **Star Collapse into Neutron Star with Pulsar Beams**\n    A large star collapses to a tiny dense sphere that spins rapidly and emits two narrow sweeping light cones, while nearby test particles show gravitational focusing and a slight accretion ring that glows as it falls inward.\n\n24. **Interactive Slider: From Small Stable Star to Collapse**\n    A single star’s mass is controlled by a slider; as mass increases, the sphere’s color, radius, and brightness change, and beyond a threshold it rapidly collapses, optionally producing either a white dwarf, neutron star, or black hole with matching visual effects.\n\n25. **Chain Reaction of Star Birth Along a Shock Front**\n    A flat sheet of gas with embedded dust particles is struck by a moving shock wave plane; as the wave passes, local regions compress, condense into small glowing protostars, and then send out their own weaker expanding waves that trigger new star formation downstream."
+}

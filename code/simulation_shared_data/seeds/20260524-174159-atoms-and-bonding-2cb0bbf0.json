@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Atoms and bonding",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:41:59",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Gas Atoms in a Box with Dynamic Bond Formation",
+      "description": "A set of colored spheres representing different atom types bounce inside a transparent box, occasionally colliding and forming or breaking glowing cylindrical “bonds” depending on speed and distance, with labels and short-lived particle bursts at each bond event.",
+      "seed": "Gas Atoms in a Box with Dynamic Bond Formation: A set of colored spheres representing different atom types bounce inside a transparent box, occasionally colliding and forming or breaking glowing cylindrical “bonds” depending on speed and distance, with labels and short-lived particle bursts at each bond event."
+    },
+    {
+      "number": "2",
+      "title": "Molecular Lattice Stretch and Break",
+      "description": "A 3D grid of atoms connected by spring-like bonds is slowly stretched by two transparent plates pulling opposite sides, showing bonds thinning, vibrating, snapping, and re-forming, with stress shown by bond color from blue (low) to red (high).",
+      "seed": "Molecular Lattice Stretch and Break: A 3D grid of atoms connected by spring-like bonds is slowly stretched by two transparent plates pulling opposite sides, showing bonds thinning, vibrating, snapping, and re-forming, with stress shown by bond color from blue (low) to red (high)."
+    },
+    {
+      "number": "3",
+      "title": "Crystallization from a Cooling Gas",
+      "description": "Free atoms drift randomly in a light-colored volume and, as a “temperature” slider is lowered, they begin to stick and align into a growing crystalline cluster, with new arrivals snapping into place and giving off small spark-like particles.",
+      "seed": "Crystallization from a Cooling Gas: Free atoms drift randomly in a light-colored volume and, as a “temperature” slider is lowered, they begin to stick and align into a growing crystalline cluster, with new arrivals snapping into place and giving off small spark-like particles."
+    },
+    {
+      "number": "4",
+      "title": "Ionic Bonding Between Two Charged Clouds",
+      "description": "Red positively charged ions and blue negatively charged ions float in separate transparent regions, then the barrier is removed so they accelerate toward each other, pair up into neutral units with bright links, and arrange into a simple ionic crystal.",
+      "seed": "Ionic Bonding Between Two Charged Clouds: Red positively charged ions and blue negatively charged ions float in separate transparent regions, then the barrier is removed so they accelerate toward each other, pair up into neutral units with bright links, and arrange into a simple ionic crystal."
+    },
+    {
+      "number": "5",
+      "title": "Covalent Bond Angle and Rotation Explorer",
+      "description": "A central atom with multiple bonded neighbors is shown with adjustable bond angles and torsions controlled by sliders, causing the bonded atoms to smoothly rotate around bonds while bond angle markers and labels update in real time.",
+      "seed": "Covalent Bond Angle and Rotation Explorer: A central atom with multiple bonded neighbors is shown with adjustable bond angles and torsions controlled by sliders, causing the bonded atoms to smoothly rotate around bonds while bond angle markers and labels update in real time."
+    },
+    {
+      "number": "6",
+      "title": "Simple Molecule Builder with Snap-to-Bond Sites",
+      "description": "Loose atoms of several types float gently until the user drags and drops them near a central structure, where they snap into discrete bonding positions, change color to indicate bond type, and display bond order labels and short-lived trails.",
+      "seed": "Simple Molecule Builder with Snap-to-Bond Sites: Loose atoms of several types float gently until the user drags and drops them near a central structure, where they snap into discrete bonding positions, change color to indicate bond type, and display bond order labels and short-lived trails."
+    },
+    {
+      "number": "7",
+      "title": "Vibrating Diatomic Molecule Gas",
+      "description": "Many diatomic molecules (two-atom pairs) move and collide in a box, each pair connected by a spring that continually stretches and compresses, with vibration amplitude increasing when molecules collide hard and decreasing when they exchange energy.",
+      "seed": "Vibrating Diatomic Molecule Gas: Many diatomic molecules (two-atom pairs) move and collide in a box, each pair connected by a spring that continually stretches and compresses, with vibration amplitude increasing when molecules collide hard and decreasing when they exchange energy."
+    },
+    {
+      "number": "8",
+      "title": "Bond Energy Meter with Laser Breaker",
+      "description": "A few simple molecules sit on a platform while a movable “laser beam” cylinder can be aimed at bonds; when the user increases laser intensity and hits a bond, it glows, stretches, breaks, and the fragments fly apart as a meter shows energy absorbed.",
+      "seed": "Bond Energy Meter with Laser Breaker: A few simple molecules sit on a platform while a movable “laser beam” cylinder can be aimed at bonds; when the user increases laser intensity and hits a bond, it glows, stretches, breaks, and the fragments fly apart as a meter shows energy absorbed."
+    },
+    {
+      "number": "9",
+      "title": "Polymer Chain Growth and Entanglement",
+      "description": "Monomer units drift near the end of a growing polymer chain; when they touch the active end, they attach and extend the chain, which snakes, coils, and entangles with other chains, with segments colored by age and occasional chain scission events.",
+      "seed": "Polymer Chain Growth and Entanglement: Monomer units drift near the end of a growing polymer chain; when they touch the active end, they attach and extend the chain, which snakes, coils, and entangles with other chains, with segments colored by age and occasional chain scission events."
+    },
+    {
+      "number": "10",
+      "title": "Water Molecule Cluster with Hydrogen Bond Network",
+      "description": "Dozens of water molecules tumble in 3D, forming and breaking faint, dashed hydrogen bonds that flicker between molecules based on orientation and distance, with an on-screen counter of active hydrogen bonds updating in real time.",
+      "seed": "Water Molecule Cluster with Hydrogen Bond Network: Dozens of water molecules tumble in 3D, forming and breaking faint, dashed hydrogen bonds that flicker between molecules based on orientation and distance, with an on-screen counter of active hydrogen bonds updating in real time."
+    },
+    {
+      "number": "11",
+      "title": "Melting Crystal: Solid to Liquid Transition",
+      "description": "A neatly arranged crystal lattice of atoms connected by faint bonds is slowly heated by raising a temperature bar, causing atoms to vibrate more strongly until bonds loosen and the structure collapses into a flowing, disordered liquid cluster.",
+      "seed": "Melting Crystal: Solid to Liquid Transition: A neatly arranged crystal lattice of atoms connected by faint bonds is slowly heated by raising a temperature bar, causing atoms to vibrate more strongly until bonds loosen and the structure collapses into a flowing, disordered liquid cluster."
+    },
+    {
+      "number": "12",
+      "title": "Atomic Orbital Shells and Electron Sharing",
+      "description": "A few atoms with semi-transparent concentric shells show electrons as small orbiting particles; when atoms approach, some electrons shift to shared paths between nuclei, visualizing covalent bonds as bright shared orbital tubes.",
+      "seed": "Atomic Orbital Shells and Electron Sharing: A few atoms with semi-transparent concentric shells show electrons as small orbiting particles; when atoms approach, some electrons shift to shared paths between nuclei, visualizing covalent bonds as bright shared orbital tubes."
+    },
+    {
+      "number": "13",
+      "title": "Metallic Bonding Sea of Electrons",
+      "description": "Positive metal ions sit in a fixed lattice while a cloud of tiny electron particles zips freely between them; when the user applies a virtual electric field vector, the electron cloud drifts in one direction, and bonds visually “tighten” or “loosen.”",
+      "seed": "Metallic Bonding Sea of Electrons: Positive metal ions sit in a fixed lattice while a cloud of tiny electron particles zips freely between them; when the user applies a virtual electric field vector, the electron cloud drifts in one direction, and bonds visually “tighten” or “loosen.”"
+    },
+    {
+      "number": "14",
+      "title": "Bonded Nanorobot Swarm Assembly",
+      "description": "Tiny mechanical “atoms” with specific bonding faces float in space; when compatible faces meet, they attach with a small glow and form larger geometric structures that can pivot at joints and reconfigure as bonds detach and reattach.",
+      "seed": "Bonded Nanorobot Swarm Assembly: Tiny mechanical “atoms” with specific bonding faces float in space; when compatible faces meet, they attach with a small glow and form larger geometric structures that can pivot at joints and reconfigure as bonds detach and reattach."
+    },
+    {
+      "number": "15",
+      "title": "Protein-Like Folding with Bond Constraints",
+      "description": "A chain of colored spheres connected by flexible bonds folds in 3D, with certain pairs forming temporary “hydrogen bonds” that pull segments together, while the chain wiggles, compacts, and occasionally unfolds if the user adds kinetic “heat.”",
+      "seed": "Protein-Like Folding with Bond Constraints: A chain of colored spheres connected by flexible bonds folds in 3D, with certain pairs forming temporary “hydrogen bonds” that pull segments together, while the chain wiggles, compacts, and occasionally unfolds if the user adds kinetic “heat.”"
+    },
+    {
+      "number": "16",
+      "title": "Chemical Reaction Collision Arena",
+      "description": "Reactant atoms and small molecules fly around in a transparent arena; when specific colored groups collide with enough speed and correct orientation, old bonds fade and new ones appear, releasing spark particles and updating product labels.",
+      "seed": "Chemical Reaction Collision Arena: Reactant atoms and small molecules fly around in a transparent arena; when specific colored groups collide with enough speed and correct orientation, old bonds fade and new ones appear, releasing spark particles and updating product labels."
+    },
+    {
+      "number": "17",
+      "title": "Bond Strength vs. Distance Potential Well",
+      "description": "A single atom pair is connected by a spring-like bond, and the user can drag one atom away; a graph panel shows the potential energy curve while the bond line color and thickness change, snapping when stretched beyond a threshold.",
+      "seed": "Bond Strength vs. Distance Potential Well: A single atom pair is connected by a spring-like bond, and the user can drag one atom away; a graph panel shows the potential energy curve while the bond line color and thickness change, snapping when stretched beyond a threshold."
+    },
+    {
+      "number": "18",
+      "title": "Atomic Network Under Shear Stress",
+      "description": "A 3D network of atoms connected by bonds is confined between two parallel plates; as the top plate slowly slides sideways, bonds tilt, some break and reattach elsewhere, and dislocations ripple through the network as colored fault lines.",
+      "seed": "Atomic Network Under Shear Stress: A 3D network of atoms connected by bonds is confined between two parallel plates; as the top plate slowly slides sideways, bonds tilt, some break and reattach elsewhere, and dislocations ripple through the network as colored fault lines."
+    },
+    {
+      "number": "19",
+      "title": "Self-Assembling Nanostructures",
+      "description": "Dozens of “patchy” particles with colored bonding patches float and rotate randomly; compatible patches snap together upon contact, gradually assembling into a target 3D shape such as a cube or ring, with ghost outlines showing the intended final form.",
+      "seed": "Self-Assembling Nanostructures: Dozens of “patchy” particles with colored bonding patches float and rotate randomly; compatible patches snap together upon contact, gradually assembling into a target 3D shape such as a cube or ring, with ghost outlines showing the intended final form."
+    },
+    {
+      "number": "20",
+      "title": "Bonding-Based Percolation Cluster",
+      "description": "Atoms appear one by one at random locations in a cube and form bonds if within a cutoff distance, building clusters that merge; the simulation highlights the first cluster that spans from one side of the cube to the opposite side with a bright color.",
+      "seed": "Bonding-Based Percolation Cluster: Atoms appear one by one at random locations in a cube and form bonds if within a cutoff distance, building clusters that merge; the simulation highlights the first cluster that spans from one side of the cube to the opposite side with a bright color."
+    },
+    {
+      "number": "21",
+      "title": "DNA Double Helix Bonding Model",
+      "description": "Two backbone chains of spheres are connected by base-pair “rungs” that form via bonding between complementary colored bases; hydrogen-bond-like connectors appear and disappear as the helix gently twists, untwists, and occasionally “unzips” from one end.",
+      "seed": "DNA Double Helix Bonding Model: Two backbone chains of spheres are connected by base-pair “rungs” that form via bonding between complementary colored bases; hydrogen-bond-like connectors appear and disappear as the helix gently twists, untwists, and occasionally “unzips” from one end."
+    },
+    {
+      "number": "22",
+      "title": "Adsorption of Gas Atoms on a Surface",
+      "description": "Gas atoms drift above a flat solid surface; when they land in specific lattice sites, they stick and form bonds, changing color to indicate adsorption, while some gain enough energy to detach and re-enter the gas phase.",
+      "seed": "Adsorption of Gas Atoms on a Surface: Gas atoms drift above a flat solid surface; when they land in specific lattice sites, they stick and form bonds, changing color to indicate adsorption, while some gain enough energy to detach and re-enter the gas phase."
+    },
+    {
+      "number": "23",
+      "title": "Cluster Growth vs. Fragmentation Balance",
+      "description": "A set of atoms and small clusters float and collide; low-speed collisions cause clusters to grow and bonds to form, while high-speed hits cause clusters to fragment and bonds to snap, with cluster size indicated by color gradients.",
+      "seed": "Cluster Growth vs. Fragmentation Balance: A set of atoms and small clusters float and collide; low-speed collisions cause clusters to grow and bonds to form, while high-speed hits cause clusters to fragment and bonds to snap, with cluster size indicated by color gradients."
+    },
+    {
+      "number": "24",
+      "title": "Magnet-Themed Bonding Playground",
+      "description": "Spherical “magnet atoms” with colored poles rotate and drift; opposite poles attract and form pivoting bonds that can swivel, while same poles repel and push atoms apart, with thin field lines briefly appearing during close approaches.",
+      "seed": "Magnet-Themed Bonding Playground: Spherical “magnet atoms” with colored poles rotate and drift; opposite poles attract and form pivoting bonds that can swivel, while same poles repel and push atoms apart, with thin field lines briefly appearing during close approaches."
+    },
+    {
+      "number": "25",
+      "title": "Social Bond Network as Atoms",
+      "description": "Person-like atoms with labels wander in a room; when they linger near each other, glowing “social bonds” form and strengthen (thickening and brightening), while distance and collisions with obstacles weaken or break bonds, updating a live connectivity map.",
+      "seed": "Social Bond Network as Atoms: Person-like atoms with labels wander in a room; when they linger near each other, glowing “social bonds” form and strengthen (thickening and brightening), while distance and collisions with obstacles weaken or break bonds, updating a live connectivity map."
+    }
+  ],
+  "raw_output": "Here are strong **Atoms and bonding simulation inputs** you can plug into your prompt:\n\n1. **Gas Atoms in a Box with Dynamic Bond Formation**\n   A set of colored spheres representing different atom types bounce inside a transparent box, occasionally colliding and forming or breaking glowing cylindrical “bonds” depending on speed and distance, with labels and short-lived particle bursts at each bond event.\n\n2. **Molecular Lattice Stretch and Break**\n   A 3D grid of atoms connected by spring-like bonds is slowly stretched by two transparent plates pulling opposite sides, showing bonds thinning, vibrating, snapping, and re-forming, with stress shown by bond color from blue (low) to red (high).\n\n3. **Crystallization from a Cooling Gas**\n   Free atoms drift randomly in a light-colored volume and, as a “temperature” slider is lowered, they begin to stick and align into a growing crystalline cluster, with new arrivals snapping into place and giving off small spark-like particles.\n\n4. **Ionic Bonding Between Two Charged Clouds**\n   Red positively charged ions and blue negatively charged ions float in separate transparent regions, then the barrier is removed so they accelerate toward each other, pair up into neutral units with bright links, and arrange into a simple ionic crystal.\n\n5. **Covalent Bond Angle and Rotation Explorer**\n   A central atom with multiple bonded neighbors is shown with adjustable bond angles and torsions controlled by sliders, causing the bonded atoms to smoothly rotate around bonds while bond angle markers and labels update in real time.\n\n6. **Simple Molecule Builder with Snap-to-Bond Sites**\n   Loose atoms of several types float gently until the user drags and drops them near a central structure, where they snap into discrete bonding positions, change color to indicate bond type, and display bond order labels and short-lived trails.\n\n7. **Vibrating Diatomic Molecule Gas**\n   Many diatomic molecules (two-atom pairs) move and collide in a box, each pair connected by a spring that continually stretches and compresses, with vibration amplitude increasing when molecules collide hard and decreasing when they exchange energy.\n\n8. **Bond Energy Meter with Laser Breaker**\n   A few simple molecules sit on a platform while a movable “laser beam” cylinder can be aimed at bonds; when the user increases laser intensity and hits a bond, it glows, stretches, breaks, and the fragments fly apart as a meter shows energy absorbed.\n\n9. **Polymer Chain Growth and Entanglement**\n   Monomer units drift near the end of a growing polymer chain; when they touch the active end, they attach and extend the chain, which snakes, coils, and entangles with other chains, with segments colored by age and occasional chain scission events.\n\n10. **Water Molecule Cluster with Hydrogen Bond Network**\n    Dozens of water molecules tumble in 3D, forming and breaking faint, dashed hydrogen bonds that flicker between molecules based on orientation and distance, with an on-screen counter of active hydrogen bonds updating in real time.\n\n11. **Melting Crystal: Solid to Liquid Transition**\n    A neatly arranged crystal lattice of atoms connected by faint bonds is slowly heated by raising a temperature bar, causing atoms to vibrate more strongly until bonds loosen and the structure collapses into a flowing, disordered liquid cluster.\n\n12. **Atomic Orbital Shells and Electron Sharing**\n    A few atoms with semi-transparent concentric shells show electrons as small orbiting particles; when atoms approach, some electrons shift to shared paths between nuclei, visualizing covalent bonds as bright shared orbital tubes.\n\n13. **Metallic Bonding Sea of Electrons**\n    Positive metal ions sit in a fixed lattice while a cloud of tiny electron particles zips freely between them; when the user applies a virtual electric field vector, the electron cloud drifts in one direction, and bonds visually “tighten” or “loosen.”\n\n14. **Bonded Nanorobot Swarm Assembly**\n    Tiny mechanical “atoms” with specific bonding faces float in space; when compatible faces meet, they attach with a small glow and form larger geometric structures that can pivot at joints and reconfigure as bonds detach and reattach.\n\n15. **Protein-Like Folding with Bond Constraints**\n    A chain of colored spheres connected by flexible bonds folds in 3D, with certain pairs forming temporary “hydrogen bonds” that pull segments together, while the chain wiggles, compacts, and occasionally unfolds if the user adds kinetic “heat.”\n\n16. **Chemical Reaction Collision Arena**\n    Reactant atoms and small molecules fly around in a transparent arena; when specific colored groups collide with enough speed and correct orientation, old bonds fade and new ones appear, releasing spark particles and updating product labels.\n\n17. **Bond Strength vs. Distance Potential Well**\n    A single atom pair is connected by a spring-like bond, and the user can drag one atom away; a graph panel shows the potential energy curve while the bond line color and thickness change, snapping when stretched beyond a threshold.\n\n18. **Atomic Network Under Shear Stress**\n    A 3D network of atoms connected by bonds is confined between two parallel plates; as the top plate slowly slides sideways, bonds tilt, some break and reattach elsewhere, and dislocations ripple through the network as colored fault lines.\n\n19. **Self-Assembling Nanostructures**\n    Dozens of “patchy” particles with colored bonding patches float and rotate randomly; compatible patches snap together upon contact, gradually assembling into a target 3D shape such as a cube or ring, with ghost outlines showing the intended final form.\n\n20. **Bonding-Based Percolation Cluster**\n    Atoms appear one by one at random locations in a cube and form bonds if within a cutoff distance, building clusters that merge; the simulation highlights the first cluster that spans from one side of the cube to the opposite side with a bright color.\n\n21. **DNA Double Helix Bonding Model**\n    Two backbone chains of spheres are connected by base-pair “rungs” that form via bonding between complementary colored bases; hydrogen-bond-like connectors appear and disappear as the helix gently twists, untwists, and occasionally “unzips” from one end.\n\n22. **Adsorption of Gas Atoms on a Surface**\n    Gas atoms drift above a flat solid surface; when they land in specific lattice sites, they stick and form bonds, changing color to indicate adsorption, while some gain enough energy to detach and re-enter the gas phase.\n\n23. **Cluster Growth vs. Fragmentation Balance**\n    A set of atoms and small clusters float and collide; low-speed collisions cause clusters to grow and bonds to form, while high-speed hits cause clusters to fragment and bonds to snap, with cluster size indicated by color gradients.\n\n24. **Magnet-Themed Bonding Playground**\n    Spherical “magnet atoms” with colored poles rotate and drift; opposite poles attract and form pivoting bonds that can swivel, while same poles repel and push atoms apart, with thin field lines briefly appearing during close approaches.\n\n25. **Social Bond Network as Atoms**\n    Person-like atoms with labels wander in a room; when they linger near each other, glowing “social bonds” form and strengthen (thickening and brightening), while distance and collisions with obstacles weaken or break bonds, updating a live connectivity map."
+}

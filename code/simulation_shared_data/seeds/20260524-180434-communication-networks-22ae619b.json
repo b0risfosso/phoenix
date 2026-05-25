@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Communication networks",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:04:34",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Packet Swarm in a 3D Router Cube",
+      "description": "A transparent cube represents a router, with colored spheres (packets) entering through labeled ports, bouncing through internal branching tubes, colliding at junctions, queuing, and exiting along glowing trails that change color if packets are delayed or dropped.",
+      "seed": "Packet Swarm in a 3D Router Cube: A transparent cube represents a router, with colored spheres (packets) entering through labeled ports, bouncing through internal branching tubes, colliding at junctions, queuing, and exiting along glowing trails that change color if packets are delayed or dropped."
+    },
+    {
+      "number": "2",
+      "title": "3D City Cellular Network with Moving Users",
+      "description": "A grid of buildings with tall cell towers on rooftops emits translucent cones of coverage while small spheres (users) walk and drive around, their connection lines snapping between towers, signal strength shown by line color and thickness, and handoffs visualized as glowing pulses that transfer from one tower to another.",
+      "seed": "3D City Cellular Network with Moving Users: A grid of buildings with tall cell towers on rooftops emits translucent cones of coverage while small spheres (users) walk and drive around, their connection lines snapping between towers, signal strength shown by line color and thickness, and handoffs visualized as glowing pulses that transfer from one tower to another."
+    },
+    {
+      "number": "3",
+      "title": "Undersea Fiber-Optic Cable System",
+      "description": "A light seabed with stationary undersea repeaters connected by slightly curved translucent tubes, where bright pulses travel along the cables, occasionally splitting at branching nodes, fading over distance, and being re-amplified with a flash at repeaters, while labels show latency that grows or shrinks dynamically.",
+      "seed": "Undersea Fiber-Optic Cable System: A light seabed with stationary undersea repeaters connected by slightly curved translucent tubes, where bright pulses travel along the cables, occasionally splitting at branching nodes, fading over distance, and being re-amplified with a flash at repeaters, while labels show latency that grows or shrinks dynamically."
+    },
+    {
+      "number": "4",
+      "title": "Satellite Constellation Internet Mesh",
+      "description": "Multiple satellites orbit a low Earth sphere in different planes, each with rotating solar panels and thin beams connecting them in a dynamic mesh, beams brightening when active data flows and dimming when idle, with packets represented as small glowing dots racing along the beams and occasionally rerouting around failed nodes.",
+      "seed": "Satellite Constellation Internet Mesh: Multiple satellites orbit a low Earth sphere in different planes, each with rotating solar panels and thin beams connecting them in a dynamic mesh, beams brightening when active data flows and dimming when idle, with packets represented as small glowing dots racing along the beams and occasionally rerouting around failed nodes."
+    },
+    {
+      "number": "5",
+      "title": "Neural Communication Network in a Transparent Brain Slice",
+      "description": "A semi-transparent brain-like volume filled with branching neuron tubes whose endpoints (synapses) are small spheres, where signals are glowing pulses that travel along branches, split, and merge, with synapses strengthening (growing) or weakening (shrinking and fading) based on how many pulses pass through.",
+      "seed": "Neural Communication Network in a Transparent Brain Slice: A semi-transparent brain-like volume filled with branching neuron tubes whose endpoints (synapses) are small spheres, where signals are glowing pulses that travel along branches, split, and merge, with synapses strengthening (growing) or weakening (shrinking and fading) based on how many pulses pass through."
+    },
+    {
+      "number": "6",
+      "title": "Office Wi-Fi Network with Interfering Devices",
+      "description": "A multi-room floor plan with desks and walls, routers as small towers emitting translucent spherical fields, devices as moving cubes that connect via thin beams, while interference sources (like microwaves) emit pulsing noisy clouds that distort or temporarily block beams, changing their color to indicate congestion.",
+      "seed": "Office Wi-Fi Network with Interfering Devices: A multi-room floor plan with desks and walls, routers as small towers emitting translucent spherical fields, devices as moving cubes that connect via thin beams, while interference sources (like microwaves) emit pulsing noisy clouds that distort or temporarily block beams, changing their color to indicate congestion."
+    },
+    {
+      "number": "7",
+      "title": "Air Traffic Communication and Control Network",
+      "description": "A 3D airspace with an airport, control tower, and multiple aircraft moving along flight paths, each connected by thin, color-coded communication lines to the tower and satellites, with message bursts as pulses traveling back and forth, and lines flickering or re-routing when a plane goes out of range or below the horizon.",
+      "seed": "Air Traffic Communication and Control Network: A 3D airspace with an airport, control tower, and multiple aircraft moving along flight paths, each connected by thin, color-coded communication lines to the tower and satellites, with message bursts as pulses traveling back and forth, and lines flickering or re-routing when a plane goes out of range or below the horizon."
+    },
+    {
+      "number": "8",
+      "title": "Swarm of Drones with Ad-Hoc Mesh Networking",
+      "description": "Many small quadcopter models fly in a volume, adjusting positions while maintaining line-of-sight links visualized as flexible, color-coded connecting segments that stretch, snap, and reattach as drones move, with packet “beads” traversing multi-hop routes and trails showing recent paths through the swarm.",
+      "seed": "Swarm of Drones with Ad-Hoc Mesh Networking: Many small quadcopter models fly in a volume, adjusting positions while maintaining line-of-sight links visualized as flexible, color-coded connecting segments that stretch, snap, and reattach as drones move, with packet “beads” traversing multi-hop routes and trails showing recent paths through the swarm."
+    },
+    {
+      "number": "9",
+      "title": "Microscopic Chemical Signaling Network Between Cells",
+      "description": "Several large transparent cell spheres float in fluid, exchanging glowing particle clouds through narrow channels and gaps, with particles diffusing, binding to receptors on membranes, then triggering internal pulses that travel along branching internal structures and eventually cause new particles to be emitted.",
+      "seed": "Microscopic Chemical Signaling Network Between Cells: Several large transparent cell spheres float in fluid, exchanging glowing particle clouds through narrow channels and gaps, with particles diffusing, binding to receptors on membranes, then triggering internal pulses that travel along branching internal structures and eventually cause new particles to be emitted."
+    },
+    {
+      "number": "10",
+      "title": "Internet Backbone with Dynamic Routing and Congestion",
+      "description": "A 3D map of major backbone routers as labeled nodes suspended over a light globe, interconnected by semi-transparent tubes, where packets are colored marbles that flow, queue, and sometimes collide at busy routers, with tube colors changing from green to red as load increases and routes dynamically change to bypass congestion.",
+      "seed": "Internet Backbone with Dynamic Routing and Congestion: A 3D map of major backbone routers as labeled nodes suspended over a light globe, interconnected by semi-transparent tubes, where packets are colored marbles that flow, queue, and sometimes collide at busy routers, with tube colors changing from green to red as load increases and routes dynamically change to bypass congestion."
+    },
+    {
+      "number": "11",
+      "title": "Emergency Response Radio Network in a City Grid",
+      "description": "A small city layout with fire trucks, ambulances, and police cars driving along roads, each vehicle emitting a pulsing communication sphere that overlaps with others and with fixed radio towers, showing active connections as solid beams, dropped links as fading segments, and priority messages as thicker, faster-moving pulses.",
+      "seed": "Emergency Response Radio Network in a City Grid: A small city layout with fire trucks, ambulances, and police cars driving along roads, each vehicle emitting a pulsing communication sphere that overlaps with others and with fixed radio towers, showing active connections as solid beams, dropped links as fading segments, and priority messages as thicker, faster-moving pulses."
+    },
+    {
+      "number": "12",
+      "title": "Peer-to-Peer File Sharing Network as Orbiting Nodes",
+      "description": "Dozens of nodes as spheres orbit a central hub in various rings, occasionally drifting closer or farther, connecting with thin bands that wrap between them; file chunks are small cubes that detach from one node, travel along bands, and merge into other nodes, with completed files shown as assembled, glowing cube clusters.",
+      "seed": "Peer-to-Peer File Sharing Network as Orbiting Nodes: Dozens of nodes as spheres orbit a central hub in various rings, occasionally drifting closer or farther, connecting with thin bands that wrap between them; file chunks are small cubes that detach from one node, travel along bands, and merge into other nodes, with completed files shown as assembled, glowing cube clusters."
+    },
+    {
+      "number": "13",
+      "title": "Social Media Message Propagation Through a 3D Network",
+      "description": "Labeled user avatars sit at nodes in a 3D graph, connected by thin gray edges; when one posts a message, a colored wavefront of pulses travels along edges, splitting at each junction, fading with distance, and occasionally “going viral” as pulses intensify, multiply, and light up more of the network with brighter colors.",
+      "seed": "Social Media Message Propagation Through a 3D Network: Labeled user avatars sit at nodes in a 3D graph, connected by thin gray edges; when one posts a message, a colored wavefront of pulses travels along edges, splitting at each junction, fading with distance, and occasionally “going viral” as pulses intensify, multiply, and light up more of the network with brighter colors."
+    },
+    {
+      "number": "14",
+      "title": "Ant Colony Pheromone Communication Network",
+      "description": "A light sandy ground hosts an anthill and scattered food sources; ants (tiny moving cylinders) leave faint colored trails (pheromone paths) as they walk, with trails growing brighter and thicker when reinforced by multiple ants and slowly evaporating (fading and shrinking) over time, guiding future ant movement.",
+      "seed": "Ant Colony Pheromone Communication Network: A light sandy ground hosts an anthill and scattered food sources; ants (tiny moving cylinders) leave faint colored trails (pheromone paths) as they walk, with trails growing brighter and thicker when reinforced by multiple ants and slowly evaporating (fading and shrinking) over time, guiding future ant movement."
+    },
+    {
+      "number": "15",
+      "title": "Data Center Rack and Switch Network",
+      "description": "Rows of server racks stand on a light floor, with blinking indicator lights and overhead cable trays; switches at the top of racks connect via bundled translucent cables, while packets appear as glowing dots that run along cable curves, split through aggregation switches, and bounce to new paths when a link “fails” and dims.",
+      "seed": "Data Center Rack and Switch Network: Rows of server racks stand on a light floor, with blinking indicator lights and overhead cable trays; switches at the top of racks connect via bundled translucent cables, while packets appear as glowing dots that run along cable curves, split through aggregation switches, and bounce to new paths when a link “fails” and dims."
+    },
+    {
+      "number": "16",
+      "title": "3D Bluetooth Device Discovery and Pairing Scene",
+      "description": "Multiple gadgets (phones, headphones, speakers, watches) float and move slowly in a room-sized space, each periodically emitting a scanning pulse sphere; when pulses intersect, temporary discovery lines appear, then solid paired links attach, with small data pulses traveling, and idle links slowly fading until they detach.",
+      "seed": "3D Bluetooth Device Discovery and Pairing Scene: Multiple gadgets (phones, headphones, speakers, watches) float and move slowly in a room-sized space, each periodically emitting a scanning pulse sphere; when pulses intersect, temporary discovery lines appear, then solid paired links attach, with small data pulses traveling, and idle links slowly fading until they detach."
+    },
+    {
+      "number": "17",
+      "title": "Forest Fungal Mycelium Communication Web",
+      "description": "Trees rise from a forest floor while a semi-transparent, branching white mycelium network spreads underground, wrapping around roots; nutrient and signal pulses travel along the fungal strands, branching and merging, with trees that receive more signals gradually glowing greener and stressed trees sending more urgent, red pulses.",
+      "seed": "Forest Fungal Mycelium Communication Web: Trees rise from a forest floor while a semi-transparent, branching white mycelium network spreads underground, wrapping around roots; nutrient and signal pulses travel along the fungal strands, branching and merging, with trees that receive more signals gradually glowing greener and stressed trees sending more urgent, red pulses."
+    },
+    {
+      "number": "18",
+      "title": "Vehicular Ad-Hoc Network on a 3D Highway Interchange",
+      "description": "Cars and trucks move along elevated, intersecting roads, each broadcasting a local communication bubble; messages like traffic alerts appear as colored icons above vehicles and propagate as pulses from car to car within overlapping bubbles, with alternative paths lighting up when vehicles reroute based on received information.",
+      "seed": "Vehicular Ad-Hoc Network on a 3D Highway Interchange: Cars and trucks move along elevated, intersecting roads, each broadcasting a local communication bubble; messages like traffic alerts appear as colored icons above vehicles and propagate as pulses from car to car within overlapping bubbles, with alternative paths lighting up when vehicles reroute based on received information."
+    },
+    {
+      "number": "19",
+      "title": "Brain-Computer Interface Signal Network",
+      "description": "A translucent human head model with visible brain regions and an external headset of electrodes; signals flow from electrodes into the brain as colored pulses, then along internal pathways between regions, and back out to a robotic arm that moves based on aggregated pulses, with link strengths indicated by brightness and thickness.",
+      "seed": "Brain-Computer Interface Signal Network: A translucent human head model with visible brain regions and an external headset of electrodes; signals flow from electrodes into the brain as colored pulses, then along internal pathways between regions, and back out to a robotic arm that moves based on aggregated pulses, with link strengths indicated by brightness and thickness."
+    },
+    {
+      "number": "20",
+      "title": "Packet Flood and Firewall Filtering Visualization",
+      "description": "A protected cube (secure network) is linked via a gateway plane (firewall) to a chaotic outside space where many colored packet spheres swarm; as they approach the gateway, some are allowed through, turning green and passing into the inner cube, while others bounce off, dissolve, or get redirected along side channels.",
+      "seed": "Packet Flood and Firewall Filtering Visualization: A protected cube (secure network) is linked via a gateway plane (firewall) to a chaotic outside space where many colored packet spheres swarm; as they approach the gateway, some are allowed through, turning green and passing into the inner cube, while others bounce off, dissolve, or get redirected along side channels."
+    },
+    {
+      "number": "21",
+      "title": "Optical Switching Fabric with Moving Mirrors",
+      "description": "A rectangular switching chamber contains movable mirror panels and fiber endpoints; light beams (data) enter, reflect off rotating mirrors, split through transparent prisms, and exit toward different fibers, with mirror angles continuously adjusting to reroute beams and beam thickness indicating bandwidth.",
+      "seed": "Optical Switching Fabric with Moving Mirrors: A rectangular switching chamber contains movable mirror panels and fiber endpoints; light beams (data) enter, reflect off rotating mirrors, split through transparent prisms, and exit toward different fibers, with mirror angles continuously adjusting to reroute beams and beam thickness indicating bandwidth."
+    },
+    {
+      "number": "22",
+      "title": "Satellite-to-Ground Weather Data Relay Network",
+      "description": "Weather balloons, ground stations, and satellites exist around a rotating Earth; balloons send periodic pulses upward to satellites, which then relay beams to various ground stations, with clouds and storms visualized as semi-transparent volumes that partially block or scatter beams, changing their intensity and path.",
+      "seed": "Satellite-to-Ground Weather Data Relay Network: Weather balloons, ground stations, and satellites exist around a rotating Earth; balloons send periodic pulses upward to satellites, which then relay beams to various ground stations, with clouds and storms visualized as semi-transparent volumes that partially block or scatter beams, changing their intensity and path."
+    },
+    {
+      "number": "23",
+      "title": "Swarm of Nanobots Communicating Inside a Blood Vessel",
+      "description": "A transparent tube represents a blood vessel, with red blood cells drifting along, while tiny nanobot spheres move actively, forming and breaking communication chains; chains are shown as bright linking segments transmitting pulses that coordinate bots to cluster, split, and surround target particles.",
+      "seed": "Swarm of Nanobots Communicating Inside a Blood Vessel: A transparent tube represents a blood vessel, with red blood cells drifting along, while tiny nanobot spheres move actively, forming and breaking communication chains; chains are shown as bright linking segments transmitting pulses that coordinate bots to cluster, split, and surround target particles."
+    },
+    {
+      "number": "24",
+      "title": "Warehouse Robot Fleet and Central Controller Network",
+      "description": "A large flat warehouse floor with shelves and paths where small robots move to pick items; each robot maintains a communication link to ceiling-mounted access points, with link quality visualized by color and thickness, and task messages as pulses that trigger robots to accelerate, slow, or reroute around congestion.",
+      "seed": "Warehouse Robot Fleet and Central Controller Network: A large flat warehouse floor with shelves and paths where small robots move to pick items; each robot maintains a communication link to ceiling-mounted access points, with link quality visualized by color and thickness, and task messages as pulses that trigger robots to accelerate, slow, or reroute around congestion."
+    },
+    {
+      "number": "25",
+      "title": "Quantum Communication Nodes with Entangled Pairs",
+      "description": "Several stationary quantum nodes are connected by semi-transparent tubes where entangled particle pairs are represented as twinned glowing spheres; when one sphere at a node changes state (color or spin icon), its partner at the distant node instantly updates, while classical control messages travel more slowly along separate beams.",
+      "seed": "Quantum Communication Nodes with Entangled Pairs: Several stationary quantum nodes are connected by semi-transparent tubes where entangled particle pairs are represented as twinned glowing spheres; when one sphere at a node changes state (color or spin icon), its partner at the distant node instantly updates, while classical control messages travel more slowly along separate beams."
+    }
+  ],
+  "raw_output": "Here are strong **Communication networks simulation inputs** you can plug into your prompt:\n\n1. **Packet Swarm in a 3D Router Cube**\n   A transparent cube represents a router, with colored spheres (packets) entering through labeled ports, bouncing through internal branching tubes, colliding at junctions, queuing, and exiting along glowing trails that change color if packets are delayed or dropped.\n\n2. **3D City Cellular Network with Moving Users**\n   A grid of buildings with tall cell towers on rooftops emits translucent cones of coverage while small spheres (users) walk and drive around, their connection lines snapping between towers, signal strength shown by line color and thickness, and handoffs visualized as glowing pulses that transfer from one tower to another.\n\n3. **Undersea Fiber-Optic Cable System**\n   A light seabed with stationary undersea repeaters connected by slightly curved translucent tubes, where bright pulses travel along the cables, occasionally splitting at branching nodes, fading over distance, and being re-amplified with a flash at repeaters, while labels show latency that grows or shrinks dynamically.\n\n4. **Satellite Constellation Internet Mesh**\n   Multiple satellites orbit a low Earth sphere in different planes, each with rotating solar panels and thin beams connecting them in a dynamic mesh, beams brightening when active data flows and dimming when idle, with packets represented as small glowing dots racing along the beams and occasionally rerouting around failed nodes.\n\n5. **Neural Communication Network in a Transparent Brain Slice**\n   A semi-transparent brain-like volume filled with branching neuron tubes whose endpoints (synapses) are small spheres, where signals are glowing pulses that travel along branches, split, and merge, with synapses strengthening (growing) or weakening (shrinking and fading) based on how many pulses pass through.\n\n6. **Office Wi-Fi Network with Interfering Devices**\n   A multi-room floor plan with desks and walls, routers as small towers emitting translucent spherical fields, devices as moving cubes that connect via thin beams, while interference sources (like microwaves) emit pulsing noisy clouds that distort or temporarily block beams, changing their color to indicate congestion.\n\n7. **Air Traffic Communication and Control Network**\n   A 3D airspace with an airport, control tower, and multiple aircraft moving along flight paths, each connected by thin, color-coded communication lines to the tower and satellites, with message bursts as pulses traveling back and forth, and lines flickering or re-routing when a plane goes out of range or below the horizon.\n\n8. **Swarm of Drones with Ad-Hoc Mesh Networking**\n   Many small quadcopter models fly in a volume, adjusting positions while maintaining line-of-sight links visualized as flexible, color-coded connecting segments that stretch, snap, and reattach as drones move, with packet “beads” traversing multi-hop routes and trails showing recent paths through the swarm.\n\n9. **Microscopic Chemical Signaling Network Between Cells**\n   Several large transparent cell spheres float in fluid, exchanging glowing particle clouds through narrow channels and gaps, with particles diffusing, binding to receptors on membranes, then triggering internal pulses that travel along branching internal structures and eventually cause new particles to be emitted.\n\n10. **Internet Backbone with Dynamic Routing and Congestion**\n    A 3D map of major backbone routers as labeled nodes suspended over a light globe, interconnected by semi-transparent tubes, where packets are colored marbles that flow, queue, and sometimes collide at busy routers, with tube colors changing from green to red as load increases and routes dynamically change to bypass congestion.\n\n11. **Emergency Response Radio Network in a City Grid**\n    A small city layout with fire trucks, ambulances, and police cars driving along roads, each vehicle emitting a pulsing communication sphere that overlaps with others and with fixed radio towers, showing active connections as solid beams, dropped links as fading segments, and priority messages as thicker, faster-moving pulses.\n\n12. **Peer-to-Peer File Sharing Network as Orbiting Nodes**\n    Dozens of nodes as spheres orbit a central hub in various rings, occasionally drifting closer or farther, connecting with thin bands that wrap between them; file chunks are small cubes that detach from one node, travel along bands, and merge into other nodes, with completed files shown as assembled, glowing cube clusters.\n\n13. **Social Media Message Propagation Through a 3D Network**\n    Labeled user avatars sit at nodes in a 3D graph, connected by thin gray edges; when one posts a message, a colored wavefront of pulses travels along edges, splitting at each junction, fading with distance, and occasionally “going viral” as pulses intensify, multiply, and light up more of the network with brighter colors.\n\n14. **Ant Colony Pheromone Communication Network**\n    A light sandy ground hosts an anthill and scattered food sources; ants (tiny moving cylinders) leave faint colored trails (pheromone paths) as they walk, with trails growing brighter and thicker when reinforced by multiple ants and slowly evaporating (fading and shrinking) over time, guiding future ant movement.\n\n15. **Data Center Rack and Switch Network**\n    Rows of server racks stand on a light floor, with blinking indicator lights and overhead cable trays; switches at the top of racks connect via bundled translucent cables, while packets appear as glowing dots that run along cable curves, split through aggregation switches, and bounce to new paths when a link “fails” and dims.\n\n16. **3D Bluetooth Device Discovery and Pairing Scene**\n    Multiple gadgets (phones, headphones, speakers, watches) float and move slowly in a room-sized space, each periodically emitting a scanning pulse sphere; when pulses intersect, temporary discovery lines appear, then solid paired links attach, with small data pulses traveling, and idle links slowly fading until they detach.\n\n17. **Forest Fungal Mycelium Communication Web**\n    Trees rise from a forest floor while a semi-transparent, branching white mycelium network spreads underground, wrapping around roots; nutrient and signal pulses travel along the fungal strands, branching and merging, with trees that receive more signals gradually glowing greener and stressed trees sending more urgent, red pulses.\n\n18. **Vehicular Ad-Hoc Network on a 3D Highway Interchange**\n    Cars and trucks move along elevated, intersecting roads, each broadcasting a local communication bubble; messages like traffic alerts appear as colored icons above vehicles and propagate as pulses from car to car within overlapping bubbles, with alternative paths lighting up when vehicles reroute based on received information.\n\n19. **Brain-Computer Interface Signal Network**\n    A translucent human head model with visible brain regions and an external headset of electrodes; signals flow from electrodes into the brain as colored pulses, then along internal pathways between regions, and back out to a robotic arm that moves based on aggregated pulses, with link strengths indicated by brightness and thickness.\n\n20. **Packet Flood and Firewall Filtering Visualization**\n    A protected cube (secure network) is linked via a gateway plane (firewall) to a chaotic outside space where many colored packet spheres swarm; as they approach the gateway, some are allowed through, turning green and passing into the inner cube, while others bounce off, dissolve, or get redirected along side channels.\n\n21. **Optical Switching Fabric with Moving Mirrors**\n    A rectangular switching chamber contains movable mirror panels and fiber endpoints; light beams (data) enter, reflect off rotating mirrors, split through transparent prisms, and exit toward different fibers, with mirror angles continuously adjusting to reroute beams and beam thickness indicating bandwidth.\n\n22. **Satellite-to-Ground Weather Data Relay Network**\n    Weather balloons, ground stations, and satellites exist around a rotating Earth; balloons send periodic pulses upward to satellites, which then relay beams to various ground stations, with clouds and storms visualized as semi-transparent volumes that partially block or scatter beams, changing their intensity and path.\n\n23. **Swarm of Nanobots Communicating Inside a Blood Vessel**\n    A transparent tube represents a blood vessel, with red blood cells drifting along, while tiny nanobot spheres move actively, forming and breaking communication chains; chains are shown as bright linking segments transmitting pulses that coordinate bots to cluster, split, and surround target particles.\n\n24. **Warehouse Robot Fleet and Central Controller Network**\n    A large flat warehouse floor with shelves and paths where small robots move to pick items; each robot maintains a communication link to ceiling-mounted access points, with link quality visualized by color and thickness, and task messages as pulses that trigger robots to accelerate, slow, or reroute around congestion.\n\n25. **Quantum Communication Nodes with Entangled Pairs**\n    Several stationary quantum nodes are connected by semi-transparent tubes where entangled particle pairs are represented as twinned glowing spheres; when one sphere at a node changes state (color or spin icon), its partner at the distant node instantly updates, while classical control messages travel more slowly along separate beams."
+}

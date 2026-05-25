@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Cellular automata",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:01:57",
+  "entries": [
+    {
+      "number": "1",
+      "title": "3D Game of Life Crystal Lattice",
+      "description": "A transparent 3D grid of small cubes floats in space where each cube turns on/off, grows/shrinks, and changes color based on neighboring “alive” cubes, with faint grid lines, generation counters, and trails marking recently born or dying cells.",
+      "seed": "3D Game of Life Crystal Lattice: A transparent 3D grid of small cubes floats in space where each cube turns on/off, grows/shrinks, and changes color based on neighboring “alive” cubes, with faint grid lines, generation counters, and trails marking recently born or dying cells."
+    },
+    {
+      "number": "2",
+      "title": "Diffusing Chemical Automaton in a Glass Cube",
+      "description": "A clear glass cube contains a 3D lattice of tiny spheres that change color and size according to local reaction–diffusion rules, with particles that emit from “excited” cells, slowly drift, and influence neighboring cells’ states.",
+      "seed": "Diffusing Chemical Automaton in a Glass Cube: A clear glass cube contains a 3D lattice of tiny spheres that change color and size according to local reaction–diffusion rules, with particles that emit from “excited” cells, slowly drift, and influence neighboring cells’ states."
+    },
+    {
+      "number": "3",
+      "title": "Urban Growth Cellular Automata Cityscape",
+      "description": "A flat terrain hosts a 3D cellular grid where cells can grow into buildings, roads, and parks over time based on neighboring land-use states, with building blocks extruding upward, roads connecting, and labels tracking density and growth fronts.",
+      "seed": "Urban Growth Cellular Automata Cityscape: A flat terrain hosts a 3D cellular grid where cells can grow into buildings, roads, and parks over time based on neighboring land-use states, with building blocks extruding upward, roads connecting, and labels tracking density and growth fronts."
+    },
+    {
+      "number": "4",
+      "title": "Forest Fire Spread in 3D Terrain",
+      "description": "A voxel forest on rolling hills simulates a 3D cellular automaton fire model where trees ignite, burn, and leave ash, with flames as glowing orange/red cubes, smoke particles rising, wind arrows affecting spread, and a side meter showing burned area.",
+      "seed": "Forest Fire Spread in 3D Terrain: A voxel forest on rolling hills simulates a 3D cellular automaton fire model where trees ignite, burn, and leave ash, with flames as glowing orange/red cubes, smoke particles rising, wind arrows affecting spread, and a side meter showing burned area."
+    },
+    {
+      "number": "5",
+      "title": "Crystal Growth in a Supercooled Liquid",
+      "description": "A transparent tank filled with faint blue “liquid” voxels runs a cellular automaton where crystal cells nucleate, attach, and branch outward in 3D, with growing crystalline structures turning white and reflective while dissolved cells fade away.",
+      "seed": "Crystal Growth in a Supercooled Liquid: A transparent tank filled with faint blue “liquid” voxels runs a cellular automaton where crystal cells nucleate, attach, and branch outward in 3D, with growing crystalline structures turning white and reflective while dissolved cells fade away."
+    },
+    {
+      "number": "6",
+      "title": "3D Disease Spread Through a Crowd",
+      "description": "Spheres representing people stand on a grid of floor tiles (cells) whose states reflect local infection risk; individuals move randomly while floor cells update via a CA rule (safe, exposed, contaminated), with color-coded infection halos and trails.",
+      "seed": "3D Disease Spread Through a Crowd: Spheres representing people stand on a grid of floor tiles (cells) whose states reflect local infection risk; individuals move randomly while floor cells update via a CA rule (safe, exposed, contaminated), with color-coded infection halos and trails."
+    },
+    {
+      "number": "7",
+      "title": "Conway’s Life on a Rotating Sphere",
+      "description": "A tessellated sphere is covered with triangular or hexagonal cells that turn on/off with Game of Life–style rules, the globe slowly rotates, active cells glow and leave short fading trails, and polar caps show aggregated activity intensity.",
+      "seed": "Conway’s Life on a Rotating Sphere: A tessellated sphere is covered with triangular or hexagonal cells that turn on/off with Game of Life–style rules, the globe slowly rotates, active cells glow and leave short fading trails, and polar caps show aggregated activity intensity."
+    },
+    {
+      "number": "8",
+      "title": "Traffic Flow Automaton in a Multi-Level Parking Tower",
+      "description": "Cars as small boxes move along lanes defined by grid cells in a multi-level open parking structure, where each cell updates between empty, reserved, blocked, and occupied, with ramps, braking collisions, and color-coded congestion.",
+      "seed": "Traffic Flow Automaton in a Multi-Level Parking Tower: Cars as small boxes move along lanes defined by grid cells in a multi-level open parking structure, where each cell updates between empty, reserved, blocked, and occupied, with ramps, braking collisions, and color-coded congestion."
+    },
+    {
+      "number": "9",
+      "title": "Sandpile Avalanche Automaton",
+      "description": "A mound of cubic “sand” cells on a platform updates via a sandpile CA: when local height exceeds a threshold, cubes topple to neighbors, triggering cascades; grains change color by height, and falling cells leave motion trails.",
+      "seed": "Sandpile Avalanche Automaton: A mound of cubic “sand” cells on a platform updates via a sandpile CA: when local height exceeds a threshold, cubes topple to neighbors, triggering cascades; grains change color by height, and falling cells leave motion trails."
+    },
+    {
+      "number": "10",
+      "title": "3D Reaction–Diffusion Coral Reef",
+      "description": "A seabed grid runs a 3D CA generating branching coral structures that grow, split, and dissolve based on local chemical-like rules, with semi-transparent blue water, drifting particle plankton, and corals changing color as they mature or die.",
+      "seed": "3D Reaction–Diffusion Coral Reef: A seabed grid runs a 3D CA generating branching coral structures that grow, split, and dissolve based on local chemical-like rules, with semi-transparent blue water, drifting particle plankton, and corals changing color as they mature or die."
+    },
+    {
+      "number": "11",
+      "title": "Cellular Automata Planet Weather System",
+      "description": "A rotating planet covered with hexagonal CA cells evolves clouds, high/low pressure zones, and storms; cloud cells puff upward, merge, and wrap around the sphere, with arrows indicating local wind vectors driven by the automaton state.",
+      "seed": "Cellular Automata Planet Weather System: A rotating planet covered with hexagonal CA cells evolves clouds, high/low pressure zones, and storms; cloud cells puff upward, merge, and wrap around the sphere, with arrows indicating local wind vectors driven by the automaton state."
+    },
+    {
+      "number": "12",
+      "title": "Neural Automaton Brain Slice",
+      "description": "A 3D block of semi-transparent tissue contains a lattice of neuron-like nodes that fire, recover, and rest according to local CA rules, with firing cells pulsing bright, sending glowing connections to neighbors, and waves propagating through the volume.",
+      "seed": "Neural Automaton Brain Slice: A 3D block of semi-transparent tissue contains a lattice of neuron-like nodes that fire, recover, and rest according to local CA rules, with firing cells pulsing bright, sending glowing connections to neighbors, and waves propagating through the volume."
+    },
+    {
+      "number": "13",
+      "title": "Growing City Blocks with Zoning Automata",
+      "description": "A square base divided into zoning cells (residential, commercial, industrial, park) updates via a CA, extruding color-coded building prisms that can merge into complexes, shrink, or vanish as zoning changes, with labels for block types and height.",
+      "seed": "Growing City Blocks with Zoning Automata: A square base divided into zoning cells (residential, commercial, industrial, park) updates via a CA, extruding color-coded building prisms that can merge into complexes, shrink, or vanish as zoning changes, with labels for block types and height."
+    },
+    {
+      "number": "14",
+      "title": "Lava Flow and Cooling Automaton on a Volcano",
+      "description": "A conical volcano mesh is overlaid with cells that transition from hot flowing lava to cooling crust based on neighbors and slope, with molten regions glowing orange, slowly creeping downward, crust darkening, and steam particles rising at boundaries.",
+      "seed": "Lava Flow and Cooling Automaton on a Volcano: A conical volcano mesh is overlaid with cells that transition from hot flowing lava to cooling crust based on neighbors and slope, with molten regions glowing orange, slowly creeping downward, crust darkening, and steam particles rising at boundaries."
+    },
+    {
+      "number": "15",
+      "title": "3D Maze Carving Cellular Automaton",
+      "description": "A solid block of small cubes starts filled and a CA rule carves tunnels and chambers over time, with active carving fronts glowing and leaving dust particles, while a small sphere “drone” navigates the evolving maze with a visible path trail.",
+      "seed": "3D Maze Carving Cellular Automaton: A solid block of small cubes starts filled and a CA rule carves tunnels and chambers over time, with active carving fronts glowing and leaving dust particles, while a small sphere “drone” navigates the evolving maze with a visible path trail."
+    },
+    {
+      "number": "16",
+      "title": "Cellular Automata-Based Flocking Volume",
+      "description": "A cubic space contains many small agents (spheres) whose movement and state follow a CA defined on a coarse 3D grid; grid cells switch between attract, repel, and neutral modes, causing flocks to split, merge, and swirl around invisible CA fields.",
+      "seed": "Cellular Automata-Based Flocking Volume: A cubic space contains many small agents (spheres) whose movement and state follow a CA defined on a coarse 3D grid; grid cells switch between attract, repel, and neutral modes, causing flocks to split, merge, and swirl around invisible CA fields."
+    },
+    {
+      "number": "17",
+      "title": "Ice Crystal Melting Automaton on a Window Pane",
+      "description": "A vertical glass pane with a 2.5D grid of ice cells melts and refreezes according to CA rules and simulated temperature, with ice branching, merging, dripping downward as droplets, and transparent water streaks marking melt paths.",
+      "seed": "Ice Crystal Melting Automaton on a Window Pane: A vertical glass pane with a 2.5D grid of ice cells melts and refreezes according to CA rules and simulated temperature, with ice branching, merging, dripping downward as droplets, and transparent water streaks marking melt paths."
+    },
+    {
+      "number": "18",
+      "title": "Societal Opinion Cellular Automaton Tower",
+      "description": "A 3D tower of stacked grids represents layers of a society; each cell is a person whose opinion state changes with neighbors and adjacent floors, with cells changing color, clustering, and occasionally “flashing” when local consensus flips.",
+      "seed": "Societal Opinion Cellular Automaton Tower: A 3D tower of stacked grids represents layers of a society; each cell is a person whose opinion state changes with neighbors and adjacent floors, with cells changing color, clustering, and occasionally “flashing” when local consensus flips."
+    },
+    {
+      "number": "19",
+      "title": "Cellular Automata Garden of Competing Species",
+      "description": "A flat garden bed grid hosts colored plant patches that grow, compete, and recede according to CA rules, with plants extruding upward as stalks, spreading sideways, wilting, and dropping particle “seeds” that influence future states.",
+      "seed": "Cellular Automata Garden of Competing Species: A flat garden bed grid hosts colored plant patches that grow, compete, and recede according to CA rules, with plants extruding upward as stalks, spreading sideways, wilting, and dropping particle “seeds” that influence future states."
+    },
+    {
+      "number": "20",
+      "title": "3D Predator–Prey Cellular Automaton Ocean",
+      "description": "A water volume is discretized into cells holding prey, predators, or empty water; creatures are shown as small fish and sharks that appear/disappear and move as the CA updates, with trails showing migration paths and density heatmaps on the walls.",
+      "seed": "3D Predator–Prey Cellular Automaton Ocean: A water volume is discretized into cells holding prey, predators, or empty water; creatures are shown as small fish and sharks that appear/disappear and move as the CA updates, with trails showing migration paths and density heatmaps on the walls."
+    },
+    {
+      "number": "21",
+      "title": "Cellular Automata Music Cube",
+      "description": "A transparent cube holds a 3D grid where active cells light up and emit musical notes based on their state and neighborhood, with patterns of pulsing color planes, rotating camera views, and a side panel showing the evolving rule-based “score.”",
+      "seed": "Cellular Automata Music Cube: A transparent cube holds a 3D grid where active cells light up and emit musical notes based on their state and neighborhood, with patterns of pulsing color planes, rotating camera views, and a side panel showing the evolving rule-based “score.”"
+    },
+    {
+      "number": "22",
+      "title": "Morphing Terrain Using Cellular Erosion Automata",
+      "description": "A voxel terrain runs a CA erosion model where high cells crumble and transfer material downslope, valleys fill, and rivers carve paths, with flowing water particles, changing elevation colors, and a time slider to replay the terrain’s evolution.",
+      "seed": "Morphing Terrain Using Cellular Erosion Automata: A voxel terrain runs a CA erosion model where high cells crumble and transfer material downslope, valleys fill, and rivers carve paths, with flowing water particles, changing elevation colors, and a time slider to replay the terrain’s evolution."
+    },
+    {
+      "number": "23",
+      "title": "Self-Repairing Space Hull Automaton",
+      "description": "A section of spaceship hull is modeled as a 3D grid of structural cells that can be intact, damaged, or repairing; impacts create holes, repair nanobots as tiny moving particles follow CA-based propagation rules, and damaged regions gradually refill.",
+      "seed": "Self-Repairing Space Hull Automaton: A section of spaceship hull is modeled as a 3D grid of structural cells that can be intact, damaged, or repairing; impacts create holes, repair nanobots as tiny moving particles follow CA-based propagation rules, and damaged regions gradually refill."
+    },
+    {
+      "number": "24",
+      "title": "Cellular Automata Flame in a Lantern",
+      "description": "Inside a glass lantern, a 3D CA controls flame voxels that flicker, rise, split, and merge, with heat cells affecting brightness and color, smoke particles swirling above, and the lantern frame remaining stationary against a light background.",
+      "seed": "Cellular Automata Flame in a Lantern: Inside a glass lantern, a 3D CA controls flame voxels that flicker, rise, split, and merge, with heat cells affecting brightness and color, smoke particles swirling above, and the lantern frame remaining stationary against a light background."
+    },
+    {
+      "number": "25",
+      "title": "Turing Pattern Cellular Automaton on a Rotating Torus",
+      "description": "A torus surface is covered with a fine grid of cells whose states generate shifting Turing-like stripe and spot patterns that wrap seamlessly, with the torus slowly rotating, patterns pulsing or drifting, and a color bar indicating cell state values.",
+      "seed": "Turing Pattern Cellular Automaton on a Rotating Torus: A torus surface is covered with a fine grid of cells whose states generate shifting Turing-like stripe and spot patterns that wrap seamlessly, with the torus slowly rotating, patterns pulsing or drifting, and a color bar indicating cell state values."
+    }
+  ],
+  "raw_output": "Here are strong **Cellular automata simulation inputs** you can plug into your prompt:\n\n1. **3D Game of Life Crystal Lattice**\n   A transparent 3D grid of small cubes floats in space where each cube turns on/off, grows/shrinks, and changes color based on neighboring “alive” cubes, with faint grid lines, generation counters, and trails marking recently born or dying cells.\n\n2. **Diffusing Chemical Automaton in a Glass Cube**\n   A clear glass cube contains a 3D lattice of tiny spheres that change color and size according to local reaction–diffusion rules, with particles that emit from “excited” cells, slowly drift, and influence neighboring cells’ states.\n\n3. **Urban Growth Cellular Automata Cityscape**\n   A flat terrain hosts a 3D cellular grid where cells can grow into buildings, roads, and parks over time based on neighboring land-use states, with building blocks extruding upward, roads connecting, and labels tracking density and growth fronts.\n\n4. **Forest Fire Spread in 3D Terrain**\n   A voxel forest on rolling hills simulates a 3D cellular automaton fire model where trees ignite, burn, and leave ash, with flames as glowing orange/red cubes, smoke particles rising, wind arrows affecting spread, and a side meter showing burned area.\n\n5. **Crystal Growth in a Supercooled Liquid**\n   A transparent tank filled with faint blue “liquid” voxels runs a cellular automaton where crystal cells nucleate, attach, and branch outward in 3D, with growing crystalline structures turning white and reflective while dissolved cells fade away.\n\n6. **3D Disease Spread Through a Crowd**\n   Spheres representing people stand on a grid of floor tiles (cells) whose states reflect local infection risk; individuals move randomly while floor cells update via a CA rule (safe, exposed, contaminated), with color-coded infection halos and trails.\n\n7. **Conway’s Life on a Rotating Sphere**\n   A tessellated sphere is covered with triangular or hexagonal cells that turn on/off with Game of Life–style rules, the globe slowly rotates, active cells glow and leave short fading trails, and polar caps show aggregated activity intensity.\n\n8. **Traffic Flow Automaton in a Multi-Level Parking Tower**\n   Cars as small boxes move along lanes defined by grid cells in a multi-level open parking structure, where each cell updates between empty, reserved, blocked, and occupied, with ramps, braking collisions, and color-coded congestion.\n\n9. **Sandpile Avalanche Automaton**\n   A mound of cubic “sand” cells on a platform updates via a sandpile CA: when local height exceeds a threshold, cubes topple to neighbors, triggering cascades; grains change color by height, and falling cells leave motion trails.\n\n10. **3D Reaction–Diffusion Coral Reef**\n   A seabed grid runs a 3D CA generating branching coral structures that grow, split, and dissolve based on local chemical-like rules, with semi-transparent blue water, drifting particle plankton, and corals changing color as they mature or die.\n\n11. **Cellular Automata Planet Weather System**\n   A rotating planet covered with hexagonal CA cells evolves clouds, high/low pressure zones, and storms; cloud cells puff upward, merge, and wrap around the sphere, with arrows indicating local wind vectors driven by the automaton state.\n\n12. **Neural Automaton Brain Slice**\n   A 3D block of semi-transparent tissue contains a lattice of neuron-like nodes that fire, recover, and rest according to local CA rules, with firing cells pulsing bright, sending glowing connections to neighbors, and waves propagating through the volume.\n\n13. **Growing City Blocks with Zoning Automata**\n   A square base divided into zoning cells (residential, commercial, industrial, park) updates via a CA, extruding color-coded building prisms that can merge into complexes, shrink, or vanish as zoning changes, with labels for block types and height.\n\n14. **Lava Flow and Cooling Automaton on a Volcano**\n   A conical volcano mesh is overlaid with cells that transition from hot flowing lava to cooling crust based on neighbors and slope, with molten regions glowing orange, slowly creeping downward, crust darkening, and steam particles rising at boundaries.\n\n15. **3D Maze Carving Cellular Automaton**\n   A solid block of small cubes starts filled and a CA rule carves tunnels and chambers over time, with active carving fronts glowing and leaving dust particles, while a small sphere “drone” navigates the evolving maze with a visible path trail.\n\n16. **Cellular Automata-Based Flocking Volume**\n   A cubic space contains many small agents (spheres) whose movement and state follow a CA defined on a coarse 3D grid; grid cells switch between attract, repel, and neutral modes, causing flocks to split, merge, and swirl around invisible CA fields.\n\n17. **Ice Crystal Melting Automaton on a Window Pane**\n   A vertical glass pane with a 2.5D grid of ice cells melts and refreezes according to CA rules and simulated temperature, with ice branching, merging, dripping downward as droplets, and transparent water streaks marking melt paths.\n\n18. **Societal Opinion Cellular Automaton Tower**\n   A 3D tower of stacked grids represents layers of a society; each cell is a person whose opinion state changes with neighbors and adjacent floors, with cells changing color, clustering, and occasionally “flashing” when local consensus flips.\n\n19. **Cellular Automata Garden of Competing Species**\n   A flat garden bed grid hosts colored plant patches that grow, compete, and recede according to CA rules, with plants extruding upward as stalks, spreading sideways, wilting, and dropping particle “seeds” that influence future states.\n\n20. **3D Predator–Prey Cellular Automaton Ocean**\n   A water volume is discretized into cells holding prey, predators, or empty water; creatures are shown as small fish and sharks that appear/disappear and move as the CA updates, with trails showing migration paths and density heatmaps on the walls.\n\n21. **Cellular Automata Music Cube**\n   A transparent cube holds a 3D grid where active cells light up and emit musical notes based on their state and neighborhood, with patterns of pulsing color planes, rotating camera views, and a side panel showing the evolving rule-based “score.”\n\n22. **Morphing Terrain Using Cellular Erosion Automata**\n   A voxel terrain runs a CA erosion model where high cells crumble and transfer material downslope, valleys fill, and rivers carve paths, with flowing water particles, changing elevation colors, and a time slider to replay the terrain’s evolution.\n\n23. **Self-Repairing Space Hull Automaton**\n   A section of spaceship hull is modeled as a 3D grid of structural cells that can be intact, damaged, or repairing; impacts create holes, repair nanobots as tiny moving particles follow CA-based propagation rules, and damaged regions gradually refill.\n\n24. **Cellular Automata Flame in a Lantern**\n   Inside a glass lantern, a 3D CA controls flame voxels that flicker, rise, split, and merge, with heat cells affecting brightness and color, smoke particles swirling above, and the lantern frame remaining stationary against a light background.\n\n25. **Turing Pattern Cellular Automaton on a Rotating Torus**\n   A torus surface is covered with a fine grid of cells whose states generate shifting Turing-like stripe and spot patterns that wrap seamlessly, with the torus slowly rotating, patterns pulsing or drifting, and a color bar indicating cell state values."
+}

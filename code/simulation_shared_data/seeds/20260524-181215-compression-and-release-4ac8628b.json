@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Compression and release",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:12:15",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Spring-Loaded Piston Chamber",
+      "description": "A transparent cylinder with a sliding piston compresses colorful gas particles into a tight cluster, then releases them to expand with bouncing collisions, pressure gauges, and trailing particle paths.",
+      "seed": "Spring-Loaded Piston Chamber: A transparent cylinder with a sliding piston compresses colorful gas particles into a tight cluster, then releases them to expand with bouncing collisions, pressure gauges, and trailing particle paths."
+    },
+    {
+      "number": "2",
+      "title": "Accordion of Elastic Blocks",
+      "description": "A chain of bright elastic cubes along a line is compressed by two sliding end plates, storing energy as they squash and glow, then released to bounce, stretch, and send a visible compression wave along the chain.",
+      "seed": "Accordion of Elastic Blocks: A chain of bright elastic cubes along a line is compressed by two sliding end plates, storing energy as they squash and glow, then released to bounce, stretch, and send a visible compression wave along the chain."
+    },
+    {
+      "number": "3",
+      "title": "Stress Test of a Foam Cube",
+      "description": "A semi-transparent foam cube between two flat plates is slowly compressed, changing color from green to red to show stress distribution, then released to spring back with residual dents and labeled strain arrows.",
+      "seed": "Stress Test of a Foam Cube: A semi-transparent foam cube between two flat plates is slowly compressed, changing color from green to red to show stress distribution, then released to spring back with residual dents and labeled strain arrows."
+    },
+    {
+      "number": "4",
+      "title": "Traffic Jam and Release on a 3D Overpass",
+      "description": "Colored spherical “cars” move along elevated tracks, compress into a dense jam at a red-light barrier, then on green the barrier lifts and the cars accelerate, stretch out, and leave fading velocity trails.",
+      "seed": "Traffic Jam and Release on a 3D Overpass: Colored spherical “cars” move along elevated tracks, compress into a dense jam at a red-light barrier, then on green the barrier lifts and the cars accelerate, stretch out, and leave fading velocity trails."
+    },
+    {
+      "number": "5",
+      "title": "Slingshot Orbital Launcher",
+      "description": "A ring-shaped elastic band is stretched around a small planet, pulling back a projectile sphere; upon release the projectile whips around, gaining speed in a curved path and entering orbit with a glowing trajectory.",
+      "seed": "Slingshot Orbital Launcher: A ring-shaped elastic band is stretched around a small planet, pulling back a projectile sphere; upon release the projectile whips around, gaining speed in a curved path and entering orbit with a glowing trajectory."
+    },
+    {
+      "number": "6",
+      "title": "Compression Wave in a 3D Slinky",
+      "description": "A vertical helical spring is tapped at the top to send a visible compression pulse down the coils, which then reflects off the ground and releases upward, with the coils changing color where they compress.",
+      "seed": "Compression Wave in a 3D Slinky: A vertical helical spring is tapped at the top to send a visible compression pulse down the coils, which then reflects off the ground and releases upward, with the coils changing color where they compress."
+    },
+    {
+      "number": "7",
+      "title": "Hydraulic Press Crushing and Releasing a Stack of Spheres",
+      "description": "A hydraulic press with a labeled force meter compresses a stack of soft, colored spheres into flattened disks, then slowly releases pressure, letting them partially recover shape and roll away with elastic collisions.",
+      "seed": "Hydraulic Press Crushing and Releasing a Stack of Spheres: A hydraulic press with a labeled force meter compresses a stack of soft, colored spheres into flattened disks, then slowly releases pressure, letting them partially recover shape and roll away with elastic collisions."
+    },
+    {
+      "number": "8",
+      "title": "Lung Alveoli Breathing Cycle",
+      "description": "A cluster of semi-transparent spherical sacs attached to a trachea tube cyclically compresses and expands in a breathing rhythm, with blue and red particles flowing in and out to show gas exchange during release.",
+      "seed": "Lung Alveoli Breathing Cycle: A cluster of semi-transparent spherical sacs attached to a trachea tube cyclically compresses and expands in a breathing rhythm, with blue and red particles flowing in and out to show gas exchange during release."
+    },
+    {
+      "number": "9",
+      "title": "Tectonic Fault Lock and Slip",
+      "description": "Two interlocking rock slabs pressed together by arrows of force gradually compress elastic “springs” along the fault, then suddenly release in a slip event where the blocks jerk, radiating seismic waves as expanding rings.",
+      "seed": "Tectonic Fault Lock and Slip: Two interlocking rock slabs pressed together by arrows of force gradually compress elastic “springs” along the fault, then suddenly release in a slip event where the blocks jerk, radiating seismic waves as expanding rings."
+    },
+    {
+      "number": "10",
+      "title": "Compressed Air Cannon Launch",
+      "description": "A transparent barrel fills with dense, bouncing air particles as a piston moves in and a pressure gauge rises; on release a ball is shot out, leaving a particle jet and a fading shockwave sphere.",
+      "seed": "Compressed Air Cannon Launch: A transparent barrel fills with dense, bouncing air particles as a piston moves in and a pressure gauge rises; on release a ball is shot out, leaving a particle jet and a fading shockwave sphere."
+    },
+    {
+      "number": "11",
+      "title": "Memory Foam Mattress Cross-Section",
+      "description": "A human-shaped rigid form slowly descends into a foam block, compressing layers that change color with depth, then lifts away, showing the foam’s slow release as it gradually returns to its original shape.",
+      "seed": "Memory Foam Mattress Cross-Section: A human-shaped rigid form slowly descends into a foam block, compressing layers that change color with depth, then lifts away, showing the foam’s slow release as it gradually returns to its original shape."
+    },
+    {
+      "number": "12",
+      "title": "Binary Data Compression and Expansion Blocks",
+      "description": "A stream of small data cubes flows into a “compression chamber” where they merge into fewer labeled blocks with glowing connection lines, then later pass into a “decompressor” that releases and replicates them back into the original pattern.",
+      "seed": "Binary Data Compression and Expansion Blocks: A stream of small data cubes flows into a “compression chamber” where they merge into fewer labeled blocks with glowing connection lines, then later pass into a “decompressor” that releases and replicates them back into the original pattern."
+    },
+    {
+      "number": "13",
+      "title": "Bouncing Ball on a Compressible Trampoline",
+      "description": "A ball drops onto a circular trampoline membrane that depresses and changes color where compressed, then springs back, launching the ball higher, with trails showing energy transfer on each impact and release.",
+      "seed": "Bouncing Ball on a Compressible Trampoline: A ball drops onto a circular trampoline membrane that depresses and changes color where compressed, then springs back, launching the ball higher, with trails showing energy transfer on each impact and release."
+    },
+    {
+      "number": "14",
+      "title": "Magma Chamber Pressure Build and Eruption",
+      "description": "A subsurface magma reservoir fills with glowing red-orange fluid and gas bubbles that compress under a solid rock cap; when pressure surpasses a meter threshold, the cap fractures and releases a fountain of particles and flowing lava.",
+      "seed": "Magma Chamber Pressure Build and Eruption: A subsurface magma reservoir fills with glowing red-orange fluid and gas bubbles that compress under a solid rock cap; when pressure surpasses a meter threshold, the cap fractures and releases a fountain of particles and flowing lava."
+    },
+    {
+      "number": "15",
+      "title": "3D Spring-Mass Lattice Under Load",
+      "description": "A cubic lattice of balls connected by springs is compressed from the top by a flat plate, deforming the structure and highlighting stressed springs in red, then released to oscillate and gradually settle.",
+      "seed": "3D Spring-Mass Lattice Under Load: A cubic lattice of balls connected by springs is compressed from the top by a flat plate, deforming the structure and highlighting stressed springs in red, then released to oscillate and gradually settle."
+    },
+    {
+      "number": "16",
+      "title": "Air Brake Compression in a Train Car",
+      "description": "Cylindrical air tanks on a train car fill with compressed air (particle density increases, color intensifies) when the pump runs, then release air into brake cylinders that extend pistons to press glowing brake pads onto wheels.",
+      "seed": "Air Brake Compression in a Train Car: Cylindrical air tanks on a train car fill with compressed air (particle density increases, color intensifies) when the pump runs, then release air into brake cylinders that extend pistons to press glowing brake pads onto wheels."
+    },
+    {
+      "number": "17",
+      "title": "Sponge Absorbing and Releasing Water",
+      "description": "A porous block (sponge) is submerged in a pool, drawing in blue water particles that compress into its pores, then as a plate squeezes it, water jets out in streams and droplets, with particles bouncing and splashing.",
+      "seed": "Sponge Absorbing and Releasing Water: A porous block (sponge) is submerged in a pool, drawing in blue water particles that compress into its pores, then as a plate squeezes it, water jets out in streams and droplets, with particles bouncing and splashing."
+    },
+    {
+      "number": "18",
+      "title": "Concert Crowd Compression at a Barrier",
+      "description": "Small humanoid figures drift toward a stage barrier and compress into a dense crowd region with changing color density, then gates on the sides open to release them as they spread out, leaving faint path trails.",
+      "seed": "Concert Crowd Compression at a Barrier: Small humanoid figures drift toward a stage barrier and compress into a dense crowd region with changing color density, then gates on the sides open to release them as they spread out, leaving faint path trails."
+    },
+    {
+      "number": "19",
+      "title": "Coiled Rope Winch and Snapback",
+      "description": "A rope wound around a drum is slowly pulled and compressed into tight coils, with tension displayed as a color gradient; when the clamp releases, the drum spins back, the rope unwraps, and the free end whips with a trailing curve.",
+      "seed": "Coiled Rope Winch and Snapback: A rope wound around a drum is slowly pulled and compressed into tight coils, with tension displayed as a color gradient; when the clamp releases, the drum spins back, the rope unwraps, and the free end whips with a trailing curve."
+    },
+    {
+      "number": "20",
+      "title": "Compressor and Balloon Network",
+      "description": "A motor-driven piston compresses air into a central tank, then valves open to inflate several semi-transparent balloons connected by tubes, which expand, jiggle, and finally release air in jets that propel them around.",
+      "seed": "Compressor and Balloon Network: A motor-driven piston compresses air into a central tank, then valves open to inflate several semi-transparent balloons connected by tubes, which expand, jiggle, and finally release air in jets that propel them around."
+    },
+    {
+      "number": "21",
+      "title": "Bubble Wrap Under Rolling Cylinder",
+      "description": "A transparent rolling cylinder moves over a sheet of spherical “bubbles” that compress and then pop, releasing small bursts of particles and sound markers, leaving flattened cells behind as the cylinder advances.",
+      "seed": "Bubble Wrap Under Rolling Cylinder: A transparent rolling cylinder moves over a sheet of spherical “bubbles” that compress and then pop, releasing small bursts of particles and sound markers, leaving flattened cells behind as the cylinder advances."
+    },
+    {
+      "number": "22",
+      "title": "Cardiac Ventricles Compression and Blood Release",
+      "description": "Two semi-transparent heart ventricles rhythmically contract, compressing red particle “blood” and pushing it through branching vessels, then relax to refill, with arrows and color changes indicating pressure during each phase.",
+      "seed": "Cardiac Ventricles Compression and Blood Release: Two semi-transparent heart ventricles rhythmically contract, compressing red particle “blood” and pushing it through branching vessels, then relax to refill, with arrows and color changes indicating pressure during each phase."
+    },
+    {
+      "number": "23",
+      "title": "Snowpack Compression and Avalanche Release",
+      "description": "Layered snow slabs on a slope compress under gradually increasing overburden (thickening arrows), then a weak layer fails and the upper block detaches, sliding down as a churning particle avalanche leaving a stripped path.",
+      "seed": "Snowpack Compression and Avalanche Release: Layered snow slabs on a slope compress under gradually increasing overburden (thickening arrows), then a weak layer fails and the upper block detaches, sliding down as a churning particle avalanche leaving a stripped path."
+    },
+    {
+      "number": "24",
+      "title": "Industrial Trash Compactor",
+      "description": "A rectangular bin fills with irregular boxes and cylinders that jiggle into place; a large plate compresses them into a tight block, then retracts so the compacted bale can slide out and detach onto a conveyor.",
+      "seed": "Industrial Trash Compactor: A rectangular bin fills with irregular boxes and cylinders that jiggle into place; a large plate compresses them into a tight block, then retracts so the compacted bale can slide out and detach onto a conveyor."
+    },
+    {
+      "number": "25",
+      "title": "Sound Wave Compression-Release Tube",
+      "description": "A long transparent tube filled with small air particles shows a pulsing piston at one end generating alternating compression and rarefaction regions, visualized as dense and sparse bands moving down the tube with dynamic color shifts.",
+      "seed": "Sound Wave Compression-Release Tube: A long transparent tube filled with small air particles shows a pulsing piston at one end generating alternating compression and rarefaction regions, visualized as dense and sparse bands moving down the tube with dynamic color shifts."
+    }
+  ],
+  "raw_output": "Here are strong **Compression and release simulation inputs** you can plug into your prompt:\n\n1. **Spring-Loaded Piston Chamber**\n   A transparent cylinder with a sliding piston compresses colorful gas particles into a tight cluster, then releases them to expand with bouncing collisions, pressure gauges, and trailing particle paths.\n\n2. **Accordion of Elastic Blocks**\n   A chain of bright elastic cubes along a line is compressed by two sliding end plates, storing energy as they squash and glow, then released to bounce, stretch, and send a visible compression wave along the chain.\n\n3. **Stress Test of a Foam Cube**\n   A semi-transparent foam cube between two flat plates is slowly compressed, changing color from green to red to show stress distribution, then released to spring back with residual dents and labeled strain arrows.\n\n4. **Traffic Jam and Release on a 3D Overpass**\n   Colored spherical “cars” move along elevated tracks, compress into a dense jam at a red-light barrier, then on green the barrier lifts and the cars accelerate, stretch out, and leave fading velocity trails.\n\n5. **Slingshot Orbital Launcher**\n   A ring-shaped elastic band is stretched around a small planet, pulling back a projectile sphere; upon release the projectile whips around, gaining speed in a curved path and entering orbit with a glowing trajectory.\n\n6. **Compression Wave in a 3D Slinky**\n   A vertical helical spring is tapped at the top to send a visible compression pulse down the coils, which then reflects off the ground and releases upward, with the coils changing color where they compress.\n\n7. **Hydraulic Press Crushing and Releasing a Stack of Spheres**\n   A hydraulic press with a labeled force meter compresses a stack of soft, colored spheres into flattened disks, then slowly releases pressure, letting them partially recover shape and roll away with elastic collisions.\n\n8. **Lung Alveoli Breathing Cycle**\n   A cluster of semi-transparent spherical sacs attached to a trachea tube cyclically compresses and expands in a breathing rhythm, with blue and red particles flowing in and out to show gas exchange during release.\n\n9. **Tectonic Fault Lock and Slip**\n   Two interlocking rock slabs pressed together by arrows of force gradually compress elastic “springs” along the fault, then suddenly release in a slip event where the blocks jerk, radiating seismic waves as expanding rings.\n\n10. **Compressed Air Cannon Launch**\n   A transparent barrel fills with dense, bouncing air particles as a piston moves in and a pressure gauge rises; on release a ball is shot out, leaving a particle jet and a fading shockwave sphere.\n\n11. **Memory Foam Mattress Cross-Section**\n   A human-shaped rigid form slowly descends into a foam block, compressing layers that change color with depth, then lifts away, showing the foam’s slow release as it gradually returns to its original shape.\n\n12. **Binary Data Compression and Expansion Blocks**\n   A stream of small data cubes flows into a “compression chamber” where they merge into fewer labeled blocks with glowing connection lines, then later pass into a “decompressor” that releases and replicates them back into the original pattern.\n\n13. **Bouncing Ball on a Compressible Trampoline**\n   A ball drops onto a circular trampoline membrane that depresses and changes color where compressed, then springs back, launching the ball higher, with trails showing energy transfer on each impact and release.\n\n14. **Magma Chamber Pressure Build and Eruption**\n   A subsurface magma reservoir fills with glowing red-orange fluid and gas bubbles that compress under a solid rock cap; when pressure surpasses a meter threshold, the cap fractures and releases a fountain of particles and flowing lava.\n\n15. **3D Spring-Mass Lattice Under Load**\n   A cubic lattice of balls connected by springs is compressed from the top by a flat plate, deforming the structure and highlighting stressed springs in red, then released to oscillate and gradually settle.\n\n16. **Air Brake Compression in a Train Car**\n   Cylindrical air tanks on a train car fill with compressed air (particle density increases, color intensifies) when the pump runs, then release air into brake cylinders that extend pistons to press glowing brake pads onto wheels.\n\n17. **Sponge Absorbing and Releasing Water**\n   A porous block (sponge) is submerged in a pool, drawing in blue water particles that compress into its pores, then as a plate squeezes it, water jets out in streams and droplets, with particles bouncing and splashing.\n\n18. **Concert Crowd Compression at a Barrier**\n   Small humanoid figures drift toward a stage barrier and compress into a dense crowd region with changing color density, then gates on the sides open to release them as they spread out, leaving faint path trails.\n\n19. **Coiled Rope Winch and Snapback**\n   A rope wound around a drum is slowly pulled and compressed into tight coils, with tension displayed as a color gradient; when the clamp releases, the drum spins back, the rope unwraps, and the free end whips with a trailing curve.\n\n20. **Compressor and Balloon Network**\n   A motor-driven piston compresses air into a central tank, then valves open to inflate several semi-transparent balloons connected by tubes, which expand, jiggle, and finally release air in jets that propel them around.\n\n21. **Bubble Wrap Under Rolling Cylinder**\n   A transparent rolling cylinder moves over a sheet of spherical “bubbles” that compress and then pop, releasing small bursts of particles and sound markers, leaving flattened cells behind as the cylinder advances.\n\n22. **Cardiac Ventricles Compression and Blood Release**\n   Two semi-transparent heart ventricles rhythmically contract, compressing red particle “blood” and pushing it through branching vessels, then relax to refill, with arrows and color changes indicating pressure during each phase.\n\n23. **Snowpack Compression and Avalanche Release**\n   Layered snow slabs on a slope compress under gradually increasing overburden (thickening arrows), then a weak layer fails and the upper block detaches, sliding down as a churning particle avalanche leaving a stripped path.\n\n24. **Industrial Trash Compactor**\n   A rectangular bin fills with irregular boxes and cylinders that jiggle into place; a large plate compresses them into a tight block, then retracts so the compacted bale can slide out and detach onto a conveyor.\n\n25. **Sound Wave Compression-Release Tube**\n   A long transparent tube filled with small air particles shows a pulsing piston at one end generating alternating compression and rarefaction regions, visualized as dense and sparse bands moving down the tube with dynamic color shifts."
+}

@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Corrosion",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:44:02",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Rusting Iron Rod in Acidic Solution",
+      "description": "A horizontal iron cylinder partially submerged in a transparent liquid bath where red-brown rust patches grow, dissolve, and flake off as acid particles randomly collide with and attach to the metal surface, with a side meter showing corrosion rate over time.",
+      "seed": "Rusting Iron Rod in Acidic Solution: A horizontal iron cylinder partially submerged in a transparent liquid bath where red-brown rust patches grow, dissolve, and flake off as acid particles randomly collide with and attach to the metal surface, with a side meter showing corrosion rate over time."
+    },
+    {
+      "number": "2",
+      "title": "Galvanic Corrosion Between Two Metals",
+      "description": "Two different metal blocks (e.g., zinc and copper) connected by a wire and immersed in a clear electrolyte, where color-coded ions detach from one metal and drift toward the other, forming deposits while the anode slowly shrinks and the cathode slightly grows, with glowing arrows indicating electron flow.",
+      "seed": "Galvanic Corrosion Between Two Metals: Two different metal blocks (e.g., zinc and copper) connected by a wire and immersed in a clear electrolyte, where color-coded ions detach from one metal and drift toward the other, forming deposits while the anode slowly shrinks and the cathode slightly grows, with glowing arrows indicating electron flow."
+    },
+    {
+      "number": "3",
+      "title": "Pitting Corrosion on a Metal Plate",
+      "description": "A flat metal plate facing the camera where tiny random pits nucleate as small dark spots and then deepen into cylindrical holes over time, with an overhead “corrosion depth” heightmap using color gradients and a movable camera to inspect pits from different angles.",
+      "seed": "Pitting Corrosion on a Metal Plate: A flat metal plate facing the camera where tiny random pits nucleate as small dark spots and then deepen into cylindrical holes over time, with an overhead “corrosion depth” heightmap using color gradients and a movable camera to inspect pits from different angles."
+    },
+    {
+      "number": "4",
+      "title": "Corrosion of a Steel Bridge Beam in Salt Spray",
+      "description": "A long I-beam exposed above a blue “ocean” plane where salty droplets carried by wind collide with the beam, leaving wet spots that gradually turn reddish-brown and spread along edges and bolt holes, with a time slider to accelerate years of weathering.",
+      "seed": "Corrosion of a Steel Bridge Beam in Salt Spray: A long I-beam exposed above a blue “ocean” plane where salty droplets carried by wind collide with the beam, leaving wet spots that gradually turn reddish-brown and spread along edges and bolt holes, with a time slider to accelerate years of weathering."
+    },
+    {
+      "number": "5",
+      "title": "Battery Terminal Corrosion Buildup",
+      "description": "A car battery top with two terminals where invisible gas bursts periodically, condensing into white-green crystalline corrosion that grows outward in branching clusters, partially covering the metallic posts, while labels show voltage loss as buildup increases.",
+      "seed": "Battery Terminal Corrosion Buildup: A car battery top with two terminals where invisible gas bursts periodically, condensing into white-green crystalline corrosion that grows outward in branching clusters, partially covering the metallic posts, while labels show voltage loss as buildup increases."
+    },
+    {
+      "number": "6",
+      "title": "Rebar Corrosion Inside Cracked Concrete",
+      "description": "A semi-transparent concrete block reveals an internal steel rebar; water and chloride particles seep through an animated surface crack, wrap around the rebar, and trigger expanding rust volumes that push outward and gradually widen the crack, with stress lines drawn around the fracture zone.",
+      "seed": "Rebar Corrosion Inside Cracked Concrete: A semi-transparent concrete block reveals an internal steel rebar; water and chloride particles seep through an animated surface crack, wrap around the rebar, and trigger expanding rust volumes that push outward and gradually widen the crack, with stress lines drawn around the fracture zone."
+    },
+    {
+      "number": "7",
+      "title": "Underwater Ship Hull Corrosion with Sacrificial Anodes",
+      "description": "A section of a ship hull underwater with attached sacrificial anode blocks; ions detach from the anodes and drift to the hull, which remains shiny while the anodes visibly shrink, with color-coded current lines and labels indicating protected vs. unprotected regions.",
+      "seed": "Underwater Ship Hull Corrosion with Sacrificial Anodes: A section of a ship hull underwater with attached sacrificial anode blocks; ions detach from the anodes and drift to the hull, which remains shiny while the anodes visibly shrink, with color-coded current lines and labels indicating protected vs. unprotected regions."
+    },
+    {
+      "number": "8",
+      "title": "Corrosion-Inhibitor Molecules Forming a Protective Film",
+      "description": "A metal sheet is bombarded by corrosive particles from above, but inhibitor molecules float in the fluid and attach to the metal, forming a thin colored layer; regions covered by inhibitor repel corrosive particles, while uncovered spots gradually darken and roughen.",
+      "seed": "Corrosion-Inhibitor Molecules Forming a Protective Film: A metal sheet is bombarded by corrosive particles from above, but inhibitor molecules float in the fluid and attach to the metal, forming a thin colored layer; regions covered by inhibitor repel corrosive particles, while uncovered spots gradually darken and roughen."
+    },
+    {
+      "number": "9",
+      "title": "Micro-Galvanic Corrosion Between Metal Grains",
+      "description": "A zoomed-in cross-section of a polycrystalline metal with differently colored grains; some grains act as anodes and slowly dissolve at their boundaries, causing the grain shapes to shrink or notch while others remain intact, with a moving “scan line” that plots local potential along the surface.",
+      "seed": "Micro-Galvanic Corrosion Between Metal Grains: A zoomed-in cross-section of a polycrystalline metal with differently colored grains; some grains act as anodes and slowly dissolve at their boundaries, causing the grain shapes to shrink or notch while others remain intact, with a moving “scan line” that plots local potential along the surface."
+    },
+    {
+      "number": "10",
+      "title": "Localized Corrosion Around a Scratched Coating",
+      "description": "A metal panel coated with a bright protective paint layer except for one scratch; corrosive droplets land randomly but only penetrate the bare scratch region, where rust grows outward like a spreading stain beneath the edges of the coating, slightly lifting and curling it.",
+      "seed": "Localized Corrosion Around a Scratched Coating: A metal panel coated with a bright protective paint layer except for one scratch; corrosive droplets land randomly but only penetrate the bare scratch region, where rust grows outward like a spreading stain beneath the edges of the coating, slightly lifting and curling it."
+    },
+    {
+      "number": "11",
+      "title": "Pipeline Internal Corrosion from Flowing Fluid",
+      "description": "A transparent pipe section with colored fluid flowing through; corrosive particles carried by the flow attach mainly at bends and low-velocity zones, gradually thinning the pipe wall there (visualized by shrinking wall thickness and changing color from silver to red-brown), with flow streamlines shown.",
+      "seed": "Pipeline Internal Corrosion from Flowing Fluid: A transparent pipe section with colored fluid flowing through; corrosive particles carried by the flow attach mainly at bends and low-velocity zones, gradually thinning the pipe wall there (visualized by shrinking wall thickness and changing color from silver to red-brown), with flow streamlines shown."
+    },
+    {
+      "number": "12",
+      "title": "Corrosion Fatigue on a Rotating Shaft",
+      "description": "A metal shaft rotates steadily in a humid atmosphere; each rotation splashes tiny water droplets that stick in small notches, where rust patches grow and then crack under cyclic loading, causing visible surface micro-cracks that propagate and eventually split the shaft in two.",
+      "seed": "Corrosion Fatigue on a Rotating Shaft: A metal shaft rotates steadily in a humid atmosphere; each rotation splashes tiny water droplets that stick in small notches, where rust patches grow and then crack under cyclic loading, causing visible surface micro-cracks that propagate and eventually split the shaft in two."
+    },
+    {
+      "number": "13",
+      "title": "Atmospheric Corrosion on a Statue Over Time",
+      "description": "A metallic statue on a pedestal sits in an open environment where rain, fog, and pollution particles periodically pass through; the statue’s surface slowly transitions from bright metal to patchy tarnish and finally to a uniform patina, with an on-screen “years elapsed” counter and time-lapse transitions.",
+      "seed": "Atmospheric Corrosion on a Statue Over Time: A metallic statue on a pedestal sits in an open environment where rain, fog, and pollution particles periodically pass through; the statue’s surface slowly transitions from bright metal to patchy tarnish and finally to a uniform patina, with an on-screen “years elapsed” counter and time-lapse transitions."
+    },
+    {
+      "number": "14",
+      "title": "Corrosion Cell on a Wet Metal Surface",
+      "description": "A single metal plate with a droplet of water on top is shown from the side; within the droplet, a mini corrosion cell forms, with one edge acting as an anode where metal ions dissolve, and another acting as a cathode where oxygen reduces, visualized by colored particles migrating and labels on the mini-regions.",
+      "seed": "Corrosion Cell on a Wet Metal Surface: A single metal plate with a droplet of water on top is shown from the side; within the droplet, a mini corrosion cell forms, with one edge acting as an anode where metal ions dissolve, and another acting as a cathode where oxygen reduces, visualized by colored particles migrating and labels on the mini-regions."
+    },
+    {
+      "number": "15",
+      "title": "Corrosion-Induced Leak in a Storage Tank",
+      "description": "A cylindrical tank wall is slowly thinned from the outside by corrosive gas particles; as the wall thickness at one spot shrinks below a threshold, a tiny hole appears and fluid begins to spray out, eroding and widening the leak as droplets collide with the surrounding metal and remove more material.",
+      "seed": "Corrosion-Induced Leak in a Storage Tank: A cylindrical tank wall is slowly thinned from the outside by corrosive gas particles; as the wall thickness at one spot shrinks below a threshold, a tiny hole appears and fluid begins to spray out, eroding and widening the leak as droplets collide with the surrounding metal and remove more material."
+    },
+    {
+      "number": "16",
+      "title": "Corroding Lattice Structure and Load Redistribution",
+      "description": "A 3D metal truss with multiple beams supports a floating weight; certain beams are exposed to a corrosive mist and slowly lose cross-sectional area (their radius shrinks and color fades), while stress-indicating colors on all beams update, eventually causing one corroded beam to snap and the load to shift.",
+      "seed": "Corroding Lattice Structure and Load Redistribution: A 3D metal truss with multiple beams supports a floating weight; certain beams are exposed to a corrosive mist and slowly lose cross-sectional area (their radius shrinks and color fades), while stress-indicating colors on all beams update, eventually causing one corroded beam to snap and the load to shift."
+    },
+    {
+      "number": "17",
+      "title": "Electrochemical Corrosion Map on a Complex Part",
+      "description": "A complex 3D metal object (like an engine block) is immersed in an electrolyte and color-mapped by local corrosion rate, with animated particles showing ion motion, and small 3D bars on the surface shrinking where material loss is highest, as potential at different points is toggled with a key.",
+      "seed": "Electrochemical Corrosion Map on a Complex Part: A complex 3D metal object (like an engine block) is immersed in an electrolyte and color-mapped by local corrosion rate, with animated particles showing ion motion, and small 3D bars on the surface shrinking where material loss is highest, as potential at different points is toggled with a key."
+    },
+    {
+      "number": "18",
+      "title": "Corrosion as a Spreading Digital Infection",
+      "description": "A grid of metallic cubes arranged in 3D represents components in a network; when one cube “corrodes” it darkens and begins emitting small particles that collide with neighboring cubes, causing them to darken as well, with branching visual “infection paths” and a graph of remaining healthy nodes.",
+      "seed": "Corrosion as a Spreading Digital Infection: A grid of metallic cubes arranged in 3D represents components in a network; when one cube “corrodes” it darkens and begins emitting small particles that collide with neighboring cubes, causing them to darken as well, with branching visual “infection paths” and a graph of remaining healthy nodes."
+    },
+    {
+      "number": "19",
+      "title": "Corrosion of a Metal Wire Mesh in Seawater",
+      "description": "A fine wire mesh panel stands in a shallow moving water plane; certain nodes and segments gradually dissolve as ions detach, causing holes to widen and neighboring segments to sag and deform, while trails visualize the paths of corrosive ions around the mesh.",
+      "seed": "Corrosion of a Metal Wire Mesh in Seawater: A fine wire mesh panel stands in a shallow moving water plane; certain nodes and segments gradually dissolve as ions detach, causing holes to widen and neighboring segments to sag and deform, while trails visualize the paths of corrosive ions around the mesh."
+    },
+    {
+      "number": "20",
+      "title": "High-Temperature Oxidation of a Glowing Metal Rod",
+      "description": "A hot, glowing metal rod is suspended in an oxygen-rich gas; oxygen molecules collide with the surface and form a gradually thickening, semi-transparent oxide layer with a different color and refractive index, while the underlying metal radius shrinks and a temperature-colored glow slowly dims.",
+      "seed": "High-Temperature Oxidation of a Glowing Metal Rod: A hot, glowing metal rod is suspended in an oxygen-rich gas; oxygen molecules collide with the surface and form a gradually thickening, semi-transparent oxide layer with a different color and refractive index, while the underlying metal radius shrinks and a temperature-colored glow slowly dims."
+    },
+    {
+      "number": "21",
+      "title": "Corrosion Under Insulation (CUI) on a Pipe",
+      "description": "A metal pipe is partially wrapped with a semi-transparent “insulation” shell that occasionally admits water droplets; inside the gap, rust forms and spreads unseen until the outer insulation is “peeled back” via a keypress, revealing a patch of deeply corroded pipe contrasting with intact sections.",
+      "seed": "Corrosion Under Insulation (CUI) on a Pipe: A metal pipe is partially wrapped with a semi-transparent “insulation” shell that occasionally admits water droplets; inside the gap, rust forms and spreads unseen until the outer insulation is “peeled back” via a keypress, revealing a patch of deeply corroded pipe contrasting with intact sections."
+    },
+    {
+      "number": "22",
+      "title": "Stress Corrosion Cracking from a Single Flaw",
+      "description": "A tensioned metal bar with a tiny surface notch is exposed to a corrosive fluid; the notch region darkens and a thin crack line grows stepwise along grain boundaries, visualized as a branching, jagged path that extends faster where stress and corrosive concentration overlap.",
+      "seed": "Stress Corrosion Cracking from a Single Flaw: A tensioned metal bar with a tiny surface notch is exposed to a corrosive fluid; the notch region darkens and a thin crack line grows stepwise along grain boundaries, visualized as a branching, jagged path that extends faster where stress and corrosive concentration overlap."
+    },
+    {
+      "number": "23",
+      "title": "Corrosion of Printed Circuit Board Traces",
+      "description": "A flat PCB with gold and copper traces sits in a humid environment; moisture droplets condense and slowly corrode exposed copper regions, narrowing traces until some break and their connected LEDs turn off, with a dynamic “circuit connectivity” overlay updating as traces fail.",
+      "seed": "Corrosion of Printed Circuit Board Traces: A flat PCB with gold and copper traces sits in a humid environment; moisture droplets condense and slowly corrode exposed copper regions, narrowing traces until some break and their connected LEDs turn off, with a dynamic “circuit connectivity” overlay updating as traces fail."
+    },
+    {
+      "number": "24",
+      "title": "Symbolic Cityscape Corroded by Pollution",
+      "description": "A bright metallic city skyline with reflective building blocks gradually darkens and roughens as a visible smog layer drifts through; particles from the smog stick to building surfaces, forming streaks and pits, while a “city health” bar on the side decreases and parts of the skyline crumble.",
+      "seed": "Symbolic Cityscape Corroded by Pollution: A bright metallic city skyline with reflective building blocks gradually darkens and roughens as a visible smog layer drifts through; particles from the smog stick to building surfaces, forming streaks and pits, while a “city health” bar on the side decreases and parts of the skyline crumble."
+    },
+    {
+      "number": "25",
+      "title": "Interactive Sandblasting vs. Chemical Corrosion",
+      "description": "A metal plate is simultaneously bombarded by mechanical “sand” particles and bathed in a corrosive mist; sand particles cause visible chips and dents, while the mist darkens and thins areas between impacts, with toggles that let the user turn each process on/off and compare the resulting surface patterns.",
+      "seed": "Interactive Sandblasting vs. Chemical Corrosion: A metal plate is simultaneously bombarded by mechanical “sand” particles and bathed in a corrosive mist; sand particles cause visible chips and dents, while the mist darkens and thins areas between impacts, with toggles that let the user turn each process on/off and compare the resulting surface patterns."
+    }
+  ],
+  "raw_output": "Here are strong **Corrosion simulation inputs** you can plug into your prompt:\n\n1. **Rusting Iron Rod in Acidic Solution**\n   A horizontal iron cylinder partially submerged in a transparent liquid bath where red-brown rust patches grow, dissolve, and flake off as acid particles randomly collide with and attach to the metal surface, with a side meter showing corrosion rate over time.\n\n2. **Galvanic Corrosion Between Two Metals**\n   Two different metal blocks (e.g., zinc and copper) connected by a wire and immersed in a clear electrolyte, where color-coded ions detach from one metal and drift toward the other, forming deposits while the anode slowly shrinks and the cathode slightly grows, with glowing arrows indicating electron flow.\n\n3. **Pitting Corrosion on a Metal Plate**\n   A flat metal plate facing the camera where tiny random pits nucleate as small dark spots and then deepen into cylindrical holes over time, with an overhead “corrosion depth” heightmap using color gradients and a movable camera to inspect pits from different angles.\n\n4. **Corrosion of a Steel Bridge Beam in Salt Spray**\n   A long I-beam exposed above a blue “ocean” plane where salty droplets carried by wind collide with the beam, leaving wet spots that gradually turn reddish-brown and spread along edges and bolt holes, with a time slider to accelerate years of weathering.\n\n5. **Battery Terminal Corrosion Buildup**\n   A car battery top with two terminals where invisible gas bursts periodically, condensing into white-green crystalline corrosion that grows outward in branching clusters, partially covering the metallic posts, while labels show voltage loss as buildup increases.\n\n6. **Rebar Corrosion Inside Cracked Concrete**\n   A semi-transparent concrete block reveals an internal steel rebar; water and chloride particles seep through an animated surface crack, wrap around the rebar, and trigger expanding rust volumes that push outward and gradually widen the crack, with stress lines drawn around the fracture zone.\n\n7. **Underwater Ship Hull Corrosion with Sacrificial Anodes**\n   A section of a ship hull underwater with attached sacrificial anode blocks; ions detach from the anodes and drift to the hull, which remains shiny while the anodes visibly shrink, with color-coded current lines and labels indicating protected vs. unprotected regions.\n\n8. **Corrosion-Inhibitor Molecules Forming a Protective Film**\n   A metal sheet is bombarded by corrosive particles from above, but inhibitor molecules float in the fluid and attach to the metal, forming a thin colored layer; regions covered by inhibitor repel corrosive particles, while uncovered spots gradually darken and roughen.\n\n9. **Micro-Galvanic Corrosion Between Metal Grains**\n   A zoomed-in cross-section of a polycrystalline metal with differently colored grains; some grains act as anodes and slowly dissolve at their boundaries, causing the grain shapes to shrink or notch while others remain intact, with a moving “scan line” that plots local potential along the surface.\n\n10. **Localized Corrosion Around a Scratched Coating**\n    A metal panel coated with a bright protective paint layer except for one scratch; corrosive droplets land randomly but only penetrate the bare scratch region, where rust grows outward like a spreading stain beneath the edges of the coating, slightly lifting and curling it.\n\n11. **Pipeline Internal Corrosion from Flowing Fluid**\n    A transparent pipe section with colored fluid flowing through; corrosive particles carried by the flow attach mainly at bends and low-velocity zones, gradually thinning the pipe wall there (visualized by shrinking wall thickness and changing color from silver to red-brown), with flow streamlines shown.\n\n12. **Corrosion Fatigue on a Rotating Shaft**\n    A metal shaft rotates steadily in a humid atmosphere; each rotation splashes tiny water droplets that stick in small notches, where rust patches grow and then crack under cyclic loading, causing visible surface micro-cracks that propagate and eventually split the shaft in two.\n\n13. **Atmospheric Corrosion on a Statue Over Time**\n    A metallic statue on a pedestal sits in an open environment where rain, fog, and pollution particles periodically pass through; the statue’s surface slowly transitions from bright metal to patchy tarnish and finally to a uniform patina, with an on-screen “years elapsed” counter and time-lapse transitions.\n\n14. **Corrosion Cell on a Wet Metal Surface**\n    A single metal plate with a droplet of water on top is shown from the side; within the droplet, a mini corrosion cell forms, with one edge acting as an anode where metal ions dissolve, and another acting as a cathode where oxygen reduces, visualized by colored particles migrating and labels on the mini-regions.\n\n15. **Corrosion-Induced Leak in a Storage Tank**\n    A cylindrical tank wall is slowly thinned from the outside by corrosive gas particles; as the wall thickness at one spot shrinks below a threshold, a tiny hole appears and fluid begins to spray out, eroding and widening the leak as droplets collide with the surrounding metal and remove more material.\n\n16. **Corroding Lattice Structure and Load Redistribution**\n    A 3D metal truss with multiple beams supports a floating weight; certain beams are exposed to a corrosive mist and slowly lose cross-sectional area (their radius shrinks and color fades), while stress-indicating colors on all beams update, eventually causing one corroded beam to snap and the load to shift.\n\n17. **Electrochemical Corrosion Map on a Complex Part**\n    A complex 3D metal object (like an engine block) is immersed in an electrolyte and color-mapped by local corrosion rate, with animated particles showing ion motion, and small 3D bars on the surface shrinking where material loss is highest, as potential at different points is toggled with a key.\n\n18. **Corrosion as a Spreading Digital Infection**\n    A grid of metallic cubes arranged in 3D represents components in a network; when one cube “corrodes” it darkens and begins emitting small particles that collide with neighboring cubes, causing them to darken as well, with branching visual “infection paths” and a graph of remaining healthy nodes.\n\n19. **Corrosion of a Metal Wire Mesh in Seawater**\n    A fine wire mesh panel stands in a shallow moving water plane; certain nodes and segments gradually dissolve as ions detach, causing holes to widen and neighboring segments to sag and deform, while trails visualize the paths of corrosive ions around the mesh.\n\n20. **High-Temperature Oxidation of a Glowing Metal Rod**\n    A hot, glowing metal rod is suspended in an oxygen-rich gas; oxygen molecules collide with the surface and form a gradually thickening, semi-transparent oxide layer with a different color and refractive index, while the underlying metal radius shrinks and a temperature-colored glow slowly dims.\n\n21. **Corrosion Under Insulation (CUI) on a Pipe**\n    A metal pipe is partially wrapped with a semi-transparent “insulation” shell that occasionally admits water droplets; inside the gap, rust forms and spreads unseen until the outer insulation is “peeled back” via a keypress, revealing a patch of deeply corroded pipe contrasting with intact sections.\n\n22. **Stress Corrosion Cracking from a Single Flaw**\n    A tensioned metal bar with a tiny surface notch is exposed to a corrosive fluid; the notch region darkens and a thin crack line grows stepwise along grain boundaries, visualized as a branching, jagged path that extends faster where stress and corrosive concentration overlap.\n\n23. **Corrosion of Printed Circuit Board Traces**\n    A flat PCB with gold and copper traces sits in a humid environment; moisture droplets condense and slowly corrode exposed copper regions, narrowing traces until some break and their connected LEDs turn off, with a dynamic “circuit connectivity” overlay updating as traces fail.\n\n24. **Symbolic Cityscape Corroded by Pollution**\n    A bright metallic city skyline with reflective building blocks gradually darkens and roughens as a visible smog layer drifts through; particles from the smog stick to building surfaces, forming streaks and pits, while a “city health” bar on the side decreases and parts of the skyline crumble.\n\n25. **Interactive Sandblasting vs. Chemical Corrosion**\n    A metal plate is simultaneously bombarded by mechanical “sand” particles and bathed in a corrosive mist; sand particles cause visible chips and dents, while the mist darkens and thins areas between impacts, with toggles that let the user turn each process on/off and compare the resulting surface patterns."
+}

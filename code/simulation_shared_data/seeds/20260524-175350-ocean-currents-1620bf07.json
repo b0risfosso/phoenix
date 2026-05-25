@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Ocean currents",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:53:50",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Global Conveyor Belt Current Flow",
+      "description": "A 3D rotating Earth with semi-transparent blue tubes representing warm and cold currents that flow, split, merge, and wrap around continents, with moving particle tracers, temperature-based colors, and labels for each major current.",
+      "seed": "Global Conveyor Belt Current Flow: A 3D rotating Earth with semi-transparent blue tubes representing warm and cold currents that flow, split, merge, and wrap around continents, with moving particle tracers, temperature-based colors, and labels for each major current."
+    },
+    {
+      "number": "2",
+      "title": "Wind-Driven Surface Currents and Gyres",
+      "description": "A rectangular ocean basin with a moving “wind” arrow field on the surface pushing thousands of floating particles into rotating gyres that form, drift, and trap debris clusters, with trails showing particle paths.",
+      "seed": "Wind-Driven Surface Currents and Gyres: A rectangular ocean basin with a moving “wind” arrow field on the surface pushing thousands of floating particles into rotating gyres that form, drift, and trap debris clusters, with trails showing particle paths."
+    },
+    {
+      "number": "3",
+      "title": "Coriolis Effect on Moving Water Parcels",
+      "description": "A spinning globe with small floating spheres released from the equator and mid-latitudes that drift, then curve due to rotation, leaving colored trails that arc differently in each hemisphere, with on/off toggles for rotation.",
+      "seed": "Coriolis Effect on Moving Water Parcels: A spinning globe with small floating spheres released from the equator and mid-latitudes that drift, then curve due to rotation, leaving colored trails that arc differently in each hemisphere, with on/off toggles for rotation."
+    },
+    {
+      "number": "4",
+      "title": "Upwelling and Downwelling Columns",
+      "description": "A side-view slice of ocean with vertical transparent columns where cold blue particles rise near a simulated coastline and warm red particles sink offshore, mixing and changing color as they interact, with arrows indicating vertical velocity.",
+      "seed": "Upwelling and Downwelling Columns: A side-view slice of ocean with vertical transparent columns where cold blue particles rise near a simulated coastline and warm red particles sink offshore, mixing and changing color as they interact, with arrows indicating vertical velocity."
+    },
+    {
+      "number": "5",
+      "title": "Thermohaline Circulation Tank",
+      "description": "A 3D rectangular tank with one warm, salty injection at one corner and cold, fresh injection at another; colored fluid parcels sink or rise based on density, forming layered currents that slide, mix, and create internal waves along density interfaces.",
+      "seed": "Thermohaline Circulation Tank: A 3D rectangular tank with one warm, salty injection at one corner and cold, fresh injection at another; colored fluid parcels sink or rise based on density, forming layered currents that slide, mix, and create internal waves along density interfaces."
+    },
+    {
+      "number": "6",
+      "title": "Eddies Shedding from a Boundary Current",
+      "description": "A fast, narrow current “jet” flowing along a coast that periodically sheds swirling eddies which spin, detach, and drift into the open ocean, with particle tracers spiraling around each vortex and labels for cyclonic vs anticyclonic eddies.",
+      "seed": "Eddies Shedding from a Boundary Current: A fast, narrow current “jet” flowing along a coast that periodically sheds swirling eddies which spin, detach, and drift into the open ocean, with particle tracers spiraling around each vortex and labels for cyclonic vs anticyclonic eddies."
+    },
+    {
+      "number": "7",
+      "title": "Submarine in a Variable Current Field",
+      "description": "A controllable submarine object that tries to move straight while embedded in a 3D vector field of currents that push, rotate, and drift it off course, with arrows visualizing local flow and a path line showing intended vs actual trajectory.",
+      "seed": "Submarine in a Variable Current Field: A controllable submarine object that tries to move straight while embedded in a 3D vector field of currents that push, rotate, and drift it off course, with arrows visualizing local flow and a path line showing intended vs actual trajectory."
+    },
+    {
+      "number": "8",
+      "title": "Floating Plastic Debris in Ocean Gyres",
+      "description": "Thousands of tiny colored particles representing debris released from different coasts that float, collide, cluster, and get trapped in slow-rotating gyres, with region labels for each “garbage patch” and a meter showing debris concentration.",
+      "seed": "Floating Plastic Debris in Ocean Gyres: Thousands of tiny colored particles representing debris released from different coasts that float, collide, cluster, and get trapped in slow-rotating gyres, with region labels for each “garbage patch” and a meter showing debris concentration."
+    },
+    {
+      "number": "9",
+      "title": "Tidal Currents in a Narrow Strait",
+      "description": "Two large ocean basins connected by a narrow channel where water level oscillates and drives strong back-and-forth currents; floating buoys bob, drift, reverse, and sometimes collide or strand on shallow sandbars.",
+      "seed": "Tidal Currents in a Narrow Strait: Two large ocean basins connected by a narrow channel where water level oscillates and drives strong back-and-forth currents; floating buoys bob, drift, reverse, and sometimes collide or strand on shallow sandbars."
+    },
+    {
+      "number": "10",
+      "title": "Undersea Mountain and Flow Separation",
+      "description": "A strong current flowing over a seamount that splits, accelerates over the peak, causes lee-side eddies and turbulent mixing, with colored streaks of water wrapping around the obstacle and particle trails visualizing wake patterns.",
+      "seed": "Undersea Mountain and Flow Separation: A strong current flowing over a seamount that splits, accelerates over the peak, causes lee-side eddies and turbulent mixing, with colored streaks of water wrapping around the obstacle and particle trails visualizing wake patterns."
+    },
+    {
+      "number": "11",
+      "title": "Phytoplankton Bloom in an Upwelling Zone",
+      "description": "A coastal upwelling region where nutrient-rich cold water rises and spreads; green particles (phytoplankton) grow, drift with surface currents, and form expanding patches whose brightness increases with concentration and then fades as they are advected away.",
+      "seed": "Phytoplankton Bloom in an Upwelling Zone: A coastal upwelling region where nutrient-rich cold water rises and spreads; green particles (phytoplankton) grow, drift with surface currents, and form expanding patches whose brightness increases with concentration and then fades as they are advected away."
+    },
+    {
+      "number": "12",
+      "title": "Oil Spill Drift and Dispersion",
+      "description": "A patch of semi-transparent, dark fluid on the surface that stretches, splits, and thins as it is pulled by surface currents and wind-driven shear, with tagged booms (floating barriers) that can be moved to redirect, block, or partially trap the spreading slick.",
+      "seed": "Oil Spill Drift and Dispersion: A patch of semi-transparent, dark fluid on the surface that stretches, splits, and thins as it is pulled by surface currents and wind-driven shear, with tagged booms (floating barriers) that can be moved to redirect, block, or partially trap the spreading slick."
+    },
+    {
+      "number": "13",
+      "title": "Cross-Section of Thermocline and Internal Waves",
+      "description": "A side-view 3D slice with warm surface layer and cold deep layer separated by a wavy thermocline; horizontal currents generate internal waves along the interface that propagate, reflect from boundaries, and carry colored tracer blobs along their crests and troughs.",
+      "seed": "Cross-Section of Thermocline and Internal Waves: A side-view 3D slice with warm surface layer and cold deep layer separated by a wavy thermocline; horizontal currents generate internal waves along the interface that propagate, reflect from boundaries, and carry colored tracer blobs along their crests and troughs."
+    },
+    {
+      "number": "14",
+      "title": "Equatorial Countercurrents and Undercurrents",
+      "description": "A band around the equator with surface currents flowing westward and a subsurface undercurrent flowing eastward; tracer particles at different depths drift in opposite directions, occasionally mixing at tilted shear layers visible as semi-transparent planes.",
+      "seed": "Equatorial Countercurrents and Undercurrents: A band around the equator with surface currents flowing westward and a subsurface undercurrent flowing eastward; tracer particles at different depths drift in opposite directions, occasionally mixing at tilted shear layers visible as semi-transparent planes."
+    },
+    {
+      "number": "15",
+      "title": "Glacial Meltwater Plume and Deep Currents",
+      "description": "A coastline with a glacier face releasing cold fresh meltwater that forms a buoyant plume rising, spreading, and then being captured by coastal currents, while dense salty water sinks along the bottom, creating interacting layers with distinct colors and thickness.",
+      "seed": "Glacial Meltwater Plume and Deep Currents: A coastline with a glacier face releasing cold fresh meltwater that forms a buoyant plume rising, spreading, and then being captured by coastal currents, while dense salty water sinks along the bottom, creating interacting layers with distinct colors and thickness."
+    },
+    {
+      "number": "16",
+      "title": "Larval Dispersal by Coastal Currents",
+      "description": "A reef on one side of a domain releasing tiny glowing larvae that drift with nearshore currents, stick temporarily to floating seaweed rafts, detach when currents change, and eventually settle and “attach” as new reef points when they encounter suitable bottom patches.",
+      "seed": "Larval Dispersal by Coastal Currents: A reef on one side of a domain releasing tiny glowing larvae that drift with nearshore currents, stick temporarily to floating seaweed rafts, detach when currents change, and eventually settle and “attach” as new reef points when they encounter suitable bottom patches."
+    },
+    {
+      "number": "17",
+      "title": "Submesoscale Filaments and Fronts",
+      "description": "A 3D surface layer with sharp temperature and density fronts where horizontal shear stretches colored patches of water into long, thin filaments that wrap, fold, and intertwine, with a transparent plane showing gradient intensity.",
+      "seed": "Submesoscale Filaments and Fronts: A 3D surface layer with sharp temperature and density fronts where horizontal shear stretches colored patches of water into long, thin filaments that wrap, fold, and intertwine, with a transparent plane showing gradient intensity."
+    },
+    {
+      "number": "18",
+      "title": "Global Shipping Routes vs Ocean Currents",
+      "description": "Ships represented as moving boxes follow straight great-circle routes across a spherical Earth while underlying currents push them sideways, creating curved actual paths with trails; efficiency meters show speed gain or loss depending on current alignment.",
+      "seed": "Global Shipping Routes vs Ocean Currents: Ships represented as moving boxes follow straight great-circle routes across a spherical Earth while underlying currents push them sideways, creating curved actual paths with trails; efficiency meters show speed gain or loss depending on current alignment."
+    },
+    {
+      "number": "19",
+      "title": "Acoustic Drifters Tracking Deep Currents",
+      "description": "A set of neutrally buoyant spheres at depth that slowly drift with weak deep currents; each periodically “pings” sound waves represented by expanding transparent shells, and receivers on the surface triangulate and label their positions as tracks over time.",
+      "seed": "Acoustic Drifters Tracking Deep Currents: A set of neutrally buoyant spheres at depth that slowly drift with weak deep currents; each periodically “pings” sound waves represented by expanding transparent shells, and receivers on the surface triangulate and label their positions as tracks over time."
+    },
+    {
+      "number": "20",
+      "title": "Thermal Plumes from Hydrothermal Vents",
+      "description": "A dark seabed with bright hydrothermal chimneys emitting hot colored plumes that rise, bend, and branch as they are caught by deep currents, with particles that cool and change color as they mix and are transported away.",
+      "seed": "Thermal Plumes from Hydrothermal Vents: A dark seabed with bright hydrothermal chimneys emitting hot colored plumes that rise, bend, and branch as they are caught by deep currents, with particles that cool and change color as they mix and are transported away."
+    },
+    {
+      "number": "21",
+      "title": "River Outflow and Coastal Jet Formation",
+      "description": "A river mouth injecting fresh blue water into a coastal ocean, forming a buoyant plume that hugs the coast and becomes a narrow coastal jet; the plume wraps around headlands, splits at islands, and leaves labeled salinity contours.",
+      "seed": "River Outflow and Coastal Jet Formation: A river mouth injecting fresh blue water into a coastal ocean, forming a buoyant plume that hugs the coast and becomes a narrow coastal jet; the plume wraps around headlands, splits at islands, and leaves labeled salinity contours."
+    },
+    {
+      "number": "22",
+      "title": "Sea Ice Drift on Polar Currents",
+      "description": "An Arctic-like circular basin with floating white ice floes that rotate, collide, raft over each other, or fracture as they are pushed by surface currents and wind, while colored dye beneath the ice reveals how water continues to flow and mix below.",
+      "seed": "Sea Ice Drift on Polar Currents: An Arctic-like circular basin with floating white ice floes that rotate, collide, raft over each other, or fracture as they are pushed by surface currents and wind, while colored dye beneath the ice reveals how water continues to flow and mix below."
+    },
+    {
+      "number": "23",
+      "title": "Microscopic Ocean Currents Around Plankton",
+      "description": "A zoomed-in scene of a single swimming plankton organism whose beating appendages generate tiny local currents that pull in food particles, which follow streamlines, bounce off the body, or attach as they get close.",
+      "seed": "Microscopic Ocean Currents Around Plankton: A zoomed-in scene of a single swimming plankton organism whose beating appendages generate tiny local currents that pull in food particles, which follow streamlines, bounce off the body, or attach as they get close."
+    },
+    {
+      "number": "24",
+      "title": "Currents in a Harbor with Breakwaters",
+      "description": "A coastal harbor with walls and breakwaters where incoming waves and currents are partially blocked, redirected, and funneled; small boats drift, bounce off boundaries, and rotate as eddies form in sheltered regions, marked by swirling tracer particles.",
+      "seed": "Currents in a Harbor with Breakwaters: A coastal harbor with walls and breakwaters where incoming waves and currents are partially blocked, redirected, and funneled; small boats drift, bounce off boundaries, and rotate as eddies form in sheltered regions, marked by swirling tracer particles."
+    },
+    {
+      "number": "25",
+      "title": "Symbolic Ocean Currents as Data Flows",
+      "description": "A stylized 3D “data ocean” where streams of glowing particles represent information currents that split, merge, and wrap around abstract island-like servers, with color changes showing bandwidth, labels for “gyres” of recirculating data, and trails marking congestion zones.",
+      "seed": "Symbolic Ocean Currents as Data Flows: A stylized 3D “data ocean” where streams of glowing particles represent information currents that split, merge, and wrap around abstract island-like servers, with color changes showing bandwidth, labels for “gyres” of recirculating data, and trails marking congestion zones."
+    }
+  ],
+  "raw_output": "Here are strong **Ocean currents simulation inputs** you can plug into your prompt:\n\n1. **Global Conveyor Belt Current Flow**\n   A 3D rotating Earth with semi-transparent blue tubes representing warm and cold currents that flow, split, merge, and wrap around continents, with moving particle tracers, temperature-based colors, and labels for each major current.\n\n2. **Wind-Driven Surface Currents and Gyres**\n   A rectangular ocean basin with a moving “wind” arrow field on the surface pushing thousands of floating particles into rotating gyres that form, drift, and trap debris clusters, with trails showing particle paths.\n\n3. **Coriolis Effect on Moving Water Parcels**\n   A spinning globe with small floating spheres released from the equator and mid-latitudes that drift, then curve due to rotation, leaving colored trails that arc differently in each hemisphere, with on/off toggles for rotation.\n\n4. **Upwelling and Downwelling Columns**\n   A side-view slice of ocean with vertical transparent columns where cold blue particles rise near a simulated coastline and warm red particles sink offshore, mixing and changing color as they interact, with arrows indicating vertical velocity.\n\n5. **Thermohaline Circulation Tank**\n   A 3D rectangular tank with one warm, salty injection at one corner and cold, fresh injection at another; colored fluid parcels sink or rise based on density, forming layered currents that slide, mix, and create internal waves along density interfaces.\n\n6. **Eddies Shedding from a Boundary Current**\n   A fast, narrow current “jet” flowing along a coast that periodically sheds swirling eddies which spin, detach, and drift into the open ocean, with particle tracers spiraling around each vortex and labels for cyclonic vs anticyclonic eddies.\n\n7. **Submarine in a Variable Current Field**\n   A controllable submarine object that tries to move straight while embedded in a 3D vector field of currents that push, rotate, and drift it off course, with arrows visualizing local flow and a path line showing intended vs actual trajectory.\n\n8. **Floating Plastic Debris in Ocean Gyres**\n   Thousands of tiny colored particles representing debris released from different coasts that float, collide, cluster, and get trapped in slow-rotating gyres, with region labels for each “garbage patch” and a meter showing debris concentration.\n\n9. **Tidal Currents in a Narrow Strait**\n   Two large ocean basins connected by a narrow channel where water level oscillates and drives strong back-and-forth currents; floating buoys bob, drift, reverse, and sometimes collide or strand on shallow sandbars.\n\n10. **Undersea Mountain and Flow Separation**\n    A strong current flowing over a seamount that splits, accelerates over the peak, causes lee-side eddies and turbulent mixing, with colored streaks of water wrapping around the obstacle and particle trails visualizing wake patterns.\n\n11. **Phytoplankton Bloom in an Upwelling Zone**\n    A coastal upwelling region where nutrient-rich cold water rises and spreads; green particles (phytoplankton) grow, drift with surface currents, and form expanding patches whose brightness increases with concentration and then fades as they are advected away.\n\n12. **Oil Spill Drift and Dispersion**\n    A patch of semi-transparent, dark fluid on the surface that stretches, splits, and thins as it is pulled by surface currents and wind-driven shear, with tagged booms (floating barriers) that can be moved to redirect, block, or partially trap the spreading slick.\n\n13. **Cross-Section of Thermocline and Internal Waves**\n    A side-view 3D slice with warm surface layer and cold deep layer separated by a wavy thermocline; horizontal currents generate internal waves along the interface that propagate, reflect from boundaries, and carry colored tracer blobs along their crests and troughs.\n\n14. **Equatorial Countercurrents and Undercurrents**\n    A band around the equator with surface currents flowing westward and a subsurface undercurrent flowing eastward; tracer particles at different depths drift in opposite directions, occasionally mixing at tilted shear layers visible as semi-transparent planes.\n\n15. **Glacial Meltwater Plume and Deep Currents**\n    A coastline with a glacier face releasing cold fresh meltwater that forms a buoyant plume rising, spreading, and then being captured by coastal currents, while dense salty water sinks along the bottom, creating interacting layers with distinct colors and thickness.\n\n16. **Larval Dispersal by Coastal Currents**\n    A reef on one side of a domain releasing tiny glowing larvae that drift with nearshore currents, stick temporarily to floating seaweed rafts, detach when currents change, and eventually settle and “attach” as new reef points when they encounter suitable bottom patches.\n\n17. **Submesoscale Filaments and Fronts**\n    A 3D surface layer with sharp temperature and density fronts where horizontal shear stretches colored patches of water into long, thin filaments that wrap, fold, and intertwine, with a transparent plane showing gradient intensity.\n\n18. **Global Shipping Routes vs Ocean Currents**\n    Ships represented as moving boxes follow straight great-circle routes across a spherical Earth while underlying currents push them sideways, creating curved actual paths with trails; efficiency meters show speed gain or loss depending on current alignment.\n\n19. **Acoustic Drifters Tracking Deep Currents**\n    A set of neutrally buoyant spheres at depth that slowly drift with weak deep currents; each periodically “pings” sound waves represented by expanding transparent shells, and receivers on the surface triangulate and label their positions as tracks over time.\n\n20. **Thermal Plumes from Hydrothermal Vents**\n    A dark seabed with bright hydrothermal chimneys emitting hot colored plumes that rise, bend, and branch as they are caught by deep currents, with particles that cool and change color as they mix and are transported away.\n\n21. **River Outflow and Coastal Jet Formation**\n    A river mouth injecting fresh blue water into a coastal ocean, forming a buoyant plume that hugs the coast and becomes a narrow coastal jet; the plume wraps around headlands, splits at islands, and leaves labeled salinity contours.\n\n22. **Sea Ice Drift on Polar Currents**\n    An Arctic-like circular basin with floating white ice floes that rotate, collide, raft over each other, or fracture as they are pushed by surface currents and wind, while colored dye beneath the ice reveals how water continues to flow and mix below.\n\n23. **Microscopic Ocean Currents Around Plankton**\n    A zoomed-in scene of a single swimming plankton organism whose beating appendages generate tiny local currents that pull in food particles, which follow streamlines, bounce off the body, or attach as they get close.\n\n24. **Currents in a Harbor with Breakwaters**\n    A coastal harbor with walls and breakwaters where incoming waves and currents are partially blocked, redirected, and funneled; small boats drift, bounce off boundaries, and rotate as eddies form in sheltered regions, marked by swirling tracer particles.\n\n25. **Symbolic Ocean Currents as Data Flows**\n    A stylized 3D “data ocean” where streams of glowing particles represent information currents that split, merge, and wrap around abstract island-like servers, with color changes showing bandwidth, labels for “gyres” of recirculating data, and trails marking congestion zones."
+}

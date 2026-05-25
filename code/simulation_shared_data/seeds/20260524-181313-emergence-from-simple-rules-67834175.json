@@ -1,0 +1,154 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Emergence from simple rules",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:13:13",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Flocking Spheres with Simple Neighbor Rules",
+      "description": "A cloud of colored spheres flies through 3D space following simple “boids” rules (alignment, cohesion, separation), leaving faint motion trails as they spontaneously form and dissolve flocks around a few stationary transparent beacons.",
+      "seed": "Flocking Spheres with Simple Neighbor Rules: A cloud of colored spheres flies through 3D space following simple “boids” rules (alignment, cohesion, separation), leaving faint motion trails as they spontaneously form and dissolve flocks around a few stationary transparent beacons."
+    },
+    {
+      "number": "2",
+      "title": "Crystal Growth from Random Walkers",
+      "description": "Tiny glowing particles perform random walks in 3D and stick to a central seed sphere when they collide, gradually building a branching crystal lattice whose color changes with local density while free walkers leave short fading trails.",
+      "seed": "Crystal Growth from Random Walkers: Tiny glowing particles perform random walks in 3D and stick to a central seed sphere when they collide, gradually building a branching crystal lattice whose color changes with local density while free walkers leave short fading trails."
+    },
+    {
+      "number": "3",
+      "title": "Traffic Flow on a 3D Overpass Network",
+      "description": "Small car-like boxes move along elevated 3D road tubes following simple speed and spacing rules, with red/green speed indicators above them as traffic jams and flowing lanes emerge without any global control.",
+      "seed": "Traffic Flow on a 3D Overpass Network: Small car-like boxes move along elevated 3D road tubes following simple speed and spacing rules, with red/green speed indicators above them as traffic jams and flowing lanes emerge without any global control."
+    },
+    {
+      "number": "4",
+      "title": "Chemical Reaction-Diffusion in a Transparent Cube",
+      "description": "Thousands of colored particles diffuse inside a semi-transparent cube, changing color and bouncing softly when near certain others, creating emergent reaction-diffusion patterns that appear as swirling 3D color clouds.",
+      "seed": "Chemical Reaction-Diffusion in a Transparent Cube: Thousands of colored particles diffuse inside a semi-transparent cube, changing color and bouncing softly when near certain others, creating emergent reaction-diffusion patterns that appear as swirling 3D color clouds."
+    },
+    {
+      "number": "5",
+      "title": "Ant Colony Foraging on a 3D Terrain",
+      "description": "Small ant spheres wander over a gently bumpy terrain plate, laying semi-transparent pheromone trails that slowly fade, as simple rules of following stronger trails and carrying food cubes lead to emergent paths between a nest and scattered food piles.",
+      "seed": "Ant Colony Foraging on a 3D Terrain: Small ant spheres wander over a gently bumpy terrain plate, laying semi-transparent pheromone trails that slowly fade, as simple rules of following stronger trails and carrying food cubes lead to emergent paths between a nest and scattered food piles."
+    },
+    {
+      "number": "6",
+      "title": "3D Game of Life Layers",
+      "description": "Multiple stacked transparent grids of small cubes switch on/off (visible/invisible, color-changing) according to a 3D cellular automaton rule, with clusters pulsing, propagating, and dying out while the camera orbits the emergent structures.",
+      "seed": "3D Game of Life Layers: Multiple stacked transparent grids of small cubes switch on/off (visible/invisible, color-changing) according to a 3D cellular automaton rule, with clusters pulsing, propagating, and dying out while the camera orbits the emergent structures."
+    },
+    {
+      "number": "7",
+      "title": "Planetary Rings from Colliding Ice Chunks",
+      "description": "Hundreds of icy spheres orbit a central planet, colliding elastically and occasionally sticking into small clumps based on speed thresholds, as emergent ring gaps, dense bands, and clumps appear over time with faint orbital trails.",
+      "seed": "Planetary Rings from Colliding Ice Chunks: Hundreds of icy spheres orbit a central planet, colliding elastically and occasionally sticking into small clumps based on speed thresholds, as emergent ring gaps, dense bands, and clumps appear over time with faint orbital trails."
+    },
+    {
+      "number": "8",
+      "title": "Neural Network Firing in a Growing Brain Cluster",
+      "description": "A swarm of small nodes (spheres) randomly connects with thin semi-transparent cylinders according to local proximity rules; when one node fires, simple threshold rules cause waves of glowing pulses to propagate through the emergent network.",
+      "seed": "Neural Network Firing in a Growing Brain Cluster: A swarm of small nodes (spheres) randomly connects with thin semi-transparent cylinders according to local proximity rules; when one node fires, simple threshold rules cause waves of glowing pulses to propagate through the emergent network."
+    },
+    {
+      "number": "9",
+      "title": "Slime Mold Pathfinding Between Food Sources",
+      "description": "A blob made of many tiny connected particles spreads over a flat plate to reach scattered food pellets, with each particle following simple expansion and contraction rules and local nutrient gradients, causing emergent tube-like transport networks to form and darken.",
+      "seed": "Slime Mold Pathfinding Between Food Sources: A blob made of many tiny connected particles spreads over a flat plate to reach scattered food pellets, with each particle following simple expansion and contraction rules and local nutrient gradients, causing emergent tube-like transport networks to form and darken."
+    },
+    {
+      "number": "10",
+      "title": "Sandpile Avalanche on a Tilting Platform",
+      "description": "Grains of sand (tiny spheres) drop from above onto a square platform and follow simple local stacking and toppling rules, spontaneously creating and releasing avalanches as the platform slowly tilts and a height-map color gradient emerges.",
+      "seed": "Sandpile Avalanche on a Tilting Platform: Grains of sand (tiny spheres) drop from above onto a square platform and follow simple local stacking and toppling rules, spontaneously creating and releasing avalanches as the platform slowly tilts and a height-map color gradient emerges."
+    },
+    {
+      "number": "11",
+      "title": "Swarming Drones Building a Floating Structure",
+      "description": "Dozens of small drone cubes fly around a central transparent scaffolding, using simple rules to pick up and attach rod segments, leading to the emergent construction of a larger lattice; drones avoid collisions and leave short navigation trails.",
+      "seed": "Swarming Drones Building a Floating Structure: Dozens of small drone cubes fly around a central transparent scaffolding, using simple rules to pick up and attach rod segments, leading to the emergent construction of a larger lattice; drones avoid collisions and leave short navigation trails."
+    },
+    {
+      "number": "12",
+      "title": "Bacterial Colony Expansion in 3D Gel",
+      "description": "Microbe spheres replicate, die, or move slightly within a transparent gel cube based on simple local nutrient and neighbor rules, forming emergent branching, shell-like, or clustered patterns with color indicating growth phase.",
+      "seed": "Bacterial Colony Expansion in 3D Gel: Microbe spheres replicate, die, or move slightly within a transparent gel cube based on simple local nutrient and neighbor rules, forming emergent branching, shell-like, or clustered patterns with color indicating growth phase."
+    },
+    {
+      "number": "13",
+      "title": "Market Agents Trading Colored Tokens",
+      "description": "Many small agent spheres float in a 3D volume and exchange tiny colored token particles when they touch, according to simple buy/sell rules, causing emergent wealth clusters and trade routes highlighted by growing colored halos around richer agents.",
+      "seed": "Market Agents Trading Colored Tokens: Many small agent spheres float in a 3D volume and exchange tiny colored token particles when they touch, according to simple buy/sell rules, causing emergent wealth clusters and trade routes highlighted by growing colored halos around richer agents."
+    },
+    {
+      "number": "14",
+      "title": "3D Diffusion-Limited Aggregation Tree",
+      "description": "Particles randomly drift inside a large transparent sphere and permanently stick when they hit an existing cluster, causing an emergent tree-like fractal to grow outward from a central seed, with branches color-coded by age.",
+      "seed": "3D Diffusion-Limited Aggregation Tree: Particles randomly drift inside a large transparent sphere and permanently stick when they hit an existing cluster, causing an emergent tree-like fractal to grow outward from a central seed, with branches color-coded by age."
+    },
+    {
+      "number": "15",
+      "title": "Simple Robots Sorting Mixed Objects",
+      "description": "Small robot cubes glide over a flat plane covered with randomly scattered colored balls, using simple pickup/drop rules based on local color density, producing emergent sorted piles and stripes as robots leave subtle path trails.",
+      "seed": "Simple Robots Sorting Mixed Objects: Small robot cubes glide over a flat plane covered with randomly scattered colored balls, using simple pickup/drop rules based on local color density, producing emergent sorted piles and stripes as robots leave subtle path trails."
+    },
+    {
+      "number": "16",
+      "title": "Magnetic Dipoles Self-Organizing into Chains",
+      "description": "Rod-like magnets float and rotate freely in 3D, snapping together end-to-end when opposite poles approach and repelling when like poles get close, leading to emergent chains, rings, and lattice fragments that wiggle and reconfigure.",
+      "seed": "Magnetic Dipoles Self-Organizing into Chains: Rod-like magnets float and rotate freely in 3D, snapping together end-to-end when opposite poles approach and repelling when like poles get close, leading to emergent chains, rings, and lattice fragments that wiggle and reconfigure."
+    },
+    {
+      "number": "17",
+      "title": "Snowflake Formation in a Cooling Cloud",
+      "description": "Water molecules (tiny spheres) drift inside a transparent, slowly cooling box and stick to a tiny seed when they collide at low enough energy, using simple angle-preference rules to create emergent hexagonal snowflake structures.",
+      "seed": "Snowflake Formation in a Cooling Cloud: Water molecules (tiny spheres) drift inside a transparent, slowly cooling box and stick to a tiny seed when they collide at low enough energy, using simple angle-preference rules to create emergent hexagonal snowflake structures."
+    },
+    {
+      "number": "18",
+      "title": "Emergent Lane Formation in Crowd Flow",
+      "description": "Many human-like capsules walk across a flat plaza from opposite sides using simple collision-avoidance and goal-direction rules, spontaneously forming and dissolving lanes of uniform walking direction, with faint footprints marking paths.",
+      "seed": "Emergent Lane Formation in Crowd Flow: Many human-like capsules walk across a flat plaza from opposite sides using simple collision-avoidance and goal-direction rules, spontaneously forming and dissolving lanes of uniform walking direction, with faint footprints marking paths."
+    },
+    {
+      "number": "19",
+      "title": "3D Predator-Prey Swarms",
+      "description": "Prey spheres wander and flock using simple rules, while fewer predator spheres chase the nearest prey; when predators “eat” prey, new predators may spawn, leading to emergent cycles of clustering and dispersal shown by changing population counters.",
+      "seed": "3D Predator-Prey Swarms: Prey spheres wander and flock using simple rules, while fewer predator spheres chase the nearest prey; when predators “eat” prey, new predators may spawn, leading to emergent cycles of clustering and dispersal shown by changing population counters."
+    },
+    {
+      "number": "20",
+      "title": "Growing City from Local Zoning Rules",
+      "description": "Small building blocks pop up on a flat grid according to simple local rules about neighboring heights and colors (residential, commercial, parks), resulting in emergent districts, skylines, and road-like gaps visible from an orbiting camera.",
+      "seed": "Growing City from Local Zoning Rules: Small building blocks pop up on a flat grid according to simple local rules about neighboring heights and colors (residential, commercial, parks), resulting in emergent districts, skylines, and road-like gaps visible from an orbiting camera."
+    },
+    {
+      "number": "21",
+      "title": "Fireflies Synchronizing Their Flashes",
+      "description": "Many tiny glowing spheres hover in a 3D volume, each flashing periodically and slightly adjusting its phase when seeing nearby flashes, leading to emergent synchronized pulsing waves of light against a soft light-blue background.",
+      "seed": "Fireflies Synchronizing Their Flashes: Many tiny glowing spheres hover in a 3D volume, each flashing periodically and slightly adjusting its phase when seeing nearby flashes, leading to emergent synchronized pulsing waves of light against a soft light-blue background."
+    },
+    {
+      "number": "22",
+      "title": "Turbulent Flow from Simple Particle Collisions",
+      "description": "A stream of colored particles is injected into one side of a transparent rectangular channel, bouncing elastically and following simple collision rules, as vortices and turbulent eddies emerge and are visualized by particle trails and color gradients.",
+      "seed": "Turbulent Flow from Simple Particle Collisions: A stream of colored particles is injected into one side of a transparent rectangular channel, bouncing elastically and following simple collision rules, as vortices and turbulent eddies emerge and are visualized by particle trails and color gradients."
+    },
+    {
+      "number": "23",
+      "title": "Polymer Chains Folding from Local Bonds",
+      "description": "Chains of linked spheres (polymers) float and rotate, forming and breaking simple local bonds when segments come close, gradually folding into compact shapes; chains are color-graded along their length to reveal emergent 3D folding patterns.",
+      "seed": "Polymer Chains Folding from Local Bonds: Chains of linked spheres (polymers) float and rotate, forming and breaking simple local bonds when segments come close, gradually folding into compact shapes; chains are color-graded along their length to reveal emergent 3D folding patterns."
+    },
+    {
+      "number": "24",
+      "title": "Galaxy Formation from Gravitating Stars",
+      "description": "Hundreds of star particles orbit a central mass, attracting each other with simple gravitational rules and merging on slow collisions, producing emergent spiral arms, clumps, and rings visible via glowing trails and brightness tied to mass.",
+      "seed": "Galaxy Formation from Gravitating Stars: Hundreds of star particles orbit a central mass, attracting each other with simple gravitational rules and merging on slow collisions, producing emergent spiral arms, clumps, and rings visible via glowing trails and brightness tied to mass."
+    }
+  ],
+  "raw_output": "Here are strong **Emergence from simple rules simulation inputs** you can plug into your prompt:\n\n1. **Flocking Spheres with Simple Neighbor Rules**\n   A cloud of colored spheres flies through 3D space following simple “boids” rules (alignment, cohesion, separation), leaving faint motion trails as they spontaneously form and dissolve flocks around a few stationary transparent beacons.\n\n2. **Crystal Growth from Random Walkers**\n   Tiny glowing particles perform random walks in 3D and stick to a central seed sphere when they collide, gradually building a branching crystal lattice whose color changes with local density while free walkers leave short fading trails.\n\n3. **Traffic Flow on a 3D Overpass Network**\n   Small car-like boxes move along elevated 3D road tubes following simple speed and spacing rules, with red/green speed indicators above them as traffic jams and flowing lanes emerge without any global control.\n\n4. **Chemical Reaction-Diffusion in a Transparent Cube**\n   Thousands of colored particles diffuse inside a semi-transparent cube, changing color and bouncing softly when near certain others, creating emergent reaction-diffusion patterns that appear as swirling 3D color clouds.\n\n5. **Ant Colony Foraging on a 3D Terrain**\n   Small ant spheres wander over a gently bumpy terrain plate, laying semi-transparent pheromone trails that slowly fade, as simple rules of following stronger trails and carrying food cubes lead to emergent paths between a nest and scattered food piles.\n\n6. **3D Game of Life Layers**\n   Multiple stacked transparent grids of small cubes switch on/off (visible/invisible, color-changing) according to a 3D cellular automaton rule, with clusters pulsing, propagating, and dying out while the camera orbits the emergent structures.\n\n7. **Planetary Rings from Colliding Ice Chunks**\n   Hundreds of icy spheres orbit a central planet, colliding elastically and occasionally sticking into small clumps based on speed thresholds, as emergent ring gaps, dense bands, and clumps appear over time with faint orbital trails.\n\n8. **Neural Network Firing in a Growing Brain Cluster**\n   A swarm of small nodes (spheres) randomly connects with thin semi-transparent cylinders according to local proximity rules; when one node fires, simple threshold rules cause waves of glowing pulses to propagate through the emergent network.\n\n9. **Slime Mold Pathfinding Between Food Sources**\n   A blob made of many tiny connected particles spreads over a flat plate to reach scattered food pellets, with each particle following simple expansion and contraction rules and local nutrient gradients, causing emergent tube-like transport networks to form and darken.\n\n10. **Sandpile Avalanche on a Tilting Platform**\n    Grains of sand (tiny spheres) drop from above onto a square platform and follow simple local stacking and toppling rules, spontaneously creating and releasing avalanches as the platform slowly tilts and a height-map color gradient emerges.\n\n11. **Swarming Drones Building a Floating Structure**\n    Dozens of small drone cubes fly around a central transparent scaffolding, using simple rules to pick up and attach rod segments, leading to the emergent construction of a larger lattice; drones avoid collisions and leave short navigation trails.\n\n12. **Bacterial Colony Expansion in 3D Gel**\n    Microbe spheres replicate, die, or move slightly within a transparent gel cube based on simple local nutrient and neighbor rules, forming emergent branching, shell-like, or clustered patterns with color indicating growth phase.\n\n13. **Market Agents Trading Colored Tokens**\n    Many small agent spheres float in a 3D volume and exchange tiny colored token particles when they touch, according to simple buy/sell rules, causing emergent wealth clusters and trade routes highlighted by growing colored halos around richer agents.\n\n14. **3D Diffusion-Limited Aggregation Tree**\n    Particles randomly drift inside a large transparent sphere and permanently stick when they hit an existing cluster, causing an emergent tree-like fractal to grow outward from a central seed, with branches color-coded by age.\n\n15. **Simple Robots Sorting Mixed Objects**\n    Small robot cubes glide over a flat plane covered with randomly scattered colored balls, using simple pickup/drop rules based on local color density, producing emergent sorted piles and stripes as robots leave subtle path trails.\n\n16. **Magnetic Dipoles Self-Organizing into Chains**\n    Rod-like magnets float and rotate freely in 3D, snapping together end-to-end when opposite poles approach and repelling when like poles get close, leading to emergent chains, rings, and lattice fragments that wiggle and reconfigure.\n\n17. **Snowflake Formation in a Cooling Cloud**\n    Water molecules (tiny spheres) drift inside a transparent, slowly cooling box and stick to a tiny seed when they collide at low enough energy, using simple angle-preference rules to create emergent hexagonal snowflake structures.\n\n18. **Emergent Lane Formation in Crowd Flow**\n    Many human-like capsules walk across a flat plaza from opposite sides using simple collision-avoidance and goal-direction rules, spontaneously forming and dissolving lanes of uniform walking direction, with faint footprints marking paths.\n\n19. **3D Predator-Prey Swarms**\n    Prey spheres wander and flock using simple rules, while fewer predator spheres chase the nearest prey; when predators “eat” prey, new predators may spawn, leading to emergent cycles of clustering and dispersal shown by changing population counters.\n\n20. **Growing City from Local Zoning Rules**\n    Small building blocks pop up on a flat grid according to simple local rules about neighboring heights and colors (residential, commercial, parks), resulting in emergent districts, skylines, and road-like gaps visible from an orbiting camera.\n\n21. **Fireflies Synchronizing Their Flashes**\n    Many tiny glowing spheres hover in a 3D volume, each flashing periodically and slightly adjusting its phase when seeing nearby flashes, leading to emergent synchronized pulsing waves of light against a soft light-blue background.\n\n22. **Turbulent Flow from Simple Particle Collisions**\n    A stream of colored particles is injected into one side of a transparent rectangular channel, bouncing elastically and following simple collision rules, as vortices and turbulent eddies emerge and are visualized by particle trails and color gradients.\n\n23. **Polymer Chains Folding from Local Bonds**\n    Chains of linked spheres (polymers) float and rotate, forming and breaking simple local bonds when segments come close, gradually folding into compact shapes; chains are color-graded along their length to reveal emergent 3D folding patterns.\n\n24. **Galaxy Formation from Gravitating Stars**\n    Hundreds of star particles orbit a central mass, attracting each other with simple gravitational rules and merging on slow collisions, producing emergent spiral arms, clumps, and rings visible via glowing trails and brightness tied to mass."
+}

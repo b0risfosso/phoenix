@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Cities",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:04:00",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Traffic Flow Through a Grid City",
+      "description": "A 3D grid of city blocks with box-shaped buildings and colored car-cubes moving along roads, stopping at traffic lights, colliding if signals fail, with trails showing traffic density and labels for congestion hotspots.",
+      "seed": "Traffic Flow Through a Grid City: A 3D grid of city blocks with box-shaped buildings and colored car-cubes moving along roads, stopping at traffic lights, colliding if signals fail, with trails showing traffic density and labels for congestion hotspots."
+    },
+    {
+      "number": "2",
+      "title": "High-Rise Construction Site Dynamics",
+      "description": "A skeletal high-rise frame where crane arms rotate and lift beam-cylinders, workers as small spheres attach/detach beams, concrete trucks pour transparent gray material that slowly solidifies, with scaffolding that grows floor by floor.",
+      "seed": "High-Rise Construction Site Dynamics: A skeletal high-rise frame where crane arms rotate and lift beam-cylinders, workers as small spheres attach/detach beams, concrete trucks pour transparent gray material that slowly solidifies, with scaffolding that grows floor by floor."
+    },
+    {
+      "number": "3",
+      "title": "Day–Night Light Cycle Over a Downtown Skyline",
+      "description": "A cluster of differently sized buildings whose window panels pulse on and off as the sun-sphere orbits and the sky color shifts from light blue to pale orange, with car lights leaving glowing trails on streets below.",
+      "seed": "Day–Night Light Cycle Over a Downtown Skyline: A cluster of differently sized buildings whose window panels pulse on and off as the sun-sphere orbits and the sky color shifts from light blue to pale orange, with car lights leaving glowing trails on streets below."
+    },
+    {
+      "number": "4",
+      "title": "Subway Network Under a Transparent City",
+      "description": "Semi-transparent ground plane showing above-ground buildings and trees, while colored train-capsules move through underground tube-cylinders, stopping at labeled stations where particles representing passengers transfer between trains and stairwells.",
+      "seed": "Subway Network Under a Transparent City: Semi-transparent ground plane showing above-ground buildings and trees, while colored train-capsules move through underground tube-cylinders, stopping at labeled stations where particles representing passengers transfer between trains and stairwells."
+    },
+    {
+      "number": "5",
+      "title": "Flooded City Streets and Drainage System",
+      "description": "A low-lying city neighborhood where blue water planes rise, flow, and wrap around buildings, then drain into grates leading to underground pipes, with floating debris-cubes that collide with barriers and get trapped or flushed.",
+      "seed": "Flooded City Streets and Drainage System: A low-lying city neighborhood where blue water planes rise, flow, and wrap around buildings, then drain into grates leading to underground pipes, with floating debris-cubes that collide with barriers and get trapped or flushed."
+    },
+    {
+      "number": "6",
+      "title": "Skyscraper Wind Flow Simulation",
+      "description": "A cluster of tall buildings with white air-particle arrows streaming between them, bending, splitting, and merging as wind hits facades, with colored streaks showing high-speed gusts and vortices wrapping around corners and plazas.",
+      "seed": "Skyscraper Wind Flow Simulation: A cluster of tall buildings with white air-particle arrows streaming between them, bending, splitting, and merging as wind hits facades, with colored streaks showing high-speed gusts and vortices wrapping around corners and plazas."
+    },
+    {
+      "number": "7",
+      "title": "City Power Grid and Rolling Blackouts",
+      "description": "A 3D map of buildings connected by glowing cable-lines to substations; demand meters above each block grow and shrink, wires pulse brighter as load increases, and overloaded nodes flicker off causing nearby regions to reroute power and relight.",
+      "seed": "City Power Grid and Rolling Blackouts: A 3D map of buildings connected by glowing cable-lines to substations; demand meters above each block grow and shrink, wires pulse brighter as load increases, and overloaded nodes flicker off causing nearby regions to reroute power and relight."
+    },
+    {
+      "number": "8",
+      "title": "Urban Drone Delivery Swarm",
+      "description": "Boxy drones with spinning rotor-disks launch from a central hub, navigate between building canyons, avoid collisions using repulsive forces, attach small package-cubes, then detach them at glowing delivery pads on rooftops, leaving faint path trails.",
+      "seed": "Urban Drone Delivery Swarm: Boxy drones with spinning rotor-disks launch from a central hub, navigate between building canyons, avoid collisions using repulsive forces, attach small package-cubes, then detach them at glowing delivery pads on rooftops, leaving faint path trails."
+    },
+    {
+      "number": "9",
+      "title": "Evolving City Growth Over Time",
+      "description": "A flat terrain where small house-cubes appear, merge into taller apartment blocks, and branch into commercial towers along main road-lines, with color-coded zones (residential, commercial, industrial) expanding and occasionally being demolished and replaced.",
+      "seed": "Evolving City Growth Over Time: A flat terrain where small house-cubes appear, merge into taller apartment blocks, and branch into commercial towers along main road-lines, with color-coded zones (residential, commercial, industrial) expanding and occasionally being demolished and replaced."
+    },
+    {
+      "number": "10",
+      "title": "Pollution Plumes Over an Industrial District",
+      "description": "Factories at city edge emit gray particle clouds that rise, drift over buildings, and slowly dissolve, with colored sensors on rooftops that change from green to red as pollution density around them increases.",
+      "seed": "Pollution Plumes Over an Industrial District: Factories at city edge emit gray particle clouds that rise, drift over buildings, and slowly dissolve, with colored sensors on rooftops that change from green to red as pollution density around them increases."
+    },
+    {
+      "number": "11",
+      "title": "Pedestrian Flows in a Central Plaza",
+      "description": "Hundreds of small spheres move along sidewalks and through a square, merging into dense streams, splitting at intersections, pausing at crosswalks, and bouncing off obstacles, with heatmap tiles on the ground showing foot-traffic intensity.",
+      "seed": "Pedestrian Flows in a Central Plaza: Hundreds of small spheres move along sidewalks and through a square, merging into dense streams, splitting at intersections, pausing at crosswalks, and bouncing off obstacles, with heatmap tiles on the ground showing foot-traffic intensity."
+    },
+    {
+      "number": "12",
+      "title": "City River, Bridges, and Boat Traffic",
+      "description": "A semi-transparent blue river slicing through the city, with bridges as stationary arches while boats of different sizes move, overtake, and bounce off riverbanks; wake trails follow each boat and buoys bob and collide in the water.",
+      "seed": "City River, Bridges, and Boat Traffic: A semi-transparent blue river slicing through the city, with bridges as stationary arches while boats of different sizes move, overtake, and bounce off riverbanks; wake trails follow each boat and buoys bob and collide in the water."
+    },
+    {
+      "number": "13",
+      "title": "Emergency Response to a City Fire",
+      "description": "A building’s top floors glow red and emit orange particle flames and gray smoke; fire trucks move through streets, attach hoses to hydrants, and spray blue water streams that collide with the building, gradually cooling and dimming the glowing regions.",
+      "seed": "Emergency Response to a City Fire: A building’s top floors glow red and emit orange particle flames and gray smoke; fire trucks move through streets, attach hoses to hydrants, and spray blue water streams that collide with the building, gradually cooling and dimming the glowing regions."
+    },
+    {
+      "number": "14",
+      "title": "Skybridge Network Between Towers",
+      "description": "Multiple tall towers linked by transparent skybridges that can extend, retract, and rotate to connect new floors, with small pedestrian spheres crossing; some bridges detach and swing down as elevators, then reattach at different heights.",
+      "seed": "Skybridge Network Between Towers: Multiple tall towers linked by transparent skybridges that can extend, retract, and rotate to connect new floors, with small pedestrian spheres crossing; some bridges detach and swing down as elevators, then reattach at different heights."
+    },
+    {
+      "number": "15",
+      "title": "Underground Sewers Beneath City Blocks",
+      "description": "Floor-level city blocks sit above a semi-transparent ground that reveals branching sewer pipes; colored wastewater streams flow, merge, and split, with occasional blockages where particles accumulate until a pressure buildup forces a sudden clearing pulse.",
+      "seed": "Underground Sewers Beneath City Blocks: Floor-level city blocks sit above a semi-transparent ground that reveals branching sewer pipes; colored wastewater streams flow, merge, and split, with occasional blockages where particles accumulate until a pressure buildup forces a sudden clearing pulse."
+    },
+    {
+      "number": "16",
+      "title": "City Park Ecosystem Amid Skyscrapers",
+      "description": "A green park patch surrounded by buildings where trees grow and branch, small animal-spheres wander, a pond ripples, and seasonal changes alter leaf colors; airborne pollen particles drift into the city streets and slowly dissipate.",
+      "seed": "City Park Ecosystem Amid Skyscrapers: A green park patch surrounded by buildings where trees grow and branch, small animal-spheres wander, a pond ripples, and seasonal changes alter leaf colors; airborne pollen particles drift into the city streets and slowly dissipate."
+    },
+    {
+      "number": "17",
+      "title": "Metaphorical “Data City” of Servers and Packets",
+      "description": "A city of server-towers where data-packet spheres zip along glowing network roads, queue at routers, collide and merge into larger packets, split into routes around congestion, and occasionally bounce back as errors marked in red.",
+      "seed": "Metaphorical “Data City” of Servers and Packets: A city of server-towers where data-packet spheres zip along glowing network roads, queue at routers, collide and merge into larger packets, split into routes around congestion, and occasionally bounce back as errors marked in red."
+    },
+    {
+      "number": "18",
+      "title": "Urban Heat Island and Cooling Strategies",
+      "description": "A 3D city with rooftops that heat up under a moving sun; thermal color overlays on surfaces shift from blue to red, while green roofs and water features absorb and transfer heat differently, with floating thermometers above each block.",
+      "seed": "Urban Heat Island and Cooling Strategies: A 3D city with rooftops that heat up under a moving sun; thermal color overlays on surfaces shift from blue to red, while green roofs and water features absorb and transfer heat differently, with floating thermometers above each block."
+    },
+    {
+      "number": "19",
+      "title": "Autonomous Vehicle City Intersection Lab",
+      "description": "Four-way intersection surrounded by simple buildings where multiple self-driving cars negotiate turns, accelerate, and brake; predicted paths appear as transparent tubes, and near-collisions trigger color changes and avoidance maneuvers.",
+      "seed": "Autonomous Vehicle City Intersection Lab: Four-way intersection surrounded by simple buildings where multiple self-driving cars negotiate turns, accelerate, and brake; predicted paths appear as transparent tubes, and near-collisions trigger color changes and avoidance maneuvers."
+    },
+    {
+      "number": "20",
+      "title": "City Skyline Reflected in a Rising Tide",
+      "description": "A waterfront city where calm water gradually rises, reflecting buildings as slightly wavy mirrored shapes; floating markers show previous shoreline positions, and some lower buildings get partially submerged with transparency showing underwater sections.",
+      "seed": "City Skyline Reflected in a Rising Tide: A waterfront city where calm water gradually rises, reflecting buildings as slightly wavy mirrored shapes; floating markers show previous shoreline positions, and some lower buildings get partially submerged with transparency showing underwater sections."
+    },
+    {
+      "number": "21",
+      "title": "Flying Car Lanes Above the City",
+      "description": "Stacked aerial lanes between skyscrapers where car-pods float, accelerate, and change levels via vertical shafts; collisions are avoided by repulsive forces, and colored trails show different routes weaving and branching in 3D space.",
+      "seed": "Flying Car Lanes Above the City: Stacked aerial lanes between skyscrapers where car-pods float, accelerate, and change levels via vertical shafts; collisions are avoided by repulsive forces, and colored trails show different routes weaving and branching in 3D space."
+    },
+    {
+      "number": "22",
+      "title": "Interactive Billboard and Light Beam Show",
+      "description": "Buildings with giant screens that pulse different colors and send narrow light beams into the sky; beams intersect, wrap, and create volumetric shapes in a lightly foggy air, while moving drones project additional patterns and labels.",
+      "seed": "Interactive Billboard and Light Beam Show: Buildings with giant screens that pulse different colors and send narrow light beams into the sky; beams intersect, wrap, and create volumetric shapes in a lightly foggy air, while moving drones project additional patterns and labels."
+    },
+    {
+      "number": "23",
+      "title": "City Demolition and Rubble Dynamics",
+      "description": "A derelict tower is systematically weakened by impact-spheres; chunks detach, fall, collide with the ground and other debris, and form a rubble pile whose shape changes over time, while dust particles rise and slowly settle.",
+      "seed": "City Demolition and Rubble Dynamics: A derelict tower is systematically weakened by impact-spheres; chunks detach, fall, collide with the ground and other debris, and form a rubble pile whose shape changes over time, while dust particles rise and slowly settle."
+    },
+    {
+      "number": "24",
+      "title": "Microscopic “Cell City” Inside a Body",
+      "description": "Organelles as skyscraper-like structures, microtubule highways as roads, and vesicle-spheres as delivery trucks that attach to tracks, move, merge with membrane walls, and release content, all labeled as a metaphorical city inside a cell.",
+      "seed": "Microscopic “Cell City” Inside a Body: Organelles as skyscraper-like structures, microtubule highways as roads, and vesicle-spheres as delivery trucks that attach to tracks, move, merge with membrane walls, and release content, all labeled as a metaphorical city inside a cell."
+    },
+    {
+      "number": "25",
+      "title": "Multi-Level Parking Structure in a Dense City Block",
+      "description": "A parking garage where car-cubes enter from street level, spiral up ramps, park in slots that glow when occupied, and later reverse out; occupancy meters on each level update, and occasional collisions trigger alarms and bouncing reactions.",
+      "seed": "Multi-Level Parking Structure in a Dense City Block: A parking garage where car-cubes enter from street level, spiral up ramps, park in slots that glow when occupied, and later reverse out; occupancy meters on each level update, and occasional collisions trigger alarms and bouncing reactions."
+    }
+  ],
+  "raw_output": "Here are strong **Cities simulation inputs** you can plug into your prompt:\n\n1. **Traffic Flow Through a Grid City**\n   A 3D grid of city blocks with box-shaped buildings and colored car-cubes moving along roads, stopping at traffic lights, colliding if signals fail, with trails showing traffic density and labels for congestion hotspots.\n\n2. **High-Rise Construction Site Dynamics**\n   A skeletal high-rise frame where crane arms rotate and lift beam-cylinders, workers as small spheres attach/detach beams, concrete trucks pour transparent gray material that slowly solidifies, with scaffolding that grows floor by floor.\n\n3. **Day–Night Light Cycle Over a Downtown Skyline**\n   A cluster of differently sized buildings whose window panels pulse on and off as the sun-sphere orbits and the sky color shifts from light blue to pale orange, with car lights leaving glowing trails on streets below.\n\n4. **Subway Network Under a Transparent City**\n   Semi-transparent ground plane showing above-ground buildings and trees, while colored train-capsules move through underground tube-cylinders, stopping at labeled stations where particles representing passengers transfer between trains and stairwells.\n\n5. **Flooded City Streets and Drainage System**\n   A low-lying city neighborhood where blue water planes rise, flow, and wrap around buildings, then drain into grates leading to underground pipes, with floating debris-cubes that collide with barriers and get trapped or flushed.\n\n6. **Skyscraper Wind Flow Simulation**\n   A cluster of tall buildings with white air-particle arrows streaming between them, bending, splitting, and merging as wind hits facades, with colored streaks showing high-speed gusts and vortices wrapping around corners and plazas.\n\n7. **City Power Grid and Rolling Blackouts**\n   A 3D map of buildings connected by glowing cable-lines to substations; demand meters above each block grow and shrink, wires pulse brighter as load increases, and overloaded nodes flicker off causing nearby regions to reroute power and relight.\n\n8. **Urban Drone Delivery Swarm**\n   Boxy drones with spinning rotor-disks launch from a central hub, navigate between building canyons, avoid collisions using repulsive forces, attach small package-cubes, then detach them at glowing delivery pads on rooftops, leaving faint path trails.\n\n9. **Evolving City Growth Over Time**\n   A flat terrain where small house-cubes appear, merge into taller apartment blocks, and branch into commercial towers along main road-lines, with color-coded zones (residential, commercial, industrial) expanding and occasionally being demolished and replaced.\n\n10. **Pollution Plumes Over an Industrial District**\n    Factories at city edge emit gray particle clouds that rise, drift over buildings, and slowly dissolve, with colored sensors on rooftops that change from green to red as pollution density around them increases.\n\n11. **Pedestrian Flows in a Central Plaza**\n    Hundreds of small spheres move along sidewalks and through a square, merging into dense streams, splitting at intersections, pausing at crosswalks, and bouncing off obstacles, with heatmap tiles on the ground showing foot-traffic intensity.\n\n12. **City River, Bridges, and Boat Traffic**\n    A semi-transparent blue river slicing through the city, with bridges as stationary arches while boats of different sizes move, overtake, and bounce off riverbanks; wake trails follow each boat and buoys bob and collide in the water.\n\n13. **Emergency Response to a City Fire**\n    A building’s top floors glow red and emit orange particle flames and gray smoke; fire trucks move through streets, attach hoses to hydrants, and spray blue water streams that collide with the building, gradually cooling and dimming the glowing regions.\n\n14. **Skybridge Network Between Towers**\n    Multiple tall towers linked by transparent skybridges that can extend, retract, and rotate to connect new floors, with small pedestrian spheres crossing; some bridges detach and swing down as elevators, then reattach at different heights.\n\n15. **Underground Sewers Beneath City Blocks**\n    Floor-level city blocks sit above a semi-transparent ground that reveals branching sewer pipes; colored wastewater streams flow, merge, and split, with occasional blockages where particles accumulate until a pressure buildup forces a sudden clearing pulse.\n\n16. **City Park Ecosystem Amid Skyscrapers**\n    A green park patch surrounded by buildings where trees grow and branch, small animal-spheres wander, a pond ripples, and seasonal changes alter leaf colors; airborne pollen particles drift into the city streets and slowly dissipate.\n\n17. **Metaphorical “Data City” of Servers and Packets**\n    A city of server-towers where data-packet spheres zip along glowing network roads, queue at routers, collide and merge into larger packets, split into routes around congestion, and occasionally bounce back as errors marked in red.\n\n18. **Urban Heat Island and Cooling Strategies**\n    A 3D city with rooftops that heat up under a moving sun; thermal color overlays on surfaces shift from blue to red, while green roofs and water features absorb and transfer heat differently, with floating thermometers above each block.\n\n19. **Autonomous Vehicle City Intersection Lab**\n    Four-way intersection surrounded by simple buildings where multiple self-driving cars negotiate turns, accelerate, and brake; predicted paths appear as transparent tubes, and near-collisions trigger color changes and avoidance maneuvers.\n\n20. **City Skyline Reflected in a Rising Tide**\n    A waterfront city where calm water gradually rises, reflecting buildings as slightly wavy mirrored shapes; floating markers show previous shoreline positions, and some lower buildings get partially submerged with transparency showing underwater sections.\n\n21. **Flying Car Lanes Above the City**\n    Stacked aerial lanes between skyscrapers where car-pods float, accelerate, and change levels via vertical shafts; collisions are avoided by repulsive forces, and colored trails show different routes weaving and branching in 3D space.\n\n22. **Interactive Billboard and Light Beam Show**\n    Buildings with giant screens that pulse different colors and send narrow light beams into the sky; beams intersect, wrap, and create volumetric shapes in a lightly foggy air, while moving drones project additional patterns and labels.\n\n23. **City Demolition and Rubble Dynamics**\n    A derelict tower is systematically weakened by impact-spheres; chunks detach, fall, collide with the ground and other debris, and form a rubble pile whose shape changes over time, while dust particles rise and slowly settle.\n\n24. **Microscopic “Cell City” Inside a Body**\n    Organelles as skyscraper-like structures, microtubule highways as roads, and vesicle-spheres as delivery trucks that attach to tracks, move, merge with membrane walls, and release content, all labeled as a metaphorical city inside a cell.\n\n25. **Multi-Level Parking Structure in a Dense City Block**\n    A parking garage where car-cubes enter from street level, spiral up ramps, park in slots that glow when occupied, and later reverse out; occupancy meters on each level update, and occasional collisions trigger alarms and bouncing reactions."
+}

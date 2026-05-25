@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Color mixing",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:06:48",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Floating Dye Droplets in a Clear Cube",
+      "description": "A transparent cubic tank filled with clear fluid where colorful spherical droplets of dye fall, collide, stretch, and dissolve into swirling color clouds, leaving faint trails and gradually mixing into new hues.",
+      "seed": "Floating Dye Droplets in a Clear Cube: A transparent cubic tank filled with clear fluid where colorful spherical droplets of dye fall, collide, stretch, and dissolve into swirling color clouds, leaving faint trails and gradually mixing into new hues."
+    },
+    {
+      "number": "2",
+      "title": "Orbiting Color Planets That Blend on Impact",
+      "description": "Dozens of small colored spheres orbit a central light source and occasionally collide, merging into a single sphere whose color is the average of the originals, with labels showing RGB values and fading collision shockwaves.",
+      "seed": "Orbiting Color Planets That Blend on Impact: Dozens of small colored spheres orbit a central light source and occasionally collide, merging into a single sphere whose color is the average of the originals, with labels showing RGB values and fading collision shockwaves."
+    },
+    {
+      "number": "3",
+      "title": "Rotating Paint Palette Disc",
+      "description": "A flat circular palette divided into colored wedge sectors that slowly spins while small white droplets drop onto it, roll across the surface, and absorb blended colors based on where they travel, leaving streaky trails behind.",
+      "seed": "Rotating Paint Palette Disc: A flat circular palette divided into colored wedge sectors that slowly spins while small white droplets drop onto it, roll across the surface, and absorb blended colors based on where they travel, leaving streaky trails behind."
+    },
+    {
+      "number": "4",
+      "title": "3D Colorful Smoke Plumes Mixing in Air",
+      "description": "Multiple vents on the floor emit semi-transparent particle plumes of red, green, and blue smoke that rise, overlap, and gently swirl under a ceiling fan, with the overlapping regions gradually changing color according to additive mixing.",
+      "seed": "3D Colorful Smoke Plumes Mixing in Air: Multiple vents on the floor emit semi-transparent particle plumes of red, green, and blue smoke that rise, overlap, and gently swirl under a ceiling fan, with the overlapping regions gradually changing color according to additive mixing."
+    },
+    {
+      "number": "5",
+      "title": "Pouring Colored Liquids into a Tilting Glass",
+      "description": "Several slender tubes pour different translucent colored liquids into a large glass that slowly tilts back and forth, causing layered bands to flow, fold, and mix into gradients while a side panel shows a live color histogram bar.",
+      "seed": "Pouring Colored Liquids into a Tilting Glass: Several slender tubes pour different translucent colored liquids into a large glass that slowly tilts back and forth, causing layered bands to flow, fold, and mix into gradients while a side panel shows a live color histogram bar."
+    },
+    {
+      "number": "6",
+      "title": "Colliding Color-Filled Marbles",
+      "description": "A set of transparent glass marbles, each with a colored core, roll down ramps and collide on a flat table; when two marbles stick together their cores visually blend into a new color and a label hovers showing the resulting mix.",
+      "seed": "Colliding Color-Filled Marbles: A set of transparent glass marbles, each with a colored core, roll down ramps and collide on a flat table; when two marbles stick together their cores visually blend into a new color and a label hovers showing the resulting mix."
+    },
+    {
+      "number": "7",
+      "title": "3D Light Beams Intersecting in a Misty Room",
+      "description": "Narrow red, green, and blue light beams shine from different corners into a slightly foggy room, intersecting in midair to form brighter mixed-color regions, while a movable sensor sphere floats around sampling and displaying the local color.",
+      "seed": "3D Light Beams Intersecting in a Misty Room: Narrow red, green, and blue light beams shine from different corners into a slightly foggy room, intersecting in midair to form brighter mixed-color regions, while a movable sensor sphere floats around sampling and displaying the local color."
+    },
+    {
+      "number": "8",
+      "title": "Microscopic Pigment Particles in a Droplet",
+      "description": "A large transparent sphere represents a water droplet containing many tiny colored particles that diffuse, clump, and detach under gentle random motion, gradually turning the droplet into a uniform mixed color with adjustable temperature (diffusion speed).",
+      "seed": "Microscopic Pigment Particles in a Droplet: A large transparent sphere represents a water droplet containing many tiny colored particles that diffuse, clump, and detach under gentle random motion, gradually turning the droplet into a uniform mixed color with adjustable temperature (diffusion speed)."
+    },
+    {
+      "number": "9",
+      "title": "Color-Mixing Conveyor of Paint Blobs",
+      "description": "Colored paint blobs drop onto a slowly moving conveyor belt, collide, spread, and merge into streaks; overhead paddles occasionally press and fold the blobs, causing more intense mixing patterns and leaving a drying, semi-glossy surface behind.",
+      "seed": "Color-Mixing Conveyor of Paint Blobs: Colored paint blobs drop onto a slowly moving conveyor belt, collide, spread, and merge into streaks; overhead paddles occasionally press and fold the blobs, causing more intense mixing patterns and leaving a drying, semi-glossy surface behind."
+    },
+    {
+      "number": "10",
+      "title": "Color-Changing Fireflies Swapping Glow",
+      "description": "Dozens of glowing spheres (“fireflies”) wander in 3D space; when two get close they briefly connect with a thin line, average their glow colors, then detach and continue flying with faint color trails marking their paths.",
+      "seed": "Color-Changing Fireflies Swapping Glow: Dozens of glowing spheres (“fireflies”) wander in 3D space; when two get close they briefly connect with a thin line, average their glow colors, then detach and continue flying with faint color trails marking their paths."
+    },
+    {
+      "number": "11",
+      "title": "Additive vs. Subtractive Color Walls",
+      "description": "Two vertical panels face each other: one made of overlapping translucent RGB sheets lit from behind, the other painted with CMY pigments lit from the front; sliders move sheets and paint layers so overlapping regions change color while labels explain “additive” vs “subtractive” mixing.",
+      "seed": "Additive vs. Subtractive Color Walls: Two vertical panels face each other: one made of overlapping translucent RGB sheets lit from behind, the other painted with CMY pigments lit from the front; sliders move sheets and paint layers so overlapping regions change color while labels explain “additive” vs “subtractive” mixing."
+    },
+    {
+      "number": "12",
+      "title": "Mixing Colored Sand in a Rotating Cylinder",
+      "description": "A transparent horizontal drum half-filled with layers of brightly colored granular particles slowly rotates, causing bands of colored sand to cascade, interleave, and gradually form speckled mixed regions, with an overhead camera showing the evolving patterns.",
+      "seed": "Mixing Colored Sand in a Rotating Cylinder: A transparent horizontal drum half-filled with layers of brightly colored granular particles slowly rotates, causing bands of colored sand to cascade, interleave, and gradually form speckled mixed regions, with an overhead camera showing the evolving patterns."
+    },
+    {
+      "number": "13",
+      "title": "Molecular-Level Color Diffusion in a Cube",
+      "description": "A clear cube is partitioned into three regions densely filled with red, green, and blue particles; when barriers vanish, particles diffuse and bounce elastically, and the cube’s corners display a live averaged color that shifts toward a uniform mix over time.",
+      "seed": "Molecular-Level Color Diffusion in a Cube: A clear cube is partitioned into three regions densely filled with red, green, and blue particles; when barriers vanish, particles diffuse and bounce elastically, and the cube’s corners display a live averaged color that shifts toward a uniform mix over time."
+    },
+    {
+      "number": "14",
+      "title": "3D Printer Blending Filament Colors",
+      "description": "A robotic print head moves over a platform extruding a glowing filament whose color depends on the current blend from three input filament spools; as the head moves and mixing proportions change, a 3D sculpture grows with smooth or banded color transitions.",
+      "seed": "3D Printer Blending Filament Colors: A robotic print head moves over a platform extruding a glowing filament whose color depends on the current blend from three input filament spools; as the head moves and mixing proportions change, a 3D sculpture grows with smooth or banded color transitions."
+    },
+    {
+      "number": "15",
+      "title": "Color Waves on a Stretching Fabric Sheet",
+      "description": "A flexible rectangular sheet suspended in space is textured with a color grid; invisible “droplets” of colored energy land, spread as expanding rings, and where rings overlap they mix colors, while the sheet gently ripples up and down.",
+      "seed": "Color Waves on a Stretching Fabric Sheet: A flexible rectangular sheet suspended in space is textured with a color grid; invisible “droplets” of colored energy land, spread as expanding rings, and where rings overlap they mix colors, while the sheet gently ripples up and down."
+    },
+    {
+      "number": "16",
+      "title": "Bouncing Color Cubes That Trade Shades",
+      "description": "Brightly colored cubes bounce inside a large transparent box; when two cubes collide, they exchange a fraction of their color, slowly converging to similar hues while leaving short-lived colored motion trails.",
+      "seed": "Bouncing Color Cubes That Trade Shades: Brightly colored cubes bounce inside a large transparent box; when two cubes collide, they exchange a fraction of their color, slowly converging to similar hues while leaving short-lived colored motion trails."
+    },
+    {
+      "number": "17",
+      "title": "Weather Map of Mixing Air Masses",
+      "description": "A curved, semi-transparent globe displays moving patches of colored air masses (warm red, cool blue, moist green) that drift, collide, wrap around mountains, and blend into new shades, with animated arrows showing flow and a side legend mapping color to temperature/humidity.",
+      "seed": "Weather Map of Mixing Air Masses: A curved, semi-transparent globe displays moving patches of colored air masses (warm red, cool blue, moist green) that drift, collide, wrap around mountains, and blend into new shades, with animated arrows showing flow and a side legend mapping color to temperature/humidity."
+    },
+    {
+      "number": "18",
+      "title": "Color-Ink Droppers on Rotating Paper Cylinder",
+      "description": "A tall white paper cylinder rotates slowly while overhead droppers release colored ink droplets that hit, spread, drip downward, and collide with older drips, forming vertical streaks and complex mixed-color patterns around the cylinder.",
+      "seed": "Color-Ink Droppers on Rotating Paper Cylinder: A tall white paper cylinder rotates slowly while overhead droppers release colored ink droplets that hit, spread, drip downward, and collide with older drips, forming vertical streaks and complex mixed-color patterns around the cylinder."
+    },
+    {
+      "number": "19",
+      "title": "Neural Network of Color Signals",
+      "description": "A 3D network of nodes connected by glowing tubes passes colored pulses along its links; when pulses meet at a node they merge, and the node’s color becomes the weighted blend of incoming pulses, with brightness showing signal strength.",
+      "seed": "Neural Network of Color Signals: A 3D network of nodes connected by glowing tubes passes colored pulses along its links; when pulses meet at a node they merge, and the node’s color becomes the weighted blend of incoming pulses, with brightness showing signal strength."
+    },
+    {
+      "number": "20",
+      "title": "Colored Magnetic Fluids in a Stirred Sphere",
+      "description": "A transparent spherical container holds several blobs of differently colored ferrofluid that respond to moving magnetic spheres outside; as the magnets orbit and rotate, the colored blobs stretch into spikes, merge, and detach, gradually mixing colors in dynamic shapes.",
+      "seed": "Colored Magnetic Fluids in a Stirred Sphere: A transparent spherical container holds several blobs of differently colored ferrofluid that respond to moving magnetic spheres outside; as the magnets orbit and rotate, the colored blobs stretch into spikes, merge, and detach, gradually mixing colors in dynamic shapes."
+    },
+    {
+      "number": "21",
+      "title": "Interactive Color Fountain with Adjustable Jets",
+      "description": "A central fountain shoots upward streams of differently colored particles that arc and fall into a shallow basin; sliders change each jet’s color and height, and as the streams intersect midair they visually mix, with the basin’s water gradually shifting to the combined color.",
+      "seed": "Interactive Color Fountain with Adjustable Jets: A central fountain shoots upward streams of differently colored particles that arc and fall into a shallow basin; sliders change each jet’s color and height, and as the streams intersect midair they visually mix, with the basin’s water gradually shifting to the combined color."
+    },
+    {
+      "number": "22",
+      "title": "Layered Ocean of Colorful Currents",
+      "description": "A large transparent tank shows horizontal layers of fluid in different colors with separate internal currents; as the tank slowly rocks, internal waves cause layers to fold and interpenetrate, creating filament-like mixed regions that drift and stretch.",
+      "seed": "Layered Ocean of Colorful Currents: A large transparent tank shows horizontal layers of fluid in different colors with separate internal currents; as the tank slowly rocks, internal waves cause layers to fold and interpenetrate, creating filament-like mixed regions that drift and stretch."
+    },
+    {
+      "number": "23",
+      "title": "Rubik-Like Color Mixing Cube",
+      "description": "A semi-transparent 3D cube composed of smaller colored sub-cubes can rotate its layers; when two faces of different colors are pressed together, boundary sub-cubes gradually blend into intermediate shades, showing how repeated “scrambling” leads to overall color averaging.",
+      "seed": "Rubik-Like Color Mixing Cube: A semi-transparent 3D cube composed of smaller colored sub-cubes can rotate its layers; when two faces of different colors are pressed together, boundary sub-cubes gradually blend into intermediate shades, showing how repeated “scrambling” leads to overall color averaging."
+    },
+    {
+      "number": "24",
+      "title": "Laser Painting in a Misty Dome",
+      "description": "Inside a light fog-filled dome, movable laser emitters of different colors sweep and rotate, painting volumetric lines that mix where beams overlap; a small drone sphere flies paths through the beams, leaving a color-trail that records the integrated light it “absorbs.”",
+      "seed": "Laser Painting in a Misty Dome: Inside a light fog-filled dome, movable laser emitters of different colors sweep and rotate, painting volumetric lines that mix where beams overlap; a small drone sphere flies paths through the beams, leaving a color-trail that records the integrated light it “absorbs.”"
+    },
+    {
+      "number": "25",
+      "title": "Color-Mixing Particle Fountain in Zero Gravity",
+      "description": "In a zero-gravity box, jets emit streams of differently colored particles from opposite faces; the streams collide in the center, bounce and swirl, and over time the whole cloud becomes a uniformly mixed color, while a central probe sphere displays the local average.",
+      "seed": "Color-Mixing Particle Fountain in Zero Gravity: In a zero-gravity box, jets emit streams of differently colored particles from opposite faces; the streams collide in the center, bounce and swirl, and over time the whole cloud becomes a uniformly mixed color, while a central probe sphere displays the local average."
+    }
+  ],
+  "raw_output": "Here are strong **Color mixing simulation inputs** you can plug into your prompt:\n\n1. **Floating Dye Droplets in a Clear Cube**\n   A transparent cubic tank filled with clear fluid where colorful spherical droplets of dye fall, collide, stretch, and dissolve into swirling color clouds, leaving faint trails and gradually mixing into new hues.\n\n2. **Orbiting Color Planets That Blend on Impact**\n   Dozens of small colored spheres orbit a central light source and occasionally collide, merging into a single sphere whose color is the average of the originals, with labels showing RGB values and fading collision shockwaves.\n\n3. **Rotating Paint Palette Disc**\n   A flat circular palette divided into colored wedge sectors that slowly spins while small white droplets drop onto it, roll across the surface, and absorb blended colors based on where they travel, leaving streaky trails behind.\n\n4. **3D Colorful Smoke Plumes Mixing in Air**\n   Multiple vents on the floor emit semi-transparent particle plumes of red, green, and blue smoke that rise, overlap, and gently swirl under a ceiling fan, with the overlapping regions gradually changing color according to additive mixing.\n\n5. **Pouring Colored Liquids into a Tilting Glass**\n   Several slender tubes pour different translucent colored liquids into a large glass that slowly tilts back and forth, causing layered bands to flow, fold, and mix into gradients while a side panel shows a live color histogram bar.\n\n6. **Colliding Color-Filled Marbles**\n   A set of transparent glass marbles, each with a colored core, roll down ramps and collide on a flat table; when two marbles stick together their cores visually blend into a new color and a label hovers showing the resulting mix.\n\n7. **3D Light Beams Intersecting in a Misty Room**\n   Narrow red, green, and blue light beams shine from different corners into a slightly foggy room, intersecting in midair to form brighter mixed-color regions, while a movable sensor sphere floats around sampling and displaying the local color.\n\n8. **Microscopic Pigment Particles in a Droplet**\n   A large transparent sphere represents a water droplet containing many tiny colored particles that diffuse, clump, and detach under gentle random motion, gradually turning the droplet into a uniform mixed color with adjustable temperature (diffusion speed).\n\n9. **Color-Mixing Conveyor of Paint Blobs**\n   Colored paint blobs drop onto a slowly moving conveyor belt, collide, spread, and merge into streaks; overhead paddles occasionally press and fold the blobs, causing more intense mixing patterns and leaving a drying, semi-glossy surface behind.\n\n10. **Color-Changing Fireflies Swapping Glow**\n    Dozens of glowing spheres (“fireflies”) wander in 3D space; when two get close they briefly connect with a thin line, average their glow colors, then detach and continue flying with faint color trails marking their paths.\n\n11. **Additive vs. Subtractive Color Walls**\n    Two vertical panels face each other: one made of overlapping translucent RGB sheets lit from behind, the other painted with CMY pigments lit from the front; sliders move sheets and paint layers so overlapping regions change color while labels explain “additive” vs “subtractive” mixing.\n\n12. **Mixing Colored Sand in a Rotating Cylinder**\n    A transparent horizontal drum half-filled with layers of brightly colored granular particles slowly rotates, causing bands of colored sand to cascade, interleave, and gradually form speckled mixed regions, with an overhead camera showing the evolving patterns.\n\n13. **Molecular-Level Color Diffusion in a Cube**\n    A clear cube is partitioned into three regions densely filled with red, green, and blue particles; when barriers vanish, particles diffuse and bounce elastically, and the cube’s corners display a live averaged color that shifts toward a uniform mix over time.\n\n14. **3D Printer Blending Filament Colors**\n    A robotic print head moves over a platform extruding a glowing filament whose color depends on the current blend from three input filament spools; as the head moves and mixing proportions change, a 3D sculpture grows with smooth or banded color transitions.\n\n15. **Color Waves on a Stretching Fabric Sheet**\n    A flexible rectangular sheet suspended in space is textured with a color grid; invisible “droplets” of colored energy land, spread as expanding rings, and where rings overlap they mix colors, while the sheet gently ripples up and down.\n\n16. **Bouncing Color Cubes That Trade Shades**\n    Brightly colored cubes bounce inside a large transparent box; when two cubes collide, they exchange a fraction of their color, slowly converging to similar hues while leaving short-lived colored motion trails.\n\n17. **Weather Map of Mixing Air Masses**\n    A curved, semi-transparent globe displays moving patches of colored air masses (warm red, cool blue, moist green) that drift, collide, wrap around mountains, and blend into new shades, with animated arrows showing flow and a side legend mapping color to temperature/humidity.\n\n18. **Color-Ink Droppers on Rotating Paper Cylinder**\n    A tall white paper cylinder rotates slowly while overhead droppers release colored ink droplets that hit, spread, drip downward, and collide with older drips, forming vertical streaks and complex mixed-color patterns around the cylinder.\n\n19. **Neural Network of Color Signals**\n    A 3D network of nodes connected by glowing tubes passes colored pulses along its links; when pulses meet at a node they merge, and the node’s color becomes the weighted blend of incoming pulses, with brightness showing signal strength.\n\n20. **Colored Magnetic Fluids in a Stirred Sphere**\n    A transparent spherical container holds several blobs of differently colored ferrofluid that respond to moving magnetic spheres outside; as the magnets orbit and rotate, the colored blobs stretch into spikes, merge, and detach, gradually mixing colors in dynamic shapes.\n\n21. **Interactive Color Fountain with Adjustable Jets**\n    A central fountain shoots upward streams of differently colored particles that arc and fall into a shallow basin; sliders change each jet’s color and height, and as the streams intersect midair they visually mix, with the basin’s water gradually shifting to the combined color.\n\n22. **Layered Ocean of Colorful Currents**\n    A large transparent tank shows horizontal layers of fluid in different colors with separate internal currents; as the tank slowly rocks, internal waves cause layers to fold and interpenetrate, creating filament-like mixed regions that drift and stretch.\n\n23. **Rubik-Like Color Mixing Cube**\n    A semi-transparent 3D cube composed of smaller colored sub-cubes can rotate its layers; when two faces of different colors are pressed together, boundary sub-cubes gradually blend into intermediate shades, showing how repeated “scrambling” leads to overall color averaging.\n\n24. **Laser Painting in a Misty Dome**\n    Inside a light fog-filled dome, movable laser emitters of different colors sweep and rotate, painting volumetric lines that mix where beams overlap; a small drone sphere flies paths through the beams, leaving a color-trail that records the integrated light it “absorbs.”\n\n25. **Color-Mixing Particle Fountain in Zero Gravity**\n    In a zero-gravity box, jets emit streams of differently colored particles from opposite faces; the streams collide in the center, bounce and swirl, and over time the whole cloud becomes a uniformly mixed color, while a central probe sphere displays the local average."
+}

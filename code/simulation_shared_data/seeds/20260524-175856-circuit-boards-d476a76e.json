@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Circuit boards",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:58:56",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Electron Flow Through a Transparent Motherboard",
+      "description": "A large semi-transparent circuit board floats in 3D while glowing particles (electrons) pulse and travel along colored traces between labeled components (resistors, capacitors, chips), with current direction arrows and intensity-based color changes.",
+      "seed": "Electron Flow Through a Transparent Motherboard: A large semi-transparent circuit board floats in 3D while glowing particles (electrons) pulse and travel along colored traces between labeled components (resistors, capacitors, chips), with current direction arrows and intensity-based color changes."
+    },
+    {
+      "number": "2",
+      "title": "Signal Propagation and Logic Gates Network",
+      "description": "A 3D lattice of logic gates on a board lights up as input pulses (small spheres) enter, split, merge, and propagate through AND/OR/NOT gates whose bodies change color based on output state, with trails showing recent signal paths.",
+      "seed": "Signal Propagation and Logic Gates Network: A 3D lattice of logic gates on a board lights up as input pulses (small spheres) enter, split, merge, and propagate through AND/OR/NOT gates whose bodies change color based on output state, with trails showing recent signal paths."
+    },
+    {
+      "number": "3",
+      "title": "Soldering Robot Assembling a PCB",
+      "description": "A robotic arm moves above a flat green board, picking up tiny component blocks from feeders, rotating them, and placing them on pads where silver solder droplets attach, melt, spread, and cool, while misaligned components bounce slightly before settling into place.",
+      "seed": "Soldering Robot Assembling a PCB: A robotic arm moves above a flat green board, picking up tiny component blocks from feeders, rotating them, and placing them on pads where silver solder droplets attach, melt, spread, and cool, while misaligned components bounce slightly before settling into place."
+    },
+    {
+      "number": "4",
+      "title": "Short Circuit and Overload Visualization",
+      "description": "A circuit board with multiple branches shows normal current flow as soft blue glows until a conductive sphere accidentally drops and bridges two traces, causing red-hot glowing paths, sparks (particle bursts), and component boxes that darken or “smoke” (fading gray particles).",
+      "seed": "Short Circuit and Overload Visualization: A circuit board with multiple branches shows normal current flow as soft blue glows until a conductive sphere accidentally drops and bridges two traces, causing red-hot glowing paths, sparks (particle bursts), and component boxes that darken or “smoke” (fading gray particles)."
+    },
+    {
+      "number": "5",
+      "title": "3D Layered PCB Cross-Section",
+      "description": "A tall semi-transparent stack of board layers hovers in space, with copper traces as glowing ribbons that branch and connect between layers through vertical vias, while a controllable “signal orb” moves through the network, leaving a fading trail and highlighting active paths.",
+      "seed": "3D Layered PCB Cross-Section: A tall semi-transparent stack of board layers hovers in space, with copper traces as glowing ribbons that branch and connect between layers through vertical vias, while a controllable “signal orb” moves through the network, leaving a fading trail and highlighting active paths."
+    },
+    {
+      "number": "6",
+      "title": "Microchip Heat Distribution on a Circuit Board",
+      "description": "Several chips on a board generate heat visualized as expanding colored halos (blue to red) that overlap and mix; a movable cooling fan sphere blows invisible air that pushes semi-transparent heat “fog” particles off the board and cools chips, changing their color.",
+      "seed": "Microchip Heat Distribution on a Circuit Board: Several chips on a board generate heat visualized as expanding colored halos (blue to red) that overlap and mix; a movable cooling fan sphere blows invisible air that pushes semi-transparent heat “fog” particles off the board and cools chips, changing their color."
+    },
+    {
+      "number": "7",
+      "title": "Interactive Fault Tracing With a Virtual Probe",
+      "description": "A probe needle moves over a circuit board, snapping to pad centers and causing the touched net to glow, with signal strength displayed on a floating meter bar and a pulse that travels along the connected traces and lights up relevant components.",
+      "seed": "Interactive Fault Tracing With a Virtual Probe: A probe needle moves over a circuit board, snapping to pad centers and causing the touched net to glow, with signal strength displayed on a floating meter bar and a pulse that travels along the connected traces and lights up relevant components."
+    },
+    {
+      "number": "8",
+      "title": "Printed Circuit Board as a Miniature City",
+      "description": "Components become buildings, traces become roads, and electrons become tiny glowing vehicles that follow paths, stop, merge, and branch at intersections, with traffic lights (LEDs) changing color and congestion represented by particle clusters.",
+      "seed": "Printed Circuit Board as a Miniature City: Components become buildings, traces become roads, and electrons become tiny glowing vehicles that follow paths, stop, merge, and branch at intersections, with traffic lights (LEDs) changing color and congestion represented by particle clusters."
+    },
+    {
+      "number": "9",
+      "title": "Electromagnetic Fields Around Traces and Coils",
+      "description": "A board hosts a few large inductors and traces carrying AC currents; animated field lines wrap around the traces and coils, expanding and contracting with current oscillations, while field strength is shown by the density and color of semi-transparent lines and particles.",
+      "seed": "Electromagnetic Fields Around Traces and Coils: A board hosts a few large inductors and traces carrying AC currents; animated field lines wrap around the traces and coils, expanding and contracting with current oscillations, while field strength is shown by the density and color of semi-transparent lines and particles."
+    },
+    {
+      "number": "10",
+      "title": "Capacitor Charging and Discharging Network",
+      "description": "A board with multiple capacitors arranged in series and parallel uses fill level and color of each capacitor body to show stored charge, while a controllable switch cube toggles states, causing charge orbs to flow, split, and merge along traces with visible timing delays.",
+      "seed": "Capacitor Charging and Discharging Network: A board with multiple capacitors arranged in series and parallel uses fill level and color of each capacitor body to show stored charge, while a controllable switch cube toggles states, causing charge orbs to flow, split, and merge along traces with visible timing delays."
+    },
+    {
+      "number": "11",
+      "title": "Routing Algorithm Growing Traces Across a Board",
+      "description": "A blank board with component pads shows animated “growing” copper traces that branch, wrap around obstacles, and route layer-to-layer through vias, with new segments smoothly extending and turning while a cost meter bar updates for each routing attempt.",
+      "seed": "Routing Algorithm Growing Traces Across a Board: A blank board with component pads shows animated “growing” copper traces that branch, wrap around obstacles, and route layer-to-layer through vias, with new segments smoothly extending and turning while a cost meter bar updates for each routing attempt."
+    },
+    {
+      "number": "12",
+      "title": "Flexible Circuit Board Bending and Twisting",
+      "description": "A long ribbon circuit with components attached flexes, bends, and twists when its endpoints are dragged; traces stretch and curve with the surface, while some fragile components detach and fall when stress exceeds a threshold, leaving broken, darkened pads.",
+      "seed": "Flexible Circuit Board Bending and Twisting: A long ribbon circuit with components attached flexes, bends, and twists when its endpoints are dragged; traces stretch and curve with the surface, while some fragile components detach and fall when stress exceeds a threshold, leaving broken, darkened pads."
+    },
+    {
+      "number": "13",
+      "title": "Particle-Based Etching of a Copper-Clad Board",
+      "description": "A copper-coated slab gradually dissolves as etchant particles collide with the surface and remove copper, revealing emerging traces protected by a mask; etched regions become darker and slightly recessed, with floating debris particles being carried away.",
+      "seed": "Particle-Based Etching of a Copper-Clad Board: A copper-coated slab gradually dissolves as etchant particles collide with the surface and remove copper, revealing emerging traces protected by a mask; etched regions become darker and slightly recessed, with floating debris particles being carried away."
+    },
+    {
+      "number": "14",
+      "title": "3D Stack of PCBs Connected by Ribbon Cables",
+      "description": "Several boards are stacked vertically with flexible cables that sway and stretch when boards move; data pulses travel as glowing packets along cables and through connectors, occasionally colliding and merging at hubs, with labels showing board roles (CPU, I/O, Memory).",
+      "seed": "3D Stack of PCBs Connected by Ribbon Cables: Several boards are stacked vertically with flexible cables that sway and stretch when boards move; data pulses travel as glowing packets along cables and through connectors, occasionally colliding and merging at hubs, with labels showing board roles (CPU, I/O, Memory)."
+    },
+    {
+      "number": "15",
+      "title": "Oscilloscope View Embedded Above a Circuit Board",
+      "description": "A running oscillator circuit on a board has a highlighted node where a waveform is captured and drawn in 3D on a semi-transparent floating screen, while a bright pulse circle repeatedly races around the loop, matching the waveform’s phase and amplitude changes.",
+      "seed": "Oscilloscope View Embedded Above a Circuit Board: A running oscillator circuit on a board has a highlighted node where a waveform is captured and drawn in 3D on a semi-transparent floating screen, while a bright pulse circle repeatedly races around the loop, matching the waveform’s phase and amplitude changes."
+    },
+    {
+      "number": "16",
+      "title": "LED Matrix and Scrolling Patterns on a PCB",
+      "description": "A flat rectangular board holds a grid of LED cubes that light up in patterns, scroll text, and create waves; electrons as tiny spheres move under the surface along row/column traces, and brightness fades gradually, leaving a shimmering trail behind moving patterns.",
+      "seed": "LED Matrix and Scrolling Patterns on a PCB: A flat rectangular board holds a grid of LED cubes that light up in patterns, scroll text, and create waves; electrons as tiny spheres move under the surface along row/column traces, and brightness fades gradually, leaving a shimmering trail behind moving patterns."
+    },
+    {
+      "number": "17",
+      "title": "3D Power Distribution and Voltage Drop Map",
+      "description": "A large power distribution board shows thick traces feeding many loads; voltage is color-coded along traces (green to red), while moving sliders adjust total load and cause visible dimming of distant LEDs and changing colors in a floating “voltage map” overlay.",
+      "seed": "3D Power Distribution and Voltage Drop Map: A large power distribution board shows thick traces feeding many loads; voltage is color-coded along traces (green to red), while moving sliders adjust total load and cause visible dimming of distant LEDs and changing colors in a floating “voltage map” overlay."
+    },
+    {
+      "number": "18",
+      "title": "Self-Repairing Circuit With Autonomous Nanobots",
+      "description": "A board experiences random broken trace segments that appear as gaps; nanobot spheres roam, detect breaks, and drop metallic particles that gradually bridge and regrow the copper path, turning the surrounding area from dark to bright conductive color.",
+      "seed": "Self-Repairing Circuit With Autonomous Nanobots: A board experiences random broken trace segments that appear as gaps; nanobot spheres roam, detect breaks, and drop metallic particles that gradually bridge and regrow the copper path, turning the surrounding area from dark to bright conductive color."
+    },
+    {
+      "number": "19",
+      "title": "Component Placement Optimization as Moving Blocks",
+      "description": "Component blocks initially scattered above a blank board float, slide, and rotate as an invisible force tries to minimize connection length; elastic virtual wires stretch between related pins, pulling components closer until they settle into a compact, non-overlapping layout.",
+      "seed": "Component Placement Optimization as Moving Blocks: Component blocks initially scattered above a blank board float, slide, and rotate as an invisible force tries to minimize connection length; elastic virtual wires stretch between related pins, pulling components closer until they settle into a compact, non-overlapping layout."
+    },
+    {
+      "number": "20",
+      "title": "High-Speed Data Bus and Crosstalk Visualization",
+      "description": "Parallel traces on a board carry fast pulses visualized as moving bright bars; when adjacent lines switch simultaneously, semi-transparent interference waves appear between them, and error spheres occasionally pop up at receivers when crosstalk thresholds are exceeded.",
+      "seed": "High-Speed Data Bus and Crosstalk Visualization: Parallel traces on a board carry fast pulses visualized as moving bright bars; when adjacent lines switch simultaneously, semi-transparent interference waves appear between them, and error spheres occasionally pop up at receivers when crosstalk thresholds are exceeded."
+    },
+    {
+      "number": "21",
+      "title": "Circuit Board as a Neural Network",
+      "description": "Neuron-like components arranged on a board fire pulses along weighted “synapse traces,” with pulse intensity shown by orb size and color; as the network receives repeated inputs, certain paths brighten and thicken to indicate strengthened connections.",
+      "seed": "Circuit Board as a Neural Network: Neuron-like components arranged on a board fire pulses along weighted “synapse traces,” with pulse intensity shown by orb size and color; as the network receives repeated inputs, certain paths brighten and thicken to indicate strengthened connections."
+    },
+    {
+      "number": "22",
+      "title": "Conveyor of PCBs Through a Test Station",
+      "description": "A series of boards ride along a belt, entering a testing bay where spring-loaded probes drop down to touch pads; good boards cause green glow pulses and pass through, while failing boards flash red and are pushed sideways onto a reject track by a rotating arm.",
+      "seed": "Conveyor of PCBs Through a Test Station: A series of boards ride along a belt, entering a testing bay where spring-loaded probes drop down to touch pads; good boards cause green glow pulses and pass through, while failing boards flash red and are pushed sideways onto a reject track by a rotating arm."
+    },
+    {
+      "number": "23",
+      "title": "3D Visualization of Ground Planes and Return Currents",
+      "description": "A board with a large ground plane shows current from a top trace diving down through vias as glowing particles and spreading through the plane as dim ripples, then reconcentrating under the main trace path, with transparency controls to reveal hidden layers.",
+      "seed": "3D Visualization of Ground Planes and Return Currents: A board with a large ground plane shows current from a top trace diving down through vias as glowing particles and spreading through the plane as dim ripples, then reconcentrating under the main trace path, with transparency controls to reveal hidden layers."
+    },
+    {
+      "number": "24",
+      "title": "Thermal Runaway in a Power Circuit",
+      "description": "A regulator circuit on a board heats up when load increases: heat halos expand, nearby components warm, and if cooling is insufficient, the regulator glows bright red, its package visibly “swelling” before it fails, darkens, and stops passing current to the rest of the board.",
+      "seed": "Thermal Runaway in a Power Circuit: A regulator circuit on a board heats up when load increases: heat halos expand, nearby components warm, and if cooling is insufficient, the regulator glows bright red, its package visibly “swelling” before it fails, darkens, and stops passing current to the rest of the board."
+    },
+    {
+      "number": "25",
+      "title": "Zoomable Journey From Board to Transistor Junction",
+      "description": "The camera flies from a whole circuit board view down into a single chip, then into its internal wiring and finally to a transistor where charge carriers as tiny particles flow across junctions, with labels that appear and disappear as the scale changes.",
+      "seed": "Zoomable Journey From Board to Transistor Junction: The camera flies from a whole circuit board view down into a single chip, then into its internal wiring and finally to a transistor where charge carriers as tiny particles flow across junctions, with labels that appear and disappear as the scale changes."
+    }
+  ],
+  "raw_output": "Here are strong **Circuit boards simulation inputs** you can plug into your prompt:\n\n1. **Electron Flow Through a Transparent Motherboard**\n   A large semi-transparent circuit board floats in 3D while glowing particles (electrons) pulse and travel along colored traces between labeled components (resistors, capacitors, chips), with current direction arrows and intensity-based color changes.\n\n2. **Signal Propagation and Logic Gates Network**\n   A 3D lattice of logic gates on a board lights up as input pulses (small spheres) enter, split, merge, and propagate through AND/OR/NOT gates whose bodies change color based on output state, with trails showing recent signal paths.\n\n3. **Soldering Robot Assembling a PCB**\n   A robotic arm moves above a flat green board, picking up tiny component blocks from feeders, rotating them, and placing them on pads where silver solder droplets attach, melt, spread, and cool, while misaligned components bounce slightly before settling into place.\n\n4. **Short Circuit and Overload Visualization**\n   A circuit board with multiple branches shows normal current flow as soft blue glows until a conductive sphere accidentally drops and bridges two traces, causing red-hot glowing paths, sparks (particle bursts), and component boxes that darken or “smoke” (fading gray particles).\n\n5. **3D Layered PCB Cross-Section**\n   A tall semi-transparent stack of board layers hovers in space, with copper traces as glowing ribbons that branch and connect between layers through vertical vias, while a controllable “signal orb” moves through the network, leaving a fading trail and highlighting active paths.\n\n6. **Microchip Heat Distribution on a Circuit Board**\n   Several chips on a board generate heat visualized as expanding colored halos (blue to red) that overlap and mix; a movable cooling fan sphere blows invisible air that pushes semi-transparent heat “fog” particles off the board and cools chips, changing their color.\n\n7. **Interactive Fault Tracing With a Virtual Probe**\n   A probe needle moves over a circuit board, snapping to pad centers and causing the touched net to glow, with signal strength displayed on a floating meter bar and a pulse that travels along the connected traces and lights up relevant components.\n\n8. **Printed Circuit Board as a Miniature City**\n   Components become buildings, traces become roads, and electrons become tiny glowing vehicles that follow paths, stop, merge, and branch at intersections, with traffic lights (LEDs) changing color and congestion represented by particle clusters.\n\n9. **Electromagnetic Fields Around Traces and Coils**\n   A board hosts a few large inductors and traces carrying AC currents; animated field lines wrap around the traces and coils, expanding and contracting with current oscillations, while field strength is shown by the density and color of semi-transparent lines and particles.\n\n10. **Capacitor Charging and Discharging Network**\n    A board with multiple capacitors arranged in series and parallel uses fill level and color of each capacitor body to show stored charge, while a controllable switch cube toggles states, causing charge orbs to flow, split, and merge along traces with visible timing delays.\n\n11. **Routing Algorithm Growing Traces Across a Board**\n    A blank board with component pads shows animated “growing” copper traces that branch, wrap around obstacles, and route layer-to-layer through vias, with new segments smoothly extending and turning while a cost meter bar updates for each routing attempt.\n\n12. **Flexible Circuit Board Bending and Twisting**\n    A long ribbon circuit with components attached flexes, bends, and twists when its endpoints are dragged; traces stretch and curve with the surface, while some fragile components detach and fall when stress exceeds a threshold, leaving broken, darkened pads.\n\n13. **Particle-Based Etching of a Copper-Clad Board**\n    A copper-coated slab gradually dissolves as etchant particles collide with the surface and remove copper, revealing emerging traces protected by a mask; etched regions become darker and slightly recessed, with floating debris particles being carried away.\n\n14. **3D Stack of PCBs Connected by Ribbon Cables**\n    Several boards are stacked vertically with flexible cables that sway and stretch when boards move; data pulses travel as glowing packets along cables and through connectors, occasionally colliding and merging at hubs, with labels showing board roles (CPU, I/O, Memory).\n\n15. **Oscilloscope View Embedded Above a Circuit Board**\n    A running oscillator circuit on a board has a highlighted node where a waveform is captured and drawn in 3D on a semi-transparent floating screen, while a bright pulse circle repeatedly races around the loop, matching the waveform’s phase and amplitude changes.\n\n16. **LED Matrix and Scrolling Patterns on a PCB**\n    A flat rectangular board holds a grid of LED cubes that light up in patterns, scroll text, and create waves; electrons as tiny spheres move under the surface along row/column traces, and brightness fades gradually, leaving a shimmering trail behind moving patterns.\n\n17. **3D Power Distribution and Voltage Drop Map**\n    A large power distribution board shows thick traces feeding many loads; voltage is color-coded along traces (green to red), while moving sliders adjust total load and cause visible dimming of distant LEDs and changing colors in a floating “voltage map” overlay.\n\n18. **Self-Repairing Circuit With Autonomous Nanobots**\n    A board experiences random broken trace segments that appear as gaps; nanobot spheres roam, detect breaks, and drop metallic particles that gradually bridge and regrow the copper path, turning the surrounding area from dark to bright conductive color.\n\n19. **Component Placement Optimization as Moving Blocks**\n    Component blocks initially scattered above a blank board float, slide, and rotate as an invisible force tries to minimize connection length; elastic virtual wires stretch between related pins, pulling components closer until they settle into a compact, non-overlapping layout.\n\n20. **High-Speed Data Bus and Crosstalk Visualization**\n    Parallel traces on a board carry fast pulses visualized as moving bright bars; when adjacent lines switch simultaneously, semi-transparent interference waves appear between them, and error spheres occasionally pop up at receivers when crosstalk thresholds are exceeded.\n\n21. **Circuit Board as a Neural Network**\n    Neuron-like components arranged on a board fire pulses along weighted “synapse traces,” with pulse intensity shown by orb size and color; as the network receives repeated inputs, certain paths brighten and thicken to indicate strengthened connections.\n\n22. **Conveyor of PCBs Through a Test Station**\n    A series of boards ride along a belt, entering a testing bay where spring-loaded probes drop down to touch pads; good boards cause green glow pulses and pass through, while failing boards flash red and are pushed sideways onto a reject track by a rotating arm.\n\n23. **3D Visualization of Ground Planes and Return Currents**\n    A board with a large ground plane shows current from a top trace diving down through vias as glowing particles and spreading through the plane as dim ripples, then reconcentrating under the main trace path, with transparency controls to reveal hidden layers.\n\n24. **Thermal Runaway in a Power Circuit**\n    A regulator circuit on a board heats up when load increases: heat halos expand, nearby components warm, and if cooling is insufficient, the regulator glows bright red, its package visibly “swelling” before it fails, darkens, and stops passing current to the rest of the board.\n\n25. **Zoomable Journey From Board to Transistor Junction**\n    The camera flies from a whole circuit board view down into a single chip, then into its internal wiring and finally to a transistor where charge carriers as tiny particles flow across junctions, with labels that appear and disappear as the scale changes."
+}

@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Supply chains",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:04:16",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Container Port to Warehouse Flow",
+      "description": "A 3D scene where colorful box-shaped shipping containers slide off a large ship, move along conveyor belts and trucks to a warehouse, with crates attaching/detaching from vehicles, stacking, and leaving colored trails that show different product types.",
+      "seed": "Container Port to Warehouse Flow: A 3D scene where colorful box-shaped shipping containers slide off a large ship, move along conveyor belts and trucks to a warehouse, with crates attaching/detaching from vehicles, stacking, and leaving colored trails that show different product types."
+    },
+    {
+      "number": "2",
+      "title": "Global Supply Web on a Rotating Globe",
+      "description": "A rotating transparent globe with glowing city nodes connected by pulsing supply routes, where small cargo spheres travel along curved paths, collide at hubs, queue, and transfer between air (flying), sea (floating), and land (rolling) transport links.",
+      "seed": "Global Supply Web on a Rotating Globe: A rotating transparent globe with glowing city nodes connected by pulsing supply routes, where small cargo spheres travel along curved paths, collide at hubs, queue, and transfer between air (flying), sea (floating), and land (rolling) transport links."
+    },
+    {
+      "number": "3",
+      "title": "Factory Assembly and Packaging Line",
+      "description": "A factory floor where raw material blocks enter on one side, pass through machines that rotate, press, and merge them into products, then wrap them in transparent boxes and send them via branching conveyor belts to different labeled loading docks.",
+      "seed": "Factory Assembly and Packaging Line: A factory floor where raw material blocks enter on one side, pass through machines that rotate, press, and merge them into products, then wrap them in transparent boxes and send them via branching conveyor belts to different labeled loading docks."
+    },
+    {
+      "number": "4",
+      "title": "Rail Cargo Network with Bottlenecks",
+      "description": "A rail yard network with multiple tracks where train cars carrying colored cargo cubes attach/detach at junctions, wait at red/green signal posts, and sometimes collide or bounce slightly when queues get too long, with overhead labels showing delays.",
+      "seed": "Rail Cargo Network with Bottlenecks: A rail yard network with multiple tracks where train cars carrying colored cargo cubes attach/detach at junctions, wait at red/green signal posts, and sometimes collide or bounce slightly when queues get too long, with overhead labels showing delays."
+    },
+    {
+      "number": "5",
+      "title": "Just-in-Time Inventory Warehouse",
+      "description": "A warehouse grid where shelving racks are stationary and autonomous carts glide around picking up and dropping off boxes, with stock levels shown by vertical bar meters that grow/shrink as items transfer between shelves, packaging stations, and loading zones.",
+      "seed": "Just-in-Time Inventory Warehouse: A warehouse grid where shelving racks are stationary and autonomous carts glide around picking up and dropping off boxes, with stock levels shown by vertical bar meters that grow/shrink as items transfer between shelves, packaging stations, and loading zones."
+    },
+    {
+      "number": "6",
+      "title": "Cold Chain Temperature Simulation",
+      "description": "A cooled supply chain where boxes of medicine move through trucks, cold rooms, and loading docks, with each box’s color smoothly shifting from blue (cold) to red (warm) as time passes, and transparent thermometer pillars marking temperature breaches.",
+      "seed": "Cold Chain Temperature Simulation: A cooled supply chain where boxes of medicine move through trucks, cold rooms, and loading docks, with each box’s color smoothly shifting from blue (cold) to red (warm) as time passes, and transparent thermometer pillars marking temperature breaches."
+    },
+    {
+      "number": "7",
+      "title": "Supply-Demand Balancing Network",
+      "description": "A simplified network of supplier spheres and retailer cubes linked by tubes where colored “product particles” flow, split, and merge, and retailer cubes grow or shrink slightly depending on whether incoming particles meet their rotating demand meters.",
+      "seed": "Supply-Demand Balancing Network: A simplified network of supplier spheres and retailer cubes linked by tubes where colored “product particles” flow, split, and merge, and retailer cubes grow or shrink slightly depending on whether incoming particles meet their rotating demand meters."
+    },
+    {
+      "number": "8",
+      "title": "Port Container Stacking and Crane Operations",
+      "description": "A dockyard with towering stacks of container blocks and tall cranes that swing and lower hooks to attach to containers, lift them, rotate, and place them onto trucks or ships, with occasional misplacements causing containers to bump and slightly slide.",
+      "seed": "Port Container Stacking and Crane Operations: A dockyard with towering stacks of container blocks and tall cranes that swing and lower hooks to attach to containers, lift them, rotate, and place them onto trucks or ships, with occasional misplacements causing containers to bump and slightly slide."
+    },
+    {
+      "number": "9",
+      "title": "Food Supply Chain from Farm to Table",
+      "description": "A landscape with farms (green patches), a processing plant, a distribution center, and a supermarket, where food crates travel by tractor, truck, and conveyor, changing color and shape at each stage (raw, processed, packaged) and leaving faint path trails.",
+      "seed": "Food Supply Chain from Farm to Table: A landscape with farms (green patches), a processing plant, a distribution center, and a supermarket, where food crates travel by tractor, truck, and conveyor, changing color and shape at each stage (raw, processed, packaged) and leaving faint path trails."
+    },
+    {
+      "number": "10",
+      "title": "Micro-Scale Supply Chain Inside a Cell",
+      "description": "A biological analogy where glowing vesicle spheres (cargo) float along filament “tracks” between large organelle structures, attach/detach from motor-protein walkers, fuse with or bud from organelles, and leave shimmering particle trails representing molecular transfers.",
+      "seed": "Micro-Scale Supply Chain Inside a Cell: A biological analogy where glowing vesicle spheres (cargo) float along filament “tracks” between large organelle structures, attach/detach from motor-protein walkers, fuse with or bud from organelles, and leave shimmering particle trails representing molecular transfers."
+    },
+    {
+      "number": "11",
+      "title": "Resilient vs Fragile Supply Chain Under Disruption",
+      "description": "Two mirrored networks of supplier nodes and warehouse cubes where one has many redundant paths and the other has single links; randomly appearing “disruption walls” block some paths, causing cargo spheres to reroute, queue, or bounce back in each system.",
+      "seed": "Resilient vs Fragile Supply Chain Under Disruption: Two mirrored networks of supplier nodes and warehouse cubes where one has many redundant paths and the other has single links; randomly appearing “disruption walls” block some paths, causing cargo spheres to reroute, queue, or bounce back in each system."
+    },
+    {
+      "number": "12",
+      "title": "E-commerce Fulfillment Center Picking System",
+      "description": "A large grid where storage bins sit on shelves and robot carts slide under them, lift (attach) bins, carry them to packing stations, then detach and return them, with each order represented by a floating label that follows its items through the process.",
+      "seed": "E-commerce Fulfillment Center Picking System: A large grid where storage bins sit on shelves and robot carts slide under them, lift (attach) bins, carry them to packing stations, then detach and return them, with each order represented by a floating label that follows its items through the process."
+    },
+    {
+      "number": "13",
+      "title": "Pipeline and Tank Supply Chain for Liquids",
+      "description": "A refinery scene with large vertical tanks connected by transparent pipes where colored liquid segments flow, split at junctions, and mix into new colors in tanks, with valves that rotate open/closed and cause fluid to slow, pulse, or back up.",
+      "seed": "Pipeline and Tank Supply Chain for Liquids: A refinery scene with large vertical tanks connected by transparent pipes where colored liquid segments flow, split at junctions, and mix into new colors in tanks, with valves that rotate open/closed and cause fluid to slow, pulse, or back up."
+    },
+    {
+      "number": "14",
+      "title": "Air Cargo Hub and Spoke Network",
+      "description": "A central airport hub with multiple runway spokes and small cargo planes that take off, orbit the hub in holding patterns, then land and dock to transfer glowing cargo cubes between planes, with trails showing typical vs delayed routes.",
+      "seed": "Air Cargo Hub and Spoke Network: A central airport hub with multiple runway spokes and small cargo planes that take off, orbit the hub in holding patterns, then land and dock to transfer glowing cargo cubes between planes, with trails showing typical vs delayed routes."
+    },
+    {
+      "number": "15",
+      "title": "Recycling Loop Supply Chain",
+      "description": "A closed-loop system where consumer product cubes move to a waste station, split into materials, flow as colored particles to recycling plants, then reassemble into new product cubes that re-enter the distribution network, with arrows that brighten as loops close.",
+      "seed": "Recycling Loop Supply Chain: A closed-loop system where consumer product cubes move to a waste station, split into materials, flow as colored particles to recycling plants, then reassemble into new product cubes that re-enter the distribution network, with arrows that brighten as loops close."
+    },
+    {
+      "number": "16",
+      "title": "Supply Chain Risk Propagation Visualization",
+      "description": "A 3D network of supplier and customer nodes where a small failure cube appears at one supplier and emits expanding red waves that temporarily freeze or slow cargo spheres along connected links, while alternate green paths light up as rerouted flows.",
+      "seed": "Supply Chain Risk Propagation Visualization: A 3D network of supplier and customer nodes where a small failure cube appears at one supplier and emits expanding red waves that temporarily freeze or slow cargo spheres along connected links, while alternate green paths light up as rerouted flows."
+    },
+    {
+      "number": "17",
+      "title": "Spare Parts Supply for a Factory Floor",
+      "description": "A factory with several machines that periodically emit warning lights and request spare part cylinders from shelves; drones or carts pick up the requested part, navigate obstacles, and attach it to the machine, with machine efficiency meters rising back to green.",
+      "seed": "Spare Parts Supply for a Factory Floor: A factory with several machines that periodically emit warning lights and request spare part cylinders from shelves; drones or carts pick up the requested part, navigate obstacles, and attach it to the machine, with machine efficiency meters rising back to green."
+    },
+    {
+      "number": "18",
+      "title": "Maritime Shipping Lanes with Weather Disruptions",
+      "description": "A simplified map with curved sea lanes where ships carrying colored containers move slowly between ports, while semi-transparent storm spheres drift across paths, forcing ships to detour, slow, or bunch together, leaving contrasting normal vs storm-diverted trails.",
+      "seed": "Maritime Shipping Lanes with Weather Disruptions: A simplified map with curved sea lanes where ships carrying colored containers move slowly between ports, while semi-transparent storm spheres drift across paths, forcing ships to detour, slow, or bunch together, leaving contrasting normal vs storm-diverted trails."
+    },
+    {
+      "number": "19",
+      "title": "Multimodal Transport Hub",
+      "description": "A central hub where trains, trucks, and ships converge, with containers transferring between them via moving cranes and ramps; labels float above each mode, and containers briefly glow when they change transport type or mode of movement.",
+      "seed": "Multimodal Transport Hub: A central hub where trains, trucks, and ships converge, with containers transferring between them via moving cranes and ramps; labels float above each mode, and containers briefly glow when they change transport type or mode of movement."
+    },
+    {
+      "number": "20",
+      "title": "Last-Mile Delivery in a City Grid",
+      "description": "A 3D city block grid where delivery vans and small drones carry packages from a local depot to buildings; packages detach and move up elevators or along drone flight paths, with building demand indicators shrinking as deliveries successfully arrive.",
+      "seed": "Last-Mile Delivery in a City Grid: A 3D city block grid where delivery vans and small drones carry packages from a local depot to buildings; packages detach and move up elevators or along drone flight paths, with building demand indicators shrinking as deliveries successfully arrive."
+    },
+    {
+      "number": "21",
+      "title": "Supplier Capacity Expansion Over Time",
+      "description": "A time-lapse scene where supplier spheres gradually grow in size and spawn new output tubes as capacity increases, sending more frequent cargo particles to downstream factories, which in turn add new production lines (extra conveyor branches) when input flows rise.",
+      "seed": "Supplier Capacity Expansion Over Time: A time-lapse scene where supplier spheres gradually grow in size and spawn new output tubes as capacity increases, sending more frequent cargo particles to downstream factories, which in turn add new production lines (extra conveyor branches) when input flows rise."
+    },
+    {
+      "number": "22",
+      "title": "COVID-Era Supply Chain Distancing",
+      "description": "A warehouse and loading dock where workers (small capsules) and pallets must maintain distance; congestion zones emit red halos, causing workers and robots to reroute paths, slow their speed, or wait in staggered queues while cargo still attempts to flow.",
+      "seed": "COVID-Era Supply Chain Distancing: A warehouse and loading dock where workers (small capsules) and pallets must maintain distance; congestion zones emit red halos, causing workers and robots to reroute paths, slow their speed, or wait in staggered queues while cargo still attempts to flow."
+    },
+    {
+      "number": "23",
+      "title": "Energy Supply Chain from Plant to City",
+      "description": "Power plants feed glowing energy particles through high-voltage tower lines to substations and then into city blocks; when demand spikes, building blocks pulse brighter and draw more particles, occasionally overloading lines that flicker and temporarily shut off.",
+      "seed": "Energy Supply Chain from Plant to City: Power plants feed glowing energy particles through high-voltage tower lines to substations and then into city blocks; when demand spikes, building blocks pulse brighter and draw more particles, occasionally overloading lines that flicker and temporarily shut off."
+    },
+    {
+      "number": "24",
+      "title": "Retail Shelf Replenishment Dynamics",
+      "description": "A supermarket aisle where shelf segments have transparent front faces and visible stock cubes inside; carts from the backroom deliver cases, attach to shelf fronts to refill them, while shoppers’ baskets remove items, causing shelf stock bars to deplete and refill.",
+      "seed": "Retail Shelf Replenishment Dynamics: A supermarket aisle where shelf segments have transparent front faces and visible stock cubes inside; carts from the backroom deliver cases, attach to shelf fronts to refill them, while shoppers’ baskets remove items, causing shelf stock bars to deplete and refill."
+    },
+    {
+      "number": "25",
+      "title": "Blockchain-Tracked Supply Chain Tokens",
+      "description": "A stylized scene where physical cargo cubes move along conveyors and vehicles while parallel transparent “token” cubes orbit above them, linking with thin glowing lines to form a chain; when cargo transfers between owners, the token chain reattaches and updates labels.",
+      "seed": "Blockchain-Tracked Supply Chain Tokens: A stylized scene where physical cargo cubes move along conveyors and vehicles while parallel transparent “token” cubes orbit above them, linking with thin glowing lines to form a chain; when cargo transfers between owners, the token chain reattaches and updates labels."
+    }
+  ],
+  "raw_output": "Here are strong **Supply chains simulation inputs** you can plug into your prompt:\n\n1. **Container Port to Warehouse Flow**\n   A 3D scene where colorful box-shaped shipping containers slide off a large ship, move along conveyor belts and trucks to a warehouse, with crates attaching/detaching from vehicles, stacking, and leaving colored trails that show different product types.\n\n2. **Global Supply Web on a Rotating Globe**\n   A rotating transparent globe with glowing city nodes connected by pulsing supply routes, where small cargo spheres travel along curved paths, collide at hubs, queue, and transfer between air (flying), sea (floating), and land (rolling) transport links.\n\n3. **Factory Assembly and Packaging Line**\n   A factory floor where raw material blocks enter on one side, pass through machines that rotate, press, and merge them into products, then wrap them in transparent boxes and send them via branching conveyor belts to different labeled loading docks.\n\n4. **Rail Cargo Network with Bottlenecks**\n   A rail yard network with multiple tracks where train cars carrying colored cargo cubes attach/detach at junctions, wait at red/green signal posts, and sometimes collide or bounce slightly when queues get too long, with overhead labels showing delays.\n\n5. **Just-in-Time Inventory Warehouse**\n   A warehouse grid where shelving racks are stationary and autonomous carts glide around picking up and dropping off boxes, with stock levels shown by vertical bar meters that grow/shrink as items transfer between shelves, packaging stations, and loading zones.\n\n6. **Cold Chain Temperature Simulation**\n   A cooled supply chain where boxes of medicine move through trucks, cold rooms, and loading docks, with each box’s color smoothly shifting from blue (cold) to red (warm) as time passes, and transparent thermometer pillars marking temperature breaches.\n\n7. **Supply-Demand Balancing Network**\n   A simplified network of supplier spheres and retailer cubes linked by tubes where colored “product particles” flow, split, and merge, and retailer cubes grow or shrink slightly depending on whether incoming particles meet their rotating demand meters.\n\n8. **Port Container Stacking and Crane Operations**\n   A dockyard with towering stacks of container blocks and tall cranes that swing and lower hooks to attach to containers, lift them, rotate, and place them onto trucks or ships, with occasional misplacements causing containers to bump and slightly slide.\n\n9. **Food Supply Chain from Farm to Table**\n   A landscape with farms (green patches), a processing plant, a distribution center, and a supermarket, where food crates travel by tractor, truck, and conveyor, changing color and shape at each stage (raw, processed, packaged) and leaving faint path trails.\n\n10. **Micro-Scale Supply Chain Inside a Cell**\n    A biological analogy where glowing vesicle spheres (cargo) float along filament “tracks” between large organelle structures, attach/detach from motor-protein walkers, fuse with or bud from organelles, and leave shimmering particle trails representing molecular transfers.\n\n11. **Resilient vs Fragile Supply Chain Under Disruption**\n    Two mirrored networks of supplier nodes and warehouse cubes where one has many redundant paths and the other has single links; randomly appearing “disruption walls” block some paths, causing cargo spheres to reroute, queue, or bounce back in each system.\n\n12. **E-commerce Fulfillment Center Picking System**\n    A large grid where storage bins sit on shelves and robot carts slide under them, lift (attach) bins, carry them to packing stations, then detach and return them, with each order represented by a floating label that follows its items through the process.\n\n13. **Pipeline and Tank Supply Chain for Liquids**\n    A refinery scene with large vertical tanks connected by transparent pipes where colored liquid segments flow, split at junctions, and mix into new colors in tanks, with valves that rotate open/closed and cause fluid to slow, pulse, or back up.\n\n14. **Air Cargo Hub and Spoke Network**\n    A central airport hub with multiple runway spokes and small cargo planes that take off, orbit the hub in holding patterns, then land and dock to transfer glowing cargo cubes between planes, with trails showing typical vs delayed routes.\n\n15. **Recycling Loop Supply Chain**\n    A closed-loop system where consumer product cubes move to a waste station, split into materials, flow as colored particles to recycling plants, then reassemble into new product cubes that re-enter the distribution network, with arrows that brighten as loops close.\n\n16. **Supply Chain Risk Propagation Visualization**\n    A 3D network of supplier and customer nodes where a small failure cube appears at one supplier and emits expanding red waves that temporarily freeze or slow cargo spheres along connected links, while alternate green paths light up as rerouted flows.\n\n17. **Spare Parts Supply for a Factory Floor**\n    A factory with several machines that periodically emit warning lights and request spare part cylinders from shelves; drones or carts pick up the requested part, navigate obstacles, and attach it to the machine, with machine efficiency meters rising back to green.\n\n18. **Maritime Shipping Lanes with Weather Disruptions**\n    A simplified map with curved sea lanes where ships carrying colored containers move slowly between ports, while semi-transparent storm spheres drift across paths, forcing ships to detour, slow, or bunch together, leaving contrasting normal vs storm-diverted trails.\n\n19. **Multimodal Transport Hub**\n    A central hub where trains, trucks, and ships converge, with containers transferring between them via moving cranes and ramps; labels float above each mode, and containers briefly glow when they change transport type or mode of movement.\n\n20. **Last-Mile Delivery in a City Grid**\n    A 3D city block grid where delivery vans and small drones carry packages from a local depot to buildings; packages detach and move up elevators or along drone flight paths, with building demand indicators shrinking as deliveries successfully arrive.\n\n21. **Supplier Capacity Expansion Over Time**\n    A time-lapse scene where supplier spheres gradually grow in size and spawn new output tubes as capacity increases, sending more frequent cargo particles to downstream factories, which in turn add new production lines (extra conveyor branches) when input flows rise.\n\n22. **COVID-Era Supply Chain Distancing**\n    A warehouse and loading dock where workers (small capsules) and pallets must maintain distance; congestion zones emit red halos, causing workers and robots to reroute paths, slow their speed, or wait in staggered queues while cargo still attempts to flow.\n\n23. **Energy Supply Chain from Plant to City**\n    Power plants feed glowing energy particles through high-voltage tower lines to substations and then into city blocks; when demand spikes, building blocks pulse brighter and draw more particles, occasionally overloading lines that flicker and temporarily shut off.\n\n24. **Retail Shelf Replenishment Dynamics**\n    A supermarket aisle where shelf segments have transparent front faces and visible stock cubes inside; carts from the backroom deliver cases, attach to shelf fronts to refill them, while shoppers’ baskets remove items, causing shelf stock bars to deplete and refill.\n\n25. **Blockchain-Tracked Supply Chain Tokens**\n    A stylized scene where physical cargo cubes move along conveyors and vehicles while parallel transparent “token” cubes orbit above them, linking with thin glowing lines to form a chain; when cargo transfers between owners, the token chain reattaches and updates labels."
+}

@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Organ systems",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:47:51",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Circulatory System Flow Network",
+      "description": "A transparent torso-shaped volume contains branching red and blue tubes where glowing blood particles pulse from a beating heart sphere through arteries and veins, with valves that open/close, collisions at junctions, and labels floating over major vessels.",
+      "seed": "Circulatory System Flow Network: A transparent torso-shaped volume contains branching red and blue tubes where glowing blood particles pulse from a beating heart sphere through arteries and veins, with valves that open/close, collisions at junctions, and labels floating over major vessels."
+    },
+    {
+      "number": "2",
+      "title": "Respiratory System Gas Exchange",
+      "description": "A branching trachea and bronchi tree leads to clusters of semi-transparent alveolar spheres where red and blue blood cells orbit capillary rings, exchanging glowing oxygen particles that attach/detach and change cell color as they pass.",
+      "seed": "Respiratory System Gas Exchange: A branching trachea and bronchi tree leads to clusters of semi-transparent alveolar spheres where red and blue blood cells orbit capillary rings, exchanging glowing oxygen particles that attach/detach and change cell color as they pass."
+    },
+    {
+      "number": "3",
+      "title": "Digestive Tract Peristalsis",
+      "description": "A long semi-transparent digestive tube snakes through space with colored food bolus spheres that move via visible peristaltic wave contractions, breaking into smaller particles at the stomach chamber and being absorbed as they attach to villi protrusions.",
+      "seed": "Digestive Tract Peristalsis: A long semi-transparent digestive tube snakes through space with colored food bolus spheres that move via visible peristaltic wave contractions, breaking into smaller particles at the stomach chamber and being absorbed as they attach to villi protrusions."
+    },
+    {
+      "number": "4",
+      "title": "Neural Network Signaling in the Nervous System",
+      "description": "A 3D web of neuron-like nodes connected by tubular axons where glowing impulses pulse, branch, and split along paths, with synapses represented by gaps where particles must “jump” and labels showing signal speed on a side meter.",
+      "seed": "Neural Network Signaling in the Nervous System: A 3D web of neuron-like nodes connected by tubular axons where glowing impulses pulse, branch, and split along paths, with synapses represented by gaps where particles must “jump” and labels showing signal speed on a side meter."
+    },
+    {
+      "number": "5",
+      "title": "Muscular System Contraction Mechanics",
+      "description": "Bundles of aligned cylinders (muscle fibers) attach between two bones and shorten when triggered by incoming neural pulses, with myosin and actin filaments sliding past each other visibly, changing color and thickness as the joint rotates.",
+      "seed": "Muscular System Contraction Mechanics: Bundles of aligned cylinders (muscle fibers) attach between two bones and shorten when triggered by incoming neural pulses, with myosin and actin filaments sliding past each other visibly, changing color and thickness as the joint rotates."
+    },
+    {
+      "number": "6",
+      "title": "Skeletal System Stress and Support",
+      "description": "A semi-transparent skeleton stands in space with each bone color-coded by stress level as weights attach/detach from hands and spine, showing bending, compression arrows, and subtle elastic deformation when joints move or jump.",
+      "seed": "Skeletal System Stress and Support: A semi-transparent skeleton stands in space with each bone color-coded by stress level as weights attach/detach from hands and spine, showing bending, compression arrows, and subtle elastic deformation when joints move or jump."
+    },
+    {
+      "number": "7",
+      "title": "Endocrine System Hormone Release and Transport",
+      "description": "Gland objects (pituitary, thyroid, adrenals, pancreas, etc.) sit in fixed positions and periodically emit colored hormone particles that drift through a semi-transparent vascular network, attach to specific organ receptors, and fade as a meter tracks hormone concentration over time.",
+      "seed": "Endocrine System Hormone Release and Transport: Gland objects (pituitary, thyroid, adrenals, pancreas, etc.) sit in fixed positions and periodically emit colored hormone particles that drift through a semi-transparent vascular network, attach to specific organ receptors, and fade as a meter tracks hormone concentration over time."
+    },
+    {
+      "number": "8",
+      "title": "Immune System Attack on Pathogens",
+      "description": "A 3D tissue grid contains invading pathogen spheres that replicate and spread, while mobile white blood cell blobs float, chase, and attach to them, engulfing and dissolving them into fragment particles, with trails showing movement paths and labels for cell types.",
+      "seed": "Immune System Attack on Pathogens: A 3D tissue grid contains invading pathogen spheres that replicate and spread, while mobile white blood cell blobs float, chase, and attach to them, engulfing and dissolving them into fragment particles, with trails showing movement paths and labels for cell types."
+    },
+    {
+      "number": "9",
+      "title": "Urinary System Filtration and Flow",
+      "description": "A kidney model made of semi-transparent lobes filters a stream of particle-laden fluid that enters through a renal artery, splits into nephrons where particles are selectively removed or returned, then recombines into a ureter tube that carries yellowish urine particles to a filling/emptying bladder sphere.",
+      "seed": "Urinary System Filtration and Flow: A kidney model made of semi-transparent lobes filters a stream of particle-laden fluid that enters through a renal artery, splits into nephrons where particles are selectively removed or returned, then recombines into a ureter tube that carries yellowish urine particles to a filling/emptying bladder sphere."
+    },
+    {
+      "number": "10",
+      "title": "Lymphatic System Drainage and Return",
+      "description": "A light body outline contains a greenish branching lymph vessel system where interstitial fluid particles seep from capillaries, drift in tissue, and are gradually collected into lymph nodes that filter, slow, and color-shift the particles before they return to a central vein.",
+      "seed": "Lymphatic System Drainage and Return: A light body outline contains a greenish branching lymph vessel system where interstitial fluid particles seep from capillaries, drift in tissue, and are gradually collected into lymph nodes that filter, slow, and color-shift the particles before they return to a central vein."
+    },
+    {
+      "number": "11",
+      "title": "Integumentary System Barrier and Healing",
+      "description": "A thick 3D skin slice with layered transparent slabs shows invading particles trying to penetrate from the top, with most bouncing off or dissolving, and a wound cut where cells at the edge grow, migrate, and bridge the gap while capillaries sprout upward toward the surface.",
+      "seed": "Integumentary System Barrier and Healing: A thick 3D skin slice with layered transparent slabs shows invading particles trying to penetrate from the top, with most bouncing off or dissolving, and a wound cut where cells at the edge grow, migrate, and bridge the gap while capillaries sprout upward toward the surface."
+    },
+    {
+      "number": "12",
+      "title": "Reproductive System Gamete Journey",
+      "description": "A curving, semi-transparent female reproductive tract guides sperm particles from the vagina up through the cervix into the uterus and fallopian tubes, where a single ovum sphere waits, and colliding sperm either bounce away or one successfully attaches and merges, changing color to indicate fertilization.",
+      "seed": "Reproductive System Gamete Journey: A curving, semi-transparent female reproductive tract guides sperm particles from the vagina up through the cervix into the uterus and fallopian tubes, where a single ovum sphere waits, and colliding sperm either bounce away or one successfully attaches and merges, changing color to indicate fertilization."
+    },
+    {
+      "number": "13",
+      "title": "Organ Systems Interdependence Dashboard",
+      "description": "Multiple simplified organs (heart, lungs, liver, kidneys, brain, muscles) float in a circle connected by colored flow tubes for blood, nerve signals, and hormones, with small particles representing resources (O₂, nutrients, waste) circulating, and meters that rise/fall as one organ’s failure cascades through the system.",
+      "seed": "Organ Systems Interdependence Dashboard: Multiple simplified organs (heart, lungs, liver, kidneys, brain, muscles) float in a circle connected by colored flow tubes for blood, nerve signals, and hormones, with small particles representing resources (O₂, nutrients, waste) circulating, and meters that rise/fall as one organ’s failure cascades through the system."
+    },
+    {
+      "number": "14",
+      "title": "Pulmonary and Systemic Circuits in One View",
+      "description": "A heart model in the center pumps blue particles to a lung block where they pick up glowing oxygen and turn red, then travel through body organ blocks that consume oxygen and return the particles blue, with trails tracing the closed loops and valves visibly snapping shut.",
+      "seed": "Pulmonary and Systemic Circuits in One View: A heart model in the center pumps blue particles to a lung block where they pick up glowing oxygen and turn red, then travel through body organ blocks that consume oxygen and return the particles blue, with trails tracing the closed loops and valves visibly snapping shut."
+    },
+    {
+      "number": "15",
+      "title": "Metabolic System in the Liver Hub",
+      "description": "A liver block receives incoming nutrient particles from the gut tube and toxic particles from systemic blood, sorts and stores some as glowing glycogen clusters, converts others, and sends processed particles back out, with labels tracking levels of glucose, lipids, and toxins over time.",
+      "seed": "Metabolic System in the Liver Hub: A liver block receives incoming nutrient particles from the gut tube and toxic particles from systemic blood, sorts and stores some as glowing glycogen clusters, converts others, and sends processed particles back out, with labels tracking levels of glucose, lipids, and toxins over time."
+    },
+    {
+      "number": "16",
+      "title": "Sympathetic vs Parasympathetic Nervous Control",
+      "description": "A body outline shows key organs (heart, lungs, gut, pupils) with two overlaid nerve networks—one red (sympathetic) and one blue (parasympathetic)—sending pulses that attach to organ receptors, making them speed up or slow down with visible changes in beat rate, breathing motion, and peristalsis intensity.",
+      "seed": "Sympathetic vs Parasympathetic Nervous Control: A body outline shows key organs (heart, lungs, gut, pupils) with two overlaid nerve networks—one red (sympathetic) and one blue (parasympathetic)—sending pulses that attach to organ receptors, making them speed up or slow down with visible changes in beat rate, breathing motion, and peristalsis intensity."
+    },
+    {
+      "number": "17",
+      "title": "Cardiorespiratory Exercise Response",
+      "description": "A running figure’s leg muscles contract rhythmically while heart rate, stroke volume, and breathing depth all increase, visible as faster blood particle flow, stronger heart expansion/contraction, and deeper chest motion, with color-coded meters tracking oxygen delivery and CO₂ removal.",
+      "seed": "Cardiorespiratory Exercise Response: A running figure’s leg muscles contract rhythmically while heart rate, stroke volume, and breathing depth all increase, visible as faster blood particle flow, stronger heart expansion/contraction, and deeper chest motion, with color-coded meters tracking oxygen delivery and CO₂ removal."
+    },
+    {
+      "number": "18",
+      "title": "Feedback Loops in Endocrine Regulation",
+      "description": "A hypothalamus and pituitary pair at the top emit hormone particles that travel to a thyroid block, which in turn releases its own hormone particles that drift back and modulate the original release, with arrows and meters showing negative feedback as levels rise and then stabilize.",
+      "seed": "Feedback Loops in Endocrine Regulation: A hypothalamus and pituitary pair at the top emit hormone particles that travel to a thyroid block, which in turn releases its own hormone particles that drift back and modulate the original release, with arrows and meters showing negative feedback as levels rise and then stabilize."
+    },
+    {
+      "number": "19",
+      "title": "Organ System Growth in Development",
+      "description": "A small embryo-like core gradually sprouts and grows semi-transparent organ shapes (heart, brain, gut tube, limb buds) that branch, wrap, and fold, each organ system changing color and size over time as a time slider lets the user scrub through developmental stages.",
+      "seed": "Organ System Growth in Development: A small embryo-like core gradually sprouts and grows semi-transparent organ shapes (heart, brain, gut tube, limb buds) that branch, wrap, and fold, each organ system changing color and size over time as a time slider lets the user scrub through developmental stages."
+    },
+    {
+      "number": "20",
+      "title": "Fluid Compartments and Osmotic Shifts",
+      "description": "Three adjacent volumes represent intracellular, interstitial, and plasma compartments with particle densities and semi-transparent membranes that allow water particles to shift and equalize gradients, while ion particles are pumped across, changing cell size and membrane tension.",
+      "seed": "Fluid Compartments and Osmotic Shifts: Three adjacent volumes represent intracellular, interstitial, and plasma compartments with particle densities and semi-transparent membranes that allow water particles to shift and equalize gradients, while ion particles are pumped across, changing cell size and membrane tension."
+    },
+    {
+      "number": "21",
+      "title": "Thermoregulatory Organ System Interplay",
+      "description": "A torso with skin, blood vessels, sweat glands, and muscles responds to changing ambient temperature by dilating or constricting vessels, activating shivering muscle motion, and emitting sweat droplet particles that evaporate and cool the surface, with a core temperature meter reacting.",
+      "seed": "Thermoregulatory Organ System Interplay: A torso with skin, blood vessels, sweat glands, and muscles responds to changing ambient temperature by dilating or constricting vessels, activating shivering muscle motion, and emitting sweat droplet particles that evaporate and cool the surface, with a core temperature meter reacting."
+    },
+    {
+      "number": "22",
+      "title": "Symbolic City of Organ Systems",
+      "description": "A stylized “body city” has a pumping factory (heart), air tower (lungs), processing plant (liver), waste plant (kidneys), and control tower (brain) connected by roadways (vessels) where traffic particles flow, attach to stations, and get rerouted, with lights indicating overload or failure in any district.",
+      "seed": "Symbolic City of Organ Systems: A stylized “body city” has a pumping factory (heart), air tower (lungs), processing plant (liver), waste plant (kidneys), and control tower (brain) connected by roadways (vessels) where traffic particles flow, attach to stations, and get rerouted, with lights indicating overload or failure in any district."
+    },
+    {
+      "number": "23",
+      "title": "Hormone-Receptor Lock and Key Visualizer",
+      "description": "Various organ “islands” float in 3D, each covered with specific receptor shapes; colored hormone particles drift randomly, bounce off mismatched receptors, and only attach and glow when they encounter the correct shape, triggering a marked change in the organ island’s activity animation.",
+      "seed": "Hormone-Receptor Lock and Key Visualizer: Various organ “islands” float in 3D, each covered with specific receptor shapes; colored hormone particles drift randomly, bounce off mismatched receptors, and only attach and glow when they encounter the correct shape, triggering a marked change in the organ island’s activity animation."
+    },
+    {
+      "number": "24",
+      "title": "Organ Systems Under Altitude Change",
+      "description": "A figure in a transparent chamber ascends in altitude (slider-controlled), causing oxygen particle density to decrease around the lungs, heart rate to increase, red blood cell particles to gradually grow more numerous, and breathing depth to intensify, with side-by-side meters for each organ system’s adjustment.",
+      "seed": "Organ Systems Under Altitude Change: A figure in a transparent chamber ascends in altitude (slider-controlled), causing oxygen particle density to decrease around the lungs, heart rate to increase, red blood cell particles to gradually grow more numerous, and breathing depth to intensify, with side-by-side meters for each organ system’s adjustment."
+    },
+    {
+      "number": "25",
+      "title": "Multisystem Emergency Response Simulation",
+      "description": "A sudden “injury” event (impact on a limb) triggers bleeding particle loss, local vessel constriction, clot particle formation, heart rate increase, adrenal hormone release, respiratory rate rise, and immune cell migration to the site, all visibly coordinated with timers and labels showing each system’s activation.",
+      "seed": "Multisystem Emergency Response Simulation: A sudden “injury” event (impact on a limb) triggers bleeding particle loss, local vessel constriction, clot particle formation, heart rate increase, adrenal hormone release, respiratory rate rise, and immune cell migration to the site, all visibly coordinated with timers and labels showing each system’s activation."
+    }
+  ],
+  "raw_output": "Here are strong **Organ systems simulation inputs** you can plug into your prompt:\n\n1. **Circulatory System Flow Network**\n   A transparent torso-shaped volume contains branching red and blue tubes where glowing blood particles pulse from a beating heart sphere through arteries and veins, with valves that open/close, collisions at junctions, and labels floating over major vessels.\n\n2. **Respiratory System Gas Exchange**\n   A branching trachea and bronchi tree leads to clusters of semi-transparent alveolar spheres where red and blue blood cells orbit capillary rings, exchanging glowing oxygen particles that attach/detach and change cell color as they pass.\n\n3. **Digestive Tract Peristalsis**\n   A long semi-transparent digestive tube snakes through space with colored food bolus spheres that move via visible peristaltic wave contractions, breaking into smaller particles at the stomach chamber and being absorbed as they attach to villi protrusions.\n\n4. **Neural Network Signaling in the Nervous System**\n   A 3D web of neuron-like nodes connected by tubular axons where glowing impulses pulse, branch, and split along paths, with synapses represented by gaps where particles must “jump” and labels showing signal speed on a side meter.\n\n5. **Muscular System Contraction Mechanics**\n   Bundles of aligned cylinders (muscle fibers) attach between two bones and shorten when triggered by incoming neural pulses, with myosin and actin filaments sliding past each other visibly, changing color and thickness as the joint rotates.\n\n6. **Skeletal System Stress and Support**\n   A semi-transparent skeleton stands in space with each bone color-coded by stress level as weights attach/detach from hands and spine, showing bending, compression arrows, and subtle elastic deformation when joints move or jump.\n\n7. **Endocrine System Hormone Release and Transport**\n   Gland objects (pituitary, thyroid, adrenals, pancreas, etc.) sit in fixed positions and periodically emit colored hormone particles that drift through a semi-transparent vascular network, attach to specific organ receptors, and fade as a meter tracks hormone concentration over time.\n\n8. **Immune System Attack on Pathogens**\n   A 3D tissue grid contains invading pathogen spheres that replicate and spread, while mobile white blood cell blobs float, chase, and attach to them, engulfing and dissolving them into fragment particles, with trails showing movement paths and labels for cell types.\n\n9. **Urinary System Filtration and Flow**\n   A kidney model made of semi-transparent lobes filters a stream of particle-laden fluid that enters through a renal artery, splits into nephrons where particles are selectively removed or returned, then recombines into a ureter tube that carries yellowish urine particles to a filling/emptying bladder sphere.\n\n10. **Lymphatic System Drainage and Return**\n    A light body outline contains a greenish branching lymph vessel system where interstitial fluid particles seep from capillaries, drift in tissue, and are gradually collected into lymph nodes that filter, slow, and color-shift the particles before they return to a central vein.\n\n11. **Integumentary System Barrier and Healing**\n    A thick 3D skin slice with layered transparent slabs shows invading particles trying to penetrate from the top, with most bouncing off or dissolving, and a wound cut where cells at the edge grow, migrate, and bridge the gap while capillaries sprout upward toward the surface.\n\n12. **Reproductive System Gamete Journey**\n    A curving, semi-transparent female reproductive tract guides sperm particles from the vagina up through the cervix into the uterus and fallopian tubes, where a single ovum sphere waits, and colliding sperm either bounce away or one successfully attaches and merges, changing color to indicate fertilization.\n\n13. **Organ Systems Interdependence Dashboard**\n    Multiple simplified organs (heart, lungs, liver, kidneys, brain, muscles) float in a circle connected by colored flow tubes for blood, nerve signals, and hormones, with small particles representing resources (O₂, nutrients, waste) circulating, and meters that rise/fall as one organ’s failure cascades through the system.\n\n14. **Pulmonary and Systemic Circuits in One View**\n    A heart model in the center pumps blue particles to a lung block where they pick up glowing oxygen and turn red, then travel through body organ blocks that consume oxygen and return the particles blue, with trails tracing the closed loops and valves visibly snapping shut.\n\n15. **Metabolic System in the Liver Hub**\n    A liver block receives incoming nutrient particles from the gut tube and toxic particles from systemic blood, sorts and stores some as glowing glycogen clusters, converts others, and sends processed particles back out, with labels tracking levels of glucose, lipids, and toxins over time.\n\n16. **Sympathetic vs Parasympathetic Nervous Control**\n    A body outline shows key organs (heart, lungs, gut, pupils) with two overlaid nerve networks—one red (sympathetic) and one blue (parasympathetic)—sending pulses that attach to organ receptors, making them speed up or slow down with visible changes in beat rate, breathing motion, and peristalsis intensity.\n\n17. **Cardiorespiratory Exercise Response**\n    A running figure’s leg muscles contract rhythmically while heart rate, stroke volume, and breathing depth all increase, visible as faster blood particle flow, stronger heart expansion/contraction, and deeper chest motion, with color-coded meters tracking oxygen delivery and CO₂ removal.\n\n18. **Feedback Loops in Endocrine Regulation**\n    A hypothalamus and pituitary pair at the top emit hormone particles that travel to a thyroid block, which in turn releases its own hormone particles that drift back and modulate the original release, with arrows and meters showing negative feedback as levels rise and then stabilize.\n\n19. **Organ System Growth in Development**\n    A small embryo-like core gradually sprouts and grows semi-transparent organ shapes (heart, brain, gut tube, limb buds) that branch, wrap, and fold, each organ system changing color and size over time as a time slider lets the user scrub through developmental stages.\n\n20. **Fluid Compartments and Osmotic Shifts**\n    Three adjacent volumes represent intracellular, interstitial, and plasma compartments with particle densities and semi-transparent membranes that allow water particles to shift and equalize gradients, while ion particles are pumped across, changing cell size and membrane tension.\n\n21. **Thermoregulatory Organ System Interplay**\n    A torso with skin, blood vessels, sweat glands, and muscles responds to changing ambient temperature by dilating or constricting vessels, activating shivering muscle motion, and emitting sweat droplet particles that evaporate and cool the surface, with a core temperature meter reacting.\n\n22. **Symbolic City of Organ Systems**\n    A stylized “body city” has a pumping factory (heart), air tower (lungs), processing plant (liver), waste plant (kidneys), and control tower (brain) connected by roadways (vessels) where traffic particles flow, attach to stations, and get rerouted, with lights indicating overload or failure in any district.\n\n23. **Hormone-Receptor Lock and Key Visualizer**\n    Various organ “islands” float in 3D, each covered with specific receptor shapes; colored hormone particles drift randomly, bounce off mismatched receptors, and only attach and glow when they encounter the correct shape, triggering a marked change in the organ island’s activity animation.\n\n24. **Organ Systems Under Altitude Change**\n    A figure in a transparent chamber ascends in altitude (slider-controlled), causing oxygen particle density to decrease around the lungs, heart rate to increase, red blood cell particles to gradually grow more numerous, and breathing depth to intensify, with side-by-side meters for each organ system’s adjustment.\n\n25. **Multisystem Emergency Response Simulation**\n    A sudden “injury” event (impact on a limb) triggers bleeding particle loss, local vessel constriction, clot particle formation, heart rate increase, adrenal hormone release, respiratory rate rise, and immune cell migration to the site, all visibly coordinated with timers and labels showing each system’s activation."
+}

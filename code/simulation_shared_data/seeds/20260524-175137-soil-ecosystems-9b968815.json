@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Soil ecosystems",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:51:37",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Root Maze and Nutrient Flow",
+      "description": "A 3D soil block with branching transparent roots that grow and turn toward glowing nutrient particles diffusing through pores, with nutrients attaching to roots, changing their color, and a side meter tracking total absorbed nutrients.",
+      "seed": "Root Maze and Nutrient Flow: A 3D soil block with branching transparent roots that grow and turn toward glowing nutrient particles diffusing through pores, with nutrients attaching to roots, changing their color, and a side meter tracking total absorbed nutrients."
+    },
+    {
+      "number": "2",
+      "title": "Earthworm Tunnels and Soil Mixing",
+      "description": "A light-brown semi-transparent soil cube where animated earthworm cylinders burrow, leaving tunnels behind, pushing soil particles aside, mixing dark organic particles upward and lighter mineral grains downward with trails and labels.",
+      "seed": "Earthworm Tunnels and Soil Mixing: A light-brown semi-transparent soil cube where animated earthworm cylinders burrow, leaving tunnels behind, pushing soil particles aside, mixing dark organic particles upward and lighter mineral grains downward with trails and labels."
+    },
+    {
+      "number": "3",
+      "title": "Water Infiltration and Pore Filling",
+      "description": "A layered soil column where blue water droplets fall from above, spread into pores, merge into thin films along grain surfaces, and slowly percolate downward, while a dynamic water table plane rises and falls with color-coded saturation levels.",
+      "seed": "Water Infiltration and Pore Filling: A layered soil column where blue water droplets fall from above, spread into pores, merge into thin films along grain surfaces, and slowly percolate downward, while a dynamic water table plane rises and falls with color-coded saturation levels."
+    },
+    {
+      "number": "4",
+      "title": "Soil Compaction Under Moving Load",
+      "description": "A rolling wheel or foot-shaped object moves back and forth over a soil surface, compressing a grid of soil “voxels” that shrink and darken where pressure is high, with vertical arrows showing reduced pore space and bouncing test particles showing lower infiltration.",
+      "seed": "Soil Compaction Under Moving Load: A rolling wheel or foot-shaped object moves back and forth over a soil surface, compressing a grid of soil “voxels” that shrink and darken where pressure is high, with vertical arrows showing reduced pore space and bouncing test particles showing lower infiltration."
+    },
+    {
+      "number": "5",
+      "title": "Microbe Colonies on Soil Aggregates",
+      "description": "Large spherical soil aggregates float in a 3D box while tiny colored microbial dots attach, replicate, and form glowing colonies on surfaces, sending faint pulsing connections (thin lines) that show nutrient transfer between aggregates.",
+      "seed": "Microbe Colonies on Soil Aggregates: Large spherical soil aggregates float in a 3D box while tiny colored microbial dots attach, replicate, and form glowing colonies on surfaces, sending faint pulsing connections (thin lines) that show nutrient transfer between aggregates."
+    },
+    {
+      "number": "6",
+      "title": "Soil Carbon Cycling with Organic Litter",
+      "description": "Leaf fragments on the surface slowly shrink as brown carbon particles detach, sink into soil, attach to aggregates, and then are released as rising transparent gas bubbles that collect under a “atmosphere” plane, with a carbon stock bar updating over time.",
+      "seed": "Soil Carbon Cycling with Organic Litter: Leaf fragments on the surface slowly shrink as brown carbon particles detach, sink into soil, attach to aggregates, and then are released as rising transparent gas bubbles that collect under a “atmosphere” plane, with a carbon stock bar updating over time."
+    },
+    {
+      "number": "7",
+      "title": "Root Exudates and Microbial Hotspots",
+      "description": "Roots extend through soil and periodically emit small glowing exudate clouds that spread, fade, and attract bacteria particles, which swarm, collide, and cluster into bright hotspots, while labels show changing “activity” above each root zone.",
+      "seed": "Root Exudates and Microbial Hotspots: Roots extend through soil and periodically emit small glowing exudate clouds that spread, fade, and attract bacteria particles, which swarm, collide, and cluster into bright hotspots, while labels show changing “activity” above each root zone."
+    },
+    {
+      "number": "8",
+      "title": "Soil Erosion by Surface Runoff",
+      "description": "A slightly sloped soil surface made of colored grains is hit by falling raindrop spheres that splash, detach grains, and push them downslope in moving rivulets, with sediment-laden water turning more opaque and depositing grains in a lower basin.",
+      "seed": "Soil Erosion by Surface Runoff: A slightly sloped soil surface made of colored grains is hit by falling raindrop spheres that splash, detach grains, and push them downslope in moving rivulets, with sediment-laden water turning more opaque and depositing grains in a lower basin."
+    },
+    {
+      "number": "9",
+      "title": "Nutrient Diffusion from Granular Fertilizer",
+      "description": "Bright fertilizer pellets on the soil surface slowly dissolve into colored nutrient halos that expand, overlap, and merge in 3D, while root tips navigate toward higher concentration zones, changing color when they cross different nutrient gradients.",
+      "seed": "Nutrient Diffusion from Granular Fertilizer: Bright fertilizer pellets on the soil surface slowly dissolve into colored nutrient halos that expand, overlap, and merge in 3D, while root tips navigate toward higher concentration zones, changing color when they cross different nutrient gradients."
+    },
+    {
+      "number": "10",
+      "title": "Burrowing Insects and Nest Construction",
+      "description": "Ant-like agents move through the upper soil, excavating tunnels and chambers that remain as voids, carrying soil pellets that they drop at a mound on the surface, with an overhead camera that can rotate and reveal the growing 3D nest structure.",
+      "seed": "Burrowing Insects and Nest Construction: Ant-like agents move through the upper soil, excavating tunnels and chambers that remain as voids, carrying soil pellets that they drop at a mound on the surface, with an overhead camera that can rotate and reveal the growing 3D nest structure."
+    },
+    {
+      "number": "11",
+      "title": "Soil Structure Formation and Aggregate Binding",
+      "description": "A cloud of individual mineral grains and organic particles gradually collide, stick, and merge into irregular aggregates, which then attach into larger clumps, while a slider controls “binding strength” and shows how easily aggregates break apart under shaking.",
+      "seed": "Soil Structure Formation and Aggregate Binding: A cloud of individual mineral grains and organic particles gradually collide, stick, and merge into irregular aggregates, which then attach into larger clumps, while a slider controls “binding strength” and shows how easily aggregates break apart under shaking."
+    },
+    {
+      "number": "12",
+      "title": "Mycorrhizal Fungal Network and Resource Sharing",
+      "description": "Thin, glowing fungal filaments branch out from roots, wrapping around soil particles and connecting multiple plant roots, with pulsing colored particles moving along hyphae to represent resource transfer between plants under different shading conditions.",
+      "seed": "Mycorrhizal Fungal Network and Resource Sharing: Thin, glowing fungal filaments branch out from roots, wrapping around soil particles and connecting multiple plant roots, with pulsing colored particles moving along hyphae to represent resource transfer between plants under different shading conditions."
+    },
+    {
+      "number": "13",
+      "title": "Soil Gas Exchange and Respiration",
+      "description": "Microbial clusters in soil emit CO₂ spheres that rise through pores, sometimes getting trapped under compacted layers, then burst through weak spots to the surface, while O₂ particles from above sink and dissolve into the soil, with a gas balance gauge.",
+      "seed": "Soil Gas Exchange and Respiration: Microbial clusters in soil emit CO₂ spheres that rise through pores, sometimes getting trapped under compacted layers, then burst through weak spots to the surface, while O₂ particles from above sink and dissolve into the soil, with a gas balance gauge."
+    },
+    {
+      "number": "14",
+      "title": "Freeze–Thaw Cycles in Soil Layers",
+      "description": "A stratified soil column with moisture pockets experiences periodic cooling and warming: blue-tinged ice crystals grow and expand in pores, pushing grains apart and creating cracks, then melt into water films that drain, changing porosity and crack geometry.",
+      "seed": "Freeze–Thaw Cycles in Soil Layers: A stratified soil column with moisture pockets experiences periodic cooling and warming: blue-tinged ice crystals grow and expand in pores, pushing grains apart and creating cracks, then melt into water films that drain, changing porosity and crack geometry."
+    },
+    {
+      "number": "15",
+      "title": "Bioturbation by Diverse Soil Fauna",
+      "description": "Different soil animals (worms, beetle larvae, small rodents) move through the soil at different depths, each creating distinct burrow shapes and mixing patterns, while colored tracer particles show vertical and horizontal redistribution over time.",
+      "seed": "Bioturbation by Diverse Soil Fauna: Different soil animals (worms, beetle larvae, small rodents) move through the soil at different depths, each creating distinct burrow shapes and mixing patterns, while colored tracer particles show vertical and horizontal redistribution over time."
+    },
+    {
+      "number": "16",
+      "title": "Soil Salinity and Capillary Rise",
+      "description": "A water reservoir at the base feeds blue water upward through narrow pores, carrying dissolved salt particles that crystallize as white clusters near the surface as water evaporates, with salinity displayed as color intensity in each soil cell.",
+      "seed": "Soil Salinity and Capillary Rise: A water reservoir at the base feeds blue water upward through narrow pores, carrying dissolved salt particles that crystallize as white clusters near the surface as water evaporates, with salinity displayed as color intensity in each soil cell."
+    },
+    {
+      "number": "17",
+      "title": "Soil pH Fronts Around Roots",
+      "description": "A root system grows through soil cells that change color along a blue-to-red spectrum as root exudates alter pH, with pH fronts propagating outward and overlapping, and microbial species appearing or disappearing depending on local pH thresholds.",
+      "seed": "Soil pH Fronts Around Roots: A root system grows through soil cells that change color along a blue-to-red spectrum as root exudates alter pH, with pH fronts propagating outward and overlapping, and microbial species appearing or disappearing depending on local pH thresholds."
+    },
+    {
+      "number": "18",
+      "title": "Soil Crust Formation and Seed Emergence",
+      "description": "After a simulated rain, fine particles rise and settle to form a thin, denser surface crust that darkens and hardens, while emerging seedling stems below push upward, sometimes cracking the crust or bending sideways when blocked.",
+      "seed": "Soil Crust Formation and Seed Emergence: After a simulated rain, fine particles rise and settle to form a thin, denser surface crust that darkens and hardens, while emerging seedling stems below push upward, sometimes cracking the crust or bending sideways when blocked."
+    },
+    {
+      "number": "19",
+      "title": "Macropores and Preferential Flow Paths",
+      "description": "A soil block contains a 3D network of large worm channels and cracks; when a pulse of colored water enters from the surface, it rushes quickly along some macropores, bypassing much of the matrix, leaving visible colored streaks and trapped pockets.",
+      "seed": "Macropores and Preferential Flow Paths: A soil block contains a 3D network of large worm channels and cracks; when a pulse of colored water enters from the surface, it rushes quickly along some macropores, bypassing much of the matrix, leaving visible colored streaks and trapped pockets."
+    },
+    {
+      "number": "20",
+      "title": "Soil Contaminant Plume and Remediation",
+      "description": "A leaking source at one corner of the soil block releases red contaminant particles that spread with groundwater flow and sorb onto particles, while injected remediation agents (blue particles) move in from wells, collide, react, and convert red particles to neutral gray.",
+      "seed": "Soil Contaminant Plume and Remediation: A leaking source at one corner of the soil block releases red contaminant particles that spread with groundwater flow and sorb onto particles, while injected remediation agents (blue particles) move in from wells, collide, react, and convert red particles to neutral gray."
+    },
+    {
+      "number": "21",
+      "title": "Root Competition in Shared Soil Volume",
+      "description": "Two or more plant root systems of different colors grow and branch within the same soil volume, overlapping and competing for shared nutrient particles that move randomly; roots change thickness and growth rate depending on local nutrient capture.",
+      "seed": "Root Competition in Shared Soil Volume: Two or more plant root systems of different colors grow and branch within the same soil volume, overlapping and competing for shared nutrient particles that move randomly; roots change thickness and growth rate depending on local nutrient capture."
+    },
+    {
+      "number": "22",
+      "title": "Soil Aggregate Slaking Under Rapid Wetting",
+      "description": "Dry soil aggregates are suddenly hit by a sheet of water, causing some aggregates to crack, split, and disperse into clouds of smaller particles, which then settle and form a denser surface layer, with aggregate integrity shown via changing opacity.",
+      "seed": "Soil Aggregate Slaking Under Rapid Wetting: Dry soil aggregates are suddenly hit by a sheet of water, causing some aggregates to crack, split, and disperse into clouds of smaller particles, which then settle and form a denser surface layer, with aggregate integrity shown via changing opacity."
+    },
+    {
+      "number": "23",
+      "title": "Soil Temperature Gradient and Biological Activity",
+      "description": "A vertical temperature gradient is visualized as a color ramp through the soil, with microbial particles moving more vigorously in optimal zones and slowing or disappearing in hot or cold layers, while a dynamic thermometer bar tracks temperature at selected depths.",
+      "seed": "Soil Temperature Gradient and Biological Activity: A vertical temperature gradient is visualized as a color ramp through the soil, with microbial particles moving more vigorously in optimal zones and slowing or disappearing in hot or cold layers, while a dynamic thermometer bar tracks temperature at selected depths."
+    },
+    {
+      "number": "24",
+      "title": "Nematode Hunting in the Rhizosphere",
+      "description": "Transparent nematode tubes wiggle through soil pores around roots, homing in on bacterial clusters marked as glowing dots; when they collide, bacteria counts drop and nematodes briefly brighten, with a label tracking predator–prey population changes.",
+      "seed": "Nematode Hunting in the Rhizosphere: Transparent nematode tubes wiggle through soil pores around roots, homing in on bacterial clusters marked as glowing dots; when they collide, bacteria counts drop and nematodes briefly brighten, with a label tracking predator–prey population changes."
+    },
+    {
+      "number": "25",
+      "title": "Symbolic “Soil as a City” Ecosystem",
+      "description": "A stylized soil “city” where mineral grains are buildings, roots are subway lines, microbes are citizens, and nutrients are glowing cargo orbs that transfer along root “tracks,” with traffic increasing or decreasing as environmental sliders (water, pH, organic matter) are adjusted.",
+      "seed": "Symbolic “Soil as a City” Ecosystem: A stylized soil “city” where mineral grains are buildings, roots are subway lines, microbes are citizens, and nutrients are glowing cargo orbs that transfer along root “tracks,” with traffic increasing or decreasing as environmental sliders (water, pH, organic matter) are adjusted."
+    }
+  ],
+  "raw_output": "Here are strong **Soil ecosystems simulation inputs** you can plug into your prompt:\n\n1. **Root Maze and Nutrient Flow**\n   A 3D soil block with branching transparent roots that grow and turn toward glowing nutrient particles diffusing through pores, with nutrients attaching to roots, changing their color, and a side meter tracking total absorbed nutrients.\n\n2. **Earthworm Tunnels and Soil Mixing**\n   A light-brown semi-transparent soil cube where animated earthworm cylinders burrow, leaving tunnels behind, pushing soil particles aside, mixing dark organic particles upward and lighter mineral grains downward with trails and labels.\n\n3. **Water Infiltration and Pore Filling**\n   A layered soil column where blue water droplets fall from above, spread into pores, merge into thin films along grain surfaces, and slowly percolate downward, while a dynamic water table plane rises and falls with color-coded saturation levels.\n\n4. **Soil Compaction Under Moving Load**\n   A rolling wheel or foot-shaped object moves back and forth over a soil surface, compressing a grid of soil “voxels” that shrink and darken where pressure is high, with vertical arrows showing reduced pore space and bouncing test particles showing lower infiltration.\n\n5. **Microbe Colonies on Soil Aggregates**\n   Large spherical soil aggregates float in a 3D box while tiny colored microbial dots attach, replicate, and form glowing colonies on surfaces, sending faint pulsing connections (thin lines) that show nutrient transfer between aggregates.\n\n6. **Soil Carbon Cycling with Organic Litter**\n   Leaf fragments on the surface slowly shrink as brown carbon particles detach, sink into soil, attach to aggregates, and then are released as rising transparent gas bubbles that collect under a “atmosphere” plane, with a carbon stock bar updating over time.\n\n7. **Root Exudates and Microbial Hotspots**\n   Roots extend through soil and periodically emit small glowing exudate clouds that spread, fade, and attract bacteria particles, which swarm, collide, and cluster into bright hotspots, while labels show changing “activity” above each root zone.\n\n8. **Soil Erosion by Surface Runoff**\n   A slightly sloped soil surface made of colored grains is hit by falling raindrop spheres that splash, detach grains, and push them downslope in moving rivulets, with sediment-laden water turning more opaque and depositing grains in a lower basin.\n\n9. **Nutrient Diffusion from Granular Fertilizer**\n   Bright fertilizer pellets on the soil surface slowly dissolve into colored nutrient halos that expand, overlap, and merge in 3D, while root tips navigate toward higher concentration zones, changing color when they cross different nutrient gradients.\n\n10. **Burrowing Insects and Nest Construction**\n    Ant-like agents move through the upper soil, excavating tunnels and chambers that remain as voids, carrying soil pellets that they drop at a mound on the surface, with an overhead camera that can rotate and reveal the growing 3D nest structure.\n\n11. **Soil Structure Formation and Aggregate Binding**\n    A cloud of individual mineral grains and organic particles gradually collide, stick, and merge into irregular aggregates, which then attach into larger clumps, while a slider controls “binding strength” and shows how easily aggregates break apart under shaking.\n\n12. **Mycorrhizal Fungal Network and Resource Sharing**\n    Thin, glowing fungal filaments branch out from roots, wrapping around soil particles and connecting multiple plant roots, with pulsing colored particles moving along hyphae to represent resource transfer between plants under different shading conditions.\n\n13. **Soil Gas Exchange and Respiration**\n    Microbial clusters in soil emit CO₂ spheres that rise through pores, sometimes getting trapped under compacted layers, then burst through weak spots to the surface, while O₂ particles from above sink and dissolve into the soil, with a gas balance gauge.\n\n14. **Freeze–Thaw Cycles in Soil Layers**\n    A stratified soil column with moisture pockets experiences periodic cooling and warming: blue-tinged ice crystals grow and expand in pores, pushing grains apart and creating cracks, then melt into water films that drain, changing porosity and crack geometry.\n\n15. **Bioturbation by Diverse Soil Fauna**\n    Different soil animals (worms, beetle larvae, small rodents) move through the soil at different depths, each creating distinct burrow shapes and mixing patterns, while colored tracer particles show vertical and horizontal redistribution over time.\n\n16. **Soil Salinity and Capillary Rise**\n    A water reservoir at the base feeds blue water upward through narrow pores, carrying dissolved salt particles that crystallize as white clusters near the surface as water evaporates, with salinity displayed as color intensity in each soil cell.\n\n17. **Soil pH Fronts Around Roots**\n    A root system grows through soil cells that change color along a blue-to-red spectrum as root exudates alter pH, with pH fronts propagating outward and overlapping, and microbial species appearing or disappearing depending on local pH thresholds.\n\n18. **Soil Crust Formation and Seed Emergence**\n    After a simulated rain, fine particles rise and settle to form a thin, denser surface crust that darkens and hardens, while emerging seedling stems below push upward, sometimes cracking the crust or bending sideways when blocked.\n\n19. **Macropores and Preferential Flow Paths**\n    A soil block contains a 3D network of large worm channels and cracks; when a pulse of colored water enters from the surface, it rushes quickly along some macropores, bypassing much of the matrix, leaving visible colored streaks and trapped pockets.\n\n20. **Soil Contaminant Plume and Remediation**\n    A leaking source at one corner of the soil block releases red contaminant particles that spread with groundwater flow and sorb onto particles, while injected remediation agents (blue particles) move in from wells, collide, react, and convert red particles to neutral gray.\n\n21. **Root Competition in Shared Soil Volume**\n    Two or more plant root systems of different colors grow and branch within the same soil volume, overlapping and competing for shared nutrient particles that move randomly; roots change thickness and growth rate depending on local nutrient capture.\n\n22. **Soil Aggregate Slaking Under Rapid Wetting**\n    Dry soil aggregates are suddenly hit by a sheet of water, causing some aggregates to crack, split, and disperse into clouds of smaller particles, which then settle and form a denser surface layer, with aggregate integrity shown via changing opacity.\n\n23. **Soil Temperature Gradient and Biological Activity**\n    A vertical temperature gradient is visualized as a color ramp through the soil, with microbial particles moving more vigorously in optimal zones and slowing or disappearing in hot or cold layers, while a dynamic thermometer bar tracks temperature at selected depths.\n\n24. **Nematode Hunting in the Rhizosphere**\n    Transparent nematode tubes wiggle through soil pores around roots, homing in on bacterial clusters marked as glowing dots; when they collide, bacteria counts drop and nematodes briefly brighten, with a label tracking predator–prey population changes.\n\n25. **Symbolic “Soil as a City” Ecosystem**\n    A stylized soil “city” where mineral grains are buildings, roots are subway lines, microbes are citizens, and nutrients are glowing cargo orbs that transfer along root “tracks,” with traffic increasing or decreasing as environmental sliders (water, pH, organic matter) are adjusted."
+}

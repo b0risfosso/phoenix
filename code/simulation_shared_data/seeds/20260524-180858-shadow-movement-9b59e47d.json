@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Shadow movement",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:08:58",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Rotating Sun and Moving Object Casting Dynamic Ground Shadows",
+      "description": "A bright sun-sphere slowly orbits above a flat white plane while colored cubes glide, bounce, and rotate across it, each cube casting soft, elongated shadows that stretch, shrink, and skew realistically with a faint gray transparency.",
+      "seed": "Rotating Sun and Moving Object Casting Dynamic Ground Shadows: A bright sun-sphere slowly orbits above a flat white plane while colored cubes glide, bounce, and rotate across it, each cube casting soft, elongated shadows that stretch, shrink, and skew realistically with a faint gray transparency."
+    },
+    {
+      "number": "2",
+      "title": "Pendulum Array with Interacting Overlapping Shadows",
+      "description": "A row of colored pendulums swings at different frequencies above a light floor, their dark translucent shadows overlapping, merging, and separating into layered patterns that pulse as the pendulums collide gently and transfer motion.",
+      "seed": "Pendulum Array with Interacting Overlapping Shadows: A row of colored pendulums swings at different frequencies above a light floor, their dark translucent shadows overlapping, merging, and separating into layered patterns that pulse as the pendulums collide gently and transfer motion."
+    },
+    {
+      "number": "3",
+      "title": "Solar Eclipse Shadow Sweep Over a Miniature City",
+      "description": "A glowing sun and a dark, slowly orbiting moon-sphere cast a moving eclipse shadow over a grid of simple buildings, where the sweeping dark circle dims colors, triggers building lights to glow on, and leaves a faint trailing contour of the shadow path.",
+      "seed": "Solar Eclipse Shadow Sweep Over a Miniature City: A glowing sun and a dark, slowly orbiting moon-sphere cast a moving eclipse shadow over a grid of simple buildings, where the sweeping dark circle dims colors, triggers building lights to glow on, and leaves a faint trailing contour of the shadow path."
+    },
+    {
+      "number": "4",
+      "title": "Rotating Lattice of Transparent Rods Creating Moiré Shadow Patterns",
+      "description": "A 3D lattice of thin, semi-transparent rods slowly rotates above a plane, casting intricate crisscrossing shadows that create moving moiré patterns, with a slider object that changes rod spacing and thus how the shadow patterns condense and dissolve.",
+      "seed": "Rotating Lattice of Transparent Rods Creating Moiré Shadow Patterns: A 3D lattice of thin, semi-transparent rods slowly rotates above a plane, casting intricate crisscrossing shadows that create moving moiré patterns, with a slider object that changes rod spacing and thus how the shadow patterns condense and dissolve."
+    },
+    {
+      "number": "5",
+      "title": "Planet with Orbiting Moons Casting Shadows on Each Other",
+      "description": "A central planet-sphere and several colored moon-spheres orbit in different planes while a distant sun lights the system, so that shadows of moons sweep across the planet’s surface and other moons, creating labeled shadow spots that glide and wrap around the curved surfaces.",
+      "seed": "Planet with Orbiting Moons Casting Shadows on Each Other: A central planet-sphere and several colored moon-spheres orbit in different planes while a distant sun lights the system, so that shadows of moons sweep across the planet’s surface and other moons, creating labeled shadow spots that glide and wrap around the curved surfaces."
+    },
+    {
+      "number": "6",
+      "title": "Bouncing Balls in a Box with Multi-Light Shadow Overlaps",
+      "description": "Several colored spheres bounce elastically inside a transparent box illuminated by three differently colored point lights, producing multiple colored, partially overlapping shadows on the floor and walls that split, merge, and shift as the balls move.",
+      "seed": "Bouncing Balls in a Box with Multi-Light Shadow Overlaps: Several colored spheres bounce elastically inside a transparent box illuminated by three differently colored point lights, producing multiple colored, partially overlapping shadows on the floor and walls that split, merge, and shift as the balls move."
+    },
+    {
+      "number": "7",
+      "title": "Robotic Arm Tracing Paths with Shadow-Based Marking",
+      "description": "A jointed robotic arm rotates and extends over a white tablet-like plane, its end-effector holding a light source that moves and causes the arm’s own shadow to trace paths; whenever the shadow tip passes certain target markers, the plane records a colored trail following only the shadow’s path.",
+      "seed": "Robotic Arm Tracing Paths with Shadow-Based Marking: A jointed robotic arm rotates and extends over a white tablet-like plane, its end-effector holding a light source that moves and causes the arm’s own shadow to trace paths; whenever the shadow tip passes certain target markers, the plane records a colored trail following only the shadow’s path."
+    },
+    {
+      "number": "8",
+      "title": "Forest of Swaying Trees with Wind-Driven Shadow Waves",
+      "description": "A grid of slender tree-like cylinders with leafy canopies sways in a simulated wind, their shadows on the ground forming flowing wave patterns that speed up, slow down, and overlap as gusts push branches, with particles representing falling leaves casting tiny moving speck shadows.",
+      "seed": "Forest of Swaying Trees with Wind-Driven Shadow Waves: A grid of slender tree-like cylinders with leafy canopies sways in a simulated wind, their shadows on the ground forming flowing wave patterns that speed up, slow down, and overlap as gusts push branches, with particles representing falling leaves casting tiny moving speck shadows."
+    },
+    {
+      "number": "9",
+      "title": "Walking Humanoid Silhouette with Lagging Shadow Reflection",
+      "description": "A simplified humanoid figure walks, jumps, and spins across a lit plane while a separate “shadow avatar” on the ground lags slightly and stretches, rotates, and squashes more dramatically, as if under a different gravity, with both labeled and color-tinted for contrast.",
+      "seed": "Walking Humanoid Silhouette with Lagging Shadow Reflection: A simplified humanoid figure walks, jumps, and spins across a lit plane while a separate “shadow avatar” on the ground lags slightly and stretches, rotates, and squashes more dramatically, as if under a different gravity, with both labeled and color-tinted for contrast."
+    },
+    {
+      "number": "10",
+      "title": "Microscopic Particles Casting Shadows Through a Transparent Membrane",
+      "description": "Tiny colored spheres float, drift, and collide above a semi-transparent membrane sheet under a moving light source, casting fuzzy shadows that scan across the membrane and trigger local color changes or growing rings where the shadows linger.",
+      "seed": "Microscopic Particles Casting Shadows Through a Transparent Membrane: Tiny colored spheres float, drift, and collide above a semi-transparent membrane sheet under a moving light source, casting fuzzy shadows that scan across the membrane and trigger local color changes or growing rings where the shadows linger."
+    },
+    {
+      "number": "11",
+      "title": "Orbiting Light Around a Statue Creating Rotating Shadow Sculpture",
+      "description": "A detailed central statue object (composed of simple shapes) stands still while a small light-sphere orbits around it, causing an animated “shadow sculpture” on surrounding curved walls and floor that twist, elongate, and fold as the light completes each orbit.",
+      "seed": "Orbiting Light Around a Statue Creating Rotating Shadow Sculpture: A detailed central statue object (composed of simple shapes) stands still while a small light-sphere orbits around it, causing an animated “shadow sculpture” on surrounding curved walls and floor that twist, elongate, and fold as the light completes each orbit."
+    },
+    {
+      "number": "12",
+      "title": "Shadow Clock with Gnomon and Moving Sun Path",
+      "description": "A tall, thin rod stands at the center of a circular dial on a bright plane while a sun-sphere slowly moves along an inclined arc, causing the rod’s shadow to rotate around the dial and change length, with tick marks that light up when the shadow crosses them.",
+      "seed": "Shadow Clock with Gnomon and Moving Sun Path: A tall, thin rod stands at the center of a circular dial on a bright plane while a sun-sphere slowly moves along an inclined arc, causing the rod’s shadow to rotate around the dial and change length, with tick marks that light up when the shadow crosses them."
+    },
+    {
+      "number": "13",
+      "title": "Falling Blocks Tower and Progressive Shadow Collapse",
+      "description": "Colored blocks stack into a tower on a plane while a side light casts a sharp-edged shadow tower; when blocks are removed or the tower topples, the shadow collapses, splits, and scatters across the ground with dust-like particles that briefly darken the floor where they land.",
+      "seed": "Falling Blocks Tower and Progressive Shadow Collapse: Colored blocks stack into a tower on a plane while a side light casts a sharp-edged shadow tower; when blocks are removed or the tower topples, the shadow collapses, splits, and scatters across the ground with dust-like particles that briefly darken the floor where they land."
+    },
+    {
+      "number": "14",
+      "title": "Shadow-Based Stealth Maze with Moving Spotlights",
+      "description": "A small agent-sphere moves through a 3D maze while overhead spotlights sweep around, casting moving shadow safe-zones; the agent can only move inside dark regions, which continually split and merge as doors open, platforms raise, and lights rotate.",
+      "seed": "Shadow-Based Stealth Maze with Moving Spotlights: A small agent-sphere moves through a 3D maze while overhead spotlights sweep around, casting moving shadow safe-zones; the agent can only move inside dark regions, which continually split and merge as doors open, platforms raise, and lights rotate."
+    },
+    {
+      "number": "15",
+      "title": "Waves on Water Casting Caustic-Like Shadow Patterns Below",
+      "description": "A transparent, gently undulating water surface made of a deforming mesh floats above a white floor, with light from above casting dynamic, refracted shadow patterns below that condense and stretch as wave peaks and troughs travel and collide.",
+      "seed": "Waves on Water Casting Caustic-Like Shadow Patterns Below: A transparent, gently undulating water surface made of a deforming mesh floats above a white floor, with light from above casting dynamic, refracted shadow patterns below that condense and stretch as wave peaks and troughs travel and collide."
+    },
+    {
+      "number": "16",
+      "title": "Rotating Gear Assembly with Interlocking Shadow Teeth",
+      "description": "Several interlocking gears rotate at different speeds around fixed axes, while a low, angled light creates sharp-toothed shadow patterns on a nearby wall that mesh, detach, and re-mesh as direction and speed of the gears change.",
+      "seed": "Rotating Gear Assembly with Interlocking Shadow Teeth: Several interlocking gears rotate at different speeds around fixed axes, while a low, angled light creates sharp-toothed shadow patterns on a nearby wall that mesh, detach, and re-mesh as direction and speed of the gears change."
+    },
+    {
+      "number": "17",
+      "title": "Swarm of Flying Drones with Altitude-Dependent Shadows",
+      "description": "A flock of small drone-spheres or cubes flies in 3D above a plane, repelling and clustering, each projected as a labeled shadow disk whose size and blur depend on altitude, so that the floor shows a “shadow map” of swarm density that pulses as drones merge and split.",
+      "seed": "Swarm of Flying Drones with Altitude-Dependent Shadows: A flock of small drone-spheres or cubes flies in 3D above a plane, repelling and clustering, each projected as a labeled shadow disk whose size and blur depend on altitude, so that the floor shows a “shadow map” of swarm density that pulses as drones merge and split."
+    },
+    {
+      "number": "18",
+      "title": "Rising and Setting Sun over Rolling Hills with Shadow Flow",
+      "description": "Smooth, rolling terrain is lit by a sun-sphere that rises, crosses the sky, and sets, while a few simple structures and trees stand on the hills, their shadows flowing, lengthening, and wrapping over the contour lines of the terrain with gradual color shifts from warm to cool.",
+      "seed": "Rising and Setting Sun over Rolling Hills with Shadow Flow: Smooth, rolling terrain is lit by a sun-sphere that rises, crosses the sky, and sets, while a few simple structures and trees stand on the hills, their shadows flowing, lengthening, and wrapping over the contour lines of the terrain with gradual color shifts from warm to cool."
+    },
+    {
+      "number": "19",
+      "title": "Shadow Puppet Hands in Front of a Virtual Screen",
+      "description": "Two articulated “hand” models made of linked cylinders move and rotate between a bright light and a vertical screen plane, casting recognizable animal-like silhouettes that bend, merge, and split; the screen highlights and labels detected shadow shapes.",
+      "seed": "Shadow Puppet Hands in Front of a Virtual Screen: Two articulated “hand” models made of linked cylinders move and rotate between a bright light and a vertical screen plane, casting recognizable animal-like silhouettes that bend, merge, and split; the screen highlights and labels detected shadow shapes."
+    },
+    {
+      "number": "20",
+      "title": "Lattice Bridge with Vehicle Crossing and Shadow Vibration",
+      "description": "A truss-style bridge made of beams spans a gap above a plane, and a small vehicle cube drives across, causing slight oscillations; a low side light throws a complex lattice shadow that visibly vibrates and shifts as the bridge flexes under the moving load.",
+      "seed": "Lattice Bridge with Vehicle Crossing and Shadow Vibration: A truss-style bridge made of beams spans a gap above a plane, and a small vehicle cube drives across, causing slight oscillations; a low side light throws a complex lattice shadow that visibly vibrates and shifts as the bridge flexes under the moving load."
+    },
+    {
+      "number": "21",
+      "title": "Rotating Cube with Internal Shapes Casting Shadows Through Cutouts",
+      "description": "A hollow cube with patterned cutouts slowly rotates around multiple axes while small colored shapes move inside it, and a fixed external light projects intricate, changing shadow patterns of both the frame and interior shapes onto a surrounding ground ring.",
+      "seed": "Rotating Cube with Internal Shapes Casting Shadows Through Cutouts: A hollow cube with patterned cutouts slowly rotates around multiple axes while small colored shapes move inside it, and a fixed external light projects intricate, changing shadow patterns of both the frame and interior shapes onto a surrounding ground ring."
+    },
+    {
+      "number": "22",
+      "title": "Shadow Tunnel with Moving Rings and Color Filters",
+      "description": "A series of translucent colored rings lines a tunnel, with a light source and a small sphere moving through; as the sphere passes each ring, the ring’s colored transparency modifies the shadow tone and shape on the tunnel wall, creating a flowing, color-shifting shadow trail.",
+      "seed": "Shadow Tunnel with Moving Rings and Color Filters: A series of translucent colored rings lines a tunnel, with a light source and a small sphere moving through; as the sphere passes each ring, the ring’s colored transparency modifies the shadow tone and shape on the tunnel wall, creating a flowing, color-shifting shadow trail."
+    },
+    {
+      "number": "23",
+      "title": "Jumping Rope Animation with Shadow Rope Lag",
+      "description": "A character made of simple shapes swings a rope that rotates around them and sometimes hits the ground, while a slightly delayed rope-shadow on the floor stretches, twists, and snaps differently, showing exaggerated motion and contact points as glowing marks.",
+      "seed": "Jumping Rope Animation with Shadow Rope Lag: A character made of simple shapes swings a rope that rotates around them and sometimes hits the ground, while a slightly delayed rope-shadow on the floor stretches, twists, and snaps differently, showing exaggerated motion and contact points as glowing marks."
+    },
+    {
+      "number": "24",
+      "title": "Flocking Birds over Terrain with Moving Shadow Flock Projection",
+      "description": "A 3D flock of simple bird-shaped objects orbits and flocks above uneven terrain, while their projected shadows form a 2D “shadow flock” that races over hills, splits into subgroups, and recombines, with trails showing where dense shadow regions persist.",
+      "seed": "Flocking Birds over Terrain with Moving Shadow Flock Projection: A 3D flock of simple bird-shaped objects orbits and flocks above uneven terrain, while their projected shadows form a 2D “shadow flock” that races over hills, splits into subgroups, and recombines, with trails showing where dense shadow regions persist."
+    },
+    {
+      "number": "25",
+      "title": "Layered Cloud Plates Casting Dynamic Patchy Shadows on Ground",
+      "description": "Several semi-transparent cloud plates at different altitudes drift, grow, and dissolve overhead while a sun-sphere moves slowly, generating soft-edged, overlapping patches of shadow that slide across the landscape and merge into darker regions where clouds stack.",
+      "seed": "Layered Cloud Plates Casting Dynamic Patchy Shadows on Ground: Several semi-transparent cloud plates at different altitudes drift, grow, and dissolve overhead while a sun-sphere moves slowly, generating soft-edged, overlapping patches of shadow that slide across the landscape and merge into darker regions where clouds stack."
+    }
+  ],
+  "raw_output": "Here are strong **Shadow movement simulation inputs** you can plug into your prompt:\n\n1. **Rotating Sun and Moving Object Casting Dynamic Ground Shadows**\n   A bright sun-sphere slowly orbits above a flat white plane while colored cubes glide, bounce, and rotate across it, each cube casting soft, elongated shadows that stretch, shrink, and skew realistically with a faint gray transparency.\n\n2. **Pendulum Array with Interacting Overlapping Shadows**\n   A row of colored pendulums swings at different frequencies above a light floor, their dark translucent shadows overlapping, merging, and separating into layered patterns that pulse as the pendulums collide gently and transfer motion.\n\n3. **Solar Eclipse Shadow Sweep Over a Miniature City**\n   A glowing sun and a dark, slowly orbiting moon-sphere cast a moving eclipse shadow over a grid of simple buildings, where the sweeping dark circle dims colors, triggers building lights to glow on, and leaves a faint trailing contour of the shadow path.\n\n4. **Rotating Lattice of Transparent Rods Creating Moiré Shadow Patterns**\n   A 3D lattice of thin, semi-transparent rods slowly rotates above a plane, casting intricate crisscrossing shadows that create moving moiré patterns, with a slider object that changes rod spacing and thus how the shadow patterns condense and dissolve.\n\n5. **Planet with Orbiting Moons Casting Shadows on Each Other**\n   A central planet-sphere and several colored moon-spheres orbit in different planes while a distant sun lights the system, so that shadows of moons sweep across the planet’s surface and other moons, creating labeled shadow spots that glide and wrap around the curved surfaces.\n\n6. **Bouncing Balls in a Box with Multi-Light Shadow Overlaps**\n   Several colored spheres bounce elastically inside a transparent box illuminated by three differently colored point lights, producing multiple colored, partially overlapping shadows on the floor and walls that split, merge, and shift as the balls move.\n\n7. **Robotic Arm Tracing Paths with Shadow-Based Marking**\n   A jointed robotic arm rotates and extends over a white tablet-like plane, its end-effector holding a light source that moves and causes the arm’s own shadow to trace paths; whenever the shadow tip passes certain target markers, the plane records a colored trail following only the shadow’s path.\n\n8. **Forest of Swaying Trees with Wind-Driven Shadow Waves**\n   A grid of slender tree-like cylinders with leafy canopies sways in a simulated wind, their shadows on the ground forming flowing wave patterns that speed up, slow down, and overlap as gusts push branches, with particles representing falling leaves casting tiny moving speck shadows.\n\n9. **Walking Humanoid Silhouette with Lagging Shadow Reflection**\n   A simplified humanoid figure walks, jumps, and spins across a lit plane while a separate “shadow avatar” on the ground lags slightly and stretches, rotates, and squashes more dramatically, as if under a different gravity, with both labeled and color-tinted for contrast.\n\n10. **Microscopic Particles Casting Shadows Through a Transparent Membrane**\n    Tiny colored spheres float, drift, and collide above a semi-transparent membrane sheet under a moving light source, casting fuzzy shadows that scan across the membrane and trigger local color changes or growing rings where the shadows linger.\n\n11. **Orbiting Light Around a Statue Creating Rotating Shadow Sculpture**\n    A detailed central statue object (composed of simple shapes) stands still while a small light-sphere orbits around it, causing an animated “shadow sculpture” on surrounding curved walls and floor that twist, elongate, and fold as the light completes each orbit.\n\n12. **Shadow Clock with Gnomon and Moving Sun Path**\n    A tall, thin rod stands at the center of a circular dial on a bright plane while a sun-sphere slowly moves along an inclined arc, causing the rod’s shadow to rotate around the dial and change length, with tick marks that light up when the shadow crosses them.\n\n13. **Falling Blocks Tower and Progressive Shadow Collapse**\n    Colored blocks stack into a tower on a plane while a side light casts a sharp-edged shadow tower; when blocks are removed or the tower topples, the shadow collapses, splits, and scatters across the ground with dust-like particles that briefly darken the floor where they land.\n\n14. **Shadow-Based Stealth Maze with Moving Spotlights**\n    A small agent-sphere moves through a 3D maze while overhead spotlights sweep around, casting moving shadow safe-zones; the agent can only move inside dark regions, which continually split and merge as doors open, platforms raise, and lights rotate.\n\n15. **Waves on Water Casting Caustic-Like Shadow Patterns Below**\n    A transparent, gently undulating water surface made of a deforming mesh floats above a white floor, with light from above casting dynamic, refracted shadow patterns below that condense and stretch as wave peaks and troughs travel and collide.\n\n16. **Rotating Gear Assembly with Interlocking Shadow Teeth**\n    Several interlocking gears rotate at different speeds around fixed axes, while a low, angled light creates sharp-toothed shadow patterns on a nearby wall that mesh, detach, and re-mesh as direction and speed of the gears change.\n\n17. **Swarm of Flying Drones with Altitude-Dependent Shadows**\n    A flock of small drone-spheres or cubes flies in 3D above a plane, repelling and clustering, each projected as a labeled shadow disk whose size and blur depend on altitude, so that the floor shows a “shadow map” of swarm density that pulses as drones merge and split.\n\n18. **Rising and Setting Sun over Rolling Hills with Shadow Flow**\n    Smooth, rolling terrain is lit by a sun-sphere that rises, crosses the sky, and sets, while a few simple structures and trees stand on the hills, their shadows flowing, lengthening, and wrapping over the contour lines of the terrain with gradual color shifts from warm to cool.\n\n19. **Shadow Puppet Hands in Front of a Virtual Screen**\n    Two articulated “hand” models made of linked cylinders move and rotate between a bright light and a vertical screen plane, casting recognizable animal-like silhouettes that bend, merge, and split; the screen highlights and labels detected shadow shapes.\n\n20. **Lattice Bridge with Vehicle Crossing and Shadow Vibration**\n    A truss-style bridge made of beams spans a gap above a plane, and a small vehicle cube drives across, causing slight oscillations; a low side light throws a complex lattice shadow that visibly vibrates and shifts as the bridge flexes under the moving load.\n\n21. **Rotating Cube with Internal Shapes Casting Shadows Through Cutouts**\n    A hollow cube with patterned cutouts slowly rotates around multiple axes while small colored shapes move inside it, and a fixed external light projects intricate, changing shadow patterns of both the frame and interior shapes onto a surrounding ground ring.\n\n22. **Shadow Tunnel with Moving Rings and Color Filters**\n    A series of translucent colored rings lines a tunnel, with a light source and a small sphere moving through; as the sphere passes each ring, the ring’s colored transparency modifies the shadow tone and shape on the tunnel wall, creating a flowing, color-shifting shadow trail.\n\n23. **Jumping Rope Animation with Shadow Rope Lag**\n    A character made of simple shapes swings a rope that rotates around them and sometimes hits the ground, while a slightly delayed rope-shadow on the floor stretches, twists, and snaps differently, showing exaggerated motion and contact points as glowing marks.\n\n24. **Flocking Birds over Terrain with Moving Shadow Flock Projection**\n    A 3D flock of simple bird-shaped objects orbits and flocks above uneven terrain, while their projected shadows form a 2D “shadow flock” that races over hills, splits into subgroups, and recombines, with trails showing where dense shadow regions persist.\n\n25. **Layered Cloud Plates Casting Dynamic Patchy Shadows on Ground**\n    Several semi-transparent cloud plates at different altitudes drift, grow, and dissolve overhead while a sun-sphere moves slowly, generating soft-edged, overlapping patches of shadow that slide across the landscape and merge into darker regions where clouds stack."
+}

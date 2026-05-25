@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Birth and collapse",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:11:23",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Expanding Star Nursery and Supernova Collapse",
+      "description": "A glowing gas sphere spawns small orbiting proto-stars that grow, eject particle jets, then one reaches a mass threshold and rapidly collapses into a dense core with a bright supernova shell that expands, fades, and leaves labeled debris trails.",
+      "seed": "Expanding Star Nursery and Supernova Collapse: A glowing gas sphere spawns small orbiting proto-stars that grow, eject particle jets, then one reaches a mass threshold and rapidly collapses into a dense core with a bright supernova shell that expands, fades, and leaves labeled debris trails."
+    },
+    {
+      "number": "2",
+      "title": "Cell Division and Apoptosis Arena",
+      "description": "Semi-transparent cells slowly grow, replicate DNA as inner spinning strands, then split into two labeled daughter cells while others receive a signal to shrink, wrinkle, and collapse into fading particle clouds.",
+      "seed": "Cell Division and Apoptosis Arena: Semi-transparent cells slowly grow, replicate DNA as inner spinning strands, then split into two labeled daughter cells while others receive a signal to shrink, wrinkle, and collapse into fading particle clouds."
+    },
+    {
+      "number": "3",
+      "title": "Galaxy Formation and Black Hole Core",
+      "description": "A rotating cloud of colored particles condenses into spiral arms with bright star clusters, while the dense center collapses into a black sphere that pulls in nearby stars, curving their orbits and leaving spiraling trails that vanish past an event horizon.",
+      "seed": "Galaxy Formation and Black Hole Core: A rotating cloud of colored particles condenses into spiral arms with bright star clusters, while the dense center collapses into a black sphere that pulls in nearby stars, curving their orbits and leaving spiraling trails that vanish past an event horizon."
+    },
+    {
+      "number": "4",
+      "title": "Bridge Construction and Controlled Demolition",
+      "description": "Cranes (boxes with extending arms) assemble a truss bridge beam by beam across a gap, then timed explosive spheres trigger, joints detach, and the structure buckles, falls, and breaks into labeled fragments that bounce and slide.",
+      "seed": "Bridge Construction and Controlled Demolition: Cranes (boxes with extending arms) assemble a truss bridge beam by beam across a gap, then timed explosive spheres trigger, joints detach, and the structure buckles, falls, and breaks into labeled fragments that bounce and slide."
+    },
+    {
+      "number": "5",
+      "title": "Bubble Birth and Pop Field",
+      "description": "A flat liquid surface emits shimmering transparent bubbles that rise, grow, merge, and form short-lived clusters until reaching a size where they thin, wobble, then collapse into tiny splash particles that briefly mark the surface.",
+      "seed": "Bubble Birth and Pop Field: A flat liquid surface emits shimmering transparent bubbles that rise, grow, merge, and form short-lived clusters until reaching a size where they thin, wobble, then collapse into tiny splash particles that briefly mark the surface."
+    },
+    {
+      "number": "6",
+      "title": "Planetary Accretion and Impact Fragmentation",
+      "description": "Small rocky spheres orbit a star, collide, and stick to form a growing protoplanet with a changing radius meter, then a large incoming body hits, causing chunks to detach, scatter, and either re-accrete or escape with colored fragment trails.",
+      "seed": "Planetary Accretion and Impact Fragmentation: Small rocky spheres orbit a star, collide, and stick to form a growing protoplanet with a changing radius meter, then a large incoming body hits, causing chunks to detach, scatter, and either re-accrete or escape with colored fragment trails."
+    },
+    {
+      "number": "7",
+      "title": "Urban Growth and Building Implosions",
+      "description": "A gridded plane gradually fills with extruded box-buildings that grow floor by floor, gain labels and colors for age, then selected old towers are rigged and implode inward, collapsing neatly into compact rubble piles.",
+      "seed": "Urban Growth and Building Implosions: A gridded plane gradually fills with extruded box-buildings that grow floor by floor, gain labels and colors for age, then selected old towers are rigged and implode inward, collapsing neatly into compact rubble piles."
+    },
+    {
+      "number": "8",
+      "title": "Crystal Growth and Thermal Meltdown",
+      "description": "A seed cube in the center sprouts transparent crystalline branches along axes, forming a symmetrical lattice, then a simulated heat wave (expanding orange shell) causes edges to vibrate, detach, and dissolve into a shimmering particle fog.",
+      "seed": "Crystal Growth and Thermal Meltdown: A seed cube in the center sprouts transparent crystalline branches along axes, forming a symmetrical lattice, then a simulated heat wave (expanding orange shell) causes edges to vibrate, detach, and dissolve into a shimmering particle fog."
+    },
+    {
+      "number": "9",
+      "title": "Volcanic Island Emergence and Erosion Collapse",
+      "description": "Lava particles rise from a seafloor vent, cool into growing rock layers that build an island, then waves and gravity erode cliffs, causing labeled rock blocks to crack, slide, and collapse into the sea with splashing particle plumes.",
+      "seed": "Volcanic Island Emergence and Erosion Collapse: Lava particles rise from a seafloor vent, cool into growing rock layers that build an island, then waves and gravity erode cliffs, causing labeled rock blocks to crack, slide, and collapse into the sea with splashing particle plumes."
+    },
+    {
+      "number": "10",
+      "title": "Neural Network Formation and Pruning",
+      "description": "Neuron-like spheres randomly appear and send out branching glowing connections that attach to nearby neurons, forming a dense web, then a pruning phase retracts weaker links and causes isolated neurons to fade and collapse into small sparks.",
+      "seed": "Neural Network Formation and Pruning: Neuron-like spheres randomly appear and send out branching glowing connections that attach to nearby neurons, forming a dense web, then a pruning phase retracts weaker links and causes isolated neurons to fade and collapse into small sparks."
+    },
+    {
+      "number": "11",
+      "title": "Star Lifecycle from Protostar to White Dwarf",
+      "description": "A gas cloud condenses into a pulsing protostar that stabilizes, expands into a red giant phase with a swollen, semi-transparent outer layer, then sheds that layer as an expanding colored shell, leaving a small hot white dwarf core.",
+      "seed": "Star Lifecycle from Protostar to White Dwarf: A gas cloud condenses into a pulsing protostar that stabilizes, expands into a red giant phase with a swollen, semi-transparent outer layer, then sheds that layer as an expanding colored shell, leaving a small hot white dwarf core."
+    },
+    {
+      "number": "12",
+      "title": "Traffic Network Growth and Gridlock Breakdown",
+      "description": "New roads (thin extruded paths) spawn from a central hub, cars appear and flow along them, and traffic lights coordinate movement until too many cars cause jams that spread; overloaded segments visually “collapse” by dimming and shrinking as cars reroute.",
+      "seed": "Traffic Network Growth and Gridlock Breakdown: New roads (thin extruded paths) spawn from a central hub, cars appear and flow along them, and traffic lights coordinate movement until too many cars cause jams that spread; overloaded segments visually “collapse” by dimming and shrinking as cars reroute."
+    },
+    {
+      "number": "13",
+      "title": "Tree Growth and Wind-Induced Fall",
+      "description": "A trunk cylinder slowly grows upward, branches and leaves sprout and spread with subtle motion, then a strong wind vector gradually bends the tree until roots detach and the tree tips, breaks at stress points, and collapses onto the ground.",
+      "seed": "Tree Growth and Wind-Induced Fall: A trunk cylinder slowly grows upward, branches and leaves sprout and spread with subtle motion, then a strong wind vector gradually bends the tree until roots detach and the tree tips, breaks at stress points, and collapses onto the ground."
+    },
+    {
+      "number": "14",
+      "title": "Sandcastle Construction and Wave Collapse",
+      "description": "Droplets of sand fall from a moving nozzle to build towers, walls, and arches on a beach plane, then a rising transparent water wall advances, hits the castle, and causes blocks to crumble, slide, and wash away as suspended sand particles.",
+      "seed": "Sandcastle Construction and Wave Collapse: Droplets of sand fall from a moving nozzle to build towers, walls, and arches on a beach plane, then a rising transparent water wall advances, hits the castle, and causes blocks to crumble, slide, and wash away as suspended sand particles."
+    },
+    {
+      "number": "15",
+      "title": "Orbital Station Assembly and Structural Failure",
+      "description": "Modular station segments float in orbit around a planet and dock together to form a ring, with visible magnetic connectors; a struck module fails, connections detach sequentially, and parts drift, collide, and tumble away, leaving labeled debris clouds.",
+      "seed": "Orbital Station Assembly and Structural Failure: Modular station segments float in orbit around a planet and dock together to form a ring, with visible magnetic connectors; a struck module fails, connections detach sequentially, and parts drift, collide, and tumble away, leaving labeled debris clouds."
+    },
+    {
+      "number": "16",
+      "title": "Binary Star Birth and Collapse into Merger",
+      "description": "Two gas clumps condense into twin stars that orbit each other with colored trails, slowly spiral inward due to a drag field, then merge in a bright, pulsing flash that ejects asymmetric particle jets and forms a single larger, hotter star.",
+      "seed": "Binary Star Birth and Collapse into Merger: Two gas clumps condense into twin stars that orbit each other with colored trails, slowly spiral inward due to a drag field, then merge in a bright, pulsing flash that ejects asymmetric particle jets and forms a single larger, hotter star."
+    },
+    {
+      "number": "17",
+      "title": "Microbe Colony Expansion and Collapse by Toxin",
+      "description": "Tiny motile microbes replicate on a petri-dish plane, forming expanding colored colonies; a spreading toxin region appears, and microbes inside it slow, shrink, and collapse into static specks while others flee the advancing boundary.",
+      "seed": "Microbe Colony Expansion and Collapse by Toxin: Tiny motile microbes replicate on a petri-dish plane, forming expanding colored colonies; a spreading toxin region appears, and microbes inside it slow, shrink, and collapse into static specks while others flee the advancing boundary."
+    },
+    {
+      "number": "18",
+      "title": "Skyscraper Construction Crane and Toppling Failure",
+      "description": "Floors and beams are lifted by a rotating crane and snapped into place to build a tall tower, then a key support is removed, showing the upper structure lean, joints fail one by one, and the building collapses in a cascading, dust-like particle cloud.",
+      "seed": "Skyscraper Construction Crane and Toppling Failure: Floors and beams are lifted by a rotating crane and snapped into place to build a tall tower, then a key support is removed, showing the upper structure lean, joints fail one by one, and the building collapses in a cascading, dust-like particle cloud."
+    },
+    {
+      "number": "19",
+      "title": "Orbital Debris Generation and Re-Entry Burnup",
+      "description": "Satellites orbit a planet with colored paths; a collision shatters one into many tracked fragments that spread, some re-enter the atmosphere, leaving glowing trails that intensify and then wink out as objects burn and collapse into small sparks.",
+      "seed": "Orbital Debris Generation and Re-Entry Burnup: Satellites orbit a planet with colored paths; a collision shatters one into many tracked fragments that spread, some re-enter the atmosphere, leaving glowing trails that intensify and then wink out as objects burn and collapse into small sparks."
+    },
+    {
+      "number": "20",
+      "title": "Bubble Universe Birth and Vacuum Collapse",
+      "description": "A transparent spherical “universe bubble” inflates in a larger void, spawning orbiting particles and mini sub-bubbles inside; a parameter change causes its wall to thin, fracture, and rapidly collapse inward, sucking in inner objects that streak toward the implosion point.",
+      "seed": "Bubble Universe Birth and Vacuum Collapse: A transparent spherical “universe bubble” inflates in a larger void, spawning orbiting particles and mini sub-bubbles inside; a parameter change causes its wall to thin, fracture, and rapidly collapse inward, sucking in inner objects that streak toward the implosion point."
+    },
+    {
+      "number": "21",
+      "title": "River Delta Formation and Channel Collapse",
+      "description": "A flowing water stream carries sediment particles that settle, building branching delta channels on a flat plane; as some channels overfill, levees collapse, redirecting flow and causing old channels to dry and shrink while new ones are carved.",
+      "seed": "River Delta Formation and Channel Collapse: A flowing water stream carries sediment particles that settle, building branching delta channels on a flat plane; as some channels overfill, levees collapse, redirecting flow and causing old channels to dry and shrink while new ones are carved."
+    },
+    {
+      "number": "22",
+      "title": "Mechanical Clock Assembly and Spring Failure",
+      "description": "Gears, rods, and a coiled spring are added one by one into a clock frame, interlocking and beginning coordinated rotation, until the main spring over-tightens, snaps, and releases energy that dislodges gears and causes the mechanism to collapse into disordered motion.",
+      "seed": "Mechanical Clock Assembly and Spring Failure: Gears, rods, and a coiled spring are added one by one into a clock frame, interlocking and beginning coordinated rotation, until the main spring over-tightens, snaps, and releases energy that dislodges gears and causes the mechanism to collapse into disordered motion."
+    },
+    {
+      "number": "23",
+      "title": "Social Cluster Growth and Group Fragmentation",
+      "description": "Spheres representing agents drift and attach into communities colored by type, with link lines forming between close neighbors; tension builds between mismatched members until clusters split, ejecting subgroups that detach, fly apart, and re-form smaller clusters.",
+      "seed": "Social Cluster Growth and Group Fragmentation: Spheres representing agents drift and attach into communities colored by type, with link lines forming between close neighbors; tension builds between mismatched members until clusters split, ejecting subgroups that detach, fly apart, and re-form smaller clusters."
+    },
+    {
+      "number": "24",
+      "title": "Planetary Ring Birth and Moonlet Collapse",
+      "description": "A small moon passes within a planet’s Roche limit and is tidally stretched until it fragments into a ring of countless small icy blocks that orbit with bright trails, then localized clumps form and collapse back into temporary moonlets that shear apart again.",
+      "seed": "Planetary Ring Birth and Moonlet Collapse: A small moon passes within a planet’s Roche limit and is tidally stretched until it fragments into a ring of countless small icy blocks that orbit with bright trails, then localized clumps form and collapse back into temporary moonlets that shear apart again."
+    },
+    {
+      "number": "25",
+      "title": "Lava Lamp Blob Birth and Collapse Cycles",
+      "description": "Colored semi-transparent blobs rise from the bottom of a heated cylinder, stretch and split as they ascend, then at the top cool, round off, and collapse back down as heavier droplets, merging and repeating the cycle with smooth, flowing motion.",
+      "seed": "Lava Lamp Blob Birth and Collapse Cycles: Colored semi-transparent blobs rise from the bottom of a heated cylinder, stretch and split as they ascend, then at the top cool, round off, and collapse back down as heavier droplets, merging and repeating the cycle with smooth, flowing motion."
+    }
+  ],
+  "raw_output": "Here are strong **Birth and collapse simulation inputs** you can plug into your prompt:\n\n1. **Expanding Star Nursery and Supernova Collapse**\n   A glowing gas sphere spawns small orbiting proto-stars that grow, eject particle jets, then one reaches a mass threshold and rapidly collapses into a dense core with a bright supernova shell that expands, fades, and leaves labeled debris trails.\n\n2. **Cell Division and Apoptosis Arena**\n   Semi-transparent cells slowly grow, replicate DNA as inner spinning strands, then split into two labeled daughter cells while others receive a signal to shrink, wrinkle, and collapse into fading particle clouds.\n\n3. **Galaxy Formation and Black Hole Core**\n   A rotating cloud of colored particles condenses into spiral arms with bright star clusters, while the dense center collapses into a black sphere that pulls in nearby stars, curving their orbits and leaving spiraling trails that vanish past an event horizon.\n\n4. **Bridge Construction and Controlled Demolition**\n   Cranes (boxes with extending arms) assemble a truss bridge beam by beam across a gap, then timed explosive spheres trigger, joints detach, and the structure buckles, falls, and breaks into labeled fragments that bounce and slide.\n\n5. **Bubble Birth and Pop Field**\n   A flat liquid surface emits shimmering transparent bubbles that rise, grow, merge, and form short-lived clusters until reaching a size where they thin, wobble, then collapse into tiny splash particles that briefly mark the surface.\n\n6. **Planetary Accretion and Impact Fragmentation**\n   Small rocky spheres orbit a star, collide, and stick to form a growing protoplanet with a changing radius meter, then a large incoming body hits, causing chunks to detach, scatter, and either re-accrete or escape with colored fragment trails.\n\n7. **Urban Growth and Building Implosions**\n   A gridded plane gradually fills with extruded box-buildings that grow floor by floor, gain labels and colors for age, then selected old towers are rigged and implode inward, collapsing neatly into compact rubble piles.\n\n8. **Crystal Growth and Thermal Meltdown**\n   A seed cube in the center sprouts transparent crystalline branches along axes, forming a symmetrical lattice, then a simulated heat wave (expanding orange shell) causes edges to vibrate, detach, and dissolve into a shimmering particle fog.\n\n9. **Volcanic Island Emergence and Erosion Collapse**\n   Lava particles rise from a seafloor vent, cool into growing rock layers that build an island, then waves and gravity erode cliffs, causing labeled rock blocks to crack, slide, and collapse into the sea with splashing particle plumes.\n\n10. **Neural Network Formation and Pruning**\n    Neuron-like spheres randomly appear and send out branching glowing connections that attach to nearby neurons, forming a dense web, then a pruning phase retracts weaker links and causes isolated neurons to fade and collapse into small sparks.\n\n11. **Star Lifecycle from Protostar to White Dwarf**\n    A gas cloud condenses into a pulsing protostar that stabilizes, expands into a red giant phase with a swollen, semi-transparent outer layer, then sheds that layer as an expanding colored shell, leaving a small hot white dwarf core.\n\n12. **Traffic Network Growth and Gridlock Breakdown**\n    New roads (thin extruded paths) spawn from a central hub, cars appear and flow along them, and traffic lights coordinate movement until too many cars cause jams that spread; overloaded segments visually “collapse” by dimming and shrinking as cars reroute.\n\n13. **Tree Growth and Wind-Induced Fall**\n    A trunk cylinder slowly grows upward, branches and leaves sprout and spread with subtle motion, then a strong wind vector gradually bends the tree until roots detach and the tree tips, breaks at stress points, and collapses onto the ground.\n\n14. **Sandcastle Construction and Wave Collapse**\n    Droplets of sand fall from a moving nozzle to build towers, walls, and arches on a beach plane, then a rising transparent water wall advances, hits the castle, and causes blocks to crumble, slide, and wash away as suspended sand particles.\n\n15. **Orbital Station Assembly and Structural Failure**\n    Modular station segments float in orbit around a planet and dock together to form a ring, with visible magnetic connectors; a struck module fails, connections detach sequentially, and parts drift, collide, and tumble away, leaving labeled debris clouds.\n\n16. **Binary Star Birth and Collapse into Merger**\n    Two gas clumps condense into twin stars that orbit each other with colored trails, slowly spiral inward due to a drag field, then merge in a bright, pulsing flash that ejects asymmetric particle jets and forms a single larger, hotter star.\n\n17. **Microbe Colony Expansion and Collapse by Toxin**\n    Tiny motile microbes replicate on a petri-dish plane, forming expanding colored colonies; a spreading toxin region appears, and microbes inside it slow, shrink, and collapse into static specks while others flee the advancing boundary.\n\n18. **Skyscraper Construction Crane and Toppling Failure**\n    Floors and beams are lifted by a rotating crane and snapped into place to build a tall tower, then a key support is removed, showing the upper structure lean, joints fail one by one, and the building collapses in a cascading, dust-like particle cloud.\n\n19. **Orbital Debris Generation and Re-Entry Burnup**\n    Satellites orbit a planet with colored paths; a collision shatters one into many tracked fragments that spread, some re-enter the atmosphere, leaving glowing trails that intensify and then wink out as objects burn and collapse into small sparks.\n\n20. **Bubble Universe Birth and Vacuum Collapse**\n    A transparent spherical “universe bubble” inflates in a larger void, spawning orbiting particles and mini sub-bubbles inside; a parameter change causes its wall to thin, fracture, and rapidly collapse inward, sucking in inner objects that streak toward the implosion point.\n\n21. **River Delta Formation and Channel Collapse**\n    A flowing water stream carries sediment particles that settle, building branching delta channels on a flat plane; as some channels overfill, levees collapse, redirecting flow and causing old channels to dry and shrink while new ones are carved.\n\n22. **Mechanical Clock Assembly and Spring Failure**\n    Gears, rods, and a coiled spring are added one by one into a clock frame, interlocking and beginning coordinated rotation, until the main spring over-tightens, snaps, and releases energy that dislodges gears and causes the mechanism to collapse into disordered motion.\n\n23. **Social Cluster Growth and Group Fragmentation**\n    Spheres representing agents drift and attach into communities colored by type, with link lines forming between close neighbors; tension builds between mismatched members until clusters split, ejecting subgroups that detach, fly apart, and re-form smaller clusters.\n\n24. **Planetary Ring Birth and Moonlet Collapse**\n    A small moon passes within a planet’s Roche limit and is tidally stretched until it fragments into a ring of countless small icy blocks that orbit with bright trails, then localized clumps form and collapse back into temporary moonlets that shear apart again.\n\n25. **Lava Lamp Blob Birth and Collapse Cycles**\n    Colored semi-transparent blobs rise from the bottom of a heated cylinder, stretch and split as they ascend, then at the top cool, round off, and collapse back down as heavier droplets, merging and repeating the cycle with smooth, flowing motion."
+}

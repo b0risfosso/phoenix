@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Balance and imbalance",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:11:09",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Tipping Beam Scale with Sliding Weights",
+      "description": "A long beam pivoted on a central fulcrum with colored masses that can slide and attach to either side, causing the beam to tilt, bounce, and occasionally slam into soft stoppers while labels show torque values and a vertical “balance meter” bar updates in real time.",
+      "seed": "Tipping Beam Scale with Sliding Weights: A long beam pivoted on a central fulcrum with colored masses that can slide and attach to either side, causing the beam to tilt, bounce, and occasionally slam into soft stoppers while labels show torque values and a vertical “balance meter” bar updates in real time."
+    },
+    {
+      "number": "2",
+      "title": "Stacking Blocks Tower of Stability",
+      "description": "A tall tower of semi-transparent boxes on a flat plane where new blocks drop from above and can stick or slip, causing the tower to lean, wobble, and sometimes collapse, with collision sparks, trails of falling debris, and a side graph showing center-of-mass drift.",
+      "seed": "Stacking Blocks Tower of Stability: A tall tower of semi-transparent boxes on a flat plane where new blocks drop from above and can stick or slip, causing the tower to lean, wobble, and sometimes collapse, with collision sparks, trails of falling debris, and a side graph showing center-of-mass drift."
+    },
+    {
+      "number": "3",
+      "title": "Balancing Tightrope Walker",
+      "description": "A humanoid stick-figure made of connected cylinders walking across a thin rope between two posts, using a long pole that rotates and oscillates to keep balance, with the rope sagging, feet slipping, and a colored tilt indicator above the walker that flashes when near falling.",
+      "seed": "Balancing Tightrope Walker: A humanoid stick-figure made of connected cylinders walking across a thin rope between two posts, using a long pole that rotates and oscillates to keep balance, with the rope sagging, feet slipping, and a colored tilt indicator above the walker that flashes when near falling."
+    },
+    {
+      "number": "4",
+      "title": "Planet-Moon Orbital Imbalance",
+      "description": "A central star with several planets whose masses and positions are slightly perturbed so orbits slowly distort, collide, or eject, with orbit trails, color-coded gravitational force vectors, and a “system stability” bar that changes color as orbits become chaotic.",
+      "seed": "Planet-Moon Orbital Imbalance: A central star with several planets whose masses and positions are slightly perturbed so orbits slowly distort, collide, or eject, with orbit trails, color-coded gravitational force vectors, and a “system stability” bar that changes color as orbits become chaotic."
+    },
+    {
+      "number": "5",
+      "title": "Seesaw with Moving Sand Load",
+      "description": "A wide seesaw plank with buckets at each end being filled and emptied by falling sand particles from hoppers, with sand piling, spilling, and sliding along the plank, causing continuous tipping motion and a live readout of mass distribution on each side.",
+      "seed": "Seesaw with Moving Sand Load: A wide seesaw plank with buckets at each end being filled and emptied by falling sand particles from hoppers, with sand piling, spilling, and sliding along the plank, causing continuous tipping motion and a live readout of mass distribution on each side."
+    },
+    {
+      "number": "6",
+      "title": "Gyroscope on a Tilting Platform",
+      "description": "A spinning disc mounted on a gimbal placed on a square platform that slowly tilts and rotates, with the gyroscope precessing, wobbling, and sometimes flipping, leaving a trail of its axis direction and a transparent cone indicating its angular momentum vector.",
+      "seed": "Gyroscope on a Tilting Platform: A spinning disc mounted on a gimbal placed on a square platform that slowly tilts and rotates, with the gyroscope precessing, wobbling, and sometimes flipping, leaving a trail of its axis direction and a transparent cone indicating its angular momentum vector."
+    },
+    {
+      "number": "7",
+      "title": "Crowded Boat on a Wavy Sea",
+      "description": "A rectangular raft floating on a gently rolling water surface with multiple colored spheres (passengers) that can walk, collide, and slide, making the raft tilt and occasionally dunk edges below the water plane while buoyancy arrows and a center-of-buoyancy marker update dynamically.",
+      "seed": "Crowded Boat on a Wavy Sea: A rectangular raft floating on a gently rolling water surface with multiple colored spheres (passengers) that can walk, collide, and slide, making the raft tilt and occasionally dunk edges below the water plane while buoyancy arrows and a center-of-buoyancy marker update dynamically."
+    },
+    {
+      "number": "8",
+      "title": "Double Pendulum Chaos Balance",
+      "description": "A double pendulum with adjustable lengths and masses swinging from a fixed ceiling bar, leaving colored trails that show how small changes in starting angle lead to wildly different paths, with a faint grid and a “symmetry vs. chaos” indicator that pulses as motion becomes irregular.",
+      "seed": "Double Pendulum Chaos Balance: A double pendulum with adjustable lengths and masses swinging from a fixed ceiling bar, leaving colored trails that show how small changes in starting angle lead to wildly different paths, with a faint grid and a “symmetry vs. chaos” indicator that pulses as motion becomes irregular."
+    },
+    {
+      "number": "9",
+      "title": "Balancing Tower Crane with Moving Load",
+      "description": "A tall crane mast with a rotating boom, counterweights on one side, and a hanging cargo block on the other that moves along the boom, making the crane sway, twist, and sometimes over-tilt, with stress lines appearing in red where forces are highest and labels on moment arms.",
+      "seed": "Balancing Tower Crane with Moving Load: A tall crane mast with a rotating boom, counterweights on one side, and a hanging cargo block on the other that moves along the boom, making the crane sway, twist, and sometimes over-tilt, with stress lines appearing in red where forces are highest and labels on moment arms."
+    },
+    {
+      "number": "10",
+      "title": "Chemical Concentration Gradient in a Cell",
+      "description": "A semi-transparent spherical “cell” where colored particles diffuse between two compartments separated by a permeable membrane, with channels that open and close to let particles flow, gradually balancing concentrations while a bar graph outside the cell tracks the imbalance.",
+      "seed": "Chemical Concentration Gradient in a Cell: A semi-transparent spherical “cell” where colored particles diffuse between two compartments separated by a permeable membrane, with channels that open and close to let particles flow, gradually balancing concentrations while a bar graph outside the cell tracks the imbalance."
+    },
+    {
+      "number": "11",
+      "title": "Ecosystem Predator-Prey Imbalance",
+      "description": "A flat grassy plane with two species represented by small animals (spheres and cones) that move, replicate, and “consume” each other, causing populations to boom or crash while counters and time-series lines float above showing how the system moves toward or away from balance.",
+      "seed": "Ecosystem Predator-Prey Imbalance: A flat grassy plane with two species represented by small animals (spheres and cones) that move, replicate, and “consume” each other, causing populations to boom or crash while counters and time-series lines float above showing how the system moves toward or away from balance."
+    },
+    {
+      "number": "12",
+      "title": "Tilted Hourglass of Uneven Sand Flow",
+      "description": "A glass hourglass rotated off vertical so sand grains fall, stick to glass walls, and intermittently avalanche through the neck, creating lopsided piles that shift the hourglass’s center-of-mass, with the glass slightly rocking on its base and a glowing dot indicating the mass center.",
+      "seed": "Tilted Hourglass of Uneven Sand Flow: A glass hourglass rotated off vertical so sand grains fall, stick to glass walls, and intermittently avalanche through the neck, creating lopsided piles that shift the hourglass’s center-of-mass, with the glass slightly rocking on its base and a glowing dot indicating the mass center."
+    },
+    {
+      "number": "13",
+      "title": "Traffic Roundabout Load Balancing",
+      "description": "A circular intersection with multiple entry lanes where small cars (boxes) arrive with uneven rates, merge into the roundabout, and exit, with occasional jams and clearings, lane density heatmaps on the road surface, and arrows indicating flow balance between entrances and exits.",
+      "seed": "Traffic Roundabout Load Balancing: A circular intersection with multiple entry lanes where small cars (boxes) arrive with uneven rates, merge into the roundabout, and exit, with occasional jams and clearings, lane density heatmaps on the road surface, and arrows indicating flow balance between entrances and exits."
+    },
+    {
+      "number": "14",
+      "title": "Magnetic Levitation Balancing Act",
+      "description": "A small metallic sphere levitating above a base using three adjustable electromagnets at the corners, where field strengths vary, making the sphere drift, oscillate, or crash into the base, with colored magnetic field vectors and a dynamic 3D marker of the stable equilibrium zone.",
+      "seed": "Magnetic Levitation Balancing Act: A small metallic sphere levitating above a base using three adjustable electromagnets at the corners, where field strengths vary, making the sphere drift, oscillate, or crash into the base, with colored magnetic field vectors and a dynamic 3D marker of the stable equilibrium zone."
+    },
+    {
+      "number": "15",
+      "title": "Spinning Plates on Flexible Rods",
+      "description": "Several thin rods fixed to a base plate with discs spinning at their tips; rotation speed can be increased or allowed to decay so some plates wobble, precess, and fall, bouncing off the ground, while each rod has a color-coded “stability ring” that shrinks as speed drops.",
+      "seed": "Spinning Plates on Flexible Rods: Several thin rods fixed to a base plate with discs spinning at their tips; rotation speed can be increased or allowed to decay so some plates wobble, precess, and fall, bouncing off the ground, while each rod has a color-coded “stability ring” that shrinks as speed drops."
+    },
+    {
+      "number": "16",
+      "title": "Balancing Bridge with Moving Vehicles",
+      "description": "A suspension bridge deck that flexes and bends under moving box-shaped vehicles of different masses, with cables stretching and vibrating, the deck sagging or re-leveling as loads move, and stress regions shown in gradients from blue (safe) to red (overloaded).",
+      "seed": "Balancing Bridge with Moving Vehicles: A suspension bridge deck that flexes and bends under moving box-shaped vehicles of different masses, with cables stretching and vibrating, the deck sagging or re-leveling as loads move, and stress regions shown in gradients from blue (safe) to red (overloaded)."
+    },
+    {
+      "number": "17",
+      "title": "Urban Power Grid Load Shifting",
+      "description": "A 3D city grid of buildings connected by glowing power lines where some buildings suddenly increase or decrease demand, causing power lines to brighten or dim, generators to spin faster or slower, and overloads to trip, rerouting energy as a “grid stability” meter oscillates.",
+      "seed": "Urban Power Grid Load Shifting: A 3D city grid of buildings connected by glowing power lines where some buildings suddenly increase or decrease demand, causing power lines to brighten or dim, generators to spin faster or slower, and overloads to trip, rerouting energy as a “grid stability” meter oscillates."
+    },
+    {
+      "number": "18",
+      "title": "Three-Body Balancing Dance",
+      "description": "Three massive spheres starting in a near-stable orbital pattern but with slight imbalances in mass and velocity, leading to intricate orbits, near-collisions, slingshots, and possible ejection, with curved trails and force vectors that constantly adjust as the system loses balance.",
+      "seed": "Three-Body Balancing Dance: Three massive spheres starting in a near-stable orbital pattern but with slight imbalances in mass and velocity, leading to intricate orbits, near-collisions, slingshots, and possible ejection, with curved trails and force vectors that constantly adjust as the system loses balance."
+    },
+    {
+      "number": "19",
+      "title": "Tumbling Cargo Hold with Shifting Crates",
+      "description": "A rectangular cargo container in microgravity filled with boxes connected by elastic straps and magnets that weakly attach; when the container slowly rotates, crates drift, collide, stick, and break free, forming clumps that shift the container’s rotation axis and cause irregular tumbling.",
+      "seed": "Tumbling Cargo Hold with Shifting Crates: A rectangular cargo container in microgravity filled with boxes connected by elastic straps and magnets that weakly attach; when the container slowly rotates, crates drift, collide, stick, and break free, forming clumps that shift the container’s rotation axis and cause irregular tumbling."
+    },
+    {
+      "number": "20",
+      "title": "Balance Beam with Rolling Marbles",
+      "description": "A narrow beam resting on a pivot in the center with multiple marbles rolling along its length; as marbles move and collide, the beam tilts, causing marbles to accelerate to one side, then roll back, with friction, bouncing, and a live plot of tilt angle vs. time.",
+      "seed": "Balance Beam with Rolling Marbles: A narrow beam resting on a pivot in the center with multiple marbles rolling along its length; as marbles move and collide, the beam tilts, causing marbles to accelerate to one side, then roll back, with friction, bouncing, and a live plot of tilt angle vs. time."
+    },
+    {
+      "number": "21",
+      "title": "Liquid in a Tilting Glass",
+      "description": "A transparent glass partially filled with colored liquid whose surface stays level while the glass slowly tilts and rotates; liquid sloshes, climbs up walls, and may spill over the rim onto a table plane, forming spreading puddles that shift the glass’s balance.",
+      "seed": "Liquid in a Tilting Glass: A transparent glass partially filled with colored liquid whose surface stays level while the glass slowly tilts and rotates; liquid sloshes, climbs up walls, and may spill over the rim onto a table plane, forming spreading puddles that shift the glass’s balance."
+    },
+    {
+      "number": "22",
+      "title": "Social Opinion Balance on a See-Through Sphere",
+      "description": "A transparent globe dotted with agents (small colored points) that can move, connect with lines, and influence neighbors to change color (opinion), with regions becoming unbalanced clusters until connections rearrange and a global “agreement meter” around the sphere reacts.",
+      "seed": "Social Opinion Balance on a See-Through Sphere: A transparent globe dotted with agents (small colored points) that can move, connect with lines, and influence neighbors to change color (opinion), with regions becoming unbalanced clusters until connections rearrange and a global “agreement meter” around the sphere reacts."
+    },
+    {
+      "number": "23",
+      "title": "Rotating Platform with Off-Center Masses",
+      "description": "A circular platform spinning around a central axis where users can attach or detach colored blocks at different radii, changing the platform’s wobble and tilt, with the rotation axis shifting visually and a transparent disc highlighting the instantaneous center-of-mass.",
+      "seed": "Rotating Platform with Off-Center Masses: A circular platform spinning around a central axis where users can attach or detach colored blocks at different radii, changing the platform’s wobble and tilt, with the rotation axis shifting visually and a transparent disc highlighting the instantaneous center-of-mass."
+    },
+    {
+      "number": "24",
+      "title": "Balancing Flame on a Tilting Candle",
+      "description": "A candle standing on a slightly moving plate with a flickering flame (particle system) that leans with airflow and motion; as wax melts and drips down the candle, the shape and mass distribution change, making the candle slowly lean, wobble, and possibly topple.",
+      "seed": "Balancing Flame on a Tilting Candle: A candle standing on a slightly moving plate with a flickering flame (particle system) that leans with airflow and motion; as wax melts and drips down the candle, the shape and mass distribution change, making the candle slowly lean, wobble, and possibly topple."
+    },
+    {
+      "number": "25",
+      "title": "Juggling Balls and Dropped Imbalance",
+      "description": "A simplified juggler represented by a central body and two arm segments tossing multiple glowing spheres in patterns; missed catches cause balls to bounce on the floor and roll away, disrupting rhythm, while trails show smooth arcs when in balance and broken lines when the pattern collapses.",
+      "seed": "Juggling Balls and Dropped Imbalance: A simplified juggler represented by a central body and two arm segments tossing multiple glowing spheres in patterns; missed catches cause balls to bounce on the floor and roll away, disrupting rhythm, while trails show smooth arcs when in balance and broken lines when the pattern collapses."
+    }
+  ],
+  "raw_output": "Here are strong **Balance and imbalance simulation inputs** you can plug into your prompt:\n\n1. **Tipping Beam Scale with Sliding Weights**\n   A long beam pivoted on a central fulcrum with colored masses that can slide and attach to either side, causing the beam to tilt, bounce, and occasionally slam into soft stoppers while labels show torque values and a vertical “balance meter” bar updates in real time.\n\n2. **Stacking Blocks Tower of Stability**\n   A tall tower of semi-transparent boxes on a flat plane where new blocks drop from above and can stick or slip, causing the tower to lean, wobble, and sometimes collapse, with collision sparks, trails of falling debris, and a side graph showing center-of-mass drift.\n\n3. **Balancing Tightrope Walker**\n   A humanoid stick-figure made of connected cylinders walking across a thin rope between two posts, using a long pole that rotates and oscillates to keep balance, with the rope sagging, feet slipping, and a colored tilt indicator above the walker that flashes when near falling.\n\n4. **Planet-Moon Orbital Imbalance**\n   A central star with several planets whose masses and positions are slightly perturbed so orbits slowly distort, collide, or eject, with orbit trails, color-coded gravitational force vectors, and a “system stability” bar that changes color as orbits become chaotic.\n\n5. **Seesaw with Moving Sand Load**\n   A wide seesaw plank with buckets at each end being filled and emptied by falling sand particles from hoppers, with sand piling, spilling, and sliding along the plank, causing continuous tipping motion and a live readout of mass distribution on each side.\n\n6. **Gyroscope on a Tilting Platform**\n   A spinning disc mounted on a gimbal placed on a square platform that slowly tilts and rotates, with the gyroscope precessing, wobbling, and sometimes flipping, leaving a trail of its axis direction and a transparent cone indicating its angular momentum vector.\n\n7. **Crowded Boat on a Wavy Sea**\n   A rectangular raft floating on a gently rolling water surface with multiple colored spheres (passengers) that can walk, collide, and slide, making the raft tilt and occasionally dunk edges below the water plane while buoyancy arrows and a center-of-buoyancy marker update dynamically.\n\n8. **Double Pendulum Chaos Balance**\n   A double pendulum with adjustable lengths and masses swinging from a fixed ceiling bar, leaving colored trails that show how small changes in starting angle lead to wildly different paths, with a faint grid and a “symmetry vs. chaos” indicator that pulses as motion becomes irregular.\n\n9. **Balancing Tower Crane with Moving Load**\n   A tall crane mast with a rotating boom, counterweights on one side, and a hanging cargo block on the other that moves along the boom, making the crane sway, twist, and sometimes over-tilt, with stress lines appearing in red where forces are highest and labels on moment arms.\n\n10. **Chemical Concentration Gradient in a Cell**\n    A semi-transparent spherical “cell” where colored particles diffuse between two compartments separated by a permeable membrane, with channels that open and close to let particles flow, gradually balancing concentrations while a bar graph outside the cell tracks the imbalance.\n\n11. **Ecosystem Predator-Prey Imbalance**\n    A flat grassy plane with two species represented by small animals (spheres and cones) that move, replicate, and “consume” each other, causing populations to boom or crash while counters and time-series lines float above showing how the system moves toward or away from balance.\n\n12. **Tilted Hourglass of Uneven Sand Flow**\n    A glass hourglass rotated off vertical so sand grains fall, stick to glass walls, and intermittently avalanche through the neck, creating lopsided piles that shift the hourglass’s center-of-mass, with the glass slightly rocking on its base and a glowing dot indicating the mass center.\n\n13. **Traffic Roundabout Load Balancing**\n    A circular intersection with multiple entry lanes where small cars (boxes) arrive with uneven rates, merge into the roundabout, and exit, with occasional jams and clearings, lane density heatmaps on the road surface, and arrows indicating flow balance between entrances and exits.\n\n14. **Magnetic Levitation Balancing Act**\n    A small metallic sphere levitating above a base using three adjustable electromagnets at the corners, where field strengths vary, making the sphere drift, oscillate, or crash into the base, with colored magnetic field vectors and a dynamic 3D marker of the stable equilibrium zone.\n\n15. **Spinning Plates on Flexible Rods**\n    Several thin rods fixed to a base plate with discs spinning at their tips; rotation speed can be increased or allowed to decay so some plates wobble, precess, and fall, bouncing off the ground, while each rod has a color-coded “stability ring” that shrinks as speed drops.\n\n16. **Balancing Bridge with Moving Vehicles**\n    A suspension bridge deck that flexes and bends under moving box-shaped vehicles of different masses, with cables stretching and vibrating, the deck sagging or re-leveling as loads move, and stress regions shown in gradients from blue (safe) to red (overloaded).\n\n17. **Urban Power Grid Load Shifting**\n    A 3D city grid of buildings connected by glowing power lines where some buildings suddenly increase or decrease demand, causing power lines to brighten or dim, generators to spin faster or slower, and overloads to trip, rerouting energy as a “grid stability” meter oscillates.\n\n18. **Three-Body Balancing Dance**\n    Three massive spheres starting in a near-stable orbital pattern but with slight imbalances in mass and velocity, leading to intricate orbits, near-collisions, slingshots, and possible ejection, with curved trails and force vectors that constantly adjust as the system loses balance.\n\n19. **Tumbling Cargo Hold with Shifting Crates**\n    A rectangular cargo container in microgravity filled with boxes connected by elastic straps and magnets that weakly attach; when the container slowly rotates, crates drift, collide, stick, and break free, forming clumps that shift the container’s rotation axis and cause irregular tumbling.\n\n20. **Balance Beam with Rolling Marbles**\n    A narrow beam resting on a pivot in the center with multiple marbles rolling along its length; as marbles move and collide, the beam tilts, causing marbles to accelerate to one side, then roll back, with friction, bouncing, and a live plot of tilt angle vs. time.\n\n21. **Liquid in a Tilting Glass**\n    A transparent glass partially filled with colored liquid whose surface stays level while the glass slowly tilts and rotates; liquid sloshes, climbs up walls, and may spill over the rim onto a table plane, forming spreading puddles that shift the glass’s balance.\n\n22. **Social Opinion Balance on a See-Through Sphere**\n    A transparent globe dotted with agents (small colored points) that can move, connect with lines, and influence neighbors to change color (opinion), with regions becoming unbalanced clusters until connections rearrange and a global “agreement meter” around the sphere reacts.\n\n23. **Rotating Platform with Off-Center Masses**\n    A circular platform spinning around a central axis where users can attach or detach colored blocks at different radii, changing the platform’s wobble and tilt, with the rotation axis shifting visually and a transparent disc highlighting the instantaneous center-of-mass.\n\n24. **Balancing Flame on a Tilting Candle**\n    A candle standing on a slightly moving plate with a flickering flame (particle system) that leans with airflow and motion; as wax melts and drips down the candle, the shape and mass distribution change, making the candle slowly lean, wobble, and possibly topple.\n\n25. **Juggling Balls and Dropped Imbalance**\n    A simplified juggler represented by a central body and two arm segments tossing multiple glowing spheres in patterns; missed catches cause balls to bounce on the floor and roll away, disrupting rhythm, while trails show smooth arcs when in balance and broken lines when the pattern collapses."
+}

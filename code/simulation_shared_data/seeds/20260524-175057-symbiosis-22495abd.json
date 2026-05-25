@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Symbiosis",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:50:57",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Coral Reef and Cleaning Fish",
+      "description": "A 3D coral structure with stationary coral polyps and small fish that swim around, attach briefly to “dirty spots” on larger fish to clean them, leaving fading colored specks as “removed parasites” that drift away as particles.",
+      "seed": "Coral Reef and Cleaning Fish: A 3D coral structure with stationary coral polyps and small fish that swim around, attach briefly to “dirty spots” on larger fish to clean them, leaving fading colored specks as “removed parasites” that drift away as particles."
+    },
+    {
+      "number": "2",
+      "title": "Mycorrhizal Forest Network",
+      "description": "Transparent tree roots extend underground from several tree trunks while glowing fungal threads grow, branch, and wrap around roots, transferring colored particle “nutrients” in both directions with labels and meters showing resource exchange.",
+      "seed": "Mycorrhizal Forest Network: Transparent tree roots extend underground from several tree trunks while glowing fungal threads grow, branch, and wrap around roots, transferring colored particle “nutrients” in both directions with labels and meters showing resource exchange."
+    },
+    {
+      "number": "3",
+      "title": "Lichen on Rock Time-Lapse",
+      "description": "A rough, light-colored rock is slowly covered by two interacting organisms: green algae patches and white fungal filaments that grow, wrap, merge, and form composite lichen clusters, with transparency and color shifts indicating successful symbiosis.",
+      "seed": "Lichen on Rock Time-Lapse: A rough, light-colored rock is slowly covered by two interacting organisms: green algae patches and white fungal filaments that grow, wrap, merge, and form composite lichen clusters, with transparency and color shifts indicating successful symbiosis."
+    },
+    {
+      "number": "4",
+      "title": "Clownfish and Sea Anemone Shelter",
+      "description": "A waving anemone with many semi-transparent tentacles sways in a gentle current while bright clownfish swim in and out, briefly touching tentacles (which flash subtle colors), with predatory fish that bounce away when touching the stinging tentacles.",
+      "seed": "Clownfish and Sea Anemone Shelter: A waving anemone with many semi-transparent tentacles sways in a gentle current while bright clownfish swim in and out, briefly touching tentacles (which flash subtle colors), with predatory fish that bounce away when touching the stinging tentacles."
+    },
+    {
+      "number": "5",
+      "title": "Gut Microbiome and Intestinal Wall",
+      "description": "A translucent tube representing intestine stays mostly stationary while multiple species of bacteria (different colored spheres) float, attach to the inner wall, replicate, form colonies, and release glowing nutrient particles that are absorbed through the wall.",
+      "seed": "Gut Microbiome and Intestinal Wall: A translucent tube representing intestine stays mostly stationary while multiple species of bacteria (different colored spheres) float, attach to the inner wall, replicate, form colonies, and release glowing nutrient particles that are absorbed through the wall."
+    },
+    {
+      "number": "6",
+      "title": "Pollination Partnership: Flower and Bee",
+      "description": "Flowers with visible stamens and pistils stand on a meadow floor as bees fly between them, collide softly with flower centers, pick up colored pollen particles that stick to their bodies, and transfer those particles to other flowers, changing flower color when pollinated.",
+      "seed": "Pollination Partnership: Flower and Bee: Flowers with visible stamens and pistils stand on a meadow floor as bees fly between them, collide softly with flower centers, pick up colored pollen particles that stick to their bodies, and transfer those particles to other flowers, changing flower color when pollinated."
+    },
+    {
+      "number": "7",
+      "title": "Algae and Coral Bleaching/Recovery",
+      "description": "Coral branches host tiny colored algae spheres inside their semi-transparent tissue; temperature “heat waves” sweep through as colored planes causing algae to detach and drift away (bleaching), then cooler waves allow algae to reattach and restore coral color.",
+      "seed": "Algae and Coral Bleaching/Recovery: Coral branches host tiny colored algae spheres inside their semi-transparent tissue; temperature “heat waves” sweep through as colored planes causing algae to detach and drift away (bleaching), then cooler waves allow algae to reattach and restore coral color."
+    },
+    {
+      "number": "8",
+      "title": "Remora Fish on Moving Shark",
+      "description": "A large shark model swims in a loop while several small remora fish chase it, attach to its underside when close, ride along leaving thin trails, then detach at feeding zones to collect drifting food particles before reattaching.",
+      "seed": "Remora Fish on Moving Shark: A large shark model swims in a loop while several small remora fish chase it, attach to its underside when close, ride along leaving thin trails, then detach at feeding zones to collect drifting food particles before reattaching."
+    },
+    {
+      "number": "9",
+      "title": "Nitrogen-Fixing Bacteria and Root Nodules",
+      "description": "Plant roots grow down into soil while specific bacteria spheres approach, collide with root hairs, and trigger bulging root nodules that slowly grow and glow; nitrogen particles flow from bacteria into plant, and sugar particles flow back from plant to bacteria.",
+      "seed": "Nitrogen-Fixing Bacteria and Root Nodules: Plant roots grow down into soil while specific bacteria spheres approach, collide with root hairs, and trigger bulging root nodules that slowly grow and glow; nitrogen particles flow from bacteria into plant, and sugar particles flow back from plant to bacteria."
+    },
+    {
+      "number": "10",
+      "title": "Ant-Fungus Farming Colony",
+      "description": "Ant agents carry glowing food particles into underground chambers where a white fungal “garden” slowly grows; fungus nodes emit spores, while ants remove parasites (dark particles) and deposit nutrient particles, with tunnel walls stationary and colony dynamics animated.",
+      "seed": "Ant-Fungus Farming Colony: Ant agents carry glowing food particles into underground chambers where a white fungal “garden” slowly grows; fungus nodes emit spores, while ants remove parasites (dark particles) and deposit nutrient particles, with tunnel walls stationary and colony dynamics animated."
+    },
+    {
+      "number": "11",
+      "title": "Cleaner Shrimp Station on a Reef",
+      "description": "A rock ledge hosts a “cleaning station” where larger fish line up and slowly pass while tiny cleaner shrimp hop between them, attaching briefly to remove parasite particles that detach, dissolve into the water, and generate a cleanliness meter above each fish.",
+      "seed": "Cleaner Shrimp Station on a Reef: A rock ledge hosts a “cleaning station” where larger fish line up and slowly pass while tiny cleaner shrimp hop between them, attaching briefly to remove parasite particles that detach, dissolve into the water, and generate a cleanliness meter above each fish."
+    },
+    {
+      "number": "12",
+      "title": "Birds and Fruit Trees Seed Dispersal",
+      "description": "Fruit trees with colored fruits stand in a field; birds fly between trees, land on branches, eat fruits (removing them), then later drop seed spheres that fall, bounce, and take root, growing new tiny trees whose color matches the original parent.",
+      "seed": "Birds and Fruit Trees Seed Dispersal: Fruit trees with colored fruits stand in a field; birds fly between trees, land on branches, eat fruits (removing them), then later drop seed spheres that fall, bounce, and take root, growing new tiny trees whose color matches the original parent."
+    },
+    {
+      "number": "13",
+      "title": "Photosynthetic Bacteria in a Jellyfish Bell",
+      "description": "A translucent jellyfish bell pulses up and down in water while green glowing bacteria inside move, cluster, and increase brightness under simulated “sunlight” beams, transferring luminous energy particles to the jellyfish’s tentacles.",
+      "seed": "Photosynthetic Bacteria in a Jellyfish Bell: A translucent jellyfish bell pulses up and down in water while green glowing bacteria inside move, cluster, and increase brightness under simulated “sunlight” beams, transferring luminous energy particles to the jellyfish’s tentacles."
+    },
+    {
+      "number": "14",
+      "title": "Human and Assistive Robot Co-Working",
+      "description": "A humanoid figure and a smaller helper robot share a workspace where objects (boxes, tools) are moved; the robot anticipates and intercepts falling objects, attaches to heavy boxes to co-carry with the human, and visual glowing lines show shared load and task handoffs.",
+      "seed": "Human and Assistive Robot Co-Working: A humanoid figure and a smaller helper robot share a workspace where objects (boxes, tools) are moved; the robot anticipates and intercepts falling objects, attaches to heavy boxes to co-carry with the human, and visual glowing lines show shared load and task handoffs."
+    },
+    {
+      "number": "15",
+      "title": "Symbiotic Orbital Satellites",
+      "description": "Two differently sized satellites orbit a central planet and periodically dock with each other: one gathers energy (yellow particles) from solar panels, the other gathers data (blue particles) from the planet, and during docking they transfer particles before separating.",
+      "seed": "Symbiotic Orbital Satellites: Two differently sized satellites orbit a central planet and periodically dock with each other: one gathers energy (yellow particles) from solar panels, the other gathers data (blue particles) from the planet, and during docking they transfer particles before separating."
+    },
+    {
+      "number": "16",
+      "title": "Mutualistic Reef Algae and Crabs",
+      "description": "Small crabs roam the reef, letting algae filaments grow on their shells; when predators approach, camouflaged crabs avoid detection, while the algae gain movement to brighter areas, indicated by shifting light intensity and algae growth rate meters.",
+      "seed": "Mutualistic Reef Algae and Crabs: Small crabs roam the reef, letting algae filaments grow on their shells; when predators approach, camouflaged crabs avoid detection, while the algae gain movement to brighter areas, indicated by shifting light intensity and algae growth rate meters."
+    },
+    {
+      "number": "17",
+      "title": "Termites and Gut Protozoa Digestion",
+      "description": "A large, semi-transparent termite body contains a chamber where cellulose block particles enter; inside, protozoa swim, attach to cellulose, break it into smaller glowing sugar particles that diffuse outward and are absorbed by the termite’s gut wall.",
+      "seed": "Termites and Gut Protozoa Digestion: A large, semi-transparent termite body contains a chamber where cellulose block particles enter; inside, protozoa swim, attach to cellulose, break it into smaller glowing sugar particles that diffuse outward and are absorbed by the termite’s gut wall."
+    },
+    {
+      "number": "18",
+      "title": "Oxpecker Birds and Large Mammal",
+      "description": "A large grazing animal walks through a savanna while many parasite particles crawl on its surface; oxpecker birds land, hop along the body, and peck parasites, making them disappear in small particle bursts, while the bird’s hunger meter decreases and animal’s health meter increases.",
+      "seed": "Oxpecker Birds and Large Mammal: A large grazing animal walks through a savanna while many parasite particles crawl on its surface; oxpecker birds land, hop along the body, and peck parasites, making them disappear in small particle bursts, while the bird’s hunger meter decreases and animal’s health meter increases."
+    },
+    {
+      "number": "19",
+      "title": "Symbiotic Binary Star with Accretion Flow",
+      "description": "A large red giant and a smaller white dwarf orbit each other; gas trails stream from the red giant to the white dwarf, forming a rotating accretion disk, while energy pulses (light flashes) travel back toward the giant, symbolizing mutual influence.",
+      "seed": "Symbiotic Binary Star with Accretion Flow: A large red giant and a smaller white dwarf orbit each other; gas trails stream from the red giant to the white dwarf, forming a rotating accretion disk, while energy pulses (light flashes) travel back toward the giant, symbolizing mutual influence."
+    },
+    {
+      "number": "20",
+      "title": "Hydrothermal Vent Worms and Bacteria",
+      "description": "Tall, dark hydrothermal vent chimneys emit hot particle plumes; tube worms anchored nearby have red “plumes” that capture chemicals, then internal symbiotic bacteria convert these into glowing nutrient particles that travel down into the worm’s body.",
+      "seed": "Hydrothermal Vent Worms and Bacteria: Tall, dark hydrothermal vent chimneys emit hot particle plumes; tube worms anchored nearby have red “plumes” that capture chemicals, then internal symbiotic bacteria convert these into glowing nutrient particles that travel down into the worm’s body."
+    },
+    {
+      "number": "21",
+      "title": "Urban Symbiosis: Cyclists and Bike Lanes",
+      "description": "Cyclists move along a city grid where glowing bike lanes dynamically expand or contract depending on rider density; lanes “feed” cyclists with speed boosts (colored arrows), and cyclists in turn generate cleanliness and safety particles that brighten the lanes.",
+      "seed": "Urban Symbiosis: Cyclists and Bike Lanes: Cyclists move along a city grid where glowing bike lanes dynamically expand or contract depending on rider density; lanes “feed” cyclists with speed boosts (colored arrows), and cyclists in turn generate cleanliness and safety particles that brighten the lanes."
+    },
+    {
+      "number": "22",
+      "title": "Squid and Bioluminescent Bacteria Light Organ",
+      "description": "A squid’s light organ is shown in cross-section with bacteria colonizing an inner chamber; as more bacteria attach and replicate, emitted light intensity increases and spreads through the squid’s underside, while the squid periodically expels some bacteria to reset balance.",
+      "seed": "Squid and Bioluminescent Bacteria Light Organ: A squid’s light organ is shown in cross-section with bacteria colonizing an inner chamber; as more bacteria attach and replicate, emitted light intensity increases and spreads through the squid’s underside, while the squid periodically expels some bacteria to reset balance."
+    },
+    {
+      "number": "23",
+      "title": "Symbiotic Logic Gates in a Circuit",
+      "description": "3D blocks representing logic gates connect via glowing wires; paired gates share signal particles that flow both ways, and when they synchronize (mutual stable state), a third component powers up, visualized by brighter colors and faster particle flow in that region.",
+      "seed": "Symbiotic Logic Gates in a Circuit: 3D blocks representing logic gates connect via glowing wires; paired gates share signal particles that flow both ways, and when they synchronize (mutual stable state), a third component powers up, visualized by brighter colors and faster particle flow in that region."
+    },
+    {
+      "number": "24",
+      "title": "Bee Colony and Flower Meadow Co-Dynamics",
+      "description": "A hive on one side and a flower field on the other exchange resources: bees fly in paths leaving faint trails, collect nectar (liquid level lowering in flowers), and deposit it as honey (growing translucent volume in the hive), while pollinated flowers replicate and spread.",
+      "seed": "Bee Colony and Flower Meadow Co-Dynamics: A hive on one side and a flower field on the other exchange resources: bees fly in paths leaving faint trails, collect nectar (liquid level lowering in flowers), and deposit it as honey (growing translucent volume in the hive), while pollinated flowers replicate and spread."
+    },
+    {
+      "number": "25",
+      "title": "Symbiotic Orbiting Space Habitats",
+      "description": "Two modular space stations orbit a planet and periodically align to transfer resources: one generates water (blue particles) from ice, the other generates oxygen (green particles); docking connectors extend, attach, and pump particles back and forth before retracting as stations drift apart.",
+      "seed": "Symbiotic Orbiting Space Habitats: Two modular space stations orbit a planet and periodically align to transfer resources: one generates water (blue particles) from ice, the other generates oxygen (green particles); docking connectors extend, attach, and pump particles back and forth before retracting as stations drift apart."
+    }
+  ],
+  "raw_output": "Here are strong **Symbiosis simulation inputs** you can plug into your prompt:\n\n1. **Coral Reef and Cleaning Fish**\n   A 3D coral structure with stationary coral polyps and small fish that swim around, attach briefly to “dirty spots” on larger fish to clean them, leaving fading colored specks as “removed parasites” that drift away as particles.\n\n2. **Mycorrhizal Forest Network**\n   Transparent tree roots extend underground from several tree trunks while glowing fungal threads grow, branch, and wrap around roots, transferring colored particle “nutrients” in both directions with labels and meters showing resource exchange.\n\n3. **Lichen on Rock Time-Lapse**\n   A rough, light-colored rock is slowly covered by two interacting organisms: green algae patches and white fungal filaments that grow, wrap, merge, and form composite lichen clusters, with transparency and color shifts indicating successful symbiosis.\n\n4. **Clownfish and Sea Anemone Shelter**\n   A waving anemone with many semi-transparent tentacles sways in a gentle current while bright clownfish swim in and out, briefly touching tentacles (which flash subtle colors), with predatory fish that bounce away when touching the stinging tentacles.\n\n5. **Gut Microbiome and Intestinal Wall**\n   A translucent tube representing intestine stays mostly stationary while multiple species of bacteria (different colored spheres) float, attach to the inner wall, replicate, form colonies, and release glowing nutrient particles that are absorbed through the wall.\n\n6. **Pollination Partnership: Flower and Bee**\n   Flowers with visible stamens and pistils stand on a meadow floor as bees fly between them, collide softly with flower centers, pick up colored pollen particles that stick to their bodies, and transfer those particles to other flowers, changing flower color when pollinated.\n\n7. **Algae and Coral Bleaching/Recovery**\n   Coral branches host tiny colored algae spheres inside their semi-transparent tissue; temperature “heat waves” sweep through as colored planes causing algae to detach and drift away (bleaching), then cooler waves allow algae to reattach and restore coral color.\n\n8. **Remora Fish on Moving Shark**\n   A large shark model swims in a loop while several small remora fish chase it, attach to its underside when close, ride along leaving thin trails, then detach at feeding zones to collect drifting food particles before reattaching.\n\n9. **Nitrogen-Fixing Bacteria and Root Nodules**\n   Plant roots grow down into soil while specific bacteria spheres approach, collide with root hairs, and trigger bulging root nodules that slowly grow and glow; nitrogen particles flow from bacteria into plant, and sugar particles flow back from plant to bacteria.\n\n10. **Ant-Fungus Farming Colony**\n    Ant agents carry glowing food particles into underground chambers where a white fungal “garden” slowly grows; fungus nodes emit spores, while ants remove parasites (dark particles) and deposit nutrient particles, with tunnel walls stationary and colony dynamics animated.\n\n11. **Cleaner Shrimp Station on a Reef**\n    A rock ledge hosts a “cleaning station” where larger fish line up and slowly pass while tiny cleaner shrimp hop between them, attaching briefly to remove parasite particles that detach, dissolve into the water, and generate a cleanliness meter above each fish.\n\n12. **Birds and Fruit Trees Seed Dispersal**\n    Fruit trees with colored fruits stand in a field; birds fly between trees, land on branches, eat fruits (removing them), then later drop seed spheres that fall, bounce, and take root, growing new tiny trees whose color matches the original parent.\n\n13. **Photosynthetic Bacteria in a Jellyfish Bell**\n    A translucent jellyfish bell pulses up and down in water while green glowing bacteria inside move, cluster, and increase brightness under simulated “sunlight” beams, transferring luminous energy particles to the jellyfish’s tentacles.\n\n14. **Human and Assistive Robot Co-Working**\n    A humanoid figure and a smaller helper robot share a workspace where objects (boxes, tools) are moved; the robot anticipates and intercepts falling objects, attaches to heavy boxes to co-carry with the human, and visual glowing lines show shared load and task handoffs.\n\n15. **Symbiotic Orbital Satellites**\n    Two differently sized satellites orbit a central planet and periodically dock with each other: one gathers energy (yellow particles) from solar panels, the other gathers data (blue particles) from the planet, and during docking they transfer particles before separating.\n\n16. **Mutualistic Reef Algae and Crabs**\n    Small crabs roam the reef, letting algae filaments grow on their shells; when predators approach, camouflaged crabs avoid detection, while the algae gain movement to brighter areas, indicated by shifting light intensity and algae growth rate meters.\n\n17. **Termites and Gut Protozoa Digestion**\n    A large, semi-transparent termite body contains a chamber where cellulose block particles enter; inside, protozoa swim, attach to cellulose, break it into smaller glowing sugar particles that diffuse outward and are absorbed by the termite’s gut wall.\n\n18. **Oxpecker Birds and Large Mammal**\n    A large grazing animal walks through a savanna while many parasite particles crawl on its surface; oxpecker birds land, hop along the body, and peck parasites, making them disappear in small particle bursts, while the bird’s hunger meter decreases and animal’s health meter increases.\n\n19. **Symbiotic Binary Star with Accretion Flow**\n    A large red giant and a smaller white dwarf orbit each other; gas trails stream from the red giant to the white dwarf, forming a rotating accretion disk, while energy pulses (light flashes) travel back toward the giant, symbolizing mutual influence.\n\n20. **Hydrothermal Vent Worms and Bacteria**\n    Tall, dark hydrothermal vent chimneys emit hot particle plumes; tube worms anchored nearby have red “plumes” that capture chemicals, then internal symbiotic bacteria convert these into glowing nutrient particles that travel down into the worm’s body.\n\n21. **Urban Symbiosis: Cyclists and Bike Lanes**\n    Cyclists move along a city grid where glowing bike lanes dynamically expand or contract depending on rider density; lanes “feed” cyclists with speed boosts (colored arrows), and cyclists in turn generate cleanliness and safety particles that brighten the lanes.\n\n22. **Squid and Bioluminescent Bacteria Light Organ**\n    A squid’s light organ is shown in cross-section with bacteria colonizing an inner chamber; as more bacteria attach and replicate, emitted light intensity increases and spreads through the squid’s underside, while the squid periodically expels some bacteria to reset balance.\n\n23. **Symbiotic Logic Gates in a Circuit**\n    3D blocks representing logic gates connect via glowing wires; paired gates share signal particles that flow both ways, and when they synchronize (mutual stable state), a third component powers up, visualized by brighter colors and faster particle flow in that region.\n\n24. **Bee Colony and Flower Meadow Co-Dynamics**\n    A hive on one side and a flower field on the other exchange resources: bees fly in paths leaving faint trails, collect nectar (liquid level lowering in flowers), and deposit it as honey (growing translucent volume in the hive), while pollinated flowers replicate and spread.\n\n25. **Symbiotic Orbiting Space Habitats**\n    Two modular space stations orbit a planet and periodically align to transfer resources: one generates water (blue particles) from ice, the other generates oxygen (green particles); docking connectors extend, attach, and pump particles back and forth before retracting as stations drift apart."
+}

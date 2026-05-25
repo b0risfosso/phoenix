@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Planet formation",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:39:01",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Spinning Protoplanetary Disk with Colliding Dust Rings",
+      "description": "A bright central protostar with a wide, thin, semi-transparent disk of colored dust particles that orbit, collide, stick into clumps, and leave faint trails as growing planetesimals labeled with their mass.",
+      "seed": "Spinning Protoplanetary Disk with Colliding Dust Rings: A bright central protostar with a wide, thin, semi-transparent disk of colored dust particles that orbit, collide, stick into clumps, and leave faint trails as growing planetesimals labeled with their mass."
+    },
+    {
+      "number": "2",
+      "title": "Runaway Growth of Planetesimals in a Dust Cloud",
+      "description": "Hundreds of small spheres in a light-colored nebula randomly moving and gently attracting each other, merging into larger, color-shifting bodies that grow, spin, and are labeled with size and velocity.",
+      "seed": "Runaway Growth of Planetesimals in a Dust Cloud: Hundreds of small spheres in a light-colored nebula randomly moving and gently attracting each other, merging into larger, color-shifting bodies that grow, spin, and are labeled with size and velocity."
+    },
+    {
+      "number": "3",
+      "title": "Planetesimal Belt with Gravitational Scattering",
+      "description": "A central star and a ring of rocky bodies that orbit while a few larger embryos perturb nearby objects, causing some to be scattered into inclined orbits, ejected, or captured, with curved trails showing past paths.",
+      "seed": "Planetesimal Belt with Gravitational Scattering: A central star and a ring of rocky bodies that orbit while a few larger embryos perturb nearby objects, causing some to be scattered into inclined orbits, ejected, or captured, with curved trails showing past paths."
+    },
+    {
+      "number": "4",
+      "title": "Pebble Accretion Onto a Growing Planet Core",
+      "description": "A partially transparent gas disk with a single larger core that orbits the star while streams of smaller “pebble” particles drift inward, spiral toward the core, and either attach, bounce off, or pass by, changing color on capture.",
+      "seed": "Pebble Accretion Onto a Growing Planet Core: A partially transparent gas disk with a single larger core that orbits the star while streams of smaller “pebble” particles drift inward, spiral toward the core, and either attach, bounce off, or pass by, changing color on capture."
+    },
+    {
+      "number": "5",
+      "title": "Formation of Gas Giants by Envelope Accretion",
+      "description": "A rocky core in orbit that gradually pulls in a surrounding transparent gas shell which thickens, changes tint, and expands over time, while nearby gas particles spiral in and are absorbed, with a meter showing envelope mass.",
+      "seed": "Formation of Gas Giants by Envelope Accretion: A rocky core in orbit that gradually pulls in a surrounding transparent gas shell which thickens, changes tint, and expands over time, while nearby gas particles spiral in and are absorbed, with a meter showing envelope mass."
+    },
+    {
+      "number": "6",
+      "title": "Protoplanetary Disk Gap Carved by a Young Planet",
+      "description": "A rotating disk of small colored particles with one embedded planet that clears a ring-shaped gap as it orbits, scattering particles outward and inward, with a dynamic cross-section view that highlights density changes.",
+      "seed": "Protoplanetary Disk Gap Carved by a Young Planet: A rotating disk of small colored particles with one embedded planet that clears a ring-shaped gap as it orbits, scattering particles outward and inward, with a dynamic cross-section view that highlights density changes."
+    },
+    {
+      "number": "7",
+      "title": "Planetesimal Collisions and Fragmentation Cascade",
+      "description": "Several mid-sized rocky bodies in crossing orbits that occasionally collide, either merging into a larger, darker object or shattering into glowing fragments that spray out, cool, and rejoin the swarm.",
+      "seed": "Planetesimal Collisions and Fragmentation Cascade: Several mid-sized rocky bodies in crossing orbits that occasionally collide, either merging into a larger, darker object or shattering into glowing fragments that spray out, cool, and rejoin the swarm."
+    },
+    {
+      "number": "8",
+      "title": "Resonant Orbits and Planetary Migration",
+      "description": "Two or three forming planets in a disk whose orbits slowly shift inward or outward while they lock into orbital resonances, marked with color-coded orbital paths and labels that update resonance ratios in real time.",
+      "seed": "Resonant Orbits and Planetary Migration: Two or three forming planets in a disk whose orbits slowly shift inward or outward while they lock into orbital resonances, marked with color-coded orbital paths and labels that update resonance ratios in real time."
+    },
+    {
+      "number": "9",
+      "title": "Spiral Density Waves in a Forming Planet System",
+      "description": "A star surrounded by a particle disk where embedded proto-planets generate spiral arms of higher density; particles brighten and slow slightly in the arms, then dim and speed up between arms, leaving subtle trails.",
+      "seed": "Spiral Density Waves in a Forming Planet System: A star surrounded by a particle disk where embedded proto-planets generate spiral arms of higher density; particles brighten and slow slightly in the arms, then dim and speed up between arms, leaving subtle trails."
+    },
+    {
+      "number": "10",
+      "title": "Ice Line and Composition-Dependent Planet Formation",
+      "description": "A disk with a visible “snow line” ring where inside particles are rocky (brown/gray) and outside particles are icy (blue/white), showing different sticking probabilities and resulting in rocky inner planets and icy outer cores.",
+      "seed": "Ice Line and Composition-Dependent Planet Formation: A disk with a visible “snow line” ring where inside particles are rocky (brown/gray) and outside particles are icy (blue/white), showing different sticking probabilities and resulting in rocky inner planets and icy outer cores."
+    },
+    {
+      "number": "11",
+      "title": "Moon Formation from a Giant Impact Debris Disk",
+      "description": "A proto-Earth sphere is struck by an incoming impactor, ejecting a glowing ring of debris that orbits and gradually clumps into one or more moons that merge, with cooling color transitions from bright orange to dull gray.",
+      "seed": "Moon Formation from a Giant Impact Debris Disk: A proto-Earth sphere is struck by an incoming impactor, ejecting a glowing ring of debris that orbits and gradually clumps into one or more moons that merge, with cooling color transitions from bright orange to dull gray."
+    },
+    {
+      "number": "12",
+      "title": "Co-orbital Trojans and Lagrange Point Capture",
+      "description": "A forming gas giant orbits the star while swarms of small bodies drift and get trapped near its L4 and L5 points, clustering into two stable groups marked by soft colored regions and faint orbit trails.",
+      "seed": "Co-orbital Trojans and Lagrange Point Capture: A forming gas giant orbits the star while swarms of small bodies drift and get trapped near its L4 and L5 points, clustering into two stable groups marked by soft colored regions and faint orbit trails."
+    },
+    {
+      "number": "13",
+      "title": "Multi-Planet System Stability and Collisions",
+      "description": "Several young planets with slightly overlapping orbits orbit a star; over time perturbations cause close approaches, orbital crossings, collisions (mergers or ejections), and changing orbital inclinations, all traced in 3D.",
+      "seed": "Multi-Planet System Stability and Collisions: Several young planets with slightly overlapping orbits orbit a star; over time perturbations cause close approaches, orbital crossings, collisions (mergers or ejections), and changing orbital inclinations, all traced in 3D."
+    },
+    {
+      "number": "14",
+      "title": "Planetesimal Sorting by Aerodynamic Drag",
+      "description": "A gas disk with embedded solids of different sizes (color-coded) that experience varying drag, causing small particles to spiral inward faster while larger boulders migrate slowly, with arrows showing drag direction and magnitude.",
+      "seed": "Planetesimal Sorting by Aerodynamic Drag: A gas disk with embedded solids of different sizes (color-coded) that experience varying drag, causing small particles to spiral inward faster while larger boulders migrate slowly, with arrows showing drag direction and magnitude."
+    },
+    {
+      "number": "15",
+      "title": "Ring System Formation from a Disrupted Moon",
+      "description": "A small icy moon passes within a giant planet’s Roche limit, stretches, breaks into shards, and spreads into a flat ring of icy particles that collide, flatten, and gradually form ringlets around the planet.",
+      "seed": "Ring System Formation from a Disrupted Moon: A small icy moon passes within a giant planet’s Roche limit, stretches, breaks into shards, and spreads into a flat ring of icy particles that collide, flatten, and gradually form ringlets around the planet."
+    },
+    {
+      "number": "16",
+      "title": "Late Heavy Bombardment on Forming Terrestrial Planets",
+      "description": "A few inner rocky planets follow stable orbits while an outer belt is destabilized, sending waves of impactors inward that strike the planets, producing expanding crater markings, glowing impact plumes, and updated surface maps.",
+      "seed": "Late Heavy Bombardment on Forming Terrestrial Planets: A few inner rocky planets follow stable orbits while an outer belt is destabilized, sending waves of impactors inward that strike the planets, producing expanding crater markings, glowing impact plumes, and updated surface maps."
+    },
+    {
+      "number": "17",
+      "title": "Accretion vs. Erosion: Hit-and-Run Collisions",
+      "description": "Multiple proto-planets in a shared orbital zone repeatedly collide at different angles and speeds, sometimes merging, sometimes grazing and exchanging material, and sometimes eroding mass, with mass bars hovering over each body.",
+      "seed": "Accretion vs. Erosion: Hit-and-Run Collisions: Multiple proto-planets in a shared orbital zone repeatedly collide at different angles and speeds, sometimes merging, sometimes grazing and exchanging material, and sometimes eroding mass, with mass bars hovering over each body."
+    },
+    {
+      "number": "18",
+      "title": "Inclined and Eccentric Protoplanetary Orbits",
+      "description": "A young planetary system where growing planets gradually acquire tilted and eccentric orbits due to interactions, visualized with 3D orbital planes in soft colors and labels for inclination and eccentricity.",
+      "seed": "Inclined and Eccentric Protoplanetary Orbits: A young planetary system where growing planets gradually acquire tilted and eccentric orbits due to interactions, visualized with 3D orbital planes in soft colors and labels for inclination and eccentricity."
+    },
+    {
+      "number": "19",
+      "title": "Dust Settling and Disk Thinning Before Planet Formation",
+      "description": "A thick, fluffy particle cloud around a star slowly flattens as dust settles toward the mid-plane under gravity, forming a thin dense disk at the center while upper layers become more transparent and sparsely populated.",
+      "seed": "Dust Settling and Disk Thinning Before Planet Formation: A thick, fluffy particle cloud around a star slowly flattens as dust settles toward the mid-plane under gravity, forming a thin dense disk at the center while upper layers become more transparent and sparsely populated."
+    },
+    {
+      "number": "20",
+      "title": "Binary Star with Circumbinary Planet Formation",
+      "description": "Two stars orbit each other at the center while a circumbinary disk of particles orbits the pair; gaps and spiral patterns appear as proto-planets emerge, with their orbits wobbling due to the changing central gravity.",
+      "seed": "Binary Star with Circumbinary Planet Formation: Two stars orbit each other at the center while a circumbinary disk of particles orbits the pair; gaps and spiral patterns appear as proto-planets emerge, with their orbits wobbling due to the changing central gravity."
+    },
+    {
+      "number": "21",
+      "title": "Planets Carving Multiple Gaps and Rings (ALMA-like Disk)",
+      "description": "Several hidden proto-planets orbit inside a broad particle disk, each carving a gap and creating bright rings between them; clicking a ring reveals the approximate mass and orbit of its unseen planet, which can be toggled visible.",
+      "seed": "Planets Carving Multiple Gaps and Rings (ALMA-like Disk): Several hidden proto-planets orbit inside a broad particle disk, each carving a gap and creating bright rings between them; clicking a ring reveals the approximate mass and orbit of its unseen planet, which can be toggled visible."
+    },
+    {
+      "number": "22",
+      "title": "Zonal Flows and Pressure Bumps Trapping Dust",
+      "description": "A gas disk represented by semi-transparent bands hosts “pressure bump” regions that move slowly; dust particles drift inward but get trapped and concentrated in these bumps, forming bright clumps that can grow into planet seeds.",
+      "seed": "Zonal Flows and Pressure Bumps Trapping Dust: A gas disk represented by semi-transparent bands hosts “pressure bump” regions that move slowly; dust particles drift inward but get trapped and concentrated in these bumps, forming bright clumps that can grow into planet seeds."
+    },
+    {
+      "number": "23",
+      "title": "Chaotic Three-Body Interactions During Formation",
+      "description": "Three similar-mass proto-planets orbit near each other around a star, repeatedly exchanging energy and swapping positions until one is ejected, with curved 3D trails and changing colors indicating energy gain or loss.",
+      "seed": "Chaotic Three-Body Interactions During Formation: Three similar-mass proto-planets orbit near each other around a star, repeatedly exchanging energy and swapping positions until one is ejected, with curved 3D trails and changing colors indicating energy gain or loss."
+    },
+    {
+      "number": "24",
+      "title": "Asteroid Family Birth from Proto-Planet Breakup",
+      "description": "A large proto-planet in an outer belt is shattered by a massive collision, creating a family of fragments with similar orbits that slowly spread; each fragment’s trail and label show its shared origin and evolving path.",
+      "seed": "Asteroid Family Birth from Proto-Planet Breakup: A large proto-planet in an outer belt is shattered by a massive collision, creating a family of fragments with similar orbits that slowly spread; each fragment’s trail and label show its shared origin and evolving path."
+    },
+    {
+      "number": "25",
+      "title": "Symbolic “Planet Factory” Conveyor of Formation Stages",
+      "description": "A playful mechanical scene where particles enter as glowing dust on one side, move along a circular “conveyor” orbit, and pass through labeled zones (clumping, planetesimal, embryo, gas capture) where they merge, grow, change color, and emerge as finished planets orbiting a central star.",
+      "seed": "Symbolic “Planet Factory” Conveyor of Formation Stages: A playful mechanical scene where particles enter as glowing dust on one side, move along a circular “conveyor” orbit, and pass through labeled zones (clumping, planetesimal, embryo, gas capture) where they merge, grow, change color, and emerge as finished planets orbiting a central star."
+    }
+  ],
+  "raw_output": "Here are strong **Planet formation simulation inputs** you can plug into your prompt:\n\n1. **Spinning Protoplanetary Disk with Colliding Dust Rings**  \n   A bright central protostar with a wide, thin, semi-transparent disk of colored dust particles that orbit, collide, stick into clumps, and leave faint trails as growing planetesimals labeled with their mass.\n\n2. **Runaway Growth of Planetesimals in a Dust Cloud**  \n   Hundreds of small spheres in a light-colored nebula randomly moving and gently attracting each other, merging into larger, color-shifting bodies that grow, spin, and are labeled with size and velocity.\n\n3. **Planetesimal Belt with Gravitational Scattering**  \n   A central star and a ring of rocky bodies that orbit while a few larger embryos perturb nearby objects, causing some to be scattered into inclined orbits, ejected, or captured, with curved trails showing past paths.\n\n4. **Pebble Accretion Onto a Growing Planet Core**  \n   A partially transparent gas disk with a single larger core that orbits the star while streams of smaller “pebble” particles drift inward, spiral toward the core, and either attach, bounce off, or pass by, changing color on capture.\n\n5. **Formation of Gas Giants by Envelope Accretion**  \n   A rocky core in orbit that gradually pulls in a surrounding transparent gas shell which thickens, changes tint, and expands over time, while nearby gas particles spiral in and are absorbed, with a meter showing envelope mass.\n\n6. **Protoplanetary Disk Gap Carved by a Young Planet**  \n   A rotating disk of small colored particles with one embedded planet that clears a ring-shaped gap as it orbits, scattering particles outward and inward, with a dynamic cross-section view that highlights density changes.\n\n7. **Planetesimal Collisions and Fragmentation Cascade**  \n   Several mid-sized rocky bodies in crossing orbits that occasionally collide, either merging into a larger, darker object or shattering into glowing fragments that spray out, cool, and rejoin the swarm.\n\n8. **Resonant Orbits and Planetary Migration**  \n   Two or three forming planets in a disk whose orbits slowly shift inward or outward while they lock into orbital resonances, marked with color-coded orbital paths and labels that update resonance ratios in real time.\n\n9. **Spiral Density Waves in a Forming Planet System**  \n   A star surrounded by a particle disk where embedded proto-planets generate spiral arms of higher density; particles brighten and slow slightly in the arms, then dim and speed up between arms, leaving subtle trails.\n\n10. **Ice Line and Composition-Dependent Planet Formation**  \n   A disk with a visible “snow line” ring where inside particles are rocky (brown/gray) and outside particles are icy (blue/white), showing different sticking probabilities and resulting in rocky inner planets and icy outer cores.\n\n11. **Moon Formation from a Giant Impact Debris Disk**  \n   A proto-Earth sphere is struck by an incoming impactor, ejecting a glowing ring of debris that orbits and gradually clumps into one or more moons that merge, with cooling color transitions from bright orange to dull gray.\n\n12. **Co-orbital Trojans and Lagrange Point Capture**  \n   A forming gas giant orbits the star while swarms of small bodies drift and get trapped near its L4 and L5 points, clustering into two stable groups marked by soft colored regions and faint orbit trails.\n\n13. **Multi-Planet System Stability and Collisions**  \n   Several young planets with slightly overlapping orbits orbit a star; over time perturbations cause close approaches, orbital crossings, collisions (mergers or ejections), and changing orbital inclinations, all traced in 3D.\n\n14. **Planetesimal Sorting by Aerodynamic Drag**  \n   A gas disk with embedded solids of different sizes (color-coded) that experience varying drag, causing small particles to spiral inward faster while larger boulders migrate slowly, with arrows showing drag direction and magnitude.\n\n15. **Ring System Formation from a Disrupted Moon**  \n   A small icy moon passes within a giant planet’s Roche limit, stretches, breaks into shards, and spreads into a flat ring of icy particles that collide, flatten, and gradually form ringlets around the planet.\n\n16. **Late Heavy Bombardment on Forming Terrestrial Planets**  \n   A few inner rocky planets follow stable orbits while an outer belt is destabilized, sending waves of impactors inward that strike the planets, producing expanding crater markings, glowing impact plumes, and updated surface maps.\n\n17. **Accretion vs. Erosion: Hit-and-Run Collisions**  \n   Multiple proto-planets in a shared orbital zone repeatedly collide at different angles and speeds, sometimes merging, sometimes grazing and exchanging material, and sometimes eroding mass, with mass bars hovering over each body.\n\n18. **Inclined and Eccentric Protoplanetary Orbits**  \n   A young planetary system where growing planets gradually acquire tilted and eccentric orbits due to interactions, visualized with 3D orbital planes in soft colors and labels for inclination and eccentricity.\n\n19. **Dust Settling and Disk Thinning Before Planet Formation**  \n   A thick, fluffy particle cloud around a star slowly flattens as dust settles toward the mid-plane under gravity, forming a thin dense disk at the center while upper layers become more transparent and sparsely populated.\n\n20. **Binary Star with Circumbinary Planet Formation**  \n   Two stars orbit each other at the center while a circumbinary disk of particles orbits the pair; gaps and spiral patterns appear as proto-planets emerge, with their orbits wobbling due to the changing central gravity.\n\n21. **Planets Carving Multiple Gaps and Rings (ALMA-like Disk)**  \n   Several hidden proto-planets orbit inside a broad particle disk, each carving a gap and creating bright rings between them; clicking a ring reveals the approximate mass and orbit of its unseen planet, which can be toggled visible.\n\n22. **Zonal Flows and Pressure Bumps Trapping Dust**  \n   A gas disk represented by semi-transparent bands hosts “pressure bump” regions that move slowly; dust particles drift inward but get trapped and concentrated in these bumps, forming bright clumps that can grow into planet seeds.\n\n23. **Chaotic Three-Body Interactions During Formation**  \n   Three similar-mass proto-planets orbit near each other around a star, repeatedly exchanging energy and swapping positions until one is ejected, with curved 3D trails and changing colors indicating energy gain or loss.\n\n24. **Asteroid Family Birth from Proto-Planet Breakup**  \n   A large proto-planet in an outer belt is shattered by a massive collision, creating a family of fragments with similar orbits that slowly spread; each fragment’s trail and label show its shared origin and evolving path.\n\n25. **Symbolic “Planet Factory” Conveyor of Formation Stages**  \n   A playful mechanical scene where particles enter as glowing dust on one side, move along a circular “conveyor” orbit, and pass through labeled zones (clumping, planetesimal, embryo, gas capture) where they merge, grow, change color, and emerge as finished planets orbiting a central star."
+}

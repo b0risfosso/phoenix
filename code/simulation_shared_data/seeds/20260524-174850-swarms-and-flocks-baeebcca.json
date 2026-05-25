@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Swarms and flocks",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:48:50",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Boids Flocking Around a Moving Obstacle Drone",
+      "description": "A swarm of small colored spheres uses flocking rules to follow a leader drone box that slowly weaves through space, avoiding and flowing around a larger transparent moving obstacle block, leaving faint motion trails and showing velocity vectors as arrows.",
+      "seed": "Boids Flocking Around a Moving Obstacle Drone: A swarm of small colored spheres uses flocking rules to follow a leader drone box that slowly weaves through space, avoiding and flowing around a larger transparent moving obstacle block, leaving faint motion trails and showing velocity vectors as arrows."
+    },
+    {
+      "number": "2",
+      "title": "Predator–Prey Bird Flocks in a Sky Corridor",
+      "description": "Multiple flocks of bird-like arrows glide through a long, light-blue 3D corridor while a few larger red “hawk” cones chase them, causing the smaller flock members to split, re-merge, and occasionally collide with invisible boundaries that bounce them back.",
+      "seed": "Predator–Prey Bird Flocks in a Sky Corridor: Multiple flocks of bird-like arrows glide through a long, light-blue 3D corridor while a few larger red “hawk” cones chase them, causing the smaller flock members to split, re-merge, and occasionally collide with invisible boundaries that bounce them back."
+    },
+    {
+      "number": "3",
+      "title": "School of Fish Swarming Around a Coral Pillar",
+      "description": "Dozens of small blue ellipsoids (fish) flock and swirl around a stationary, branching coral cylinder, occasionally tightening into dense balls when a larger predator fish sweeps through, with each fish leaving a short, fading trail in clear “water.”",
+      "seed": "School of Fish Swarming Around a Coral Pillar: Dozens of small blue ellipsoids (fish) flock and swirl around a stationary, branching coral cylinder, occasionally tightening into dense balls when a larger predator fish sweeps through, with each fish leaving a short, fading trail in clear “water.”"
+    },
+    {
+      "number": "4",
+      "title": "Drone Swarm Mapping a 3D Building Interior",
+      "description": "A swarm of small cube drones with glowing tips spreads through the interior of a semi-transparent building shell, coordinating to scan different rooms, avoid collisions, attach to walls to “scan,” then detach and regroup, while a 3D minimap meter tracks coverage.",
+      "seed": "Drone Swarm Mapping a 3D Building Interior: A swarm of small cube drones with glowing tips spreads through the interior of a semi-transparent building shell, coordinating to scan different rooms, avoid collisions, attach to walls to “scan,” then detach and regroup, while a 3D minimap meter tracks coverage."
+    },
+    {
+      "number": "5",
+      "title": "Firefly Swarm Synchronizing Blinks in a Forest Clearing",
+      "description": "Small glowing spheres drift above a flat grassy plane textured with tree trunks, slowly synchronizing their pulsing yellow light as they flock in loose clusters, with each light pulse briefly leaving a fading halo in the air.",
+      "seed": "Firefly Swarm Synchronizing Blinks in a Forest Clearing: Small glowing spheres drift above a flat grassy plane textured with tree trunks, slowly synchronizing their pulsing yellow light as they flock in loose clusters, with each light pulse briefly leaving a fading halo in the air."
+    },
+    {
+      "number": "6",
+      "title": "Nanobot Swarm Repairing a Transparent 3D Cell",
+      "description": "Tiny metallic spheres swarm over the surface of a large transparent sphere representing a cell, flocking toward red “damage spots,” attaching to them, changing them to green “repaired” patches, then detaching and mixing back into the roaming swarm.",
+      "seed": "Nanobot Swarm Repairing a Transparent 3D Cell: Tiny metallic spheres swarm over the surface of a large transparent sphere representing a cell, flocking toward red “damage spots,” attaching to them, changing them to green “repaired” patches, then detaching and mixing back into the roaming swarm."
+    },
+    {
+      "number": "7",
+      "title": "Traffic Flock: Autonomous Cars Swarming on Elevated Lanes",
+      "description": "Dozens of small car boxes flock along curved, elevated transparent roads, dynamically changing lanes to avoid collisions, merge and split at junctions, and adjust spacing like a 3D flock, with color changes indicating speed and small arrow labels showing flow direction.",
+      "seed": "Traffic Flock: Autonomous Cars Swarming on Elevated Lanes: Dozens of small car boxes flock along curved, elevated transparent roads, dynamically changing lanes to avoid collisions, merge and split at junctions, and adjust spacing like a 3D flock, with color changes indicating speed and small arrow labels showing flow direction."
+    },
+    {
+      "number": "8",
+      "title": "Swarm of Satellites Flocking Around a Planet",
+      "description": "Small satellite boxes orbit a central textured planet sphere, coordinating to maintain even spacing and avoid collisions while occasionally reconfiguring into tighter or looser swarms, leaving orbital trails and drawing faint lines to show communication links.",
+      "seed": "Swarm of Satellites Flocking Around a Planet: Small satellite boxes orbit a central textured planet sphere, coordinating to maintain even spacing and avoid collisions while occasionally reconfiguring into tighter or looser swarms, leaving orbital trails and drawing faint lines to show communication links."
+    },
+    {
+      "number": "9",
+      "title": "Bee Swarm Around a Hive and Flower Patch",
+      "description": "Yellow-black spheres with short arrow “wings” flock between a central hive box and scattered colorful flower cones, attaching briefly to flowers to collect “pollen” (changing color), then returning in a dancing spiral swarm near the hive entrance.",
+      "seed": "Bee Swarm Around a Hive and Flower Patch: Yellow-black spheres with short arrow “wings” flock between a central hive box and scattered colorful flower cones, attaching briefly to flowers to collect “pollen” (changing color), then returning in a dancing spiral swarm near the hive entrance."
+    },
+    {
+      "number": "10",
+      "title": "Microscopic Bacteria Swarm Following Nutrient Plumes",
+      "description": "Tiny rod-shaped bacteria flock through a light, semi-transparent fluid volume toward moving, dissolving nutrient clouds, bouncing off a stationary glass wall and leaving faint chemical trails that slowly dissipate.",
+      "seed": "Microscopic Bacteria Swarm Following Nutrient Plumes: Tiny rod-shaped bacteria flock through a light, semi-transparent fluid volume toward moving, dissolving nutrient clouds, bouncing off a stationary glass wall and leaving faint chemical trails that slowly dissipate."
+    },
+    {
+      "number": "11",
+      "title": "Robot Flock Navigating a 3D Obstacle Maze",
+      "description": "A swarm of cylindrical ground robots moves across a raised maze platform with walls and ramps, flocking to stay together while individually avoiding obstacles, sometimes splitting into sub-swarms to find exits and rejoining near a glowing goal marker.",
+      "seed": "Robot Flock Navigating a 3D Obstacle Maze: A swarm of cylindrical ground robots moves across a raised maze platform with walls and ramps, flocking to stay together while individually avoiding obstacles, sometimes splitting into sub-swarms to find exits and rejoining near a glowing goal marker."
+    },
+    {
+      "number": "12",
+      "title": "Bird Murmuration Flowing Around Invisible Vortices",
+      "description": "Hundreds of small dark spheres form a large flock that continuously reshapes as it passes through a 3D field of invisible rotating vortices, visualized by faint transparent spirals that bend and twist the swarm’s path.",
+      "seed": "Bird Murmuration Flowing Around Invisible Vortices: Hundreds of small dark spheres form a large flock that continuously reshapes as it passes through a 3D field of invisible rotating vortices, visualized by faint transparent spirals that bend and twist the swarm’s path."
+    },
+    {
+      "number": "13",
+      "title": "Swarm of Particles Forming and Dissolving 3D Shapes",
+      "description": "A large swarm of tiny glowing dots flocks to outline simple 3D shapes (cube, sphere, letters), attaching briefly to virtual “shape skeletons,” then detaching, mixing, and re-forming into new shapes while leaving a shimmering trail.",
+      "seed": "Swarm of Particles Forming and Dissolving 3D Shapes: A large swarm of tiny glowing dots flocks to outline simple 3D shapes (cube, sphere, letters), attaching briefly to virtual “shape skeletons,” then detaching, mixing, and re-forming into new shapes while leaving a shimmering trail."
+    },
+    {
+      "number": "14",
+      "title": "Ant Colony Swarms Foraging on a 3D Terrain",
+      "description": "Small black spheres move as coordinated foraging swarms over a bumpy terrain surface, leaving and following pheromone trails drawn as thin, fading colored lines between a central nest and food piles that gradually shrink as ants attach, carry, and transfer “food.”",
+      "seed": "Ant Colony Swarms Foraging on a 3D Terrain: Small black spheres move as coordinated foraging swarms over a bumpy terrain surface, leaving and following pheromone trails drawn as thin, fading colored lines between a central nest and food piles that gradually shrink as ants attach, carry, and transfer “food.”"
+    },
+    {
+      "number": "15",
+      "title": "Swarming Rescue Drones Searching a Collapsed Building",
+      "description": "Small quadcopter-like objects flock through a partially collapsed, semi-transparent building model, splitting into search groups, marking found “victim” spheres with glowing beacons, then rejoining above a safe zone platform.",
+      "seed": "Swarming Rescue Drones Searching a Collapsed Building: Small quadcopter-like objects flock through a partially collapsed, semi-transparent building model, splitting into search groups, marking found “victim” spheres with glowing beacons, then rejoining above a safe zone platform."
+    },
+    {
+      "number": "16",
+      "title": "Swarm of Air Bubbles Rising and Flocking Around Columns",
+      "description": "Transparent spheres (bubbles) rise through a clear tank, flocking into columns as they pass around stationary vertical rods, occasionally merging into larger bubbles that rise faster and bounce gently from the water surface plane.",
+      "seed": "Swarm of Air Bubbles Rising and Flocking Around Columns: Transparent spheres (bubbles) rise through a clear tank, flocking into columns as they pass around stationary vertical rods, occasionally merging into larger bubbles that rise faster and bounce gently from the water surface plane."
+    },
+    {
+      "number": "17",
+      "title": "Data Packet Swarms Through a 3D Network",
+      "description": "Glowing spheres representing data packets swarm along semi-transparent tubes between network node boxes, dynamically rerouting, merging into thicker streams, and splitting into sub-swarms when congestion (red tube segments) appears.",
+      "seed": "Data Packet Swarms Through a 3D Network: Glowing spheres representing data packets swarm along semi-transparent tubes between network node boxes, dynamically rerouting, merging into thicker streams, and splitting into sub-swarms when congestion (red tube segments) appears."
+    },
+    {
+      "number": "18",
+      "title": "Starlings Flocking Around a Rotating Wind Turbine",
+      "description": "Bird-like arrows form a murmuration that flows around the spinning blades of a tall wind-turbine tower, avoiding collisions with the rotating blades, splitting into sub-flocks downwind, and leaving short curved trails against a light sky background.",
+      "seed": "Starlings Flocking Around a Rotating Wind Turbine: Bird-like arrows form a murmuration that flows around the spinning blades of a tall wind-turbine tower, avoiding collisions with the rotating blades, splitting into sub-flocks downwind, and leaving short curved trails against a light sky background."
+    },
+    {
+      "number": "19",
+      "title": "Swarm of Drones Painting a 3D Mural in the Air",
+      "description": "Small drones with color emitters flock in front of a large transparent wall, each leaving a colored trail as they move, collectively creating and erasing 3D patterns that gradually condense into a recognizable image, with labels showing “brush” drones vs “eraser” drones.",
+      "seed": "Swarm of Drones Painting a 3D Mural in the Air: Small drones with color emitters flock in front of a large transparent wall, each leaving a colored trail as they move, collectively creating and erasing 3D patterns that gradually condense into a recognizable image, with labels showing “brush” drones vs “eraser” drones."
+    },
+    {
+      "number": "20",
+      "title": "Flocking Pedestrians in a 3D Plaza with Obstacles",
+      "description": "Human-shaped cylinders move across a plaza plane, flocking in groups that split to avoid fountains and pillars, occasionally attaching as clusters around points of interest (statues), then detaching and rejoining the main flow, with overhead arrows showing crowd streamlines.",
+      "seed": "Flocking Pedestrians in a 3D Plaza with Obstacles: Human-shaped cylinders move across a plaza plane, flocking in groups that split to avoid fountains and pillars, occasionally attaching as clusters around points of interest (statues), then detaching and rejoining the main flow, with overhead arrows showing crowd streamlines."
+    },
+    {
+      "number": "21",
+      "title": "Swarm of Robots Assembling a 3D Structure",
+      "description": "Small cube robots flock from a depot platform to a construction area, picking up block pieces, avoiding each other, then attaching blocks in a coordinated lattice; completed sections glow faintly and a counter label tracks assembled parts.",
+      "seed": "Swarm of Robots Assembling a 3D Structure: Small cube robots flock from a depot platform to a construction area, picking up block pieces, avoiding each other, then attaching blocks in a coordinated lattice; completed sections glow faintly and a counter label tracks assembled parts."
+    },
+    {
+      "number": "22",
+      "title": "Flocking Drones Creating a Dynamic 3D Light Show",
+      "description": "Spherical drones with adjustable colors swarm above a flat stage plane, forming undulating ribbons and spirals in the air, synchronizing color pulses and occasionally collapsing into tight 3D clusters that then explode outward into new formations.",
+      "seed": "Flocking Drones Creating a Dynamic 3D Light Show: Spherical drones with adjustable colors swarm above a flat stage plane, forming undulating ribbons and spirals in the air, synchronizing color pulses and occasionally collapsing into tight 3D clusters that then explode outward into new formations."
+    },
+    {
+      "number": "23",
+      "title": "Plankton Swarm in an Ocean Current Field",
+      "description": "Tiny semi-transparent particles flock within a flowing 3D current field visualized by soft ribbons, clustering around moving nutrient patches and scattering when a large predator sphere sweeps through, then slowly re-condensing.",
+      "seed": "Plankton Swarm in an Ocean Current Field: Tiny semi-transparent particles flock within a flowing 3D current field visualized by soft ribbons, clustering around moving nutrient patches and scattering when a large predator sphere sweeps through, then slowly re-condensing."
+    },
+    {
+      "number": "24",
+      "title": "Magnetic Swarm of Iron Particles Around Moving Magnets",
+      "description": "Small metallic spheres swarm around one or more moving bar magnets, attaching in spiky chains along field lines, then detaching and re-flocking when the magnet position or polarity changes, with faint field lines drawn as curved, semi-transparent arcs.",
+      "seed": "Magnetic Swarm of Iron Particles Around Moving Magnets: Small metallic spheres swarm around one or more moving bar magnets, attaching in spiky chains along field lines, then detaching and re-flocking when the magnet position or polarity changes, with faint field lines drawn as curved, semi-transparent arcs."
+    },
+    {
+      "number": "25",
+      "title": "Emergency Vehicle Swarm Flocking Through 3D Traffic",
+      "description": "A group of glowing emergency vehicles flocks through dense, mostly stationary or slow-moving traffic boxes on layered roads, coordinating paths to weave, split, and rejoin while leaving bright trails that show their chosen routes.",
+      "seed": "Emergency Vehicle Swarm Flocking Through 3D Traffic: A group of glowing emergency vehicles flocks through dense, mostly stationary or slow-moving traffic boxes on layered roads, coordinating paths to weave, split, and rejoin while leaving bright trails that show their chosen routes."
+    }
+  ],
+  "raw_output": "Here are strong **Swarms and flocks simulation inputs** you can plug into your prompt:\n\n1. **Boids Flocking Around a Moving Obstacle Drone**\n   A swarm of small colored spheres uses flocking rules to follow a leader drone box that slowly weaves through space, avoiding and flowing around a larger transparent moving obstacle block, leaving faint motion trails and showing velocity vectors as arrows.\n\n2. **Predator–Prey Bird Flocks in a Sky Corridor**\n   Multiple flocks of bird-like arrows glide through a long, light-blue 3D corridor while a few larger red “hawk” cones chase them, causing the smaller flock members to split, re-merge, and occasionally collide with invisible boundaries that bounce them back.\n\n3. **School of Fish Swarming Around a Coral Pillar**\n   Dozens of small blue ellipsoids (fish) flock and swirl around a stationary, branching coral cylinder, occasionally tightening into dense balls when a larger predator fish sweeps through, with each fish leaving a short, fading trail in clear “water.”\n\n4. **Drone Swarm Mapping a 3D Building Interior**\n   A swarm of small cube drones with glowing tips spreads through the interior of a semi-transparent building shell, coordinating to scan different rooms, avoid collisions, attach to walls to “scan,” then detach and regroup, while a 3D minimap meter tracks coverage.\n\n5. **Firefly Swarm Synchronizing Blinks in a Forest Clearing**\n   Small glowing spheres drift above a flat grassy plane textured with tree trunks, slowly synchronizing their pulsing yellow light as they flock in loose clusters, with each light pulse briefly leaving a fading halo in the air.\n\n6. **Nanobot Swarm Repairing a Transparent 3D Cell**\n   Tiny metallic spheres swarm over the surface of a large transparent sphere representing a cell, flocking toward red “damage spots,” attaching to them, changing them to green “repaired” patches, then detaching and mixing back into the roaming swarm.\n\n7. **Traffic Flock: Autonomous Cars Swarming on Elevated Lanes**\n   Dozens of small car boxes flock along curved, elevated transparent roads, dynamically changing lanes to avoid collisions, merge and split at junctions, and adjust spacing like a 3D flock, with color changes indicating speed and small arrow labels showing flow direction.\n\n8. **Swarm of Satellites Flocking Around a Planet**\n   Small satellite boxes orbit a central textured planet sphere, coordinating to maintain even spacing and avoid collisions while occasionally reconfiguring into tighter or looser swarms, leaving orbital trails and drawing faint lines to show communication links.\n\n9. **Bee Swarm Around a Hive and Flower Patch**\n   Yellow-black spheres with short arrow “wings” flock between a central hive box and scattered colorful flower cones, attaching briefly to flowers to collect “pollen” (changing color), then returning in a dancing spiral swarm near the hive entrance.\n\n10. **Microscopic Bacteria Swarm Following Nutrient Plumes**\n    Tiny rod-shaped bacteria flock through a light, semi-transparent fluid volume toward moving, dissolving nutrient clouds, bouncing off a stationary glass wall and leaving faint chemical trails that slowly dissipate.\n\n11. **Robot Flock Navigating a 3D Obstacle Maze**\n    A swarm of cylindrical ground robots moves across a raised maze platform with walls and ramps, flocking to stay together while individually avoiding obstacles, sometimes splitting into sub-swarms to find exits and rejoining near a glowing goal marker.\n\n12. **Bird Murmuration Flowing Around Invisible Vortices**\n    Hundreds of small dark spheres form a large flock that continuously reshapes as it passes through a 3D field of invisible rotating vortices, visualized by faint transparent spirals that bend and twist the swarm’s path.\n\n13. **Swarm of Particles Forming and Dissolving 3D Shapes**\n    A large swarm of tiny glowing dots flocks to outline simple 3D shapes (cube, sphere, letters), attaching briefly to virtual “shape skeletons,” then detaching, mixing, and re-forming into new shapes while leaving a shimmering trail.\n\n14. **Ant Colony Swarms Foraging on a 3D Terrain**\n    Small black spheres move as coordinated foraging swarms over a bumpy terrain surface, leaving and following pheromone trails drawn as thin, fading colored lines between a central nest and food piles that gradually shrink as ants attach, carry, and transfer “food.”\n\n15. **Swarming Rescue Drones Searching a Collapsed Building**\n    Small quadcopter-like objects flock through a partially collapsed, semi-transparent building model, splitting into search groups, marking found “victim” spheres with glowing beacons, then rejoining above a safe zone platform.\n\n16. **Swarm of Air Bubbles Rising and Flocking Around Columns**\n    Transparent spheres (bubbles) rise through a clear tank, flocking into columns as they pass around stationary vertical rods, occasionally merging into larger bubbles that rise faster and bounce gently from the water surface plane.\n\n17. **Data Packet Swarms Through a 3D Network**\n    Glowing spheres representing data packets swarm along semi-transparent tubes between network node boxes, dynamically rerouting, merging into thicker streams, and splitting into sub-swarms when congestion (red tube segments) appears.\n\n18. **Starlings Flocking Around a Rotating Wind Turbine**\n    Bird-like arrows form a murmuration that flows around the spinning blades of a tall wind-turbine tower, avoiding collisions with the rotating blades, splitting into sub-flocks downwind, and leaving short curved trails against a light sky background.\n\n19. **Swarm of Drones Painting a 3D Mural in the Air**\n    Small drones with color emitters flock in front of a large transparent wall, each leaving a colored trail as they move, collectively creating and erasing 3D patterns that gradually condense into a recognizable image, with labels showing “brush” drones vs “eraser” drones.\n\n20. **Flocking Pedestrians in a 3D Plaza with Obstacles**\n    Human-shaped cylinders move across a plaza plane, flocking in groups that split to avoid fountains and pillars, occasionally attaching as clusters around points of interest (statues), then detaching and rejoining the main flow, with overhead arrows showing crowd streamlines.\n\n21. **Swarm of Robots Assembling a 3D Structure**\n    Small cube robots flock from a depot platform to a construction area, picking up block pieces, avoiding each other, then attaching blocks in a coordinated lattice; completed sections glow faintly and a counter label tracks assembled parts.\n\n22. **Flocking Drones Creating a Dynamic 3D Light Show**\n    Spherical drones with adjustable colors swarm above a flat stage plane, forming undulating ribbons and spirals in the air, synchronizing color pulses and occasionally collapsing into tight 3D clusters that then explode outward into new formations.\n\n23. **Plankton Swarm in an Ocean Current Field**\n    Tiny semi-transparent particles flock within a flowing 3D current field visualized by soft ribbons, clustering around moving nutrient patches and scattering when a large predator sphere sweeps through, then slowly re-condensing.\n\n24. **Magnetic Swarm of Iron Particles Around Moving Magnets**\n    Small metallic spheres swarm around one or more moving bar magnets, attaching in spiky chains along field lines, then detaching and re-flocking when the magnet position or polarity changes, with faint field lines drawn as curved, semi-transparent arcs.\n\n25. **Emergency Vehicle Swarm Flocking Through 3D Traffic**\n    A group of glowing emergency vehicles flocks through dense, mostly stationary or slow-moving traffic boxes on layered roads, coordinating paths to weave, split, and rejoin while leaving bright trails that show their chosen routes."
+}

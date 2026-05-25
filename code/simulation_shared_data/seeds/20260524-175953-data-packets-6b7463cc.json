@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Data packets",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:59:53",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Packet Highway Through Transparent Routers",
+      "description": "A stream of glowing spheres (data packets) of different colors flows along curved transparent tubes between box-shaped routers, where packets queue, split, merge, and sometimes collide or get dropped with fading trails and labels showing their IDs.",
+      "seed": "Packet Highway Through Transparent Routers: A stream of glowing spheres (data packets) of different colors flows along curved transparent tubes between box-shaped routers, where packets queue, split, merge, and sometimes collide or get dropped with fading trails and labels showing their IDs."
+    },
+    {
+      "number": "2",
+      "title": "3D Network Topology with Congestion Visualization",
+      "description": "A 3D lattice of stationary nodes (small labeled cubes) connected by semi-transparent edges carries packets (colored arrows) that move, slow down in congested links (color-shifting to red), reroute around failures, and leave faint trails that gradually dissipate.",
+      "seed": "3D Network Topology with Congestion Visualization: A 3D lattice of stationary nodes (small labeled cubes) connected by semi-transparent edges carries packets (colored arrows) that move, slow down in congested links (color-shifting to red), reroute around failures, and leave faint trails that gradually dissipate."
+    },
+    {
+      "number": "3",
+      "title": "Wireless Packet Cloud Around an Access Point",
+      "description": "A central antenna-like pole emits expanding spherical waves, and small packet orbs spawn from devices on the ground plane, hitch a ride on the waves, bounce off interference regions, and fade when successfully “received” at the access point, with signal strength shown by color.",
+      "seed": "Wireless Packet Cloud Around an Access Point: A central antenna-like pole emits expanding spherical waves, and small packet orbs spawn from devices on the ground plane, hitch a ride on the waves, bounce off interference regions, and fade when successfully “received” at the access point, with signal strength shown by color."
+    },
+    {
+      "number": "4",
+      "title": "Undersea Fiber Cable Packet Tunnel",
+      "description": "A long, semi-transparent undersea cable tube stretches between two shore stations on a light seabed, with packets as luminous pulses racing inside, reflecting off in-line repeaters, sometimes fragmenting on errors and reassembling at the endpoints, with tiny particle sparks for bit flips.",
+      "seed": "Undersea Fiber Cable Packet Tunnel: A long, semi-transparent undersea cable tube stretches between two shore stations on a light seabed, with packets as luminous pulses racing inside, reflecting off in-line repeaters, sometimes fragmenting on errors and reassembling at the endpoints, with tiny particle sparks for bit flips."
+    },
+    {
+      "number": "5",
+      "title": "Packet Swarm Through a Data Center Rack Maze",
+      "description": "Tall, stationary server racks form a 3D maze, while tiny glowing packet cubes navigate between them along invisible paths, occasionally colliding at intersections, queueing in front of server faces, and changing color as they get processed, cached, or dropped.",
+      "seed": "Packet Swarm Through a Data Center Rack Maze: Tall, stationary server racks form a 3D maze, while tiny glowing packet cubes navigate between them along invisible paths, occasionally colliding at intersections, queueing in front of server faces, and changing color as they get processed, cached, or dropped."
+    },
+    {
+      "number": "6",
+      "title": "Packet Collision Domain in a Shared Medium",
+      "description": "Several computers around a central hub send packet spheres along a common transparent tube segment, where simultaneous sends cause colliding packets to shatter into particles and back off (reverse and wait), while successful transmissions glide through, leaving colored trails.",
+      "seed": "Packet Collision Domain in a Shared Medium: Several computers around a central hub send packet spheres along a common transparent tube segment, where simultaneous sends cause colliding packets to shatter into particles and back off (reverse and wait), while successful transmissions glide through, leaving colored trails."
+    },
+    {
+      "number": "7",
+      "title": "3D Visualization of Packet Fragmentation and Reassembly",
+      "description": "Large rectangular “messages” enter a narrow transparent tunnel and split into smaller packet bricks that fly in staggered order, some getting lost and leaving ghost trails, while a reassembly buffer box at the far end gradually reconstructs the original message and discards timeouts.",
+      "seed": "3D Visualization of Packet Fragmentation and Reassembly: Large rectangular “messages” enter a narrow transparent tunnel and split into smaller packet bricks that fly in staggered order, some getting lost and leaving ghost trails, while a reassembly buffer box at the far end gradually reconstructs the original message and discards timeouts."
+    },
+    {
+      "number": "8",
+      "title": "Orbiting Satellite Packet Relay",
+      "description": "A rotating Earth sphere with a light atmosphere sits at the center, with satellites as small boxes orbiting and exchanging packet orbs between ground stations, showing handoffs as packets detach from one satellite’s trail and attach to another’s as they move in and out of coverage cones.",
+      "seed": "Orbiting Satellite Packet Relay: A rotating Earth sphere with a light atmosphere sits at the center, with satellites as small boxes orbiting and exchanging packet orbs between ground stations, showing handoffs as packets detach from one satellite’s trail and attach to another’s as they move in and out of coverage cones."
+    },
+    {
+      "number": "9",
+      "title": "Packet Routing in a 3D Mesh of Switches",
+      "description": "A cubic grid of switch nodes routes small arrow-shaped packets from random sources to destinations, with packets choosing paths that adapt to link failures (links briefly turning black and disappearing), while active paths glow brighter and display moving labels of hop counts.",
+      "seed": "Packet Routing in a 3D Mesh of Switches: A cubic grid of switch nodes routes small arrow-shaped packets from random sources to destinations, with packets choosing paths that adapt to link failures (links briefly turning black and disappearing), while active paths glow brighter and display moving labels of hop counts."
+    },
+    {
+      "number": "10",
+      "title": "Firewall Packet Filter Wall",
+      "description": "A vertical semi-transparent plane acts as a firewall, with incoming packets of various shapes and colors flying toward it; some pass through and change color, some bounce back, and some dissolve into particles on impact based on rules shown as floating labels on grid cells in the wall.",
+      "seed": "Firewall Packet Filter Wall: A vertical semi-transparent plane acts as a firewall, with incoming packets of various shapes and colors flying toward it; some pass through and change color, some bounce back, and some dissolve into particles on impact based on rules shown as floating labels on grid cells in the wall."
+    },
+    {
+      "number": "11",
+      "title": "Packet Flood Attack and Defense Visualization",
+      "description": "Normal packets travel calmly between a client and server across a node chain, then a sudden burst of red “attack” packets floods the links, overwhelming queues and causing normal packets to slow and drop, while a defense mechanism appears as expanding shields that absorb and neutralize red packets.",
+      "seed": "Packet Flood Attack and Defense Visualization: Normal packets travel calmly between a client and server across a node chain, then a sudden burst of red “attack” packets floods the links, overwhelming queues and causing normal packets to slow and drop, while a defense mechanism appears as expanding shields that absorb and neutralize red packets."
+    },
+    {
+      "number": "12",
+      "title": "Quality of Service Lanes for Packet Traffic",
+      "description": "A multi-lane elevated 3D “packet highway” shows different QoS classes as separate transparent lanes, with gold, silver, and blue packet spheres moving at different speeds, allowed to switch lanes at junctions, and lower-priority packets visibly pausing or being diverted around congested nodes.",
+      "seed": "Quality of Service Lanes for Packet Traffic: A multi-lane elevated 3D “packet highway” shows different QoS classes as separate transparent lanes, with gold, silver, and blue packet spheres moving at different speeds, allowed to switch lanes at junctions, and lower-priority packets visibly pausing or being diverted around congested nodes."
+    },
+    {
+      "number": "13",
+      "title": "Packet Life Cycle Inside a Single Router",
+      "description": "Open up a large transparent router box showing internal buffers, priority queues, and switching fabric where packets enter a port, get enqueued (stacked spheres), then routed across an internal rotating crossbar to exit ports, with dropped packets falling through the floor as fading ghosts.",
+      "seed": "Packet Life Cycle Inside a Single Router: Open up a large transparent router box showing internal buffers, priority queues, and switching fabric where packets enter a port, get enqueued (stacked spheres), then routed across an internal rotating crossbar to exit ports, with dropped packets falling through the floor as fading ghosts."
+    },
+    {
+      "number": "14",
+      "title": "Packet Encryption and Decryption Tunnel",
+      "description": "Packets enter a glowing encryption chamber where they wrap in semi-transparent shells that pulse with moving binary textures, then traverse a hostile zone with attacking “sniffer” probes that bounce off the shells, before being unwrapped in a decryption chamber back into plain, labeled packets.",
+      "seed": "Packet Encryption and Decryption Tunnel: Packets enter a glowing encryption chamber where they wrap in semi-transparent shells that pulse with moving binary textures, then traverse a hostile zone with attacking “sniffer” probes that bounce off the shells, before being unwrapped in a decryption chamber back into plain, labeled packets."
+    },
+    {
+      "number": "15",
+      "title": "Multicast Tree Packet Branching",
+      "description": "A root node at the top sends packets downward through a branching 3D tree of nodes; each packet clones itself at branch points to multiple children, with branches lighting up as packets pass, and leaf nodes showing reception counters as small vertical bars growing over time.",
+      "seed": "Multicast Tree Packet Branching: A root node at the top sends packets downward through a branching 3D tree of nodes; each packet clones itself at branch points to multiple children, with branches lighting up as packets pass, and leaf nodes showing reception counters as small vertical bars growing over time."
+    },
+    {
+      "number": "16",
+      "title": "Packet Loss in a Noisy Wireless Channel",
+      "description": "A transmitter and receiver face each other across a foggy volume of moving noise particles; packets as flying discs cross the space, some colliding with noise particles and dissolving, others making it through and turning green, with an adjustable “noise level” slider bar represented as a moving lever.",
+      "seed": "Packet Loss in a Noisy Wireless Channel: A transmitter and receiver face each other across a foggy volume of moving noise particles; packets as flying discs cross the space, some colliding with noise particles and dissolving, others making it through and turning green, with an adjustable “noise level” slider bar represented as a moving lever."
+    },
+    {
+      "number": "17",
+      "title": "Packet-Based Fluid Simulation in a Pipe Network",
+      "description": "A set of interconnected transparent pipes carries small droplet-like packets representing fluid chunks, which split at junctions, merge in wider pipes, bounce against closed valves, and change color when passing through mixing chambers, with overall flow rate shown as a bar chart hovering nearby.",
+      "seed": "Packet-Based Fluid Simulation in a Pipe Network: A set of interconnected transparent pipes carries small droplet-like packets representing fluid chunks, which split at junctions, merge in wider pipes, bounce against closed valves, and change color when passing through mixing chambers, with overall flow rate shown as a bar chart hovering nearby."
+    },
+    {
+      "number": "18",
+      "title": "3D Email Packet Journey Across the Globe",
+      "description": "A light-colored globe with raised continent outlines hosts mail servers as glowing towers; email packets launch from one city, hop between towers along curved arcs over the globe, pause at queues, and occasionally take detours around failing servers (towers dimming), with each hop labeled.",
+      "seed": "3D Email Packet Journey Across the Globe: A light-colored globe with raised continent outlines hosts mail servers as glowing towers; email packets launch from one city, hop between towers along curved arcs over the globe, pause at queues, and occasionally take detours around failing servers (towers dimming), with each hop labeled."
+    },
+    {
+      "number": "19",
+      "title": "Packet-Based Swarm Intelligence in a Grid",
+      "description": "A 3D grid floor holds food sources and a home node, while small drone bots move around leaving and following packet “pheromone” markers (tiny floating particles) that grow, fade, and diffuse, showing how data packets can encode path information for the swarm’s routing decisions.",
+      "seed": "Packet-Based Swarm Intelligence in a Grid: A 3D grid floor holds food sources and a home node, while small drone bots move around leaving and following packet “pheromone” markers (tiny floating particles) that grow, fade, and diffuse, showing how data packets can encode path information for the swarm’s routing decisions."
+    },
+    {
+      "number": "20",
+      "title": "Time-Synchronized Packet Bursts in an IoT Network",
+      "description": "Numerous tiny sensor nodes on a 3D terrain periodically flash and emit packet spheres that rise to a central gateway, with synchronized bursts shown as waves of packets traveling together, sometimes colliding and causing retries, and a time bar sweeping across to show slots.",
+      "seed": "Time-Synchronized Packet Bursts in an IoT Network: Numerous tiny sensor nodes on a 3D terrain periodically flash and emit packet spheres that rise to a central gateway, with synchronized bursts shown as waves of packets traveling together, sometimes colliding and causing retries, and a time bar sweeping across to show slots."
+    },
+    {
+      "number": "21",
+      "title": "Packet Queue Oscillations in a Network Link",
+      "description": "Two routers connected by a single link exchange packets while incoming rates vary; packets stack as vertical columns at the input buffers, occasionally overflowing and spilling packets off the edge, with link utilization indicated by the brightness and thickness of the connecting cylinder.",
+      "seed": "Packet Queue Oscillations in a Network Link: Two routers connected by a single link exchange packets while incoming rates vary; packets stack as vertical columns at the input buffers, occasionally overflowing and spilling packets off the edge, with link utilization indicated by the brightness and thickness of the connecting cylinder."
+    },
+    {
+      "number": "22",
+      "title": "Packet-Based File Transfer with Sliding Window",
+      "description": "A sender and receiver are connected by a line of equally spaced markers; numbered packet cubes flow forward, with a semi-transparent “window” box sliding over them to show which are in flight, and lost packets leaving empty slots that trigger retransmitted cubes with distinct colors.",
+      "seed": "Packet-Based File Transfer with Sliding Window: A sender and receiver are connected by a line of equally spaced markers; numbered packet cubes flow forward, with a semi-transparent “window” box sliding over them to show which are in flight, and lost packets leaving empty slots that trigger retransmitted cubes with distinct colors."
+    },
+    {
+      "number": "23",
+      "title": "3D Visualization of Packet Tunneling (VPN)",
+      "description": "Normal packets approach a gateway and are encapsulated into larger, differently colored shells that travel inside a semi-transparent tunnel tube through an untrusted region full of floating hazard shapes, then decapsulate at the far gateway back into their original small forms.",
+      "seed": "3D Visualization of Packet Tunneling (VPN): Normal packets approach a gateway and are encapsulated into larger, differently colored shells that travel inside a semi-transparent tunnel tube through an untrusted region full of floating hazard shapes, then decapsulate at the far gateway back into their original small forms."
+    },
+    {
+      "number": "24",
+      "title": "Packet-Based Load Balancing Across Multiple Servers",
+      "description": "An incoming packet stream hits a load balancer cube that rotates and flings packets toward one of several back-end server boxes, with packets clustering, bouncing between overloaded servers, and being re-routed as server utilization bars (floating above each server) grow and shrink.",
+      "seed": "Packet-Based Load Balancing Across Multiple Servers: An incoming packet stream hits a load balancer cube that rotates and flings packets toward one of several back-end server boxes, with packets clustering, bouncing between overloaded servers, and being re-routed as server utilization bars (floating above each server) grow and shrink."
+    },
+    {
+      "number": "25",
+      "title": "Error-Correcting Code Packets with Repair Blocks",
+      "description": "Groups of data packets travel together in small formations accompanied by parity packets; when a data packet collides with a noise block and dissolves, nearby parity packets detach, combine with remaining packets to reconstruct the missing one (a new packet appearing with a flash), while unrecoverable groups fade out.",
+      "seed": "Error-Correcting Code Packets with Repair Blocks: Groups of data packets travel together in small formations accompanied by parity packets; when a data packet collides with a noise block and dissolves, nearby parity packets detach, combine with remaining packets to reconstruct the missing one (a new packet appearing with a flash), while unrecoverable groups fade out."
+    }
+  ],
+  "raw_output": "Here are strong **Data packets simulation inputs** you can plug into your prompt:\n\n1. **Packet Highway Through Transparent Routers**\n   A stream of glowing spheres (data packets) of different colors flows along curved transparent tubes between box-shaped routers, where packets queue, split, merge, and sometimes collide or get dropped with fading trails and labels showing their IDs.\n\n2. **3D Network Topology with Congestion Visualization**\n   A 3D lattice of stationary nodes (small labeled cubes) connected by semi-transparent edges carries packets (colored arrows) that move, slow down in congested links (color-shifting to red), reroute around failures, and leave faint trails that gradually dissipate.\n\n3. **Wireless Packet Cloud Around an Access Point**\n   A central antenna-like pole emits expanding spherical waves, and small packet orbs spawn from devices on the ground plane, hitch a ride on the waves, bounce off interference regions, and fade when successfully “received” at the access point, with signal strength shown by color.\n\n4. **Undersea Fiber Cable Packet Tunnel**\n   A long, semi-transparent undersea cable tube stretches between two shore stations on a light seabed, with packets as luminous pulses racing inside, reflecting off in-line repeaters, sometimes fragmenting on errors and reassembling at the endpoints, with tiny particle sparks for bit flips.\n\n5. **Packet Swarm Through a Data Center Rack Maze**\n   Tall, stationary server racks form a 3D maze, while tiny glowing packet cubes navigate between them along invisible paths, occasionally colliding at intersections, queueing in front of server faces, and changing color as they get processed, cached, or dropped.\n\n6. **Packet Collision Domain in a Shared Medium**\n   Several computers around a central hub send packet spheres along a common transparent tube segment, where simultaneous sends cause colliding packets to shatter into particles and back off (reverse and wait), while successful transmissions glide through, leaving colored trails.\n\n7. **3D Visualization of Packet Fragmentation and Reassembly**\n   Large rectangular “messages” enter a narrow transparent tunnel and split into smaller packet bricks that fly in staggered order, some getting lost and leaving ghost trails, while a reassembly buffer box at the far end gradually reconstructs the original message and discards timeouts.\n\n8. **Orbiting Satellite Packet Relay**\n   A rotating Earth sphere with a light atmosphere sits at the center, with satellites as small boxes orbiting and exchanging packet orbs between ground stations, showing handoffs as packets detach from one satellite’s trail and attach to another’s as they move in and out of coverage cones.\n\n9. **Packet Routing in a 3D Mesh of Switches**\n   A cubic grid of switch nodes routes small arrow-shaped packets from random sources to destinations, with packets choosing paths that adapt to link failures (links briefly turning black and disappearing), while active paths glow brighter and display moving labels of hop counts.\n\n10. **Firewall Packet Filter Wall**\n   A vertical semi-transparent plane acts as a firewall, with incoming packets of various shapes and colors flying toward it; some pass through and change color, some bounce back, and some dissolve into particles on impact based on rules shown as floating labels on grid cells in the wall.\n\n11. **Packet Flood Attack and Defense Visualization**\n   Normal packets travel calmly between a client and server across a node chain, then a sudden burst of red “attack” packets floods the links, overwhelming queues and causing normal packets to slow and drop, while a defense mechanism appears as expanding shields that absorb and neutralize red packets.\n\n12. **Quality of Service Lanes for Packet Traffic**\n   A multi-lane elevated 3D “packet highway” shows different QoS classes as separate transparent lanes, with gold, silver, and blue packet spheres moving at different speeds, allowed to switch lanes at junctions, and lower-priority packets visibly pausing or being diverted around congested nodes.\n\n13. **Packet Life Cycle Inside a Single Router**\n   Open up a large transparent router box showing internal buffers, priority queues, and switching fabric where packets enter a port, get enqueued (stacked spheres), then routed across an internal rotating crossbar to exit ports, with dropped packets falling through the floor as fading ghosts.\n\n14. **Packet Encryption and Decryption Tunnel**\n   Packets enter a glowing encryption chamber where they wrap in semi-transparent shells that pulse with moving binary textures, then traverse a hostile zone with attacking “sniffer” probes that bounce off the shells, before being unwrapped in a decryption chamber back into plain, labeled packets.\n\n15. **Multicast Tree Packet Branching**\n   A root node at the top sends packets downward through a branching 3D tree of nodes; each packet clones itself at branch points to multiple children, with branches lighting up as packets pass, and leaf nodes showing reception counters as small vertical bars growing over time.\n\n16. **Packet Loss in a Noisy Wireless Channel**\n   A transmitter and receiver face each other across a foggy volume of moving noise particles; packets as flying discs cross the space, some colliding with noise particles and dissolving, others making it through and turning green, with an adjustable “noise level” slider bar represented as a moving lever.\n\n17. **Packet-Based Fluid Simulation in a Pipe Network**\n   A set of interconnected transparent pipes carries small droplet-like packets representing fluid chunks, which split at junctions, merge in wider pipes, bounce against closed valves, and change color when passing through mixing chambers, with overall flow rate shown as a bar chart hovering nearby.\n\n18. **3D Email Packet Journey Across the Globe**\n   A light-colored globe with raised continent outlines hosts mail servers as glowing towers; email packets launch from one city, hop between towers along curved arcs over the globe, pause at queues, and occasionally take detours around failing servers (towers dimming), with each hop labeled.\n\n19. **Packet-Based Swarm Intelligence in a Grid**\n   A 3D grid floor holds food sources and a home node, while small drone bots move around leaving and following packet “pheromone” markers (tiny floating particles) that grow, fade, and diffuse, showing how data packets can encode path information for the swarm’s routing decisions.\n\n20. **Time-Synchronized Packet Bursts in an IoT Network**\n   Numerous tiny sensor nodes on a 3D terrain periodically flash and emit packet spheres that rise to a central gateway, with synchronized bursts shown as waves of packets traveling together, sometimes colliding and causing retries, and a time bar sweeping across to show slots.\n\n21. **Packet Queue Oscillations in a Network Link**\n   Two routers connected by a single link exchange packets while incoming rates vary; packets stack as vertical columns at the input buffers, occasionally overflowing and spilling packets off the edge, with link utilization indicated by the brightness and thickness of the connecting cylinder.\n\n22. **Packet-Based File Transfer with Sliding Window**\n   A sender and receiver are connected by a line of equally spaced markers; numbered packet cubes flow forward, with a semi-transparent “window” box sliding over them to show which are in flight, and lost packets leaving empty slots that trigger retransmitted cubes with distinct colors.\n\n23. **3D Visualization of Packet Tunneling (VPN)**\n   Normal packets approach a gateway and are encapsulated into larger, differently colored shells that travel inside a semi-transparent tunnel tube through an untrusted region full of floating hazard shapes, then decapsulate at the far gateway back into their original small forms.\n\n24. **Packet-Based Load Balancing Across Multiple Servers**\n   An incoming packet stream hits a load balancer cube that rotates and flings packets toward one of several back-end server boxes, with packets clustering, bouncing between overloaded servers, and being re-routed as server utilization bars (floating above each server) grow and shrink.\n\n25. **Error-Correcting Code Packets with Repair Blocks**\n   Groups of data packets travel together in small formations accompanied by parity packets; when a data packet collides with a noise block and dissolves, nearby parity packets detach, combine with remaining packets to reconstruct the missing one (a new packet appearing with a flash), while unrecoverable groups fade out."
+}

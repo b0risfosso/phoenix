@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Vending machines",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:58:42",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Mechanical Vending Machine Cross-Section",
+      "description": "A transparent box shows a cutaway of a classic vending machine where color-coded cans slide along inclined racks, collide with spring arms, drop into a retrieval bin, and trigger rotating spirals and bouncing coins that transfer through labeled chutes and counters.",
+      "seed": "Mechanical Vending Machine Cross-Section: A transparent box shows a cutaway of a classic vending machine where color-coded cans slide along inclined racks, collide with spring arms, drop into a retrieval bin, and trigger rotating spirals and bouncing coins that transfer through labeled chutes and counters."
+    },
+    {
+      "number": "2",
+      "title": "Crowd Flow Around Multiple Vending Machines",
+      "description": "A row of vending machines stands stationary while simple human-shaped cylinders with trails walk up, queue, orbit around machines searching for options, collide gently when lines cross, and change color as virtual purchases transfer from machines to their hands.",
+      "seed": "Crowd Flow Around Multiple Vending Machines: A row of vending machines stands stationary while simple human-shaped cylinders with trails walk up, queue, orbit around machines searching for options, collide gently when lines cross, and change color as virtual purchases transfer from machines to their hands."
+    },
+    {
+      "number": "3",
+      "title": "Product Spiral Dynamics",
+      "description": "A close-up of several rotating spiral coils holding colored cylinders (snacks) that gradually creep forward when a motor axle rotates, causing products to detach, tumble, bounce on a padded ramp, and leave fading motion trails as they enter a transparent retrieval box.",
+      "seed": "Product Spiral Dynamics: A close-up of several rotating spiral coils holding colored cylinders (snacks) that gradually creep forward when a motor axle rotates, causing products to detach, tumble, bounce on a padded ramp, and leave fading motion trails as they enter a transparent retrieval box."
+    },
+    {
+      "number": "4",
+      "title": "Coin and Bill Validation System",
+      "description": "Inside a vending cabinet, coins roll down sloped transparent tracks and collide with gates that bounce them into accept or reject chutes, while rectangular bills slide through rollers, get scanned by glowing sensor beams, and either pass into a stacking cassette or are ejected back out.",
+      "seed": "Coin and Bill Validation System: Inside a vending cabinet, coins roll down sloped transparent tracks and collide with gates that bounce them into accept or reject chutes, while rectangular bills slide through rollers, get scanned by glowing sensor beams, and either pass into a stacking cassette or are ejected back out."
+    },
+    {
+      "number": "5",
+      "title": "Refrigerated Vending Temperature Gradient",
+      "description": "A vending machine interior shows shelves of bottles that slowly cool, with semi-transparent blue fog particles condensing around them, a visible temperature gradient color bar along the back wall, and a compressor box that pulsates and sends moving “cold” particles around a loop.",
+      "seed": "Refrigerated Vending Temperature Gradient: A vending machine interior shows shelves of bottles that slowly cool, with semi-transparent blue fog particles condensing around them, a visible temperature gradient color bar along the back wall, and a compressor box that pulsates and sends moving “cold” particles around a loop."
+    },
+    {
+      "number": "6",
+      "title": "Inventory Restocking Simulation",
+      "description": "A door swings open on hinges to reveal empty and full rows; a worker avatar moves colored boxes from a cart, attaches them to labeled shelf positions, slides them into place along rails, and occasionally drops items that bounce and roll on the floor before being picked up again.",
+      "seed": "Inventory Restocking Simulation: A door swings open on hinges to reveal empty and full rows; a worker avatar moves colored boxes from a cart, attaches them to labeled shelf positions, slides them into place along rails, and occasionally drops items that bounce and roll on the floor before being picked up again."
+    },
+    {
+      "number": "7",
+      "title": "Snack Stuck and Shake Event",
+      "description": "A single snack cylinder gets stuck between the spiral and glass, wobbling but not falling, while a user avatar rocks the entire vending cabinet causing it to tilt, vibrate, and transmit forces that make other products jostle, some detaching and bouncing into the retrieval area.",
+      "seed": "Snack Stuck and Shake Event: A single snack cylinder gets stuck between the spiral and glass, wobbling but not falling, while a user avatar rocks the entire vending cabinet causing it to tilt, vibrate, and transmit forces that make other products jostle, some detaching and bouncing into the retrieval area."
+    },
+    {
+      "number": "8",
+      "title": "Smart Vending Network with Data Flows",
+      "description": "Several vending machines stand in a grid, each with glowing colored outlines; when a customer buys an item, a bright particle stream shoots upward from that machine and travels through translucent cables to a central hub sphere, where data particles merge, branch, and update floating inventory meters above each machine.",
+      "seed": "Smart Vending Network with Data Flows: Several vending machines stand in a grid, each with glowing colored outlines; when a customer buys an item, a bright particle stream shoots upward from that machine and travels through translucent cables to a central hub sphere, where data particles merge, branch, and update floating inventory meters above each machine."
+    },
+    {
+      "number": "9",
+      "title": "Energy Consumption and Idle Modes",
+      "description": "A vending machine alternates between active (bright, animated lights and rotating product carousels) and idle (dim, slow-pulsing) states, with a floating energy meter bar that fills and empties as internal components (compressor, lights, motors) switch on and off with visual glow intensity.",
+      "seed": "Energy Consumption and Idle Modes: A vending machine alternates between active (bright, animated lights and rotating product carousels) and idle (dim, slow-pulsing) states, with a floating energy meter bar that fills and empties as internal components (compressor, lights, motors) switch on and off with visual glow intensity."
+    },
+    {
+      "number": "10",
+      "title": "3D Conveyor-Based Vending Carousel",
+      "description": "A cylindrical vending machine with a rotating transparent drum moves snacks on tiered conveyor belts that spiral upward and downward, allowing items to circulate, collide gently at merges, and be diverted by flaps into a central drop chute when selected.",
+      "seed": "3D Conveyor-Based Vending Carousel: A cylindrical vending machine with a rotating transparent drum moves snacks on tiered conveyor belts that spiral upward and downward, allowing items to circulate, collide gently at merges, and be diverted by flaps into a central drop chute when selected."
+    },
+    {
+      "number": "11",
+      "title": "Capsule Toy Vending Machine (Gachapon)",
+      "description": "Spherical capsules of varied colors roll inside a large clear globe, orbiting a central axis as it rotates; turning a crank rotates a helical track that guides one capsule at a time to drop, bounce through a zigzag ramp, and finally exit through a labeled dispenser door.",
+      "seed": "Capsule Toy Vending Machine (Gachapon): Spherical capsules of varied colors roll inside a large clear globe, orbiting a central axis as it rotates; turning a crank rotates a helical track that guides one capsule at a time to drop, bounce through a zigzag ramp, and finally exit through a labeled dispenser door."
+    },
+    {
+      "number": "12",
+      "title": "Multi-Product Gravity Feed System",
+      "description": "A tall, narrow vending channel shows stacked rectangular products sliding downward under gravity, with transparent walls and friction-adjustable rails; as items are dispensed they detach and fall while the rest shift, compress, and re-stack, with labels updating remaining counts on each column.",
+      "seed": "Multi-Product Gravity Feed System: A tall, narrow vending channel shows stacked rectangular products sliding downward under gravity, with transparent walls and friction-adjustable rails; as items are dispensed they detach and fall while the rest shift, compress, and re-stack, with labels updating remaining counts on each column."
+    },
+    {
+      "number": "13",
+      "title": "Microscopic Vending at the Cellular Level",
+      "description": "A giant stylized “cell vending machine” membrane sits in fluid, with spherical nutrient particles drifting by; receptor “slots” selectively attach, scan, and pull in matching particles, which then detach and travel along glowing cytoplasmic tracks to labeled organelles, while rejected particles bounce away.",
+      "seed": "Microscopic Vending at the Cellular Level: A giant stylized “cell vending machine” membrane sits in fluid, with spherical nutrient particles drifting by; receptor “slots” selectively attach, scan, and pull in matching particles, which then detach and travel along glowing cytoplasmic tracks to labeled organelles, while rejected particles bounce away."
+    },
+    {
+      "number": "14",
+      "title": "Robotic Arm Vending Selector",
+      "description": "Inside a large transparent vending cube, a multi-jointed robotic arm glides along rails, rotates joints, and uses a claw to grab specific colored boxes from shelves, sometimes dropping them and trying again, then transferring them into a chute as path trails and joint angles are visualized with glowing lines.",
+      "seed": "Robotic Arm Vending Selector: Inside a large transparent vending cube, a multi-jointed robotic arm glides along rails, rotates joints, and uses a claw to grab specific colored boxes from shelves, sometimes dropping them and trying again, then transferring them into a chute as path trails and joint angles are visualized with glowing lines."
+    },
+    {
+      "number": "15",
+      "title": "Vending Machine Theft and Impact Test",
+      "description": "A vending machine is repeatedly struck by rolling spheres of different mass and velocity that collide with its sides, causing it to rock, slide on the floor, and occasionally tip, while internal products shake, detach from shelves, and bounce, with force arrows and labels showing impact magnitudes.",
+      "seed": "Vending Machine Theft and Impact Test: A vending machine is repeatedly struck by rolling spheres of different mass and velocity that collide with its sides, causing it to rock, slide on the floor, and occasionally tip, while internal products shake, detach from shelves, and bounce, with force arrows and labels showing impact magnitudes."
+    },
+    {
+      "number": "16",
+      "title": "Waste and Recycling from Vended Products",
+      "description": "Users collect bottles from vending machines, then walk to nearby recycling and trash bins; thrown bottles follow parabolic arcs, collide with bin rims, bounce or fall in, and then transparent bins show filling levels, with color-coded particles representing recyclable and non-recyclable materials mixing or separating.",
+      "seed": "Waste and Recycling from Vended Products: Users collect bottles from vending machines, then walk to nearby recycling and trash bins; thrown bottles follow parabolic arcs, collide with bin rims, bounce or fall in, and then transparent bins show filling levels, with color-coded particles representing recyclable and non-recyclable materials mixing or separating."
+    },
+    {
+      "number": "17",
+      "title": "Dynamic Pricing Display and Demand Waves",
+      "description": "Several vending machines change the color of their price labels based on time of day and purchase frequency; when prices drop, more customer avatars orbit toward that machine leaving trails, and glowing “demand waves” propagate across the floor between machines showing shifting popularity.",
+      "seed": "Dynamic Pricing Display and Demand Waves: Several vending machines change the color of their price labels based on time of day and purchase frequency; when prices drop, more customer avatars orbit toward that machine leaving trails, and glowing “demand waves” propagate across the floor between machines showing shifting popularity."
+    },
+    {
+      "number": "18",
+      "title": "Snack Mixing and Custom-Blend Vending",
+      "description": "A special vending machine with multiple transparent ingredient canisters drops colored granules or small spheres into a mixing chamber when selected; ingredients fall, collide, mix, and bounce, then a rotating paddle stirs them into a swirling blend that pours into a cup with a fading color trail.",
+      "seed": "Snack Mixing and Custom-Blend Vending: A special vending machine with multiple transparent ingredient canisters drops colored granules or small spheres into a mixing chamber when selected; ingredients fall, collide, mix, and bounce, then a rotating paddle stirs them into a swirling blend that pours into a cup with a fading color trail."
+    },
+    {
+      "number": "19",
+      "title": "3D Spiral Tower Vending Maze",
+      "description": "A tower-shaped vending machine contains a helical ramp where small product spheres roll downward; movable gates and rotating arms redirect them onto alternate paths, with collisions, merges, and splits in the routes, and labels showing which path leads to which “flavor zone” exits at the base.",
+      "seed": "3D Spiral Tower Vending Maze: A tower-shaped vending machine contains a helical ramp where small product spheres roll downward; movable gates and rotating arms redirect them onto alternate paths, with collisions, merges, and splits in the routes, and labels showing which path leads to which “flavor zone” exits at the base."
+    },
+    {
+      "number": "20",
+      "title": "Solar-Powered Outdoor Vending System",
+      "description": "A vending machine stands under a tilting solar panel array that slowly rotates to track a moving sun sphere; bright energy particles travel from panels to the machine, charging a visible battery bar, while internal lights and cooling strength pulse based on available stored energy.",
+      "seed": "Solar-Powered Outdoor Vending System: A vending machine stands under a tilting solar panel array that slowly rotates to track a moving sun sphere; bright energy particles travel from panels to the machine, charging a visible battery bar, while internal lights and cooling strength pulse based on available stored energy."
+    },
+    {
+      "number": "21",
+      "title": "Underwater Vending Machine Experiment",
+      "description": "A transparent vending box is submerged in a water tank with floating snack capsules; when dispensed, capsules rise or sink depending on buoyancy, leaving bubble trails, bouncing off tank walls, and occasionally attaching to floating rings or currents created by a rotating propeller.",
+      "seed": "Underwater Vending Machine Experiment: A transparent vending box is submerged in a water tank with floating snack capsules; when dispensed, capsules rise or sink depending on buoyancy, leaving bubble trails, bouncing off tank walls, and occasionally attaching to floating rings or currents created by a rotating propeller."
+    },
+    {
+      "number": "22",
+      "title": "Time-Lapse Wear and Tear of a Vending Machine",
+      "description": "The same machine is shown over accelerated time: colors fade, buttons get darker and more worn, a thin layer of dust particles accumulates and then is partially wiped by passing avatars, while internal springs and motors gradually slow, with a health meter that decays and can be partially restored by “maintenance” events.",
+      "seed": "Time-Lapse Wear and Tear of a Vending Machine: The same machine is shown over accelerated time: colors fade, buttons get darker and more worn, a thin layer of dust particles accumulates and then is partially wiped by passing avatars, while internal springs and motors gradually slow, with a health meter that decays and can be partially restored by “maintenance” events."
+    },
+    {
+      "number": "23",
+      "title": "Interactive Touchscreen Selection Map",
+      "description": "A vending machine front has a large vertical touchscreen with floating product icons that drift, collide softly, and re-arrange; a finger-like cursor cylinder moves, taps items, triggering them to glow, pulse, and send a colored selection beam into the machine’s interior where the corresponding shelf lights up and dispenses.",
+      "seed": "Interactive Touchscreen Selection Map: A vending machine front has a large vertical touchscreen with floating product icons that drift, collide softly, and re-arrange; a finger-like cursor cylinder moves, taps items, triggering them to glow, pulse, and send a colored selection beam into the machine’s interior where the corresponding shelf lights up and dispenses."
+    },
+    {
+      "number": "24",
+      "title": "Automated Warehouse Feeding Vending Machines",
+      "description": "An overhead rail system carries pallets of product boxes that orbit around a warehouse and detach above individual vending machines, dropping and bouncing lightly on top; a mini elevator inside each machine lifts boxes down into storage racks, with arrows and labels showing stock transfers and remaining capacity.",
+      "seed": "Automated Warehouse Feeding Vending Machines: An overhead rail system carries pallets of product boxes that orbit around a warehouse and detach above individual vending machines, dropping and bouncing lightly on top; a mini elevator inside each machine lifts boxes down into storage racks, with arrows and labels showing stock transfers and remaining capacity."
+    },
+    {
+      "number": "25",
+      "title": "Symbolic Economy of Competing Vending Brands",
+      "description": "Two differently colored vending machines on opposite sides of a plaza emit faint attraction fields visualized as semi-transparent domes; customer avatars within these fields bend their paths toward one or the other, leaving colored trails that gradually thicken where traffic is heavier, while glowing “loyalty” particles drift and attach to each machine.",
+      "seed": "Symbolic Economy of Competing Vending Brands: Two differently colored vending machines on opposite sides of a plaza emit faint attraction fields visualized as semi-transparent domes; customer avatars within these fields bend their paths toward one or the other, leaving colored trails that gradually thicken where traffic is heavier, while glowing “loyalty” particles drift and attach to each machine."
+    }
+  ],
+  "raw_output": "Here are strong **Vending machines simulation inputs** you can plug into your prompt:\n\n1. **Mechanical Vending Machine Cross-Section**\n   A transparent box shows a cutaway of a classic vending machine where color-coded cans slide along inclined racks, collide with spring arms, drop into a retrieval bin, and trigger rotating spirals and bouncing coins that transfer through labeled chutes and counters.\n\n2. **Crowd Flow Around Multiple Vending Machines**\n   A row of vending machines stands stationary while simple human-shaped cylinders with trails walk up, queue, orbit around machines searching for options, collide gently when lines cross, and change color as virtual purchases transfer from machines to their hands.\n\n3. **Product Spiral Dynamics**\n   A close-up of several rotating spiral coils holding colored cylinders (snacks) that gradually creep forward when a motor axle rotates, causing products to detach, tumble, bounce on a padded ramp, and leave fading motion trails as they enter a transparent retrieval box.\n\n4. **Coin and Bill Validation System**\n   Inside a vending cabinet, coins roll down sloped transparent tracks and collide with gates that bounce them into accept or reject chutes, while rectangular bills slide through rollers, get scanned by glowing sensor beams, and either pass into a stacking cassette or are ejected back out.\n\n5. **Refrigerated Vending Temperature Gradient**\n   A vending machine interior shows shelves of bottles that slowly cool, with semi-transparent blue fog particles condensing around them, a visible temperature gradient color bar along the back wall, and a compressor box that pulsates and sends moving “cold” particles around a loop.\n\n6. **Inventory Restocking Simulation**\n   A door swings open on hinges to reveal empty and full rows; a worker avatar moves colored boxes from a cart, attaches them to labeled shelf positions, slides them into place along rails, and occasionally drops items that bounce and roll on the floor before being picked up again.\n\n7. **Snack Stuck and Shake Event**\n   A single snack cylinder gets stuck between the spiral and glass, wobbling but not falling, while a user avatar rocks the entire vending cabinet causing it to tilt, vibrate, and transmit forces that make other products jostle, some detaching and bouncing into the retrieval area.\n\n8. **Smart Vending Network with Data Flows**\n   Several vending machines stand in a grid, each with glowing colored outlines; when a customer buys an item, a bright particle stream shoots upward from that machine and travels through translucent cables to a central hub sphere, where data particles merge, branch, and update floating inventory meters above each machine.\n\n9. **Energy Consumption and Idle Modes**\n   A vending machine alternates between active (bright, animated lights and rotating product carousels) and idle (dim, slow-pulsing) states, with a floating energy meter bar that fills and empties as internal components (compressor, lights, motors) switch on and off with visual glow intensity.\n\n10. **3D Conveyor-Based Vending Carousel**\n    A cylindrical vending machine with a rotating transparent drum moves snacks on tiered conveyor belts that spiral upward and downward, allowing items to circulate, collide gently at merges, and be diverted by flaps into a central drop chute when selected.\n\n11. **Capsule Toy Vending Machine (Gachapon)**\n    Spherical capsules of varied colors roll inside a large clear globe, orbiting a central axis as it rotates; turning a crank rotates a helical track that guides one capsule at a time to drop, bounce through a zigzag ramp, and finally exit through a labeled dispenser door.\n\n12. **Multi-Product Gravity Feed System**\n    A tall, narrow vending channel shows stacked rectangular products sliding downward under gravity, with transparent walls and friction-adjustable rails; as items are dispensed they detach and fall while the rest shift, compress, and re-stack, with labels updating remaining counts on each column.\n\n13. **Microscopic Vending at the Cellular Level**\n    A giant stylized “cell vending machine” membrane sits in fluid, with spherical nutrient particles drifting by; receptor “slots” selectively attach, scan, and pull in matching particles, which then detach and travel along glowing cytoplasmic tracks to labeled organelles, while rejected particles bounce away.\n\n14. **Robotic Arm Vending Selector**\n    Inside a large transparent vending cube, a multi-jointed robotic arm glides along rails, rotates joints, and uses a claw to grab specific colored boxes from shelves, sometimes dropping them and trying again, then transferring them into a chute as path trails and joint angles are visualized with glowing lines.\n\n15. **Vending Machine Theft and Impact Test**\n    A vending machine is repeatedly struck by rolling spheres of different mass and velocity that collide with its sides, causing it to rock, slide on the floor, and occasionally tip, while internal products shake, detach from shelves, and bounce, with force arrows and labels showing impact magnitudes.\n\n16. **Waste and Recycling from Vended Products**\n    Users collect bottles from vending machines, then walk to nearby recycling and trash bins; thrown bottles follow parabolic arcs, collide with bin rims, bounce or fall in, and then transparent bins show filling levels, with color-coded particles representing recyclable and non-recyclable materials mixing or separating.\n\n17. **Dynamic Pricing Display and Demand Waves**\n    Several vending machines change the color of their price labels based on time of day and purchase frequency; when prices drop, more customer avatars orbit toward that machine leaving trails, and glowing “demand waves” propagate across the floor between machines showing shifting popularity.\n\n18. **Snack Mixing and Custom-Blend Vending**\n    A special vending machine with multiple transparent ingredient canisters drops colored granules or small spheres into a mixing chamber when selected; ingredients fall, collide, mix, and bounce, then a rotating paddle stirs them into a swirling blend that pours into a cup with a fading color trail.\n\n19. **3D Spiral Tower Vending Maze**\n    A tower-shaped vending machine contains a helical ramp where small product spheres roll downward; movable gates and rotating arms redirect them onto alternate paths, with collisions, merges, and splits in the routes, and labels showing which path leads to which “flavor zone” exits at the base.\n\n20. **Solar-Powered Outdoor Vending System**\n    A vending machine stands under a tilting solar panel array that slowly rotates to track a moving sun sphere; bright energy particles travel from panels to the machine, charging a visible battery bar, while internal lights and cooling strength pulse based on available stored energy.\n\n21. **Underwater Vending Machine Experiment**\n    A transparent vending box is submerged in a water tank with floating snack capsules; when dispensed, capsules rise or sink depending on buoyancy, leaving bubble trails, bouncing off tank walls, and occasionally attaching to floating rings or currents created by a rotating propeller.\n\n22. **Time-Lapse Wear and Tear of a Vending Machine**\n    The same machine is shown over accelerated time: colors fade, buttons get darker and more worn, a thin layer of dust particles accumulates and then is partially wiped by passing avatars, while internal springs and motors gradually slow, with a health meter that decays and can be partially restored by “maintenance” events.\n\n23. **Interactive Touchscreen Selection Map**\n    A vending machine front has a large vertical touchscreen with floating product icons that drift, collide softly, and re-arrange; a finger-like cursor cylinder moves, taps items, triggering them to glow, pulse, and send a colored selection beam into the machine’s interior where the corresponding shelf lights up and dispenses.\n\n24. **Automated Warehouse Feeding Vending Machines**\n    An overhead rail system carries pallets of product boxes that orbit around a warehouse and detach above individual vending machines, dropping and bouncing lightly on top; a mini elevator inside each machine lifts boxes down into storage racks, with arrows and labels showing stock transfers and remaining capacity.\n\n25. **Symbolic Economy of Competing Vending Brands**\n    Two differently colored vending machines on opposite sides of a plaza emit faint attraction fields visualized as semi-transparent domes; customer avatars within these fields bend their paths toward one or the other, leaving colored trails that gradually thicken where traffic is heavier, while glowing “loyalty” particles drift and attach to each machine."
+}

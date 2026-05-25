@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Gels and foams",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:43:47",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Bubble Column in a Transparent Gel Tank",
+      "description": "A tall clear cylinder of viscous gel contains rising air bubbles that split, merge, and stick to embedded colored beads, with trails, labels for bubble size, and a side meter tracking gas volume fraction.",
+      "seed": "Bubble Column in a Transparent Gel Tank: A tall clear cylinder of viscous gel contains rising air bubbles that split, merge, and stick to embedded colored beads, with trails, labels for bubble size, and a side meter tracking gas volume fraction."
+    },
+    {
+      "number": "2",
+      "title": "Expanding Shaving Foam Blob on a Plate",
+      "description": "A white foam hemisphere grows from a nozzle onto a flat plate, its surface pulsing and spawning small bubbles that detach, roll, and pop, leaving wet gel streaks and height markers around the base.",
+      "seed": "Expanding Shaving Foam Blob on a Plate: A white foam hemisphere grows from a nozzle onto a flat plate, its surface pulsing and spawning small bubbles that detach, roll, and pop, leaving wet gel streaks and height markers around the base."
+    },
+    {
+      "number": "3",
+      "title": "Gel Droplets Falling into a Foam Bath",
+      "description": "Colored gel droplets fall from a dispenser into a shallow tray of foam, deforming and bouncing on impact, then slowly sinking, dissolving dye that spreads as colored clouds through the foam structure.",
+      "seed": "Gel Droplets Falling into a Foam Bath: Colored gel droplets fall from a dispenser into a shallow tray of foam, deforming and bouncing on impact, then slowly sinking, dissolving dye that spreads as colored clouds through the foam structure."
+    },
+    {
+      "number": "4",
+      "title": "Sheared Gel Between Sliding Plates",
+      "description": "A rectangular slab of semi-transparent gel is sandwiched between two plates; the top plate slowly slides, causing embedded tracer particles and filaments to bend, stretch, and relax with color-coded strain.",
+      "seed": "Sheared Gel Between Sliding Plates: A rectangular slab of semi-transparent gel is sandwiched between two plates; the top plate slowly slides, causing embedded tracer particles and filaments to bend, stretch, and relax with color-coded strain."
+    },
+    {
+      "number": "5",
+      "title": "Foam Bubbles Compressing and Rebounding in a Piston",
+      "description": "A vertical cylinder filled with foam is compressed and released by a moving piston, with individual bubbles flattening, merging, and then rebounding, while a pressure gauge and color-coded stress regions update.",
+      "seed": "Foam Bubbles Compressing and Rebounding in a Piston: A vertical cylinder filled with foam is compressed and released by a moving piston, with individual bubbles flattening, merging, and then rebounding, while a pressure gauge and color-coded stress regions update."
+    },
+    {
+      "number": "6",
+      "title": "Gel Beads Diffusing Dye in a Clear Bath",
+      "description": "Multiple soft gel spheres float in a clear fluid, each loaded with a different colored dye that slowly diffuses out, forming overlapping colored halos and concentration-contour labels around each bead.",
+      "seed": "Gel Beads Diffusing Dye in a Clear Bath: Multiple soft gel spheres float in a clear fluid, each loaded with a different colored dye that slowly diffuses out, forming overlapping colored halos and concentration-contour labels around each bead."
+    },
+    {
+      "number": "7",
+      "title": "Wave Propagation Through a Foam Block",
+      "description": "A rectangular foam block is struck on one side by a moving hammer, and a compressive wave travels through as layers of cells sequentially compress, glow, and rebound, with a side panel graphing displacement over time.",
+      "seed": "Wave Propagation Through a Foam Block: A rectangular foam block is struck on one side by a moving hammer, and a compressive wave travels through as layers of cells sequentially compress, glow, and rebound, with a side panel graphing displacement over time."
+    },
+    {
+      "number": "8",
+      "title": "Gelatin Cube Dropped onto a Rigid Floor",
+      "description": "A jiggling translucent cube of “gelatin” is dropped onto a flat surface, wobbling, squashing, and bouncing repeatedly, with corner markers and trails showing the oscillation of its vertices.",
+      "seed": "Gelatin Cube Dropped onto a Rigid Floor: A jiggling translucent cube of “gelatin” is dropped onto a flat surface, wobbling, squashing, and bouncing repeatedly, with corner markers and trails showing the oscillation of its vertices."
+    },
+    {
+      "number": "9",
+      "title": "Rising Foam Head in a Carbonated Gel Drink",
+      "description": "A cylindrical glass is filled with a slightly viscous, transparent drink seeded with gas nuclei that nucleate bubbles, rise, and create a growing foam cap, while dissolved gas concentration is visualized as a color gradient.",
+      "seed": "Rising Foam Head in a Carbonated Gel Drink: A cylindrical glass is filled with a slightly viscous, transparent drink seeded with gas nuclei that nucleate bubbles, rise, and create a growing foam cap, while dissolved gas concentration is visualized as a color gradient."
+    },
+    {
+      "number": "10",
+      "title": "Cell-Like Gel Droplets Merging and Dividing",
+      "description": "Soft spherical gel “cells” float in a fluid, slowly drifting, colliding, and either merging into larger droplets or splitting into two, with glowing outlines showing membrane tension and labels showing volume conservation.",
+      "seed": "Cell-Like Gel Droplets Merging and Dividing: Soft spherical gel “cells” float in a fluid, slowly drifting, colliding, and either merging into larger droplets or splitting into two, with glowing outlines showing membrane tension and labels showing volume conservation."
+    },
+    {
+      "number": "11",
+      "title": "Foam Flowing Through a Narrow Channel Maze",
+      "description": "A colored foam front advances through a transparent, branching channel network, with bubbles squeezing through constrictions, leaving thin films behind, and flow direction indicated by arrows and bubble trails.",
+      "seed": "Foam Flowing Through a Narrow Channel Maze: A colored foam front advances through a transparent, branching channel network, with bubbles squeezing through constrictions, leaving thin films behind, and flow direction indicated by arrows and bubble trails."
+    },
+    {
+      "number": "12",
+      "title": "Soft Gel Particles in a Rotating Drum Mixer",
+      "description": "A light-colored rotating drum contains many soft gel spheres and a sprinkling of dry powder; as the drum turns, spheres tumble, collide, pick up powder, and occasionally stick together, forming clumps with changing colors.",
+      "seed": "Soft Gel Particles in a Rotating Drum Mixer: A light-colored rotating drum contains many soft gel spheres and a sprinkling of dry powder; as the drum turns, spheres tumble, collide, pick up powder, and occasionally stick together, forming clumps with changing colors."
+    },
+    {
+      "number": "13",
+      "title": "Impact of a Droplet on a Gel Surface",
+      "description": "A single liquid droplet falls onto a flat gel slab, creating a spreading dimple and oscillating ripples in the gel, while the droplet partially penetrates, splits, and leaves a colored wet region that slowly shrinks.",
+      "seed": "Impact of a Droplet on a Gel Surface: A single liquid droplet falls onto a flat gel slab, creating a spreading dimple and oscillating ripples in the gel, while the droplet partially penetrates, splits, and leaves a colored wet region that slowly shrinks."
+    },
+    {
+      "number": "14",
+      "title": "Foam Insulation Expanding in a Wall Cavity",
+      "description": "A wall-like box cavity is slowly filled from one side with expanding foam, which creeps, branches into gaps, and pushes around stationary obstacles, with color indicating local density and labels for filled volume.",
+      "seed": "Foam Insulation Expanding in a Wall Cavity: A wall-like box cavity is slowly filled from one side with expanding foam, which creeps, branches into gaps, and pushes around stationary obstacles, with color indicating local density and labels for filled volume."
+    },
+    {
+      "number": "15",
+      "title": "Gel Strand Stretching and Breaking Between Two Grippers",
+      "description": "A cylindrical gel strand is held between two clamps that move apart, stretching the strand thinner until it necks and snaps, with stress visualized by changing color and particle tracers marking flow inside the strand.",
+      "seed": "Gel Strand Stretching and Breaking Between Two Grippers: A cylindrical gel strand is held between two clamps that move apart, stretching the strand thinner until it necks and snaps, with stress visualized by changing color and particle tracers marking flow inside the strand."
+    },
+    {
+      "number": "16",
+      "title": "Seafoam Rolling onto a Sandy Shoreline",
+      "description": "A shallow water plane carries a band of white foam that rolls and breaks on a sloped beach, leaving behind fading foam patches and moist, darker sand regions, with small shells acting as stationary obstacles.",
+      "seed": "Seafoam Rolling onto a Sandy Shoreline: A shallow water plane carries a band of white foam that rolls and breaks on a sloped beach, leaving behind fading foam patches and moist, darker sand regions, with small shells acting as stationary obstacles."
+    },
+    {
+      "number": "17",
+      "title": "Viscoelastic Gel Pendulum with Damped Oscillations",
+      "description": "A weight is attached to a ceiling by a thick gel rod; when pulled and released, the mass swings and twists, while the gel rod stretches and slowly relaxes, with a trail and graph tracking amplitude decay over time.",
+      "seed": "Viscoelastic Gel Pendulum with Damped Oscillations: A weight is attached to a ceiling by a thick gel rod; when pulled and released, the mass swings and twists, while the gel rod stretches and slowly relaxes, with a trail and graph tracking amplitude decay over time."
+    },
+    {
+      "number": "18",
+      "title": "Foam Bubbles Draining Under Gravity",
+      "description": "A vertical column of foam slowly drains as liquid films thin and trickle down; film thickness is color-coded, top bubbles shrink and pop, and a reservoir at the bottom fills with clarified liquid.",
+      "seed": "Foam Bubbles Draining Under Gravity: A vertical column of foam slowly drains as liquid films thin and trickle down; film thickness is color-coded, top bubbles shrink and pop, and a reservoir at the bottom fills with clarified liquid."
+    },
+    {
+      "number": "19",
+      "title": "Gel-Based Shock Absorber Under Repeated Impacts",
+      "description": "A falling mass repeatedly hits a gel-filled cylinder; the gel deforms, transfers momentum, and gradually returns to shape, while temperature or “energy” is shown as a dynamic color map and cumulative energy is graphed.",
+      "seed": "Gel-Based Shock Absorber Under Repeated Impacts: A falling mass repeatedly hits a gel-filled cylinder; the gel deforms, transfers momentum, and gradually returns to shape, while temperature or “energy” is shown as a dynamic color map and cumulative energy is graphed."
+    },
+    {
+      "number": "20",
+      "title": "Foam Packing Around Fragile Objects in a Box",
+      "description": "Several rigid fragile objects sit in a transparent box while injected foam grows around them, filling gaps and exerting gentle pressure; contact forces are shown as colored halos at object–foam interfaces.",
+      "seed": "Foam Packing Around Fragile Objects in a Box: Several rigid fragile objects sit in a transparent box while injected foam grows around them, filling gaps and exerting gentle pressure; contact forces are shown as colored halos at object–foam interfaces."
+    },
+    {
+      "number": "21",
+      "title": "Gel Droplets Coalescing on a Sloped Surface",
+      "description": "Many small gel droplets slide slowly down a slightly inclined plate, merging when they collide into larger blobs that deform, leave thin streaks, and eventually form a single large drop at the bottom edge.",
+      "seed": "Gel Droplets Coalescing on a Sloped Surface: Many small gel droplets slide slowly down a slightly inclined plate, merging when they collide into larger blobs that deform, leave thin streaks, and eventually form a single large drop at the bottom edge."
+    },
+    {
+      "number": "22",
+      "title": "Soap Foam Bubbles Orbiting and Attaching to a Central Sphere",
+      "description": "A central large sphere represents a droplet, with smaller foam bubbles orbiting, colliding, and sticking to it to form a multilayer foam shell, while connecting films appear as thin, lightly colored triangular patches.",
+      "seed": "Soap Foam Bubbles Orbiting and Attaching to a Central Sphere: A central large sphere represents a droplet, with smaller foam bubbles orbiting, colliding, and sticking to it to form a multilayer foam shell, while connecting films appear as thin, lightly colored triangular patches."
+    },
+    {
+      "number": "23",
+      "title": "Gelatinous Planet with Bubbling Foam Atmosphere",
+      "description": "A semi-transparent, wobbling gel “planet” hangs in space, with a thin foam layer around its equator where bubbles orbit, merge, and pop, and small satellites occasionally collide and stick to the gel surface.",
+      "seed": "Gelatinous Planet with Bubbling Foam Atmosphere: A semi-transparent, wobbling gel “planet” hangs in space, with a thin foam layer around its equator where bubbles orbit, merge, and pop, and small satellites occasionally collide and stick to the gel surface."
+    },
+    {
+      "number": "24",
+      "title": "3D Print of a Gel Lattice Being Filled with Foam",
+      "description": "A stationary transparent cubic gel lattice is gradually infiltrated by injected foam, which grows along channels, fills cells, and traps gas pockets, with fill progress indicated by changing colors and moving front markers.",
+      "seed": "3D Print of a Gel Lattice Being Filled with Foam: A stationary transparent cubic gel lattice is gradually infiltrated by injected foam, which grows along channels, fills cells, and traps gas pockets, with fill progress indicated by changing colors and moving front markers."
+    },
+    {
+      "number": "25",
+      "title": "Microfoam in a Gel-Lined Microfluidic Chip",
+      "description": "In a clear microfluidic chip, tiny bubbles flow through gel-lined channels, periodically splitting and merging at junctions, with flow speed vectors, color-coded pressure regions, and labels for bubble residence time.",
+      "seed": "Microfoam in a Gel-Lined Microfluidic Chip: In a clear microfluidic chip, tiny bubbles flow through gel-lined channels, periodically splitting and merging at junctions, with flow speed vectors, color-coded pressure regions, and labels for bubble residence time."
+    }
+  ],
+  "raw_output": "Here are strong **Gels and foams simulation inputs** you can plug into your prompt:\n\n1. **Bubble Column in a Transparent Gel Tank**\n   A tall clear cylinder of viscous gel contains rising air bubbles that split, merge, and stick to embedded colored beads, with trails, labels for bubble size, and a side meter tracking gas volume fraction.\n\n2. **Expanding Shaving Foam Blob on a Plate**\n   A white foam hemisphere grows from a nozzle onto a flat plate, its surface pulsing and spawning small bubbles that detach, roll, and pop, leaving wet gel streaks and height markers around the base.\n\n3. **Gel Droplets Falling into a Foam Bath**\n   Colored gel droplets fall from a dispenser into a shallow tray of foam, deforming and bouncing on impact, then slowly sinking, dissolving dye that spreads as colored clouds through the foam structure.\n\n4. **Sheared Gel Between Sliding Plates**\n   A rectangular slab of semi-transparent gel is sandwiched between two plates; the top plate slowly slides, causing embedded tracer particles and filaments to bend, stretch, and relax with color-coded strain.\n\n5. **Foam Bubbles Compressing and Rebounding in a Piston**\n   A vertical cylinder filled with foam is compressed and released by a moving piston, with individual bubbles flattening, merging, and then rebounding, while a pressure gauge and color-coded stress regions update.\n\n6. **Gel Beads Diffusing Dye in a Clear Bath**\n   Multiple soft gel spheres float in a clear fluid, each loaded with a different colored dye that slowly diffuses out, forming overlapping colored halos and concentration-contour labels around each bead.\n\n7. **Wave Propagation Through a Foam Block**\n   A rectangular foam block is struck on one side by a moving hammer, and a compressive wave travels through as layers of cells sequentially compress, glow, and rebound, with a side panel graphing displacement over time.\n\n8. **Gelatin Cube Dropped onto a Rigid Floor**\n   A jiggling translucent cube of “gelatin” is dropped onto a flat surface, wobbling, squashing, and bouncing repeatedly, with corner markers and trails showing the oscillation of its vertices.\n\n9. **Rising Foam Head in a Carbonated Gel Drink**\n   A cylindrical glass is filled with a slightly viscous, transparent drink seeded with gas nuclei that nucleate bubbles, rise, and create a growing foam cap, while dissolved gas concentration is visualized as a color gradient.\n\n10. **Cell-Like Gel Droplets Merging and Dividing**\n    Soft spherical gel “cells” float in a fluid, slowly drifting, colliding, and either merging into larger droplets or splitting into two, with glowing outlines showing membrane tension and labels showing volume conservation.\n\n11. **Foam Flowing Through a Narrow Channel Maze**\n    A colored foam front advances through a transparent, branching channel network, with bubbles squeezing through constrictions, leaving thin films behind, and flow direction indicated by arrows and bubble trails.\n\n12. **Soft Gel Particles in a Rotating Drum Mixer**\n    A light-colored rotating drum contains many soft gel spheres and a sprinkling of dry powder; as the drum turns, spheres tumble, collide, pick up powder, and occasionally stick together, forming clumps with changing colors.\n\n13. **Impact of a Droplet on a Gel Surface**\n    A single liquid droplet falls onto a flat gel slab, creating a spreading dimple and oscillating ripples in the gel, while the droplet partially penetrates, splits, and leaves a colored wet region that slowly shrinks.\n\n14. **Foam Insulation Expanding in a Wall Cavity**\n    A wall-like box cavity is slowly filled from one side with expanding foam, which creeps, branches into gaps, and pushes around stationary obstacles, with color indicating local density and labels for filled volume.\n\n15. **Gel Strand Stretching and Breaking Between Two Grippers**\n    A cylindrical gel strand is held between two clamps that move apart, stretching the strand thinner until it necks and snaps, with stress visualized by changing color and particle tracers marking flow inside the strand.\n\n16. **Seafoam Rolling onto a Sandy Shoreline**\n    A shallow water plane carries a band of white foam that rolls and breaks on a sloped beach, leaving behind fading foam patches and moist, darker sand regions, with small shells acting as stationary obstacles.\n\n17. **Viscoelastic Gel Pendulum with Damped Oscillations**\n    A weight is attached to a ceiling by a thick gel rod; when pulled and released, the mass swings and twists, while the gel rod stretches and slowly relaxes, with a trail and graph tracking amplitude decay over time.\n\n18. **Foam Bubbles Draining Under Gravity**\n    A vertical column of foam slowly drains as liquid films thin and trickle down; film thickness is color-coded, top bubbles shrink and pop, and a reservoir at the bottom fills with clarified liquid.\n\n19. **Gel-Based Shock Absorber Under Repeated Impacts**\n    A falling mass repeatedly hits a gel-filled cylinder; the gel deforms, transfers momentum, and gradually returns to shape, while temperature or “energy” is shown as a dynamic color map and cumulative energy is graphed.\n\n20. **Foam Packing Around Fragile Objects in a Box**\n    Several rigid fragile objects sit in a transparent box while injected foam grows around them, filling gaps and exerting gentle pressure; contact forces are shown as colored halos at object–foam interfaces.\n\n21. **Gel Droplets Coalescing on a Sloped Surface**\n    Many small gel droplets slide slowly down a slightly inclined plate, merging when they collide into larger blobs that deform, leave thin streaks, and eventually form a single large drop at the bottom edge.\n\n22. **Soap Foam Bubbles Orbiting and Attaching to a Central Sphere**\n    A central large sphere represents a droplet, with smaller foam bubbles orbiting, colliding, and sticking to it to form a multilayer foam shell, while connecting films appear as thin, lightly colored triangular patches.\n\n23. **Gelatinous Planet with Bubbling Foam Atmosphere**\n    A semi-transparent, wobbling gel “planet” hangs in space, with a thin foam layer around its equator where bubbles orbit, merge, and pop, and small satellites occasionally collide and stick to the gel surface.\n\n24. **3D Print of a Gel Lattice Being Filled with Foam**\n    A stationary transparent cubic gel lattice is gradually infiltrated by injected foam, which grows along channels, fills cells, and traps gas pockets, with fill progress indicated by changing colors and moving front markers.\n\n25. **Microfoam in a Gel-Lined Microfluidic Chip**\n    In a clear microfluidic chip, tiny bubbles flow through gel-lined channels, periodically splitting and merging at junctions, with flow speed vectors, color-coded pressure regions, and labels for bubble residence time."
+}

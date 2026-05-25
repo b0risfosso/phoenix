@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Radiation fields",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:41:19",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Point Source Radiation Inverse-Square Field",
+      "description": "A glowing sphere at the center emits many small particles in straight lines with fading trails whose density decreases with distance, while semi-transparent concentric shells show inverse-square intensity and a movable detector box displays a live intensity label.",
+      "seed": "Point Source Radiation Inverse-Square Field: A glowing sphere at the center emits many small particles in straight lines with fading trails whose density decreases with distance, while semi-transparent concentric shells show inverse-square intensity and a movable detector box displays a live intensity label."
+    },
+    {
+      "number": "2",
+      "title": "Radiation Field Around a Nuclear Fuel Rod Array",
+      "description": "A grid of tall fuel-rod cylinders sits in a pool of transparent blue water, with colored semi-transparent radiation halos around each rod that overlap, while a movable dosimeter sphere with a label shows total dose as it floats and bounces gently between rods.",
+      "seed": "Radiation Field Around a Nuclear Fuel Rod Array: A grid of tall fuel-rod cylinders sits in a pool of transparent blue water, with colored semi-transparent radiation halos around each rod that overlap, while a movable dosimeter sphere with a label shows total dose as it floats and bounces gently between rods."
+    },
+    {
+      "number": "3",
+      "title": "Solar Radiation Field Around a Planet",
+      "description": "A bright sun sphere emits radial rays and particle streams toward a rotating planet with an atmosphere shell, where incoming particles bend around a colored magnetic field torus and leave glowing aurora-like particles at the poles.",
+      "seed": "Solar Radiation Field Around a Planet: A bright sun sphere emits radial rays and particle streams toward a rotating planet with an atmosphere shell, where incoming particles bend around a colored magnetic field torus and leave glowing aurora-like particles at the poles."
+    },
+    {
+      "number": "4",
+      "title": "Radiation Shielding Through Layered Materials",
+      "description": "A beam of glowing particles travels from a source through stacked slabs of different materials (air, plastic, lead, concrete), with each slab partially absorbing or scattering particles and a bar graph meter on the far side showing transmitted intensity.",
+      "seed": "Radiation Shielding Through Layered Materials: A beam of glowing particles travels from a source through stacked slabs of different materials (air, plastic, lead, concrete), with each slab partially absorbing or scattering particles and a bar graph meter on the far side showing transmitted intensity."
+    },
+    {
+      "number": "5",
+      "title": "Radiation Field in a Medical CT Scanner",
+      "description": "A patient-shaped cylinder lies on a table while a rotating ring emits narrow fan beams that sweep around, colored by intensity, and detectors opposite the source glow as they receive radiation, drawing faint trails that map the scanning pattern.",
+      "seed": "Radiation Field in a Medical CT Scanner: A patient-shaped cylinder lies on a table while a rotating ring emits narrow fan beams that sweep around, colored by intensity, and detectors opposite the source glow as they receive radiation, drawing faint trails that map the scanning pattern."
+    },
+    {
+      "number": "6",
+      "title": "Cosmic Ray Showers in the Atmosphere",
+      "description": "High-energy particles enter from the top of the scene, hit a semi-transparent atmospheric layer, and split into branching particle showers that spread and fade, with a ground detector grid lighting up where particles hit.",
+      "seed": "Cosmic Ray Showers in the Atmosphere: High-energy particles enter from the top of the scene, hit a semi-transparent atmospheric layer, and split into branching particle showers that spread and fade, with a ground detector grid lighting up where particles hit."
+    },
+    {
+      "number": "7",
+      "title": "Radiation Pattern Around a Radio Antenna Tower",
+      "description": "A central vertical antenna rod emits animated wavefront shells that expand outward in 3D lobes, with field strength shown by color and semi-transparent surfaces, while small receiver spheres can be dragged around and show local field intensity labels.",
+      "seed": "Radiation Pattern Around a Radio Antenna Tower: A central vertical antenna rod emits animated wavefront shells that expand outward in 3D lobes, with field strength shown by color and semi-transparent surfaces, while small receiver spheres can be dragged around and show local field intensity labels."
+    },
+    {
+      "number": "8",
+      "title": "Gamma Radiation Leakage From a Damaged Container",
+      "description": "A cracked, rotating metal box at the center emits short glowing rays escaping through its cracks, forming an uneven radiation field, while floating inspector drones move around it, changing color according to local field strength and leaving trails where levels are highest.",
+      "seed": "Gamma Radiation Leakage From a Damaged Container: A cracked, rotating metal box at the center emits short glowing rays escaping through its cracks, forming an uneven radiation field, while floating inspector drones move around it, changing color according to local field strength and leaving trails where levels are highest."
+    },
+    {
+      "number": "9",
+      "title": "Radiation Pressure Pushing Dust Around a Star",
+      "description": "A bright star at the center emits continuous radial radiation represented by short moving segments, pushing small dust spheres that drift, accelerate, and orbit or get blown away, with trails showing their path changes over time.",
+      "seed": "Radiation Pressure Pushing Dust Around a Star: A bright star at the center emits continuous radial radiation represented by short moving segments, pushing small dust spheres that drift, accelerate, and orbit or get blown away, with trails showing their path changes over time."
+    },
+    {
+      "number": "10",
+      "title": "Microscopic Radiation Damage in a Crystal Lattice",
+      "description": "A regular 3D lattice of spheres (atoms) is struck by incoming high-energy particles that cause some atoms to displace, leaving vacancies and interstitial defects highlighted in different colors, while a dose meter counts and labels total defects.",
+      "seed": "Microscopic Radiation Damage in a Crystal Lattice: A regular 3D lattice of spheres (atoms) is struck by incoming high-energy particles that cause some atoms to displace, leaving vacancies and interstitial defects highlighted in different colors, while a dose meter counts and labels total defects."
+    },
+    {
+      "number": "11",
+      "title": "Radiation Field Mapping in a Nuclear Plant Room",
+      "description": "A room with walls, pipes, and a reactor vessel contains hidden sources that emit invisible radiation visualized as semi-transparent colored fog pockets, while a movable handheld meter box leaves a color-coded path marking where high radiation areas are found.",
+      "seed": "Radiation Field Mapping in a Nuclear Plant Room: A room with walls, pipes, and a reactor vessel contains hidden sources that emit invisible radiation visualized as semi-transparent colored fog pockets, while a movable handheld meter box leaves a color-coded path marking where high radiation areas are found."
+    },
+    {
+      "number": "12",
+      "title": "Radiation Belts Around a Planet",
+      "description": "A planet sphere has two thick, curved belts of trapped charged particles that orbit along field lines, glowing as they loop around, while occasional solar radiation bursts add extra particles that spiral in and collide with the upper atmosphere.",
+      "seed": "Radiation Belts Around a Planet: A planet sphere has two thick, curved belts of trapped charged particles that orbit along field lines, glowing as they loop around, while occasional solar radiation bursts add extra particles that spiral in and collide with the upper atmosphere."
+    },
+    {
+      "number": "13",
+      "title": "Beam Collimation and Scattering in a Lab Setup",
+      "description": "A narrow beam of particle radiation passes through apertures in adjustable lead blocks, forming a sharp beam that then enters a scattering target sphere, where particles split into a wide angular distribution, with detectors on an arc counting hits.",
+      "seed": "Beam Collimation and Scattering in a Lab Setup: A narrow beam of particle radiation passes through apertures in adjustable lead blocks, forming a sharp beam that then enters a scattering target sphere, where particles split into a wide angular distribution, with detectors on an arc counting hits."
+    },
+    {
+      "number": "14",
+      "title": "Radiation Field Inside a Fusion Tokamak",
+      "description": "A toroidal chamber with a central magnetic coil contains a glowing plasma ring, emitting radiation visualized as pulsing, semi-transparent bands, while diagnostic probes on arms can be moved closer and change color and label value as field intensity rises.",
+      "seed": "Radiation Field Inside a Fusion Tokamak: A toroidal chamber with a central magnetic coil contains a glowing plasma ring, emitting radiation visualized as pulsing, semi-transparent bands, while diagnostic probes on arms can be moved closer and change color and label value as field intensity rises."
+    },
+    {
+      "number": "15",
+      "title": "Radiation-Driven Spacecraft Sail",
+      "description": "A spacecraft with a large, thin, semi-transparent sail floats near a bright star whose radiation is modeled as streaming particles that strike the sail; the sail slowly accelerates and pivots due to uneven radiation pressure, leaving a motion trail.",
+      "seed": "Radiation-Driven Spacecraft Sail: A spacecraft with a large, thin, semi-transparent sail floats near a bright star whose radiation is modeled as streaming particles that strike the sail; the sail slowly accelerates and pivots due to uneven radiation pressure, leaving a motion trail."
+    },
+    {
+      "number": "16",
+      "title": "Radiation Field Decay Over Time From a Spent Source",
+      "description": "A small radioactive capsule at the center gradually dims and shrinks its colored radiation halo, while a surrounding spherical grid shows numeric labels that decrease over time, and a plot-like bar along one side drops as total activity decays.",
+      "seed": "Radiation Field Decay Over Time From a Spent Source: A small radioactive capsule at the center gradually dims and shrinks its colored radiation halo, while a surrounding spherical grid shows numeric labels that decrease over time, and a plot-like bar along one side drops as total activity decays."
+    },
+    {
+      "number": "17",
+      "title": "Radiation Zones in a Post-Accident City Block",
+      "description": "Buildings and streets are represented by boxes and planes with hidden sources inside rubble piles; invisible radiation fields are shown only when a survey robot rolls by, leaving bright marks and numeric labels where radiation hotspots are detected.",
+      "seed": "Radiation Zones in a Post-Accident City Block: Buildings and streets are represented by boxes and planes with hidden sources inside rubble piles; invisible radiation fields are shown only when a survey robot rolls by, leaving bright marks and numeric labels where radiation hotspots are detected."
+    },
+    {
+      "number": "18",
+      "title": "Radiation Therapy Beam Shaping Around a Tumor",
+      "description": "A patient torso volume contains a small colored tumor sphere; several rotating radiation heads around it emit beams that converge on the tumor while avoiding nearby organ boxes, with dose accumulation visualized as a changing color map inside the body.",
+      "seed": "Radiation Therapy Beam Shaping Around a Tumor: A patient torso volume contains a small colored tumor sphere; several rotating radiation heads around it emit beams that converge on the tumor while avoiding nearby organ boxes, with dose accumulation visualized as a changing color map inside the body."
+    },
+    {
+      "number": "19",
+      "title": "Radiation Field Around a Binary Star System",
+      "description": "Two orbiting stars of different brightness emit overlapping radiation fields shown as colored volumetric gradients; as they orbit, the combined field pattern shifts, and a small planet on a separate orbit experiences a changing intensity label and color.",
+      "seed": "Radiation Field Around a Binary Star System: Two orbiting stars of different brightness emit overlapping radiation fields shown as colored volumetric gradients; as they orbit, the combined field pattern shifts, and a small planet on a separate orbit experiences a changing intensity label and color."
+    },
+    {
+      "number": "20",
+      "title": "Neutron Radiation Moderation in a Water Tank",
+      "description": "Fast neutrons emitted from a central source sphere enter a large transparent tank, slowing after collisions with water molecules represented by faint spheres, changing color from blue (fast) to green (thermal), while some escape and hit detectors on the tank wall.",
+      "seed": "Neutron Radiation Moderation in a Water Tank: Fast neutrons emitted from a central source sphere enter a large transparent tank, slowing after collisions with water molecules represented by faint spheres, changing color from blue (fast) to green (thermal), while some escape and hit detectors on the tank wall."
+    },
+    {
+      "number": "21",
+      "title": "Radiation Field Visualization in a Space Station Module",
+      "description": "Inside a cylindrical module with windows, external cosmic radiation is represented by occasional particle tracks entering through walls, partially blocked by movable water and polyethylene blocks, with crew-shaped capsules showing a changing exposure meter.",
+      "seed": "Radiation Field Visualization in a Space Station Module: Inside a cylindrical module with windows, external cosmic radiation is represented by occasional particle tracks entering through walls, partially blocked by movable water and polyethylene blocks, with crew-shaped capsules showing a changing exposure meter."
+    },
+    {
+      "number": "22",
+      "title": "Radiation Fog Around a Flare Stack",
+      "description": "A tall flare stack emits glowing flames and a surrounding shimmering radiation haze that pulses with flare intensity; drifting worker drones with badges change color and display dose labels as they fly closer and farther from the stack.",
+      "seed": "Radiation Fog Around a Flare Stack: A tall flare stack emits glowing flames and a surrounding shimmering radiation haze that pulses with flare intensity; drifting worker drones with badges change color and display dose labels as they fly closer and farther from the stack."
+    },
+    {
+      "number": "23",
+      "title": "Radiation-Driven Chemical Reaction Field in a Cloud Chamber",
+      "description": "A transparent box filled with supersaturated vapor shows random radiation tracks as bright, thin lines that cause tiny droplet spheres to condense along their paths, leaving short-lived trails that slowly dissolve into the background.",
+      "seed": "Radiation-Driven Chemical Reaction Field in a Cloud Chamber: A transparent box filled with supersaturated vapor shows random radiation tracks as bright, thin lines that cause tiny droplet spheres to condense along their paths, leaving short-lived trails that slowly dissolve into the background."
+    },
+    {
+      "number": "24",
+      "title": "Radiation Field Interference From Multiple Antennas",
+      "description": "Several small radio antennas placed on a flat platform emit waves of different frequencies and phases, forming overlapping semi-transparent wave surfaces whose constructive and destructive interference create a dynamic pattern visualized by color intensity.",
+      "seed": "Radiation Field Interference From Multiple Antennas: Several small radio antennas placed on a flat platform emit waves of different frequencies and phases, forming overlapping semi-transparent wave surfaces whose constructive and destructive interference create a dynamic pattern visualized by color intensity."
+    },
+    {
+      "number": "25",
+      "title": "Symbolic “Radiation of Influence” in a Social Network",
+      "description": "Floating labeled nodes (people) emit colored halos representing influence that expand and fade; when halos overlap, links between nodes glow more brightly, and influence “particles” transfer along these connections, showing how one node’s “radiation field” spreads through the network.",
+      "seed": "Symbolic “Radiation of Influence” in a Social Network: Floating labeled nodes (people) emit colored halos representing influence that expand and fade; when halos overlap, links between nodes glow more brightly, and influence “particles” transfer along these connections, showing how one node’s “radiation field” spreads through the network."
+    }
+  ],
+  "raw_output": "Here are strong **Radiation fields simulation inputs** you can plug into your prompt:\n\n1. **Point Source Radiation Inverse-Square Field**\n   A glowing sphere at the center emits many small particles in straight lines with fading trails whose density decreases with distance, while semi-transparent concentric shells show inverse-square intensity and a movable detector box displays a live intensity label.\n\n2. **Radiation Field Around a Nuclear Fuel Rod Array**\n   A grid of tall fuel-rod cylinders sits in a pool of transparent blue water, with colored semi-transparent radiation halos around each rod that overlap, while a movable dosimeter sphere with a label shows total dose as it floats and bounces gently between rods.\n\n3. **Solar Radiation Field Around a Planet**\n   A bright sun sphere emits radial rays and particle streams toward a rotating planet with an atmosphere shell, where incoming particles bend around a colored magnetic field torus and leave glowing aurora-like particles at the poles.\n\n4. **Radiation Shielding Through Layered Materials**\n   A beam of glowing particles travels from a source through stacked slabs of different materials (air, plastic, lead, concrete), with each slab partially absorbing or scattering particles and a bar graph meter on the far side showing transmitted intensity.\n\n5. **Radiation Field in a Medical CT Scanner**\n   A patient-shaped cylinder lies on a table while a rotating ring emits narrow fan beams that sweep around, colored by intensity, and detectors opposite the source glow as they receive radiation, drawing faint trails that map the scanning pattern.\n\n6. **Cosmic Ray Showers in the Atmosphere**\n   High-energy particles enter from the top of the scene, hit a semi-transparent atmospheric layer, and split into branching particle showers that spread and fade, with a ground detector grid lighting up where particles hit.\n\n7. **Radiation Pattern Around a Radio Antenna Tower**\n   A central vertical antenna rod emits animated wavefront shells that expand outward in 3D lobes, with field strength shown by color and semi-transparent surfaces, while small receiver spheres can be dragged around and show local field intensity labels.\n\n8. **Gamma Radiation Leakage From a Damaged Container**\n   A cracked, rotating metal box at the center emits short glowing rays escaping through its cracks, forming an uneven radiation field, while floating inspector drones move around it, changing color according to local field strength and leaving trails where levels are highest.\n\n9. **Radiation Pressure Pushing Dust Around a Star**\n   A bright star at the center emits continuous radial radiation represented by short moving segments, pushing small dust spheres that drift, accelerate, and orbit or get blown away, with trails showing their path changes over time.\n\n10. **Microscopic Radiation Damage in a Crystal Lattice**\n    A regular 3D lattice of spheres (atoms) is struck by incoming high-energy particles that cause some atoms to displace, leaving vacancies and interstitial defects highlighted in different colors, while a dose meter counts and labels total defects.\n\n11. **Radiation Field Mapping in a Nuclear Plant Room**\n    A room with walls, pipes, and a reactor vessel contains hidden sources that emit invisible radiation visualized as semi-transparent colored fog pockets, while a movable handheld meter box leaves a color-coded path marking where high radiation areas are found.\n\n12. **Radiation Belts Around a Planet**\n    A planet sphere has two thick, curved belts of trapped charged particles that orbit along field lines, glowing as they loop around, while occasional solar radiation bursts add extra particles that spiral in and collide with the upper atmosphere.\n\n13. **Beam Collimation and Scattering in a Lab Setup**\n    A narrow beam of particle radiation passes through apertures in adjustable lead blocks, forming a sharp beam that then enters a scattering target sphere, where particles split into a wide angular distribution, with detectors on an arc counting hits.\n\n14. **Radiation Field Inside a Fusion Tokamak**\n    A toroidal chamber with a central magnetic coil contains a glowing plasma ring, emitting radiation visualized as pulsing, semi-transparent bands, while diagnostic probes on arms can be moved closer and change color and label value as field intensity rises.\n\n15. **Radiation-Driven Spacecraft Sail**\n    A spacecraft with a large, thin, semi-transparent sail floats near a bright star whose radiation is modeled as streaming particles that strike the sail; the sail slowly accelerates and pivots due to uneven radiation pressure, leaving a motion trail.\n\n16. **Radiation Field Decay Over Time From a Spent Source**\n    A small radioactive capsule at the center gradually dims and shrinks its colored radiation halo, while a surrounding spherical grid shows numeric labels that decrease over time, and a plot-like bar along one side drops as total activity decays.\n\n17. **Radiation Zones in a Post-Accident City Block**\n    Buildings and streets are represented by boxes and planes with hidden sources inside rubble piles; invisible radiation fields are shown only when a survey robot rolls by, leaving bright marks and numeric labels where radiation hotspots are detected.\n\n18. **Radiation Therapy Beam Shaping Around a Tumor**\n    A patient torso volume contains a small colored tumor sphere; several rotating radiation heads around it emit beams that converge on the tumor while avoiding nearby organ boxes, with dose accumulation visualized as a changing color map inside the body.\n\n19. **Radiation Field Around a Binary Star System**\n    Two orbiting stars of different brightness emit overlapping radiation fields shown as colored volumetric gradients; as they orbit, the combined field pattern shifts, and a small planet on a separate orbit experiences a changing intensity label and color.\n\n20. **Neutron Radiation Moderation in a Water Tank**\n    Fast neutrons emitted from a central source sphere enter a large transparent tank, slowing after collisions with water molecules represented by faint spheres, changing color from blue (fast) to green (thermal), while some escape and hit detectors on the tank wall.\n\n21. **Radiation Field Visualization in a Space Station Module**\n    Inside a cylindrical module with windows, external cosmic radiation is represented by occasional particle tracks entering through walls, partially blocked by movable water and polyethylene blocks, with crew-shaped capsules showing a changing exposure meter.\n\n22. **Radiation Fog Around a Flare Stack**\n    A tall flare stack emits glowing flames and a surrounding shimmering radiation haze that pulses with flare intensity; drifting worker drones with badges change color and display dose labels as they fly closer and farther from the stack.\n\n23. **Radiation-Driven Chemical Reaction Field in a Cloud Chamber**\n    A transparent box filled with supersaturated vapor shows random radiation tracks as bright, thin lines that cause tiny droplet spheres to condense along their paths, leaving short-lived trails that slowly dissolve into the background.\n\n24. **Radiation Field Interference From Multiple Antennas**\n    Several small radio antennas placed on a flat platform emit waves of different frequencies and phases, forming overlapping semi-transparent wave surfaces whose constructive and destructive interference create a dynamic pattern visualized by color intensity.\n\n25. **Symbolic “Radiation of Influence” in a Social Network**\n    Floating labeled nodes (people) emit colored halos representing influence that expand and fade; when halos overlap, links between nodes glow more brightly, and influence “particles” transfer along these connections, showing how one node’s “radiation field” spreads through the network."
+}

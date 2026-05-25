@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Pattern generation",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:09:11",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Crystal Lattice Growth Patterns",
+      "description": "Simulate transparent cubes that attach in a 3D grid to form a growing crystal lattice, with new cubes randomly nucleating, snapping into alignment, and glowing briefly as they lock into repeating patterns.",
+      "seed": "Crystal Lattice Growth Patterns: Simulate transparent cubes that attach in a 3D grid to form a growing crystal lattice, with new cubes randomly nucleating, snapping into alignment, and glowing briefly as they lock into repeating patterns."
+    },
+    {
+      "number": "2",
+      "title": "3D Reaction-Diffusion Pattern Cloud",
+      "description": "Simulate a light-colored 3D box filled with semi-transparent voxels whose colors slowly pulse and shift as reaction-diffusion rules create evolving spots, stripes, and spirals that wrap around and blend, with a color bar legend floating beside.",
+      "seed": "3D Reaction-Diffusion Pattern Cloud: Simulate a light-colored 3D box filled with semi-transparent voxels whose colors slowly pulse and shift as reaction-diffusion rules create evolving spots, stripes, and spirals that wrap around and blend, with a color bar legend floating beside."
+    },
+    {
+      "number": "3",
+      "title": "Swarming Dots Tracing Flocking Patterns",
+      "description": "Simulate hundreds of small spheres flocking through space, leaving fading trails that reveal emergent swirling and branching patterns as they avoid collisions, align, and cluster around invisible attractor points.",
+      "seed": "Swarming Dots Tracing Flocking Patterns: Simulate hundreds of small spheres flocking through space, leaving fading trails that reveal emergent swirling and branching patterns as they avoid collisions, align, and cluster around invisible attractor points."
+    },
+    {
+      "number": "4",
+      "title": "Fractal Tree Forest in 3D",
+      "description": "Simulate branching trees that recursively split and rotate as they grow upward from a ground plane, generating fractal-like canopy patterns with semi-transparent leaves that gently pulse in color.",
+      "seed": "Fractal Tree Forest in 3D: Simulate branching trees that recursively split and rotate as they grow upward from a ground plane, generating fractal-like canopy patterns with semi-transparent leaves that gently pulse in color."
+    },
+    {
+      "number": "5",
+      "title": "Orbiting Planetary Resonance Patterns",
+      "description": "Simulate multiple small planets orbiting a central star at different speeds, leaving persistent orbital trails that reveal repeating resonance patterns, with collisions causing orbits to split or merge.",
+      "seed": "Orbiting Planetary Resonance Patterns: Simulate multiple small planets orbiting a central star at different speeds, leaving persistent orbital trails that reveal repeating resonance patterns, with collisions causing orbits to split or merge."
+    },
+    {
+      "number": "6",
+      "title": "3D L-System Vine Weaving",
+      "description": "Simulate a vine that grows segment by segment along L-system rules, branching, rotating, and wrapping around invisible guides to form intricate geometric weaving patterns, with nodes that glow when a branching rule activates.",
+      "seed": "3D L-System Vine Weaving: Simulate a vine that grows segment by segment along L-system rules, branching, rotating, and wrapping around invisible guides to form intricate geometric weaving patterns, with nodes that glow when a branching rule activates."
+    },
+    {
+      "number": "7",
+      "title": "Interference Pattern in a 3D Wave Tank",
+      "description": "Simulate a shallow transparent 3D tank where circular wave fronts propagate from multiple sources, overlap, and create moving interference patterns on the water surface and floor, with color-coded height and gentle reflections.",
+      "seed": "Interference Pattern in a 3D Wave Tank: Simulate a shallow transparent 3D tank where circular wave fronts propagate from multiple sources, overlap, and create moving interference patterns on the water surface and floor, with color-coded height and gentle reflections."
+    },
+    {
+      "number": "8",
+      "title": "Magnetic Field Line Pattern Visualizer",
+      "description": "Simulate several magnet-like bars in space with field lines drawn as curved, glowing tubes that attach to poles, wrap around objects, and pulse as you move the magnets, revealing changing 3D field patterns.",
+      "seed": "Magnetic Field Line Pattern Visualizer: Simulate several magnet-like bars in space with field lines drawn as curved, glowing tubes that attach to poles, wrap around objects, and pulse as you move the magnets, revealing changing 3D field patterns."
+    },
+    {
+      "number": "9",
+      "title": "3D Game of Life Pattern Cubes",
+      "description": "Simulate a 3D grid of small cubes that turn on or off based on a 3D cellular automaton rule, where patterns appear, replicate, and dissolve over time, with living cells glowing and leaving a short-lived transparent afterimage.",
+      "seed": "3D Game of Life Pattern Cubes: Simulate a 3D grid of small cubes that turn on or off based on a 3D cellular automaton rule, where patterns appear, replicate, and dissolve over time, with living cells glowing and leaving a short-lived transparent afterimage."
+    },
+    {
+      "number": "10",
+      "title": "Traffic Flow Pattern Generator on Overpasses",
+      "description": "Simulate multi-level transparent roads where colored cars flow, slow, and accelerate, creating visible density waves and stop-and-go patterns, with overhead labels showing traffic intensity and trails marking congestion.",
+      "seed": "Traffic Flow Pattern Generator on Overpasses: Simulate multi-level transparent roads where colored cars flow, slow, and accelerate, creating visible density waves and stop-and-go patterns, with overhead labels showing traffic intensity and trails marking congestion."
+    },
+    {
+      "number": "11",
+      "title": "Sand Ripple Pattern Formation Under Waves",
+      "description": "Simulate particles of sand on a flat plane under a transparent oscillating “water” layer, where moving wave crests push grains to form and shift ripple patterns, with color gradients indicating ripple height.",
+      "seed": "Sand Ripple Pattern Formation Under Waves: Simulate particles of sand on a flat plane under a transparent oscillating “water” layer, where moving wave crests push grains to form and shift ripple patterns, with color gradients indicating ripple height."
+    },
+    {
+      "number": "12",
+      "title": "Neural Firing Pattern Network",
+      "description": "Simulate a 3D network of nodes connected by semi-transparent edges, where pulses of light travel along connections in rhythmic patterns, nodes glow brighter as they receive multiple pulses, and labels identify active clusters.",
+      "seed": "Neural Firing Pattern Network: Simulate a 3D network of nodes connected by semi-transparent edges, where pulses of light travel along connections in rhythmic patterns, nodes glow brighter as they receive multiple pulses, and labels identify active clusters."
+    },
+    {
+      "number": "13",
+      "title": "3D Kaleidoscope Reflection Chamber",
+      "description": "Simulate small colored spheres bouncing inside a chamber formed by reflective planes arranged at angles, producing repeating reflection patterns that unfold and shift as the spheres collide and scatter.",
+      "seed": "3D Kaleidoscope Reflection Chamber: Simulate small colored spheres bouncing inside a chamber formed by reflective planes arranged at angles, producing repeating reflection patterns that unfold and shift as the spheres collide and scatter."
+    },
+    {
+      "number": "14",
+      "title": "Polymer Chain Folding Patterns",
+      "description": "Simulate flexible bead-and-spring chains that float in a fluid box and fold, twist, and partially unfold under simple attraction/repulsion rules, forming distinct 3D folding patterns highlighted by changing bead colors.",
+      "seed": "Polymer Chain Folding Patterns: Simulate flexible bead-and-spring chains that float in a fluid box and fold, twist, and partially unfold under simple attraction/repulsion rules, forming distinct 3D folding patterns highlighted by changing bead colors."
+    },
+    {
+      "number": "15",
+      "title": "Snowflake Crystal Pattern Builder",
+      "description": "Simulate a hexagonal seed in the center of a cold 3D box where water particles drift inward, attach to the snowflake, and branch in symmetric patterns, with slow rotation and semi-transparent ice textures.",
+      "seed": "Snowflake Crystal Pattern Builder: Simulate a hexagonal seed in the center of a cold 3D box where water particles drift inward, attach to the snowflake, and branch in symmetric patterns, with slow rotation and semi-transparent ice textures."
+    },
+    {
+      "number": "16",
+      "title": "Urban Growth Pattern Over a Grid",
+      "description": "Simulate buildings growing step-by-step on a 3D grid, where simple rules spread structures along “roads,” create clusters, and leave green gaps, with height and color encoding different growth stages and densities.",
+      "seed": "Urban Growth Pattern Over a Grid: Simulate buildings growing step-by-step on a 3D grid, where simple rules spread structures along “roads,” create clusters, and leave green gaps, with height and color encoding different growth stages and densities."
+    },
+    {
+      "number": "17",
+      "title": "Planetary Weather Band Patterns",
+      "description": "Simulate a rotating sphere representing a planet, with colored, semi-transparent bands of moving particles that wrap around it to show jet streams, vortices, and storm spots that split, merge, and drift over time.",
+      "seed": "Planetary Weather Band Patterns: Simulate a rotating sphere representing a planet, with colored, semi-transparent bands of moving particles that wrap around it to show jet streams, vortices, and storm spots that split, merge, and drift over time."
+    },
+    {
+      "number": "18",
+      "title": "3D Music-Driven Particle Patterns",
+      "description": "Simulate particles floating around a central invisible speaker, where different frequencies (mocked by sliders or time steps) cause clusters to pulse, rotate, and form radial or spiral patterns, with trails synchronized to “beats.”",
+      "seed": "3D Music-Driven Particle Patterns: Simulate particles floating around a central invisible speaker, where different frequencies (mocked by sliders or time steps) cause clusters to pulse, rotate, and form radial or spiral patterns, with trails synchronized to “beats.”"
+    },
+    {
+      "number": "19",
+      "title": "Moiré Pattern from Rotating Grids",
+      "description": "Simulate two or three semi-transparent, slightly offset 3D grids of thin lines or rods that rotate at different speeds, generating moving moiré interference patterns in space as they overlap.",
+      "seed": "Moiré Pattern from Rotating Grids: Simulate two or three semi-transparent, slightly offset 3D grids of thin lines or rods that rotate at different speeds, generating moving moiré interference patterns in space as they overlap."
+    },
+    {
+      "number": "20",
+      "title": "Crystal Diffraction Pattern Sphere",
+      "description": "Simulate a central crystal made of arranged spheres and a rotating light beam that “hits” it, with scattered rays projected as small glowing points on a surrounding transparent sphere, forming evolving diffraction-like patterns.",
+      "seed": "Crystal Diffraction Pattern Sphere: Simulate a central crystal made of arranged spheres and a rotating light beam that “hits” it, with scattered rays projected as small glowing points on a surrounding transparent sphere, forming evolving diffraction-like patterns."
+    },
+    {
+      "number": "21",
+      "title": "River Delta Branching Pattern Formation",
+      "description": "Simulate water particles flowing from a source down a gentle slope, carving branching channels into a deformable terrain plane, with darker, deeper paths forming a 3D delta pattern that extends and occasionally reroutes.",
+      "seed": "River Delta Branching Pattern Formation: Simulate water particles flowing from a source down a gentle slope, carving branching channels into a deformable terrain plane, with darker, deeper paths forming a 3D delta pattern that extends and occasionally reroutes."
+    },
+    {
+      "number": "22",
+      "title": "3D Spiral Galaxy Pattern Builder",
+      "description": "Simulate stars as glowing particles orbiting a galactic center, slowly organizing into spiral arms through gravitational-like rules, with dust-like semi-transparent particles that condense along the arms to emphasize the pattern.",
+      "seed": "3D Spiral Galaxy Pattern Builder: Simulate stars as glowing particles orbiting a galactic center, slowly organizing into spiral arms through gravitational-like rules, with dust-like semi-transparent particles that condense along the arms to emphasize the pattern."
+    },
+    {
+      "number": "23",
+      "title": "Tiling Pattern Robots on a Floor",
+      "description": "Simulate small colored robots gliding over a flat white floor, dropping colored tiles according to simple local rules that cause emergent repeating or quasi-repeating patterns, with overhead labels tracking pattern types.",
+      "seed": "Tiling Pattern Robots on a Floor: Simulate small colored robots gliding over a flat white floor, dropping colored tiles according to simple local rules that cause emergent repeating or quasi-repeating patterns, with overhead labels tracking pattern types."
+    },
+    {
+      "number": "24",
+      "title": "Bubble Packing Pattern in a Container",
+      "description": "Simulate soft, semi-transparent spheres representing bubbles that rise, collide, deform slightly, and pack together at the top of a container, forming evolving packing patterns that rearrange as bubbles merge or pop.",
+      "seed": "Bubble Packing Pattern in a Container: Simulate soft, semi-transparent spheres representing bubbles that rise, collide, deform slightly, and pack together at the top of a container, forming evolving packing patterns that rearrange as bubbles merge or pop."
+    },
+    {
+      "number": "25",
+      "title": "3D Origami Folding Pattern Visualizer",
+      "description": "Simulate a thin, semi-transparent square sheet with crease lines, folding step-by-step along predefined axes into a 3D shape, with each fold highlighted by changing edge colors and labels showing the active crease pattern.",
+      "seed": "3D Origami Folding Pattern Visualizer: Simulate a thin, semi-transparent square sheet with crease lines, folding step-by-step along predefined axes into a 3D shape, with each fold highlighted by changing edge colors and labels showing the active crease pattern."
+    }
+  ],
+  "raw_output": "Here are strong **Pattern generation simulation inputs** you can plug into your prompt:\n\n1. **Crystal Lattice Growth Patterns**\n   Simulate transparent cubes that attach in a 3D grid to form a growing crystal lattice, with new cubes randomly nucleating, snapping into alignment, and glowing briefly as they lock into repeating patterns.\n\n2. **3D Reaction-Diffusion Pattern Cloud**\n   Simulate a light-colored 3D box filled with semi-transparent voxels whose colors slowly pulse and shift as reaction-diffusion rules create evolving spots, stripes, and spirals that wrap around and blend, with a color bar legend floating beside.\n\n3. **Swarming Dots Tracing Flocking Patterns**\n   Simulate hundreds of small spheres flocking through space, leaving fading trails that reveal emergent swirling and branching patterns as they avoid collisions, align, and cluster around invisible attractor points.\n\n4. **Fractal Tree Forest in 3D**\n   Simulate branching trees that recursively split and rotate as they grow upward from a ground plane, generating fractal-like canopy patterns with semi-transparent leaves that gently pulse in color.\n\n5. **Orbiting Planetary Resonance Patterns**\n   Simulate multiple small planets orbiting a central star at different speeds, leaving persistent orbital trails that reveal repeating resonance patterns, with collisions causing orbits to split or merge.\n\n6. **3D L-System Vine Weaving**\n   Simulate a vine that grows segment by segment along L-system rules, branching, rotating, and wrapping around invisible guides to form intricate geometric weaving patterns, with nodes that glow when a branching rule activates.\n\n7. **Interference Pattern in a 3D Wave Tank**\n   Simulate a shallow transparent 3D tank where circular wave fronts propagate from multiple sources, overlap, and create moving interference patterns on the water surface and floor, with color-coded height and gentle reflections.\n\n8. **Magnetic Field Line Pattern Visualizer**\n   Simulate several magnet-like bars in space with field lines drawn as curved, glowing tubes that attach to poles, wrap around objects, and pulse as you move the magnets, revealing changing 3D field patterns.\n\n9. **3D Game of Life Pattern Cubes**\n   Simulate a 3D grid of small cubes that turn on or off based on a 3D cellular automaton rule, where patterns appear, replicate, and dissolve over time, with living cells glowing and leaving a short-lived transparent afterimage.\n\n10. **Traffic Flow Pattern Generator on Overpasses**\n    Simulate multi-level transparent roads where colored cars flow, slow, and accelerate, creating visible density waves and stop-and-go patterns, with overhead labels showing traffic intensity and trails marking congestion.\n\n11. **Sand Ripple Pattern Formation Under Waves**\n    Simulate particles of sand on a flat plane under a transparent oscillating “water” layer, where moving wave crests push grains to form and shift ripple patterns, with color gradients indicating ripple height.\n\n12. **Neural Firing Pattern Network**\n    Simulate a 3D network of nodes connected by semi-transparent edges, where pulses of light travel along connections in rhythmic patterns, nodes glow brighter as they receive multiple pulses, and labels identify active clusters.\n\n13. **3D Kaleidoscope Reflection Chamber**\n    Simulate small colored spheres bouncing inside a chamber formed by reflective planes arranged at angles, producing repeating reflection patterns that unfold and shift as the spheres collide and scatter.\n\n14. **Polymer Chain Folding Patterns**\n    Simulate flexible bead-and-spring chains that float in a fluid box and fold, twist, and partially unfold under simple attraction/repulsion rules, forming distinct 3D folding patterns highlighted by changing bead colors.\n\n15. **Snowflake Crystal Pattern Builder**\n    Simulate a hexagonal seed in the center of a cold 3D box where water particles drift inward, attach to the snowflake, and branch in symmetric patterns, with slow rotation and semi-transparent ice textures.\n\n16. **Urban Growth Pattern Over a Grid**\n    Simulate buildings growing step-by-step on a 3D grid, where simple rules spread structures along “roads,” create clusters, and leave green gaps, with height and color encoding different growth stages and densities.\n\n17. **Planetary Weather Band Patterns**\n    Simulate a rotating sphere representing a planet, with colored, semi-transparent bands of moving particles that wrap around it to show jet streams, vortices, and storm spots that split, merge, and drift over time.\n\n18. **3D Music-Driven Particle Patterns**\n    Simulate particles floating around a central invisible speaker, where different frequencies (mocked by sliders or time steps) cause clusters to pulse, rotate, and form radial or spiral patterns, with trails synchronized to “beats.”\n\n19. **Moiré Pattern from Rotating Grids**\n    Simulate two or three semi-transparent, slightly offset 3D grids of thin lines or rods that rotate at different speeds, generating moving moiré interference patterns in space as they overlap.\n\n20. **Crystal Diffraction Pattern Sphere**\n    Simulate a central crystal made of arranged spheres and a rotating light beam that “hits” it, with scattered rays projected as small glowing points on a surrounding transparent sphere, forming evolving diffraction-like patterns.\n\n21. **River Delta Branching Pattern Formation**\n    Simulate water particles flowing from a source down a gentle slope, carving branching channels into a deformable terrain plane, with darker, deeper paths forming a 3D delta pattern that extends and occasionally reroutes.\n\n22. **3D Spiral Galaxy Pattern Builder**\n    Simulate stars as glowing particles orbiting a galactic center, slowly organizing into spiral arms through gravitational-like rules, with dust-like semi-transparent particles that condense along the arms to emphasize the pattern.\n\n23. **Tiling Pattern Robots on a Floor**\n    Simulate small colored robots gliding over a flat white floor, dropping colored tiles according to simple local rules that cause emergent repeating or quasi-repeating patterns, with overhead labels tracking pattern types.\n\n24. **Bubble Packing Pattern in a Container**\n    Simulate soft, semi-transparent spheres representing bubbles that rise, collide, deform slightly, and pack together at the top of a container, forming evolving packing patterns that rearrange as bubbles merge or pop.\n\n25. **3D Origami Folding Pattern Visualizer**\n    Simulate a thin, semi-transparent square sheet with crease lines, folding step-by-step along predefined axes into a 3D shape, with each fold highlighted by changing edge colors and labels showing the active crease pattern."
+}

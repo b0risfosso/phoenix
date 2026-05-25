@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Reaction chains",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:43:05",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Domino Cascade Reaction Chain Room",
+      "description": "A bright room filled with color-coded domino lines that branch, split, and merge; hitting one domino triggers chained collapses, swinging gates, falling ramps, and bouncing balls with labels and faint motion trails.",
+      "seed": "Domino Cascade Reaction Chain Room: A bright room filled with color-coded domino lines that branch, split, and merge; hitting one domino triggers chained collapses, swinging gates, falling ramps, and bouncing balls with labels and faint motion trails."
+    },
+    {
+      "number": "2",
+      "title": "Chemical Reaction Chain in a Transparent Beaker",
+      "description": "Colored spheres representing molecules float and collide inside a clear beaker, where certain collisions cause molecules to split, merge, or change color, propagating a visible reaction wave through the fluid with tiny particle bursts.",
+      "seed": "Chemical Reaction Chain in a Transparent Beaker: Colored spheres representing molecules float and collide inside a clear beaker, where certain collisions cause molecules to split, merge, or change color, propagating a visible reaction wave through the fluid with tiny particle bursts."
+    },
+    {
+      "number": "3",
+      "title": "Nuclear Fission Chain in a Crystal Lattice",
+      "description": "A 3D lattice of pale spheres (uranium atoms) releases glowing green neutrons when a few central atoms fission, with neutrons bouncing and colliding to trigger new fissions, each labeled and leaving fading glow trails.",
+      "seed": "Nuclear Fission Chain in a Crystal Lattice: A 3D lattice of pale spheres (uranium atoms) releases glowing green neutrons when a few central atoms fission, with neutrons bouncing and colliding to trigger new fissions, each labeled and leaving fading glow trails."
+    },
+    {
+      "number": "4",
+      "title": "Forest Fire Reaction Chain Across a Terrain",
+      "description": "A light-colored landscape with trees as vertical cylinders that ignite one by one; flames spread via glowing particles carried by wind, where each burning tree can trigger nearby trees to ignite, leaving charred, darkened trunks.",
+      "seed": "Forest Fire Reaction Chain Across a Terrain: A light-colored landscape with trees as vertical cylinders that ignite one by one; flames spread via glowing particles carried by wind, where each burning tree can trigger nearby trees to ignite, leaving charred, darkened trunks."
+    },
+    {
+      "number": "5",
+      "title": "Neuron Firing Reaction Chain in a Neural Network",
+      "description": "A 3D web of translucent spheres (neurons) connected by thin tubes; when one neuron fires it glows and sends a pulsing light along its connections, triggering downstream neurons to light up in branching firing chains.",
+      "seed": "Neuron Firing Reaction Chain in a Neural Network: A 3D web of translucent spheres (neurons) connected by thin tubes; when one neuron fires it glows and sends a pulsing light along its connections, triggering downstream neurons to light up in branching firing chains."
+    },
+    {
+      "number": "6",
+      "title": "Toppling Towers and Rube Goldberg Chain",
+      "description": "A sequence of small mechanical setups (balls on ramps, see-saws, pendulums, spinning gears) where knocking over the first block starts a chain of collisions, transfers, and rotating parts that ultimately raise a flag.",
+      "seed": "Toppling Towers and Rube Goldberg Chain: A sequence of small mechanical setups (balls on ramps, see-saws, pendulums, spinning gears) where knocking over the first block starts a chain of collisions, transfers, and rotating parts that ultimately raise a flag."
+    },
+    {
+      "number": "7",
+      "title": "Polymerization Chain Reaction in a Fluid Box",
+      "description": "Monomer spheres drift in a transparent box; when an activated initiator sphere touches a monomer, it attaches and glows, growing a flexible chain that can bend and wrap, triggering more monomers to attach in a branching chain.",
+      "seed": "Polymerization Chain Reaction in a Fluid Box: Monomer spheres drift in a transparent box; when an activated initiator sphere touches a monomer, it attaches and glows, growing a flexible chain that can bend and wrap, triggering more monomers to attach in a branching chain."
+    },
+    {
+      "number": "8",
+      "title": "Social Influence Reaction Chain in a Crowd",
+      "description": "A field of small human-shaped figures standing on a light plane, where one changes color (opinion) and slowly influences neighbors; color spreads in waves of reaction chains, with curved arrows briefly appearing between changing individuals.",
+      "seed": "Social Influence Reaction Chain in a Crowd: A field of small human-shaped figures standing on a light plane, where one changes color (opinion) and slowly influences neighbors; color spreads in waves of reaction chains, with curved arrows briefly appearing between changing individuals."
+    },
+    {
+      "number": "9",
+      "title": "Chain Reaction of Falling Sand Towers",
+      "description": "Stacked sand columns made of small spheres collapse when a base block is removed, sending avalanches that knock over neighboring towers, with dustlike particles and labels identifying each cascade.",
+      "seed": "Chain Reaction of Falling Sand Towers: Stacked sand columns made of small spheres collapse when a base block is removed, sending avalanches that knock over neighboring towers, with dustlike particles and labels identifying each cascade."
+    },
+    {
+      "number": "10",
+      "title": "Explosive Chain in a Mine Shaft",
+      "description": "A 3D tunnel with timed charges represented by cylinders wired together; igniting the first causes a bright flash and expanding shockwave sphere that triggers the next charge down the tunnel, with pressure waves visualized as expanding transparent shells.",
+      "seed": "Explosive Chain in a Mine Shaft: A 3D tunnel with timed charges represented by cylinders wired together; igniting the first causes a bright flash and expanding shockwave sphere that triggers the next charge down the tunnel, with pressure waves visualized as expanding transparent shells."
+    },
+    {
+      "number": "11",
+      "title": "Metabolic Reaction Chain Inside a Cell",
+      "description": "A large translucent cell sphere contains floating enzyme sites and colored substrates; when a substrate hits an enzyme, it transforms and moves to the next enzyme, tracing a labeled pathway as a chain of reactions around the cell interior.",
+      "seed": "Metabolic Reaction Chain Inside a Cell: A large translucent cell sphere contains floating enzyme sites and colored substrates; when a substrate hits an enzyme, it transforms and moves to the next enzyme, tracing a labeled pathway as a chain of reactions around the cell interior."
+    },
+    {
+      "number": "12",
+      "title": "Magnetic Domino Chain with Ferrofluid Spikes",
+      "description": "A line of magnetized blocks stands on a light platform; tipping one causes others to rotate, attract or repel, and at the end triggers a dish of ferrofluid to form spiking patterns that pulse outwards like a reaction wave.",
+      "seed": "Magnetic Domino Chain with Ferrofluid Spikes: A line of magnetized blocks stands on a light platform; tipping one causes others to rotate, attract or repel, and at the end triggers a dish of ferrofluid to form spiking patterns that pulse outwards like a reaction wave."
+    },
+    {
+      "number": "13",
+      "title": "Financial Panic Reaction Chain in 3D Graph Space",
+      "description": "Floating labeled cubes represent banks linked by thin lines; failure of one cube (turning red and shrinking) triggers stress pulses along connections, causing neighbor cubes to wobble, change color, and possibly “default,” propagating a 3D chain.",
+      "seed": "Financial Panic Reaction Chain in 3D Graph Space: Floating labeled cubes represent banks linked by thin lines; failure of one cube (turning red and shrinking) triggers stress pulses along connections, causing neighbor cubes to wobble, change color, and possibly “default,” propagating a 3D chain."
+    },
+    {
+      "number": "14",
+      "title": "Crystal Growth Reaction Front in Solution",
+      "description": "A transparent tank contains ions as small spheres that slowly drift and attach to a central seed crystal; each attachment causes local surfaces to glow and branch, with a reaction front visibly propagating as the crystal grows.",
+      "seed": "Crystal Growth Reaction Front in Solution: A transparent tank contains ions as small spheres that slowly drift and attach to a central seed crystal; each attachment causes local surfaces to glow and branch, with a reaction front visibly propagating as the crystal grows."
+    },
+    {
+      "number": "15",
+      "title": "Rocket Staging and Debris Chain in Orbit",
+      "description": "A staged rocket ascends from a planet and drops glowing, labeled stages; each detached piece can collide with a thin ring of satellites, causing further collisions and splitting debris that orbits, re-enters, or bounces away in a chain.",
+      "seed": "Rocket Staging and Debris Chain in Orbit: A staged rocket ascends from a planet and drops glowing, labeled stages; each detached piece can collide with a thin ring of satellites, causing further collisions and splitting debris that orbits, re-enters, or bounces away in a chain."
+    },
+    {
+      "number": "16",
+      "title": "Reaction Chain of Bouncing Energy Balls",
+      "description": "A grid of stationary bumpers stands in a box; launching one glowing ball into the field causes bounces that transfer energy and color to dormant balls, which then activate and start bouncing, creating branching kinetic chains.",
+      "seed": "Reaction Chain of Bouncing Energy Balls: A grid of stationary bumpers stands in a box; launching one glowing ball into the field causes bounces that transfer energy and color to dormant balls, which then activate and start bouncing, creating branching kinetic chains."
+    },
+    {
+      "number": "17",
+      "title": "Earthquake Fault Reaction Chain in a Crust Block",
+      "description": "A semi-transparent block of “rock” with visible fault planes experiences a small initial slip; stress waves (transparent ripples) propagate and cause other faults to slip in sequence, each slip shifting colored layers and raising surface markers.",
+      "seed": "Earthquake Fault Reaction Chain in a Crust Block: A semi-transparent block of “rock” with visible fault planes experiences a small initial slip; stress waves (transparent ripples) propagate and cause other faults to slip in sequence, each slip shifting colored layers and raising surface markers."
+    },
+    {
+      "number": "18",
+      "title": "Fireworks Reaction Chain in a Clear Night Sky",
+      "description": "A single launched shell explodes into sparks that arc with trails and ignite secondary shells hanging in the air, each new explosion spawning more colored particles and delayed bursts, forming a tree-like reaction of fireworks.",
+      "seed": "Fireworks Reaction Chain in a Clear Night Sky: A single launched shell explodes into sparks that arc with trails and ignite secondary shells hanging in the air, each new explosion spawning more colored particles and delayed bursts, forming a tree-like reaction of fireworks."
+    },
+    {
+      "number": "19",
+      "title": "Viral Spread Reaction Chain in a City Grid",
+      "description": "A light city map with moving spheres (people) along streets; infected red spheres leave faint halos and can turn nearby blue spheres red, starting chains of infections that can be slowed by stationary barrier walls or green “vaccination zones.”",
+      "seed": "Viral Spread Reaction Chain in a City Grid: A light city map with moving spheres (people) along streets; infected red spheres leave faint halos and can turn nearby blue spheres red, starting chains of infections that can be slowed by stationary barrier walls or green “vaccination zones.”"
+    },
+    {
+      "number": "20",
+      "title": "Domino-Like Reaction Chain of Collapsing Bridges",
+      "description": "A row of small bridges over a river, each supporting a sphere; dropping the first sphere knocks pieces from its bridge, whose falling debris hits the next bridge’s supports, propagating a visible structural failure chain down the river.",
+      "seed": "Domino-Like Reaction Chain of Collapsing Bridges: A row of small bridges over a river, each supporting a sphere; dropping the first sphere knocks pieces from its bridge, whose falling debris hits the next bridge’s supports, propagating a visible structural failure chain down the river."
+    },
+    {
+      "number": "21",
+      "title": "Chained Laser Activation in a Mirror Maze",
+      "description": "A maze of reflective panels and photo-sensitive targets; firing one laser beam causes it to bounce and hit a target, which rotates a mirror to open a new path, creating a sequence of laser paths and mirror rotations through the maze.",
+      "seed": "Chained Laser Activation in a Mirror Maze: A maze of reflective panels and photo-sensitive targets; firing one laser beam causes it to bounce and hit a target, which rotates a mirror to open a new path, creating a sequence of laser paths and mirror rotations through the maze."
+    },
+    {
+      "number": "22",
+      "title": "Protein Signal Transduction Chain on a Membrane",
+      "description": "A flat translucent membrane studded with receptor cylinders; when an outside ligand sphere attaches to a receptor, it changes color and triggers interior messenger spheres to detach, move, and activate downstream receptors in a branching chain.",
+      "seed": "Protein Signal Transduction Chain on a Membrane: A flat translucent membrane studded with receptor cylinders; when an outside ligand sphere attaches to a receptor, it changes color and triggers interior messenger spheres to detach, move, and activate downstream receptors in a branching chain."
+    },
+    {
+      "number": "23",
+      "title": "Reaction Chain of Ice Melting and Water Flow",
+      "description": "A field of stacked translucent ice blocks melts from a single heated corner; meltwater flows as particles that erode neighboring blocks, causing more melting and flowing channels that carve paths and pool in low areas.",
+      "seed": "Reaction Chain of Ice Melting and Water Flow: A field of stacked translucent ice blocks melts from a single heated corner; meltwater flows as particles that erode neighboring blocks, causing more melting and flowing channels that carve paths and pool in low areas."
+    },
+    {
+      "number": "24",
+      "title": "Traffic Light Failure Reaction Chain at Intersections",
+      "description": "A 3D grid of roads with moving cars and synchronized lights; failure of one intersection’s light causes cars to bunch and collide, creating jams that ripple through nearby intersections, visualized with color changes and growing queues.",
+      "seed": "Traffic Light Failure Reaction Chain at Intersections: A 3D grid of roads with moving cars and synchronized lights; failure of one intersection’s light causes cars to bunch and collide, creating jams that ripple through nearby intersections, visualized with color changes and growing queues."
+    },
+    {
+      "number": "25",
+      "title": "Chain Reaction in a 3D Puzzle Machine",
+      "description": "A floating 3D puzzle of hinged panels and sliding blocks where pressing one colored block triggers rotations, openings, and falling marbles that travel through tunnels to press more blocks, unfolding the structure layer by layer in a reaction chain.",
+      "seed": "Chain Reaction in a 3D Puzzle Machine: A floating 3D puzzle of hinged panels and sliding blocks where pressing one colored block triggers rotations, openings, and falling marbles that travel through tunnels to press more blocks, unfolding the structure layer by layer in a reaction chain."
+    }
+  ],
+  "raw_output": "Here are strong **Reaction chains simulation inputs** you can plug into your prompt:\n\n1. **Domino Cascade Reaction Chain Room**\n   A bright room filled with color-coded domino lines that branch, split, and merge; hitting one domino triggers chained collapses, swinging gates, falling ramps, and bouncing balls with labels and faint motion trails.\n\n2. **Chemical Reaction Chain in a Transparent Beaker**\n   Colored spheres representing molecules float and collide inside a clear beaker, where certain collisions cause molecules to split, merge, or change color, propagating a visible reaction wave through the fluid with tiny particle bursts.\n\n3. **Nuclear Fission Chain in a Crystal Lattice**\n   A 3D lattice of pale spheres (uranium atoms) releases glowing green neutrons when a few central atoms fission, with neutrons bouncing and colliding to trigger new fissions, each labeled and leaving fading glow trails.\n\n4. **Forest Fire Reaction Chain Across a Terrain**\n   A light-colored landscape with trees as vertical cylinders that ignite one by one; flames spread via glowing particles carried by wind, where each burning tree can trigger nearby trees to ignite, leaving charred, darkened trunks.\n\n5. **Neuron Firing Reaction Chain in a Neural Network**\n   A 3D web of translucent spheres (neurons) connected by thin tubes; when one neuron fires it glows and sends a pulsing light along its connections, triggering downstream neurons to light up in branching firing chains.\n\n6. **Toppling Towers and Rube Goldberg Chain**\n   A sequence of small mechanical setups (balls on ramps, see-saws, pendulums, spinning gears) where knocking over the first block starts a chain of collisions, transfers, and rotating parts that ultimately raise a flag.\n\n7. **Polymerization Chain Reaction in a Fluid Box**\n   Monomer spheres drift in a transparent box; when an activated initiator sphere touches a monomer, it attaches and glows, growing a flexible chain that can bend and wrap, triggering more monomers to attach in a branching chain.\n\n8. **Social Influence Reaction Chain in a Crowd**\n   A field of small human-shaped figures standing on a light plane, where one changes color (opinion) and slowly influences neighbors; color spreads in waves of reaction chains, with curved arrows briefly appearing between changing individuals.\n\n9. **Chain Reaction of Falling Sand Towers**\n   Stacked sand columns made of small spheres collapse when a base block is removed, sending avalanches that knock over neighboring towers, with dustlike particles and labels identifying each cascade.\n\n10. **Explosive Chain in a Mine Shaft**\n    A 3D tunnel with timed charges represented by cylinders wired together; igniting the first causes a bright flash and expanding shockwave sphere that triggers the next charge down the tunnel, with pressure waves visualized as expanding transparent shells.\n\n11. **Metabolic Reaction Chain Inside a Cell**\n    A large translucent cell sphere contains floating enzyme sites and colored substrates; when a substrate hits an enzyme, it transforms and moves to the next enzyme, tracing a labeled pathway as a chain of reactions around the cell interior.\n\n12. **Magnetic Domino Chain with Ferrofluid Spikes**\n    A line of magnetized blocks stands on a light platform; tipping one causes others to rotate, attract or repel, and at the end triggers a dish of ferrofluid to form spiking patterns that pulse outwards like a reaction wave.\n\n13. **Financial Panic Reaction Chain in 3D Graph Space**\n    Floating labeled cubes represent banks linked by thin lines; failure of one cube (turning red and shrinking) triggers stress pulses along connections, causing neighbor cubes to wobble, change color, and possibly “default,” propagating a 3D chain.\n\n14. **Crystal Growth Reaction Front in Solution**\n    A transparent tank contains ions as small spheres that slowly drift and attach to a central seed crystal; each attachment causes local surfaces to glow and branch, with a reaction front visibly propagating as the crystal grows.\n\n15. **Rocket Staging and Debris Chain in Orbit**\n    A staged rocket ascends from a planet and drops glowing, labeled stages; each detached piece can collide with a thin ring of satellites, causing further collisions and splitting debris that orbits, re-enters, or bounces away in a chain.\n\n16. **Reaction Chain of Bouncing Energy Balls**\n    A grid of stationary bumpers stands in a box; launching one glowing ball into the field causes bounces that transfer energy and color to dormant balls, which then activate and start bouncing, creating branching kinetic chains.\n\n17. **Earthquake Fault Reaction Chain in a Crust Block**\n    A semi-transparent block of “rock” with visible fault planes experiences a small initial slip; stress waves (transparent ripples) propagate and cause other faults to slip in sequence, each slip shifting colored layers and raising surface markers.\n\n18. **Fireworks Reaction Chain in a Clear Night Sky**\n    A single launched shell explodes into sparks that arc with trails and ignite secondary shells hanging in the air, each new explosion spawning more colored particles and delayed bursts, forming a tree-like reaction of fireworks.\n\n19. **Viral Spread Reaction Chain in a City Grid**\n    A light city map with moving spheres (people) along streets; infected red spheres leave faint halos and can turn nearby blue spheres red, starting chains of infections that can be slowed by stationary barrier walls or green “vaccination zones.”\n\n20. **Domino-Like Reaction Chain of Collapsing Bridges**\n    A row of small bridges over a river, each supporting a sphere; dropping the first sphere knocks pieces from its bridge, whose falling debris hits the next bridge’s supports, propagating a visible structural failure chain down the river.\n\n21. **Chained Laser Activation in a Mirror Maze**\n    A maze of reflective panels and photo-sensitive targets; firing one laser beam causes it to bounce and hit a target, which rotates a mirror to open a new path, creating a sequence of laser paths and mirror rotations through the maze.\n\n22. **Protein Signal Transduction Chain on a Membrane**\n    A flat translucent membrane studded with receptor cylinders; when an outside ligand sphere attaches to a receptor, it changes color and triggers interior messenger spheres to detach, move, and activate downstream receptors in a branching chain.\n\n23. **Reaction Chain of Ice Melting and Water Flow**\n    A field of stacked translucent ice blocks melts from a single heated corner; meltwater flows as particles that erode neighboring blocks, causing more melting and flowing channels that carve paths and pool in low areas.\n\n24. **Traffic Light Failure Reaction Chain at Intersections**\n    A 3D grid of roads with moving cars and synchronized lights; failure of one intersection’s light causes cars to bunch and collide, creating jams that ripple through nearby intersections, visualized with color changes and growing queues.\n\n25. **Chain Reaction in a 3D Puzzle Machine**\n    A floating 3D puzzle of hinged panels and sliding blocks where pressing one colored block triggers rotations, openings, and falling marbles that travel through tunnels to press more blocks, unfolding the structure layer by layer in a reaction chain."
+}

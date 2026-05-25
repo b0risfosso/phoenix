@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Heat and temperature",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:36:26",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Metal rod conduction chain",
+      "description": "A row of touching metal spheres on a light floor where one end sphere is suddenly heated to red and heat energy pulses along the chain, with color gradients, energy-flow arrows, and temperature labels over time.",
+      "seed": "Metal rod conduction chain: A row of touching metal spheres on a light floor where one end sphere is suddenly heated to red and heat energy pulses along the chain, with color gradients, energy-flow arrows, and temperature labels over time."
+    },
+    {
+      "number": "2",
+      "title": "Hot and cold water mixing tank",
+      "description": "A transparent cube tank half-filled with blue “cold” particles and injected with red “hot” particles from a pipe, where particles bounce, mix, and gradually shift color to purple as temperature equalizes, with a floating thermometer.",
+      "seed": "Hot and cold water mixing tank: A transparent cube tank half-filled with blue “cold” particles and injected with red “hot” particles from a pipe, where particles bounce, mix, and gradually shift color to purple as temperature equalizes, with a floating thermometer."
+    },
+    {
+      "number": "3",
+      "title": "Campfire heating surrounding air",
+      "description": "A flickering orange-red cone of flame built from small glowing particles that rise and fade, warming nearby air particles that speed up and change color from blue to yellow as they drift upward in convection currents.",
+      "seed": "Campfire heating surrounding air: A flickering orange-red cone of flame built from small glowing particles that rise and fade, warming nearby air particles that speed up and change color from blue to yellow as they drift upward in convection currents."
+    },
+    {
+      "number": "4",
+      "title": "Sun heating a rotating planet",
+      "description": "A bright sphere (Sun) radiating thin yellow rays to a slowly rotating Earth-like sphere, where the lit side warms and turns from cool blue to warm green/yellow, with temperature bands labeled around the planet.",
+      "seed": "Sun heating a rotating planet: A bright sphere (Sun) radiating thin yellow rays to a slowly rotating Earth-like sphere, where the lit side warms and turns from cool blue to warm green/yellow, with temperature bands labeled around the planet."
+    },
+    {
+      "number": "5",
+      "title": "Thermal expansion of a metal bridge",
+      "description": "A long, segmented metallic beam spanning two supports that slowly heats from blue to red, expanding and pushing against sliding joints, with small arrows and numeric labels showing length change versus temperature.",
+      "seed": "Thermal expansion of a metal bridge: A long, segmented metallic beam spanning two supports that slowly heats from blue to red, expanding and pushing against sliding joints, with small arrows and numeric labels showing length change versus temperature."
+    },
+    {
+      "number": "6",
+      "title": "Piston–gas temperature and pressure demo",
+      "description": "A transparent cylinder containing bouncing gas particles under a movable piston; compressing the piston speeds and reddens particles (heating), while raising it slows and blues them (cooling), with live pressure and temperature meters.",
+      "seed": "Piston–gas temperature and pressure demo: A transparent cylinder containing bouncing gas particles under a movable piston; compressing the piston speeds and reddens particles (heating), while raising it slows and blues them (cooling), with live pressure and temperature meters."
+    },
+    {
+      "number": "7",
+      "title": "Ice cube melting on a hot plate",
+      "description": "A semi-transparent blue ice block sitting on a glowing orange plate where heat flows upward, the block shrinks and drips clear “water” droplets that spread on the plate, with a color bar showing surface temperature.",
+      "seed": "Ice cube melting on a hot plate: A semi-transparent blue ice block sitting on a glowing orange plate where heat flows upward, the block shrinks and drips clear “water” droplets that spread on the plate, with a color bar showing surface temperature."
+    },
+    {
+      "number": "8",
+      "title": "Infrared radiation from a hot object",
+      "description": "A red-hot metal cube in the center of a light room emitting thin semi-transparent purple rays that curve outward and fade, heating nearby small spheres that gradually shift color and display numeric temperature labels.",
+      "seed": "Infrared radiation from a hot object: A red-hot metal cube in the center of a light room emitting thin semi-transparent purple rays that curve outward and fade, heating nearby small spheres that gradually shift color and display numeric temperature labels."
+    },
+    {
+      "number": "9",
+      "title": "Thermal conduction through layered wall materials",
+      "description": "A stack of flat slabs (metal, wood, insulation, brick) clamped between a hot red plate and a cold blue plate, with animated heat-flow arrows, color gradients through each layer, and a graph-style thermometer hovering above each layer.",
+      "seed": "Thermal conduction through layered wall materials: A stack of flat slabs (metal, wood, insulation, brick) clamped between a hot red plate and a cold blue plate, with animated heat-flow arrows, color gradients through each layer, and a graph-style thermometer hovering above each layer."
+    },
+    {
+      "number": "10",
+      "title": "Lava flow cooling into rock",
+      "description": "A glowing orange lava stream flowing down a gentle slope, cooling and darkening to gray rock as it moves, with steam-like white particles rising where temperature drops rapidly and labels marking “hot,” “warm,” and “solidified” zones.",
+      "seed": "Lava flow cooling into rock: A glowing orange lava stream flowing down a gentle slope, cooling and darkening to gray rock as it moves, with steam-like white particles rising where temperature drops rapidly and labels marking “hot,” “warm,” and “solidified” zones."
+    },
+    {
+      "number": "11",
+      "title": "Thermal imaging of a walking figure",
+      "description": "A simple humanoid figure walking across a light floor while an overhead “thermal camera” plane scans and projects a false-color temperature map onto the figure’s surface, shifting from cool blues to warm reds at joints and torso.",
+      "seed": "Thermal imaging of a walking figure: A simple humanoid figure walking across a light floor while an overhead “thermal camera” plane scans and projects a false-color temperature map onto the figure’s surface, shifting from cool blues to warm reds at joints and torso."
+    },
+    {
+      "number": "12",
+      "title": "Convection currents in a heated fluid box",
+      "description": "A transparent rectangular container filled with many tiny spheres representing fluid; the bottom is heated red, top cooled blue, and particles near the bottom rise while cooler particles sink, forming visible circulating convection loops.",
+      "seed": "Convection currents in a heated fluid box: A transparent rectangular container filled with many tiny spheres representing fluid; the bottom is heated red, top cooled blue, and particles near the bottom rise while cooler particles sink, forming visible circulating convection loops."
+    },
+    {
+      "number": "13",
+      "title": "Bimetallic strip bending with heat",
+      "description": "A curved strip made of two attached colored layers (e.g., blue and red metals) heated from one end, where differential expansion causes the strip to bend more as it warms, with a trailing arc or ghost outline showing its original shape.",
+      "seed": "Bimetallic strip bending with heat: A curved strip made of two attached colored layers (e.g., blue and red metals) heated from one end, where differential expansion causes the strip to bend more as it warms, with a trailing arc or ghost outline showing its original shape."
+    },
+    {
+      "number": "14",
+      "title": "Heat diffusion on a metal plate with hotspots",
+      "description": "A thin flat square plate with several small red “hot spots” that slowly diffuse out into cooler blue regions, visualized by a smoothly changing color map and tiny arrows showing local heat-flow directions across the surface.",
+      "seed": "Heat diffusion on a metal plate with hotspots: A thin flat square plate with several small red “hot spots” that slowly diffuse out into cooler blue regions, visualized by a smoothly changing color map and tiny arrows showing local heat-flow directions across the surface."
+    },
+    {
+      "number": "15",
+      "title": "Exploding star cooling remnant",
+      "description": "A bright, pulsing star expands rapidly into a spherical shell of glowing particles, which spread, cool, and dim from white to red to blue, while a central compact remnant sphere sits at the origin with a labeled temperature readout.",
+      "seed": "Exploding star cooling remnant: A bright, pulsing star expands rapidly into a spherical shell of glowing particles, which spread, cool, and dim from white to red to blue, while a central compact remnant sphere sits at the origin with a labeled temperature readout."
+    },
+    {
+      "number": "16",
+      "title": "Human hand touching a cold metal bar",
+      "description": "A semi-transparent hand-shaped object moves to grip a long cold blue metal cylinder; the contact region of both hand and bar gradually change color as heat transfers, with animated arrows and numeric temperature labels at the contact points.",
+      "seed": "Human hand touching a cold metal bar: A semi-transparent hand-shaped object moves to grip a long cold blue metal cylinder; the contact region of both hand and bar gradually change color as heat transfers, with animated arrows and numeric temperature labels at the contact points."
+    },
+    {
+      "number": "17",
+      "title": "Heat pipe with evaporating and condensing fluid",
+      "description": "A long horizontal transparent tube partly filled with colored liquid that evaporates into gas at a heated red end and condenses as droplets at a cooled blue end, with tiny particles moving along the tube to show heat transport direction.",
+      "seed": "Heat pipe with evaporating and condensing fluid: A long horizontal transparent tube partly filled with colored liquid that evaporates into gas at a heated red end and condenses as droplets at a cooled blue end, with tiny particles moving along the tube to show heat transport direction."
+    },
+    {
+      "number": "18",
+      "title": "Thermal shock on a glass sphere",
+      "description": "A clear glass sphere is rapidly dipped into a cold blue bath after being heated orange, causing surface temperature to drop quickly, visualized with cracking patterns that spread if cooling is too rapid, plus a thermometer label above.",
+      "seed": "Thermal shock on a glass sphere: A clear glass sphere is rapidly dipped into a cold blue bath after being heated orange, causing surface temperature to drop quickly, visualized with cracking patterns that spread if cooling is too rapid, plus a thermometer label above."
+    },
+    {
+      "number": "19",
+      "title": "Radiator heating a room with furniture",
+      "description": "A small red radiator along one wall emits warm air particles that rise, circulate around simple box-shaped furniture, and slowly heat the room air and objects (color-shifting from cool to warm), with a floating room-average temperature gauge.",
+      "seed": "Radiator heating a room with furniture: A small red radiator along one wall emits warm air particles that rise, circulate around simple box-shaped furniture, and slowly heat the room air and objects (color-shifting from cool to warm), with a floating room-average temperature gauge."
+    },
+    {
+      "number": "20",
+      "title": "Thermally driven Brownian motion in two regions",
+      "description": "A transparent box divided into a hot red side and a cold blue side, each filled with tiny pollen-like particles buffeted by invisible molecules (represented by random jostling), where the hot side particles jitter more vigorously than the cold side ones.",
+      "seed": "Thermally driven Brownian motion in two regions: A transparent box divided into a hot red side and a cold blue side, each filled with tiny pollen-like particles buffeted by invisible molecules (represented by random jostling), where the hot side particles jitter more vigorously than the cold side ones."
+    },
+    {
+      "number": "21",
+      "title": "Heat-induced phase change of metal spheres",
+      "description": "An array of small metal spheres arranged in a lattice on a plate is gradually heated until some spheres “melt” and detach, flowing as a liquid cluster, then cooled so they reattach and crystallize back into an ordered solid.",
+      "seed": "Heat-induced phase change of metal spheres: An array of small metal spheres arranged in a lattice on a plate is gradually heated until some spheres “melt” and detach, flowing as a liquid cluster, then cooled so they reattach and crystallize back into an ordered solid."
+    },
+    {
+      "number": "22",
+      "title": "Temperature gradient along a train rail",
+      "description": "A long rail made of connected segments stretches across a light landscape with varying ground temperatures; segments change color along a gradient from cold to hot, subtly expanding or contracting and slightly shifting the positions of attached sleepers.",
+      "seed": "Temperature gradient along a train rail: A long rail made of connected segments stretches across a light landscape with varying ground temperatures; segments change color along a gradient from cold to hot, subtly expanding or contracting and slightly shifting the positions of attached sleepers."
+    },
+    {
+      "number": "23",
+      "title": "Heat flow in a CPU chip cross-section",
+      "description": "A cutaway 3D block showing layers of a microchip where a central processing core heats red under load, with animated heat-flow lines spreading into cooler blue heat-sink fins above, and labels over “core,” “heat spreader,” and “sink.”",
+      "seed": "Heat flow in a CPU chip cross-section: A cutaway 3D block showing layers of a microchip where a central processing core heats red under load, with animated heat-flow lines spreading into cooler blue heat-sink fins above, and labels over “core,” “heat spreader,” and “sink.”"
+    },
+    {
+      "number": "24",
+      "title": "Atmospheric temperature layers above a city",
+      "description": "Simple city blocks at the ground with a vertical column of stacked transparent layers of air above, each layer colored by temperature, where a rising warm plume from buildings and roads slowly modifies the stratified temperature profile.",
+      "seed": "Atmospheric temperature layers above a city: Simple city blocks at the ground with a vertical column of stacked transparent layers of air above, each layer colored by temperature, where a rising warm plume from buildings and roads slowly modifies the stratified temperature profile."
+    },
+    {
+      "number": "25",
+      "title": "Solar oven focusing sunlight onto a pot",
+      "description": "A reflective parabolic dish rotates to track a bright “sun” sphere and focuses yellow beams onto a small dark pot at its focus, which gradually heats from blue to red, with a visible temperature label and faint shimmering air above it.",
+      "seed": "Solar oven focusing sunlight onto a pot: A reflective parabolic dish rotates to track a bright “sun” sphere and focuses yellow beams onto a small dark pot at its focus, which gradually heats from blue to red, with a visible temperature label and faint shimmering air above it."
+    }
+  ],
+  "raw_output": "Here are strong **Heat and temperature simulation inputs** you can plug into your prompt:\n\n1. **Metal rod conduction chain**\n   A row of touching metal spheres on a light floor where one end sphere is suddenly heated to red and heat energy pulses along the chain, with color gradients, energy-flow arrows, and temperature labels over time.\n\n2. **Hot and cold water mixing tank**\n   A transparent cube tank half-filled with blue “cold” particles and injected with red “hot” particles from a pipe, where particles bounce, mix, and gradually shift color to purple as temperature equalizes, with a floating thermometer.\n\n3. **Campfire heating surrounding air**\n   A flickering orange-red cone of flame built from small glowing particles that rise and fade, warming nearby air particles that speed up and change color from blue to yellow as they drift upward in convection currents.\n\n4. **Sun heating a rotating planet**\n   A bright sphere (Sun) radiating thin yellow rays to a slowly rotating Earth-like sphere, where the lit side warms and turns from cool blue to warm green/yellow, with temperature bands labeled around the planet.\n\n5. **Thermal expansion of a metal bridge**\n   A long, segmented metallic beam spanning two supports that slowly heats from blue to red, expanding and pushing against sliding joints, with small arrows and numeric labels showing length change versus temperature.\n\n6. **Piston–gas temperature and pressure demo**\n   A transparent cylinder containing bouncing gas particles under a movable piston; compressing the piston speeds and reddens particles (heating), while raising it slows and blues them (cooling), with live pressure and temperature meters.\n\n7. **Ice cube melting on a hot plate**\n   A semi-transparent blue ice block sitting on a glowing orange plate where heat flows upward, the block shrinks and drips clear “water” droplets that spread on the plate, with a color bar showing surface temperature.\n\n8. **Infrared radiation from a hot object**\n   A red-hot metal cube in the center of a light room emitting thin semi-transparent purple rays that curve outward and fade, heating nearby small spheres that gradually shift color and display numeric temperature labels.\n\n9. **Thermal conduction through layered wall materials**\n   A stack of flat slabs (metal, wood, insulation, brick) clamped between a hot red plate and a cold blue plate, with animated heat-flow arrows, color gradients through each layer, and a graph-style thermometer hovering above each layer.\n\n10. **Lava flow cooling into rock**\n    A glowing orange lava stream flowing down a gentle slope, cooling and darkening to gray rock as it moves, with steam-like white particles rising where temperature drops rapidly and labels marking “hot,” “warm,” and “solidified” zones.\n\n11. **Thermal imaging of a walking figure**\n    A simple humanoid figure walking across a light floor while an overhead “thermal camera” plane scans and projects a false-color temperature map onto the figure’s surface, shifting from cool blues to warm reds at joints and torso.\n\n12. **Convection currents in a heated fluid box**\n    A transparent rectangular container filled with many tiny spheres representing fluid; the bottom is heated red, top cooled blue, and particles near the bottom rise while cooler particles sink, forming visible circulating convection loops.\n\n13. **Bimetallic strip bending with heat**\n    A curved strip made of two attached colored layers (e.g., blue and red metals) heated from one end, where differential expansion causes the strip to bend more as it warms, with a trailing arc or ghost outline showing its original shape.\n\n14. **Heat diffusion on a metal plate with hotspots**\n    A thin flat square plate with several small red “hot spots” that slowly diffuse out into cooler blue regions, visualized by a smoothly changing color map and tiny arrows showing local heat-flow directions across the surface.\n\n15. **Exploding star cooling remnant**\n    A bright, pulsing star expands rapidly into a spherical shell of glowing particles, which spread, cool, and dim from white to red to blue, while a central compact remnant sphere sits at the origin with a labeled temperature readout.\n\n16. **Human hand touching a cold metal bar**\n    A semi-transparent hand-shaped object moves to grip a long cold blue metal cylinder; the contact region of both hand and bar gradually change color as heat transfers, with animated arrows and numeric temperature labels at the contact points.\n\n17. **Heat pipe with evaporating and condensing fluid**\n    A long horizontal transparent tube partly filled with colored liquid that evaporates into gas at a heated red end and condenses as droplets at a cooled blue end, with tiny particles moving along the tube to show heat transport direction.\n\n18. **Thermal shock on a glass sphere**\n    A clear glass sphere is rapidly dipped into a cold blue bath after being heated orange, causing surface temperature to drop quickly, visualized with cracking patterns that spread if cooling is too rapid, plus a thermometer label above.\n\n19. **Radiator heating a room with furniture**\n    A small red radiator along one wall emits warm air particles that rise, circulate around simple box-shaped furniture, and slowly heat the room air and objects (color-shifting from cool to warm), with a floating room-average temperature gauge.\n\n20. **Thermally driven Brownian motion in two regions**\n    A transparent box divided into a hot red side and a cold blue side, each filled with tiny pollen-like particles buffeted by invisible molecules (represented by random jostling), where the hot side particles jitter more vigorously than the cold side ones.\n\n21. **Heat-induced phase change of metal spheres**\n    An array of small metal spheres arranged in a lattice on a plate is gradually heated until some spheres “melt” and detach, flowing as a liquid cluster, then cooled so they reattach and crystallize back into an ordered solid.\n\n22. **Temperature gradient along a train rail**\n    A long rail made of connected segments stretches across a light landscape with varying ground temperatures; segments change color along a gradient from cold to hot, subtly expanding or contracting and slightly shifting the positions of attached sleepers.\n\n23. **Heat flow in a CPU chip cross-section**\n    A cutaway 3D block showing layers of a microchip where a central processing core heats red under load, with animated heat-flow lines spreading into cooler blue heat-sink fins above, and labels over “core,” “heat spreader,” and “sink.”\n\n24. **Atmospheric temperature layers above a city**\n    Simple city blocks at the ground with a vertical column of stacked transparent layers of air above, each layer colored by temperature, where a rising warm plume from buildings and roads slowly modifies the stratified temperature profile.\n\n25. **Solar oven focusing sunlight onto a pot**\n    A reflective parabolic dish rotates to track a bright “sun” sphere and focuses yellow beams onto a small dark pot at its focus, which gradually heats from blue to red, with a visible temperature label and faint shimmering air above it."
+}

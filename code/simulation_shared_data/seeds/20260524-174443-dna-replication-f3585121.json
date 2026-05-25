@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "DNA replication",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:44:43",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Replication Fork Assembly on a Floating DNA Ladder",
+      "description": "A long double-helix tube slowly unwinds into two strands while colored spheres (helicase, primase, DNA polymerase) attach, detach, and slide along the strands, leaving growing chains of small beads (new nucleotides) that glow briefly as they snap into place.",
+      "seed": "Replication Fork Assembly on a Floating DNA Ladder: A long double-helix tube slowly unwinds into two strands while colored spheres (helicase, primase, DNA polymerase) attach, detach, and slide along the strands, leaving growing chains of small beads (new nucleotides) that glow briefly as they snap into place."
+    },
+    {
+      "number": "2",
+      "title": "Helicase Motor Unzipping a Giant DNA Zipper",
+      "description": "A large torus-shaped “helicase” gear rotates and crawls along a vertical helical zipper, splitting the two strands apart into a widening Y-shaped fork while semi-transparent hydrogen-bond “springs” between bases stretch, snap, and vanish in bursts of particles.",
+      "seed": "Helicase Motor Unzipping a Giant DNA Zipper: A large torus-shaped “helicase” gear rotates and crawls along a vertical helical zipper, splitting the two strands apart into a widening Y-shaped fork while semi-transparent hydrogen-bond “springs” between bases stretch, snap, and vanish in bursts of particles."
+    },
+    {
+      "number": "3",
+      "title": "Leading vs Lagging Strand with Okazaki Fragments",
+      "description": "Two parallel template strands stretch across the scene as one side shows a smooth, continuous chain of beads forming (leading strand) and the other side shows short Okazaki fragments appearing, sliding together, and fusing with glowing pulses where ligase “bridges” connect them.",
+      "seed": "Leading vs Lagging Strand with Okazaki Fragments: Two parallel template strands stretch across the scene as one side shows a smooth, continuous chain of beads forming (leading strand) and the other side shows short Okazaki fragments appearing, sliding together, and fusing with glowing pulses where ligase “bridges” connect them."
+    },
+    {
+      "number": "4",
+      "title": "Replication Bubble Expanding in a Circular Chromosome",
+      "description": "A circular DNA ring lies flat while multiple replication bubbles appear as transparent ovals that expand; from each bubble, two forks move in opposite directions as colored beads representing nucleotides zip in from the surrounding fluid and attach to the exposed single strands.",
+      "seed": "Replication Bubble Expanding in a Circular Chromosome: A circular DNA ring lies flat while multiple replication bubbles appear as transparent ovals that expand; from each bubble, two forks move in opposite directions as colored beads representing nucleotides zip in from the surrounding fluid and attach to the exposed single strands."
+    },
+    {
+      "number": "5",
+      "title": "Base-Pair Matching and Proofreading Mini-Game",
+      "description": "A straightened single DNA strand moves slowly past the viewer while loose nucleotides of different colors float around and snap onto the strand; a polymerase “scanner” sphere glides behind, ejecting mismatched beads with small red flashes and leaving corrected beads that briefly glow green.",
+      "seed": "Base-Pair Matching and Proofreading Mini-Game: A straightened single DNA strand moves slowly past the viewer while loose nucleotides of different colors float around and snap onto the strand; a polymerase “scanner” sphere glides behind, ejecting mismatched beads with small red flashes and leaving corrected beads that briefly glow green."
+    },
+    {
+      "number": "6",
+      "title": "Semi-Conservative Replication Color Transition",
+      "description": "An original helix made of red and white strands separates; each old strand (red) gains a new blue partner strand, so that two daughter helices form with half-red, half-blue composition, with a simple counter label updating the number of old vs new strands.",
+      "seed": "Semi-Conservative Replication Color Transition: An original helix made of red and white strands separates; each old strand (red) gains a new blue partner strand, so that two daughter helices form with half-red, half-blue composition, with a simple counter label updating the number of old vs new strands."
+    },
+    {
+      "number": "7",
+      "title": "Replication Factory with Multiple Forks in a Nucleus",
+      "description": "Inside a semi-transparent spherical nucleus, many DNA loops radiate from a central “replication factory” hub where several replication forks spin like a carousel, each fork pulling DNA through itself and leaving duplicated, differently colored segments that coil neatly behind.",
+      "seed": "Replication Factory with Multiple Forks in a Nucleus: Inside a semi-transparent spherical nucleus, many DNA loops radiate from a central “replication factory” hub where several replication forks spin like a carousel, each fork pulling DNA through itself and leaving duplicated, differently colored segments that coil neatly behind."
+    },
+    {
+      "number": "8",
+      "title": "Topoisomerase Relieving DNA Supercoils",
+      "description": "A long helical cable twists and supercoils as helicase advances; a topoisomerase clamp periodically attaches to overwound regions, briefly cuts and rotates segments (seen as a small rotation and color pulse), then reseals them, visibly reducing the tension and untwisting the helix.",
+      "seed": "Topoisomerase Relieving DNA Supercoils: A long helical cable twists and supercoils as helicase advances; a topoisomerase clamp periodically attaches to overwound regions, briefly cuts and rotates segments (seen as a small rotation and color pulse), then reseals them, visibly reducing the tension and untwisting the helix."
+    },
+    {
+      "number": "9",
+      "title": "Chromatin Unpacking and Replication",
+      "description": "DNA wrapped around colored histone spheres (nucleosomes) gradually unwraps, with the wraps rotating off like ribbons; exposed DNA segments are replicated by moving polymerase complexes, after which new nucleosomes (lighter colored) slide in and re-wrap the freshly copied DNA.",
+      "seed": "Chromatin Unpacking and Replication: DNA wrapped around colored histone spheres (nucleosomes) gradually unwraps, with the wraps rotating off like ribbons; exposed DNA segments are replicated by moving polymerase complexes, after which new nucleosomes (lighter colored) slide in and re-wrap the freshly copied DNA."
+    },
+    {
+      "number": "10",
+      "title": "Bidirectional Replication from Multiple Origins",
+      "description": "A long, slightly curved DNA fiber spans the scene with several “origin” markers that light up in sequence; from each origin, two forks emerge and move away in opposite directions, their progress shown by color-shifting the replicated regions and leaving faint trails indicating fork paths.",
+      "seed": "Bidirectional Replication from Multiple Origins: A long, slightly curved DNA fiber spans the scene with several “origin” markers that light up in sequence; from each origin, two forks emerge and move away in opposite directions, their progress shown by color-shifting the replicated regions and leaving faint trails indicating fork paths."
+    },
+    {
+      "number": "11",
+      "title": "Replication Under Resource Limitation Meter",
+      "description": "Nucleotide “fuel” beads in a side reservoir flow toward polymerases along thin tubes; as the reservoir level meter drops, polymerases slow and occasionally stall with blinking warning colors, then resume when more beads spill in, visually coupling replication speed to resource availability.",
+      "seed": "Replication Under Resource Limitation Meter: Nucleotide “fuel” beads in a side reservoir flow toward polymerases along thin tubes; as the reservoir level meter drops, polymerases slow and occasionally stall with blinking warning colors, then resume when more beads spill in, visually coupling replication speed to resource availability."
+    },
+    {
+      "number": "12",
+      "title": "DNA Damage and Repair During Replication",
+      "description": "Random segments of the template strand show as broken or mismatched (jagged or off-color) while polymerases approach; when they encounter damage, they stop and a repair complex attaches, excises a glowing red segment, replaces it with normal beads, then releases the polymerase to continue.",
+      "seed": "DNA Damage and Repair During Replication: Random segments of the template strand show as broken or mismatched (jagged or off-color) while polymerases approach; when they encounter damage, they stop and a repair complex attaches, excises a glowing red segment, replaces it with normal beads, then releases the polymerase to continue."
+    },
+    {
+      "number": "13",
+      "title": "Circular Plasmid Replication with Theta Structure",
+      "description": "A small circular plasmid hovers mid-air; as replication starts, a “theta” bubble forms with one replicated arm thicker and differently colored, and you can watch the replication fork move around the circle until the two rings separate and drift apart with a soft bounce.",
+      "seed": "Circular Plasmid Replication with Theta Structure: A small circular plasmid hovers mid-air; as replication starts, a “theta” bubble forms with one replicated arm thicker and differently colored, and you can watch the replication fork move around the circle until the two rings separate and drift apart with a soft bounce."
+    },
+    {
+      "number": "14",
+      "title": "Bacterial Replisome Conveyor Belt",
+      "description": "The replication machinery remains fixed in the center as the DNA double helix is pulled through like a conveyor; one strand loops around in a large dynamic loop to allow lagging-strand synthesis, periodically growing and shrinking as Okazaki fragments form and are ligated.",
+      "seed": "Bacterial Replisome Conveyor Belt: The replication machinery remains fixed in the center as the DNA double helix is pulled through like a conveyor; one strand loops around in a large dynamic loop to allow lagging-strand synthesis, periodically growing and shrinking as Okazaki fragments form and are ligated."
+    },
+    {
+      "number": "15",
+      "title": "Replication Timing Waves Across a Chromosome",
+      "description": "A long DNA fiber laid out like a landscape has regions colored by replication timing; waves of activation lights move along it, and active regions sprout many small forks that replicate locally then fade, while a timeline bar at the bottom shows global progress.",
+      "seed": "Replication Timing Waves Across a Chromosome: A long DNA fiber laid out like a landscape has regions colored by replication timing; waves of activation lights move along it, and active regions sprout many small forks that replicate locally then fade, while a timeline bar at the bottom shows global progress."
+    },
+    {
+      "number": "16",
+      "title": "Mechanical City Metaphor for DNA Replication",
+      "description": "A factory-like city uses a central “blueprint spiral” (DNA helix) being uncoiled by crane arms while assembly robots (polymerases) run along conveyor belts (strands), picking colored blocks (nucleotides) from silos and snapping them into new parallel blueprint lanes with sparks when they mismatch.",
+      "seed": "Mechanical City Metaphor for DNA Replication: A factory-like city uses a central “blueprint spiral” (DNA helix) being uncoiled by crane arms while assembly robots (polymerases) run along conveyor belts (strands), picking colored blocks (nucleotides) from silos and snapping them into new parallel blueprint lanes with sparks when they mismatch."
+    },
+    {
+      "number": "17",
+      "title": "Replication vs Transcription Traffic on DNA",
+      "description": "A straight DNA track hosts both replication forks and smaller transcription complexes; replication forks move faster and are shown pushing or pausing transcription complexes when they collide, with short “traffic jam” clusters forming and then resolving as one complex detaches or moves aside.",
+      "seed": "Replication vs Transcription Traffic on DNA: A straight DNA track hosts both replication forks and smaller transcription complexes; replication forks move faster and are shown pushing or pausing transcription complexes when they collide, with short “traffic jam” clusters forming and then resolving as one complex detaches or moves aside."
+    },
+    {
+      "number": "18",
+      "title": "Mitochondrial DNA Replication in 3D Organelle",
+      "description": "Inside a semi-transparent, bean-shaped mitochondrion, several circular DNAs float and rotate; each circle shows replication bubbles forming, with small enzyme complexes attaching and detaching, while the organelle’s inner membrane folds are faintly visible as textured ridges.",
+      "seed": "Mitochondrial DNA Replication in 3D Organelle: Inside a semi-transparent, bean-shaped mitochondrion, several circular DNAs float and rotate; each circle shows replication bubbles forming, with small enzyme complexes attaching and detaching, while the organelle’s inner membrane folds are faintly visible as textured ridges."
+    },
+    {
+      "number": "19",
+      "title": "Replication Stress and Fork Collapse Visualization",
+      "description": "As forks progress along a DNA fiber, random blocks appear (protein obstacles or crosslinks) that cause forks to slow and then either bypass or “collapse,” shown by the fork components scattering as particles; rescue forks approach from nearby origins to restart replication on stalled segments.",
+      "seed": "Replication Stress and Fork Collapse Visualization: As forks progress along a DNA fiber, random blocks appear (protein obstacles or crosslinks) that cause forks to slow and then either bypass or “collapse,” shown by the fork components scattering as particles; rescue forks approach from nearby origins to restart replication on stalled segments."
+    },
+    {
+      "number": "20",
+      "title": "DNA Replication Speed vs Error Rate Control Panel",
+      "description": "A single replication fork moves along a strand while a side slider (virtual “speed control”) visibly changes the fork’s speed; at higher speeds, mismatched colored beads attach more often and are sometimes missed by the proofreading sphere, with a running error counter updating above the strand.",
+      "seed": "DNA Replication Speed vs Error Rate Control Panel: A single replication fork moves along a strand while a side slider (virtual “speed control”) visibly changes the fork’s speed; at higher speeds, mismatched colored beads attach more often and are sometimes missed by the proofreading sphere, with a running error counter updating above the strand."
+    },
+    {
+      "number": "21",
+      "title": "Eukaryotic vs Prokaryotic Replication Comparison",
+      "description": "Two side-by-side panels show a large linear chromosome with many origins and a small circular chromosome with one origin; forks start, move, and finish in both systems while labels and colored progress bars above each panel track time and number of active forks.",
+      "seed": "Eukaryotic vs Prokaryotic Replication Comparison: Two side-by-side panels show a large linear chromosome with many origins and a small circular chromosome with one origin; forks start, move, and finish in both systems while labels and colored progress bars above each panel track time and number of active forks."
+    },
+    {
+      "number": "22",
+      "title": "DNA Replication Bubble Cross-Section",
+      "description": "A thick DNA cable is sliced in the middle to reveal a cross-section bubble: two diverging forks are seen in 3D as colored channels where single strands are separated and coated by small protective proteins, while new strands grow inward and outward in a clear, labeled Y-shaped structure.",
+      "seed": "DNA Replication Bubble Cross-Section: A thick DNA cable is sliced in the middle to reveal a cross-section bubble: two diverging forks are seen in 3D as colored channels where single strands are separated and coated by small protective proteins, while new strands grow inward and outward in a clear, labeled Y-shaped structure."
+    },
+    {
+      "number": "23",
+      "title": "Polymerase Sliding Clamp Dynamics",
+      "description": "A doughnut-shaped clamp sits around the DNA strand and slides smoothly as a polymerase sphere pushes it; when Okazaki fragments end, the clamp pops off with a quick spin, diffuses briefly, and is then reloaded ahead on the strand by a loader complex, leaving faint trails of its path.",
+      "seed": "Polymerase Sliding Clamp Dynamics: A doughnut-shaped clamp sits around the DNA strand and slides smoothly as a polymerase sphere pushes it; when Okazaki fragments end, the clamp pops off with a quick spin, diffuses briefly, and is then reloaded ahead on the strand by a loader complex, leaving faint trails of its path."
+    },
+    {
+      "number": "24",
+      "title": "Giant Cell-Scale View of S Phase",
+      "description": "A whole cell model (transparent sphere) contains loosely coiled chromosomes; during “S phase,” chromosomes gradually change color from pale to bright as replication progresses along them, with tiny spark points marking active origins and a central timer counting through the phase.",
+      "seed": "Giant Cell-Scale View of S Phase: A whole cell model (transparent sphere) contains loosely coiled chromosomes; during “S phase,” chromosomes gradually change color from pale to bright as replication progresses along them, with tiny spark points marking active origins and a central timer counting through the phase."
+    },
+    {
+      "number": "25",
+      "title": "Interactive Base Pair Matching Conveyor",
+      "description": "A straight template strand moves on a horizontal belt while random colored bases hover above; correct complements are magnetically pulled down and snap into place, incorrect ones bounce off and drift away, and a percentage meter above the belt shows replication fidelity changing over time.",
+      "seed": "Interactive Base Pair Matching Conveyor: A straight template strand moves on a horizontal belt while random colored bases hover above; correct complements are magnetically pulled down and snap into place, incorrect ones bounce off and drift away, and a percentage meter above the belt shows replication fidelity changing over time."
+    }
+  ],
+  "raw_output": "Here are strong **DNA replication simulation inputs** you can plug into your prompt:\n\n1. **Replication Fork Assembly on a Floating DNA Ladder**\n   A long double-helix tube slowly unwinds into two strands while colored spheres (helicase, primase, DNA polymerase) attach, detach, and slide along the strands, leaving growing chains of small beads (new nucleotides) that glow briefly as they snap into place.\n\n2. **Helicase Motor Unzipping a Giant DNA Zipper**\n   A large torus-shaped “helicase” gear rotates and crawls along a vertical helical zipper, splitting the two strands apart into a widening Y-shaped fork while semi-transparent hydrogen-bond “springs” between bases stretch, snap, and vanish in bursts of particles.\n\n3. **Leading vs Lagging Strand with Okazaki Fragments**\n   Two parallel template strands stretch across the scene as one side shows a smooth, continuous chain of beads forming (leading strand) and the other side shows short Okazaki fragments appearing, sliding together, and fusing with glowing pulses where ligase “bridges” connect them.\n\n4. **Replication Bubble Expanding in a Circular Chromosome**\n   A circular DNA ring lies flat while multiple replication bubbles appear as transparent ovals that expand; from each bubble, two forks move in opposite directions as colored beads representing nucleotides zip in from the surrounding fluid and attach to the exposed single strands.\n\n5. **Base-Pair Matching and Proofreading Mini-Game**\n   A straightened single DNA strand moves slowly past the viewer while loose nucleotides of different colors float around and snap onto the strand; a polymerase “scanner” sphere glides behind, ejecting mismatched beads with small red flashes and leaving corrected beads that briefly glow green.\n\n6. **Semi-Conservative Replication Color Transition**\n   An original helix made of red and white strands separates; each old strand (red) gains a new blue partner strand, so that two daughter helices form with half-red, half-blue composition, with a simple counter label updating the number of old vs new strands.\n\n7. **Replication Factory with Multiple Forks in a Nucleus**\n   Inside a semi-transparent spherical nucleus, many DNA loops radiate from a central “replication factory” hub where several replication forks spin like a carousel, each fork pulling DNA through itself and leaving duplicated, differently colored segments that coil neatly behind.\n\n8. **Topoisomerase Relieving DNA Supercoils**\n   A long helical cable twists and supercoils as helicase advances; a topoisomerase clamp periodically attaches to overwound regions, briefly cuts and rotates segments (seen as a small rotation and color pulse), then reseals them, visibly reducing the tension and untwisting the helix.\n\n9. **Chromatin Unpacking and Replication**\n   DNA wrapped around colored histone spheres (nucleosomes) gradually unwraps, with the wraps rotating off like ribbons; exposed DNA segments are replicated by moving polymerase complexes, after which new nucleosomes (lighter colored) slide in and re-wrap the freshly copied DNA.\n\n10. **Bidirectional Replication from Multiple Origins**\n   A long, slightly curved DNA fiber spans the scene with several “origin” markers that light up in sequence; from each origin, two forks emerge and move away in opposite directions, their progress shown by color-shifting the replicated regions and leaving faint trails indicating fork paths.\n\n11. **Replication Under Resource Limitation Meter**\n   Nucleotide “fuel” beads in a side reservoir flow toward polymerases along thin tubes; as the reservoir level meter drops, polymerases slow and occasionally stall with blinking warning colors, then resume when more beads spill in, visually coupling replication speed to resource availability.\n\n12. **DNA Damage and Repair During Replication**\n   Random segments of the template strand show as broken or mismatched (jagged or off-color) while polymerases approach; when they encounter damage, they stop and a repair complex attaches, excises a glowing red segment, replaces it with normal beads, then releases the polymerase to continue.\n\n13. **Circular Plasmid Replication with Theta Structure**\n   A small circular plasmid hovers mid-air; as replication starts, a “theta” bubble forms with one replicated arm thicker and differently colored, and you can watch the replication fork move around the circle until the two rings separate and drift apart with a soft bounce.\n\n14. **Bacterial Replisome Conveyor Belt**\n   The replication machinery remains fixed in the center as the DNA double helix is pulled through like a conveyor; one strand loops around in a large dynamic loop to allow lagging-strand synthesis, periodically growing and shrinking as Okazaki fragments form and are ligated.\n\n15. **Replication Timing Waves Across a Chromosome**\n   A long DNA fiber laid out like a landscape has regions colored by replication timing; waves of activation lights move along it, and active regions sprout many small forks that replicate locally then fade, while a timeline bar at the bottom shows global progress.\n\n16. **Mechanical City Metaphor for DNA Replication**\n   A factory-like city uses a central “blueprint spiral” (DNA helix) being uncoiled by crane arms while assembly robots (polymerases) run along conveyor belts (strands), picking colored blocks (nucleotides) from silos and snapping them into new parallel blueprint lanes with sparks when they mismatch.\n\n17. **Replication vs Transcription Traffic on DNA**\n   A straight DNA track hosts both replication forks and smaller transcription complexes; replication forks move faster and are shown pushing or pausing transcription complexes when they collide, with short “traffic jam” clusters forming and then resolving as one complex detaches or moves aside.\n\n18. **Mitochondrial DNA Replication in 3D Organelle**\n   Inside a semi-transparent, bean-shaped mitochondrion, several circular DNAs float and rotate; each circle shows replication bubbles forming, with small enzyme complexes attaching and detaching, while the organelle’s inner membrane folds are faintly visible as textured ridges.\n\n19. **Replication Stress and Fork Collapse Visualization**\n   As forks progress along a DNA fiber, random blocks appear (protein obstacles or crosslinks) that cause forks to slow and then either bypass or “collapse,” shown by the fork components scattering as particles; rescue forks approach from nearby origins to restart replication on stalled segments.\n\n20. **DNA Replication Speed vs Error Rate Control Panel**\n   A single replication fork moves along a strand while a side slider (virtual “speed control”) visibly changes the fork’s speed; at higher speeds, mismatched colored beads attach more often and are sometimes missed by the proofreading sphere, with a running error counter updating above the strand.\n\n21. **Eukaryotic vs Prokaryotic Replication Comparison**\n   Two side-by-side panels show a large linear chromosome with many origins and a small circular chromosome with one origin; forks start, move, and finish in both systems while labels and colored progress bars above each panel track time and number of active forks.\n\n22. **DNA Replication Bubble Cross-Section**\n   A thick DNA cable is sliced in the middle to reveal a cross-section bubble: two diverging forks are seen in 3D as colored channels where single strands are separated and coated by small protective proteins, while new strands grow inward and outward in a clear, labeled Y-shaped structure.\n\n23. **Polymerase Sliding Clamp Dynamics**\n   A doughnut-shaped clamp sits around the DNA strand and slides smoothly as a polymerase sphere pushes it; when Okazaki fragments end, the clamp pops off with a quick spin, diffuses briefly, and is then reloaded ahead on the strand by a loader complex, leaving faint trails of its path.\n\n24. **Giant Cell-Scale View of S Phase**\n   A whole cell model (transparent sphere) contains loosely coiled chromosomes; during “S phase,” chromosomes gradually change color from pale to bright as replication progresses along them, with tiny spark points marking active origins and a central timer counting through the phase.\n\n25. **Interactive Base Pair Matching Conveyor**\n   A straight template strand moves on a horizontal belt while random colored bases hover above; correct complements are magnetically pulled down and snap into place, incorrect ones bounce off and drift away, and a percentage meter above the belt shows replication fidelity changing over time."
+}

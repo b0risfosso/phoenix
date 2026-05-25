@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Wind fields",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:53:22",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Colored Streamlines in a 3D Wind Tunnel",
+      "description": "A 3D box wind tunnel where semi-transparent streamlines (curved cylinders with arrowheads) flow around a central obstacle block, with particles tracing paths, colors mapping speed, and a side panel of floating labels and speed meters.",
+      "seed": "Colored Streamlines in a 3D Wind Tunnel: A 3D box wind tunnel where semi-transparent streamlines (curved cylinders with arrowheads) flow around a central obstacle block, with particles tracing paths, colors mapping speed, and a side panel of floating labels and speed meters."
+    },
+    {
+      "number": "2",
+      "title": "Mountain Ridge Updraft and Turbulence",
+      "description": "A terrain-like row of low, rounded boxes forming a mountain ridge with a continuous particle field of air parcels rising, splitting, and swirling over the peaks, leaving fading trails colored by vertical velocity.",
+      "seed": "Mountain Ridge Updraft and Turbulence: A terrain-like row of low, rounded boxes forming a mountain ridge with a continuous particle field of air parcels rising, splitting, and swirling over the peaks, leaving fading trails colored by vertical velocity."
+    },
+    {
+      "number": "3",
+      "title": "Wind Field Around a Rotating Wind Turbine Farm",
+      "description": "Several tall turbine towers with rotating blades in a grid, where wind vectors are shown as short arrows that bend and slow behind turbines, with wake regions visualized as translucent cones and trailing particles.",
+      "seed": "Wind Field Around a Rotating Wind Turbine Farm: Several tall turbine towers with rotating blades in a grid, where wind vectors are shown as short arrows that bend and slow behind turbines, with wake regions visualized as translucent cones and trailing particles."
+    },
+    {
+      "number": "4",
+      "title": "Urban Wind Canyon Between Buildings",
+      "description": "A cluster of tall rectangular buildings on a ground plane with wind represented by moving arrows and smoke-like particles that accelerate through narrow gaps, swirl at corners, and get trapped in courtyards.",
+      "seed": "Urban Wind Canyon Between Buildings: A cluster of tall rectangular buildings on a ground plane with wind represented by moving arrows and smoke-like particles that accelerate through narrow gaps, swirl at corners, and get trapped in courtyards."
+    },
+    {
+      "number": "5",
+      "title": "Glider Flight in a Thermal Wind Field",
+      "description": "A small glider model that can be steered through invisible thermal updraft columns shown as faint vertical cylinders, with air parcels spiraling up, the glider leaving a colored trail that changes with climb rate.",
+      "seed": "Glider Flight in a Thermal Wind Field: A small glider model that can be steered through invisible thermal updraft columns shown as faint vertical cylinders, with air parcels spiraling up, the glider leaving a colored trail that changes with climb rate."
+    },
+    {
+      "number": "6",
+      "title": "3D Vector Lattice of a Wind Field",
+      "description": "A cubic lattice of small arrows (vectors) that continuously rotate and stretch according to a time-varying wind equation, with a controllable probe sphere that can move through the lattice, leaving a trail colored by sampled wind speed.",
+      "seed": "3D Vector Lattice of a Wind Field: A cubic lattice of small arrows (vectors) that continuously rotate and stretch according to a time-varying wind equation, with a controllable probe sphere that can move through the lattice, leaving a trail colored by sampled wind speed."
+    },
+    {
+      "number": "7",
+      "title": "Sand Dune Formation Under Steady Wind",
+      "description": "A flat plane with thousands of tiny sand particles that hop, bounce, and slide under a constant horizontal wind field, gradually building up dune-shaped mounds, with wind directions shown as faint surface arrows.",
+      "seed": "Sand Dune Formation Under Steady Wind: A flat plane with thousands of tiny sand particles that hop, bounce, and slide under a constant horizontal wind field, gradually building up dune-shaped mounds, with wind directions shown as faint surface arrows."
+    },
+    {
+      "number": "8",
+      "title": "Smoke Plume Dispersion in a Variable Wind Field",
+      "description": "A tall smokestack sphere at ground level emitting semi-transparent smoke particles that rise, spread, and bend according to a layered wind field that changes with height, with color fading as particles disperse.",
+      "seed": "Smoke Plume Dispersion in a Variable Wind Field: A tall smokestack sphere at ground level emitting semi-transparent smoke particles that rise, spread, and bend according to a layered wind field that changes with height, with color fading as particles disperse."
+    },
+    {
+      "number": "9",
+      "title": "Cyclone Vortex Wind Field Over the Ocean",
+      "description": "A rotating disk of ocean surface with a central low-pressure “eye” where surface wind vectors spiral inward and upward, white spray particles orbit and are flung outward, and pressure bands are shown as concentric colored rings.",
+      "seed": "Cyclone Vortex Wind Field Over the Ocean: A rotating disk of ocean surface with a central low-pressure “eye” where surface wind vectors spiral inward and upward, white spray particles orbit and are flung outward, and pressure bands are shown as concentric colored rings."
+    },
+    {
+      "number": "10",
+      "title": "Wind Flow Over an Airfoil Cross-Section",
+      "description": "A long airfoil-shaped object in the center of a rectangular domain where air particles flow from left to right, split and wrap around the wing, accelerate on top, form a wake with vortices behind, and visual pressure is shown with a color gradient on the surface.",
+      "seed": "Wind Flow Over an Airfoil Cross-Section: A long airfoil-shaped object in the center of a rectangular domain where air particles flow from left to right, split and wrap around the wing, accelerate on top, form a wake with vortices behind, and visual pressure is shown with a color gradient on the surface."
+    },
+    {
+      "number": "11",
+      "title": "Microscopic Cilia-Driven Fluid Wind",
+      "description": "A row of flexible cilia filaments on a surface that rhythmically beat to create a directional micro-wind in a fluid, moving tiny colored particles along the surface with curling paths and soft transparent fluid layers.",
+      "seed": "Microscopic Cilia-Driven Fluid Wind: A row of flexible cilia filaments on a surface that rhythmically beat to create a directional micro-wind in a fluid, moving tiny colored particles along the surface with curling paths and soft transparent fluid layers."
+    },
+    {
+      "number": "12",
+      "title": "Wind Field Steering Pollinating Pollen Clouds",
+      "description": "A meadow plane with a few flower stems that emit small pollen particles which float, drift, and mix under a shifting wind field, some attaching to distant flower targets, leaving faint yellow trails where density is high.",
+      "seed": "Wind Field Steering Pollinating Pollen Clouds: A meadow plane with a few flower stems that emit small pollen particles which float, drift, and mix under a shifting wind field, some attaching to distant flower targets, leaving faint yellow trails where density is high."
+    },
+    {
+      "number": "13",
+      "title": "Jet Stream Ribbon Wrapping Around the Globe",
+      "description": "A semi-transparent sphere representing Earth with a narrow, winding ribbon of fast-moving air (jet stream) that orbits around it, changing latitude and altitude, with arrows along the ribbon and labels for speed and direction.",
+      "seed": "Jet Stream Ribbon Wrapping Around the Globe: A semi-transparent sphere representing Earth with a narrow, winding ribbon of fast-moving air (jet stream) that orbits around it, changing latitude and altitude, with arrows along the ribbon and labels for speed and direction."
+    },
+    {
+      "number": "14",
+      "title": "Interactive Kite in a Gusty Wind Field",
+      "description": "A kite-shaped object attached to a moving control point by a string, with a 3D wind field of arrows that pulse to represent gusts, causing the kite to sway, rise, and dive, leaving a colored motion trail.",
+      "seed": "Interactive Kite in a Gusty Wind Field: A kite-shaped object attached to a moving control point by a string, with a 3D wind field of arrows that pulse to represent gusts, causing the kite to sway, rise, and dive, leaving a colored motion trail."
+    },
+    {
+      "number": "15",
+      "title": "Wind-Driven Ocean Surface Waves",
+      "description": "A grid of small vertical cylinders representing wave height on a water plane that rise and fall as wind vectors sweep across, with spray particles that detach from peaks and get carried downwind in transparent arcs.",
+      "seed": "Wind-Driven Ocean Surface Waves: A grid of small vertical cylinders representing wave height on a water plane that rise and fall as wind vectors sweep across, with spray particles that detach from peaks and get carried downwind in transparent arcs."
+    },
+    {
+      "number": "16",
+      "title": "Smoke Rings in a Sheared Wind Field",
+      "description": "Toroidal smoke rings emitted from a source that rise and drift through a wind field with strong vertical shear, stretching, tilting, and sometimes splitting into smaller rings, with fading colored density.",
+      "seed": "Smoke Rings in a Sheared Wind Field: Toroidal smoke rings emitted from a source that rise and drift through a wind field with strong vertical shear, stretching, tilting, and sometimes splitting into smaller rings, with fading colored density."
+    },
+    {
+      "number": "17",
+      "title": "Wind Field Inside a Rotating Tornado Column",
+      "description": "A vertical transparent funnel where thousands of tracer particles spiral upward and inward, bouncing lightly off an invisible central core, with velocity vectors and radial bands showing intensity from base to top.",
+      "seed": "Wind Field Inside a Rotating Tornado Column: A vertical transparent funnel where thousands of tracer particles spiral upward and inward, bouncing lightly off an invisible central core, with velocity vectors and radial bands showing intensity from base to top."
+    },
+    {
+      "number": "18",
+      "title": "Hot Air Balloons Navigating Layered Winds",
+      "description": "Several spherical balloons at different altitudes rising and descending through horizontal wind layers of differing directions, with each layer marked by semi-transparent colored slabs and arrows, and balloons leaving trails that reveal their complex paths.",
+      "seed": "Hot Air Balloons Navigating Layered Winds: Several spherical balloons at different altitudes rising and descending through horizontal wind layers of differing directions, with each layer marked by semi-transparent colored slabs and arrows, and balloons leaving trails that reveal their complex paths."
+    },
+    {
+      "number": "19",
+      "title": "Wind-Driven Forest Fire Smoke Spread",
+      "description": "A rectangular forest of upright cylinders (trees) on a plane with a burning patch emitting bright particles that rise, spread, and darken as they move downwind, with wind arrows bending around tree clusters and labels for smoke density.",
+      "seed": "Wind-Driven Forest Fire Smoke Spread: A rectangular forest of upright cylinders (trees) on a plane with a burning patch emitting bright particles that rise, spread, and darken as they move downwind, with wind arrows bending around tree clusters and labels for smoke density."
+    },
+    {
+      "number": "20",
+      "title": "Swarm of Dandelion Seeds in Turbulent Gusts",
+      "description": "Dozens of small seed models with fluffy halos released from a source that float, spin, and branch into different paths under a turbulent wind field, occasionally colliding or clustering, each leaving a faint white trail.",
+      "seed": "Swarm of Dandelion Seeds in Turbulent Gusts: Dozens of small seed models with fluffy halos released from a source that float, spin, and branch into different paths under a turbulent wind field, occasionally colliding or clustering, each leaving a faint white trail."
+    },
+    {
+      "number": "21",
+      "title": "Wind Field Over a Complex Bridge Structure",
+      "description": "An arched bridge model over a flat surface where wind vectors flow around pylons and cables, forming vortex shedding behind supports, with tracer particles that detach, orbit briefly in eddies, and then merge back into the main flow.",
+      "seed": "Wind Field Over a Complex Bridge Structure: An arched bridge model over a flat surface where wind vectors flow around pylons and cables, forming vortex shedding behind supports, with tracer particles that detach, orbit briefly in eddies, and then merge back into the main flow."
+    },
+    {
+      "number": "22",
+      "title": "Laser Sheet Scanning a 3D Wind Field",
+      "description": "A volume filled with tiny neutral particles drifting under a wind field, with a thin moving “laser sheet” plane that scans through, making particles within it glow brightly and leaving a short-lived illuminated trail that reveals local flow patterns.",
+      "seed": "Laser Sheet Scanning a 3D Wind Field: A volume filled with tiny neutral particles drifting under a wind field, with a thin moving “laser sheet” plane that scans through, making particles within it glow brightly and leaving a short-lived illuminated trail that reveals local flow patterns."
+    },
+    {
+      "number": "23",
+      "title": "Wind-Sculpted Cloud Field",
+      "description": "A cluster of semi-transparent cloud blobs that drift, stretch, split, and merge under a layered wind field, with embedded tracer particles showing internal circulation and subtle color shifts indicating moisture concentration.",
+      "seed": "Wind-Sculpted Cloud Field: A cluster of semi-transparent cloud blobs that drift, stretch, split, and merge under a layered wind field, with embedded tracer particles showing internal circulation and subtle color shifts indicating moisture concentration."
+    },
+    {
+      "number": "24",
+      "title": "Wind Field Between Rotating Gears in a Machine",
+      "description": "A set of meshing gears in a box where air is dragged and flung by rotating teeth, with small particles swirling into vortices between gears, bouncing off surfaces, and forming repeating spiral patterns.",
+      "seed": "Wind Field Between Rotating Gears in a Machine: A set of meshing gears in a box where air is dragged and flung by rotating teeth, with small particles swirling into vortices between gears, bouncing off surfaces, and forming repeating spiral patterns."
+    },
+    {
+      "number": "25",
+      "title": "Symbolic City of Arrows in a Social Wind Field",
+      "description": "A grid of upright arrows representing individuals that slowly rotate and realign in response to a flowing “opinion wind” field shown as shifting colored bands and moving vector lines, with trails marking collective drift over time.",
+      "seed": "Symbolic City of Arrows in a Social Wind Field: A grid of upright arrows representing individuals that slowly rotate and realign in response to a flowing “opinion wind” field shown as shifting colored bands and moving vector lines, with trails marking collective drift over time."
+    }
+  ],
+  "raw_output": "Here are strong **Wind fields simulation inputs** you can plug into your prompt:\n\n1. **Colored Streamlines in a 3D Wind Tunnel**\n   A 3D box wind tunnel where semi-transparent streamlines (curved cylinders with arrowheads) flow around a central obstacle block, with particles tracing paths, colors mapping speed, and a side panel of floating labels and speed meters.\n\n2. **Mountain Ridge Updraft and Turbulence**\n   A terrain-like row of low, rounded boxes forming a mountain ridge with a continuous particle field of air parcels rising, splitting, and swirling over the peaks, leaving fading trails colored by vertical velocity.\n\n3. **Wind Field Around a Rotating Wind Turbine Farm**\n   Several tall turbine towers with rotating blades in a grid, where wind vectors are shown as short arrows that bend and slow behind turbines, with wake regions visualized as translucent cones and trailing particles.\n\n4. **Urban Wind Canyon Between Buildings**\n   A cluster of tall rectangular buildings on a ground plane with wind represented by moving arrows and smoke-like particles that accelerate through narrow gaps, swirl at corners, and get trapped in courtyards.\n\n5. **Glider Flight in a Thermal Wind Field**\n   A small glider model that can be steered through invisible thermal updraft columns shown as faint vertical cylinders, with air parcels spiraling up, the glider leaving a colored trail that changes with climb rate.\n\n6. **3D Vector Lattice of a Wind Field**\n   A cubic lattice of small arrows (vectors) that continuously rotate and stretch according to a time-varying wind equation, with a controllable probe sphere that can move through the lattice, leaving a trail colored by sampled wind speed.\n\n7. **Sand Dune Formation Under Steady Wind**\n   A flat plane with thousands of tiny sand particles that hop, bounce, and slide under a constant horizontal wind field, gradually building up dune-shaped mounds, with wind directions shown as faint surface arrows.\n\n8. **Smoke Plume Dispersion in a Variable Wind Field**\n   A tall smokestack sphere at ground level emitting semi-transparent smoke particles that rise, spread, and bend according to a layered wind field that changes with height, with color fading as particles disperse.\n\n9. **Cyclone Vortex Wind Field Over the Ocean**\n   A rotating disk of ocean surface with a central low-pressure “eye” where surface wind vectors spiral inward and upward, white spray particles orbit and are flung outward, and pressure bands are shown as concentric colored rings.\n\n10. **Wind Flow Over an Airfoil Cross-Section**\n    A long airfoil-shaped object in the center of a rectangular domain where air particles flow from left to right, split and wrap around the wing, accelerate on top, form a wake with vortices behind, and visual pressure is shown with a color gradient on the surface.\n\n11. **Microscopic Cilia-Driven Fluid Wind**\n    A row of flexible cilia filaments on a surface that rhythmically beat to create a directional micro-wind in a fluid, moving tiny colored particles along the surface with curling paths and soft transparent fluid layers.\n\n12. **Wind Field Steering Pollinating Pollen Clouds**\n    A meadow plane with a few flower stems that emit small pollen particles which float, drift, and mix under a shifting wind field, some attaching to distant flower targets, leaving faint yellow trails where density is high.\n\n13. **Jet Stream Ribbon Wrapping Around the Globe**\n    A semi-transparent sphere representing Earth with a narrow, winding ribbon of fast-moving air (jet stream) that orbits around it, changing latitude and altitude, with arrows along the ribbon and labels for speed and direction.\n\n14. **Interactive Kite in a Gusty Wind Field**\n    A kite-shaped object attached to a moving control point by a string, with a 3D wind field of arrows that pulse to represent gusts, causing the kite to sway, rise, and dive, leaving a colored motion trail.\n\n15. **Wind-Driven Ocean Surface Waves**\n    A grid of small vertical cylinders representing wave height on a water plane that rise and fall as wind vectors sweep across, with spray particles that detach from peaks and get carried downwind in transparent arcs.\n\n16. **Smoke Rings in a Sheared Wind Field**\n    Toroidal smoke rings emitted from a source that rise and drift through a wind field with strong vertical shear, stretching, tilting, and sometimes splitting into smaller rings, with fading colored density.\n\n17. **Wind Field Inside a Rotating Tornado Column**\n    A vertical transparent funnel where thousands of tracer particles spiral upward and inward, bouncing lightly off an invisible central core, with velocity vectors and radial bands showing intensity from base to top.\n\n18. **Hot Air Balloons Navigating Layered Winds**\n    Several spherical balloons at different altitudes rising and descending through horizontal wind layers of differing directions, with each layer marked by semi-transparent colored slabs and arrows, and balloons leaving trails that reveal their complex paths.\n\n19. **Wind-Driven Forest Fire Smoke Spread**\n    A rectangular forest of upright cylinders (trees) on a plane with a burning patch emitting bright particles that rise, spread, and darken as they move downwind, with wind arrows bending around tree clusters and labels for smoke density.\n\n20. **Swarm of Dandelion Seeds in Turbulent Gusts**\n    Dozens of small seed models with fluffy halos released from a source that float, spin, and branch into different paths under a turbulent wind field, occasionally colliding or clustering, each leaving a faint white trail.\n\n21. **Wind Field Over a Complex Bridge Structure**\n    An arched bridge model over a flat surface where wind vectors flow around pylons and cables, forming vortex shedding behind supports, with tracer particles that detach, orbit briefly in eddies, and then merge back into the main flow.\n\n22. **Laser Sheet Scanning a 3D Wind Field**\n    A volume filled with tiny neutral particles drifting under a wind field, with a thin moving “laser sheet” plane that scans through, making particles within it glow brightly and leaving a short-lived illuminated trail that reveals local flow patterns.\n\n23. **Wind-Sculpted Cloud Field**\n    A cluster of semi-transparent cloud blobs that drift, stretch, split, and merge under a layered wind field, with embedded tracer particles showing internal circulation and subtle color shifts indicating moisture concentration.\n\n24. **Wind Field Between Rotating Gears in a Machine**\n    A set of meshing gears in a box where air is dragged and flung by rotating teeth, with small particles swirling into vortices between gears, bouncing off surfaces, and forming repeating spiral patterns.\n\n25. **Symbolic City of Arrows in a Social Wind Field**\n    A grid of upright arrows representing individuals that slowly rotate and realign in response to a flowing “opinion wind” field shown as shifting colored bands and moving vector lines, with trails marking collective drift over time."
+}

@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Self-modifying programs",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:02:38",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Code Cubes That Rewrite Themselves",
+      "description": "A cluster of labeled translucent cubes (code blocks) float in a light space, periodically splitting, merging, and changing color while glowing connector lines rewire between them to show “self-modification” events.",
+      "seed": "Code Cubes That Rewrite Themselves: A cluster of labeled translucent cubes (code blocks) float in a light space, periodically splitting, merging, and changing color while glowing connector lines rewire between them to show “self-modification” events."
+    },
+    {
+      "number": "2",
+      "title": "Program DNA Helix Rewriting",
+      "description": "A tall semi-transparent double-helix made of colored spheres (instructions) slowly rotates, and certain spheres detach, slide along rails, and reinsert at new positions, with color changes and brief flashes marking each modification.",
+      "seed": "Program DNA Helix Rewriting: A tall semi-transparent double-helix made of colored spheres (instructions) slowly rotates, and certain spheres detach, slide along rails, and reinsert at new positions, with color changes and brief flashes marking each modification."
+    },
+    {
+      "number": "3",
+      "title": "Self-Editing Circuit Board City",
+      "description": "A flat “circuit city” of glowing tracks and small box “modules” rearranges itself as modules detach, slide along pathways, and snap into new sockets, while data packets (bright particles) reroute in real time.",
+      "seed": "Self-Editing Circuit Board City: A flat “circuit city” of glowing tracks and small box “modules” rearranges itself as modules detach, slide along pathways, and snap into new sockets, while data packets (bright particles) reroute in real time."
+    },
+    {
+      "number": "4",
+      "title": "Neural Network That Rewires Itself",
+      "description": "Layers of colored spheres (neurons) connected by thin glowing lines (synapses) pulse, and some connections detach and reconnect to new neurons, with line thickness and color dynamically changing to show evolving structure.",
+      "seed": "Neural Network That Rewires Itself: Layers of colored spheres (neurons) connected by thin glowing lines (synapses) pulse, and some connections detach and reconnect to new neurons, with line thickness and color dynamically changing to show evolving structure."
+    },
+    {
+      "number": "5",
+      "title": "Instruction Conveyor With Live Patching Arms",
+      "description": "A conveyor belt of blocks (instructions) moves through space while robotic arms mounted above grab blocks, rotate them, recolor them, insert new blocks, or remove old ones, with discarded pieces falling into a transparent bin below.",
+      "seed": "Instruction Conveyor With Live Patching Arms: A conveyor belt of blocks (instructions) moves through space while robotic arms mounted above grab blocks, rotate them, recolor them, insert new blocks, or remove old ones, with discarded pieces falling into a transparent bin below."
+    },
+    {
+      "number": "6",
+      "title": "Self-Mutating Turing Machine Tape",
+      "description": "A long ribbon of square tiles (tape cells) scrolls past a hovering read/write head; when the head touches tiles, their symbols and colors change, new tiles attach at the ends, and occasional tiles detach and drift away.",
+      "seed": "Self-Mutating Turing Machine Tape: A long ribbon of square tiles (tape cells) scrolls past a hovering read/write head; when the head touches tiles, their symbols and colors change, new tiles attach at the ends, and occasional tiles detach and drift away."
+    },
+    {
+      "number": "7",
+      "title": "Code Garden That Grows and Prunes Itself",
+      "description": "A garden of branching crystal “plants” (program structures) grows upward and outward from a flat base, with branches that periodically split, glow, and then either thicken (kept) or fade and crumble (pruned) based on passing light-orb “tests.”",
+      "seed": "Code Garden That Grows and Prunes Itself: A garden of branching crystal “plants” (program structures) grows upward and outward from a flat base, with branches that periodically split, glow, and then either thicken (kept) or fade and crumble (pruned) based on passing light-orb “tests.”"
+    },
+    {
+      "number": "8",
+      "title": "Self-Reconfiguring Robot Swarm Program",
+      "description": "A swarm of small colored robot spheres moves on a plane, occasionally docking together into shapes that represent routines; shapes can split, rotate, and reattach in new formations while faint trails show their previous configurations.",
+      "seed": "Self-Reconfiguring Robot Swarm Program: A swarm of small colored robot spheres moves on a plane, occasionally docking together into shapes that represent routines; shapes can split, rotate, and reattach in new formations while faint trails show their previous configurations."
+    },
+    {
+      "number": "9",
+      "title": "Evolving Flowchart Machine",
+      "description": "Floating panels (process boxes) connected by curved arrows arrange themselves into a 3D flowchart; panels can slide, rotate, duplicate, or vanish while arrows detach, reroute, and pulse to show changing control flow.",
+      "seed": "Evolving Flowchart Machine: Floating panels (process boxes) connected by curved arrows arrange themselves into a 3D flowchart; panels can slide, rotate, duplicate, or vanish while arrows detach, reroute, and pulse to show changing control flow."
+    },
+    {
+      "number": "10",
+      "title": "Code Blocks Falling Into a Self-Editing Stack",
+      "description": "Colored blocks rain from above into a central stack; when the stack reaches certain patterns, parts of it slide out, re-order, and reinsert, with ghostly outlines briefly showing the “before” configuration.",
+      "seed": "Code Blocks Falling Into a Self-Editing Stack: Colored blocks rain from above into a central stack; when the stack reaches certain patterns, parts of it slide out, re-order, and reinsert, with ghostly outlines briefly showing the “before” configuration."
+    },
+    {
+      "number": "11",
+      "title": "Self-Modifying Memory Lattice",
+      "description": "A 3D lattice of small cubes (memory cells) sits in a light background; beams of light (instructions) sweep across, causing selected cubes to change color, swap positions with neighbors, or replicate and push others outward.",
+      "seed": "Self-Modifying Memory Lattice: A 3D lattice of small cubes (memory cells) sits in a light background; beams of light (instructions) sweep across, causing selected cubes to change color, swap positions with neighbors, or replicate and push others outward."
+    },
+    {
+      "number": "12",
+      "title": "Program Factory With Feedback Loops",
+      "description": "A small “factory” of spinning gears, pistons, and conveyor segments (modules) is visible from above; output particles leaving the factory circle back as glowing feedback streams that trigger gears to slide, attach, or detach modules.",
+      "seed": "Program Factory With Feedback Loops: A small “factory” of spinning gears, pistons, and conveyor segments (modules) is visible from above; output particles leaving the factory circle back as glowing feedback streams that trigger gears to slide, attach, or detach modules."
+    },
+    {
+      "number": "13",
+      "title": "Self-Restructuring Code Tower",
+      "description": "A vertical tower of labeled, differently colored layers (modules) slowly rotates; certain layers unlock, slide outward, split into thinner discs, swap places, and rejoin, with vertical energy streams indicating control flow changes.",
+      "seed": "Self-Restructuring Code Tower: A vertical tower of labeled, differently colored layers (modules) slowly rotates; certain layers unlock, slide outward, split into thinner discs, swap places, and rejoin, with vertical energy streams indicating control flow changes."
+    },
+    {
+      "number": "14",
+      "title": "Instruction Particles in a Self-Modifying Reactor",
+      "description": "A transparent spherical “reactor” contains colored spheres (instruction particles) bouncing inside; when particles collide they can merge, split, or swap colors, and the reactor shell briefly highlights the modified regions.",
+      "seed": "Instruction Particles in a Self-Modifying Reactor: A transparent spherical “reactor” contains colored spheres (instruction particles) bouncing inside; when particles collide they can merge, split, or swap colors, and the reactor shell briefly highlights the modified regions."
+    },
+    {
+      "number": "15",
+      "title": "Interactive Debugger That Moves Its Own Breakpoints",
+      "description": "A horizontal track of blocks (code lines) slides beneath a hovering “debugger” sphere that places, removes, and shifts glowing breakpoint markers, which in turn cause sections of the track to rearrange or fold into new shapes.",
+      "seed": "Interactive Debugger That Moves Its Own Breakpoints: A horizontal track of blocks (code lines) slides beneath a hovering “debugger” sphere that places, removes, and shifts glowing breakpoint markers, which in turn cause sections of the track to rearrange or fold into new shapes."
+    },
+    {
+      "number": "16",
+      "title": "Self-Rewriting Data Stream Tunnel",
+      "description": "A translucent tunnel extends into the screen with colored pulses (data packets) traveling through; robotic rings along the tunnel rotate, grab pulses, change their color and direction, and sometimes duplicate or delete them.",
+      "seed": "Self-Rewriting Data Stream Tunnel: A translucent tunnel extends into the screen with colored pulses (data packets) traveling through; robotic rings along the tunnel rotate, grab pulses, change their color and direction, and sometimes duplicate or delete them."
+    },
+    {
+      "number": "17",
+      "title": "Program Tree That Prunes and Grafts Its Branches",
+      "description": "A 3D tree of segments (functions) with labeled nodes grows in space; branches can detach, float, rotate, and reattach to different trunks, while small glowing fruits (tests) fly around tagging branches to keep or remove.",
+      "seed": "Program Tree That Prunes and Grafts Its Branches: A 3D tree of segments (functions) with labeled nodes grows in space; branches can detach, float, rotate, and reattach to different trunks, while small glowing fruits (tests) fly around tagging branches to keep or remove."
+    },
+    {
+      "number": "18",
+      "title": "Self-Assembling Code Molecules",
+      "description": "Floating polyhedral molecules (subroutines) drift in 3D, collide, and stick together via matching colored “ports” to form larger structures, then occasionally rearrange by detaching and reattaching sub-molecules in new patterns.",
+      "seed": "Self-Assembling Code Molecules: Floating polyhedral molecules (subroutines) drift in 3D, collide, and stick together via matching colored “ports” to form larger structures, then occasionally rearrange by detaching and reattaching sub-molecules in new patterns."
+    },
+    {
+      "number": "19",
+      "title": "Code Domino Chain That Rewrites Ahead",
+      "description": "A winding chain of standing domino-like tiles (instructions) sits on a plane; a wave of falling tiles travels along while a hovering “predictor” arm ahead of the wave rearranges, rotates, recolors, and sometimes inserts new tiles.",
+      "seed": "Code Domino Chain That Rewrites Ahead: A winding chain of standing domino-like tiles (instructions) sits on a plane; a wave of falling tiles travels along while a hovering “predictor” arm ahead of the wave rearranges, rotates, recolors, and sometimes inserts new tiles."
+    },
+    {
+      "number": "20",
+      "title": "Self-Tuning Program Orchestra",
+      "description": "Floating instruments (modules) arranged in a circle emit pulsing rings (signals); when overlapping signals form certain patterns, instruments drift, swap positions, change size, or split into two, with a central meter sphere tracking complexity.",
+      "seed": "Self-Tuning Program Orchestra: Floating instruments (modules) arranged in a circle emit pulsing rings (signals); when overlapping signals form certain patterns, instruments drift, swap positions, change size, or split into two, with a central meter sphere tracking complexity."
+    },
+    {
+      "number": "21",
+      "title": "Self-Modifying Maze of Logic Gates",
+      "description": "A flat maze of logic-gate symbols (AND, OR, NOT) made from little glowing shapes routes particle “bits” from left to right; based on bit patterns, gates can slide along tracks, rotate, or swap with neighbors, dynamically reshaping the maze.",
+      "seed": "Self-Modifying Maze of Logic Gates: A flat maze of logic-gate symbols (AND, OR, NOT) made from little glowing shapes routes particle “bits” from left to right; based on bit patterns, gates can slide along tracks, rotate, or swap with neighbors, dynamically reshaping the maze."
+    },
+    {
+      "number": "22",
+      "title": "Program Cube With Rotating Faces of Code",
+      "description": "A central cube spins slowly, each face tiled with small colored squares (instructions); when bright scanning beams sweep across a face, some squares slide to other faces, merge, or split, with thin glowing lines wrapping around to show new links.",
+      "seed": "Program Cube With Rotating Faces of Code: A central cube spins slowly, each face tiled with small colored squares (instructions); when bright scanning beams sweep across a face, some squares slide to other faces, merge, or split, with thin glowing lines wrapping around to show new links."
+    },
+    {
+      "number": "23",
+      "title": "Self-Routing Packet Network That Rewrites Rules",
+      "description": "A 3D network of nodes connected by translucent tubes carries glowing packets; occasionally, a node enters a “rewrite” mode, causing nearby tubes to detach, reattach to different nodes, and change color to show new routing rules.",
+      "seed": "Self-Routing Packet Network That Rewrites Rules: A 3D network of nodes connected by translucent tubes carries glowing packets; occasionally, a node enters a “rewrite” mode, causing nearby tubes to detach, reattach to different nodes, and change color to show new routing rules."
+    },
+    {
+      "number": "24",
+      "title": "Code Volcano That Erupts New Instructions",
+      "description": "A low cone-shaped “volcano” of stacked code blocks occasionally erupts, shooting glowing fragments upward; as fragments fall back, some attach as new layers, others bounce off and dissolve, and labels update to show version numbers.",
+      "seed": "Code Volcano That Erupts New Instructions: A low cone-shaped “volcano” of stacked code blocks occasionally erupts, shooting glowing fragments upward; as fragments fall back, some attach as new layers, others bounce off and dissolve, and labels update to show version numbers."
+    },
+    {
+      "number": "25",
+      "title": "Self-Organizing Code Constellations",
+      "description": "In a light sky, small labeled stars (functions) drift and form constellations linked by faint lines; when performance “meteors” pass through, stars detach, reposition, and relink, with trails showing the evolution of the constellation structure.",
+      "seed": "Self-Organizing Code Constellations: In a light sky, small labeled stars (functions) drift and form constellations linked by faint lines; when performance “meteors” pass through, stars detach, reposition, and relink, with trails showing the evolution of the constellation structure."
+    }
+  ],
+  "raw_output": "Here are strong **Self-modifying programs simulation inputs** you can plug into your prompt:\n\n1. **Code Cubes That Rewrite Themselves**\n   A cluster of labeled translucent cubes (code blocks) float in a light space, periodically splitting, merging, and changing color while glowing connector lines rewire between them to show “self-modification” events.\n\n2. **Program DNA Helix Rewriting**\n   A tall semi-transparent double-helix made of colored spheres (instructions) slowly rotates, and certain spheres detach, slide along rails, and reinsert at new positions, with color changes and brief flashes marking each modification.\n\n3. **Self-Editing Circuit Board City**\n   A flat “circuit city” of glowing tracks and small box “modules” rearranges itself as modules detach, slide along pathways, and snap into new sockets, while data packets (bright particles) reroute in real time.\n\n4. **Neural Network That Rewires Itself**\n   Layers of colored spheres (neurons) connected by thin glowing lines (synapses) pulse, and some connections detach and reconnect to new neurons, with line thickness and color dynamically changing to show evolving structure.\n\n5. **Instruction Conveyor With Live Patching Arms**\n   A conveyor belt of blocks (instructions) moves through space while robotic arms mounted above grab blocks, rotate them, recolor them, insert new blocks, or remove old ones, with discarded pieces falling into a transparent bin below.\n\n6. **Self-Mutating Turing Machine Tape**\n   A long ribbon of square tiles (tape cells) scrolls past a hovering read/write head; when the head touches tiles, their symbols and colors change, new tiles attach at the ends, and occasional tiles detach and drift away.\n\n7. **Code Garden That Grows and Prunes Itself**\n   A garden of branching crystal “plants” (program structures) grows upward and outward from a flat base, with branches that periodically split, glow, and then either thicken (kept) or fade and crumble (pruned) based on passing light-orb “tests.”\n\n8. **Self-Reconfiguring Robot Swarm Program**\n   A swarm of small colored robot spheres moves on a plane, occasionally docking together into shapes that represent routines; shapes can split, rotate, and reattach in new formations while faint trails show their previous configurations.\n\n9. **Evolving Flowchart Machine**\n   Floating panels (process boxes) connected by curved arrows arrange themselves into a 3D flowchart; panels can slide, rotate, duplicate, or vanish while arrows detach, reroute, and pulse to show changing control flow.\n\n10. **Code Blocks Falling Into a Self-Editing Stack**\n    Colored blocks rain from above into a central stack; when the stack reaches certain patterns, parts of it slide out, re-order, and reinsert, with ghostly outlines briefly showing the “before” configuration.\n\n11. **Self-Modifying Memory Lattice**\n    A 3D lattice of small cubes (memory cells) sits in a light background; beams of light (instructions) sweep across, causing selected cubes to change color, swap positions with neighbors, or replicate and push others outward.\n\n12. **Program Factory With Feedback Loops**\n    A small “factory” of spinning gears, pistons, and conveyor segments (modules) is visible from above; output particles leaving the factory circle back as glowing feedback streams that trigger gears to slide, attach, or detach modules.\n\n13. **Self-Restructuring Code Tower**\n    A vertical tower of labeled, differently colored layers (modules) slowly rotates; certain layers unlock, slide outward, split into thinner discs, swap places, and rejoin, with vertical energy streams indicating control flow changes.\n\n14. **Instruction Particles in a Self-Modifying Reactor**\n    A transparent spherical “reactor” contains colored spheres (instruction particles) bouncing inside; when particles collide they can merge, split, or swap colors, and the reactor shell briefly highlights the modified regions.\n\n15. **Interactive Debugger That Moves Its Own Breakpoints**\n    A horizontal track of blocks (code lines) slides beneath a hovering “debugger” sphere that places, removes, and shifts glowing breakpoint markers, which in turn cause sections of the track to rearrange or fold into new shapes.\n\n16. **Self-Rewriting Data Stream Tunnel**\n    A translucent tunnel extends into the screen with colored pulses (data packets) traveling through; robotic rings along the tunnel rotate, grab pulses, change their color and direction, and sometimes duplicate or delete them.\n\n17. **Program Tree That Prunes and Grafts Its Branches**\n    A 3D tree of segments (functions) with labeled nodes grows in space; branches can detach, float, rotate, and reattach to different trunks, while small glowing fruits (tests) fly around tagging branches to keep or remove.\n\n18. **Self-Assembling Code Molecules**\n    Floating polyhedral molecules (subroutines) drift in 3D, collide, and stick together via matching colored “ports” to form larger structures, then occasionally rearrange by detaching and reattaching sub-molecules in new patterns.\n\n19. **Code Domino Chain That Rewrites Ahead**\n    A winding chain of standing domino-like tiles (instructions) sits on a plane; a wave of falling tiles travels along while a hovering “predictor” arm ahead of the wave rearranges, rotates, recolors, and sometimes inserts new tiles.\n\n20. **Self-Tuning Program Orchestra**\n    Floating instruments (modules) arranged in a circle emit pulsing rings (signals); when overlapping signals form certain patterns, instruments drift, swap positions, change size, or split into two, with a central meter sphere tracking complexity.\n\n21. **Self-Modifying Maze of Logic Gates**\n    A flat maze of logic-gate symbols (AND, OR, NOT) made from little glowing shapes routes particle “bits” from left to right; based on bit patterns, gates can slide along tracks, rotate, or swap with neighbors, dynamically reshaping the maze.\n\n22. **Program Cube With Rotating Faces of Code**\n    A central cube spins slowly, each face tiled with small colored squares (instructions); when bright scanning beams sweep across a face, some squares slide to other faces, merge, or split, with thin glowing lines wrapping around to show new links.\n\n23. **Self-Routing Packet Network That Rewrites Rules**\n    A 3D network of nodes connected by translucent tubes carries glowing packets; occasionally, a node enters a “rewrite” mode, causing nearby tubes to detach, reattach to different nodes, and change color to show new routing rules.\n\n24. **Code Volcano That Erupts New Instructions**\n    A low cone-shaped “volcano” of stacked code blocks occasionally erupts, shooting glowing fragments upward; as fragments fall back, some attach as new layers, others bounce off and dissolve, and labels update to show version numbers.\n\n25. **Self-Organizing Code Constellations**\n    In a light sky, small labeled stars (functions) drift and form constellations linked by faint lines; when performance “meteors” pass through, stars detach, reposition, and relink, with trails showing the evolution of the constellation structure."
+}

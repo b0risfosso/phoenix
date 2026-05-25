@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Robots",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T17:57:14",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Warehouse Sorting Robots on a Conveyor Grid",
+      "description": "A light-colored warehouse floor with multiple cube-bodied robots sliding on a grid of lanes, picking up colored boxes from moving conveyors, avoiding collisions, and dropping them into labeled bins that fill, glow briefly on successful delivery, and show trails of past robot paths.",
+      "seed": "Warehouse Sorting Robots on a Conveyor Grid: A light-colored warehouse floor with multiple cube-bodied robots sliding on a grid of lanes, picking up colored boxes from moving conveyors, avoiding collisions, and dropping them into labeled bins that fill, glow briefly on successful delivery, and show trails of past robot paths."
+    },
+    {
+      "number": "2",
+      "title": "Robot Arm Assembly Line with Swappable Tools",
+      "description": "A stationary robotic arm with rotating joints and interchangeable colored tool-heads (gripper, welder, screwdriver) that attach/detach from a tool rack to manipulate small parts on a moving belt, with sparks particles for welding and transparent overlays highlighting active joints.",
+      "seed": "Robot Arm Assembly Line with Swappable Tools: A stationary robotic arm with rotating joints and interchangeable colored tool-heads (gripper, welder, screwdriver) that attach/detach from a tool rack to manipulate small parts on a moving belt, with sparks particles for welding and transparent overlays highlighting active joints."
+    },
+    {
+      "number": "3",
+      "title": "Swarm Cleaning Micro-Robots on a Glass Wall",
+      "description": "Dozens of tiny disc-shaped micro-robots crawling on a large vertical transparent pane, leaving fading blue trails where they “clean,” clustering around dirt spots that dissolve as they scrub, and occasionally bouncing off each other while a side meter tracks cleaned area.",
+      "seed": "Swarm Cleaning Micro-Robots on a Glass Wall: Dozens of tiny disc-shaped micro-robots crawling on a large vertical transparent pane, leaving fading blue trails where they “clean,” clustering around dirt spots that dissolve as they scrub, and occasionally bouncing off each other while a side meter tracks cleaned area."
+    },
+    {
+      "number": "4",
+      "title": "Robot Soccer Match with Strategy Zones",
+      "description": "A bright rectangular field with two teams of wheeled robots (red vs blue) chasing a white ball that bounces and rolls, with robots coordinating passes, avoiding collisions, taking shots on goal, and leaving short motion trails plus score labels above each goal.",
+      "seed": "Robot Soccer Match with Strategy Zones: A bright rectangular field with two teams of wheeled robots (red vs blue) chasing a white ball that bounces and rolls, with robots coordinating passes, avoiding collisions, taking shots on goal, and leaving short motion trails plus score labels above each goal."
+    },
+    {
+      "number": "5",
+      "title": "Humanoid Robots Training on an Obstacle Course",
+      "description": "Several simplified humanoid robots running, jumping, and balancing across platforms, ramps, and rotating beams, with some falling and colliding, others successfully crossing and triggering glowing checkpoints and floating performance labels above each robot.",
+      "seed": "Humanoid Robots Training on an Obstacle Course: Several simplified humanoid robots running, jumping, and balancing across platforms, ramps, and rotating beams, with some falling and colliding, others successfully crossing and triggering glowing checkpoints and floating performance labels above each robot."
+    },
+    {
+      "number": "6",
+      "title": "Underwater Maintenance Robots Around a Transparent Dome",
+      "description": "Spherical underwater robots with propellers gently floating and orbiting a submerged transparent habitat dome, attaching to its surface to “repair” colored damage spots that fade as they work, releasing small bubble particles and using scanning beams that briefly highlight inspected areas.",
+      "seed": "Underwater Maintenance Robots Around a Transparent Dome: Spherical underwater robots with propellers gently floating and orbiting a submerged transparent habitat dome, attaching to its surface to “repair” colored damage spots that fade as they work, releasing small bubble particles and using scanning beams that briefly highlight inspected areas."
+    },
+    {
+      "number": "7",
+      "title": "Factory Floor of Mobile Robots Charging and Delivering",
+      "description": "Mobile rectangular robots navigate between shelves and a central charging station, docking to charge (with battery-level bars filling), then undocking to carry small crates, avoiding collisions and forming temporary queues that are visualized with faint connecting lines.",
+      "seed": "Factory Floor of Mobile Robots Charging and Delivering: Mobile rectangular robots navigate between shelves and a central charging station, docking to charge (with battery-level bars filling), then undocking to carry small crates, avoiding collisions and forming temporary queues that are visualized with faint connecting lines."
+    },
+    {
+      "number": "8",
+      "title": "Robot Drones Mapping a 3D Cave",
+      "description": "Multiple quadcopter-style drones fly through a dark-gray cave with a light background fog, projecting cone-shaped scanning beams onto walls that gradually build a semi-transparent 3D map mesh, while drones avoid stalactites and leave glowing trails marking explored paths.",
+      "seed": "Robot Drones Mapping a 3D Cave: Multiple quadcopter-style drones fly through a dark-gray cave with a light background fog, projecting cone-shaped scanning beams onto walls that gradually build a semi-transparent 3D map mesh, while drones avoid stalactites and leave glowing trails marking explored paths."
+    },
+    {
+      "number": "9",
+      "title": "Modular Cube Robots That Attach and Reconfigure",
+      "description": "Dozens of small magnetic cubes move, collide gently, and attach at their faces to form larger structures like bridges and towers, then detach and rearrange into new shapes, with connection points softly glowing and a label showing the current number of connected modules.",
+      "seed": "Modular Cube Robots That Attach and Reconfigure: Dozens of small magnetic cubes move, collide gently, and attach at their faces to form larger structures like bridges and towers, then detach and rearrange into new shapes, with connection points softly glowing and a label showing the current number of connected modules."
+    },
+    {
+      "number": "10",
+      "title": "Robot Vacuum Cleaners Competing in a Room",
+      "description": "Several disc robots roam a room with scattered colored dust patches that shrink and vanish when cleaned, robots bouncing lightly off walls and furniture, leaving faint path trails and showing cleanliness percentages above them as they compete to clean the most area.",
+      "seed": "Robot Vacuum Cleaners Competing in a Room: Several disc robots roam a room with scattered colored dust patches that shrink and vanish when cleaned, robots bouncing lightly off walls and furniture, leaving faint path trails and showing cleanliness percentages above them as they compete to clean the most area."
+    },
+    {
+      "number": "11",
+      "title": "Robotic Planet Explorer with Deployable Mini-Bots",
+      "description": "A main rover with wheels traverses a rocky terrain, dropping small scout bots that unfold and roll away to sample colored rocks, then return and reattach to the rover’s body, transferring glowing “data” particles into a transparent data dome that gradually fills.",
+      "seed": "Robotic Planet Explorer with Deployable Mini-Bots: A main rover with wheels traverses a rocky terrain, dropping small scout bots that unfold and roll away to sample colored rocks, then return and reattach to the rover’s body, transferring glowing “data” particles into a transparent data dome that gradually fills."
+    },
+    {
+      "number": "12",
+      "title": "Robotic Arms Collaborating to Stack Transparent Blocks",
+      "description": "Two or three stationary robot arms around a central table pick up semi-transparent colored blocks, rotate and pass them between grippers, and carefully stack them into a tall tower that wobbles, sometimes collapses with bouncing blocks, and shows a live height label.",
+      "seed": "Robotic Arms Collaborating to Stack Transparent Blocks: Two or three stationary robot arms around a central table pick up semi-transparent colored blocks, rotate and pass them between grippers, and carefully stack them into a tall tower that wobbles, sometimes collapses with bouncing blocks, and shows a live height label."
+    },
+    {
+      "number": "13",
+      "title": "Microscopic Nanobots Repairing a Transparent Blood Vessel",
+      "description": "Tiny capsule-like nanobots flow inside a large semi-transparent tube with red particle “cells” drifting by, the bots attaching to damaged wall regions that glow red, then gradually fade to normal as bots work, occasionally branching off into side channels and rejoining the flow.",
+      "seed": "Microscopic Nanobots Repairing a Transparent Blood Vessel: Tiny capsule-like nanobots flow inside a large semi-transparent tube with red particle “cells” drifting by, the bots attaching to damaged wall regions that glow red, then gradually fade to normal as bots work, occasionally branching off into side channels and rejoining the flow."
+    },
+    {
+      "number": "14",
+      "title": "Space Station Maintenance Robots in Zero Gravity",
+      "description": "Boxy maintenance robots jet around a central space station core, using small thrusters that emit particle plumes, docking to panels to “tighten bolts,” pushing floating debris into collection nets, and occasionally rotating solar panels that follow a moving light source.",
+      "seed": "Space Station Maintenance Robots in Zero Gravity: Boxy maintenance robots jet around a central space station core, using small thrusters that emit particle plumes, docking to panels to “tighten bolts,” pushing floating debris into collection nets, and occasionally rotating solar panels that follow a moving light source."
+    },
+    {
+      "number": "15",
+      "title": "Robot Bee Swarm Pollinating a Garden",
+      "description": "Tiny flying robot bees hover over colorful flowers in a bright garden, landing on petals to pick up glowing pollen particles that stick and then transfer to other flowers, while bees avoid collisions and leave subtle motion trails above a semi-transparent ground.",
+      "seed": "Robot Bee Swarm Pollinating a Garden: Tiny flying robot bees hover over colorful flowers in a bright garden, landing on petals to pick up glowing pollen particles that stick and then transfer to other flowers, while bees avoid collisions and leave subtle motion trails above a semi-transparent ground."
+    },
+    {
+      "number": "16",
+      "title": "Self-Balancing Delivery Robots on a Sloped Street",
+      "description": "Two-wheeled robots carry packages up and down a gently sloped road, constantly adjusting tilt to stay upright, sometimes losing balance and tumbling with bouncing packages that can detach and slide, while a stability meter hovers above each robot.",
+      "seed": "Self-Balancing Delivery Robots on a Sloped Street: Two-wheeled robots carry packages up and down a gently sloped road, constantly adjusting tilt to stay upright, sometimes losing balance and tumbling with bouncing packages that can detach and slide, while a stability meter hovers above each robot."
+    },
+    {
+      "number": "17",
+      "title": "Chess-Playing Robot Arms Moving Pieces on a Board",
+      "description": "Two robot arms on opposite sides of a chessboard take turns, carefully gripping and lifting pieces, rotating them slightly, and placing or capturing them, with captured pieces sliding off to transparent side trays and move numbers floating briefly above each moved piece.",
+      "seed": "Chess-Playing Robot Arms Moving Pieces on a Board: Two robot arms on opposite sides of a chessboard take turns, carefully gripping and lifting pieces, rotating them slightly, and placing or capturing them, with captured pieces sliding off to transparent side trays and move numbers floating briefly above each moved piece."
+    },
+    {
+      "number": "18",
+      "title": "Assembly of a Robot From Loose Parts on a Table",
+      "description": "Motors, gears, plates, and wires scattered on a table slowly slide, rotate, and snap together, guided by an invisible plan shown with ghosted outlines; parts attach with small spark particles, forming joints that start to move as sections complete, until a full robot stands and waves.",
+      "seed": "Assembly of a Robot From Loose Parts on a Table: Motors, gears, plates, and wires scattered on a table slowly slide, rotate, and snap together, guided by an invisible plan shown with ghosted outlines; parts attach with small spark particles, forming joints that start to move as sections complete, until a full robot stands and waves."
+    },
+    {
+      "number": "19",
+      "title": "Robot Fish School Navigating a Coral Maze",
+      "description": "Streamlined robot fish with glowing eyes swim through a 3D coral structure, avoiding collisions with coral and each other, splitting and merging into sub-groups, occasionally synchronizing direction changes that send shimmering waves through the school.",
+      "seed": "Robot Fish School Navigating a Coral Maze: Streamlined robot fish with glowing eyes swim through a 3D coral structure, avoiding collisions with coral and each other, splitting and merging into sub-groups, occasionally synchronizing direction changes that send shimmering waves through the school."
+    },
+    {
+      "number": "20",
+      "title": "Painting Robots Decorating a 3D Sculpture",
+      "description": "Multiple small wheeled robots orbit and climb around a central white sculpture, spraying thin colored paint streams that leave streaks and splashes, some paths dripping downward, with transparency layers allowing earlier colors to show through and each robot labeled by color.",
+      "seed": "Painting Robots Decorating a 3D Sculpture: Multiple small wheeled robots orbit and climb around a central white sculpture, spraying thin colored paint streams that leave streaks and splashes, some paths dripping downward, with transparency layers allowing earlier colors to show through and each robot labeled by color."
+    },
+    {
+      "number": "21",
+      "title": "Firefighting Robots Battling a Spreading Warehouse Blaze",
+      "description": "Tank-like robots move through aisles of crates where red-orange flame particles spread between stacks, robots spraying blue water jets that collide with and dissolve flames, leaving behind steam particles and darkened crate surfaces.",
+      "seed": "Firefighting Robots Battling a Spreading Warehouse Blaze: Tank-like robots move through aisles of crates where red-orange flame particles spread between stacks, robots spraying blue water jets that collide with and dissolve flames, leaving behind steam particles and darkened crate surfaces."
+    },
+    {
+      "number": "22",
+      "title": "Robotic Sorting of Recyclables on a Transparent Chute",
+      "description": "A flow of mixed objects (cans, bottles, boxes) slides down a transparent chute while fast robot arms dart in to grab items and toss them into color-coded bins, with objects bouncing off bin edges, some mis-sorted and then re-sorted by secondary mini-robots.",
+      "seed": "Robotic Sorting of Recyclables on a Transparent Chute: A flow of mixed objects (cans, bottles, boxes) slides down a transparent chute while fast robot arms dart in to grab items and toss them into color-coded bins, with objects bouncing off bin edges, some mis-sorted and then re-sorted by secondary mini-robots."
+    },
+    {
+      "number": "23",
+      "title": "Robot Car Intersection with Traffic Coordination",
+      "description": "Several autonomous cars (simple box robots) approach a four-way intersection without traffic lights, adjusting speed to avoid collisions, sometimes forming platoons that travel closely with thin glowing lines connecting them, while a top-down mini-map shows near misses.",
+      "seed": "Robot Car Intersection with Traffic Coordination: Several autonomous cars (simple box robots) approach a four-way intersection without traffic lights, adjusting speed to avoid collisions, sometimes forming platoons that travel closely with thin glowing lines connecting them, while a top-down mini-map shows near misses."
+    },
+    {
+      "number": "24",
+      "title": "Robot Origami Folder on a Flat Table",
+      "description": "A robot arm with a specialized end-effector grips corners of a thin, semi-transparent sheet and folds it in a sequence, creases appearing as slightly darker lines, the sheet occasionally bouncing or slipping, and intermediate shapes labeled as the robot progresses.",
+      "seed": "Robot Origami Folder on a Flat Table: A robot arm with a specialized end-effector grips corners of a thin, semi-transparent sheet and folds it in a sequence, creases appearing as slightly darker lines, the sheet occasionally bouncing or slipping, and intermediate shapes labeled as the robot progresses."
+    },
+    {
+      "number": "25",
+      "title": "Repair Drones Inside a Giant Transparent Robot",
+      "description": "The inside of a huge semi-transparent humanoid robot is visible, with tiny repair drones flying along glowing pathways to damaged components that blink red, docking to repair them so they turn green, while some pathways branch and reroute around blocked areas.",
+      "seed": "Repair Drones Inside a Giant Transparent Robot: The inside of a huge semi-transparent humanoid robot is visible, with tiny repair drones flying along glowing pathways to damaged components that blink red, docking to repair them so they turn green, while some pathways branch and reroute around blocked areas."
+    }
+  ],
+  "raw_output": "Here are strong **Robots simulation inputs** you can plug into your prompt:\n\n1. **Warehouse Sorting Robots on a Conveyor Grid**\n   A light-colored warehouse floor with multiple cube-bodied robots sliding on a grid of lanes, picking up colored boxes from moving conveyors, avoiding collisions, and dropping them into labeled bins that fill, glow briefly on successful delivery, and show trails of past robot paths.\n\n2. **Robot Arm Assembly Line with Swappable Tools**\n   A stationary robotic arm with rotating joints and interchangeable colored tool-heads (gripper, welder, screwdriver) that attach/detach from a tool rack to manipulate small parts on a moving belt, with sparks particles for welding and transparent overlays highlighting active joints.\n\n3. **Swarm Cleaning Micro-Robots on a Glass Wall**\n   Dozens of tiny disc-shaped micro-robots crawling on a large vertical transparent pane, leaving fading blue trails where they “clean,” clustering around dirt spots that dissolve as they scrub, and occasionally bouncing off each other while a side meter tracks cleaned area.\n\n4. **Robot Soccer Match with Strategy Zones**\n   A bright rectangular field with two teams of wheeled robots (red vs blue) chasing a white ball that bounces and rolls, with robots coordinating passes, avoiding collisions, taking shots on goal, and leaving short motion trails plus score labels above each goal.\n\n5. **Humanoid Robots Training on an Obstacle Course**\n   Several simplified humanoid robots running, jumping, and balancing across platforms, ramps, and rotating beams, with some falling and colliding, others successfully crossing and triggering glowing checkpoints and floating performance labels above each robot.\n\n6. **Underwater Maintenance Robots Around a Transparent Dome**\n   Spherical underwater robots with propellers gently floating and orbiting a submerged transparent habitat dome, attaching to its surface to “repair” colored damage spots that fade as they work, releasing small bubble particles and using scanning beams that briefly highlight inspected areas.\n\n7. **Factory Floor of Mobile Robots Charging and Delivering**\n   Mobile rectangular robots navigate between shelves and a central charging station, docking to charge (with battery-level bars filling), then undocking to carry small crates, avoiding collisions and forming temporary queues that are visualized with faint connecting lines.\n\n8. **Robot Drones Mapping a 3D Cave**\n   Multiple quadcopter-style drones fly through a dark-gray cave with a light background fog, projecting cone-shaped scanning beams onto walls that gradually build a semi-transparent 3D map mesh, while drones avoid stalactites and leave glowing trails marking explored paths.\n\n9. **Modular Cube Robots That Attach and Reconfigure**\n   Dozens of small magnetic cubes move, collide gently, and attach at their faces to form larger structures like bridges and towers, then detach and rearrange into new shapes, with connection points softly glowing and a label showing the current number of connected modules.\n\n10. **Robot Vacuum Cleaners Competing in a Room**\n   Several disc robots roam a room with scattered colored dust patches that shrink and vanish when cleaned, robots bouncing lightly off walls and furniture, leaving faint path trails and showing cleanliness percentages above them as they compete to clean the most area.\n\n11. **Robotic Planet Explorer with Deployable Mini-Bots**\n   A main rover with wheels traverses a rocky terrain, dropping small scout bots that unfold and roll away to sample colored rocks, then return and reattach to the rover’s body, transferring glowing “data” particles into a transparent data dome that gradually fills.\n\n12. **Robotic Arms Collaborating to Stack Transparent Blocks**\n   Two or three stationary robot arms around a central table pick up semi-transparent colored blocks, rotate and pass them between grippers, and carefully stack them into a tall tower that wobbles, sometimes collapses with bouncing blocks, and shows a live height label.\n\n13. **Microscopic Nanobots Repairing a Transparent Blood Vessel**\n   Tiny capsule-like nanobots flow inside a large semi-transparent tube with red particle “cells” drifting by, the bots attaching to damaged wall regions that glow red, then gradually fade to normal as bots work, occasionally branching off into side channels and rejoining the flow.\n\n14. **Space Station Maintenance Robots in Zero Gravity**\n   Boxy maintenance robots jet around a central space station core, using small thrusters that emit particle plumes, docking to panels to “tighten bolts,” pushing floating debris into collection nets, and occasionally rotating solar panels that follow a moving light source.\n\n15. **Robot Bee Swarm Pollinating a Garden**\n   Tiny flying robot bees hover over colorful flowers in a bright garden, landing on petals to pick up glowing pollen particles that stick and then transfer to other flowers, while bees avoid collisions and leave subtle motion trails above a semi-transparent ground.\n\n16. **Self-Balancing Delivery Robots on a Sloped Street**\n   Two-wheeled robots carry packages up and down a gently sloped road, constantly adjusting tilt to stay upright, sometimes losing balance and tumbling with bouncing packages that can detach and slide, while a stability meter hovers above each robot.\n\n17. **Chess-Playing Robot Arms Moving Pieces on a Board**\n   Two robot arms on opposite sides of a chessboard take turns, carefully gripping and lifting pieces, rotating them slightly, and placing or capturing them, with captured pieces sliding off to transparent side trays and move numbers floating briefly above each moved piece.\n\n18. **Assembly of a Robot From Loose Parts on a Table**\n   Motors, gears, plates, and wires scattered on a table slowly slide, rotate, and snap together, guided by an invisible plan shown with ghosted outlines; parts attach with small spark particles, forming joints that start to move as sections complete, until a full robot stands and waves.\n\n19. **Robot Fish School Navigating a Coral Maze**\n   Streamlined robot fish with glowing eyes swim through a 3D coral structure, avoiding collisions with coral and each other, splitting and merging into sub-groups, occasionally synchronizing direction changes that send shimmering waves through the school.\n\n20. **Painting Robots Decorating a 3D Sculpture**\n   Multiple small wheeled robots orbit and climb around a central white sculpture, spraying thin colored paint streams that leave streaks and splashes, some paths dripping downward, with transparency layers allowing earlier colors to show through and each robot labeled by color.\n\n21. **Firefighting Robots Battling a Spreading Warehouse Blaze**\n   Tank-like robots move through aisles of crates where red-orange flame particles spread between stacks, robots spraying blue water jets that collide with and dissolve flames, leaving behind steam particles and darkened crate surfaces.\n\n22. **Robotic Sorting of Recyclables on a Transparent Chute**\n   A flow of mixed objects (cans, bottles, boxes) slides down a transparent chute while fast robot arms dart in to grab items and toss them into color-coded bins, with objects bouncing off bin edges, some mis-sorted and then re-sorted by secondary mini-robots.\n\n23. **Robot Car Intersection with Traffic Coordination**\n   Several autonomous cars (simple box robots) approach a four-way intersection without traffic lights, adjusting speed to avoid collisions, sometimes forming platoons that travel closely with thin glowing lines connecting them, while a top-down mini-map shows near misses.\n\n24. **Robot Origami Folder on a Flat Table**\n   A robot arm with a specialized end-effector grips corners of a thin, semi-transparent sheet and folds it in a sequence, creases appearing as slightly darker lines, the sheet occasionally bouncing or slipping, and intermediate shapes labeled as the robot progresses.\n\n25. **Repair Drones Inside a Giant Transparent Robot**\n   The inside of a huge semi-transparent humanoid robot is visible, with tiny repair drones flying along glowing pathways to damaged components that blink red, docking to repair them so they turn green, while some pathways branch and reroute around blocked areas."
+}

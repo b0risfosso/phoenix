@@ -1,0 +1,160 @@
+{
+  "kind": "simulation_seed_output",
+  "input_phrase": "Attraction and repulsion",
+  "model": "gpt-5.1",
+  "temperature": 0.9,
+  "created_at": "2026-05-24T18:10:20",
+  "entries": [
+    {
+      "number": "1",
+      "title": "Charged Particle Swarm in a Force Field Box",
+      "description": "A cloud of red positively charged spheres and blue negatively charged spheres float in a translucent box, attracting and repelling via Coulomb forces, bouncing off the walls, forming temporary pairs, and leaving faint motion trails and charge labels.",
+      "seed": "Charged Particle Swarm in a Force Field Box: A cloud of red positively charged spheres and blue negatively charged spheres float in a translucent box, attracting and repelling via Coulomb forces, bouncing off the walls, forming temporary pairs, and leaving faint motion trails and charge labels."
+    },
+    {
+      "number": "2",
+      "title": "Magnetic Dipoles on a Tabletop",
+      "description": "Dozens of bar-magnet boxes with visible N/S end caps slide on a smooth plane, rotate to align, snap together in chains when poles attract, spin away when they repel, and show field lines as thin curved glow segments that pulse with distance.",
+      "seed": "Magnetic Dipoles on a Tabletop: Dozens of bar-magnet boxes with visible N/S end caps slide on a smooth plane, rotate to align, snap together in chains when poles attract, spin away when they repel, and show field lines as thin curved glow segments that pulse with distance."
+    },
+    {
+      "number": "3",
+      "title": "Planet–Moon System with Gravitational Slingshots",
+      "description": "Multiple colored planets orbit a central star while small probe spheres fly through, getting attracted into curved slingshot paths or repelled by close gravitational encounters, leaving orbit trails and showing velocity vectors as arrows.",
+      "seed": "Planet–Moon System with Gravitational Slingshots: Multiple colored planets orbit a central star while small probe spheres fly through, getting attracted into curved slingshot paths or repelled by close gravitational encounters, leaving orbit trails and showing velocity vectors as arrows."
+    },
+    {
+      "number": "4",
+      "title": "Ionic Crystal Formation and Dissolution",
+      "description": "Red (cation) and blue (anion) spheres drift in a clear solution cube, snapping into a growing cubic lattice when opposite ions meet, detaching and dissolving back into the fluid when same-charge clusters build up, with bond lines briefly glowing at attachment.",
+      "seed": "Ionic Crystal Formation and Dissolution: Red (cation) and blue (anion) spheres drift in a clear solution cube, snapping into a growing cubic lattice when opposite ions meet, detaching and dissolving back into the fluid when same-charge clusters build up, with bond lines briefly glowing at attachment."
+    },
+    {
+      "number": "5",
+      "title": "Boids with Social Attraction and Personal Space Repulsion",
+      "description": "Cone-shaped “agents” steer through a 3D volume, attracted toward their group’s center while repelling at short distances to avoid collisions, forming and splitting flocks with colored trails and a live “cohesion vs. separation” meter bar.",
+      "seed": "Boids with Social Attraction and Personal Space Repulsion: Cone-shaped “agents” steer through a 3D volume, attracted toward their group’s center while repelling at short distances to avoid collisions, forming and splitting flocks with colored trails and a live “cohesion vs. separation” meter bar."
+    },
+    {
+      "number": "6",
+      "title": "Magnetic Levitation Track",
+      "description": "A metallic-like ring object floats and glides over a straight rail made of alternating magnetic blocks, hovering due to repulsion, dipping and rising over gaps, and showing field strength as a vertical color-coded bar that changes as the ring moves.",
+      "seed": "Magnetic Levitation Track: A metallic-like ring object floats and glides over a straight rail made of alternating magnetic blocks, hovering due to repulsion, dipping and rising over gaps, and showing field strength as a vertical color-coded bar that changes as the ring moves."
+    },
+    {
+      "number": "7",
+      "title": "Molecular Dipole Alignment in an Electric Field",
+      "description": "Small dumbbell molecules with positive and negative ends rotate and translate inside a transparent box, slowly aligning with a global electric field arrow while repelling each other at close range, with torque arrows and alignment angle labels.",
+      "seed": "Molecular Dipole Alignment in an Electric Field: Small dumbbell molecules with positive and negative ends rotate and translate inside a transparent box, slowly aligning with a global electric field arrow while repelling each other at close range, with torque arrows and alignment angle labels."
+    },
+    {
+      "number": "8",
+      "title": "Spring-Coupled Repelling Planets on a Ring",
+      "description": "Spheres arranged on a circular track are linked by light springs but exert repulsive forces on their neighbors, causing waves of compression and expansion to travel around the ring as the spheres bounce and oscillate, with spring lines changing color by tension.",
+      "seed": "Spring-Coupled Repelling Planets on a Ring: Spheres arranged on a circular track are linked by light springs but exert repulsive forces on their neighbors, causing waves of compression and expansion to travel around the ring as the spheres bounce and oscillate, with spring lines changing color by tension."
+    },
+    {
+      "number": "9",
+      "title": "Two-Galaxy Gravitational Dance",
+      "description": "Two spiral disks of hundreds of star particles, each orbiting its own galactic center, pass near each other, attracting and flinging stars out, forming tidal tails, with each star leaving a short, fading trail colored by its home galaxy.",
+      "seed": "Two-Galaxy Gravitational Dance: Two spiral disks of hundreds of star particles, each orbiting its own galactic center, pass near each other, attracting and flinging stars out, forming tidal tails, with each star leaving a short, fading trail colored by its home galaxy."
+    },
+    {
+      "number": "10",
+      "title": "Charged Plates and Electron Beam Deflection",
+      "description": "A thin beam of small electron spheres shoots between two large parallel plates with adjustable charge, curving upward or downward depending on plate polarity, with path trails, field lines, and live readouts of beam deflection and plate voltage.",
+      "seed": "Charged Plates and Electron Beam Deflection: A thin beam of small electron spheres shoots between two large parallel plates with adjustable charge, curving upward or downward depending on plate polarity, with path trails, field lines, and live readouts of beam deflection and plate voltage."
+    },
+    {
+      "number": "11",
+      "title": "Attracting and Repelling Magnetic Marbles on a Table",
+      "description": "Dozens of small spheres with hidden N/S poles roll freely on a flat plane, clumping into clusters when attraction dominates, then jittering apart when repulsion is locally stronger, with cluster centers marked by translucent glowing halos.",
+      "seed": "Attracting and Repelling Magnetic Marbles on a Table: Dozens of small spheres with hidden N/S poles roll freely on a flat plane, clumping into clusters when attraction dominates, then jittering apart when repulsion is locally stronger, with cluster centers marked by translucent glowing halos."
+    },
+    {
+      "number": "12",
+      "title": "Predator–Prey Orbits with Fear and Attraction Zones",
+      "description": "A few “predator” cones chase many “prey” spheres inside an arena where prey are attracted to a central safe zone but repelled by nearby predators, weaving complex paths, forming loose herds, and leaving colored trails indicating stress levels.",
+      "seed": "Predator–Prey Orbits with Fear and Attraction Zones: A few “predator” cones chase many “prey” spheres inside an arena where prey are attracted to a central safe zone but repelled by nearby predators, weaving complex paths, forming loose herds, and leaving colored trails indicating stress levels."
+    },
+    {
+      "number": "13",
+      "title": "Electrostatic Sand on a Charged Balloon",
+      "description": "Tiny grain particles hover near a large translucent sphere that can be given positive or negative charge, causing grains to jump onto, slide around, or pop off the surface depending on their own charge state, leaving momentary surface marks.",
+      "seed": "Electrostatic Sand on a Charged Balloon: Tiny grain particles hover near a large translucent sphere that can be given positive or negative charge, causing grains to jump onto, slide around, or pop off the surface depending on their own charge state, leaving momentary surface marks."
+    },
+    {
+      "number": "14",
+      "title": "Plasma Cloud in a Magnetic Bottle",
+      "description": "A hazy cloud of glowing particles bounces and spirals inside an invisible magnetic “bottle,” attracted to the center field lines yet repelled by strong edge fields, with particle color indicating energy and faint field lines drawn as looping curves.",
+      "seed": "Plasma Cloud in a Magnetic Bottle: A hazy cloud of glowing particles bounces and spirals inside an invisible magnetic “bottle,” attracted to the center field lines yet repelled by strong edge fields, with particle color indicating energy and faint field lines drawn as looping curves."
+    },
+    {
+      "number": "15",
+      "title": "Opposing Crowd Flows in a Corridor",
+      "description": "Simple human-like capsules move through a corridor from opposite ends, attracted toward exits but repelled by personal space and wall proximity, forming lanes, jams, and eddies, with density heatmap patches projected on the floor.",
+      "seed": "Opposing Crowd Flows in a Corridor: Simple human-like capsules move through a corridor from opposite ends, attracted toward exits but repelled by personal space and wall proximity, forming lanes, jams, and eddies, with density heatmap patches projected on the floor."
+    },
+    {
+      "number": "16",
+      "title": "Charged Pendulums with Electrostatic Interaction",
+      "description": "Several pendulum bobs on strings hang from a horizontal bar, each bob carrying adjustable charge; as they swing, they attract or repel, colliding, synchronizing, or scattering, with tension and electrostatic force vectors displayed.",
+      "seed": "Charged Pendulums with Electrostatic Interaction: Several pendulum bobs on strings hang from a horizontal bar, each bob carrying adjustable charge; as they swing, they attract or repel, colliding, synchronizing, or scattering, with tension and electrostatic force vectors displayed."
+    },
+    {
+      "number": "17",
+      "title": "Magnetically Guided Nanorobots in a Vessel",
+      "description": "Tiny capsule robots move through a branching transparent tube network, attracted along a shifting external magnetic field path while repelled from each other to avoid clumping, with target zones glowing and successful arrivals leaving bright markers.",
+      "seed": "Magnetically Guided Nanorobots in a Vessel: Tiny capsule robots move through a branching transparent tube network, attracted along a shifting external magnetic field path while repelled from each other to avoid clumping, with target zones glowing and successful arrivals leaving bright markers."
+    },
+    {
+      "number": "18",
+      "title": "Gravitational N-Body Cluster with Softened Repulsion Core",
+      "description": "Dozens of small “stars” attract each other gravitationally but experience a short-range repulsive core to avoid singularities, forming a rotating cluster where stars orbit, merge into brighter objects on gentle collisions, and bounce away on close high-speed passes.",
+      "seed": "Gravitational N-Body Cluster with Softened Repulsion Core: Dozens of small “stars” attract each other gravitationally but experience a short-range repulsive core to avoid singularities, forming a rotating cluster where stars orbit, merge into brighter objects on gentle collisions, and bounce away on close high-speed passes."
+    },
+    {
+      "number": "19",
+      "title": "Dipole Chains in a Cooling Ferrofluid",
+      "description": "Short rod-like dipoles float in a cube and, as “temperature” is lowered, increasingly attract to form chains and branching structures while repelling other chains at certain angles, with a temperature slider and color shift from warm to cool hues.",
+      "seed": "Dipole Chains in a Cooling Ferrofluid: Short rod-like dipoles float in a cube and, as “temperature” is lowered, increasingly attract to form chains and branching structures while repelling other chains at certain angles, with a temperature slider and color shift from warm to cool hues."
+    },
+    {
+      "number": "20",
+      "title": "Sticky vs. Spiky Particles in a Mixing Chamber",
+      "description": "Two types of particles—smooth “sticky” spheres and spiky “repulsive” spheres—tumble inside a rotating drum; sticky spheres attract and merge into larger blobs while spiky ones repel and bounce, sorting themselves into distinct regions with different colors.",
+      "seed": "Sticky vs. Spiky Particles in a Mixing Chamber: Two types of particles—smooth “sticky” spheres and spiky “repulsive” spheres—tumble inside a rotating drum; sticky spheres attract and merge into larger blobs while spiky ones repel and bounce, sorting themselves into distinct regions with different colors."
+    },
+    {
+      "number": "21",
+      "title": "Charged Rings and a Test Particle Probe",
+      "description": "Several fixed rings with adjustable charges lie along a common axis, while a single small probe sphere moves under their electrostatic attraction and repulsion, oscillating or escaping, with potential energy visualized as a faint 3D color field.",
+      "seed": "Charged Rings and a Test Particle Probe: Several fixed rings with adjustable charges lie along a common axis, while a single small probe sphere moves under their electrostatic attraction and repulsion, oscillating or escaping, with potential energy visualized as a faint 3D color field."
+    },
+    {
+      "number": "22",
+      "title": "Binary Star with Planetary Resonances",
+      "description": "Two stars orbit each other while smaller planets and asteroid belts are attracted into stable or unstable resonant orbits, getting captured, ejected, or slingshotted, with orbit paths drawn and resonance zones indicated as translucent bands.",
+      "seed": "Binary Star with Planetary Resonances: Two stars orbit each other while smaller planets and asteroid belts are attracted into stable or unstable resonant orbits, getting captured, ejected, or slingshotted, with orbit paths drawn and resonance zones indicated as translucent bands."
+    },
+    {
+      "number": "23",
+      "title": "Repelling Robots Around an Attractive Beacon",
+      "description": "Small wheeled robot cylinders roam a flat plane, all attracted toward a central light beacon but repelled strongly from each other, creating dynamic rotating rings and milling patterns, with each robot’s local “force vector” drawn as a short arrow.",
+      "seed": "Repelling Robots Around an Attractive Beacon: Small wheeled robot cylinders roam a flat plane, all attracted toward a central light beacon but repelled strongly from each other, creating dynamic rotating rings and milling patterns, with each robot’s local “force vector” drawn as a short arrow."
+    },
+    {
+      "number": "24",
+      "title": "Magnetic Maze with Switchable Walls",
+      "description": "A single magnetic ball navigates a floor maze whose walls can attract or repel when toggled, causing the ball to roll, bounce, and sometimes get pinned to walls or pushed down corridors, with active walls glowing lightly in red (repel) or blue (attract).",
+      "seed": "Magnetic Maze with Switchable Walls: A single magnetic ball navigates a floor maze whose walls can attract or repel when toggled, causing the ball to roll, bounce, and sometimes get pinned to walls or pushed down corridors, with active walls glowing lightly in red (repel) or blue (attract)."
+    },
+    {
+      "number": "25",
+      "title": "Electron–Proton Plasma Oscillations in a Box",
+      "description": "Equal numbers of electrons and protons start slightly separated in a transparent cube, rush toward each other under attraction, overshoot due to inertia, and oscillate back and forth while repelling like charges, with species colored differently and average positions labeled.",
+      "seed": "Electron–Proton Plasma Oscillations in a Box: Equal numbers of electrons and protons start slightly separated in a transparent cube, rush toward each other under attraction, overshoot due to inertia, and oscillate back and forth while repelling like charges, with species colored differently and average positions labeled."
+    }
+  ],
+  "raw_output": "Here are strong **Attraction and repulsion simulation inputs** you can plug into your prompt:\n\n1. **Charged Particle Swarm in a Force Field Box**  \n   A cloud of red positively charged spheres and blue negatively charged spheres float in a translucent box, attracting and repelling via Coulomb forces, bouncing off the walls, forming temporary pairs, and leaving faint motion trails and charge labels.\n\n2. **Magnetic Dipoles on a Tabletop**  \n   Dozens of bar-magnet boxes with visible N/S end caps slide on a smooth plane, rotate to align, snap together in chains when poles attract, spin away when they repel, and show field lines as thin curved glow segments that pulse with distance.\n\n3. **Planet–Moon System with Gravitational Slingshots**  \n   Multiple colored planets orbit a central star while small probe spheres fly through, getting attracted into curved slingshot paths or repelled by close gravitational encounters, leaving orbit trails and showing velocity vectors as arrows.\n\n4. **Ionic Crystal Formation and Dissolution**  \n   Red (cation) and blue (anion) spheres drift in a clear solution cube, snapping into a growing cubic lattice when opposite ions meet, detaching and dissolving back into the fluid when same-charge clusters build up, with bond lines briefly glowing at attachment.\n\n5. **Boids with Social Attraction and Personal Space Repulsion**  \n   Cone-shaped “agents” steer through a 3D volume, attracted toward their group’s center while repelling at short distances to avoid collisions, forming and splitting flocks with colored trails and a live “cohesion vs. separation” meter bar.\n\n6. **Magnetic Levitation Track**  \n   A metallic-like ring object floats and glides over a straight rail made of alternating magnetic blocks, hovering due to repulsion, dipping and rising over gaps, and showing field strength as a vertical color-coded bar that changes as the ring moves.\n\n7. **Molecular Dipole Alignment in an Electric Field**  \n   Small dumbbell molecules with positive and negative ends rotate and translate inside a transparent box, slowly aligning with a global electric field arrow while repelling each other at close range, with torque arrows and alignment angle labels.\n\n8. **Spring-Coupled Repelling Planets on a Ring**  \n   Spheres arranged on a circular track are linked by light springs but exert repulsive forces on their neighbors, causing waves of compression and expansion to travel around the ring as the spheres bounce and oscillate, with spring lines changing color by tension.\n\n9. **Two-Galaxy Gravitational Dance**  \n   Two spiral disks of hundreds of star particles, each orbiting its own galactic center, pass near each other, attracting and flinging stars out, forming tidal tails, with each star leaving a short, fading trail colored by its home galaxy.\n\n10. **Charged Plates and Electron Beam Deflection**  \n    A thin beam of small electron spheres shoots between two large parallel plates with adjustable charge, curving upward or downward depending on plate polarity, with path trails, field lines, and live readouts of beam deflection and plate voltage.\n\n11. **Attracting and Repelling Magnetic Marbles on a Table**  \n    Dozens of small spheres with hidden N/S poles roll freely on a flat plane, clumping into clusters when attraction dominates, then jittering apart when repulsion is locally stronger, with cluster centers marked by translucent glowing halos.\n\n12. **Predator–Prey Orbits with Fear and Attraction Zones**  \n    A few “predator” cones chase many “prey” spheres inside an arena where prey are attracted to a central safe zone but repelled by nearby predators, weaving complex paths, forming loose herds, and leaving colored trails indicating stress levels.\n\n13. **Electrostatic Sand on a Charged Balloon**  \n    Tiny grain particles hover near a large translucent sphere that can be given positive or negative charge, causing grains to jump onto, slide around, or pop off the surface depending on their own charge state, leaving momentary surface marks.\n\n14. **Plasma Cloud in a Magnetic Bottle**  \n    A hazy cloud of glowing particles bounces and spirals inside an invisible magnetic “bottle,” attracted to the center field lines yet repelled by strong edge fields, with particle color indicating energy and faint field lines drawn as looping curves.\n\n15. **Opposing Crowd Flows in a Corridor**  \n    Simple human-like capsules move through a corridor from opposite ends, attracted toward exits but repelled by personal space and wall proximity, forming lanes, jams, and eddies, with density heatmap patches projected on the floor.\n\n16. **Charged Pendulums with Electrostatic Interaction**  \n    Several pendulum bobs on strings hang from a horizontal bar, each bob carrying adjustable charge; as they swing, they attract or repel, colliding, synchronizing, or scattering, with tension and electrostatic force vectors displayed.\n\n17. **Magnetically Guided Nanorobots in a Vessel**  \n    Tiny capsule robots move through a branching transparent tube network, attracted along a shifting external magnetic field path while repelled from each other to avoid clumping, with target zones glowing and successful arrivals leaving bright markers.\n\n18. **Gravitational N-Body Cluster with Softened Repulsion Core**  \n    Dozens of small “stars” attract each other gravitationally but experience a short-range repulsive core to avoid singularities, forming a rotating cluster where stars orbit, merge into brighter objects on gentle collisions, and bounce away on close high-speed passes.\n\n19. **Dipole Chains in a Cooling Ferrofluid**  \n    Short rod-like dipoles float in a cube and, as “temperature” is lowered, increasingly attract to form chains and branching structures while repelling other chains at certain angles, with a temperature slider and color shift from warm to cool hues.\n\n20. **Sticky vs. Spiky Particles in a Mixing Chamber**  \n    Two types of particles—smooth “sticky” spheres and spiky “repulsive” spheres—tumble inside a rotating drum; sticky spheres attract and merge into larger blobs while spiky ones repel and bounce, sorting themselves into distinct regions with different colors.\n\n21. **Charged Rings and a Test Particle Probe**  \n    Several fixed rings with adjustable charges lie along a common axis, while a single small probe sphere moves under their electrostatic attraction and repulsion, oscillating or escaping, with potential energy visualized as a faint 3D color field.\n\n22. **Binary Star with Planetary Resonances**  \n    Two stars orbit each other while smaller planets and asteroid belts are attracted into stable or unstable resonant orbits, getting captured, ejected, or slingshotted, with orbit paths drawn and resonance zones indicated as translucent bands.\n\n23. **Repelling Robots Around an Attractive Beacon**  \n    Small wheeled robot cylinders roam a flat plane, all attracted toward a central light beacon but repelled strongly from each other, creating dynamic rotating rings and milling patterns, with each robot’s local “force vector” drawn as a short arrow.\n\n24. **Magnetic Maze with Switchable Walls**  \n    A single magnetic ball navigates a floor maze whose walls can attract or repel when toggled, causing the ball to roll, bounce, and sometimes get pinned to walls or pushed down corridors, with active walls glowing lightly in red (repel) or blue (attract).\n\n25. **Electron–Proton Plasma Oscillations in a Box**  \n    Equal numbers of electrons and protons start slightly separated in a transparent cube, rush toward each other under attraction, overshoot due to inertia, and oscillate back and forth while repelling like charges, with species colored differently and average positions labeled."
+}
