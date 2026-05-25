@@ -1,0 +1,5 @@
+Running: /Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-a-school-of-small-fish-spheres-tha-child-88092892.py
+Started: 2026-05-24T22:40:29
+
+/Users/b/phoenix/code/script_to_script_web_app/.venv/lib/python3.12/site-packages/vpython/__init__.py:1: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import get_distribution, DistributionNotFound

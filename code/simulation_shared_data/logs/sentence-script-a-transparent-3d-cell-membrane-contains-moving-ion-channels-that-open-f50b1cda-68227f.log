@@ -1,0 +1,9 @@
+Running: /Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-a-transparent-3d-cell-membrane-contains-moving-ion-channels-that-open-f50b1cda.py
+Started: 2026-05-25T12:18:57
+
+Traceback (most recent call last):
+  File "/Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-a-transparent-3d-cell-membrane-contains-moving-ion-channels-that-open-f50b1cda.py", line 1, in <module>
+    from vpython import *
+  File "/Users/b/phoenix/code/sentence_simulation_cycle_web_app/.venv/lib/python3.12/site-packages/vpython/__init__.py", line 1, in <module>
+    from pkg_resources import get_distribution, DistributionNotFound
+ModuleNotFoundError: No module named 'pkg_resources'

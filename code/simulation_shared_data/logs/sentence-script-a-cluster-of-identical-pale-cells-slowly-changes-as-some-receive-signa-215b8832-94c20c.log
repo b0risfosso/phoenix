@@ -1,0 +1,12 @@
+Running: /Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-a-cluster-of-identical-pale-cells-slowly-changes-as-some-receive-signa-215b8832.py
+Started: 2026-05-25T13:26:08
+
+/Users/b/phoenix/code/sentence_simulation_cycle_web_app/.venv/lib/python3.12/site-packages/vpython/__init__.py:1: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import get_distribution, DistributionNotFound
+Traceback (most recent call last):
+  File "/Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-a-cluster-of-identical-pale-cells-slowly-changes-as-some-receive-signa-215b8832.py", line 1279, in <module>
+    reset_world(loop_round=False)
+  File "/Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-a-cluster-of-identical-pale-cells-slowly-changes-as-some-receive-signa-215b8832.py", line 715, in reset_world
+    shell1 = torus(
+             ^^^^^
+NameError: name 'torus' is not defined

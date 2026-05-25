@@ -9,15 +9,6 @@
         "note": "sleep mode",
         "created_at": "2026-05-24T12:20:18",
         "manual_entry": true
-      },
-      {
-        "id": "917c4445a1",
-        "parent_filename": "sentence-script-multiple-branching-neuron-like-structures-whose-axons-and-dendrites-gr-d42aee8a.py",
-        "child_filename": "sentence-script-multiple-branching-neuron-like-str-child-fbc97c3c.py",
-        "relationship": "keyboard",
-        "note": "",
-        "created_at": "2026-05-24T12:39:45",
-        "manual_entry": true
       }
     ],
     "sentence-script-a-transparent-3d-cell-undergoing-mitosis-as-chromosomes-condense-align-3ee01453.py": [
@@ -28,15 +19,6 @@
         "relationship": "sleep mode",
         "note": "",
         "created_at": "2026-05-24T13:42:41",
-        "manual_entry": true
-      },
-      {
-        "id": "7e23295ad4",
-        "parent_filename": "sentence-script-a-transparent-3d-cell-undergoing-mitosis-as-chromosomes-condense-align-3ee01453.py",
-        "child_filename": "sentence-script-a-transparent-3d-cell-undergoing-m-child-72b94a11.py",
-        "relationship": "keyboard",
-        "note": "",
-        "created_at": "2026-05-24T13:43:47",
         "manual_entry": true
       }
     ],
@@ -49,14 +31,16 @@
         "note": "",
         "created_at": "2026-05-24T14:11:51",
         "manual_entry": true
-      },
+      }
+    ],
+    "sentence-script-rod-shaped-bacteria-that-replicate-slide-and-cluster-on-a-light-colore-98161493.py": [
       {
-        "id": "a1c0e57013",
-        "parent_filename": "sentence-script-a-school-of-small-fish-spheres-that-align-turn-and-avoid-collisions-wh-f0a7b714.py",
-        "child_filename": "sentence-script-a-school-of-small-fish-spheres-tha-child-ec49cbf3.py",
-        "relationship": "keyboard",
+        "id": "c5beb09509",
+        "parent_filename": "sentence-script-rod-shaped-bacteria-that-replicate-slide-and-cluster-on-a-light-colore-98161493.py",
+        "child_filename": "sentence-script-rod-shaped-bacteria-that-replicate-child-1ed1af07.py",
+        "relationship": "sleep mode",
         "note": "",
-        "created_at": "2026-05-24T14:21:29",
+        "created_at": "2026-05-24T22:42:50",
         "manual_entry": true
       }
     ]

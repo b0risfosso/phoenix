@@ -1,7 +1,7 @@
 {
   "version": 1,
   "created_at": "2026-05-22T22:17:39",
-  "updated_at": "2026-05-24T21:01:41",
+  "updated_at": "2026-05-25T13:07:22",
   "root_id": "root",
   "nodes": {
     "root": {
@@ -18,7 +18,7 @@
     "effdff35ce84": {
       "id": "effdff35ce84",
       "kind": "core_sentence",
-      "sentence": "A transparent 3D cell membrane contains moving ion channels that open and close as charged ions drift, collide, attach, cross the membrane, leave trails, and respond to an AI controller that changes modes such as balancing, pumping, mixing, orbiting, and chaos",
+      "sentence": "A large transparent sphere acts as a cell membrane with colored “ion channel” cylinders that open and close, letting small charged spheres drift through, bounce, and leave trails while a simple meter shows inside vs. outside ion counts.",
       "title": "Core sentence",
       "parent_id": null,
       "children": [
@@ -48,7 +48,7 @@
         }
       ],
       "created_at": "2026-05-22T22:18:20",
-      "updated_at": "2026-05-22T22:24:25"
+      "updated_at": "2026-05-25T12:16:55"
     },
     "3f7ae7809716": {
       "id": "3f7ae7809716",
@@ -306,7 +306,7 @@
     "93b30b0f7d3c": {
       "id": "93b30b0f7d3c",
       "kind": "core_sentence",
-      "sentence": "A transparent 3D cell undergoing mitosis as chromosomes condense, align, separate, and divide into two daughter cells.",
+      "sentence": "A single cell sphere with a central duplicated chromosome cluster stretches, forms spindle fibers (thin rods) that pull chromosome spheres apart, and the whole cell pinches into two daughter cells that detach and drift slightly apart.",
       "title": "Core sentence",
       "parent_id": null,
       "children": [
@@ -336,7 +336,7 @@
         }
       ],
       "created_at": "2026-05-23T01:44:41",
-      "updated_at": "2026-05-23T01:51:29"
+      "updated_at": "2026-05-25T12:16:25"
     },
     "80d700c2c567": {
       "id": "80d700c2c567",
@@ -710,7 +710,7 @@
     "fa4153264bf2": {
       "id": "fa4153264bf2",
       "kind": "core_sentence",
-      "sentence": "A semi-transparent cell sphere contains a nucleus, mitochondria, vesicles, and ribosomes, where vesicles float along curved paths, gently collide and bounce off organelles, and leave faint trails.",
+      "sentence": "A semi-transparent cell sphere contains a nucleus, mitochondria, vesicles, and ribosomes, where vesicles float along curved paths, gently collide and bounce off organelles, and leave faint trails while labels hover over each structure.",
       "title": "Core sentence",
       "parent_id": null,
       "children": [
@@ -740,7 +740,7 @@
         }
       ],
       "created_at": "2026-05-23T11:21:00",
-      "updated_at": "2026-05-23T11:25:30"
+      "updated_at": "2026-05-25T12:22:05"
     },
     "388e1912e4da": {
       "id": "388e1912e4da",
@@ -2746,6 +2746,424 @@
       "scripts": [],
       "created_at": "2026-05-24T17:42:57",
       "updated_at": "2026-05-24T17:42:57"
+    },
+    "58b5c274bdf4": {
+      "id": "58b5c274bdf4",
+      "kind": "core_sentence",
+      "sentence": "Long microtubule “tracks” radiate from a central centrosome, with small vesicle spheres “walking” along them via stepwise motion, sometimes detaching, switching tracks, and fusing with a target membrane sphere that changes color where fusion occurs.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "2d9bf1d6e7",
+          "filename": "sentence-script-long-microtubule-tracks-radiate-from-a-central-centrosome-with-small-v-c450fc67.py",
+          "note": "",
+          "created_at": "2026-05-25T12:08:54",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:05:19",
+      "updated_at": "2026-05-25T12:08:54"
+    },
+    "6e44530c542b": {
+      "id": "6e44530c542b",
+      "kind": "core_sentence",
+      "sentence": "A cell sphere with many small external particles shows membrane regions curving in to wrap and pinch off endocytic vesicles, while internal vesicles move outward and merge with the membrane to release particles that scatter and slowly diffuse away.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "f35cc87939",
+          "filename": "sentence-script-a-cell-sphere-with-many-small-external-particles-shows-membrane-region-3445be84.py",
+          "note": "",
+          "created_at": "2026-05-25T12:09:45",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:05:33",
+      "updated_at": "2026-05-25T12:09:45"
+    },
+    "8c49516bae46": {
+      "id": "8c49516bae46",
+      "kind": "core_sentence",
+      "sentence": "Multiple elongated mitochondria shapes inside a cell gently move, split, and merge, with glowing particles streaming into them and dimmer particles emitted, while their brightness fluctuates to show changing activity and a label shows “ATP level.”",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "0bb270ac8f",
+          "filename": "sentence-script-multiple-elongated-mitochondria-shapes-inside-a-cell-gently-move-split-a6bd24f6.py",
+          "note": "",
+          "created_at": "2026-05-25T12:10:39",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:05:40",
+      "updated_at": "2026-05-25T12:10:39"
+    },
+    "27b24aabc760": {
+      "id": "27b24aabc760",
+      "kind": "core_sentence",
+      "sentence": "A deformable immune cell blob slowly moves toward a smaller bacterium capsule, extending and retracting pseudopod-like protrusions; upon collision it wraps around and engulfs the bacterium, which fades as digestion particles swirl inside.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "32b0374d0b",
+          "filename": "sentence-script-a-deformable-immune-cell-blob-slowly-moves-toward-a-smaller-bacterium-b8bbb500.py",
+          "note": "",
+          "created_at": "2026-05-25T12:11:13",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:05:47",
+      "updated_at": "2026-05-25T12:11:13"
+    },
+    "0e7689d7ee2a": {
+      "id": "0e7689d7ee2a",
+      "kind": "core_sentence",
+      "sentence": "A network of thin internal compartments (ER-like tubes) inside a cell lights up with a traveling calcium wave: small bright particles rapidly spread, bounce at boundaries, then are reabsorbed into pumps, as a color bar tracks local calcium concentration over time.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "efcd1ca7d1",
+          "filename": "sentence-script-a-network-of-thin-internal-compartments-er-like-tubes-inside-a-cell-li-a4a4809d.py",
+          "note": "",
+          "created_at": "2026-05-25T12:12:10",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:05:52",
+      "updated_at": "2026-05-25T12:12:10"
+    },
+    "53ef774bb1e8": {
+      "id": "53ef774bb1e8",
+      "kind": "core_sentence",
+      "sentence": "A single cell sphere gradually grows in size and changes color as it progresses through labeled phases (G1, S, G2, M) on a circular “clock” ring beside it; during S phase tiny DNA dots duplicate, and during M phase the cell splits into two smaller spheres.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "20ee82672c",
+          "filename": "sentence-script-a-single-cell-sphere-gradually-grows-in-size-and-changes-color-as-it-p-b198e966.py",
+          "note": "",
+          "created_at": "2026-05-25T12:13:16",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:05:58",
+      "updated_at": "2026-05-25T12:13:16"
+    },
+    "b251b98b86c0": {
+      "id": "b251b98b86c0",
+      "kind": "core_sentence",
+      "sentence": "Dozens of small cells float and gently jostle in a transparent box, emitting and absorbing colored signal particles; when one cell receives above-threshold signals, it glows brighter and triggers neighboring cells to light up in a spreading wave.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "2ec55f676a",
+          "filename": "sentence-script-dozens-of-small-cells-float-and-gently-jostle-in-a-transparent-box-emi-95bfea02.py",
+          "note": "",
+          "created_at": "2026-05-25T12:13:46",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:06:06",
+      "updated_at": "2026-05-25T12:13:46"
+    },
+    "4b7f806b8819": {
+      "id": "4b7f806b8819",
+      "kind": "core_sentence",
+      "sentence": "A cell is represented as a soft sphere made of many connected small beads that can stretch and compress as it squeezes through a narrow channel, with internal particles shifting and colliding as the membrane deforms and then relaxes.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "0787c263c5",
+          "filename": "sentence-script-a-cell-is-represented-as-a-soft-sphere-made-of-many-connected-small-be-9d5fb491.py",
+          "note": "",
+          "created_at": "2026-05-25T12:14:57",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:06:19",
+      "updated_at": "2026-05-25T12:14:57"
+    },
+    "abf605bfbf9e": {
+      "id": "abf605bfbf9e",
+      "kind": "core_sentence",
+      "sentence": "Fluorescent cargo vesicles containing colored particles move randomly until they collide with larger acidic lysosome spheres, which they fuse with; inside, cargo particles slowly shrink and disappear while the lysosome briefly glows brighter.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "218c29b24a",
+          "filename": "sentence-script-fluorescent-cargo-vesicles-containing-colored-particles-move-randomly-af0b16d9.py",
+          "note": "",
+          "created_at": "2026-05-25T12:56:58",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:06:27",
+      "updated_at": "2026-05-25T12:56:58"
+    },
+    "112d0bcbc455": {
+      "id": "112d0bcbc455",
+      "kind": "core_sentence",
+      "sentence": "Stacked, curved Golgi cisternae are shown as layered translucent plates, with vesicles attaching to the cis side, moving from one cisterna to the next, changing color as they “mature,” then detaching and shooting off toward the membrane.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "0e4bf76ddb",
+          "filename": "sentence-script-stacked-curved-golgi-cisternae-are-shown-as-layered-translucent-plates-af0cfcfa.py",
+          "note": "",
+          "created_at": "2026-05-25T12:57:24",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:06:33",
+      "updated_at": "2026-05-25T12:57:24"
+    },
+    "c410f902dd35": {
+      "id": "c410f902dd35",
+      "kind": "core_sentence",
+      "sentence": "A stylized cell shows mitochondria, ribosomes, and nucleus as factory stations connected by glowing “energy” streams; raw material particles enter from the membrane, travel along paths, collide with stations, and emerge as “product” particles that exit the cell.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "867d77f0b0",
+          "filename": "sentence-script-a-stylized-cell-shows-mitochondria-ribosomes-and-nucleus-as-factory-st-936c2296.py",
+          "note": "",
+          "created_at": "2026-05-25T12:58:07",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:06:39",
+      "updated_at": "2026-05-25T12:58:07"
+    },
+    "68463db6db3e": {
+      "id": "68463db6db3e",
+      "kind": "core_sentence",
+      "sentence": "A cell sphere is filled with dynamic actin filaments represented by flexible rods that grow, shrink, and branch; as filaments elongate at one side and disassemble at another, the overall cell shape bulges, retracts, and slowly crawls across the floor.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "e052bd1c9c",
+          "filename": "sentence-script-a-cell-sphere-is-filled-with-dynamic-actin-filaments-represented-by-fl-bc3eb56d.py",
+          "note": "",
+          "created_at": "2026-05-25T12:58:26",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:06:44",
+      "updated_at": "2026-05-25T12:58:26"
+    },
+    "8ae6b382924d": {
+      "id": "8ae6b382924d",
+      "kind": "core_sentence",
+      "sentence": "Several cells rest on a flat surface plane, tethered by short “adhesion” springs that can attach and break; as external flow (gentle directional push) acts, some cells slide, roll, or detach and drift away, with adhesion springs stretching and snapping.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "7c033dfa6d",
+          "filename": "sentence-script-several-cells-rest-on-a-flat-surface-plane-tethered-by-short-adhesion-80b96ef2.py",
+          "note": "",
+          "created_at": "2026-05-25T12:58:51",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:06:50",
+      "updated_at": "2026-05-25T12:58:51"
+    },
+    "7ab18a04768a": {
+      "id": "7ab18a04768a",
+      "kind": "core_sentence",
+      "sentence": "A cluster of identical pale cells slowly changes as some receive “signals” (colored particles) and transition into distinct types with new colors and shapes; neighboring cells are more likely to differentiate when close to an already changed cell, creating branching patterns.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "57d856090e",
+          "filename": "sentence-script-a-cluster-of-identical-pale-cells-slowly-changes-as-some-receive-signa-215b8832.py",
+          "note": "",
+          "created_at": "2026-05-25T12:59:23",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:06:57",
+      "updated_at": "2026-05-25T12:59:23"
+    },
+    "315acc32fe43": {
+      "id": "315acc32fe43",
+      "kind": "core_sentence",
+      "sentence": "Virus particles with spiky shells drift toward a larger cell, bind to specific receptor spots on its membrane, then either inject a glowing “genome” filament that spreads inside or are endocytosed into vesicles that move toward the center and release contents.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "59d4cbe652",
+          "filename": "sentence-script-virus-particles-with-spiky-shells-drift-toward-a-larger-cell-bind-to-s-bf978eef.py",
+          "note": "",
+          "created_at": "2026-05-25T13:00:26",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:07:03",
+      "updated_at": "2026-05-25T13:00:26"
+    },
+    "d35440a234eb": {
+      "id": "d35440a234eb",
+      "kind": "core_sentence",
+      "sentence": "A cell sphere in a box with many water particles outside and fewer inside shows water particles crossing the semi-permeable membrane; as flows change, the cell slowly swells or shrinks, with a radial grid and numeric label tracking cell volume.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "bb52b9da56",
+          "filename": "sentence-script-a-cell-sphere-in-a-box-with-many-water-particles-outside-and-fewer-ins-b7bf1294.py",
+          "note": "",
+          "created_at": "2026-05-25T13:00:51",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:07:09",
+      "updated_at": "2026-05-25T13:00:51"
+    },
+    "348841d11b31": {
+      "id": "348841d11b31",
+      "kind": "core_sentence",
+      "sentence": "A central cell body sphere sprouts branching cylindrical dendrites and a long axon; signal particles start at synapse spheres, travel along dendrites toward the cell body, then trigger a bright pulse that races along the axon, leaving a fading trail.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "3196f4f9bb",
+          "filename": "sentence-script-a-central-cell-body-sphere-sprouts-branching-cylindrical-dendrites-and-3f218154.py",
+          "note": "",
+          "created_at": "2026-05-25T13:01:16",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:07:15",
+      "updated_at": "2026-05-25T13:01:16"
+    },
+    "c98d0d22a003": {
+      "id": "c98d0d22a003",
+      "kind": "core_sentence",
+      "sentence": "Damaged organelles marked by flickering colors float inside a cell until a double-membrane “autophagosome” shell grows around them, wraps and closes, then moves to fuse with a lysosome, where the contents dissolve into smaller recyclable particles.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "cb2a92a36e",
+          "filename": "sentence-script-damaged-organelles-marked-by-flickering-colors-float-inside-a-cell-unt-8950c26f.py",
+          "note": "",
+          "created_at": "2026-05-25T13:01:55",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:07:20",
+      "updated_at": "2026-05-25T13:01:55"
+    },
+    "6e01cce8bb20": {
+      "id": "6e01cce8bb20",
+      "kind": "core_sentence",
+      "sentence": "Starting from a single cell on a flat surface, cells periodically replicate into two that gently push, collide, and rearrange, forming an expanding dome-shaped colony whose overall boundary is highlighted and whose inner cells become more tightly packed over time.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "00c62867dd",
+          "filename": "sentence-script-starting-from-a-single-cell-on-a-flat-surface-cells-periodically-repli-7bdca685.py",
+          "note": "",
+          "created_at": "2026-05-25T13:02:18",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:07:25",
+      "updated_at": "2026-05-25T13:02:18"
+    },
+    "d06a66ee7401": {
+      "id": "d06a66ee7401",
+      "kind": "core_sentence",
+      "sentence": "A cell is visualized like a small city with a central “city hall” nucleus, power plant mitochondria, and road-like cytoskeletal tracks; different colored vehicles (vesicles) follow these tracks, stop at “stations,” transfer cargo, and occasionally collide and reroute.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "f84190f450",
+          "filename": "sentence-script-a-cell-is-visualized-like-a-small-city-with-a-central-city-hall-nucleu-79257ef5.py",
+          "note": "",
+          "created_at": "2026-05-25T13:02:35",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:07:31",
+      "updated_at": "2026-05-25T13:02:35"
+    },
+    "bee2b267be28": {
+      "id": "bee2b267be28",
+      "kind": "core_sentence",
+      "sentence": "A healthy cell sphere gradually shrinks, its membrane blebs into small bubbles, and internal structures condense; the cell breaks into many apoptotic bodies that drift away until neighboring scavenger cells engulf and clear them.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "fa7f758316",
+          "filename": "sentence-script-a-healthy-cell-sphere-gradually-shrinks-its-membrane-blebs-into-small-ddec6dea.py",
+          "note": "",
+          "created_at": "2026-05-25T13:06:31",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:07:37",
+      "updated_at": "2026-05-25T13:06:31"
+    },
+    "eced8a63419a": {
+      "id": "eced8a63419a",
+      "kind": "core_sentence",
+      "sentence": "Numerous receptor rods embedded in the cell membrane tilt, rotate, and randomly “scan” the outside; when specific ligand particles collide and attach, the receptor changes shape and triggers a chain of glowing particles moving inward toward the nucleus.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "892b86e24e",
+          "filename": "sentence-script-numerous-receptor-rods-embedded-in-the-cell-membrane-tilt-rotate-and-r-281ecc4c.py",
+          "note": "",
+          "created_at": "2026-05-25T13:07:22",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:07:45",
+      "updated_at": "2026-05-25T13:07:22"
     }
   }
 }

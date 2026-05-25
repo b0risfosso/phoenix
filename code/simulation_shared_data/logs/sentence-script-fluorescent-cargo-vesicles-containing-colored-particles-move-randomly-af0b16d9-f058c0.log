@@ -1,0 +1,16 @@
+Running: /Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-fluorescent-cargo-vesicles-containing-colored-particles-move-randomly-af0b16d9.py
+Started: 2026-05-25T13:07:50
+
+/Users/b/phoenix/code/sentence_simulation_cycle_web_app/.venv/lib/python3.12/site-packages/vpython/__init__.py:1: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import get_distribution, DistributionNotFound
+Traceback (most recent call last):
+  File "/Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-fluorescent-cargo-vesicles-containing-colored-particles-move-randomly-af0b16d9.py", line 1219, in <module>
+    sim.update(dt)
+  File "/Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-fluorescent-cargo-vesicles-containing-colored-particles-move-randomly-af0b16d9.py", line 1120, in update
+    c.update(dt)
+  File "/Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-fluorescent-cargo-vesicles-containing-colored-particles-move-randomly-af0b16d9.py", line 552, in update
+    self.fuse_with(lys)
+  File "/Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-fluorescent-cargo-vesicles-containing-colored-particles-move-randomly-af0b16d9.py", line 485, in fuse_with
+    ring = torus(
+           ^^^^^
+NameError: name 'torus' is not defined

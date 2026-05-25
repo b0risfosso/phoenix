@@ -1,0 +1,13 @@
+Running: /Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-a-cell-is-represented-as-a-soft-sphere-made-of-many-connected-small-be-9d5fb491.py
+Started: 2026-05-25T12:46:13
+
+/Users/b/phoenix/code/sentence_simulation_cycle_web_app/.venv/lib/python3.12/site-packages/vpython/__init__.py:1: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import get_distribution, DistributionNotFound
+Traceback (most recent call last):
+  File "/Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-a-cell-is-represented-as-a-soft-sphere-made-of-many-connected-small-be-9d5fb491.py", line 903, in <module>
+    cell = SoftCapsuleCell(n_beads=88, n_particles=28)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-a-cell-is-represented-as-a-soft-sphere-made-of-many-connected-small-be-9d5fb491.py", line 159, in __init__
+    self.pore_ring = torus(pos=vector(0, 0, 0), axis=vector(1, 0, 0),
+                     ^^^^^
+NameError: name 'torus' is not defined
