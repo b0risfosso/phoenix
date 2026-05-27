@@ -1,7 +1,7 @@
 {
   "version": 1,
   "created_at": "2026-05-22T22:17:39",
-  "updated_at": "2026-05-25T13:07:22",
+  "updated_at": "2026-05-26T04:04:34",
   "root_id": "root",
   "nodes": {
     "root": {
@@ -1790,7 +1790,7 @@
     "e185d7c16f08": {
       "id": "e185d7c16f08",
       "kind": "core_sentence",
-      "sentence": "Multiple branching neuron-like structures whose axons and dendrites grow, connect, and detach while glowing particles pulse along synapses.",
+      "sentence": "Multiple branching neuron-like structures whose axons and dendrites grow, connect, and detach while glowing particles pulse along synapses, with labels for each neuron and a meter showing overall network activity.",
       "title": "Core sentence",
       "parent_id": null,
       "children": [
@@ -1825,7 +1825,7 @@
         }
       ],
       "created_at": "2026-05-23T12:10:58",
-      "updated_at": "2026-05-23T23:14:51"
+      "updated_at": "2026-05-26T04:04:34"
     },
     "3b78036bd507": {
       "id": "3b78036bd507",
@@ -3164,6 +3164,25 @@
       ],
       "created_at": "2026-05-25T12:07:45",
       "updated_at": "2026-05-25T13:07:22"
+    },
+    "4c614df075a0": {
+      "id": "4c614df075a0",
+      "kind": "core_sentence",
+      "sentence": "A transparent spherical cell with a semi-permeable membrane where colored particle “molecules” bounce, pass through channels, and get wrapped into vesicles that bud, move along filament “microtubules,” and fuse with organelles.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "dec953b61d",
+          "filename": "sentence-script-a-transparent-spherical-cell-with-a-semi-permeable-membrane-where-colo-79945e6f.py",
+          "note": "",
+          "created_at": "2026-05-26T04:01:24",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-26T04:01:02",
+      "updated_at": "2026-05-26T04:01:24"
     }
   }
 }

@@ -1,0 +1,8 @@
+Running CSV script: /Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-the-ai-controller-monitors-ion-conce-csv-recorder-6914b76d.py
+Run ID: 20260525-191524-sentence-script-the-ai-controller-monito-c13a25
+Started: 2026-05-25T19:15:24
+Output directory: /Users/b/phoenix/code/simulation_shared_data/csv_runs/20260525-191524-sentence-script-the-ai-controller-monito-c13a25
+
+/Users/b/phoenix/code/simulation_csv_storage_web_app/.venv/lib/python3.12/site-packages/vpython/__init__.py:1: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import get_distribution, DistributionNotFound
+CSV recording complete: 120s saved to /Users/b/phoenix/code/simulation_shared_data/csv_runs/20260525-191524-sentence-script-the-ai-controller-monito-c13a25/20260525-191524-sentence-script-the-ai-controller-monito-c13a25-homeostatic-cell-membrane-state-log.csv

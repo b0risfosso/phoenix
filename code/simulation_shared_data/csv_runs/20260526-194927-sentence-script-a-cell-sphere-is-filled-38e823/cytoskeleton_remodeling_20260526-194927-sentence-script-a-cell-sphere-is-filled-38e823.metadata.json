@@ -1,0 +1,17 @@
+{
+  "run_id": "20260526-194927-sentence-script-a-cell-sphere-is-filled-38e823",
+  "csv_path": "/Users/b/phoenix/code/simulation_shared_data/csv_runs/20260526-194927-sentence-script-a-cell-sphere-is-filled-38e823/cytoskeleton_remodeling_20260526-194927-sentence-script-a-cell-sphere-is-filled-38e823.csv",
+  "started_wall_time": 1779842968.387808,
+  "started_wall_time_iso": "2026-05-26T19:49:28",
+  "run_seconds": 60.0,
+  "sample_hz": 10.0,
+  "simulation": "Cytoskeleton Remodeling and Cell Shape Change - VPython CSV Logger",
+  "environment_variables": {
+    "SIMULATION_CSV_OUTPUT_DIR": "/Users/b/phoenix/code/simulation_shared_data/csv_runs/20260526-194927-sentence-script-a-cell-sphere-is-filled-38e823",
+    "SIMULATION_CSV_RUN_ID": "20260526-194927-sentence-script-a-cell-sphere-is-filled-38e823",
+    "SIMULATION_CSV_RUN_SECONDS": "60",
+    "SIMULATION_CSV_SAMPLE_HZ": "",
+    "SIM_STATE_CSV_PATH": ""
+  },
+  "notes": "Logs visible VPython simulation state during the rendered simulation loop."
+}

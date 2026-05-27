@@ -1,0 +1,9 @@
+{
+  "run_id": "20260526-201238-sentence-script-a-cell-sphere-with-many-90bfd7",
+  "simulation_name": "endocytosis_exocytosis_membrane",
+  "csv_path": "/Users/b/phoenix/code/simulation_shared_data/csv_runs/20260526-201238-sentence-script-a-cell-sphere-with-many-90bfd7/20260526-201238-sentence-script-a-cell-sphere-with-many-90bfd7_endocytosis_exocytosis_membrane.csv",
+  "run_seconds": 60.0,
+  "sample_hz": 5.0,
+  "created_wall_time": 1779844359.342586,
+  "description": "Visible VPython endocytosis/exocytosis simulation with CSV state logging."
+}

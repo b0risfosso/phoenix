@@ -1,6 +1,9 @@
 from vpython import *
 import random
 import math
+import csv
+import os
+from datetime import datetime
 from collections import deque
 
 # ============================================================
@@ -17,6 +20,35 @@ scene.range = 12.5
 scene.center = vector(3, 0, 0)
 
 random.seed(8)
+
+# -----------------------------
+# CSV storage configuration
+# -----------------------------
+
+CSV_RUN_SECONDS = float(os.environ.get("SIMULATION_CSV_RUN_SECONDS", "60"))
+CSV_SAMPLE_INTERVAL = 0.10
+CSV_STATIC_SAMPLE_INTERVAL = 1.00
+
+_csv_output_dir = os.environ.get("SIMULATION_CSV_OUTPUT_DIR")
+_csv_run_id = os.environ.get("SIMULATION_CSV_RUN_ID", datetime.now().strftime("%Y%m%d_%H%M%S"))
+
+if _csv_output_dir:
+    os.makedirs(_csv_output_dir, exist_ok=True)
+    CSV_OUTPUT_PATH = os.path.join(
+        _csv_output_dir,
+        f"{_csv_run_id}-neuronal-cell-body-state-log.csv"
+    )
+else:
+    CSV_OUTPUT_PATH = os.environ.get(
+        "SIM_STATE_CSV_PATH",
+        os.path.join(
+            os.path.dirname(os.path.abspath(__file__)),
+            "neuronal_cell_body_state_log.csv"
+        )
+    )
+
+csv_run_id = _csv_run_id
+
 
 SOFT_GREEN = vector(0.52, 0.82, 0.62)
 DENDRITE_GREEN = vector(0.46, 0.74, 0.56)
@@ -1195,7 +1227,287 @@ scene.bind("keyup", keyup)
 sim.stimulate_wave(count=5)
 sim.wrap_axon(color_value=AI_CYAN)
 
+
+# -----------------------------
+# CSV recording helpers
+# -----------------------------
+
+CSV_FIELDS = [
+    "run_id", "sim_time", "round", "row_type", "entity_id", "parent_id",
+    "ai_enabled", "ai_mode", "paused",
+    "x", "y", "z", "vx", "vy", "vz",
+    "radius", "opacity", "color_r", "color_g", "color_b",
+    "state", "value", "value_2", "value_3", "count", "notes"
+]
+
+_csv_file = open(CSV_OUTPUT_PATH, "w", newline="")
+_csv_writer = csv.DictWriter(_csv_file, fieldnames=CSV_FIELDS)
+_csv_writer.writeheader()
+_csv_file.flush()
+
+def _num(value, default=""):
+    try:
+        return float(value)
+    except Exception:
+        return default
+
+def _vec_components(v):
+    if v is None:
+        return "", "", ""
+    return _num(getattr(v, "x", "")), _num(getattr(v, "y", "")), _num(getattr(v, "z", ""))
+
+def _color_components(obj_or_vec):
+    c = getattr(obj_or_vec, "color", obj_or_vec)
+    if c is None:
+        return "", "", ""
+    return _vec_components(c)
+
+def _obj_pos(obj):
+    return getattr(obj, "pos", None)
+
+def _obj_radius(obj):
+    return getattr(obj, "radius", "")
+
+def _obj_opacity(obj):
+    return getattr(obj, "opacity", "")
+
+def _write_csv_row(sim_obj, row_type, entity_id="", parent_id="", pos=None, vel=None,
+                   radius="", opacity="", color_value=None, state="", value="",
+                   value_2="", value_3="", count="", notes=""):
+    x, y, z = _vec_components(pos)
+    vx, vy, vz = _vec_components(vel)
+    cr, cg, cb = _color_components(color_value) if color_value is not None else ("", "", "")
+    _csv_writer.writerow({
+        "run_id": csv_run_id,
+        "sim_time": f"{sim_obj.t:.4f}",
+        "round": getattr(sim_obj, "round_index", ""),
+        "row_type": row_type,
+        "entity_id": entity_id,
+        "parent_id": parent_id,
+        "ai_enabled": getattr(getattr(sim_obj, "ai", None), "enabled", ""),
+        "ai_mode": getattr(getattr(sim_obj, "ai", None), "mode", ""),
+        "paused": getattr(sim_obj, "paused", ""),
+        "x": x, "y": y, "z": z,
+        "vx": vx, "vy": vy, "vz": vz,
+        "radius": radius,
+        "opacity": opacity,
+        "color_r": cr, "color_g": cg, "color_b": cb,
+        "state": state,
+        "value": value,
+        "value_2": value_2,
+        "value_3": value_3,
+        "count": count,
+        "notes": notes,
+    })
+
+def record_csv_snapshot(sim_obj, include_static=False):
+    state = sim_obj.get_state()
+
+    _write_csv_row(
+        sim_obj, "summary", "simulation",
+        pos=sim_obj.soma.pos,
+        radius=sim_obj.soma.radius,
+        opacity=sim_obj.soma.opacity,
+        color_value=sim_obj.soma,
+        state="running",
+        value=state["soma_charge"],
+        value_2=state["charge_threshold"],
+        value_3=state["time_since_activity"],
+        count=state["moving_count"],
+        notes=(
+            f"synapses={state['synapse_count']};segments={state['segment_count']};"
+            f"signals={state['particle_count']};pulses={state['pulse_count']};"
+            f"trails={state['trail_count']};spills={state['spill_count']};"
+            f"markers={state['marker_count']};wraps={state['wrap_count']};"
+            f"active_synapses={state['active_synapses']}"
+        )
+    )
+
+    _write_csv_row(
+        sim_obj, "soma", "soma",
+        pos=sim_obj.soma.pos,
+        radius=sim_obj.soma.radius,
+        opacity=sim_obj.soma.opacity,
+        color_value=sim_obj.soma,
+        state="charged",
+        value=sim_obj.soma_charge,
+        value_2=sim_obj.soma_flash,
+        value_3=sim_obj.soma_nucleus.opacity,
+        notes="cell_body"
+    )
+
+    if sim_obj.ai:
+        _write_csv_row(
+            sim_obj, "ai_probe", "ai",
+            pos=sim_obj.ai.probe.pos,
+            vel=sim_obj.ai.manual_probe_velocity,
+            radius=sim_obj.ai.probe.radius,
+            opacity=getattr(sim_obj.ai.probe, "opacity", ""),
+            color_value=sim_obj.ai.probe,
+            state=sim_obj.ai.mode,
+            value=sim_obj.ai.mode_age,
+            value_2=sim_obj.ai.stagnation_seconds,
+            value_3=sim_obj.ai.completion_seconds,
+            notes=f"override={sim_obj.ai.human_override_active()};attached_synapse={sim_obj.ai.attached_synapse}"
+        )
+
+    for i, syn in enumerate(sim_obj.synapses):
+        _write_csv_row(
+            sim_obj, "synapse", i,
+            parent_id=syn.get("terminal_segment", ""),
+            pos=syn["obj"].pos,
+            radius=syn["obj"].radius,
+            opacity=syn["obj"].opacity,
+            color_value=syn["obj"],
+            state="active" if sim_obj.t - syn["last_fire"] < 2.0 else "idle",
+            value=syn["cooldown"],
+            value_2=syn["signal_glow"],
+            value_3=syn["ai_mark"],
+            notes=f"last_fire={syn['last_fire']}"
+        )
+
+    for i, p in enumerate(sim_obj.particles):
+        _write_csv_row(
+            sim_obj, "signal_particle", i,
+            parent_id=p.synapse_index,
+            pos=p.obj.pos,
+            radius=p.obj.radius,
+            opacity=p.obj.opacity,
+            color_value=p.obj,
+            state="moving",
+            value=p.distance,
+            value_2=p.total_length,
+            value_3=p.speed
+        )
+
+    for i, pulse in enumerate(sim_obj.pulses):
+        _write_csv_row(
+            sim_obj, "axon_pulse", i,
+            pos=pulse.obj.pos,
+            radius=pulse.obj.radius,
+            opacity=getattr(pulse.obj, "opacity", ""),
+            color_value=pulse.obj,
+            state="moving",
+            value=pulse.distance,
+            value_2=pulse.total_length,
+            value_3=pulse.speed
+        )
+
+    for i, tr in enumerate(sim_obj.trails):
+        _write_csv_row(
+            sim_obj, "fading_trail", i,
+            pos=tr.obj.pos,
+            radius=tr.obj.radius,
+            opacity=tr.obj.opacity,
+            color_value=tr.obj,
+            state="fading",
+            value=tr.life,
+            value_2=tr.max_life
+        )
+
+    for i, sp in enumerate(sim_obj.spills):
+        _write_csv_row(
+            sim_obj, "spill_particle", i,
+            pos=sp.obj.pos,
+            vel=sp.vel,
+            radius=sp.obj.radius,
+            opacity=sp.obj.opacity,
+            color_value=sp.obj,
+            state="spill",
+            value=sp.life,
+            value_2=sp.max_life
+        )
+
+    for i, marker in enumerate(sim_obj.markers):
+        _write_csv_row(
+            sim_obj, "attached_marker", i,
+            pos=marker.obj.pos,
+            radius=marker.obj.radius,
+            opacity=marker.obj.opacity,
+            color_value=marker.obj,
+            state="attached",
+            value=marker.life,
+            value_2=marker.max_life
+        )
+
+    for i, wrap in enumerate(sim_obj.wraps):
+        _write_csv_row(
+            sim_obj, "axon_wrap", i,
+            pos=wrap.points[0] if wrap.points else vector(0, 0, 0),
+            radius=getattr(wrap.curve, "radius", ""),
+            opacity=wrap.curve.opacity,
+            color_value=wrap.curve,
+            state="wrapped",
+            value=wrap.life,
+            value_2=wrap.max_life,
+            count=len(wrap.points)
+        )
+
+    if include_static:
+        for i, seg in enumerate(sim_obj.segments):
+            midpoint = (seg["start"] + seg["end"]) * 0.5
+            _write_csv_row(
+                sim_obj, "dendrite_segment", i,
+                parent_id=seg["parent"],
+                pos=midpoint,
+                radius=seg["radius"],
+                opacity=seg["obj"].opacity,
+                color_value=seg["obj"],
+                state="segment",
+                value=seg["depth"],
+                value_2=seg["glow"],
+                count=len(seg["children"]),
+                notes=f"start=({seg['start'].x:.3f},{seg['start'].y:.3f},{seg['start'].z:.3f});end=({seg['end'].x:.3f},{seg['end'].y:.3f},{seg['end'].z:.3f})"
+            )
+
+        for i, ax in enumerate(sim_obj.axon_segments):
+            midpoint = ax.pos + ax.axis * 0.5
+            _write_csv_row(
+                sim_obj, "axon_segment", i,
+                pos=midpoint,
+                radius=ax.radius,
+                opacity=ax.opacity,
+                color_value=ax,
+                state="axon",
+                value=mag(ax.axis)
+            )
+
+        for i, (_, bulb) in enumerate(sim_obj.axon_terminal_bulbs):
+            _write_csv_row(
+                sim_obj, "axon_terminal", i,
+                pos=bulb.pos,
+                radius=bulb.radius,
+                opacity=bulb.opacity,
+                color_value=bulb,
+                state="terminal",
+                value=sim_obj.axon_terminal_flash
+            )
+
 dt = 1 / 60
+_next_csv_sample_time = 0.0
+_next_csv_static_sample_time = 0.0
+
+try:
+    while sim.t < CSV_RUN_SECONDS:
+        rate(60)
+        sim.update(dt)
+
+        if sim.t >= _next_csv_sample_time:
+            include_static = sim.t >= _next_csv_static_sample_time
+            record_csv_snapshot(sim, include_static=include_static)
+            _next_csv_sample_time += CSV_SAMPLE_INTERVAL
+            if include_static:
+                _next_csv_static_sample_time += CSV_STATIC_SAMPLE_INTERVAL
+            _csv_file.flush()
+
+    record_csv_snapshot(sim, include_static=True)
+    _csv_file.flush()
+    sim.status_label.text = (
+        f"CSV recording complete: {CSV_RUN_SECONDS:0.0f}s saved to "
+        f"{os.path.basename(CSV_OUTPUT_PATH)}"
+    )
+finally:
+    _csv_file.close()
+
 while True:
-    rate(60)
-    sim.update(dt)
+    rate(2)

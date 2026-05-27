@@ -1,6 +1,13 @@
 from vpython import *
 import random
 import math
+import os
+import csv
+import json
+import time
+import uuid
+import atexit
+from pathlib import Path
 
 # Cytoskeleton Remodeling and Cell Shape Change
 # Self-contained VPython simulation with rule-based + expressive AI controller.
@@ -124,6 +131,184 @@ def safe_norm(v, fallback=vector(1, 0, 0)):
 def mix_color(a, b, t):
     t = clamp(t, 0, 1)
     return a * (1 - t) + b * t
+
+
+
+# -----------------------------
+# CSV logging support for core sentence branching web app
+# -----------------------------
+
+class SimulationCSVLogger:
+    """Writes visible VPython simulation state to CSV while the scene runs."""
+
+    def __init__(self):
+        self.output_dir = os.environ.get("SIMULATION_CSV_OUTPUT_DIR", "").strip()
+        self.run_id = os.environ.get("SIMULATION_CSV_RUN_ID", "").strip() or uuid.uuid4().hex[:12]
+        self.run_seconds = self._read_float("SIMULATION_CSV_RUN_SECONDS", 60.0)
+        self.sample_hz = max(0.1, self._read_float("SIMULATION_CSV_SAMPLE_HZ", 10.0))
+        self.sample_interval = 1.0 / self.sample_hz
+        self.next_sample_elapsed = 0.0
+        self.start_wall = time.time()
+        self.start_monotonic = time.monotonic()
+        self.closed = False
+
+        explicit_csv = os.environ.get("SIM_STATE_CSV_PATH", "").strip()
+        if self.output_dir:
+            out_dir = Path(self.output_dir).expanduser()
+            out_dir.mkdir(parents=True, exist_ok=True)
+            self.csv_path = out_dir / f"cytoskeleton_remodeling_{self.run_id}.csv"
+        elif explicit_csv:
+            self.csv_path = Path(explicit_csv).expanduser()
+            self.csv_path.parent.mkdir(parents=True, exist_ok=True)
+        else:
+            out_dir = Path.cwd() / "csv_runs"
+            out_dir.mkdir(parents=True, exist_ok=True)
+            self.csv_path = out_dir / f"cytoskeleton_remodeling_{self.run_id}.csv"
+
+        self.meta_path = self.csv_path.with_suffix(".metadata.json")
+        self.fieldnames = [
+            "run_id", "frame", "wall_timestamp", "elapsed_seconds", "sim_time", "round_index",
+            "paused", "ai_enabled", "ai_mode", "ai_mode_time", "ai_mode_duration",
+            "human_override_active", "stagnation_timer", "completion_timer",
+            "cell_x", "cell_y", "cell_z", "leading_dir_x", "leading_dir_y", "leading_dir_z",
+            "progress_x", "displacement_since_sample", "filament_count", "live_filament_count",
+            "total_filament_points", "avg_filament_length", "total_filament_length", "longest_filament_length",
+            "front_tip_count", "rear_root_count", "adhesion_count", "attached_adhesion_count",
+            "detached_adhesion_count", "monomer_count", "mark_count", "trail_count",
+            "growth_drive", "shrink_drive", "branch_drive", "detach_drive", "retrograde_rate",
+            "flex_noise", "growth_scale", "contractility", "shape_bulge", "dip",
+            "base_radius", "max_filaments", "max_points_per_filament",
+        ]
+        self.file = self.csv_path.open("w", newline="", encoding="utf-8")
+        self.writer = csv.DictWriter(self.file, fieldnames=self.fieldnames)
+        self.writer.writeheader()
+        self.write_metadata()
+        atexit.register(self.close)
+
+    @staticmethod
+    def _read_float(name, default):
+        raw = os.environ.get(name, "").strip()
+        if not raw:
+            return default
+        try:
+            return float(raw)
+        except ValueError:
+            return default
+
+    @staticmethod
+    def _round(x, places=6):
+        try:
+            return round(float(x), places)
+        except Exception:
+            return x
+
+    def write_metadata(self):
+        payload = {
+            "run_id": self.run_id,
+            "csv_path": str(self.csv_path),
+            "started_wall_time": self.start_wall,
+            "started_wall_time_iso": time.strftime("%Y-%m-%dT%H:%M:%S", time.localtime(self.start_wall)),
+            "run_seconds": self.run_seconds,
+            "sample_hz": self.sample_hz,
+            "simulation": "Cytoskeleton Remodeling and Cell Shape Change - VPython CSV Logger",
+            "environment_variables": {
+                "SIMULATION_CSV_OUTPUT_DIR": os.environ.get("SIMULATION_CSV_OUTPUT_DIR", ""),
+                "SIMULATION_CSV_RUN_ID": os.environ.get("SIMULATION_CSV_RUN_ID", ""),
+                "SIMULATION_CSV_RUN_SECONDS": os.environ.get("SIMULATION_CSV_RUN_SECONDS", ""),
+                "SIMULATION_CSV_SAMPLE_HZ": os.environ.get("SIMULATION_CSV_SAMPLE_HZ", ""),
+                "SIM_STATE_CSV_PATH": os.environ.get("SIM_STATE_CSV_PATH", ""),
+            },
+            "notes": "Logs visible VPython simulation state during the rendered simulation loop.",
+        }
+        with self.meta_path.open("w", encoding="utf-8") as f:
+            json.dump(payload, f, indent=2)
+
+    def should_stop(self):
+        if self.run_seconds <= 0:
+            return False
+        return (time.monotonic() - self.start_monotonic) >= self.run_seconds
+
+    def update(self, frame, sim, ai):
+        if self.closed:
+            return
+        elapsed = time.monotonic() - self.start_monotonic
+        if elapsed + 1e-9 < self.next_sample_elapsed:
+            return
+        self.next_sample_elapsed += self.sample_interval
+        self.log(frame, sim, ai, elapsed)
+
+    def log(self, frame, sim, ai, elapsed):
+        state = sim.get_state()
+        live_filaments = [f for f in sim.filaments if not f.dead]
+        lengths = [f.length() for f in live_filaments]
+        total_length = sum(lengths)
+        total_points = sum(len(f.points) for f in live_filaments)
+        detached_adh = state["adhesion_count"] - state["attached_adhesion_count"]
+        override_active = sim.time < ai.override_until
+
+        row = {
+            "run_id": self.run_id,
+            "frame": frame,
+            "wall_timestamp": self._round(time.time(), 6),
+            "elapsed_seconds": self._round(elapsed, 6),
+            "sim_time": self._round(state["time"], 6),
+            "round_index": state["round"],
+            "paused": int(sim.paused),
+            "ai_enabled": int(ai.enabled),
+            "ai_mode": ai.mode,
+            "ai_mode_time": self._round(ai.mode_time, 6),
+            "ai_mode_duration": self._round(ai.mode_duration, 6),
+            "human_override_active": int(override_active),
+            "stagnation_timer": self._round(ai.stagnation_timer, 6),
+            "completion_timer": self._round(ai.completion_timer, 6),
+            "cell_x": self._round(state["cell_pos"].x),
+            "cell_y": self._round(state["cell_pos"].y),
+            "cell_z": self._round(state["cell_pos"].z),
+            "leading_dir_x": self._round(state["leading_dir"].x),
+            "leading_dir_y": self._round(state["leading_dir"].y),
+            "leading_dir_z": self._round(state["leading_dir"].z),
+            "progress_x": self._round(state["progress_x"]),
+            "displacement_since_sample": self._round(state["displacement_since_sample"]),
+            "filament_count": state["filament_count"],
+            "live_filament_count": len(live_filaments),
+            "total_filament_points": total_points,
+            "avg_filament_length": self._round(state["avg_filament_length"]),
+            "total_filament_length": self._round(total_length),
+            "longest_filament_length": self._round(max(lengths) if lengths else 0.0),
+            "front_tip_count": state["front_tip_count"],
+            "rear_root_count": state["rear_root_count"],
+            "adhesion_count": state["adhesion_count"],
+            "attached_adhesion_count": state["attached_adhesion_count"],
+            "detached_adhesion_count": detached_adh,
+            "monomer_count": state["monomer_count"],
+            "mark_count": state["mark_count"],
+            "trail_count": len(sim.trails),
+            "growth_drive": self._round(state["growth_drive"]),
+            "shrink_drive": self._round(state["shrink_drive"]),
+            "branch_drive": self._round(state["branch_drive"]),
+            "detach_drive": self._round(sim.detach_drive),
+            "retrograde_rate": self._round(sim.retrograde_rate),
+            "flex_noise": self._round(sim.flex_noise),
+            "growth_scale": self._round(sim.growth_scale),
+            "contractility": self._round(sim.contractility),
+            "shape_bulge": self._round(state["shape_bulge"]),
+            "dip": self._round(sim.dip),
+            "base_radius": self._round(sim.base_radius),
+            "max_filaments": sim.max_filaments,
+            "max_points_per_filament": sim.max_points_per_filament,
+        }
+        self.writer.writerow(row)
+        self.file.flush()
+
+    def close(self):
+        if self.closed:
+            return
+        try:
+            self.file.flush()
+            self.file.close()
+        except Exception:
+            pass
+        self.closed = True
 
 
 class Filament:
@@ -974,6 +1159,7 @@ class ExpressiveAIController:
 
 sim = CytoskeletonSimulation()
 ai = ExpressiveAIController(sim)
+csv_logger = SimulationCSVLogger()
 
 
 def keydown(evt):
@@ -1042,6 +1228,10 @@ while True:
 
     ai.update(dt)
     sim.update(dt)
+    csv_logger.update(frame, sim, ai)
+    if csv_logger.should_stop():
+        csv_logger.close()
+        break
 
     if frame % 6 == 0:
         state = sim.get_state()

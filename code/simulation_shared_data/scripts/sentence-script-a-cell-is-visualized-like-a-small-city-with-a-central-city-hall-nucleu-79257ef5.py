@@ -1,6 +1,10 @@
 from vpython import *
 import random
 import math
+import csv
+import os
+import json
+from datetime import datetime
 from collections import deque
 
 # ============================================================
@@ -40,6 +44,243 @@ mitochondria = []
 particles = []
 wraps = []
 marks = []
+
+# -----------------------------
+# CSV logging configuration
+# -----------------------------
+def _env_float(name, default):
+    try:
+        return float(os.environ.get(name, str(default)))
+    except (TypeError, ValueError):
+        return float(default)
+
+CSV_RUN_SECONDS = max(0.0, _env_float("SIMULATION_CSV_RUN_SECONDS", 60.0))
+CSV_SAMPLE_HZ = max(0.05, _env_float("SIMULATION_CSV_SAMPLE_HZ", 10.0))
+CSV_SAMPLE_INTERVAL = 1.0 / CSV_SAMPLE_HZ
+
+CSV_OUTPUT_DIR = os.environ.get("SIMULATION_CSV_OUTPUT_DIR", "").strip()
+CSV_RUN_ID = os.environ.get("SIMULATION_CSV_RUN_ID", "").strip() or datetime.now().strftime("%Y%m%d_%H%M%S")
+
+if CSV_OUTPUT_DIR:
+    os.makedirs(CSV_OUTPUT_DIR, exist_ok=True)
+    CSV_OUTPUT_PATH = os.path.join(CSV_OUTPUT_DIR, f"{CSV_RUN_ID}-cell-city-traffic-state-log.csv")
+else:
+    fallback_path = os.environ.get("SIM_STATE_CSV_PATH", "").strip()
+    if fallback_path:
+        CSV_OUTPUT_PATH = fallback_path
+        parent = os.path.dirname(os.path.abspath(CSV_OUTPUT_PATH))
+        if parent:
+            os.makedirs(parent, exist_ok=True)
+    else:
+        CSV_OUTPUT_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "cell_city_traffic_state_log.csv")
+
+CSV_METADATA_PATH = os.path.splitext(CSV_OUTPUT_PATH)[0] + ".metadata.json"
+
+CSV_FIELDNAMES = [
+    "csv_run_id", "csv_elapsed_seconds", "simulation_time", "frame",
+    "row_type", "object_id", "object_kind",
+    "ai_round", "ai_enabled", "ai_mode", "ai_stagnation_timer",
+    "ai_completion_timer", "ai_reset_pending_timer", "paused",
+    "selected_index", "selected_vehicle", "activity_score",
+    "vesicle_count", "track_count", "station_count", "mitochondria_count",
+    "particle_count", "cargo_particle_count", "wrap_count", "mark_count",
+    "total_vehicle_cargo", "total_station_cargo", "total_spilled_cargo",
+    "avg_vehicle_speed", "closest_vehicle_pair",
+    "name", "kind", "track_name", "target_station", "ai_goal",
+    "x", "y", "z", "prev_x", "prev_y", "prev_z",
+    "speed", "base_speed", "direction", "cargo", "capacity",
+    "station_cargo", "station_capacity", "station_fullness", "cooldown",
+    "stop_timer", "collision_cooldown", "station_cooldown",
+    "orbit_timer", "dip_timer", "life", "max_life", "radius", "opacity",
+]
+
+_csv_file = open(CSV_OUTPUT_PATH, "w", newline="")
+_csv_writer = csv.DictWriter(_csv_file, fieldnames=CSV_FIELDNAMES, extrasaction="ignore")
+_csv_writer.writeheader()
+_csv_file.flush()
+
+
+def _v_components(v, prefix=""):
+    return {
+        f"{prefix}x": float(v.x),
+        f"{prefix}y": float(v.y),
+        f"{prefix}z": float(v.z),
+    }
+
+
+def _safe_float(value, default=0.0):
+    try:
+        return float(value)
+    except Exception:
+        return float(default)
+
+
+def csv_scene_state():
+    total_vehicle_cargo = sum(v.cargo for v in vesicles)
+    total_station_cargo = sum(s.cargo for s in stations)
+    total_spilled = sum(1 for p in particles if p.kind == "cargo" and p.life > 0)
+    avg_speed = sum(v.speed for v in vesicles) / max(1, len(vesicles))
+    closest_pair = 0.0
+    if len(vesicles) > 1:
+        closest_pair = 999.0
+        for i in range(len(vesicles)):
+            for j in range(i + 1, len(vesicles)):
+                closest_pair = min(closest_pair, mag(vesicles[i].pos - vesicles[j].pos))
+    selected_name = ""
+    if vesicles and 0 <= selected_index < len(vesicles):
+        selected_name = vesicles[selected_index].name
+
+    return {
+        "ai_round": ai.round_number if "ai" in globals() else "",
+        "ai_enabled": ai.enabled if "ai" in globals() else "",
+        "ai_mode": ai.mode if "ai" in globals() else "",
+        "ai_stagnation_timer": ai.stagnation_timer if "ai" in globals() else "",
+        "ai_completion_timer": ai.completion_timer if "ai" in globals() else "",
+        "ai_reset_pending_timer": ai.reset_pending_timer if "ai" in globals() else "",
+        "paused": paused,
+        "selected_index": selected_index,
+        "selected_vehicle": selected_name,
+        "activity_score": activity_score,
+        "vesicle_count": len(vesicles),
+        "track_count": len(tracks),
+        "station_count": len(stations),
+        "mitochondria_count": len(mitochondria),
+        "particle_count": len(particles),
+        "cargo_particle_count": total_spilled,
+        "wrap_count": len(wraps),
+        "mark_count": len(marks),
+        "total_vehicle_cargo": total_vehicle_cargo,
+        "total_station_cargo": total_station_cargo,
+        "total_spilled_cargo": total_spilled,
+        "avg_vehicle_speed": avg_speed,
+        "closest_vehicle_pair": closest_pair,
+    }
+
+
+def csv_base_row(csv_elapsed_seconds, frame, row_type, object_id="", object_kind=""):
+    row = {
+        "csv_run_id": CSV_RUN_ID,
+        "csv_elapsed_seconds": round(csv_elapsed_seconds, 4),
+        "simulation_time": round(sim_time, 4),
+        "frame": frame,
+        "row_type": row_type,
+        "object_id": object_id,
+        "object_kind": object_kind,
+    }
+    row.update(csv_scene_state())
+    return row
+
+
+def write_csv_snapshot(csv_elapsed_seconds, frame):
+    _csv_writer.writerow(csv_base_row(csv_elapsed_seconds, frame, "summary", "cell_city", "summary"))
+
+    for i, v in enumerate(vesicles):
+        row = csv_base_row(csv_elapsed_seconds, frame, "vesicle", f"vesicle_{i}", "vesicle")
+        row.update({
+            "name": v.name,
+            "track_name": v.track.name if v.track else "",
+            "target_station": v.target_station.name if v.target_station else "",
+            "ai_goal": v.ai_goal,
+            "speed": v.speed,
+            "base_speed": v.base_speed,
+            "direction": v.direction,
+            "cargo": v.cargo,
+            "capacity": v.capacity,
+            "stop_timer": v.stop_timer,
+            "collision_cooldown": v.collision_cooldown,
+            "station_cooldown": v.station_cooldown,
+            "orbit_timer": v.orbit_timer,
+            "dip_timer": v.dip_timer,
+        })
+        row.update(_v_components(v.pos, ""))
+        row.update(_v_components(v.last_pos, "prev_"))
+        _csv_writer.writerow(row)
+
+    for i, st in enumerate(stations):
+        row = csv_base_row(csv_elapsed_seconds, frame, "station", f"station_{i}", "station")
+        row.update({
+            "name": st.name,
+            "kind": st.kind,
+            "track_name": st.track.name if st.track else "",
+            "station_cargo": st.cargo,
+            "station_capacity": st.capacity,
+            "station_fullness": st.cargo / max(1, st.capacity),
+            "cooldown": st.cooldown,
+        })
+        row.update(_v_components(st.pos, ""))
+        _csv_writer.writerow(row)
+
+    for i, mto in enumerate(mitochondria):
+        row = csv_base_row(csv_elapsed_seconds, frame, "mitochondrion", f"mitochondrion_{i}", "mitochondrion")
+        row.update({
+            "name": mto.name,
+            "kind": "power_plant",
+        })
+        row.update(_v_components(mto.pos, ""))
+        _csv_writer.writerow(row)
+
+    for i, p in enumerate(particles):
+        row = csv_base_row(csv_elapsed_seconds, frame, "particle", f"particle_{i}", "particle")
+        row.update({
+            "kind": p.kind,
+            "life": p.life,
+            "max_life": p.max_life,
+            "radius": getattr(p.obj, "radius", ""),
+            "opacity": getattr(p.obj, "opacity", ""),
+        })
+        row.update(_v_components(p.pos, ""))
+        _csv_writer.writerow(row)
+
+    for i, w in enumerate(wraps):
+        row = csv_base_row(csv_elapsed_seconds, frame, "wrap", f"wrap_{i}", "wrap")
+        row.update({
+            "name": w.name,
+            "life": w.life,
+            "max_life": w.max_life,
+            "radius": getattr(w.obj, "radius", ""),
+        })
+        _csv_writer.writerow(row)
+
+    for i, m in enumerate(marks):
+        row = csv_base_row(csv_elapsed_seconds, frame, "mark", f"mark_{i}", "mark")
+        row.update({
+            "life": m.life,
+            "max_life": m.max_life,
+            "radius": getattr(m.obj, "radius", ""),
+            "opacity": getattr(m.obj, "opacity", ""),
+        })
+        row.update(_v_components(m.obj.pos, ""))
+        _csv_writer.writerow(row)
+
+    _csv_file.flush()
+
+
+def write_csv_metadata():
+    metadata = {
+        "csv_run_id": CSV_RUN_ID,
+        "csv_output_path": CSV_OUTPUT_PATH,
+        "csv_metadata_path": CSV_METADATA_PATH,
+        "simulation_name": "Cell as a City: Metaphorical Traffic Map",
+        "script_type": "full_vpython_csv_logger",
+        "run_seconds": CSV_RUN_SECONDS,
+        "sample_hz": CSV_SAMPLE_HZ,
+        "sample_interval": CSV_SAMPLE_INTERVAL,
+        "created_at": datetime.now().isoformat(timespec="seconds"),
+        "row_types": ["summary", "vesicle", "station", "mitochondrion", "particle", "wrap", "mark"],
+        "environment_variables": {
+            "SIMULATION_CSV_OUTPUT_DIR": CSV_OUTPUT_DIR,
+            "SIMULATION_CSV_RUN_ID": CSV_RUN_ID,
+            "SIMULATION_CSV_RUN_SECONDS": CSV_RUN_SECONDS,
+            "SIMULATION_CSV_SAMPLE_HZ": CSV_SAMPLE_HZ,
+            "SIM_STATE_CSV_PATH": os.environ.get("SIM_STATE_CSV_PATH", ""),
+        },
+    }
+    with open(CSV_METADATA_PATH, "w") as f:
+        json.dump(metadata, f, indent=2)
+
+
+write_csv_metadata()
+
 
 # -----------------------------
 # Utility functions
@@ -1171,65 +1412,86 @@ scene.bind("keydown", keydown)
 select_vehicle_visual()
 
 # -----------------------------
-# Main loop
+# Main loop with CSV logging
 # -----------------------------
-while True:
-    rate(60)
+csv_elapsed_seconds = 0.0
+csv_sample_timer = CSV_SAMPLE_INTERVAL
+csv_frame = 0
 
-    if paused:
-        ai.status.text = "PAUSED | Space resumes"
-        continue
+try:
+    while csv_elapsed_seconds < CSV_RUN_SECONDS:
+        rate(60)
+        csv_frame += 1
+        csv_elapsed_seconds += DT
+        csv_sample_timer += DT
 
-    sim_time += DT
+        if paused:
+            ai.status.text = "PAUSED | Space resumes"
+            if csv_sample_timer >= CSV_SAMPLE_INTERVAL:
+                csv_sample_timer = 0.0
+                write_csv_snapshot(csv_elapsed_seconds, csv_frame)
+            continue
 
-    # Update stationary-but-alive systems
-    for st in stations:
-        st.update(DT)
+        sim_time += DT
 
-    for mto in mitochondria:
-        mto.update(DT)
+        # Update stationary-but-alive systems
+        for st in stations:
+            st.update(DT)
 
-    # Update AI before vehicles, so actions affect this frame
-    ai.update(DT)
+        for mto in mitochondria:
+            mto.update(DT)
 
-    # Update vehicles and interactions
-    for v in vesicles:
-        v.update(DT)
+        # Update AI before vehicles, so actions affect this frame
+        ai.update(DT)
 
-    handle_collisions()
-    gather_spilled_cargo()
+        # Update vehicles and interactions
+        for v in vesicles:
+            v.update(DT)
 
-    # Update particles
-    alive_particles = []
-    for p in particles:
-        if p.update(DT):
-            alive_particles.append(p)
-        else:
-            p.obj.visible = False
-    particles[:] = alive_particles
+        handle_collisions()
+        gather_spilled_cargo()
 
-    # Update wraps
-    alive_wraps = []
-    for w in wraps:
-        if w.update(DT):
-            alive_wraps.append(w)
-        else:
-            w.hide()
-    wraps[:] = alive_wraps
+        # Update particles
+        alive_particles = []
+        for p in particles:
+            if p.update(DT):
+                alive_particles.append(p)
+            else:
+                p.obj.visible = False
+        particles[:] = alive_particles
 
-    # Update marks
-    alive_marks = []
-    for m in marks:
-        if m.update(DT):
-            alive_marks.append(m)
-        else:
-            m.hide()
-    marks[:] = alive_marks
+        # Update wraps
+        alive_wraps = []
+        for w in wraps:
+            if w.update(DT):
+                alive_wraps.append(w)
+            else:
+                w.hide()
+        wraps[:] = alive_wraps
 
-    # Light automatic city shimmer
-    nucleus.opacity = 0.55 + 0.08 * math.sin(sim_time * 1.8)
-    nucleus_core.radius = 0.43 + 0.035 * math.sin(sim_time * 2.7)
+        # Update marks
+        alive_marks = []
+        for m in marks:
+            if m.update(DT):
+                alive_marks.append(m)
+            else:
+                m.hide()
+        marks[:] = alive_marks
 
-    # Keep selected vehicle visually highlighted
-    if int(sim_time * 3) % 2 == 0:
-        select_vehicle_visual()
+        # Light automatic city shimmer
+        nucleus.opacity = 0.55 + 0.08 * math.sin(sim_time * 1.8)
+        nucleus_core.radius = 0.43 + 0.035 * math.sin(sim_time * 2.7)
+
+        # Keep selected vehicle visually highlighted
+        if int(sim_time * 3) % 2 == 0:
+            select_vehicle_visual()
+
+        if csv_sample_timer >= CSV_SAMPLE_INTERVAL:
+            csv_sample_timer = 0.0
+            write_csv_snapshot(csv_elapsed_seconds, csv_frame)
+
+    write_csv_snapshot(csv_elapsed_seconds, csv_frame)
+    ai.status.text = f"CSV recording complete: {CSV_RUN_SECONDS:0.0f}s saved to {os.path.basename(CSV_OUTPUT_PATH)}"
+finally:
+    _csv_file.flush()
+    _csv_file.close()

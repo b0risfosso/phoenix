@@ -1,6 +1,9 @@
 from vpython import *
 import random
 import math
+import csv
+import os
+from datetime import datetime
 
 # Virus Entry into a Host Cell - VPython simulation with autonomous AI controller
 # Controls:
@@ -38,6 +41,83 @@ RECEPTOR_COUNT = 22
 VIRUS_COUNT = 10
 MAX_PARTICLES = 180
 DT = 0.030
+
+# -----------------------------
+# CSV storage setup
+# -----------------------------
+
+CSV_RUN_SECONDS = float(os.environ.get("SIMULATION_CSV_RUN_SECONDS", "60"))
+CSV_SAMPLE_INTERVAL = 0.10
+CSV_STATIC_SAMPLE_INTERVAL = 1.00
+
+_csv_output_dir = os.environ.get("SIMULATION_CSV_OUTPUT_DIR")
+_csv_run_id = os.environ.get("SIMULATION_CSV_RUN_ID", datetime.now().strftime("%Y%m%d_%H%M%S"))
+
+if _csv_output_dir:
+    os.makedirs(_csv_output_dir, exist_ok=True)
+    CSV_OUTPUT_PATH = os.path.join(
+        _csv_output_dir,
+        f"{_csv_run_id}-virus-entry-state-log.csv"
+    )
+else:
+    CSV_OUTPUT_PATH = os.environ.get(
+        "SIM_STATE_CSV_PATH",
+        os.path.join(os.path.dirname(os.path.abspath(__file__)), "virus_entry_state_log.csv")
+    )
+
+csv_run_id = _csv_run_id
+
+CSV_FIELDS = [
+    "run_id",
+    "sim_time",
+    "round_number",
+    "row_type",
+    "entity_id",
+    "entity_state",
+    "x",
+    "y",
+    "z",
+    "vx",
+    "vy",
+    "vz",
+    "radius",
+    "opacity",
+    "color_r",
+    "color_g",
+    "color_b",
+    "selected",
+    "ai_enabled",
+    "ai_mode",
+    "human_override_active",
+    "paused",
+    "event_count",
+    "free_viruses",
+    "bound_viruses",
+    "injecting_viruses",
+    "endocytosed_viruses",
+    "released_viruses",
+    "open_receptors",
+    "occupied_receptors",
+    "used_receptors",
+    "marked_receptors",
+    "particles_count",
+    "loose_genomes_count",
+    "active_genomes_count",
+    "target_receptor_id",
+    "bound_receptor_id",
+    "bound_time",
+    "genome_length",
+    "genome_active",
+    "receptor_use_count",
+    "receptor_marked",
+    "extra",
+]
+
+_csv_file = None
+_csv_writer = None
+_csv_next_sample_time = 0.0
+_csv_next_static_sample_time = 0.0
+
 
 PALE_BLUE = vector(0.55, 0.82, 1.00)
 MEMBRANE_BLUE = vector(0.45, 0.72, 1.00)
@@ -1318,6 +1398,246 @@ def update_status():
     )
 
 
+
+# -----------------------------
+# CSV recording helpers
+# -----------------------------
+
+def _csv_vec(v):
+    if v is None:
+        return "", "", ""
+    return getattr(v, "x", ""), getattr(v, "y", ""), getattr(v, "z", "")
+
+
+def _csv_color(c):
+    if c is None:
+        return "", "", ""
+    return getattr(c, "x", ""), getattr(c, "y", ""), getattr(c, "z", "")
+
+
+def _csv_bool(value):
+    return 1 if value else 0
+
+
+def csv_open():
+    global _csv_file, _csv_writer
+    _csv_file = open(CSV_OUTPUT_PATH, "w", newline="")
+    _csv_writer = csv.DictWriter(_csv_file, fieldnames=CSV_FIELDS)
+    _csv_writer.writeheader()
+    _csv_file.flush()
+
+
+def csv_close():
+    global _csv_file
+    if _csv_file is not None:
+        _csv_file.flush()
+        _csv_file.close()
+        _csv_file = None
+
+
+def csv_counts():
+    state_counts = {"free": 0, "bound": 0, "injecting": 0, "endocytosed": 0, "released": 0}
+    active_genomes = 0
+    for v in viruses:
+        state_counts[v.state] = state_counts.get(v.state, 0) + 1
+        for g in v.genomes:
+            if getattr(g, "active", False):
+                active_genomes += 1
+    for g in loose_genomes:
+        if getattr(g, "active", False):
+            active_genomes += 1
+
+    return {
+        "free_viruses": state_counts.get("free", 0),
+        "bound_viruses": state_counts.get("bound", 0),
+        "injecting_viruses": state_counts.get("injecting", 0),
+        "endocytosed_viruses": state_counts.get("endocytosed", 0),
+        "released_viruses": state_counts.get("released", 0),
+        "open_receptors": len([r for r in receptors if r.state == "open"]),
+        "occupied_receptors": len([r for r in receptors if r.state == "occupied"]),
+        "used_receptors": len([r for r in receptors if r.state == "used"]),
+        "marked_receptors": len([r for r in receptors if r.marked]),
+        "particles_count": len(particles),
+        "loose_genomes_count": len(loose_genomes),
+        "active_genomes_count": active_genomes,
+    }
+
+
+def csv_write_row(row_type, entity_id="", entity_state="", pos=None, vel=None, radius="", opacity="", col=None, **extra_fields):
+    if _csv_writer is None:
+        return
+
+    counts = csv_counts()
+    x, y, z = _csv_vec(pos)
+    vx, vy, vz = _csv_vec(vel)
+    cr, cg, cb = _csv_color(col)
+
+    row = {
+        "run_id": csv_run_id,
+        "sim_time": f"{sim_time:.4f}",
+        "round_number": round_number,
+        "row_type": row_type,
+        "entity_id": entity_id,
+        "entity_state": entity_state,
+        "x": x,
+        "y": y,
+        "z": z,
+        "vx": vx,
+        "vy": vy,
+        "vz": vz,
+        "radius": radius,
+        "opacity": opacity,
+        "color_r": cr,
+        "color_g": cg,
+        "color_b": cb,
+        "selected": "",
+        "ai_enabled": _csv_bool(ai.enabled) if ai is not None else 0,
+        "ai_mode": ai.mode if ai is not None else "",
+        "human_override_active": _csv_bool(sim_time < human_override_until),
+        "paused": _csv_bool(paused),
+        "event_count": event_count,
+        "free_viruses": counts["free_viruses"],
+        "bound_viruses": counts["bound_viruses"],
+        "injecting_viruses": counts["injecting_viruses"],
+        "endocytosed_viruses": counts["endocytosed_viruses"],
+        "released_viruses": counts["released_viruses"],
+        "open_receptors": counts["open_receptors"],
+        "occupied_receptors": counts["occupied_receptors"],
+        "used_receptors": counts["used_receptors"],
+        "marked_receptors": counts["marked_receptors"],
+        "particles_count": counts["particles_count"],
+        "loose_genomes_count": counts["loose_genomes_count"],
+        "active_genomes_count": counts["active_genomes_count"],
+        "target_receptor_id": "",
+        "bound_receptor_id": "",
+        "bound_time": "",
+        "genome_length": "",
+        "genome_active": "",
+        "receptor_use_count": "",
+        "receptor_marked": "",
+        "extra": "",
+    }
+    row.update(extra_fields)
+    _csv_writer.writerow(row)
+
+
+def csv_record_snapshot(include_static=False):
+    csv_write_row(
+        "summary",
+        entity_id="simulation",
+        entity_state="running" if not paused else "paused",
+        pos=vector(0, 0, 0),
+        extra=f"csv_output={os.path.basename(CSV_OUTPUT_PATH)}",
+    )
+
+    if host_cell is not None:
+        csv_write_row(
+            "host_cell",
+            entity_id="host_cell",
+            entity_state="membrane",
+            pos=host_cell.pos,
+            radius=getattr(host_cell, "radius", ""),
+            opacity=getattr(host_cell, "opacity", ""),
+            col=getattr(host_cell, "color", None),
+        )
+
+    if nucleus is not None:
+        csv_write_row(
+            "nucleus",
+            entity_id="nucleus",
+            entity_state="stationary",
+            pos=nucleus.pos,
+            radius=getattr(nucleus, "radius", ""),
+            opacity=getattr(nucleus, "opacity", ""),
+            col=getattr(nucleus, "color", None),
+        )
+
+    for idx, v in enumerate(viruses):
+        target_id = v.target_receptor.idx if v.target_receptor is not None else ""
+        bound_id = v.bound_receptor.idx if v.bound_receptor is not None else ""
+        csv_write_row(
+            "virus",
+            entity_id=v.idx,
+            entity_state=v.state,
+            pos=v.pos,
+            vel=v.vel,
+            radius=v.radius,
+            opacity=getattr(v.body, "opacity", ""),
+            col=getattr(v.body, "color", None),
+            selected=_csv_bool(idx == selected_index % max(1, len(viruses))),
+            target_receptor_id=target_id,
+            bound_receptor_id=bound_id,
+            bound_time=f"{v.bound_time:.4f}",
+            extra=f"orbiting={_csv_bool(v.orbiting)};injection_started={_csv_bool(v.injection_started)};endocytosis_started={_csv_bool(v.endocytosis_started)};release_started={_csv_bool(v.release_started)}",
+        )
+        for gi, g in enumerate(v.genomes):
+            csv_write_row(
+                "virus_genome",
+                entity_id=f"{v.idx}:{gi}",
+                entity_state=getattr(g, "source_name", "genome"),
+                pos=getattr(g, "tip", None),
+                radius=getattr(getattr(g, "curve", None), "radius", ""),
+                col=getattr(g, "col", None),
+                genome_length=f"{getattr(g, 'length', 0.0):.4f}",
+                genome_active=_csv_bool(getattr(g, "active", False)),
+            )
+
+    for gi, g in enumerate(loose_genomes):
+        csv_write_row(
+            "loose_genome",
+            entity_id=gi,
+            entity_state=getattr(g, "source_name", "loose_genome"),
+            pos=getattr(g, "tip", None),
+            radius=getattr(getattr(g, "curve", None), "radius", ""),
+            col=getattr(g, "col", None),
+            genome_length=f"{getattr(g, 'length', 0.0):.4f}",
+            genome_active=_csv_bool(getattr(g, "active", False)),
+        )
+
+    for pi, p in enumerate(particles):
+        obj = getattr(p, "obj", None)
+        csv_write_row(
+            "particle",
+            entity_id=pi,
+            entity_state="burst_particle",
+            pos=getattr(obj, "pos", None),
+            vel=getattr(p, "vel", None),
+            radius=getattr(obj, "radius", ""),
+            opacity=getattr(obj, "opacity", ""),
+            col=getattr(obj, "color", None),
+            extra=f"life={getattr(p, 'life', '')}",
+        )
+
+    if include_static:
+        for r in receptors:
+            csv_write_row(
+                "receptor",
+                entity_id=r.idx,
+                entity_state=r.state,
+                pos=r.pos,
+                radius=getattr(r.spot, "radius", ""),
+                opacity=getattr(r.ring, "opacity", ""),
+                col=getattr(r.spot, "color", None),
+                receptor_use_count=r.use_count,
+                receptor_marked=_csv_bool(r.marked),
+                bound_receptor_id=r.occupied_by.idx if r.occupied_by is not None else "",
+                extra=f"normal=({r.normal.x:.4f},{r.normal.y:.4f},{r.normal.z:.4f})",
+            )
+
+
+def csv_maybe_record():
+    global _csv_next_sample_time, _csv_next_static_sample_time
+    if _csv_writer is None:
+        return
+    if sim_time + 1e-9 >= _csv_next_sample_time:
+        include_static = sim_time + 1e-9 >= _csv_next_static_sample_time
+        csv_record_snapshot(include_static=include_static)
+        _csv_next_sample_time += CSV_SAMPLE_INTERVAL
+        if include_static:
+            _csv_next_static_sample_time += CSV_STATIC_SAMPLE_INTERVAL
+        _csv_file.flush()
+
+
 # -----------------------------
 # Main loop
 # -----------------------------
@@ -1326,39 +1646,52 @@ reset_simulation(keep_ai=False)
 round_number = 1
 ai = AIController()
 
-while True:
-    rate(50)
+csv_open()
 
-    if not paused:
-        sim_time += DT
+try:
+    while sim_time < CSV_RUN_SECONDS:
+        rate(50)
 
-        apply_keyboard_motion(DT)
+        if not paused:
+            sim_time += DT
 
-        if ai is not None:
-            ai.update(DT)
+            apply_keyboard_motion(DT)
 
-        for v in list(viruses):
-            v.update(DT)
+            if ai is not None:
+                ai.update(DT)
 
-        update_collisions()
+            for v in list(viruses):
+                v.update(DT)
 
-        alive_particles = []
-        for p in particles:
-            if p.update(DT):
-                alive_particles.append(p)
-            else:
-                p.erase()
-        particles = alive_particles
+            update_collisions()
 
-        for g in list(loose_genomes):
-            g.update(DT)
+            alive_particles = []
+            for p in particles:
+                if p.update(DT):
+                    alive_particles.append(p)
+                else:
+                    p.erase()
+            particles = alive_particles
 
-        if nucleus is not None:
-            nucleus.radius = NUCLEUS_R + 0.035 * math.sin(sim_time * 2.0)
-            nucleus.opacity = 0.30 + 0.04 * math.sin(sim_time * 1.3)
+            for g in list(loose_genomes):
+                g.update(DT)
 
-        if host_cell is not None:
-            host_cell.opacity = 0.20 + 0.025 * math.sin(sim_time * 0.9)
+            if nucleus is not None:
+                nucleus.radius = NUCLEUS_R + 0.035 * math.sin(sim_time * 2.0)
+                nucleus.opacity = 0.30 + 0.04 * math.sin(sim_time * 1.3)
 
-    update_selection_marker()
-    update_status()
+            if host_cell is not None:
+                host_cell.opacity = 0.20 + 0.025 * math.sin(sim_time * 0.9)
+
+        update_selection_marker()
+        update_status()
+        csv_maybe_record()
+
+    csv_record_snapshot(include_static=True)
+    if status_text is not None:
+        status_text.text += "\nCSV recording complete: {:0.0f}s saved to {}".format(
+            CSV_RUN_SECONDS,
+            os.path.basename(CSV_OUTPUT_PATH),
+        )
+finally:
+    csv_close()

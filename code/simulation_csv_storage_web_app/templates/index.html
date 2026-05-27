@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Simulation CSV Storage</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div>
+      <h1>Simulation CSV Storage</h1>
+      <p>Story tree, main scripts, CSV recorder child scripts, and stored run data.</p>
+    </div>
+    <nav>
+      <a href="/">Story tree</a>
+      <a href="/api/story-tree" target="_blank">Tree JSON</a>
+      <a href="/api/data-location" target="_blank">Data location</a>
+      <a href="/api/runs" target="_blank">Runs JSON</a>
+    </nav>
+  </header>
+
+  <main class="layout">
+    <aside class="panel">
+      <h2>Story tree controls</h2>
+      <label for="searchBox">Search story or script</label>
+      <input id="searchBox" type="text" placeholder="cell, bacteria, orbit">
+
+      <label class="checkline">
+        <input id="scriptedOnlyCheck" type="checkbox">
+        Only show branches with scripts
+      </label>
+
+      <div class="actions vertical-actions">
+        <button id="refreshBtn">Refresh</button>
+        <button id="expandAllBtn" class="secondary">Expand all</button>
+        <button id="collapseAllBtn" class="secondary">Collapse all</button>
+      </div>
+
+      <p id="status" class="status"></p>
+
+      <hr>
+
+      <h2>Selected story</h2>
+      <p id="selectedStory" class="story-preview-muted">Select a sentence in the tree.</p>
+    </aside>
+
+    <section class="panel wide">
+      <div class="result-header">
+        <h2>Stories</h2>
+        <p id="countLabel" class="meta"></p>
+      </div>
+      <div id="storyTree" class="story-tree"></div>
+    </section>
+  </main>
+
+  <script src="/static/index.js"></script>
+</body>
+</html>

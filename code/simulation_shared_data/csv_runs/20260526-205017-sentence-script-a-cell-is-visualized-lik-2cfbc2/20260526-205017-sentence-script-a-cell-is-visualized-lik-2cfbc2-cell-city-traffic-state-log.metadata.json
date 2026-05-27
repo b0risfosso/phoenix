@@ -1,0 +1,27 @@
+{
+  "csv_run_id": "20260526-205017-sentence-script-a-cell-is-visualized-lik-2cfbc2",
+  "csv_output_path": "/Users/b/phoenix/code/simulation_shared_data/csv_runs/20260526-205017-sentence-script-a-cell-is-visualized-lik-2cfbc2/20260526-205017-sentence-script-a-cell-is-visualized-lik-2cfbc2-cell-city-traffic-state-log.csv",
+  "csv_metadata_path": "/Users/b/phoenix/code/simulation_shared_data/csv_runs/20260526-205017-sentence-script-a-cell-is-visualized-lik-2cfbc2/20260526-205017-sentence-script-a-cell-is-visualized-lik-2cfbc2-cell-city-traffic-state-log.metadata.json",
+  "simulation_name": "Cell as a City: Metaphorical Traffic Map",
+  "script_type": "full_vpython_csv_logger",
+  "run_seconds": 60.0,
+  "sample_hz": 10.0,
+  "sample_interval": 0.1,
+  "created_at": "2026-05-26T20:50:18",
+  "row_types": [
+    "summary",
+    "vesicle",
+    "station",
+    "mitochondrion",
+    "particle",
+    "wrap",
+    "mark"
+  ],
+  "environment_variables": {
+    "SIMULATION_CSV_OUTPUT_DIR": "/Users/b/phoenix/code/simulation_shared_data/csv_runs/20260526-205017-sentence-script-a-cell-is-visualized-lik-2cfbc2",
+    "SIMULATION_CSV_RUN_ID": "20260526-205017-sentence-script-a-cell-is-visualized-lik-2cfbc2",
+    "SIMULATION_CSV_RUN_SECONDS": 60.0,
+    "SIMULATION_CSV_SAMPLE_HZ": 10.0,
+    "SIM_STATE_CSV_PATH": ""
+  }
+}

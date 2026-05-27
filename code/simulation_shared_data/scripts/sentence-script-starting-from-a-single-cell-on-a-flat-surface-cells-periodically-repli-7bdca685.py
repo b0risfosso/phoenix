@@ -1,6 +1,12 @@
 from vpython import *
 import random
 import math
+import os
+import csv
+import json
+import atexit
+from datetime import datetime
+from pathlib import Path
 
 # ============================================================
 # 3D Cell Colony Growing and Packing Simulation with AI Control
@@ -33,6 +39,236 @@ ADHESION = 1.25
 DAMPING = 0.955
 FLOOR_Z = 0.0
 WORLD_RADIUS_LIMIT = 16.0
+
+# -----------------------------
+# CSV logging support
+# -----------------------------
+# Compatible with the core sentence branching CSV web app.
+# Environment variables read by the web app runner:
+#   SIMULATION_CSV_OUTPUT_DIR   directory where CSV/metadata should be written
+#   SIMULATION_CSV_RUN_ID       unique id for this run
+#   SIMULATION_CSV_RUN_SECONDS  run duration; defaults to 60 seconds
+#   SIMULATION_CSV_SAMPLE_HZ    optional logging frequency; defaults to 5 Hz
+# Fallback:
+#   SIM_STATE_CSV_PATH          exact CSV path, used only if output dir is not supplied
+
+class SimulationCSVLogger:
+    def __init__(self):
+        self.output_dir = os.environ.get("SIMULATION_CSV_OUTPUT_DIR", "").strip()
+        self.run_id = os.environ.get("SIMULATION_CSV_RUN_ID", "cell_colony_growing_packing") or "cell_colony_growing_packing"
+        self.run_seconds = self._float_env("SIMULATION_CSV_RUN_SECONDS", 60.0)
+        self.sample_hz = max(0.1, self._float_env("SIMULATION_CSV_SAMPLE_HZ", 5.0))
+        self.sample_interval = 1.0 / self.sample_hz
+        self.next_sample_time = 0.0
+        self.rows_written = 0
+        self.started_at = datetime.now().isoformat(timespec="seconds")
+        self.finished = False
+
+        fallback_csv = os.environ.get("SIM_STATE_CSV_PATH", "").strip()
+        if self.output_dir:
+            out_dir = Path(self.output_dir)
+            out_dir.mkdir(parents=True, exist_ok=True)
+            safe_run_id = self._safe_name(self.run_id)
+            self.csv_path = out_dir / f"{safe_run_id}_cell_colony_growth.csv"
+        elif fallback_csv:
+            self.csv_path = Path(fallback_csv)
+            self.csv_path.parent.mkdir(parents=True, exist_ok=True)
+        else:
+            out_dir = Path.cwd() / "csv_runs"
+            out_dir.mkdir(parents=True, exist_ok=True)
+            safe_run_id = self._safe_name(self.run_id)
+            self.csv_path = out_dir / f"{safe_run_id}_cell_colony_growth.csv"
+
+        self.metadata_path = self.csv_path.with_suffix(".metadata.json")
+        self.fieldnames = [
+            "wall_timestamp",
+            "run_id",
+            "sim_time",
+            "round_time",
+            "round_index",
+            "paused",
+            "ai_enabled",
+            "ai_mode",
+            "ai_human_override",
+            "ai_reset_countdown",
+            "ai_stagnant_timer",
+            "cell_count",
+            "max_cells",
+            "particle_count",
+            "link_count",
+            "boundary_cell_count",
+            "selected_cell_count",
+            "colony_center_x",
+            "colony_center_y",
+            "colony_center_z",
+            "colony_radius",
+            "colony_height",
+            "avg_speed",
+            "packing_score",
+            "avg_cell_radius",
+            "avg_cell_age",
+            "avg_cell_nutrient",
+            "avg_cell_z",
+            "min_cell_z",
+            "max_cell_z",
+            "avg_generation",
+            "division_multiplier",
+            "adhesion_multiplier",
+            "packing_bonus",
+            "wrap_opacity",
+            "cursor_x",
+            "cursor_y",
+            "cursor_z",
+            "cursor_target_x",
+            "cursor_target_y",
+            "cursor_target_z",
+        ]
+        self.csv_file = open(self.csv_path, "w", newline="", encoding="utf-8")
+        self.writer = csv.DictWriter(self.csv_file, fieldnames=self.fieldnames)
+        self.writer.writeheader()
+        self.csv_file.flush()
+        atexit.register(self.close)
+        self._write_metadata(status="started")
+
+    def _float_env(self, name, default):
+        raw = os.environ.get(name, "").strip()
+        if not raw:
+            return default
+        try:
+            value = float(raw)
+            return value if value > 0 else default
+        except ValueError:
+            return default
+
+    def _safe_name(self, name):
+        safe = []
+        for ch in str(name):
+            if ch.isalnum() or ch in ("-", "_", "."):
+                safe.append(ch)
+            else:
+                safe.append("_")
+        return "".join(safe).strip("_") or "cell_colony_growing_packing"
+
+    def _vec_components(self, v):
+        return float(v.x), float(v.y), float(v.z)
+
+    def _write_metadata(self, status="running"):
+        meta = {
+            "status": status,
+            "run_id": self.run_id,
+            "started_at": self.started_at,
+            "updated_at": datetime.now().isoformat(timespec="seconds"),
+            "csv_path": str(self.csv_path),
+            "run_seconds": self.run_seconds,
+            "sample_hz": self.sample_hz,
+            "rows_written": self.rows_written,
+            "simulation": "3D Cell Colony Growing and Packing - AI Controlled",
+            "vpython": True,
+        }
+        try:
+            self.metadata_path.write_text(json.dumps(meta, indent=2), encoding="utf-8")
+        except Exception:
+            pass
+
+    def should_sample(self, current_sim_time):
+        return current_sim_time + 1e-9 >= self.next_sample_time
+
+    def collect_row(self):
+        global sim_time, round_time, round_index, paused, max_cells
+        global cells, particles, links, colony_center, colony_radius, colony_height, avg_speed, packing_score, boundary_cells, ai
+
+        if cells:
+            n = len(cells)
+            avg_cell_radius = sum(c.radius for c in cells) / n
+            avg_cell_age = sum(c.age for c in cells) / n
+            avg_cell_nutrient = sum(c.nutrient for c in cells) / n
+            avg_cell_z = sum(c.pos.z for c in cells) / n
+            min_cell_z = min(c.pos.z for c in cells)
+            max_cell_z = max(c.pos.z for c in cells)
+            avg_generation = sum(c.generation for c in cells) / n
+            selected_cell_count = sum(1 for c in cells if c.selected)
+        else:
+            avg_cell_radius = avg_cell_age = avg_cell_nutrient = 0.0
+            avg_cell_z = min_cell_z = max_cell_z = avg_generation = 0.0
+            selected_cell_count = 0
+
+        ccx, ccy, ccz = self._vec_components(colony_center)
+        curx, cury, curz = self._vec_components(ai.cursor.pos)
+        tarx, tary, tarz = self._vec_components(ai.cursor_target)
+
+        return {
+            "wall_timestamp": datetime.now().isoformat(timespec="milliseconds"),
+            "run_id": self.run_id,
+            "sim_time": round(sim_time, 6),
+            "round_time": round(round_time, 6),
+            "round_index": round_index,
+            "paused": int(bool(paused)),
+            "ai_enabled": int(bool(ai.enabled)),
+            "ai_mode": ai.mode,
+            "ai_human_override": int(bool(ai.human_override)),
+            "ai_reset_countdown": round(ai.reset_countdown, 6),
+            "ai_stagnant_timer": round(ai.stagnant_timer, 6),
+            "cell_count": len(cells),
+            "max_cells": max_cells,
+            "particle_count": len(particles),
+            "link_count": len(links),
+            "boundary_cell_count": len(boundary_cells),
+            "selected_cell_count": selected_cell_count,
+            "colony_center_x": round(ccx, 6),
+            "colony_center_y": round(ccy, 6),
+            "colony_center_z": round(ccz, 6),
+            "colony_radius": round(colony_radius, 6),
+            "colony_height": round(colony_height, 6),
+            "avg_speed": round(avg_speed, 6),
+            "packing_score": round(packing_score, 6),
+            "avg_cell_radius": round(avg_cell_radius, 6),
+            "avg_cell_age": round(avg_cell_age, 6),
+            "avg_cell_nutrient": round(avg_cell_nutrient, 6),
+            "avg_cell_z": round(avg_cell_z, 6),
+            "min_cell_z": round(min_cell_z, 6),
+            "max_cell_z": round(max_cell_z, 6),
+            "avg_generation": round(avg_generation, 6),
+            "division_multiplier": round(ai.division_multiplier, 6),
+            "adhesion_multiplier": round(ai.adhesion_multiplier, 6),
+            "packing_bonus": round(ai.packing_bonus, 6),
+            "wrap_opacity": round(ai.wrap_opacity, 6),
+            "cursor_x": round(curx, 6),
+            "cursor_y": round(cury, 6),
+            "cursor_z": round(curz, 6),
+            "cursor_target_x": round(tarx, 6),
+            "cursor_target_y": round(tary, 6),
+            "cursor_target_z": round(tarz, 6),
+        }
+
+    def sample(self, current_sim_time):
+        if self.finished:
+            return
+        if not self.should_sample(current_sim_time):
+            return
+        row = self.collect_row()
+        self.writer.writerow(row)
+        self.rows_written += 1
+        self.next_sample_time += self.sample_interval
+        # If the simulation jumps or pauses for a long time, prevent a backlog of samples.
+        if self.next_sample_time < current_sim_time - self.sample_interval:
+            self.next_sample_time = current_sim_time + self.sample_interval
+        if self.rows_written % max(1, int(self.sample_hz * 5)) == 0:
+            self.csv_file.flush()
+            self._write_metadata(status="running")
+
+    def close(self):
+        if self.finished:
+            return
+        self.finished = True
+        try:
+            self.csv_file.flush()
+            self.csv_file.close()
+        except Exception:
+            pass
+        self._write_metadata(status="finished")
+
+    def reached_end(self, current_sim_time):
+        return self.run_seconds > 0 and current_sim_time >= self.run_seconds
 
 cells = []
 particles = []
@@ -1145,6 +1381,7 @@ round_index = 0
 reset_simulation()
 
 status_timer = 0.0
+csv_logger = SimulationCSVLogger()
 
 while True:
     rate(60)
@@ -1168,3 +1405,8 @@ while True:
     if status_timer > 0.18:
         status_timer = 0.0
         update_status()
+
+    csv_logger.sample(sim_time)
+    if csv_logger.reached_end(sim_time):
+        csv_logger.close()
+        break

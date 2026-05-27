@@ -2,6 +2,10 @@ from vpython import *
 import random
 import math
 import time
+import csv
+import os
+import json
+from datetime import datetime
 
 # ============================================================
 # 3D VPython Simulation:
@@ -53,6 +57,93 @@ KIND_RADII = {
     "waste": 0.14,
     "energy": 0.10,
 }
+
+
+# --------------------------
+# CSV logging configuration
+# --------------------------
+def _env_float(name, default):
+    try:
+        return float(os.environ.get(name, str(default)))
+    except (TypeError, ValueError):
+        return float(default)
+
+CSV_RUN_SECONDS = max(0.0, _env_float("SIMULATION_CSV_RUN_SECONDS", 60.0))
+CSV_SAMPLE_HZ = max(0.05, _env_float("SIMULATION_CSV_SAMPLE_HZ", 10.0))
+CSV_SAMPLE_INTERVAL = 1.0 / CSV_SAMPLE_HZ
+
+CSV_OUTPUT_DIR = os.environ.get("SIMULATION_CSV_OUTPUT_DIR", "").strip()
+CSV_RUN_ID = os.environ.get("SIMULATION_CSV_RUN_ID", "").strip() or datetime.now().strftime("%Y%m%d_%H%M%S")
+
+if CSV_OUTPUT_DIR:
+    os.makedirs(CSV_OUTPUT_DIR, exist_ok=True)
+    CSV_OUTPUT_PATH = os.path.join(CSV_OUTPUT_DIR, f"{CSV_RUN_ID}-cell-factory-state-log.csv")
+else:
+    fallback_path = os.environ.get("SIM_STATE_CSV_PATH", "").strip()
+    if fallback_path:
+        CSV_OUTPUT_PATH = fallback_path
+        parent = os.path.dirname(os.path.abspath(CSV_OUTPUT_PATH))
+        if parent:
+            os.makedirs(parent, exist_ok=True)
+    else:
+        CSV_OUTPUT_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "cell_factory_state_log.csv")
+
+CSV_METADATA_PATH = os.path.splitext(CSV_OUTPUT_PATH)[0] + ".metadata.json"
+
+CSV_FIELDNAMES = [
+    "csv_run_id", "csv_elapsed_seconds", "simulation_time", "frame",
+    "row_type", "object_id", "object_kind",
+    "round_number", "round_goal", "spawned_this_round", "completed_products",
+    "active_count", "raw_count", "blueprint_count", "protein_count", "product_count",
+    "avg_speed", "avg_energy_charge", "ai_enabled", "ai_mode", "ai_stagnant_time",
+    "ai_completion_time", "paused", "drone_x", "drone_y", "drone_z",
+    "drone_vx", "drone_vy", "drone_vz", "drone_target_x", "drone_target_y", "drone_target_z",
+    "attached_count", "particle_count", "effect_count", "station_count", "energy_stream_count",
+    "particle_id", "kind", "alive", "attached", "marked", "age", "processing_cooldown",
+    "x", "y", "z", "vx", "vy", "vz", "target_x", "target_y", "target_z",
+    "radius", "last_speed", "station_name", "station_type", "station_charge",
+    "station_touch_count", "station_last_touched", "effect_type"
+]
+
+_csv_file = open(CSV_OUTPUT_PATH, "w", newline="")
+_csv_writer = csv.DictWriter(_csv_file, fieldnames=CSV_FIELDNAMES, extrasaction="ignore")
+_csv_writer.writeheader()
+_csv_file.flush()
+
+
+def _v_components(v, prefix=""):
+    return {
+        f"{prefix}x": float(v.x),
+        f"{prefix}y": float(v.y),
+        f"{prefix}z": float(v.z),
+    }
+
+
+def write_csv_metadata():
+    metadata = {
+        "csv_run_id": CSV_RUN_ID,
+        "csv_output_path": CSV_OUTPUT_PATH,
+        "csv_metadata_path": CSV_METADATA_PATH,
+        "simulation_name": "Cell Miniature Factory with Energy Flows and AI Controller",
+        "script_type": "full_vpython_csv_logger",
+        "run_seconds": CSV_RUN_SECONDS,
+        "sample_hz": CSV_SAMPLE_HZ,
+        "sample_interval": CSV_SAMPLE_INTERVAL,
+        "created_at": datetime.now().isoformat(timespec="seconds"),
+        "row_types": ["summary", "drone", "particle", "station", "attached_particle", "effect"],
+        "environment_variables": {
+            "SIMULATION_CSV_OUTPUT_DIR": CSV_OUTPUT_DIR,
+            "SIMULATION_CSV_RUN_ID": CSV_RUN_ID,
+            "SIMULATION_CSV_RUN_SECONDS": CSV_RUN_SECONDS,
+            "SIMULATION_CSV_SAMPLE_HZ": CSV_SAMPLE_HZ,
+            "SIM_STATE_CSV_PATH": os.environ.get("SIM_STATE_CSV_PATH", ""),
+        },
+    }
+    with open(CSV_METADATA_PATH, "w") as f:
+        json.dump(metadata, f, indent=2)
+
+
+write_csv_metadata()
 
 # --------------------------
 # Utility Functions
@@ -1445,10 +1536,141 @@ class CellFactorySimulation:
 
 sim = CellFactorySimulation()
 
+
+# --------------------------
+# CSV snapshot helpers
+# --------------------------
+def _csv_base_row(csv_elapsed_seconds, frame, row_type, object_id="", object_kind=""):
+    state = sim.get_state()
+    row = {
+        "csv_run_id": CSV_RUN_ID,
+        "csv_elapsed_seconds": round(csv_elapsed_seconds, 4),
+        "simulation_time": round(sim.t, 4),
+        "frame": frame,
+        "row_type": row_type,
+        "object_id": object_id,
+        "object_kind": object_kind,
+        "round_number": state["round_number"],
+        "round_goal": state["round_goal"],
+        "spawned_this_round": state["spawned_this_round"],
+        "completed_products": state["completed_products"],
+        "active_count": state["active_count"],
+        "raw_count": state["raw_count"],
+        "blueprint_count": state["blueprint_count"],
+        "protein_count": state["protein_count"],
+        "product_count": state["product_count"],
+        "avg_speed": state["avg_speed"],
+        "avg_energy_charge": state["avg_energy_charge"],
+        "ai_enabled": state["ai_enabled"],
+        "ai_mode": state["ai_mode"],
+        "ai_stagnant_time": getattr(sim.ai, "stagnant_time", ""),
+        "ai_completion_time": getattr(sim.ai, "completion_time", ""),
+        "paused": sim.paused,
+        "attached_count": len(sim.attached_particles),
+        "particle_count": len([p for p in sim.particles if p.alive]),
+        "effect_count": len(sim.effects),
+        "station_count": len(sim.stations),
+        "energy_stream_count": len(sim.energy_streams),
+    }
+    row.update(_v_components(sim.drone_pos, "drone_"))
+    row.update(_v_components(sim.drone_vel, "drone_v"))
+    row.update(_v_components(sim.drone_target, "drone_target_"))
+    return row
+
+
+def write_csv_snapshot(csv_elapsed_seconds, frame):
+    _csv_writer.writerow(_csv_base_row(csv_elapsed_seconds, frame, "summary", "cell_factory", "summary"))
+
+    drone_row = _csv_base_row(csv_elapsed_seconds, frame, "drone", "ai_enzyme_drone", "drone")
+    drone_row.update(_v_components(sim.drone_pos, ""))
+    drone_row.update(_v_components(sim.drone_vel, "v"))
+    drone_row.update(_v_components(sim.drone_target, "target_"))
+    _csv_writer.writerow(drone_row)
+
+    for i, p in enumerate(sim.particles):
+        row = _csv_base_row(csv_elapsed_seconds, frame, "particle", f"particle_{p.id}", "particle")
+        row.update({
+            "particle_id": p.id,
+            "kind": p.kind,
+            "alive": p.alive,
+            "attached": p.attached,
+            "marked": p.marked,
+            "age": p.age,
+            "processing_cooldown": p.processing_cooldown,
+            "radius": p.radius,
+            "last_speed": p.last_speed,
+        })
+        row.update(_v_components(p.pos, ""))
+        row.update(_v_components(p.vel, "v"))
+        if p.target is not None:
+            row.update(_v_components(p.target, "target_"))
+        _csv_writer.writerow(row)
+
+    for i, p in enumerate(sim.attached_particles):
+        row = _csv_base_row(csv_elapsed_seconds, frame, "attached_particle", f"attached_particle_{p.id}", "attached_particle")
+        row.update({
+            "particle_id": p.id,
+            "kind": p.kind,
+            "alive": p.alive,
+            "attached": p.attached,
+            "marked": p.marked,
+            "age": p.age,
+            "radius": p.radius,
+            "last_speed": p.last_speed,
+        })
+        row.update(_v_components(p.pos, ""))
+        row.update(_v_components(p.vel, "v"))
+        _csv_writer.writerow(row)
+
+    for i, st in enumerate(sim.stations):
+        row = _csv_base_row(csv_elapsed_seconds, frame, "station", f"station_{i}", "station")
+        row.update({
+            "station_name": st.name.replace("\n", " "),
+            "station_type": st.stype,
+            "station_charge": st.charge,
+            "station_touch_count": st.touch_count,
+            "station_last_touched": st.last_touched,
+            "radius": st.radius,
+        })
+        row.update(_v_components(st.pos, ""))
+        _csv_writer.writerow(row)
+
+    for i, e in enumerate(sim.effects):
+        row = _csv_base_row(csv_elapsed_seconds, frame, "effect", f"effect_{i}", "effect")
+        row.update({
+            "effect_type": type(e).__name__,
+            "age": getattr(e, "age", ""),
+            "radius": getattr(getattr(e, "obj", None), "radius", ""),
+        })
+        _csv_writer.writerow(row)
+
+    _csv_file.flush()
+
 last = time.time()
-while True:
-    rate(60)
-    now = time.time()
-    dt = clamp(now - last, 0.001, 0.04)
-    last = now
-    sim.update(dt)
+csv_elapsed_seconds = 0.0
+csv_sample_timer = CSV_SAMPLE_INTERVAL
+csv_frame = 0
+
+try:
+    while csv_elapsed_seconds < CSV_RUN_SECONDS:
+        rate(60)
+        now = time.time()
+        dt = clamp(now - last, 0.001, 0.04)
+        last = now
+
+        csv_frame += 1
+        csv_elapsed_seconds += dt
+        csv_sample_timer += dt
+
+        sim.update(dt)
+
+        if csv_sample_timer >= CSV_SAMPLE_INTERVAL:
+            csv_sample_timer = 0.0
+            write_csv_snapshot(csv_elapsed_seconds, csv_frame)
+
+    write_csv_snapshot(csv_elapsed_seconds, csv_frame)
+    sim.message(f"CSV recording complete: {CSV_RUN_SECONDS:0.0f}s saved to {os.path.basename(CSV_OUTPUT_PATH)}")
+    sim.update_hud(0.0)
+finally:
+    _csv_file.flush()
+    _csv_file.close()

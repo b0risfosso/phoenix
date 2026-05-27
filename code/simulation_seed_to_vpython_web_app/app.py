@@ -82,16 +82,74 @@ The simulation should include:
 - [what can attach, detach, collide, orbit, spill, mark, wrap, bounce, mix, transfer, etc.]
 - [any visual details: color, texture, transparency, trails, labels, particles]
 
-think thoroughly through the structure of the simulation. however, you are not required to provide the answers/text to how the simulation will be outlined. instead, you must provide the updated python simulation file with implementation of all given the conditions/inquiries above.
+Think thoroughly through the structure of the simulation. However, do not provide an outline or explanation. Instead, provide the final updated Python simulation file that implements the simulation.
 
-Build the simulation in python. The code should be self-contained and runnable in Python using VPython. Provide the python simulation file.
+Build the simulation in Python. The code must be self-contained and runnable in Python using VPython. Provide only the Python simulation file.
 
-Prefer light styling / colors / background over dark styling / colors / background
+Prefer light styling / colors / background over dark styling / colors / background.
 
+VPython compatibility requirements:
+- Use `from vpython import *`.
+- Do not use `torus(...)`.
+- If a torus-like object, circular band, rim, orbit ring, donut shape, ring marker, or loop is needed, use `ring(...)` instead.
+- Avoid naming any variable `ring`, because that can shadow VPython's `ring(...)` constructor.
+- Avoid unsupported VPython object assumptions.
+- Keep the code runnable as a normal `.py` file.
+
+CSV logging compatibility requirements for the story branching / CSV storage web apps:
+- The generated simulation must support optional CSV state logging during runs.
+- The script must read these environment variables:
+  - `SIMULATION_CSV_OUTPUT_DIR`
+  - `SIMULATION_CSV_RUN_ID`
+  - `SIMULATION_CSV_RUN_SECONDS`
+- Default run length must be 60 seconds when `SIMULATION_CSV_RUN_SECONDS` is not provided.
+- If `SIMULATION_CSV_OUTPUT_DIR` is provided, save CSV output inside that directory.
+- If `SIMULATION_CSV_RUN_ID` is provided, include it in the CSV filename.
+- If no web-app output directory is provided, fall back to `SIM_STATE_CSV_PATH` if set.
+- If neither `SIMULATION_CSV_OUTPUT_DIR` nor `SIM_STATE_CSV_PATH` is set, save a CSV file beside the script.
+- The CSV filename should include the run id when available.
+- Do not hardcode duration-specific labels such as `180s`.
+- Use generic labels such as `CSV recording complete` or `saved run data`.
+- The script should create parent directories for CSV output if needed.
+- The script should flush CSV writes periodically.
+- The script should close the CSV file cleanly.
+- The script should stop automatically after the configured run length when CSV logging is active.
+- The script should still be viewable/runnable normally when no CSV environment variables are provided.
+
+CSV implementation requirements:
+- Import `csv`, `os`, and `datetime` or `time` as needed.
+- Create a CSV header row.
+- Record repeated simulation state snapshots.
+- Include useful state columns such as:
+  - `run_id`
+  - `frame`
+  - `elapsed_seconds`
+  - positions of important objects
+  - velocities or movement vectors when applicable
+  - current AI mode or behavior mode if present
+  - collision/attachment/orbit/marking/transfer counts when applicable
+  - any simulation-specific fields that make the run meaningful
+- Keep the CSV storage logic simple and robust.
+- Do not require pandas or external data libraries.
+- Make CSV logging compatible with this pattern:
+
+```python
+CSV_RUN_SECONDS = float(os.environ.get("SIMULATION_CSV_RUN_SECONDS", "60"))
+_csv_output_dir = os.environ.get("SIMULATION_CSV_OUTPUT_DIR")
+_csv_run_id = os.environ.get("SIMULATION_CSV_RUN_ID", datetime.now().strftime("%Y%m%d_%H%M%S"))
+
+if _csv_output_dir:
+    CSV_OUTPUT_PATH = os.path.join(_csv_output_dir, f"{_csv_run_id}-simulation-state.csv")
+else:
+    CSV_OUTPUT_PATH = os.environ.get(
+        "SIM_STATE_CSV_PATH",
+        os.path.join(os.path.dirname(os.path.abspath(__file__)), f"{_csv_run_id}-simulation-state.csv")
+    )
+```
 
 Could I program an AI to control this simulation?
 
-Explain how to add an AI controller to the existing 3D Python simulation.
+Add an AI controller to the 3D Python simulation.
 
 The AI should be able to:
 - Read the simulation state.
@@ -100,15 +158,14 @@ The AI should be able to:
 - Use a simple rule-based controller first.
 - Optionally support a more advanced behavior system later.
 
-Please explain:
-1. What simulation state variables the AI needs.
-2. What actions the AI can take.
+Implement:
+1. Simulation state variables the AI needs.
+2. Actions the AI can take.
 3. How the AI chooses actions.
-4. Where the AI controller code should be placed in the existing file.
+4. Where the AI controller code belongs in the file.
 5. How the AI can run automatically while still allowing human keyboard control.
 6. How to pause, resume, or override the AI.
-7. Provide example code that can be inserted into the simulation.
-
+7. Example code directly integrated into the simulation.
 
 How can I make the AI more interesting and dynamic?
 
@@ -122,18 +179,18 @@ The AI should:
 - Create visible, meaningful changes in the scene.
 - Reset or loop the simulation when the state is halted, complete, empty, stable, or no longer changing.
 
-Include:
+Include in the actual code:
 1. A list of possible AI behavior modes.
 2. A simple state machine for the AI.
 3. A stagnation/completion detector.
 4. A reset function.
 5. A loop system that starts a new round after completion.
-6. Example code that can be inserted into the existing simulation.
-7. Suggestions for making the AI feel playful, ritual-like, chaotic, careful, curious, destructive, constructive, or artistic.
+6. Behavior that can feel playful, ritual-like, chaotic, careful, curious, destructive, constructive, or artistic.
 
-think thoroughly through these questions. however, you are not required to provide the answers/text to these questions. instead, you must provide the updated python simulation file with implementation of all given the conditions/inquiries above.
+Think thoroughly through these requirements. Do not provide explanations. Return the final Python source code only.
 """
 
+# CSV prompt compatibility: generated scripts are instructed to support SIMULATION_CSV_OUTPUT_DIR, SIMULATION_CSV_RUN_ID, and SIMULATION_CSV_RUN_SECONDS.
 CODE_ONLY_SUFFIX = """
 
 Return only the final Python source code. Do not wrap it in Markdown fences. Do not include explanations before or after the code.

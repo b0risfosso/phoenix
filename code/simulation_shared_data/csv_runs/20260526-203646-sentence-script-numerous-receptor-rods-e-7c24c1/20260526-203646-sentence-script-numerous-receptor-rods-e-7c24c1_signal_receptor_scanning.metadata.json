@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "label": "signal_receptor_scanning",
+  "run_id": "20260526-203646-sentence-script-numerous-receptor-rods-e-7c24c1",
+  "csv_path": "/Users/b/phoenix/code/simulation_shared_data/csv_runs/20260526-203646-sentence-script-numerous-receptor-rods-e-7c24c1/20260526-203646-sentence-script-numerous-receptor-rods-e-7c24c1_signal_receptor_scanning.csv",
+  "sample_hz": 5.0,
+  "run_seconds": 60.0,
+  "source": "full_vpython_script_with_integrated_csv_logging",
+  "environment_variables": [
+    "SIMULATION_CSV_OUTPUT_DIR",
+    "SIMULATION_CSV_RUN_ID",
+    "SIMULATION_CSV_RUN_SECONDS",
+    "SIMULATION_CSV_SAMPLE_HZ",
+    "SIM_STATE_CSV_PATH"
+  ],
+  "final_sim_time_s": 28.908027172088623,
+  "final_round_index": 3,
+  "final_delivered_count": 122,
+  "final_round_goal": 39,
+  "samples_written": 288
+}

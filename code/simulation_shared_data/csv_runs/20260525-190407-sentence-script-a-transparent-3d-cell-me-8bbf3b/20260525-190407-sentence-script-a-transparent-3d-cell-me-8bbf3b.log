@@ -1,0 +1,10 @@
+Running CSV script: /Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-a-transparent-3d-cell-membrane-conta-csv-recorder-f9da242b.py
+Run ID: 20260525-190407-sentence-script-a-transparent-3d-cell-me-8bbf3b
+Started: 2026-05-25T19:04:07
+Output directory: /Users/b/phoenix/code/simulation_shared_data/csv_runs/20260525-190407-sentence-script-a-transparent-3d-cell-me-8bbf3b
+
+/Users/b/phoenix/code/simulation_csv_storage_web_app/.venv/lib/python3.12/site-packages/vpython/__init__.py:1: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import get_distribution, DistributionNotFound
+CSV state logging started: /Users/b/phoenix/code/simulation_shared_data/csv_runs/20260525-190407-sentence-script-a-transparent-3d-cell-me-8bbf3b/20260525-190407-sentence-script-a-transparent-3d-cell-me-8bbf3b-cell-membrane-state-log.csv
+CSV state logging complete: /Users/b/phoenix/code/simulation_shared_data/csv_runs/20260525-190407-sentence-script-a-transparent-3d-cell-me-8bbf3b/20260525-190407-sentence-script-a-transparent-3d-cell-me-8bbf3b-cell-membrane-state-log.csv
+Recorded 1201 snapshots over 120 simulated seconds.

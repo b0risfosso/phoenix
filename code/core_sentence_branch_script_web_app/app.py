@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
+import csv
 import json
 import os
 import re
@@ -11,16 +12,19 @@ from datetime import datetime
 from pathlib import Path
 from typing import Any
 
-from flask import Flask, jsonify, render_template, request, send_from_directory
+from flask import Flask, jsonify, render_template, render_template_string, request, send_from_directory
 
 APP_DIR = Path(__file__).resolve().parent
 SHARED_DATA_DIR = Path(os.environ.get("SIMULATION_SHARED_DATA_DIR", APP_DIR.parent / "simulation_shared_data")).expanduser().resolve()
 SCRIPTS_DIR = SHARED_DATA_DIR / "scripts"
 METADATA_DIR = SHARED_DATA_DIR / "metadata"
 LOGS_DIR = SHARED_DATA_DIR / "logs"
-TREE_FILE = METADATA_DIR / "core_sentence_tree.json"
+CSV_RUNS_DIR = SHARED_DATA_DIR / "csv_runs"
 
-for directory in (SCRIPTS_DIR, METADATA_DIR, LOGS_DIR):
+TREE_FILE = METADATA_DIR / "core_sentence_tree.json"
+CSV_RUN_INDEX_FILE = METADATA_DIR / "csv_run_index.json"
+
+for directory in (SCRIPTS_DIR, METADATA_DIR, LOGS_DIR, CSV_RUNS_DIR):
     directory.mkdir(parents=True, exist_ok=True)
 
 app = Flask(__name__)
@@ -54,6 +58,65 @@ def load_json(path: Path, default: Any) -> Any:
 def save_json(path: Path, data: Any) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
+
+
+def load_run_index() -> dict[str, Any]:
+    data = load_json(CSV_RUN_INDEX_FILE, {"runs": []})
+    if not isinstance(data, dict):
+        data = {"runs": []}
+    if not isinstance(data.get("runs"), list):
+        data["runs"] = []
+    return data
+
+
+def save_run_index(data: dict[str, Any]) -> None:
+    save_json(CSV_RUN_INDEX_FILE, data)
+
+
+def csv_file_info(path: Path) -> dict[str, Any]:
+    stat = path.stat()
+    row_count = 0
+    headers: list[str] = []
+
+    try:
+        with path.open("r", encoding="utf-8", newline="") as f:
+            reader = csv.reader(f)
+            headers = next(reader, [])
+            row_count = sum(1 for _ in reader)
+    except Exception:
+        pass
+
+    run_id = path.parent.name
+    return {
+        "filename": path.name,
+        "size_bytes": stat.st_size,
+        "modified_at": datetime.fromtimestamp(stat.st_mtime).isoformat(timespec="seconds"),
+        "row_count": row_count,
+        "headers": headers,
+        "download_url": f"/outputs/csv_runs/{run_id}/{path.name}",
+    }
+
+
+def recent_runs_for_script(script_filename: str, limit: int = 20) -> list[dict[str, Any]]:
+    runs = [
+        run for run in load_run_index().get("runs", [])
+        if isinstance(run, dict) and run.get("script_filename") == script_filename
+    ]
+
+    refreshed: list[dict[str, Any]] = []
+    for run in reversed(runs[-limit:]):
+        run_copy = dict(run)
+        if run_copy.get("save_csv") and run_copy.get("run_dir"):
+            run_dir = Path(run_copy["run_dir"])
+            if run_dir.exists():
+                run_copy["csv_files"] = [
+                    csv_file_info(path)
+                    for path in sorted(run_dir.glob("*.csv"))
+                ]
+        refreshed.append(run_copy)
+
+    return refreshed
+
 
 
 def default_tree() -> dict[str, Any]:
@@ -149,6 +212,7 @@ def script_info(filename: str) -> dict[str, Any]:
         "view_url": f"/script/{path.name}",
         "download_url": f"/outputs/scripts/{path.name}",
         "run_url": f"/run/{path.name}",
+        "csv_run_count": len(recent_runs_for_script(path.name)),
     }
 
 
@@ -182,7 +246,16 @@ def script_page(filename: str):
 
 @app.route("/api/data-location", methods=["GET"])
 def api_data_location():
-    return jsonify({"ok": True, "shared_data_dir": str(SHARED_DATA_DIR), "scripts_dir": str(SCRIPTS_DIR), "tree_file": str(TREE_FILE)})
+    return jsonify({
+        "ok": True,
+        "shared_data_dir": str(SHARED_DATA_DIR),
+        "scripts_dir": str(SCRIPTS_DIR),
+        "metadata_dir": str(METADATA_DIR),
+        "logs_dir": str(LOGS_DIR),
+        "csv_runs_dir": str(CSV_RUNS_DIR),
+        "tree_file": str(TREE_FILE),
+        "csv_run_index_file": str(CSV_RUN_INDEX_FILE),
+    })
 
 
 @app.route("/api/tree", methods=["GET"])
@@ -347,20 +420,313 @@ def api_update_script(filename: str):
         return jsonify({"ok": False, "error": str(exc)}), 500
 
 
+RUN_PAGE_HTML = """
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Run Simulation</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="/static/styles.css">
+  <style>
+    .run-layout { padding: 24px 34px 60px; }
+    .run-card { max-width: 900px; }
+    .checkline { display: flex; gap: 8px; align-items: center; font-weight: 500; margin: 14px 0; }
+    .run-card code { background: #f3f4f6; padding: 2px 5px; border-radius: 6px; }
+    .run-result-card { border: 1px solid #e5e7eb; background: #fbfdff; border-radius: 14px; padding: 14px; margin: 12px 0; }
+    .run-result-card h3 { margin: 0 0 8px; }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div>
+      <h1>Run Simulation</h1>
+      <p>{{ filename }}</p>
+    </div>
+    <nav>
+      <a href="/">Tree</a>
+      <a href="/script/{{ filename }}">Edit script</a>
+      <a href="/outputs/scripts/{{ filename }}">Download script</a>
+    </nav>
+  </header>
+
+  <main class="run-layout">
+    <section class="panel run-card">
+      <h2>Run options</h2>
+      <p class="small">
+        The main script is assumed to support CSV output when these environment variables are provided:
+        <code>SIMULATION_CSV_OUTPUT_DIR</code>,
+        <code>SIMULATION_CSV_RUN_ID</code>,
+        <code>SIMULATION_CSV_RUN_SECONDS</code>.
+      </p>
+
+      <label class="checkline">
+        <input id="saveCsvCheck" type="checkbox" checked>
+        Save CSV output for this run
+      </label>
+
+      <label for="runSeconds">Run seconds</label>
+      <input id="runSeconds" type="number" min="1" value="60">
+
+      <div class="actions">
+        <button id="runBtn">Run simulation</button>
+      </div>
+
+      <p id="runStatus" class="status"></p>
+
+      <h2>Started run</h2>
+      <div id="runResult"></div>
+
+      <hr>
+
+      <h2>Recent runs</h2>
+      <div id="recentRuns" class="cards"></div>
+    </section>
+  </main>
+
+  <script>
+    const filename = {{ filename_json|safe }};
+
+    function setStatus(message, isError = false) {
+      const el = document.getElementById("runStatus");
+      el.textContent = message || "";
+      el.classList.toggle("error", isError);
+    }
+
+    function makeLink(href, text, target = "_blank") {
+      const a = document.createElement("a");
+      a.href = href;
+      a.textContent = text;
+      if (target) a.target = target;
+      return a;
+    }
+
+    async function fetchJson(url, options = {}) {
+      const res = await fetch(url, options);
+      const data = await res.json();
+      if (!data.ok) throw new Error(data.error || "Request failed.");
+      return data;
+    }
+
+    function renderRunCard(run) {
+      const card = document.createElement("article");
+      card.className = "run-result-card";
+
+      const h = document.createElement("h3");
+      h.textContent = run.run_id || "Run";
+      card.appendChild(h);
+
+      const meta = document.createElement("p");
+      meta.className = "meta";
+      meta.textContent = `save_csv=${run.save_csv} • run_seconds=${run.run_seconds} • pid=${run.pid || ""} • ${run.started_at || ""}`;
+      card.appendChild(meta);
+
+      if (run.log_url) {
+        const p = document.createElement("p");
+        p.appendChild(makeLink(run.log_url, "Open log"));
+        card.appendChild(p);
+      }
+
+      if (run.run_dir) {
+        const p = document.createElement("p");
+        p.className = "meta";
+        p.textContent = `CSV output directory: ${run.run_dir}`;
+        card.appendChild(p);
+      }
+
+      if (run.csv_files && run.csv_files.length) {
+        for (const csv of run.csv_files) {
+          const p = document.createElement("p");
+          p.append(
+            makeLink(csv.download_url, csv.filename),
+            document.createTextNode(` • ${csv.row_count || 0} rows • ${csv.size_bytes || 0} bytes`)
+          );
+          card.appendChild(p);
+        }
+      }
+
+      return card;
+    }
+
+    function renderRecent(runs) {
+      const box = document.getElementById("recentRuns");
+      box.innerHTML = "";
+
+      if (!runs || !runs.length) {
+        box.textContent = "No recent indexed runs.";
+        return;
+      }
+
+      for (const run of runs) {
+        box.appendChild(renderRunCard(run));
+      }
+    }
+
+    async function loadRecent() {
+      const data = await fetchJson(`/api/runs?script=${encodeURIComponent(filename)}`);
+      renderRecent(data.items || []);
+    }
+
+    async function runSimulation() {
+      try {
+        setStatus("Starting simulation process...");
+        document.getElementById("runBtn").disabled = true;
+
+        const data = await fetchJson(`/api/run/${encodeURIComponent(filename)}`, {
+          method: "POST",
+          headers: {"Content-Type": "application/json"},
+          body: JSON.stringify({
+            save_csv: document.getElementById("saveCsvCheck").checked,
+            run_seconds: Number(document.getElementById("runSeconds").value || 60)
+          })
+        });
+
+        const box = document.getElementById("runResult");
+        box.innerHTML = "";
+        box.appendChild(renderRunCard(data.run));
+        setStatus("Simulation process started.");
+        await loadRecent();
+      } catch (error) {
+        setStatus(error.message, true);
+      } finally {
+        document.getElementById("runBtn").disabled = false;
+      }
+    }
+
+    document.getElementById("runBtn").addEventListener("click", runSimulation);
+    loadRecent().catch(error => setStatus(error.message, true));
+  </script>
+</body>
+</html>
+"""
+
+
 @app.route("/run/<path:filename>", methods=["GET"])
-def run_script(filename: str):
+def run_script_page(filename: str):
     try:
         script_path = safe_resolve(SCRIPTS_DIR, filename)
         if not script_path.exists():
             return f"Script not found: {filename}", 404
-        log_path = LOGS_DIR / f"{script_path.stem}-{uuid.uuid4().hex[:6]}.log"
-        with log_path.open("w", encoding="utf-8") as log:
-            log.write(f"Running: {script_path}\nStarted: {now_iso()}\n\n")
-            log.flush()
-            process = subprocess.Popen([sys.executable, str(script_path)], cwd=str(SCRIPTS_DIR), stdout=log, stderr=subprocess.STDOUT, start_new_session=True)
-        return render_template("run.html", filename=script_path.name, pid=process.pid, log_filename=log_path.name)
+        return render_template_string(
+            RUN_PAGE_HTML,
+            filename=script_path.name,
+            filename_json=json.dumps(script_path.name),
+        )
     except Exception as exc:
-        return f"Run failed: {exc}", 500
+        return f"Run page failed: {exc}", 500
+
+
+@app.route("/api/run/<path:filename>", methods=["POST"])
+def api_run_script(filename: str):
+    try:
+        script_path = safe_resolve(SCRIPTS_DIR, filename)
+        if not script_path.exists():
+            return jsonify({"ok": False, "error": f"Script not found: {filename}"}), 404
+
+        payload = request.get_json(force=True) or {}
+        save_csv = bool(payload.get("save_csv", False))
+        run_seconds = int(float(payload.get("run_seconds", 60) or 60))
+
+        run_id = f"{datetime.now().strftime('%Y%m%d-%H%M%S')}-{slugify(script_path.stem, 40)}-{uuid.uuid4().hex[:6]}"
+
+        if save_csv:
+            run_dir = CSV_RUNS_DIR / run_id
+            log_url = f"/outputs/csv_runs/{run_id}/{run_id}.log"
+        else:
+            run_dir = LOGS_DIR / "non_csv_runs"
+            log_url = f"/outputs/logs/non_csv_runs/{run_id}.log"
+
+        run_dir.mkdir(parents=True, exist_ok=True)
+        log_path = run_dir / f"{run_id}.log"
+
+        env = os.environ.copy()
+        env["SIMULATION_CSV_RUN_SECONDS"] = str(run_seconds)
+
+        if save_csv:
+            env["SIMULATION_CSV_OUTPUT_DIR"] = str(run_dir)
+            env["SIMULATION_CSV_RUN_ID"] = run_id
+        else:
+            env.pop("SIMULATION_CSV_OUTPUT_DIR", None)
+            env.pop("SIMULATION_CSV_RUN_ID", None)
+
+        with log_path.open("w", encoding="utf-8") as log:
+            log.write(f"Running: {script_path}\\n")
+            log.write(f"Started: {now_iso()}\\n")
+            log.write(f"Run ID: {run_id}\\n")
+            log.write(f"Save CSV: {save_csv}\\n")
+            log.write(f"Run seconds: {run_seconds}\\n")
+            if save_csv:
+                log.write(f"CSV output directory: {run_dir}\\n")
+            log.write("\\n")
+            log.flush()
+
+            process = subprocess.Popen(
+                [sys.executable, str(script_path)],
+                cwd=str(SCRIPTS_DIR),
+                stdout=log,
+                stderr=subprocess.STDOUT,
+                start_new_session=True,
+                env=env,
+            )
+
+        record = {
+            "run_id": run_id,
+            "script_filename": script_path.name,
+            "save_csv": save_csv,
+            "run_seconds": run_seconds,
+            "started_at": now_iso(),
+            "pid": process.pid,
+            "run_dir": str(run_dir) if save_csv else "",
+            "log_path": str(log_path),
+            "log_url": log_url,
+            "csv_files": [],
+        }
+
+        index = load_run_index()
+        index.setdefault("runs", []).append(record)
+        save_run_index(index)
+
+        return jsonify({"ok": True, "run": record})
+    except Exception as exc:
+        return jsonify({"ok": False, "error": str(exc)}), 500
+
+
+@app.route("/api/runs", methods=["GET"])
+def api_runs():
+    try:
+        script_filename = request.args.get("script", "").strip()
+        runs = load_run_index().get("runs", [])
+
+        if script_filename:
+            runs = [
+                run for run in runs
+                if isinstance(run, dict) and run.get("script_filename") == script_filename
+            ]
+
+        refreshed: list[dict[str, Any]] = []
+        for run in runs:
+            if not isinstance(run, dict):
+                continue
+            run_copy = dict(run)
+            if run_copy.get("save_csv") and run_copy.get("run_dir"):
+                run_dir = Path(run_copy["run_dir"])
+                if run_dir.exists():
+                    run_copy["csv_files"] = [
+                        csv_file_info(path)
+                        for path in sorted(run_dir.glob("*.csv"))
+                    ]
+            refreshed.append(run_copy)
+
+        return jsonify({"ok": True, "items": list(reversed(refreshed))})
+    except Exception as exc:
+        return jsonify({"ok": False, "error": str(exc)}), 500
+
+
+
+
+@app.route("/outputs/csv_runs/<path:filename>", methods=["GET"])
+def download_csv_run_file(filename: str):
+    return send_from_directory(CSV_RUNS_DIR, filename, as_attachment=False)
 
 
 @app.route("/outputs/scripts/<path:filename>", methods=["GET"])

@@ -1,0 +1,12 @@
+{
+  "status": "finished",
+  "run_id": "20260526-200419-sentence-script-starting-from-a-single-c-d95744",
+  "started_at": "2026-05-26T20:04:20",
+  "updated_at": "2026-05-26T20:05:57",
+  "csv_path": "/Users/b/phoenix/code/simulation_shared_data/csv_runs/20260526-200419-sentence-script-starting-from-a-single-c-d95744/20260526-200419-sentence-script-starting-from-a-single-c-d95744_cell_colony_growth.csv",
+  "run_seconds": 60.0,
+  "sample_hz": 5.0,
+  "rows_written": 301,
+  "simulation": "3D Cell Colony Growing and Packing - AI Controlled",
+  "vpython": true
+}

@@ -1,6 +1,12 @@
 from vpython import *
 import random
 import math
+import os
+import csv
+import json
+import time
+from pathlib import Path
+from datetime import datetime
 
 # ------------------------------------------------------------
 # 3D Cell Cycle Clock with Growing Cell + Expressive AI Controller
@@ -1109,6 +1115,272 @@ class AIController:
         )
         self.mode_label.color = mix_color(self.sim.phase_colors[self.sim.current_phase], vector(0.05, 0.22, 0.30), 0.58)
 
+
+# ------------------------------
+# CSV logging for core sentence branching web app
+# ------------------------------
+
+def _env_float(name, default_value):
+    raw = os.environ.get(name, "")
+    try:
+        return float(raw) if raw not in ("", None) else float(default_value)
+    except (TypeError, ValueError):
+        return float(default_value)
+
+def _env_int(name, default_value):
+    raw = os.environ.get(name, "")
+    try:
+        return int(float(raw)) if raw not in ("", None) else int(default_value)
+    except (TypeError, ValueError):
+        return int(default_value)
+
+def _vec_dict(v):
+    return {
+        "x": round(float(v.x), 6),
+        "y": round(float(v.y), 6),
+        "z": round(float(v.z), 6),
+    }
+
+def _vec_str(v):
+    d = _vec_dict(v)
+    return f'{d["x"]},{d["y"]},{d["z"]}'
+
+class CSVSimulationLogger:
+    """
+    CSV logger compatible with the core sentence branching / CSV storage web app.
+
+    Web app environment variables:
+    - SIMULATION_CSV_OUTPUT_DIR: directory where CSV output should be written
+    - SIMULATION_CSV_RUN_ID: unique run identifier used in the output filename
+    - SIMULATION_CSV_RUN_SECONDS: maximum wall-clock run duration, defaults to 60
+    - SIMULATION_CSV_SAMPLE_HZ: optional sample rate, defaults to 10 rows/second
+
+    Fallback:
+    - SIM_STATE_CSV_PATH is used only when SIMULATION_CSV_OUTPUT_DIR is not provided.
+    """
+
+    def __init__(self, sim, ai):
+        self.sim = sim
+        self.ai = ai
+
+        self.run_id = os.environ.get("SIMULATION_CSV_RUN_ID") or datetime.now().strftime("run_%Y%m%d_%H%M%S")
+        self.run_seconds = max(0.1, _env_float("SIMULATION_CSV_RUN_SECONDS", 60.0))
+        self.sample_hz = max(0.1, _env_float("SIMULATION_CSV_SAMPLE_HZ", 10.0))
+        self.sample_interval = 1.0 / self.sample_hz
+        self.next_sample_time = 0.0
+        self.row_index = 0
+
+        output_dir = os.environ.get("SIMULATION_CSV_OUTPUT_DIR")
+        fallback_csv = os.environ.get("SIM_STATE_CSV_PATH")
+
+        if output_dir:
+            out_dir = Path(output_dir).expanduser()
+            out_dir.mkdir(parents=True, exist_ok=True)
+            self.csv_path = out_dir / f"{self.run_id}_cell_cycle_clock.csv"
+        elif fallback_csv:
+            self.csv_path = Path(fallback_csv).expanduser()
+            self.csv_path.parent.mkdir(parents=True, exist_ok=True)
+        else:
+            self.csv_path = Path.cwd() / f"{self.run_id}_cell_cycle_clock.csv"
+
+        self.fieldnames = [
+            "run_id",
+            "row_index",
+            "timestamp_iso",
+            "wall_elapsed_s",
+            "configured_run_seconds",
+            "round_index",
+            "cycle_time",
+            "total_duration",
+            "current_phase",
+            "current_phase_progress",
+            "completed",
+            "paused",
+            "human_speed",
+            "ai_speed",
+            "combined_speed",
+            "current_radius",
+            "cell_body_count",
+            "parent_visible",
+            "parent_pos",
+            "parent_radius",
+            "parent_opacity",
+            "nucleus_visible",
+            "nucleus_pos",
+            "nucleus_radius",
+            "nucleus_opacity",
+            "daughter_left_visible",
+            "daughter_left_pos",
+            "daughter_left_radius",
+            "daughter_left_opacity",
+            "daughter_right_visible",
+            "daughter_right_pos",
+            "daughter_right_radius",
+            "daughter_right_opacity",
+            "cleavage_groove_visible",
+            "cleavage_groove_radius",
+            "cleavage_groove_opacity",
+            "dna_count",
+            "duplicated_dna_visible_count",
+            "dna_avg_distance_from_cell_center",
+            "free_particle_count",
+            "attached_particle_count",
+            "particle_behavior_counts_json",
+            "particle_avg_y",
+            "particle_avg_speed",
+            "ai_enabled",
+            "ai_paused",
+            "ai_mode",
+            "ai_previous_mode",
+            "ai_mode_timer",
+            "ai_mode_duration",
+            "ai_stagnation_timer",
+            "ai_completion_timer",
+            "ai_helper_pos",
+            "ai_override_timer",
+            "clock_pointer_tip_pos",
+        ]
+
+        self.file = self.csv_path.open("w", newline="", encoding="utf-8")
+        self.writer = csv.DictWriter(self.file, fieldnames=self.fieldnames)
+        self.writer.writeheader()
+        self.file.flush()
+
+        self.metadata_path = self.csv_path.with_suffix(".metadata.json")
+        self.metadata_path.write_text(json.dumps({
+            "run_id": self.run_id,
+            "csv_path": str(self.csv_path),
+            "configured_run_seconds": self.run_seconds,
+            "sample_hz": self.sample_hz,
+            "source": "cell_cycle_clock_vpython_csv_logger",
+            "created_at": datetime.now().isoformat(timespec="seconds"),
+            "environment": {
+                "SIMULATION_CSV_OUTPUT_DIR": output_dir,
+                "SIMULATION_CSV_RUN_ID": os.environ.get("SIMULATION_CSV_RUN_ID"),
+                "SIMULATION_CSV_RUN_SECONDS": os.environ.get("SIMULATION_CSV_RUN_SECONDS"),
+                "SIMULATION_CSV_SAMPLE_HZ": os.environ.get("SIMULATION_CSV_SAMPLE_HZ"),
+                "SIM_STATE_CSV_PATH": fallback_csv,
+            },
+        }, indent=2), encoding="utf-8")
+
+    def should_stop(self, wall_elapsed_s):
+        return wall_elapsed_s >= self.run_seconds
+
+    def maybe_log(self, wall_elapsed_s):
+        if wall_elapsed_s + 1e-9 < self.next_sample_time:
+            return
+        self.log_row(wall_elapsed_s)
+        self.next_sample_time += self.sample_interval
+
+    def log_row(self, wall_elapsed_s):
+        sim = self.sim
+        ai = self.ai
+
+        bodies = sim.get_cell_bodies()
+        particle_count = len(sim.free_particles)
+        attached_count = 0
+        behavior_counts = {}
+        y_total = 0.0
+        speed_total = 0.0
+
+        for p in sim.free_particles:
+            behavior = p.get("behavior", "unknown")
+            behavior_counts[behavior] = behavior_counts.get(behavior, 0) + 1
+            if p.get("attached"):
+                attached_count += 1
+            obj = p.get("obj")
+            if obj is not None:
+                y_total += float(obj.pos.y)
+            speed_total += float(mag(p.get("vel", vector(0, 0, 0))))
+
+        duplicated_visible = 0
+        dna_dist_total = 0.0
+        visible_dna_points = 0
+        for d in sim.dna:
+            a = d.get("a")
+            b = d.get("b")
+            if a is not None and getattr(a, "visible", False):
+                dna_dist_total += float(mag(a.pos - sim.cell_base))
+                visible_dna_points += 1
+            if b is not None and getattr(b, "visible", False) and getattr(b, "opacity", 0.0) > 0.05:
+                duplicated_visible += 1
+                dna_dist_total += float(mag(b.pos - sim.cell_base))
+                visible_dna_points += 1
+
+        row = {
+            "run_id": self.run_id,
+            "row_index": self.row_index,
+            "timestamp_iso": datetime.now().isoformat(timespec="milliseconds"),
+            "wall_elapsed_s": round(float(wall_elapsed_s), 4),
+            "configured_run_seconds": round(float(self.run_seconds), 4),
+            "round_index": sim.round_index,
+            "cycle_time": round(float(sim.cycle_time), 4),
+            "total_duration": round(float(sim.total_duration), 4),
+            "current_phase": sim.current_phase,
+            "current_phase_progress": round(float(sim.current_phase_progress), 6),
+            "completed": int(bool(sim.completed)),
+            "paused": int(bool(sim.paused)),
+            "human_speed": round(float(sim.human_speed), 4),
+            "ai_speed": round(float(sim.ai_speed), 4),
+            "combined_speed": round(float(sim.human_speed * sim.ai_speed), 4),
+            "current_radius": round(float(sim.current_radius), 6),
+            "cell_body_count": len(bodies),
+            "parent_visible": int(bool(sim.parent_cell.visible)),
+            "parent_pos": _vec_str(sim.parent_cell.pos),
+            "parent_radius": round(float(sim.parent_cell.radius), 6),
+            "parent_opacity": round(float(sim.parent_cell.opacity), 6),
+            "nucleus_visible": int(bool(sim.nucleus.visible)),
+            "nucleus_pos": _vec_str(sim.nucleus.pos),
+            "nucleus_radius": round(float(sim.nucleus.radius), 6),
+            "nucleus_opacity": round(float(sim.nucleus.opacity), 6),
+            "daughter_left_visible": int(bool(sim.daughter_left.visible)),
+            "daughter_left_pos": _vec_str(sim.daughter_left.pos),
+            "daughter_left_radius": round(float(sim.daughter_left.radius), 6),
+            "daughter_left_opacity": round(float(sim.daughter_left.opacity), 6),
+            "daughter_right_visible": int(bool(sim.daughter_right.visible)),
+            "daughter_right_pos": _vec_str(sim.daughter_right.pos),
+            "daughter_right_radius": round(float(sim.daughter_right.radius), 6),
+            "daughter_right_opacity": round(float(sim.daughter_right.opacity), 6),
+            "cleavage_groove_visible": int(bool(sim.cleavage_groove.visible)),
+            "cleavage_groove_radius": round(float(sim.cleavage_groove.radius), 6),
+            "cleavage_groove_opacity": round(float(sim.cleavage_groove.opacity), 6),
+            "dna_count": len(sim.dna),
+            "duplicated_dna_visible_count": duplicated_visible,
+            "dna_avg_distance_from_cell_center": round(dna_dist_total / max(1, visible_dna_points), 6),
+            "free_particle_count": particle_count,
+            "attached_particle_count": attached_count,
+            "particle_behavior_counts_json": json.dumps(behavior_counts, sort_keys=True),
+            "particle_avg_y": round(y_total / max(1, particle_count), 6),
+            "particle_avg_speed": round(speed_total / max(1, particle_count), 6),
+            "ai_enabled": int(bool(ai.enabled)),
+            "ai_paused": int(bool(ai.paused)),
+            "ai_mode": ai.mode,
+            "ai_previous_mode": ai.previous_mode,
+            "ai_mode_timer": round(float(ai.mode_timer), 4),
+            "ai_mode_duration": round(float(ai.mode_duration), 4),
+            "ai_stagnation_timer": round(float(ai.stagnation_timer), 4),
+            "ai_completion_timer": round(float(ai.completion_timer), 4),
+            "ai_helper_pos": _vec_str(ai.helper.pos),
+            "ai_override_timer": round(float(ai.override_timer), 4),
+            "clock_pointer_tip_pos": _vec_str(sim.clock_pointer_tip.pos),
+        }
+
+        self.writer.writerow(row)
+        self.row_index += 1
+
+        if self.row_index % max(1, int(self.sample_hz)) == 0:
+            self.file.flush()
+
+    def close(self):
+        try:
+            self.file.flush()
+            self.file.close()
+        except Exception:
+            pass
+        print(f"CSV log saved: {self.csv_path}")
+        print(f"CSV metadata saved: {self.metadata_path}")
+
+
 # ------------------------------
 # Instantiate
 # ------------------------------
@@ -1191,14 +1463,26 @@ def handle_held_keys(dt):
 # ------------------------------
 
 dt = 1 / 60
+csv_logger = CSVSimulationLogger(sim, ai)
+wall_start = time.monotonic()
 
-while True:
-    rate(60)
+try:
+    while True:
+        rate(60)
 
-    handle_held_keys(dt)
+        wall_elapsed = time.monotonic() - wall_start
 
-    advance_cycle = not sim.paused
-    advance_particles = not sim.paused or (ai.enabled and not ai.paused)
+        handle_held_keys(dt)
 
-    ai.update(dt)
-    sim.update(dt, advance_cycle=advance_cycle, advance_particles=advance_particles)
+        advance_cycle = not sim.paused
+        advance_particles = not sim.paused or (ai.enabled and not ai.paused)
+
+        ai.update(dt)
+        sim.update(dt, advance_cycle=advance_cycle, advance_particles=advance_particles)
+
+        csv_logger.maybe_log(wall_elapsed)
+
+        if csv_logger.should_stop(wall_elapsed):
+            break
+finally:
+    csv_logger.close()

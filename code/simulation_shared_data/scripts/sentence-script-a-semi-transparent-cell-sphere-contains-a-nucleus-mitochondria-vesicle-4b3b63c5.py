@@ -1,6 +1,12 @@
 from vpython import *
 import random
 import math
+import os
+import csv
+import json
+import atexit
+from pathlib import Path
+from datetime import datetime, timezone
 
 # 3D Cell with organelles, vesicle motion, cytoplasmic flow, collisions, trails, labels,
 # and an expressive AI controller with behavior modes, state-machine switching,
@@ -1001,12 +1007,244 @@ def keydown(evt):
 
 scene.bind("keydown", keydown)
 
+
+
+# ============================================================
+# CSV logging support for core sentence branching web app
+# ============================================================
+# The simulation still runs visibly in VPython. The CSV logger samples
+# high-level state during the rendered loop and writes one CSV row per sample.
+# Environment variables supported by the web app:
+#   SIMULATION_CSV_OUTPUT_DIR   directory where CSV/metadata should be written
+#   SIMULATION_CSV_RUN_ID       unique run id used in filenames
+#   SIMULATION_CSV_RUN_SECONDS  run duration; defaults to 60 seconds
+#   SIMULATION_CSV_SAMPLE_HZ    sampling rate; defaults to 10 Hz
+# Fallback:
+#   SIM_STATE_CSV_PATH          explicit CSV path when no output dir is provided
+
+CSV_RUN_ID = os.environ.get("SIMULATION_CSV_RUN_ID", datetime.now(timezone.utc).strftime("run_%Y%m%dT%H%M%SZ"))
+CSV_RUN_SECONDS = float(os.environ.get("SIMULATION_CSV_RUN_SECONDS", "60"))
+CSV_SAMPLE_HZ = max(0.1, float(os.environ.get("SIMULATION_CSV_SAMPLE_HZ", "10")))
+CSV_SAMPLE_INTERVAL = 1.0 / CSV_SAMPLE_HZ
+_csv_output_dir = os.environ.get("SIMULATION_CSV_OUTPUT_DIR")
+_csv_fallback_path = os.environ.get("SIM_STATE_CSV_PATH")
+
+if _csv_output_dir:
+    CSV_OUTPUT_DIR = Path(_csv_output_dir)
+    CSV_OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    CSV_PATH = CSV_OUTPUT_DIR / f"{CSV_RUN_ID}_cell_organelles_vpython.csv"
+    CSV_META_PATH = CSV_OUTPUT_DIR / f"{CSV_RUN_ID}_cell_organelles_vpython_metadata.json"
+elif _csv_fallback_path:
+    CSV_PATH = Path(_csv_fallback_path)
+    CSV_PATH.parent.mkdir(parents=True, exist_ok=True)
+    CSV_META_PATH = CSV_PATH.with_suffix(".metadata.json")
+else:
+    CSV_OUTPUT_DIR = Path.cwd()
+    CSV_PATH = CSV_OUTPUT_DIR / f"{CSV_RUN_ID}_cell_organelles_vpython.csv"
+    CSV_META_PATH = CSV_OUTPUT_DIR / f"{CSV_RUN_ID}_cell_organelles_vpython_metadata.json"
+
+CSV_FIELDS = [
+    "run_id",
+    "sample_index",
+    "wall_time_iso",
+    "sim_time",
+    "round",
+    "paused",
+    "ai_enabled",
+    "ai_mode",
+    "ai_mode_timer",
+    "ai_stable_time",
+    "selected_index",
+    "human_override_active",
+    "vesicle_count",
+    "attached_count",
+    "cargo_count",
+    "avg_vesicle_speed",
+    "max_vesicle_speed",
+    "vesicle_centroid_x",
+    "vesicle_centroid_y",
+    "vesicle_centroid_z",
+    "selected_x",
+    "selected_y",
+    "selected_z",
+    "selected_speed",
+    "selected_attached",
+    "selected_cargo",
+    "mark_count",
+    "marked_organelle_count",
+    "nucleus_marks",
+    "mitochondrion_marks",
+    "spill_count",
+    "wrap_count",
+    "marker_count",
+    "flow_particle_count",
+    "ribosome_count",
+    "completion",
+]
+
+_csv_file = open(CSV_PATH, "w", newline="", encoding="utf-8")
+_csv_writer = csv.DictWriter(_csv_file, fieldnames=CSV_FIELDS)
+_csv_writer.writeheader()
+_csv_file.flush()
+_csv_sample_index = 0
+_csv_last_sample_time = -1e9
+_csv_closed = False
+_csv_started_at = datetime.now(timezone.utc)
+
+
+def _vec_components(v):
+    return (float(v.x), float(v.y), float(v.z))
+
+
+def _compute_vesicle_summary():
+    if not vesicles:
+        return {
+            "centroid": vector(0, 0, 0),
+            "attached": 0,
+            "cargo": 0,
+            "avg_speed": 0.0,
+            "max_speed": 0.0,
+        }
+    centroid = vector(0, 0, 0)
+    speeds = []
+    attached = 0
+    cargo = 0
+    for v in vesicles:
+        centroid += v.obj.pos
+        speeds.append(mag(v.vel))
+        if v.attached_to is not None:
+            attached += 1
+        if v.cargo:
+            cargo += 1
+    centroid /= len(vesicles)
+    return {
+        "centroid": centroid,
+        "attached": attached,
+        "cargo": cargo,
+        "avg_speed": sum(speeds) / max(1, len(speeds)),
+        "max_speed": max(speeds) if speeds else 0.0,
+    }
+
+
+def _csv_snapshot_row():
+    summary = _compute_vesicle_summary()
+    centroid_x, centroid_y, centroid_z = _vec_components(summary["centroid"])
+
+    selected = vesicles[selected_index] if vesicles and 0 <= selected_index < len(vesicles) else None
+    if selected is not None:
+        selected_x, selected_y, selected_z = _vec_components(selected.obj.pos)
+        selected_speed = mag(selected.vel)
+        selected_attached = selected.attached_to is not None
+        selected_cargo = selected.cargo
+    else:
+        selected_x = selected_y = selected_z = selected_speed = 0.0
+        selected_attached = False
+        selected_cargo = False
+
+    mark_count = sum(o["marks"] for o in organelles)
+    marked_organelle_count = sum(1 for o in organelles if o["marks"] > 0)
+    nucleus_marks = sum(o["marks"] for o in organelles if o["kind"] == "nucleus")
+    mitochondrion_marks = sum(o["marks"] for o in organelles if o["kind"] == "mitochondrion")
+    completion = bool(marked_organelle_count >= len(organelles) and mark_count >= len(organelles))
+
+    return {
+        "run_id": CSV_RUN_ID,
+        "sample_index": _csv_sample_index,
+        "wall_time_iso": datetime.now(timezone.utc).isoformat(),
+        "sim_time": round(sim_time, 6),
+        "round": getattr(ai, "round", 0),
+        "paused": bool(paused),
+        "ai_enabled": bool(getattr(ai, "enabled", False)),
+        "ai_mode": getattr(ai, "mode", ""),
+        "ai_mode_timer": round(getattr(ai, "mode_timer", 0.0), 6),
+        "ai_stable_time": round(getattr(ai, "stable_time", 0.0), 6),
+        "selected_index": selected_index,
+        "human_override_active": bool(sim_time < human_override_until),
+        "vesicle_count": len(vesicles),
+        "attached_count": summary["attached"],
+        "cargo_count": summary["cargo"],
+        "avg_vesicle_speed": round(summary["avg_speed"], 6),
+        "max_vesicle_speed": round(summary["max_speed"], 6),
+        "vesicle_centroid_x": round(centroid_x, 6),
+        "vesicle_centroid_y": round(centroid_y, 6),
+        "vesicle_centroid_z": round(centroid_z, 6),
+        "selected_x": round(selected_x, 6),
+        "selected_y": round(selected_y, 6),
+        "selected_z": round(selected_z, 6),
+        "selected_speed": round(selected_speed, 6),
+        "selected_attached": bool(selected_attached),
+        "selected_cargo": bool(selected_cargo),
+        "mark_count": mark_count,
+        "marked_organelle_count": marked_organelle_count,
+        "nucleus_marks": nucleus_marks,
+        "mitochondrion_marks": mitochondrion_marks,
+        "spill_count": len(spill_particles),
+        "wrap_count": len(wraps),
+        "marker_count": len(markers),
+        "flow_particle_count": len(flow_particles),
+        "ribosome_count": len(ribosomes),
+        "completion": completion,
+    }
+
+
+def log_csv_sample(force=False):
+    global _csv_sample_index, _csv_last_sample_time
+    if _csv_closed:
+        return
+    if not force and sim_time - _csv_last_sample_time < CSV_SAMPLE_INTERVAL:
+        return
+    _csv_writer.writerow(_csv_snapshot_row())
+    _csv_file.flush()
+    _csv_sample_index += 1
+    _csv_last_sample_time = sim_time
+
+
+def close_csv_logger(reason="normal"):
+    global _csv_closed
+    if _csv_closed:
+        return
+    try:
+        log_csv_sample(force=True)
+    except Exception:
+        pass
+    metadata = {
+        "run_id": CSV_RUN_ID,
+        "script": "cell_organelles_vpython_full_csv.py",
+        "source_description": "3D Cell with organelles, vesicle motion, cytoplasmic flow, collisions, trails, labels, and expressive AI controller",
+        "csv_path": str(CSV_PATH),
+        "metadata_path": str(CSV_META_PATH),
+        "started_at": _csv_started_at.isoformat(),
+        "ended_at": datetime.now(timezone.utc).isoformat(),
+        "stop_reason": reason,
+        "configured_run_seconds": CSV_RUN_SECONDS,
+        "sample_hz": CSV_SAMPLE_HZ,
+        "sample_count": _csv_sample_index,
+        "fields": CSV_FIELDS,
+        "environment": {
+            "SIMULATION_CSV_OUTPUT_DIR": _csv_output_dir,
+            "SIMULATION_CSV_RUN_ID": CSV_RUN_ID,
+            "SIMULATION_CSV_RUN_SECONDS": CSV_RUN_SECONDS,
+            "SIMULATION_CSV_SAMPLE_HZ": CSV_SAMPLE_HZ,
+            "SIM_STATE_CSV_PATH": _csv_fallback_path,
+        },
+    }
+    try:
+        CSV_META_PATH.write_text(json.dumps(metadata, indent=2), encoding="utf-8")
+    finally:
+        _csv_file.flush()
+        _csv_file.close()
+        _csv_closed = True
+
+
+atexit.register(close_csv_logger)
+
 # Start with a few visible initial interactions
 for v in random.sample(vesicles, 4):
     v.attach(random.choice(organelles), random.uniform(2.0, 5.5))
 for o in random.sample(organelles, 2):
     create_mark(o, o["obj"].pos + random_unit() * (o["radius"] + 0.2), vector(0.22, 0.94, 0.86))
 wrap_target(organelles[0], vector(0.80, 0.87, 1.0), life=5.0)
+log_csv_sample(force=True)
 
 while True:
     rate(60)
@@ -1034,3 +1272,8 @@ while True:
     update_spills_and_wraps(DT, sim_time)
     update_ribosomes_and_organelles(DT, sim_time)
     update_labels()
+    log_csv_sample()
+
+    if CSV_RUN_SECONDS > 0 and sim_time >= CSV_RUN_SECONDS:
+        close_csv_logger(reason="duration_reached")
+        break

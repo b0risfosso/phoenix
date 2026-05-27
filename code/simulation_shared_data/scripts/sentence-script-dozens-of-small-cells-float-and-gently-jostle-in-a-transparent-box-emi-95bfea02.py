@@ -1,6 +1,10 @@
 from vpython import *
 import random
 import math
+import csv
+import os
+import json
+from datetime import datetime
 from collections import deque
 
 # ============================================================
@@ -108,6 +112,204 @@ MODE_COLORS = {
     "chaos": vector(1.00, 0.43, 0.20),
     "calm": vector(0.70, 0.86, 1.00),
 }
+
+
+# -----------------------------
+# CSV logging configuration
+# -----------------------------
+def _env_float(name, default):
+    try:
+        return float(os.environ.get(name, str(default)))
+    except (TypeError, ValueError):
+        return float(default)
+
+CSV_RUN_SECONDS = max(0.0, _env_float("SIMULATION_CSV_RUN_SECONDS", 60.0))
+CSV_SAMPLE_HZ = max(0.05, _env_float("SIMULATION_CSV_SAMPLE_HZ", 10.0))
+CSV_SAMPLE_INTERVAL = 1.0 / CSV_SAMPLE_HZ
+CSV_RUN_ID = os.environ.get("SIMULATION_CSV_RUN_ID", "").strip() or datetime.now().strftime("%Y%m%d_%H%M%S")
+CSV_OUTPUT_DIR = os.environ.get("SIMULATION_CSV_OUTPUT_DIR", "").strip()
+
+if CSV_OUTPUT_DIR:
+    os.makedirs(CSV_OUTPUT_DIR, exist_ok=True)
+    CSV_OUTPUT_PATH = os.path.join(CSV_OUTPUT_DIR, f"{CSV_RUN_ID}-cell-swarm-communication-state-log.csv")
+else:
+    fallback_path = os.environ.get("SIM_STATE_CSV_PATH", "").strip()
+    if fallback_path:
+        CSV_OUTPUT_PATH = fallback_path
+        parent = os.path.dirname(os.path.abspath(CSV_OUTPUT_PATH))
+        if parent:
+            os.makedirs(parent, exist_ok=True)
+    else:
+        CSV_OUTPUT_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "cell_swarm_communication_state_log.csv")
+
+CSV_METADATA_PATH = os.path.splitext(CSV_OUTPUT_PATH)[0] + ".metadata.json"
+
+CSV_FIELDNAMES = [
+    "csv_run_id", "csv_elapsed_seconds", "simulation_time", "frame",
+    "row_type", "object_id", "object_kind",
+    "round_index", "paused", "ai_enabled", "ai_mode", "ai_mode_timer",
+    "ai_stagnant_time", "ai_complete_time", "ai_reset_countdown",
+    "cell_count", "particle_count", "active_cell_count", "marked_cell_count",
+    "avg_activation", "max_activation", "avg_memory", "avg_cell_speed",
+    "guide_x", "guide_y", "guide_z", "guide_attached_cell",
+    "status_message",
+    "index", "name", "mode", "source_index", "target_index", "orbit_cell_index", "attached_cell_index",
+    "x", "y", "z", "vx", "vy", "vz", "radius",
+    "activation", "signal_input", "memory", "marked", "refractory", "pulse_cooldown",
+    "life", "age", "intensity", "attach_timer",
+    "color_r", "color_g", "color_b",
+]
+
+_csv_file = open(CSV_OUTPUT_PATH, "w", newline="")
+_csv_writer = csv.DictWriter(_csv_file, fieldnames=CSV_FIELDNAMES, extrasaction="ignore")
+_csv_writer.writeheader()
+_csv_file.flush()
+
+
+def _vec_fields(v, prefix=""):
+    return {
+        f"{prefix}x": float(v.x),
+        f"{prefix}y": float(v.y),
+        f"{prefix}z": float(v.z),
+    }
+
+
+def _color_fields(c):
+    return {
+        "color_r": float(getattr(c, "x", 0.0)),
+        "color_g": float(getattr(c, "y", 0.0)),
+        "color_b": float(getattr(c, "z", 0.0)),
+    }
+
+
+def _cell_index(cell):
+    try:
+        return cell.index if cell is not None else ""
+    except Exception:
+        return ""
+
+
+def csv_summary_state(sim):
+    active_cells = [c for c in sim.cells if c.activation > 0.35]
+    marked_cells = [c for c in sim.cells if c.marked > 0.2]
+    avg_activation = sum(c.activation for c in sim.cells) / max(1, len(sim.cells))
+    max_activation = max([c.activation for c in sim.cells], default=0.0)
+    avg_memory = sum(c.memory for c in sim.cells) / max(1, len(sim.cells))
+    avg_speed = sum(mag(c.vel) for c in sim.cells) / max(1, len(sim.cells))
+    guide_attached = _cell_index(sim.guide_attached_cell)
+    return {
+        "round_index": sim.round_index,
+        "paused": sim.paused,
+        "ai_enabled": sim.ai.enabled,
+        "ai_mode": sim.ai.mode,
+        "ai_mode_timer": sim.ai.mode_timer,
+        "ai_stagnant_time": sim.ai.stagnant_time,
+        "ai_complete_time": sim.ai.complete_time,
+        "ai_reset_countdown": "" if sim.ai.reset_countdown is None else sim.ai.reset_countdown,
+        "cell_count": len(sim.cells),
+        "particle_count": len(sim.particles),
+        "active_cell_count": len(active_cells),
+        "marked_cell_count": len(marked_cells),
+        "avg_activation": avg_activation,
+        "max_activation": max_activation,
+        "avg_memory": avg_memory,
+        "avg_cell_speed": avg_speed,
+        "guide_x": sim.guide.pos.x,
+        "guide_y": sim.guide.pos.y,
+        "guide_z": sim.guide.pos.z,
+        "guide_attached_cell": guide_attached,
+        "status_message": sim.status_message,
+    }
+
+
+def csv_base_row(sim, csv_elapsed_seconds, frame, row_type, object_id="", object_kind=""):
+    row = {
+        "csv_run_id": CSV_RUN_ID,
+        "csv_elapsed_seconds": round(csv_elapsed_seconds, 4),
+        "simulation_time": round(sim.time, 4),
+        "frame": frame,
+        "row_type": row_type,
+        "object_id": object_id,
+        "object_kind": object_kind,
+    }
+    row.update(csv_summary_state(sim))
+    return row
+
+
+def write_csv_snapshot(sim, csv_elapsed_seconds, frame):
+    _csv_writer.writerow(csv_base_row(sim, csv_elapsed_seconds, frame, "summary", "cell_swarm", "summary"))
+
+    guide_row = csv_base_row(sim, csv_elapsed_seconds, frame, "guide", "guide", "guide")
+    guide_row.update({"radius": sim.guide.radius})
+    guide_row.update(_vec_fields(sim.guide.pos, ""))
+    guide_row.update(_color_fields(sim.guide.color))
+    _csv_writer.writerow(guide_row)
+
+    for cell in sim.cells:
+        row = csv_base_row(sim, csv_elapsed_seconds, frame, "cell", f"cell_{cell.index}", "cell")
+        row.update({
+            "index": cell.index,
+            "radius": cell.radius,
+            "activation": cell.activation,
+            "signal_input": cell.signal_input,
+            "memory": cell.memory,
+            "marked": cell.marked,
+            "refractory": cell.refractory,
+            "pulse_cooldown": cell.pulse_cooldown,
+        })
+        row.update(_vec_fields(cell.pos, ""))
+        row.update(_vec_fields(cell.vel, "v"))
+        row.update(_color_fields(cell.signal_color))
+        _csv_writer.writerow(row)
+
+    for i, particle in enumerate(sim.particles):
+        row = csv_base_row(sim, csv_elapsed_seconds, frame, "signal_particle", f"particle_{i}", "signal_particle")
+        row.update({
+            "index": i,
+            "mode": particle.mode,
+            "source_index": _cell_index(particle.source),
+            "target_index": _cell_index(particle.target),
+            "orbit_cell_index": _cell_index(particle.orbit_cell),
+            "attached_cell_index": _cell_index(particle.attached_cell),
+            "radius": particle.radius,
+            "life": particle.life,
+            "age": particle.age,
+            "intensity": particle.intensity,
+            "attach_timer": particle.attach_timer,
+        })
+        row.update(_vec_fields(particle.pos, ""))
+        row.update(_vec_fields(particle.vel, "v"))
+        row.update(_color_fields(particle.signal_color))
+        _csv_writer.writerow(row)
+
+    _csv_file.flush()
+
+
+def write_csv_metadata():
+    metadata = {
+        "csv_run_id": CSV_RUN_ID,
+        "csv_output_path": CSV_OUTPUT_PATH,
+        "csv_metadata_path": CSV_METADATA_PATH,
+        "simulation_name": "Cell Swarm Communication in Tissue",
+        "script_type": "full_vpython_csv_logger",
+        "run_seconds": CSV_RUN_SECONDS,
+        "sample_hz": CSV_SAMPLE_HZ,
+        "sample_interval": CSV_SAMPLE_INTERVAL,
+        "created_at": datetime.now().isoformat(timespec="seconds"),
+        "row_types": ["summary", "guide", "cell", "signal_particle"],
+        "environment_variables": {
+            "SIMULATION_CSV_OUTPUT_DIR": CSV_OUTPUT_DIR,
+            "SIMULATION_CSV_RUN_ID": CSV_RUN_ID,
+            "SIMULATION_CSV_RUN_SECONDS": CSV_RUN_SECONDS,
+            "SIMULATION_CSV_SAMPLE_HZ": CSV_SAMPLE_HZ,
+            "SIM_STATE_CSV_PATH": os.environ.get("SIM_STATE_CSV_PATH", ""),
+        },
+    }
+    with open(CSV_METADATA_PATH, "w") as f:
+        json.dump(metadata, f, indent=2)
+
+
+write_csv_metadata()
 
 
 # -----------------------------
@@ -1228,6 +1430,29 @@ class CellSwarmSimulation:
 
 sim = CellSwarmSimulation()
 
-while True:
-    rate(60)
-    sim.step(1.0 / 60.0)
+# -----------------------------
+# Main loop with CSV logging
+# -----------------------------
+csv_elapsed_seconds = 0.0
+csv_sample_timer = CSV_SAMPLE_INTERVAL
+csv_frame = 0
+dt = 1.0 / 60.0
+
+try:
+    while csv_elapsed_seconds < CSV_RUN_SECONDS:
+        rate(60)
+        csv_frame += 1
+        csv_elapsed_seconds += dt
+        csv_sample_timer += dt
+        sim.step(dt)
+
+        if csv_sample_timer >= CSV_SAMPLE_INTERVAL:
+            csv_sample_timer = 0.0
+            write_csv_snapshot(sim, csv_elapsed_seconds, csv_frame)
+
+    write_csv_snapshot(sim, csv_elapsed_seconds, csv_frame)
+    sim.flash_status(f"CSV recording complete: {CSV_RUN_SECONDS:0.0f}s saved to {os.path.basename(CSV_OUTPUT_PATH)}", duration=999.0)
+    sim.update_status_label(dt)
+finally:
+    _csv_file.flush()
+    _csv_file.close()

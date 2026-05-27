@@ -2,6 +2,9 @@ from vpython import *
 import random
 import math
 import time
+import os
+import csv
+from datetime import datetime
 
 # -----------------------------
 # Soft capsule cell simulation
@@ -1004,29 +1007,283 @@ label(pos=vector(-4.95, 2.1, -1.25),
 
 # ---------- Main loop ----------
 
+
+# ---------- CSV storage setup ----------
+
+CSV_RUN_SECONDS = float(os.environ.get("SIMULATION_CSV_RUN_SECONDS", "60"))
+CSV_SAMPLE_INTERVAL = 0.10
+CSV_STATIC_SAMPLE_INTERVAL = 1.00
+
+_csv_output_dir = os.environ.get("SIMULATION_CSV_OUTPUT_DIR")
+_csv_run_id = os.environ.get("SIMULATION_CSV_RUN_ID", datetime.now().strftime("%Y%m%d_%H%M%S"))
+
+if _csv_output_dir:
+    os.makedirs(_csv_output_dir, exist_ok=True)
+    CSV_OUTPUT_PATH = os.path.join(
+        _csv_output_dir,
+        f"{_csv_run_id}-soft-capsule-cell-state-log.csv"
+    )
+else:
+    CSV_OUTPUT_PATH = os.environ.get(
+        "SIM_STATE_CSV_PATH",
+        os.path.join(
+            os.path.dirname(os.path.abspath(__file__)),
+            "soft_capsule_cell_state_log.csv"
+        )
+    )
+
+csv_run_id = _csv_run_id
+
+CSV_FIELDS = [
+    "run_id", "row_type", "sim_time", "frame", "round_id",
+    "ai_enabled", "ai_mode", "paused",
+    "object_id", "object_state", "parent_id",
+    "x", "y", "z", "vx", "vy", "vz",
+    "radius", "value", "value2", "value3",
+    "center_x", "center_y", "center_z",
+    "drive_x", "drive_y", "drive_z",
+    "probe_x", "probe_y", "probe_z",
+    "pore_open", "pore_timer", "escaped",
+    "attachment_count", "deformation", "avg_radius", "kinetic",
+    "channel_half_width", "manual_acc_x", "manual_acc_y", "manual_acc_z",
+    "note"
+]
+
+_csv_file = open(CSV_OUTPUT_PATH, "w", newline="")
+_csv_writer = csv.DictWriter(_csv_file, fieldnames=CSV_FIELDS)
+_csv_writer.writeheader()
+_csv_file.flush()
+
+_csv_last_sample = -CSV_SAMPLE_INTERVAL
+_csv_last_static_sample = -CSV_STATIC_SAMPLE_INTERVAL
+_csv_frame = 0
+
+
+def _vec_components(v):
+    if v is None:
+        return ("", "", "")
+    return (getattr(v, "x", ""), getattr(v, "y", ""), getattr(v, "z", ""))
+
+
+def _write_csv_row(row_type, sim_time_value, frame_value, round_value, **kwargs):
+    row = {field: "" for field in CSV_FIELDS}
+    row.update({
+        "run_id": csv_run_id,
+        "row_type": row_type,
+        "sim_time": sim_time_value,
+        "frame": frame_value,
+        "round_id": round_value,
+        "ai_enabled": getattr(ai, "enabled", ""),
+        "ai_mode": getattr(ai, "mode", ""),
+        "paused": paused,
+    })
+    row.update(kwargs)
+    _csv_writer.writerow(row)
+
+
+def record_csv_snapshot(sim_time_value, frame_value, drive=None, probe_pos=None, include_static=False):
+    c = cell.center()
+    cx, cy, cz = _vec_components(c)
+    dx, dy, dz = _vec_components(drive)
+    px, py, pz = _vec_components(probe_pos)
+    mx, my, mz = _vec_components(manual_acc)
+
+    deformation = cell.deformation()
+    avg_radius = cell.average_radius()
+    kinetic = cell.kinetic_energy_proxy()
+    channel_width = channel_half_width(c.x)
+
+    _write_csv_row(
+        "summary", sim_time_value, frame_value, ai.round_id,
+        object_id="cell",
+        object_state="soft_capsule",
+        x=cx, y=cy, z=cz,
+        center_x=cx, center_y=cy, center_z=cz,
+        drive_x=dx, drive_y=dy, drive_z=dz,
+        probe_x=px, probe_y=py, probe_z=pz,
+        pore_open=cell.pore_open,
+        pore_timer=cell.pore_timer,
+        escaped=cell.escaped_count(),
+        attachment_count=len(cell.attachments),
+        deformation=deformation,
+        avg_radius=avg_radius,
+        kinetic=kinetic,
+        channel_half_width=channel_width,
+        manual_acc_x=mx, manual_acc_y=my, manual_acc_z=mz,
+        value=cell.radial_pulse_strength,
+        value2=cell.n,
+        value3=cell.np,
+        note="run_state"
+    )
+
+    _write_csv_row(
+        "ai_probe", sim_time_value, frame_value, ai.round_id,
+        object_id="probe",
+        object_state=getattr(ai, "mode", ""),
+        x=ai.probe.pos.x, y=ai.probe.pos.y, z=ai.probe.pos.z,
+        radius=ai.probe_radius,
+        center_x=cx, center_y=cy, center_z=cz,
+        value=ai.mode_timer,
+        value2=ai.stagnation_time,
+        value3=ai.completion_hold,
+        note="ai_controller_probe"
+    )
+
+    _write_csv_row(
+        "pore", sim_time_value, frame_value, ai.round_id,
+        object_id="pore",
+        object_state="open" if cell.pore_open else "closed",
+        x=cell.pore_ring.pos.x if cell.pore_ring else "",
+        y=cell.pore_ring.pos.y if cell.pore_ring else "",
+        z=cell.pore_ring.pos.z if cell.pore_ring else "",
+        vx=cell.pore_dir.x, vy=cell.pore_dir.y, vz=cell.pore_dir.z,
+        radius=getattr(cell.pore_ring, "radius", ""),
+        pore_open=cell.pore_open,
+        pore_timer=cell.pore_timer,
+        note="membrane_pore"
+    )
+
+    for i, p in enumerate(cell.pos):
+        v = cell.vel[i]
+        _write_csv_row(
+            "membrane_bead", sim_time_value, frame_value, ai.round_id,
+            object_id=i,
+            object_state="attached" if any(a["idx"] == i for a in cell.attachments) else "free",
+            x=p.x, y=p.y, z=p.z,
+            vx=v.x, vy=v.y, vz=v.z,
+            radius=cell.bead_radius,
+            center_x=cx, center_y=cy, center_z=cz,
+            value=mag(p - c),
+            value2=dot(p - c, vector(1, 0, 0)),
+            value3=dot(v, v),
+            channel_half_width=channel_half_width(p.x),
+            note="elastic_membrane_node"
+        )
+
+    for i, p in enumerate(cell.p_pos):
+        v = cell.p_vel[i]
+        _write_csv_row(
+            "internal_particle", sim_time_value, frame_value, ai.round_id,
+            object_id=i,
+            object_state="escaped" if cell.escaped[i] else "inside",
+            x=p.x, y=p.y, z=p.z,
+            vx=v.x, vy=v.y, vz=v.z,
+            radius=cell.particle_radius,
+            center_x=cx, center_y=cy, center_z=cz,
+            escaped=cell.escaped[i],
+            value=mag(p - c),
+            value2=dot(v, v),
+            channel_half_width=channel_half_width(p.x),
+            note="internal_or_escaped_particle"
+        )
+
+    for i, a in enumerate(cell.attachments):
+        anchor = a["anchor"]
+        bead = cell.pos[a["idx"]]
+        _write_csv_row(
+            "attachment", sim_time_value, frame_value, ai.round_id,
+            object_id=i,
+            object_state="active",
+            parent_id=a["idx"],
+            x=anchor.x, y=anchor.y, z=anchor.z,
+            center_x=bead.x, center_y=bead.y, center_z=bead.z,
+            value=a["ttl"],
+            value2=mag(anchor - bead),
+            note="bead_wall_attachment"
+        )
+
+    for i, m in enumerate(cell.dynamic_marks):
+        if getattr(m, "visible", True):
+            _write_csv_row(
+                "dynamic_mark", sim_time_value, frame_value, ai.round_id,
+                object_id=i,
+                object_state="visible",
+                x=m.pos.x, y=m.pos.y, z=m.pos.z,
+                radius=getattr(m, "radius", ""),
+                note="deformation_event_mark"
+            )
+
+    if include_static:
+        for i, (a, b, rest) in enumerate(cell.edges):
+            pa = cell.pos[a]
+            pb = cell.pos[b]
+            _write_csv_row(
+                "membrane_spring", sim_time_value, frame_value, ai.round_id,
+                object_id=i,
+                object_state="spring",
+                parent_id=f"{a}-{b}",
+                x=pa.x, y=pa.y, z=pa.z,
+                center_x=pb.x, center_y=pb.y, center_z=pb.z,
+                value=rest,
+                value2=mag(pb - pa),
+                note="elastic_spring_edge"
+            )
+
+        for idx, x in enumerate([-3.15, -2.15, 2.15, 3.15]):
+            _write_csv_row(
+                "channel_section", sim_time_value, frame_value, ai.round_id,
+                object_id=idx,
+                object_state="stationary_channel",
+                x=x, y=0, z=0,
+                value=channel_half_width(x),
+                note="static_channel_width"
+            )
+
+
 last = time.time()
 dt = 1 / 120
 substeps = 2
+_elapsed_csv_time = 0.0
+_csv_frame = 0
 
-while True:
-    rate(60)
+try:
+    while _elapsed_csv_time < CSV_RUN_SECONDS:
+        rate(60)
 
-    now = time.time()
-    frame_dt = clamp(now - last, 0.001, 0.05)
-    last = now
+        now = time.time()
+        frame_dt = clamp(now - last, 0.001, 0.05)
+        last = now
 
-    manual_acc *= manual_decay
+        manual_acc *= manual_decay
 
-    drive, probe_pos = ai.update(frame_dt, manual_acc=manual_acc, paused=paused)
+        drive, probe_pos = ai.update(frame_dt, manual_acc=manual_acc, paused=paused)
 
-    if not paused:
-        small_dt = frame_dt / substeps
-        for _ in range(substeps):
-            cell.step(small_dt,
-                      drive_acc=drive,
-                      probe_pos=probe_pos,
-                      probe_radius=ai.probe_radius)
+        if not paused:
+            small_dt = frame_dt / substeps
+            for _ in range(substeps):
+                cell.step(small_dt,
+                          drive_acc=drive,
+                          probe_pos=probe_pos,
+                          probe_radius=ai.probe_radius)
 
-    # Gentle camera tracking.
-    c = cell.center()
-    scene.center = scene.center * 0.96 + vector(clamp(c.x, -2.2, 2.6), 0, 0.15) * 0.04
+        # Gentle camera tracking.
+        c = cell.center()
+        scene.center = scene.center * 0.96 + vector(clamp(c.x, -2.2, 2.6), 0, 0.15) * 0.04
+
+        _elapsed_csv_time += frame_dt
+        _csv_frame += 1
+
+        if _elapsed_csv_time - _csv_last_sample >= CSV_SAMPLE_INTERVAL:
+            _csv_last_sample = _elapsed_csv_time
+            include_static = (_elapsed_csv_time - _csv_last_static_sample >= CSV_STATIC_SAMPLE_INTERVAL)
+            if include_static:
+                _csv_last_static_sample = _elapsed_csv_time
+            record_csv_snapshot(_elapsed_csv_time, _csv_frame, drive=drive, probe_pos=probe_pos, include_static=include_static)
+            if _csv_frame % 30 == 0:
+                _csv_file.flush()
+
+    _csv_file.flush()
+    _csv_file.close()
+    ai.action_label.text = (
+        f"CSV recording complete: {CSV_RUN_SECONDS:0.0f}s saved to "
+        f"{os.path.basename(CSV_OUTPUT_PATH)}"
+    )
+    print(f"CSV recording complete: {CSV_OUTPUT_PATH}")
+
+except Exception:
+    try:
+        _csv_file.flush()
+        _csv_file.close()
+    except Exception:
+        pass
+    raise

@@ -1,0 +1,18 @@
+{
+  "run_id": "20260526-202226-sentence-script-a-cluster-of-identical-p-380e8c",
+  "csv_path": "/Users/b/phoenix/code/simulation_shared_data/csv_runs/20260526-202226-sentence-script-a-cluster-of-identical-p-380e8c/20260526-202226-sentence-script-a-cluster-of-identical-p-380e8c_stem_cell_differentiation.csv",
+  "metadata_path": "/Users/b/phoenix/code/simulation_shared_data/csv_runs/20260526-202226-sentence-script-a-cluster-of-identical-p-380e8c/20260526-202226-sentence-script-a-cluster-of-identical-p-380e8c_stem_cell_differentiation_metadata.json",
+  "rows_written": 287,
+  "sample_hz": 5.0,
+  "run_seconds": 60.0,
+  "created_utc": "2026-05-27T01:23:27.394473+00:00",
+  "simulation": "Stem Cell Differentiation with Color States",
+  "source_type": "full visible VPython script with integrated CSV logging",
+  "environment_variables": {
+    "SIMULATION_CSV_OUTPUT_DIR": "/Users/b/phoenix/code/simulation_shared_data/csv_runs/20260526-202226-sentence-script-a-cluster-of-identical-p-380e8c",
+    "SIMULATION_CSV_RUN_ID": "20260526-202226-sentence-script-a-cluster-of-identical-p-380e8c",
+    "SIMULATION_CSV_RUN_SECONDS": "60",
+    "SIMULATION_CSV_SAMPLE_HZ": "",
+    "SIM_STATE_CSV_PATH": ""
+  }
+}

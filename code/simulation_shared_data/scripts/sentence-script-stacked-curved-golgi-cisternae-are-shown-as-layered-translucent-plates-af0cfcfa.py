@@ -2,14 +2,17 @@ from vpython import *
 import random
 import math
 import time
+import csv
+import os
+from datetime import datetime
 
 # ============================================================
 # Cellular Conveyor Belt: Golgi Apparatus
-# VPython 3D simulation with expressive AI controller
+# Web-app-compatible CSV storage version
 # ============================================================
 
 scene = canvas(
-    title="Cellular Conveyor Belt: Golgi Apparatus",
+    title="Cellular Conveyor Belt: Golgi Apparatus - CSV Storage Version",
     width=1280,
     height=760,
     background=vector(0.94, 0.97, 1.0),
@@ -20,17 +23,48 @@ scene.up = vector(0, 1, 0)
 scene.range = 7.3
 scene.ambient = color.gray(0.72)
 
-local_light(pos=vector(-4, 6, 4), color=vector(0.75, 0.75, 0.75))
-local_light(pos=vector(4, 5, -3), color=vector(0.45, 0.55, 0.65))
-
 scene.append_to_caption(
-    "\nControls: SPACE pause/resume | A toggle AI | E human override | M next AI mode | "
-    "R reset | S spawn | B burst | N select vesicle | D force detach selected | "
-    "Arrow keys / IJKL nudge selected | C orbit camera\n\n"
+    "\nCSV storage version. Controls: SPACE pause/resume | A toggle AI | R reset | "
+    "S spawn | B burst | N select | D detach selected | Arrow keys/IJKL nudge selected.\n"
 )
 
 # ----------------------------
-# Global simulation constants
+# CSV storage configuration
+# ----------------------------
+
+CSV_RUN_SECONDS = float(os.environ.get("SIMULATION_CSV_RUN_SECONDS", "60"))
+CSV_SAMPLE_INTERVAL = 0.10
+CSV_STATIC_SAMPLE_INTERVAL = 1.00
+
+_csv_output_dir = os.environ.get("SIMULATION_CSV_OUTPUT_DIR")
+_csv_run_id = os.environ.get("SIMULATION_CSV_RUN_ID", datetime.now().strftime("%Y%m%d_%H%M%S"))
+
+if _csv_output_dir:
+    os.makedirs(_csv_output_dir, exist_ok=True)
+    CSV_OUTPUT_PATH = os.path.join(_csv_output_dir, f"{_csv_run_id}-golgi-conveyor-state-log.csv")
+else:
+    CSV_OUTPUT_PATH = os.environ.get(
+        "SIM_STATE_CSV_PATH",
+        os.path.join(os.path.dirname(os.path.abspath(__file__)), "golgi_conveyor_state_log.csv"),
+    )
+
+csv_run_id = _csv_run_id
+
+CSV_FIELDS = [
+    "run_id", "time", "round", "row_type", "object_id", "object_name", "state",
+    "ai_enabled", "ai_mode", "paused", "flow_speed", "delivered_round",
+    "total_delivered", "active_vesicles", "incoming_count", "attached_count",
+    "transfer_count", "outgoing_count", "particle_count", "membrane_mark_count",
+    "selected_vesicle_id", "x", "y", "z", "vx", "vy", "vz", "radius",
+    "progress", "cis_index", "s", "age", "stall_time", "target_x", "target_y",
+    "target_z", "cargo_x", "cargo_y", "cargo_z", "color_r", "color_g",
+    "color_b", "opacity", "life", "max_life", "cisterna_index", "cisterna_y",
+    "receptor_index", "membrane_x", "drone_x", "drone_y", "drone_z",
+    "stagnation_time", "completion_time",
+]
+
+# ----------------------------
+# Simulation constants/state
 # ----------------------------
 
 NUM_CISTERNAE = 6
@@ -42,19 +76,16 @@ vesicles = []
 particles = []
 membrane_marks = []
 cisternae = []
+receptors = []
 
 paused = False
-orbit_camera = False
 sim_time = 0.0
 round_number = 1
 delivered_round = 0
 total_delivered = 0
 manual_selected_index = 0
 flow_speed = 1.0
-human_override = False
-
-last_status_update = 0
-last_spawn_time = 0
+last_spawn_time = 0.0
 
 # ----------------------------
 # Utility functions
@@ -63,23 +94,16 @@ last_spawn_time = 0
 def clamp(x, a, b):
     return max(a, min(b, x))
 
-def mag2(v):
-    return v.x * v.x + v.y * v.y + v.z * v.z
-
-def safe_norm(v):
+def safe_norm(v, fallback=vector(0, 0, 0)):
     if mag(v) < 1e-8:
-        return vector(0, 0, 0)
+        return fallback
     return norm(v)
 
 def lerp(a, b, t):
     return a * (1 - t) + b * t
 
 def color_lerp(c1, c2, t):
-    return vector(
-        c1.x * (1 - t) + c2.x * t,
-        c1.y * (1 - t) + c2.y * t,
-        c1.z * (1 - t) + c2.z * t,
-    )
+    return vector(c1.x * (1 - t) + c2.x * t, c1.y * (1 - t) + c2.y * t, c1.z * (1 - t) + c2.z * t)
 
 def random_unit_vector():
     theta = random.uniform(0, 2 * math.pi)
@@ -89,13 +113,13 @@ def random_unit_vector():
 
 def mature_color(progress):
     palette = [
-        vector(0.25, 0.65, 1.00),  # cis: blue
-        vector(0.20, 0.92, 0.75),  # turquoise
-        vector(0.40, 0.92, 0.35),  # green
-        vector(1.00, 0.84, 0.25),  # yellow
-        vector(1.00, 0.50, 0.20),  # orange
-        vector(1.00, 0.28, 0.55),  # trans: magenta
-        vector(0.72, 0.38, 1.00),  # secretory purple
+        vector(0.25, 0.65, 1.00),
+        vector(0.20, 0.92, 0.75),
+        vector(0.40, 0.92, 0.35),
+        vector(1.00, 0.84, 0.25),
+        vector(1.00, 0.50, 0.20),
+        vector(1.00, 0.28, 0.55),
+        vector(0.72, 0.38, 1.00),
     ]
     progress = clamp(progress, 0, 1)
     scaled = progress * (len(palette) - 1)
@@ -108,84 +132,25 @@ def hue_color(h):
     return color.hsv_to_rgb(vector(h % 1.0, 0.72, 1.0))
 
 # ----------------------------
-# Stationary scene objects
+# Static scene
 # ----------------------------
 
-floor = box(
-    pos=vector(0, -3.55, 0),
-    size=vector(12.5, 0.035, 7.6),
-    color=vector(0.88, 0.93, 0.96),
-    opacity=0.38,
-)
+floor = box(pos=vector(0, -3.55, 0), size=vector(12.5, 0.035, 7.6), color=vector(0.88, 0.93, 0.96), opacity=0.38)
+membrane = box(pos=vector(MEMBRANE_X, 0, 0), size=vector(0.12, 7.2, 5.4), color=vector(0.52, 0.78, 1.0), opacity=0.20)
+status_label = label(pos=vector(0, 4.05, 0), text="", height=14, box=True, border=7, color=vector(0.12, 0.18, 0.22), background=vector(0.96, 0.99, 1.0), opacity=0.72)
+selector_ring = ring(pos=vector(0, -20, 0), axis=vector(0, 1, 0), radius=0.34, thickness=0.018, color=vector(0.1, 0.2, 0.3), opacity=0.85)
 
-membrane = box(
-    pos=vector(MEMBRANE_X, 0, 0),
-    size=vector(0.12, 7.2, 5.4),
-    color=vector(0.52, 0.78, 1.0),
-    opacity=0.20,
-)
+label(pos=vector(MEMBRANE_X + 0.13, 3.75, 0), text="Cell membrane / delivery zone", height=14, box=False, color=vector(0.22, 0.36, 0.45))
+label(pos=vector(-3.65, -2.95, 0.25), text="cis face: vesicles attach", height=13, box=False, color=vector(0.15, 0.35, 0.55))
+label(pos=vector(3.25, 2.95, 0.25), text="trans face: mature vesicles detach", height=13, box=False, color=vector(0.55, 0.2, 0.38))
 
-membrane_label = label(
-    pos=vector(MEMBRANE_X + 0.13, 3.75, 0),
-    text="Cell membrane / delivery zone",
-    height=14,
-    box=False,
-    color=vector(0.22, 0.36, 0.45),
-)
-
-cis_label = label(
-    pos=vector(-3.65, -2.95, 0.25),
-    text="cis face: vesicles attach",
-    height=13,
-    box=False,
-    color=vector(0.15, 0.35, 0.55),
-)
-
-trans_label = label(
-    pos=vector(3.25, 2.95, 0.25),
-    text="trans face: mature vesicles detach",
-    height=13,
-    box=False,
-    color=vector(0.55, 0.2, 0.38),
-)
-
-status_label = label(
-    pos=vector(0, 4.05, 0),
-    text="",
-    height=14,
-    box=True,
-    border=7,
-    color=vector(0.12, 0.18, 0.22),
-    background=vector(0.96, 0.99, 1.0),
-    opacity=0.72,
-)
-
-selector_ring = ring(
-    pos=vector(0, -20, 0),
-    axis=vector(0, 1, 0),
-    radius=0.34,
-    thickness=0.018,
-    color=vector(0.1, 0.2, 0.3),
-    opacity=0.85,
-)
-
-# Membrane receptors
-receptors = []
 for i in range(18):
     y = random.uniform(-2.8, 2.8)
     z = random.uniform(-2.15, 2.15)
-    rec = ring(
-        pos=vector(MEMBRANE_X - 0.09, y, z),
-        axis=vector(1, 0, 0),
-        radius=random.uniform(0.11, 0.18),
-        thickness=0.015,
-        color=vector(0.25, 0.58, 0.9),
-        opacity=0.50,
-    )
-    receptors.append(rec)
+    receptors.append(ring(pos=vector(MEMBRANE_X - 0.09, y, z), axis=vector(1, 0, 0), radius=random.uniform(0.11, 0.18), thickness=0.015, color=vector(0.25, 0.58, 0.9), opacity=0.50))
 
 # ----------------------------
-# Golgi cisternae
+# Golgi objects
 # ----------------------------
 
 class Cisterna:
@@ -200,54 +165,25 @@ class Cisterna:
         self.b = 0.72 + 0.035 * index
         self.xoff = -0.18 + 0.06 * math.sin(index * 0.8)
         self.zoff = 0.04 * math.cos(index)
-        self.glow_phase = random.uniform(0, 2 * math.pi)
 
-        segments = 36
-        for j in range(segments):
-            s = (j + 0.5) / segments
+        for j in range(36):
+            s = (j + 0.5) / 36
             p = self.path(s)
             tangent = self.tangent(s)
-            seg_len = 0.26
-            plate = box(
-                pos=p,
-                axis=tangent,
-                size=vector(seg_len, self.thickness, self.width),
-                color=base_color,
-                opacity=0.28,
-            )
-            self.objects.append(plate)
+            self.objects.append(box(pos=p, axis=tangent, size=vector(0.26, self.thickness, self.width), color=base_color, opacity=0.28))
 
-        # Soft rim curves to emphasize the curved cisternal plate.
         for side in [-1, 1]:
             pts = []
             for j in range(60):
                 s = j / 59
                 tangent = self.tangent(s)
-                normal_xz = safe_norm(cross(vector(0, 1, 0), tangent))
+                normal_xz = safe_norm(cross(vector(0, 1, 0), tangent), vector(1, 0, 0))
                 pts.append(self.path(s) + normal_xz * side * self.width * 0.53)
-            rim = curve(
-                pos=pts,
-                radius=0.018,
-                color=color_lerp(base_color, vector(1, 1, 1), 0.22),
-                opacity=0.52,
-            )
-            self.objects.append(rim)
+            self.objects.append(curve(pos=pts, radius=0.018, color=color_lerp(base_color, vector(1, 1, 1), 0.22), opacity=0.52))
 
-        # Docking beads at cis and trans ends.
-        self.cis_port = sphere(
-            pos=self.surface_point(0.0) + vector(-0.13, 0.0, 0),
-            radius=0.085,
-            color=vector(0.34, 0.68, 1.0),
-            opacity=0.75,
-        )
-        self.trans_port = sphere(
-            pos=self.surface_point(1.0) + vector(0.13, 0.0, 0),
-            radius=0.085,
-            color=vector(1.0, 0.45, 0.62),
-            opacity=0.75,
-        )
-        self.objects.append(self.cis_port)
-        self.objects.append(self.trans_port)
+        self.cis_port = sphere(pos=self.surface_point(0.0) + vector(-0.13, 0, 0), radius=0.085, color=vector(0.34, 0.68, 1.0), opacity=0.75)
+        self.trans_port = sphere(pos=self.surface_point(1.0) + vector(0.13, 0, 0), radius=0.085, color=vector(1.0, 0.45, 0.62), opacity=0.75)
+        self.objects.extend([self.cis_port, self.trans_port])
 
     def path(self, s):
         s = clamp(s, 0, 1)
@@ -261,11 +197,11 @@ class Cisterna:
         theta = math.pi * (1 - s)
         dx = self.a * math.pi * math.sin(theta)
         dz = -self.b * math.pi * math.cos(theta) - 0.20 * math.pi * math.cos(2 * theta + self.index * 0.35)
-        return safe_norm(vector(dx, 0, dz))
+        return safe_norm(vector(dx, 0, dz), vector(1, 0, 0))
 
     def surface_point(self, s, lift=0.22, side_wobble=0.0):
         tangent = self.tangent(s)
-        normal_xz = safe_norm(cross(vector(0, 1, 0), tangent))
+        normal_xz = safe_norm(cross(vector(0, 1, 0), tangent), vector(1, 0, 0))
         return self.path(s) + vector(0, lift, 0) + normal_xz * side_wobble
 
     def pulse(self, amount):
@@ -276,40 +212,14 @@ class Cisterna:
     def restore_opacity(self):
         for obj in self.objects:
             if hasattr(obj, "opacity"):
-                if isinstance(obj, box):
-                    obj.opacity = 0.28
-                else:
-                    obj.opacity = 0.52
-
-cisterna_colors = [
-    vector(0.62, 0.85, 1.0),
-    vector(0.57, 0.92, 0.92),
-    vector(0.66, 0.95, 0.72),
-    vector(1.00, 0.92, 0.58),
-    vector(1.00, 0.74, 0.55),
-    vector(1.00, 0.62, 0.78),
-]
-
-for i in range(NUM_CISTERNAE):
-    y = -2.35 + i * 0.88
-    cisternae.append(Cisterna(i, y, cisterna_colors[i]))
-
-# ----------------------------
-# Particles, marks, vesicles
-# ----------------------------
+                obj.opacity = 0.28 if isinstance(obj, box) else 0.52
 
 class Particle:
     def __init__(self, pos, vel, col, radius=0.035, life=1.2, opacity=0.75):
         self.life = life
         self.max_life = life
         self.vel = vel
-        self.obj = sphere(
-            pos=pos,
-            radius=radius,
-            color=col,
-            opacity=opacity,
-            emissive=False,
-        )
+        self.obj = sphere(pos=pos, radius=radius, color=col, opacity=opacity)
 
     def update(self, dt):
         self.life -= dt
@@ -326,22 +236,13 @@ def spill_particles(pos, col, count=10, speed=0.8, life=1.1):
     for _ in range(count):
         if len(particles) > 280:
             break
-        v = random_unit_vector() * random.uniform(0.15, speed)
-        particles.append(Particle(pos, v, col, radius=random.uniform(0.018, 0.045), life=random.uniform(0.55, life)))
+        particles.append(Particle(pos, random_unit_vector() * random.uniform(0.15, speed), col, radius=random.uniform(0.018, 0.045), life=random.uniform(0.55, life)))
 
 def create_membrane_mark(pos, col):
     if len(membrane_marks) > 90:
         old = membrane_marks.pop(0)
         old.visible = False
-    mark = ring(
-        pos=vector(MEMBRANE_X - 0.13, pos.y, pos.z),
-        axis=vector(1, 0, 0),
-        radius=random.uniform(0.12, 0.25),
-        thickness=0.018,
-        color=col,
-        opacity=0.72,
-    )
-    membrane_marks.append(mark)
+    membrane_marks.append(ring(pos=vector(MEMBRANE_X - 0.13, pos.y, pos.z), axis=vector(1, 0, 0), radius=random.uniform(0.12, 0.25), thickness=0.018, color=col, opacity=0.72))
 
 class Vesicle:
     next_id = 0
@@ -349,14 +250,8 @@ class Vesicle:
     def __init__(self, pos=None, artistic_hue=None):
         self.id = Vesicle.next_id
         Vesicle.next_id += 1
-
         if pos is None:
-            pos = vector(
-                -5.2 + random.uniform(-0.35, 0.15),
-                cisternae[0].y + random.uniform(-0.24, 0.24),
-                random.uniform(-0.75, 0.75),
-            )
-
+            pos = vector(-5.2 + random.uniform(-0.35, 0.15), cisternae[0].y + random.uniform(-0.24, 0.24), random.uniform(-0.75, 0.75))
         self.radius = random.uniform(0.115, 0.165)
         self.pos = vector(pos.x, pos.y, pos.z)
         self.vel = vector(random.uniform(0.15, 0.45), random.uniform(-0.05, 0.05), random.uniform(-0.08, 0.08))
@@ -371,45 +266,11 @@ class Vesicle:
         self.mem_target = None
         self.just_changed = True
 
-        col = mature_color(0)
-        if artistic_hue is not None:
-            col = hue_color(artistic_hue)
-
-        self.body = sphere(
-            pos=self.pos,
-            radius=self.radius,
-            color=col,
-            opacity=0.88,
-            shininess=0.7,
-            make_trail=True,
-            retain=85,
-            trail_radius=0.014,
-            trail_color=col,
-        )
-
-        self.cargo = sphere(
-            pos=self.pos + vector(self.radius * 0.38, self.radius * 0.20, 0),
-            radius=self.radius * 0.28,
-            color=color_lerp(col, vector(1, 1, 1), 0.50),
-            opacity=0.92,
-        )
-
-        self.halo = ring(
-            pos=self.pos,
-            axis=vector(0, 1, 0),
-            radius=self.radius * 1.45,
-            thickness=0.012,
-            color=vector(1.0, 1.0, 1.0),
-            opacity=0.0,
-            visible=True,
-        )
-
-        self.marker = sphere(
-            pos=self.pos,
-            radius=self.radius * 0.18,
-            color=vector(1, 1, 1),
-            opacity=0.0,
-        )
+        col = mature_color(0) if artistic_hue is None else hue_color(artistic_hue)
+        self.body = sphere(pos=self.pos, radius=self.radius, color=col, opacity=0.88, shininess=0.7, make_trail=True, retain=85, trail_radius=0.014, trail_color=col)
+        self.cargo = sphere(pos=self.pos + vector(self.radius * 0.38, self.radius * 0.20, 0), radius=self.radius * 0.28, color=color_lerp(col, vector(1, 1, 1), 0.50), opacity=0.92)
+        self.halo = ring(pos=self.pos, axis=vector(0, 1, 0), radius=self.radius * 1.45, thickness=0.012, color=vector(1, 1, 1), opacity=0.0, visible=True)
+        self.marker = sphere(pos=self.pos, radius=self.radius * 0.18, color=vector(1, 1, 1), opacity=0.0)
 
     def progress(self):
         if self.state == "delivered":
@@ -428,8 +289,7 @@ class Vesicle:
         p = clamp((self.cis_index + self.s) / max(1, NUM_CISTERNAE - 1), 0, 1)
         col = mature_color(p)
         if self.artistic_hue is not None:
-            tint = hue_color(self.artistic_hue + 0.23 * p)
-            col = color_lerp(col, tint, 0.42)
+            col = color_lerp(col, hue_color(self.artistic_hue + 0.23 * p), 0.42)
         return col
 
     def attach_to_current(self):
@@ -459,11 +319,7 @@ class Vesicle:
         col = self.current_color()
         self.body.color = col
         self.cargo.color = color_lerp(col, vector(1, 1, 1), 0.52)
-        self.cargo.pos = self.body.pos + vector(
-            self.radius * 0.34 * math.cos(self.age * 3.0),
-            self.radius * 0.28 * math.sin(self.age * 2.3),
-            self.radius * 0.31 * math.sin(self.age * 2.0),
-        )
+        self.cargo.pos = self.body.pos + vector(self.radius * 0.34 * math.cos(self.age * 3.0), self.radius * 0.28 * math.sin(self.age * 2.3), self.radius * 0.31 * math.sin(self.age * 2.0))
         self.halo.pos = self.body.pos
         self.halo.axis = vector(0.2 * math.sin(self.age * 1.7), 1, 0.2 * math.cos(self.age * 1.5))
         self.marker.pos = self.body.pos + vector(0, self.radius * 1.2, 0)
@@ -472,8 +328,7 @@ class Vesicle:
         to_target = target - self.pos
         dist = mag(to_target)
         if dist > 1e-5:
-            desired = norm(to_target) * speed
-            self.vel = lerp(self.vel, desired, clamp(agility * dt, 0, 1))
+            self.vel = lerp(self.vel, norm(to_target) * speed, clamp(agility * dt, 0, 1))
         self.pos += self.vel * dt
         return dist
 
@@ -491,20 +346,14 @@ class Vesicle:
 
         elif self.state == "attached":
             c = cisternae[self.cis_index]
-            local_speed = (0.135 + 0.025 * self.cis_index) * flow_speed
-            self.s += dt * local_speed
-
-            dip = -0.055 * max(0, math.sin(self.s * math.pi * 2.0 + self.orbit_phase * 0.35))
+            self.s += dt * (0.135 + 0.025 * self.cis_index) * flow_speed
             wobble = 0.16 * math.sin(self.orbit_phase)
-            lift = 0.25 + 0.055 * math.cos(self.orbit_phase * 1.2) + dip
+            lift = 0.25 + 0.055 * math.cos(self.orbit_phase * 1.2)
             self.pos = c.surface_point(self.s, lift=lift, side_wobble=wobble)
-
             self.halo.opacity = 0.60 + 0.18 * math.sin(self.age * 8.0)
             self.halo.radius = self.radius * (1.45 + 0.12 * math.sin(self.age * 7.0))
-
             if random.random() < 0.012 * flow_speed:
                 spill_particles(self.pos, self.current_color(), count=1, speed=0.18, life=0.55)
-
             if self.s >= 1.0:
                 self.halo.opacity = 0.0
                 if self.cis_index < NUM_CISTERNAE - 1:
@@ -540,12 +389,7 @@ class Vesicle:
 
         self.body.pos = self.pos
         self.update_visuals()
-
-        if abs(self.progress() - old_progress) < 0.0003:
-            self.stall_time += dt
-        else:
-            self.stall_time = 0
-
+        self.stall_time = self.stall_time + dt if abs(self.progress() - old_progress) < 0.0003 else 0
         return True
 
     def deliver(self):
@@ -559,17 +403,15 @@ class Vesicle:
         self.visible_off()
 
     def visible_off(self):
-        self.body.visible = False
-        self.cargo.visible = False
-        self.halo.visible = False
-        self.marker.visible = False
+        for obj in [self.body, self.cargo, self.halo, self.marker]:
+            obj.visible = False
         try:
             self.body.clear_trail()
         except Exception:
             pass
 
 # ----------------------------
-# Spawning and reset
+# Spawning/reset
 # ----------------------------
 
 def spawn_vesicle(pos=None, artistic_hue=None):
@@ -583,14 +425,8 @@ def spawn_vesicle(pos=None, artistic_hue=None):
 
 def spawn_burst(count=5, artistic=False):
     for i in range(count):
-        hue = None
-        if artistic:
-            hue = (sim_time * 0.055 + i / max(1, count)) % 1.0
-        pos = vector(
-            -5.4 + random.uniform(-0.28, 0.18),
-            cisternae[0].y + random.uniform(-0.38, 0.38),
-            random.uniform(-1.0, 1.0),
-        )
+        hue = (sim_time * 0.055 + i / max(1, count)) % 1.0 if artistic else None
+        pos = vector(-5.4 + random.uniform(-0.28, 0.18), cisternae[0].y + random.uniform(-0.38, 0.38), random.uniform(-1.0, 1.0))
         spawn_vesicle(pos=pos, artistic_hue=hue)
 
 def clear_dynamic_objects():
@@ -598,11 +434,9 @@ def clear_dynamic_objects():
     for v in vesicles:
         v.visible_off()
     vesicles = []
-
     for p in particles:
         p.obj.visible = False
     particles = []
-
     for m in membrane_marks:
         m.visible = False
     membrane_marks = []
@@ -621,22 +455,13 @@ def reset_simulation(spawn_initial=True, new_round=True):
         spawn_burst(5, artistic=False)
 
 # ----------------------------
-# AI controller
+# AI
 # ----------------------------
 
 class AIController:
     def __init__(self):
         self.enabled = True
-        self.mode_names = [
-            "careful",
-            "constructive",
-            "organize",
-            "curious",
-            "ritual",
-            "artistic",
-            "chaotic",
-            "destructive",
-        ]
+        self.mode_names = ["careful", "constructive", "organize", "curious", "ritual", "artistic", "chaotic", "destructive"]
         self.mode = "constructive"
         self.previous_mode = None
         self.mode_started = 0.0
@@ -649,33 +474,9 @@ class AIController:
         self.action_timer = 0.0
         self.override_until = 0.0
         self.loop_delay = 2.5
-        self.rounds_started_by_ai = 0
-
-        self.drone = sphere(
-            pos=vector(-4.6, 3.35, 0),
-            radius=0.15,
-            color=vector(0.84, 0.38, 1.0),
-            emissive=True,
-            make_trail=True,
-            retain=140,
-            trail_radius=0.012,
-            trail_color=vector(0.7, 0.4, 1.0),
-        )
-        self.drone_ring = ring(
-            pos=self.drone.pos,
-            axis=vector(0, 1, 0),
-            radius=0.27,
-            thickness=0.015,
-            color=vector(0.84, 0.38, 1.0),
-            opacity=0.75,
-        )
-        self.mode_label = label(
-            pos=self.drone.pos + vector(0, 0.45, 0),
-            text="AI: constructive",
-            height=12,
-            box=False,
-            color=vector(0.35, 0.18, 0.45),
-        )
+        self.drone = sphere(pos=vector(-4.6, 3.35, 0), radius=0.15, color=vector(0.84, 0.38, 1.0), emissive=True, make_trail=True, retain=140, trail_radius=0.012, trail_color=vector(0.7, 0.4, 1.0))
+        self.drone_ring = ring(pos=self.drone.pos, axis=vector(0, 1, 0), radius=0.27, thickness=0.015, color=self.drone.color, opacity=0.75)
+        self.mode_label = label(pos=self.drone.pos + vector(0, 0.45, 0), text="AI: constructive", height=12, box=False, color=vector(0.35, 0.18, 0.45))
 
     def read_state(self):
         active = [v for v in vesicles if v.state != "delivered"]
@@ -686,70 +487,42 @@ class AIController:
         progress_metric = sum(v.progress() for v in active) + delivered_round * (NUM_CISTERNAE + 2)
         avg_progress = sum(v.progress() for v in active) / max(1, len(active))
         return {
-            "active": active,
-            "attached": attached,
-            "free": free,
-            "outgoing": outgoing,
-            "stalled": stalled,
-            "count": len(active),
-            "attached_count": len(attached),
-            "free_count": len(free),
-            "outgoing_count": len(outgoing),
-            "delivered_round": delivered_round,
-            "progress_metric": progress_metric,
+            "active": active, "attached": attached, "free": free, "outgoing": outgoing,
+            "stalled": stalled, "count": len(active), "attached_count": len(attached),
+            "free_count": len(free), "outgoing_count": len(outgoing),
+            "delivered_round": delivered_round, "progress_metric": progress_metric,
             "avg_progress": avg_progress,
         }
 
     def detect_stagnation_or_completion(self, state, dt):
         metric = state["progress_metric"]
-        if abs(metric - self.last_metric) > 0.03 or state["count"] != 0:
-            if abs(metric - self.last_metric) > 0.03:
-                self.last_change_time = sim_time
+        if abs(metric - self.last_metric) > 0.03:
+            self.last_change_time = sim_time
             self.last_metric = metric
-
         no_active = state["count"] == 0
         complete = delivered_round >= ROUND_GOAL and no_active
         empty = no_active and sim_time - last_spawn_time > 2.5
-
-        if complete:
+        if complete or empty:
             if self.completion_time is None:
                 self.completion_time = sim_time
-            return "complete"
-
-        if empty:
-            if self.completion_time is None:
-                self.completion_time = sim_time
-            return "empty"
-
+            return "complete" if complete else "empty"
         self.completion_time = None
-
         if sim_time - self.last_change_time > 13.0 and sim_time > 5.0:
             self.stagnation_time += dt
             if self.stagnation_time > 2.0:
                 return "stagnant"
         else:
             self.stagnation_time = 0.0
-
         return "moving"
 
     def choose_new_mode(self, reason="timer"):
-        candidates = self.mode_names[:]
-        if self.mode in candidates and len(candidates) > 1:
-            candidates.remove(self.mode)
-
+        choices = [m for m in self.mode_names if m != self.mode]
         if reason == "empty":
-            preferred = ["constructive", "ritual", "artistic"]
+            preferred = [m for m in ["constructive", "ritual", "artistic"] if m != self.mode]
+            choices = preferred or choices
         elif reason == "stagnant":
-            preferred = ["chaotic", "curious", "destructive", "constructive"]
-        elif delivered_round > ROUND_GOAL * 0.65:
-            preferred = ["artistic", "ritual", "organize"]
-        else:
-            preferred = candidates
-
-        choices = [m for m in preferred if m != self.mode]
-        if not choices:
-            choices = candidates
-
+            preferred = [m for m in ["chaotic", "curious", "destructive", "constructive"] if m != self.mode]
+            choices = preferred or choices
         self.previous_mode = self.mode
         self.mode = random.choice(choices)
         self.mode_started = sim_time
@@ -760,197 +533,68 @@ class AIController:
 
     def next_mode_manual(self):
         idx = self.mode_names.index(self.mode)
-        self.previous_mode = self.mode
         self.mode = self.mode_names[(idx + 1) % len(self.mode_names)]
         self.mode_started = sim_time
-        self.next_switch = random.uniform(9.0, 16.0)
         self.mode_label.text = "AI: " + self.mode
 
     def update_drone(self, dt, state):
         if not self.enabled:
             target = vector(-5.0, 3.35, -1.7)
             self.drone.color = vector(0.55, 0.55, 0.60)
-            self.drone_ring.color = self.drone.color
-            self.mode_label.text = "AI: off"
-        elif human_override or sim_time < self.override_until:
-            target = vector(-4.5, 3.35, 1.8)
-            self.drone.color = vector(1.0, 0.76, 0.20)
-            self.drone_ring.color = self.drone.color
-            self.mode_label.text = "AI: human override"
+        elif self.mode == "curious" and state["active"]:
+            target = min(state["active"], key=lambda v: v.progress()).pos + vector(0, 0.55, 0)
+            self.drone.color = vector(0.80, 0.45, 1.0)
+        elif self.mode == "organize" and state["active"]:
+            avg = vector(0, 0, 0)
+            for v in state["active"]:
+                avg += v.pos
+            target = avg / len(state["active"]) + vector(0, 0.85, 0)
+            self.drone.color = vector(0.45, 0.72, 1.0)
+        elif self.mode == "artistic":
+            angle = sim_time * 1.25
+            target = vector(-0.4 + 3.9 * math.cos(angle), 2.7 + 0.45 * math.sin(angle * 0.7), 2.2 * math.sin(angle))
+            self.drone.color = vector(1.0, 0.32, 0.72)
+        elif self.mode == "chaotic":
+            target = vector(random.uniform(-4.2, 4.8), random.uniform(-2.2, 3.4), random.uniform(-2.2, 2.2))
+            self.drone.color = vector(1.0, 0.58, 0.15)
         else:
-            self.drone.color = {
-                "careful": vector(0.28, 0.65, 1.0),
-                "constructive": vector(0.25, 0.95, 0.55),
-                "organize": vector(0.45, 0.72, 1.0),
-                "curious": vector(0.80, 0.45, 1.0),
-                "ritual": vector(0.65, 0.42, 1.0),
-                "artistic": vector(1.0, 0.32, 0.72),
-                "chaotic": vector(1.0, 0.58, 0.15),
-                "destructive": vector(1.0, 0.25, 0.18),
-            }.get(self.mode, vector(0.8, 0.4, 1.0))
-            self.drone_ring.color = self.drone.color
-            self.mode_label.text = "AI: " + self.mode
-
-            if self.mode == "curious" and state["active"]:
-                target_v = min(state["active"], key=lambda v: v.progress())
-                target = target_v.pos + vector(0, 0.55, 0)
-            elif self.mode == "organize" and state["active"]:
-                avg = vector(0, 0, 0)
-                for v in state["active"]:
-                    avg += v.pos
-                avg /= len(state["active"])
-                target = avg + vector(0, 0.85, 0)
-            elif self.mode == "ritual":
-                angle = sim_time * 0.9
-                target = vector(0, 0.1, 0) + vector(3.7 * math.cos(angle), 3.1, 2.1 * math.sin(angle))
-            elif self.mode == "artistic":
-                angle = sim_time * 1.25
-                target = vector(-0.4 + 3.9 * math.cos(angle), 2.7 + 0.45 * math.sin(angle * 0.7), 2.2 * math.sin(angle))
-            elif self.mode == "chaotic":
-                target = vector(random.uniform(-4.2, 4.8), random.uniform(-2.2, 3.4), random.uniform(-2.2, 2.2))
-            elif self.mode == "destructive" and state["active"]:
-                target = random.choice(state["active"]).pos + vector(0, 0.35, 0)
-            else:
-                angle = sim_time * 0.45
-                target = vector(-2.6 + 1.0 * math.cos(angle), 3.25 + 0.15 * math.sin(angle), 1.5 * math.sin(angle))
-
+            angle = sim_time * 0.45
+            target = vector(-2.6 + math.cos(angle), 3.25 + 0.15 * math.sin(angle), 1.5 * math.sin(angle))
+            self.drone.color = vector(0.25, 0.95, 0.55) if self.mode == "constructive" else vector(0.28, 0.65, 1.0)
         self.drone.pos = lerp(self.drone.pos, target, clamp(dt * 2.4, 0, 1))
         self.drone_ring.pos = self.drone.pos
+        self.drone_ring.color = self.drone.color
         self.drone_ring.axis = vector(math.sin(sim_time * 2.2), 1, math.cos(sim_time * 2.0))
         self.mode_label.pos = self.drone.pos + vector(0, 0.42, 0)
+        self.mode_label.text = "AI: " + ("off" if not self.enabled else self.mode)
 
     def organize_spacing(self, state, dt):
-        active = state["active"]
-        for v in active:
+        for v in state["active"]:
             if v.state == "attached":
-                desired_z = 0.14 * math.sin(v.cis_index * 1.3 + v.id)
-                v.pos.z = lerp(v.pos.z, desired_z, dt * 0.5)
+                v.pos.z = lerp(v.pos.z, 0.14 * math.sin(v.cis_index * 1.3 + v.id), dt * 0.5)
             elif v.state in ["incoming", "transfer"]:
-                lane_z = ((v.id % 5) - 2) * 0.22
-                v.vel.z += (lane_z - v.pos.z) * dt * 0.8
+                v.vel.z += (((v.id % 5) - 2) * 0.22 - v.pos.z) * dt * 0.8
 
     def nudge_stalled(self, state, strength=0.65):
         targets = state["stalled"] if state["stalled"] else state["active"]
-        if not targets:
-            return
-        v = random.choice(targets)
-        v.force_detach(strength)
-        spill_particles(v.pos, self.drone.color, count=7, speed=0.55, life=0.9)
-
-    def force_marking(self, state):
-        if not state["active"]:
-            return
-        v = random.choice(state["active"])
-        v.marker.opacity = 0.75
-        v.marker.color = self.drone.color
-        spill_particles(v.pos + vector(0, 0.25, 0), self.drone.color, count=4, speed=0.24, life=0.8)
-
-    def actions_for_mode(self, state, dt):
-        global flow_speed
-
-        self.action_timer += dt
-        self.pulse_timer += dt
-
-        if self.mode == "careful":
-            flow_speed = lerp(flow_speed, 0.75, dt * 0.8)
-            if state["count"] < 5 and self.action_timer > 1.8:
-                spawn_vesicle()
-                self.action_timer = 0
-            self.organize_spacing(state, dt)
-            if state["stalled"] and self.action_timer > 1.0:
-                self.nudge_stalled(state, 0.35)
-                self.action_timer = 0
-
-        elif self.mode == "constructive":
-            flow_speed = lerp(flow_speed, 1.15, dt * 0.9)
-            if state["count"] < 14 and self.action_timer > random.uniform(0.45, 1.05):
-                spawn_vesicle()
-                self.action_timer = 0
-            if state["count"] < 4 and self.action_timer > 0.2:
-                spawn_burst(3)
-
-        elif self.mode == "organize":
-            flow_speed = lerp(flow_speed, 0.95, dt * 1.0)
-            self.organize_spacing(state, dt)
-            if self.action_timer > 2.4:
-                self.force_marking(state)
-                self.action_timer = 0
-            if state["count"] < 7:
-                spawn_vesicle()
-
-        elif self.mode == "curious":
-            flow_speed = lerp(flow_speed, 1.05, dt * 0.8)
-            if self.action_timer > 1.7:
-                self.nudge_stalled(state, 0.45)
-                self.force_marking(state)
-                self.action_timer = 0
-            if state["count"] < 8 and random.random() < 0.025:
-                spawn_vesicle()
-
-        elif self.mode == "ritual":
-            flow_speed = lerp(flow_speed, 0.92 + 0.25 * math.sin(sim_time * 1.1), dt * 1.2)
-            pulse = 0.10 + 0.09 * math.sin(sim_time * 3.0)
-            for i, c in enumerate(cisternae):
-                c.pulse(max(0.02, pulse * (0.5 + 0.5 * math.sin(sim_time * 1.7 + i))))
-            if self.pulse_timer > 4.0:
-                spawn_burst(4, artistic=False)
-                spill_particles(vector(-4.8, cisternae[0].y + 0.3, 0), self.drone.color, count=15, speed=0.55, life=1.2)
-                self.pulse_timer = 0
-            self.organize_spacing(state, dt)
-
-        elif self.mode == "artistic":
-            flow_speed = lerp(flow_speed, 1.22, dt * 0.8)
-            if self.action_timer > 0.95 and state["count"] < 20:
-                hue = (sim_time * 0.072 + random.random() * 0.14) % 1.0
-                spawn_vesicle(artistic_hue=hue)
-                self.action_timer = 0
-            if random.random() < 0.018:
-                pos = self.drone.pos + random_unit_vector() * 0.22
-                spill_particles(pos, hue_color(sim_time * 0.08), count=2, speed=0.25, life=0.9)
-
-        elif self.mode == "chaotic":
-            flow_speed = lerp(flow_speed, 1.78, dt * 1.8)
-            for c in cisternae:
-                c.pulse(random.uniform(0.02, 0.16))
-            if self.action_timer > random.uniform(0.55, 1.3):
-                if random.random() < 0.58:
-                    spawn_burst(random.randint(2, 5), artistic=random.random() < 0.45)
-                self.nudge_stalled(state, random.uniform(0.7, 1.4))
-                for v in random.sample(state["active"], min(len(state["active"]), random.randint(1, 4))):
-                    v.vel += random_unit_vector() * random.uniform(0.35, 1.0)
-                self.action_timer = 0
-
-        elif self.mode == "destructive":
-            flow_speed = lerp(flow_speed, 1.55, dt * 1.3)
-            if self.action_timer > 1.25:
-                targets = state["attached"] if state["attached"] else state["active"]
-                if targets:
-                    for v in random.sample(targets, min(len(targets), 3)):
-                        v.force_detach(random.uniform(0.8, 1.5))
-                else:
-                    spawn_burst(3, artistic=True)
-                self.action_timer = 0
-            if sim_time - self.mode_started > 7.5:
-                self.choose_new_mode("timer")
+        if targets:
+            v = random.choice(targets)
+            v.force_detach(strength)
+            spill_particles(v.pos, self.drone.color, count=7, speed=0.55, life=0.9)
 
     def update(self, dt):
+        global flow_speed
         state = self.read_state()
         self.update_drone(dt, state)
-
-        if not self.enabled or human_override or sim_time < self.override_until:
+        if not self.enabled:
             return
-
         detector = self.detect_stagnation_or_completion(state, dt)
-
-        if detector in ["complete", "empty"]:
-            if self.completion_time is not None and sim_time - self.completion_time > self.loop_delay:
-                self.rounds_started_by_ai += 1
-                reset_simulation(spawn_initial=True, new_round=True)
-                self.completion_time = None
-                self.last_change_time = sim_time
-                self.choose_new_mode(detector)
-                return
-
+        if detector in ["complete", "empty"] and self.completion_time is not None and sim_time - self.completion_time > self.loop_delay:
+            reset_simulation(spawn_initial=True, new_round=True)
+            self.completion_time = None
+            self.last_change_time = sim_time
+            self.choose_new_mode(detector)
+            return
         if detector == "stagnant":
             self.choose_new_mode("stagnant")
             if state["count"] == 0:
@@ -958,28 +602,270 @@ class AIController:
             else:
                 self.nudge_stalled(state, 1.2)
             self.last_change_time = sim_time
-
         if sim_time - self.mode_started > self.next_switch:
             self.choose_new_mode("timer")
-
         if state["count"] == 0 and delivered_round < ROUND_GOAL:
             self.choose_new_mode("empty")
             spawn_burst(4, artistic=self.mode in ["artistic", "chaotic"])
 
-        self.actions_for_mode(state, dt)
+        self.action_timer += dt
+        self.pulse_timer += dt
+        if self.mode == "careful":
+            flow_speed = lerp(flow_speed, 0.75, dt * 0.8)
+            if state["count"] < 5 and self.action_timer > 1.8:
+                spawn_vesicle()
+                self.action_timer = 0
+            self.organize_spacing(state, dt)
+        elif self.mode == "constructive":
+            flow_speed = lerp(flow_speed, 1.15, dt * 0.9)
+            if state["count"] < 14 and self.action_timer > random.uniform(0.45, 1.05):
+                spawn_vesicle()
+                self.action_timer = 0
+            if state["count"] < 4:
+                spawn_burst(3)
+        elif self.mode == "organize":
+            flow_speed = lerp(flow_speed, 0.95, dt)
+            self.organize_spacing(state, dt)
+            if state["count"] < 7:
+                spawn_vesicle()
+        elif self.mode == "artistic":
+            flow_speed = lerp(flow_speed, 1.22, dt * 0.8)
+            if self.action_timer > 0.95 and state["count"] < 20:
+                spawn_vesicle(artistic_hue=(sim_time * 0.072 + random.random() * 0.14) % 1.0)
+                self.action_timer = 0
+        elif self.mode == "chaotic":
+            flow_speed = lerp(flow_speed, 1.78, dt * 1.8)
+            if self.action_timer > random.uniform(0.55, 1.3):
+                if random.random() < 0.58:
+                    spawn_burst(random.randint(2, 5), artistic=random.random() < 0.45)
+                self.nudge_stalled(state, random.uniform(0.7, 1.4))
+                for v in random.sample(state["active"], min(len(state["active"]), random.randint(1, 4))):
+                    v.vel += random_unit_vector() * random.uniform(0.35, 1.0)
+                self.action_timer = 0
+        elif self.mode == "destructive":
+            flow_speed = lerp(flow_speed, 1.55, dt * 1.3)
+            if self.action_timer > 1.25:
+                targets = state["attached"] if state["attached"] else state["active"]
+                for v in random.sample(targets, min(len(targets), 3)):
+                    v.force_detach(random.uniform(0.8, 1.5))
+                self.action_timer = 0
+
+# ----------------------------
+# Setup
+# ----------------------------
+
+cisterna_colors = [
+    vector(0.62, 0.85, 1.0),
+    vector(0.57, 0.92, 0.92),
+    vector(0.66, 0.95, 0.72),
+    vector(1.00, 0.92, 0.58),
+    vector(1.00, 0.74, 0.55),
+    vector(1.00, 0.62, 0.78),
+]
+for i in range(NUM_CISTERNAE):
+    cisternae.append(Cisterna(i, -2.35 + i * 0.88, cisterna_colors[i]))
 
 ai = AIController()
 
 # ----------------------------
-# Collisions
+# CSV helpers
+# ----------------------------
+
+csv_file = None
+csv_writer = None
+
+def color_fields(c):
+    return {"color_r": getattr(c, "x", ""), "color_g": getattr(c, "y", ""), "color_b": getattr(c, "z", "")}
+
+def active_vesicles():
+    return [v for v in vesicles if v.state != "delivered"]
+
+def state_counts(active):
+    counts = {"incoming": 0, "attached": 0, "transfer": 0, "outgoing": 0}
+    for v in active:
+        if v.state in counts:
+            counts[v.state] += 1
+    return counts
+
+def selected_vesicle():
+    active = active_vesicles()
+    if not active:
+        return None
+    global manual_selected_index
+    manual_selected_index %= len(active)
+    return active[manual_selected_index]
+
+def open_csv_storage():
+    global csv_file, csv_writer
+    os.makedirs(os.path.dirname(CSV_OUTPUT_PATH) or ".", exist_ok=True)
+    csv_file = open(CSV_OUTPUT_PATH, "w", newline="", encoding="utf-8")
+    csv_writer = csv.DictWriter(csv_file, fieldnames=CSV_FIELDS, extrasaction="ignore")
+    csv_writer.writeheader()
+    csv_file.flush()
+
+def close_csv_storage():
+    global csv_file
+    if csv_file is not None:
+        csv_file.flush()
+        csv_file.close()
+        csv_file = None
+
+def write_csv_row(row):
+    if csv_writer is None:
+        return
+    active = active_vesicles()
+    counts = state_counts(active)
+    selected = selected_vesicle()
+    base = {
+        "run_id": csv_run_id,
+        "time": round(sim_time, 4),
+        "round": round_number,
+        "ai_enabled": ai.enabled,
+        "ai_mode": ai.mode,
+        "paused": paused,
+        "flow_speed": round(flow_speed, 5),
+        "delivered_round": delivered_round,
+        "total_delivered": total_delivered,
+        "active_vesicles": len(active),
+        "incoming_count": counts["incoming"],
+        "attached_count": counts["attached"],
+        "transfer_count": counts["transfer"],
+        "outgoing_count": counts["outgoing"],
+        "particle_count": len(particles),
+        "membrane_mark_count": len(membrane_marks),
+        "selected_vesicle_id": "" if selected is None else selected.id,
+    }
+    base.update(row)
+    csv_writer.writerow(base)
+
+def record_csv_snapshot(include_static=False):
+    write_csv_row({
+        "row_type": "summary",
+        "object_id": "summary",
+        "state": "running" if not paused else "paused",
+        "drone_x": ai.drone.pos.x,
+        "drone_y": ai.drone.pos.y,
+        "drone_z": ai.drone.pos.z,
+        "stagnation_time": ai.stagnation_time,
+        "completion_time": "" if ai.completion_time is None else ai.completion_time,
+        "membrane_x": MEMBRANE_X,
+    })
+
+    write_csv_row({
+        "row_type": "ai_controller",
+        "object_id": "ai",
+        "object_name": f"AI_{ai.mode}",
+        "state": "enabled" if ai.enabled else "disabled",
+        "x": ai.drone.pos.x,
+        "y": ai.drone.pos.y,
+        "z": ai.drone.pos.z,
+        "radius": ai.drone.radius,
+        "stagnation_time": ai.stagnation_time,
+        "completion_time": "" if ai.completion_time is None else ai.completion_time,
+        **color_fields(ai.drone.color),
+    })
+
+    for v in active_vesicles():
+        col = v.current_color()
+        write_csv_row({
+            "row_type": "vesicle",
+            "object_id": v.id,
+            "object_name": f"vesicle_{v.id}",
+            "state": v.state,
+            "x": v.pos.x, "y": v.pos.y, "z": v.pos.z,
+            "vx": v.vel.x, "vy": v.vel.y, "vz": v.vel.z,
+            "radius": v.radius,
+            "progress": v.progress(),
+            "cis_index": v.cis_index,
+            "s": v.s,
+            "age": v.age,
+            "stall_time": v.stall_time,
+            "target_x": getattr(v.target, "x", ""),
+            "target_y": getattr(v.target, "y", ""),
+            "target_z": getattr(v.target, "z", ""),
+            "cargo_x": v.cargo.pos.x,
+            "cargo_y": v.cargo.pos.y,
+            "cargo_z": v.cargo.pos.z,
+            "opacity": v.body.opacity,
+            **color_fields(col),
+        })
+
+    for i, p in enumerate(particles):
+        write_csv_row({
+            "row_type": "particle",
+            "object_id": i,
+            "object_name": f"particle_{i}",
+            "state": "active",
+            "x": p.obj.pos.x, "y": p.obj.pos.y, "z": p.obj.pos.z,
+            "vx": p.vel.x, "vy": p.vel.y, "vz": p.vel.z,
+            "radius": p.obj.radius,
+            "life": p.life,
+            "max_life": p.max_life,
+            "opacity": p.obj.opacity,
+            **color_fields(p.obj.color),
+        })
+
+    for i, mark in enumerate(membrane_marks):
+        write_csv_row({
+            "row_type": "membrane_mark",
+            "object_id": i,
+            "object_name": f"membrane_mark_{i}",
+            "state": "visible" if getattr(mark, "visible", True) else "hidden",
+            "x": mark.pos.x, "y": mark.pos.y, "z": mark.pos.z,
+            "radius": mark.radius,
+            "opacity": mark.opacity,
+            "membrane_x": MEMBRANE_X,
+            **color_fields(mark.color),
+        })
+
+    if include_static:
+        write_csv_row({
+            "row_type": "membrane",
+            "object_id": "membrane",
+            "object_name": "delivery_zone",
+            "state": "static",
+            "x": membrane.pos.x, "y": membrane.pos.y, "z": membrane.pos.z,
+            "membrane_x": MEMBRANE_X,
+            "opacity": membrane.opacity,
+            **color_fields(membrane.color),
+        })
+        for c in cisternae:
+            write_csv_row({
+                "row_type": "cisterna",
+                "object_id": c.index,
+                "object_name": f"cisterna_{c.index}",
+                "state": "static",
+                "cisterna_index": c.index,
+                "cisterna_y": c.y,
+                "x": c.xoff,
+                "y": c.y,
+                "z": c.zoff,
+                "radius": c.width,
+                **color_fields(c.base_color),
+            })
+        for i, rec in enumerate(receptors):
+            write_csv_row({
+                "row_type": "receptor",
+                "object_id": i,
+                "object_name": f"receptor_{i}",
+                "state": "static",
+                "receptor_index": i,
+                "x": rec.pos.x, "y": rec.pos.y, "z": rec.pos.z,
+                "radius": rec.radius,
+                "opacity": rec.opacity,
+                "membrane_x": MEMBRANE_X,
+                **color_fields(rec.color),
+            })
+
+# ----------------------------
+# Runtime helpers
 # ----------------------------
 
 def handle_collisions(dt):
     active = [v for v in vesicles if v.state not in ["delivered", "attached"]]
-    n = len(active)
-    for i in range(n):
+    for i in range(len(active)):
         a = active[i]
-        for j in range(i + 1, n):
+        for j in range(i + 1, len(active)):
             b = active[j]
             delta = b.pos - a.pos
             d = mag(delta)
@@ -988,30 +874,11 @@ def handle_collisions(dt):
                 push = norm(delta) * (min_d - d) * 0.52
                 a.pos -= push
                 b.pos += push
-                rel = b.vel - a.vel
-                normal = norm(delta)
-                impulse = dot(rel, normal)
-                if impulse < 0.4:
-                    a.vel += normal * impulse * 0.35 - normal * 0.10
-                    b.vel -= normal * impulse * 0.35 + normal * 0.10
                 col = color_lerp(a.body.color, b.body.color, 0.5)
                 if random.random() < 0.40:
                     spill_particles((a.pos + b.pos) * 0.5, col, count=2, speed=0.32, life=0.55)
 
-# ----------------------------
-# Human controls
-# ----------------------------
-
-def selected_vesicle():
-    active = [v for v in vesicles if v.state != "delivered"]
-    if not active:
-        return None
-    global manual_selected_index
-    manual_selected_index %= len(active)
-    return active[manual_selected_index]
-
 def nudge_selected(vec):
-    global human_override
     v = selected_vesicle()
     if v is not None:
         v.vel += vec
@@ -1020,17 +887,12 @@ def nudge_selected(vec):
         ai.override_until = sim_time + 4.0
 
 def keydown(evt):
-    global paused, orbit_camera, manual_selected_index, human_override
-
+    global paused, manual_selected_index
     k = evt.key
-
     if k == " ":
         paused = not paused
     elif k in ["a", "A"]:
         ai.enabled = not ai.enabled
-        ai.mode_label.text = "AI: " + ("on" if ai.enabled else "off")
-    elif k in ["e", "E"]:
-        human_override = not human_override
     elif k in ["m", "M"]:
         ai.next_mode_manual()
     elif k in ["r", "R"]:
@@ -1049,8 +911,6 @@ def keydown(evt):
         if v is not None:
             v.force_detach(1.4)
             ai.override_until = sim_time + 4.0
-    elif k in ["c", "C"]:
-        orbit_camera = not orbit_camera
     elif k == "up" or k in ["i", "I"]:
         nudge_selected(vector(0, 0.55, 0))
     elif k == "down" or k in ["k", "K"]:
@@ -1066,17 +926,6 @@ def keydown(evt):
 
 scene.bind("keydown", keydown)
 
-# ----------------------------
-# Initial round
-# ----------------------------
-
-spawn_burst(6, artistic=False)
-ai.last_change_time = 0.0
-
-# ----------------------------
-# Status display
-# ----------------------------
-
 def update_selector():
     v = selected_vesicle()
     if v is None:
@@ -1086,88 +935,97 @@ def update_selector():
     selector_ring.pos = v.pos
     selector_ring.radius = v.radius * 1.95
     selector_ring.axis = vector(0, 1, 0)
-    selector_ring.color = vector(0.12, 0.16, 0.22)
 
 def update_status():
-    active = [v for v in vesicles if v.state != "delivered"]
-    state_counts = {}
-    for v in active:
-        state_counts[v.state] = state_counts.get(v.state, 0) + 1
-
+    active = active_vesicles()
+    counts = state_counts(active)
     status_label.text = (
-        f"Round {round_number} | delivered {delivered_round}/{ROUND_GOAL} "
-        f"| total {total_delivered} | active {len(active)} | "
-        f"AI {'ON' if ai.enabled else 'OFF'}:{ai.mode} "
-        f"{'| HUMAN OVERRIDE' if human_override else ''} "
+        f"Round {round_number} | delivered {delivered_round}/{ROUND_GOAL} | total {total_delivered} "
+        f"| active {len(active)} | AI {'ON' if ai.enabled else 'OFF'}:{ai.mode} "
         f"{'| PAUSED' if paused else ''}\n"
-        f"incoming {state_counts.get('incoming', 0)}  attached {state_counts.get('attached', 0)}  "
-        f"transfer {state_counts.get('transfer', 0)}  outgoing {state_counts.get('outgoing', 0)}  "
-        f"flow {flow_speed:.2f}"
+        f"incoming {counts['incoming']}  attached {counts['attached']}  transfer {counts['transfer']}  "
+        f"outgoing {counts['outgoing']}  flow {flow_speed:.2f}"
     )
 
 # ----------------------------
-# Main loop
+# Initial round and main loop
 # ----------------------------
 
+spawn_burst(6, artistic=False)
+ai.last_change_time = 0.0
+
+open_csv_storage()
+record_csv_snapshot(include_static=True)
+
 last_real = time.time()
+last_status_update = 0.0
+csv_next_sample_time = 0.0
+csv_next_static_sample_time = 0.0
 
-while True:
-    rate(60)
+try:
+    while True:
+        rate(60)
+        now = time.time()
+        dt = min(0.035, max(0.001, now - last_real))
+        last_real = now
 
-    now = time.time()
-    dt = min(0.035, max(0.001, now - last_real))
-    last_real = now
+        if paused:
+            ai.update_drone(dt, ai.read_state())
+            update_selector()
+            update_status()
+        else:
+            sim_time += dt
 
-    if paused:
-        ai.update_drone(dt, ai.read_state())
-        update_selector()
-        update_status()
-        continue
+            ai.update(dt)
 
-    sim_time += dt
+            survivors = []
+            for v in vesicles:
+                alive = v.update(dt)
+                if alive and v.state != "delivered":
+                    survivors.append(v)
+            vesicles = survivors
 
-    # Camera orbit is optional and gentle so manual interaction remains usable.
-    if orbit_camera:
-        angle = sim_time * 0.13
-        scene.forward = vector(-7.5 * math.cos(angle), -3.0, -6.5 * math.sin(angle) - 0.25)
+            handle_collisions(dt)
 
-    # Update AI first so it can spawn, organize, mark, detach, or reset.
-    ai.update(dt)
+            particle_survivors = []
+            for p in particles:
+                if p.update(dt):
+                    particle_survivors.append(p)
+            particles = particle_survivors
 
-    # Update dynamic Golgi traffic.
-    survivors = []
-    for v in vesicles:
-        alive = v.update(dt)
-        if alive and v.state != "delivered":
-            survivors.append(v)
-    vesicles = survivors
+            for v in vesicles:
+                if v.marker.opacity > 0:
+                    v.marker.opacity = max(0, v.marker.opacity - dt * 0.35)
 
-    handle_collisions(dt)
+            for i, rec in enumerate(receptors):
+                rec.opacity = 0.42 + 0.18 * (0.5 + 0.5 * math.sin(sim_time * 1.4 + i * 0.7))
+                rec.radius = 0.145 + 0.025 * math.sin(sim_time * 1.1 + i)
 
-    # Update particles.
-    particle_survivors = []
-    for p in particles:
-        if p.update(dt):
-            particle_survivors.append(p)
-    particles = particle_survivors
+            if ai.mode not in ["ritual", "chaotic"] or not ai.enabled:
+                for c in cisternae:
+                    c.restore_opacity()
 
-    # Fade temporary vesicle markers.
-    for v in vesicles:
-        if v.marker.opacity > 0:
-            v.marker.opacity = max(0, v.marker.opacity - dt * 0.35)
+            update_selector()
+            if sim_time - last_status_update > 0.15:
+                update_status()
+                last_status_update = sim_time
 
-    # Subtle membrane receptor pulsing.
-    for i, rec in enumerate(receptors):
-        rec.opacity = 0.42 + 0.18 * (0.5 + 0.5 * math.sin(sim_time * 1.4 + i * 0.7))
-        rec.radius = 0.145 + 0.025 * math.sin(sim_time * 1.1 + i)
+        if sim_time >= csv_next_sample_time:
+            include_static = sim_time >= csv_next_static_sample_time
+            record_csv_snapshot(include_static=include_static)
+            csv_next_sample_time += CSV_SAMPLE_INTERVAL
+            if include_static:
+                csv_next_static_sample_time += CSV_STATIC_SAMPLE_INTERVAL
+            if csv_file is not None:
+                csv_file.flush()
 
-    # Restore cisternae opacity unless an AI behavior is intentionally pulsing them.
-    if ai.mode not in ["ritual", "chaotic"] or not ai.enabled or human_override:
-        for c in cisternae:
-            c.restore_opacity()
-
-    update_selector()
-
-    if sim_time - last_status_update > 0.15:
-        update_status()
-        last_status_update = sim_time
+        if sim_time >= CSV_RUN_SECONDS:
+            record_csv_snapshot(include_static=True)
+            close_csv_storage()
+            status_label.text = (
+                f"CSV recording complete: {CSV_RUN_SECONDS:0.0f}s saved to "
+                f"{os.path.basename(CSV_OUTPUT_PATH)}"
+            )
+            break
+finally:
+    close_csv_storage()

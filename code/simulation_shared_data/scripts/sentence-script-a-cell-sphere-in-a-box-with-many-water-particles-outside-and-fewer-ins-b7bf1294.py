@@ -1,6 +1,10 @@
 from vpython import *
 import random as pyrandom
 import math
+import csv
+import json
+import os
+from datetime import datetime
 
 # 3D Osmosis and Cell Swelling/Shrinking Simulation with Expressive AI Controller
 # Controls:
@@ -872,6 +876,199 @@ class ExpressiveAIController:
 sim = OsmosisSimulation()
 controller = ExpressiveAIController(sim)
 
+# ------------------------------------------------------------
+# CSV logging support for core sentence branching web app
+# ------------------------------------------------------------
+CSV_RUN_SECONDS = float(os.environ.get("SIMULATION_CSV_RUN_SECONDS", "60"))
+CSV_SAMPLE_HZ = float(os.environ.get("SIMULATION_CSV_SAMPLE_HZ", "10"))
+CSV_SAMPLE_INTERVAL = 1.0 / max(0.001, CSV_SAMPLE_HZ)
+
+_csv_output_dir = os.environ.get("SIMULATION_CSV_OUTPUT_DIR")
+_csv_run_id = os.environ.get("SIMULATION_CSV_RUN_ID", datetime.now().strftime("%Y%m%d_%H%M%S"))
+
+if _csv_output_dir:
+    os.makedirs(_csv_output_dir, exist_ok=True)
+    CSV_OUTPUT_PATH = os.path.join(_csv_output_dir, f"{_csv_run_id}-osmosis-state-log.csv")
+else:
+    CSV_OUTPUT_PATH = os.environ.get(
+        "SIM_STATE_CSV_PATH",
+        os.path.join(os.path.dirname(os.path.abspath(__file__)), "osmosis_state_log.csv")
+    )
+    parent = os.path.dirname(CSV_OUTPUT_PATH)
+    if parent:
+        os.makedirs(parent, exist_ok=True)
+
+CSV_METADATA_PATH = os.path.splitext(CSV_OUTPUT_PATH)[0] + ".metadata.json"
+
+CSV_FIELDNAMES = [
+    "csv_run_id", "csv_elapsed_seconds", "simulation_time", "frame",
+    "row_type", "object_id", "object_kind",
+    "round_index", "ai_enabled", "ai_mode", "paused", "human_override_timer",
+    "cell_radius", "cell_volume", "initial_volume", "volume_percent",
+    "inside_water_count", "outside_water_count", "total_water_count",
+    "inside_solute_count", "outside_solute_count", "total_solute_count",
+    "solute_inside_osmoles", "solute_outside_osmoles",
+    "internal_tonicity", "external_tonicity",
+    "membrane_permeability", "permeability_pulse", "effective_permeability",
+    "flux_rate", "cross_in_second", "cross_out_second", "total_crossings",
+    "crossing_mark_count", "wrap_ring_count",
+    "stagnation_timer", "completion_timer", "mode_timer", "mode_duration",
+    "probe_attached", "probe_x", "probe_y", "probe_z",
+    "x", "y", "z", "vx", "vy", "vz",
+    "inside", "marked", "particle_type", "opacity", "radius"
+]
+
+_csv_file = open(CSV_OUTPUT_PATH, "w", newline="")
+_csv_writer = csv.DictWriter(_csv_file, fieldnames=CSV_FIELDNAMES, extrasaction="ignore")
+_csv_writer.writeheader()
+_csv_file.flush()
+
+
+def _vec_tuple(v):
+    return (float(v.x), float(v.y), float(v.z))
+
+
+def _state_counts():
+    inside_water = sum(1 for w in sim.water if w.inside)
+    outside_water = len(sim.water) - inside_water
+    inside_solutes = sum(1 for s in sim.solutes if s.inside)
+    outside_solutes = len(sim.solutes) - inside_solutes
+    c_in, c_out = sim.concentrations()
+    return inside_water, outside_water, inside_solutes, outside_solutes, c_in, c_out
+
+
+def _base_csv_row(csv_elapsed_seconds, frame, row_type, object_id="", object_kind=""):
+    inside_water, outside_water, inside_solutes, outside_solutes, c_in, c_out = _state_counts()
+    px, py, pz = _vec_tuple(sim.ai_probe.pos)
+    effective_perm = clamp(sim.membrane_permeability + sim.permeability_pulse, 0.0, 1.0)
+    return {
+        "csv_run_id": _csv_run_id,
+        "csv_elapsed_seconds": round(csv_elapsed_seconds, 4),
+        "simulation_time": round(csv_elapsed_seconds, 4),
+        "frame": frame,
+        "row_type": row_type,
+        "object_id": object_id,
+        "object_kind": object_kind,
+        "round_index": sim.round_index + 1,
+        "ai_enabled": controller.enabled,
+        "ai_mode": controller.mode,
+        "paused": sim.paused,
+        "human_override_timer": round(sim.human_override_timer, 4),
+        "cell_radius": round(sim.radius, 6),
+        "cell_volume": round(sim.cell_volume, 6),
+        "initial_volume": round(sim.initial_volume, 6),
+        "volume_percent": round(100.0 * sim.cell_volume / max(1e-9, sim.initial_volume), 6),
+        "inside_water_count": inside_water,
+        "outside_water_count": outside_water,
+        "total_water_count": len(sim.water),
+        "inside_solute_count": inside_solutes,
+        "outside_solute_count": outside_solutes,
+        "total_solute_count": len(sim.solutes),
+        "solute_inside_osmoles": round(sim.solute_inside_osmoles, 6),
+        "solute_outside_osmoles": round(sim.solute_outside_osmoles, 6),
+        "internal_tonicity": round(c_in, 8),
+        "external_tonicity": round(c_out, 8),
+        "membrane_permeability": round(sim.membrane_permeability, 6),
+        "permeability_pulse": round(sim.permeability_pulse, 6),
+        "effective_permeability": round(effective_perm, 6),
+        "flux_rate": round(sim.flux_rate, 6),
+        "cross_in_second": sim.cross_in_second,
+        "cross_out_second": sim.cross_out_second,
+        "total_crossings": sim.total_crossings,
+        "crossing_mark_count": len(sim.crossing_marks),
+        "wrap_ring_count": len(sim.wrap_rings),
+        "stagnation_timer": round(controller.stagnation_timer, 6),
+        "completion_timer": round(controller.completion_timer, 6),
+        "mode_timer": round(controller.mode_timer, 6),
+        "mode_duration": round(controller.mode_duration, 6),
+        "probe_attached": sim.probe_attached,
+        "probe_x": round(px, 6),
+        "probe_y": round(py, 6),
+        "probe_z": round(pz, 6),
+    }
+
+
+def write_csv_snapshot(csv_elapsed_seconds, frame):
+    _csv_writer.writerow(_base_csv_row(csv_elapsed_seconds, frame, "summary", "osmosis", "simulation"))
+
+    for i, w in enumerate(sim.water):
+        x, y, z = _vec_tuple(w.obj.pos)
+        vx, vy, vz = _vec_tuple(w.vel)
+        row = _base_csv_row(csv_elapsed_seconds, frame, "water", f"water_{i}", "water")
+        row.update({
+            "x": round(x, 6), "y": round(y, 6), "z": round(z, 6),
+            "vx": round(vx, 6), "vy": round(vy, 6), "vz": round(vz, 6),
+            "inside": w.inside,
+            "marked": w.marked,
+            "particle_type": "water",
+            "opacity": getattr(w.obj, "opacity", ""),
+            "radius": getattr(w.obj, "radius", ""),
+        })
+        _csv_writer.writerow(row)
+
+    for i, s in enumerate(sim.solutes):
+        x, y, z = _vec_tuple(s.obj.pos)
+        vx, vy, vz = _vec_tuple(s.vel)
+        row = _base_csv_row(csv_elapsed_seconds, frame, "solute", f"solute_{i}", "solute")
+        row.update({
+            "x": round(x, 6), "y": round(y, 6), "z": round(z, 6),
+            "vx": round(vx, 6), "vy": round(vy, 6), "vz": round(vz, 6),
+            "inside": s.inside,
+            "particle_type": "solute",
+            "opacity": getattr(s.obj, "opacity", ""),
+            "radius": getattr(s.obj, "radius", ""),
+        })
+        _csv_writer.writerow(row)
+
+    _csv_file.flush()
+
+
+def write_csv_metadata(completed=False, csv_elapsed_seconds=0.0, frame=0):
+    inside_water, outside_water, inside_solutes, outside_solutes, c_in, c_out = _state_counts()
+    metadata = {
+        "csv_run_id": _csv_run_id,
+        "csv_output_path": CSV_OUTPUT_PATH,
+        "csv_metadata_path": CSV_METADATA_PATH,
+        "script_name": "osmosis_vpython_full_csv.py",
+        "simulation_name": "3D Osmosis and Cell Swelling/Shrinking Simulation",
+        "created_at": datetime.now().isoformat(timespec="seconds"),
+        "completed": bool(completed),
+        "configured_run_seconds": CSV_RUN_SECONDS,
+        "sample_hz": CSV_SAMPLE_HZ,
+        "elapsed_seconds": round(csv_elapsed_seconds, 4),
+        "frame": frame,
+        "final_round_index": sim.round_index + 1,
+        "final_ai_mode": controller.mode,
+        "final_cell_radius": sim.radius,
+        "final_cell_volume": sim.cell_volume,
+        "final_volume_percent": 100.0 * sim.cell_volume / max(1e-9, sim.initial_volume),
+        "final_inside_water_count": inside_water,
+        "final_outside_water_count": outside_water,
+        "final_inside_solute_count": inside_solutes,
+        "final_outside_solute_count": outside_solutes,
+        "final_internal_tonicity": c_in,
+        "final_external_tonicity": c_out,
+        "final_total_crossings": sim.total_crossings,
+        "environment_variables": {
+            "SIMULATION_CSV_OUTPUT_DIR": os.environ.get("SIMULATION_CSV_OUTPUT_DIR", ""),
+            "SIMULATION_CSV_RUN_ID": os.environ.get("SIMULATION_CSV_RUN_ID", ""),
+            "SIMULATION_CSV_RUN_SECONDS": os.environ.get("SIMULATION_CSV_RUN_SECONDS", ""),
+            "SIMULATION_CSV_SAMPLE_HZ": os.environ.get("SIMULATION_CSV_SAMPLE_HZ", ""),
+            "SIM_STATE_CSV_PATH": os.environ.get("SIM_STATE_CSV_PATH", ""),
+        },
+    }
+    with open(CSV_METADATA_PATH, "w") as f:
+        json.dump(metadata, f, indent=2)
+
+
+def close_csv_logger(completed=False, csv_elapsed_seconds=0.0, frame=0):
+    try:
+        write_csv_metadata(completed=completed, csv_elapsed_seconds=csv_elapsed_seconds, frame=frame)
+    finally:
+        _csv_file.flush()
+        _csv_file.close()
+
+
 
 def on_keydown(evt):
     k = evt.key
@@ -956,10 +1153,35 @@ def on_keydown(evt):
 scene.bind("keydown", on_keydown)
 
 dt = 1 / 60
-while True:
-    rate(60)
-    if not sim.paused:
-        controller.update(dt)
-        sim.update(dt, controller.mode)
-    else:
-        sim.update_labels(controller.mode)
+csv_elapsed_seconds = 0.0
+csv_sample_timer = CSV_SAMPLE_INTERVAL
+csv_frame = 0
+
+try:
+    write_csv_metadata(completed=False, csv_elapsed_seconds=0.0, frame=0)
+
+    while csv_elapsed_seconds < CSV_RUN_SECONDS:
+        rate(60)
+        csv_frame += 1
+        csv_elapsed_seconds += dt
+        csv_sample_timer += dt
+
+        if not sim.paused:
+            controller.update(dt)
+            sim.update(dt, controller.mode)
+        else:
+            sim.update_labels(controller.mode)
+
+        if csv_sample_timer >= CSV_SAMPLE_INTERVAL:
+            csv_sample_timer = 0.0
+            write_csv_snapshot(csv_elapsed_seconds, csv_frame)
+
+    write_csv_snapshot(csv_elapsed_seconds, csv_frame)
+    sim.volume_label.text = (
+        f"CSV recording complete: {CSV_RUN_SECONDS:0.0f}s saved to "
+        f"{os.path.basename(CSV_OUTPUT_PATH)}\n"
+        f"Final cell volume: {sim.cell_volume:6.1f} | Radius: {sim.radius:4.2f} | "
+        f"Total crossings: {sim.total_crossings}"
+    )
+finally:
+    close_csv_logger(completed=True, csv_elapsed_seconds=csv_elapsed_seconds, frame=csv_frame)

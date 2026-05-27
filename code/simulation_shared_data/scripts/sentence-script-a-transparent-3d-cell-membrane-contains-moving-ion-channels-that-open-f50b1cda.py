@@ -2,6 +2,12 @@ from vpython import *
 import random as pyrandom
 import math
 from collections import deque
+import csv
+import json
+import os
+import time as pytime
+import atexit
+from pathlib import Path
 
 # ============================================================
 # 3D Cell Membrane + Moving Ion Channels + Expressive AI
@@ -51,6 +57,187 @@ ION_MARK_COLOR = vector(0.78, 0.18, 1.0)
 OPEN_COLOR = vector(0.18, 0.85, 0.42)
 CLOSED_COLOR = vector(1.0, 0.32, 0.20)
 REST_COLOR = vector(0.32, 0.68, 0.95)
+
+
+# -----------------------------
+# CSV logging support for core sentence branching web app
+# -----------------------------
+CSV_RUN_ID = os.environ.get("SIMULATION_CSV_RUN_ID") or os.environ.get("CSV_RUN_ID") or f"ion_channels_{int(pytime.time())}"
+CSV_OUTPUT_DIR = os.environ.get("SIMULATION_CSV_OUTPUT_DIR")
+CSV_RUN_SECONDS = float(os.environ.get("SIMULATION_CSV_RUN_SECONDS", "60"))
+CSV_SAMPLE_HZ = float(os.environ.get("SIMULATION_CSV_SAMPLE_HZ", "10"))
+CSV_SAMPLE_INTERVAL = 1.0 / max(0.1, CSV_SAMPLE_HZ)
+
+_csv_file = None
+_csv_writer = None
+_csv_path = None
+_csv_meta_path = None
+_csv_last_sample_time = -1e9
+_csv_wall_start = pytime.time()
+_csv_rows_written = 0
+_csv_closed = False
+
+CSV_FIELDS = [
+    "run_id", "row_index", "wall_elapsed_s", "sim_elapsed_s", "frame", "round",
+    "paused", "trails_enabled", "ai_enabled", "ai_mode", "ai_time_in_mode_s",
+    "ai_stagnant_time_s", "ai_completion_time_s", "ai_human_override_s",
+    "ion_count", "inside_count", "outside_count", "inside_fraction", "outside_fraction",
+    "open_channel_count", "closed_channel_count", "total_crossings", "attached_ion_count",
+    "marked_ion_count", "avg_ion_speed", "max_ion_speed", "mean_radius", "mean_inside_radius", "mean_outside_radius",
+    "global_pressure_bias", "global_swirl_strength", "electric_field_x", "electric_field_y", "electric_field_z",
+    "channel_open_pattern", "channel_attached_counts",
+    "wand_x", "wand_y", "wand_z",
+    "sample_note"
+]
+
+def _csv_resolve_paths():
+    global _csv_path, _csv_meta_path
+    fallback = os.environ.get("SIM_STATE_CSV_PATH")
+    if CSV_OUTPUT_DIR:
+        out_dir = Path(CSV_OUTPUT_DIR).expanduser()
+        out_dir.mkdir(parents=True, exist_ok=True)
+        _csv_path = out_dir / f"{CSV_RUN_ID}_ion_channels.csv"
+    elif fallback:
+        _csv_path = Path(fallback).expanduser()
+        _csv_path.parent.mkdir(parents=True, exist_ok=True)
+    else:
+        out_dir = Path.cwd() / "csv_runs"
+        out_dir.mkdir(parents=True, exist_ok=True)
+        _csv_path = out_dir / f"{CSV_RUN_ID}_ion_channels.csv"
+    _csv_meta_path = _csv_path.with_suffix(".metadata.json")
+
+
+def csv_logger_start():
+    global _csv_file, _csv_writer
+    _csv_resolve_paths()
+    _csv_file = open(_csv_path, "w", newline="", encoding="utf-8")
+    _csv_writer = csv.DictWriter(_csv_file, fieldnames=CSV_FIELDS)
+    _csv_writer.writeheader()
+    _csv_file.flush()
+    meta = {
+        "run_id": CSV_RUN_ID,
+        "simulation": "Cell Membrane with Moving Ion Channels, Drifting Ions, Trails, Meter, and AI Controller",
+        "csv_path": str(_csv_path),
+        "sample_hz": CSV_SAMPLE_HZ,
+        "run_seconds": CSV_RUN_SECONDS,
+        "default_run_seconds": 60,
+        "environment": {
+            "SIMULATION_CSV_OUTPUT_DIR": CSV_OUTPUT_DIR,
+            "SIMULATION_CSV_RUN_ID": CSV_RUN_ID,
+            "SIMULATION_CSV_RUN_SECONDS": CSV_RUN_SECONDS,
+            "SIMULATION_CSV_SAMPLE_HZ": CSV_SAMPLE_HZ,
+            "SIM_STATE_CSV_PATH": os.environ.get("SIM_STATE_CSV_PATH"),
+        },
+        "fields": CSV_FIELDS,
+    }
+    with open(_csv_meta_path, "w", encoding="utf-8") as f:
+        json.dump(meta, f, indent=2)
+
+
+def _safe_vec_components(v):
+    try:
+        return float(v.x), float(v.y), float(v.z)
+    except Exception:
+        return 0.0, 0.0, 0.0
+
+
+def csv_collect_state(sample_note=""):
+    global _csv_rows_written
+    inside = sum(1 for ion in ions if ion.is_inside())
+    outside = len(ions) - inside
+    total = max(1, len(ions))
+    speeds = [mag(ion.vel) for ion in ions]
+    radii = [mag(ion.pos) for ion in ions]
+    inside_radii = [mag(ion.pos) for ion in ions if ion.is_inside()]
+    outside_radii = [mag(ion.pos) for ion in ions if not ion.is_inside()]
+    open_count = sum(1 for ch in channels if ch.open)
+    attached = sum(1 for ion in ions if ion.attached_channel is not None)
+    marked = sum(1 for ion in ions if ion.marked)
+    ex, ey, ez = _safe_vec_components(global_electric_field)
+    wx, wy, wz = _safe_vec_components(ai.wand.pos if "ai" in globals() else vector(0, 0, 0))
+    wall_elapsed = pytime.time() - _csv_wall_start
+    sim_elapsed = frame_count * DT
+    row = {
+        "run_id": CSV_RUN_ID,
+        "row_index": _csv_rows_written,
+        "wall_elapsed_s": round(wall_elapsed, 6),
+        "sim_elapsed_s": round(sim_elapsed, 6),
+        "frame": frame_count,
+        "round": round_number,
+        "paused": int(paused),
+        "trails_enabled": int(trails_enabled),
+        "ai_enabled": int(ai.enabled),
+        "ai_mode": ai.mode,
+        "ai_time_in_mode_s": round(ai.time_in_mode, 6),
+        "ai_stagnant_time_s": round(ai.stagnant_time, 6),
+        "ai_completion_time_s": round(ai.completion_time, 6),
+        "ai_human_override_s": round(ai.human_override_timer, 6),
+        "ion_count": len(ions),
+        "inside_count": inside,
+        "outside_count": outside,
+        "inside_fraction": round(inside / total, 6),
+        "outside_fraction": round(outside / total, 6),
+        "open_channel_count": open_count,
+        "closed_channel_count": len(channels) - open_count,
+        "total_crossings": total_crossings,
+        "attached_ion_count": attached,
+        "marked_ion_count": marked,
+        "avg_ion_speed": round(sum(speeds) / max(1, len(speeds)), 6),
+        "max_ion_speed": round(max(speeds) if speeds else 0.0, 6),
+        "mean_radius": round(sum(radii) / max(1, len(radii)), 6),
+        "mean_inside_radius": round(sum(inside_radii) / max(1, len(inside_radii)), 6),
+        "mean_outside_radius": round(sum(outside_radii) / max(1, len(outside_radii)), 6),
+        "global_pressure_bias": round(global_pressure_bias, 6),
+        "global_swirl_strength": round(global_swirl_strength, 6),
+        "electric_field_x": round(ex, 6),
+        "electric_field_y": round(ey, 6),
+        "electric_field_z": round(ez, 6),
+        "channel_open_pattern": "".join("1" if ch.open else "0" for ch in channels),
+        "channel_attached_counts": ";".join(str(ch.attached_count) for ch in channels),
+        "wand_x": round(wx, 6),
+        "wand_y": round(wy, 6),
+        "wand_z": round(wz, 6),
+        "sample_note": sample_note,
+    }
+    return row
+
+
+def csv_logger_sample(force=False, sample_note=""):
+    global _csv_last_sample_time, _csv_rows_written
+    if _csv_writer is None:
+        return
+    elapsed = pytime.time() - _csv_wall_start
+    if not force and elapsed - _csv_last_sample_time < CSV_SAMPLE_INTERVAL:
+        return
+    _csv_last_sample_time = elapsed
+    row = csv_collect_state(sample_note)
+    _csv_writer.writerow(row)
+    _csv_rows_written += 1
+    if _csv_rows_written % 10 == 0:
+        _csv_file.flush()
+
+
+def csv_logger_should_stop():
+    return CSV_RUN_SECONDS > 0 and (pytime.time() - _csv_wall_start) >= CSV_RUN_SECONDS
+
+
+def csv_logger_close():
+    global _csv_closed
+    if _csv_closed:
+        return
+    _csv_closed = True
+    try:
+        csv_logger_sample(force=True, sample_note="final")
+    except Exception:
+        pass
+    try:
+        if _csv_file is not None:
+            _csv_file.flush()
+            _csv_file.close()
+    except Exception:
+        pass
+
+atexit.register(csv_logger_close)
 
 # -----------------------------
 # Global simulation state
@@ -1116,14 +1303,20 @@ def on_keydown(evt):
 scene.bind("keydown", on_keydown)
 
 # -----------------------------
-# Main simulation loop
+# Main simulation loop with CSV logging
 # -----------------------------
+csv_logger_start()
+csv_logger_sample(force=True, sample_note="initial")
+
 while True:
     rate(60)
     frame_count += 1
 
     if paused:
         update_meter_and_labels()
+        csv_logger_sample(sample_note="paused")
+        if csv_logger_should_stop():
+            break
         continue
 
     ai.step(DT)
@@ -1136,3 +1329,11 @@ while True:
 
     update_channel_visuals(DT)
     update_meter_and_labels()
+    csv_logger_sample(sample_note="running")
+
+    if csv_logger_should_stop():
+        break
+
+csv_logger_close()
+print(f"CSV log saved to: {_csv_path}")
+print(f"CSV metadata saved to: {_csv_meta_path}")

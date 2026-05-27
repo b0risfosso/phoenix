@@ -2,6 +2,10 @@ from vpython import *
 import random
 import math
 import time
+import csv
+import os
+import json
+from datetime import datetime
 
 # Cellular Autophagy: Recycling Damaged Parts
 # Self-contained VPython simulation with automatic AI behavior controller.
@@ -51,6 +55,241 @@ AI_MODES = [
     "SPILL",
     "RESET_WAIT",
 ]
+
+
+# ------------------------------------------------------------
+# CSV logging configuration
+# ------------------------------------------------------------
+def _env_float(name, default):
+    try:
+        return float(os.environ.get(name, str(default)))
+    except (TypeError, ValueError):
+        return float(default)
+
+
+CSV_RUN_SECONDS = max(0.0, _env_float("SIMULATION_CSV_RUN_SECONDS", 60.0))
+CSV_SAMPLE_HZ = max(0.05, _env_float("SIMULATION_CSV_SAMPLE_HZ", 10.0))
+CSV_SAMPLE_INTERVAL = 1.0 / CSV_SAMPLE_HZ
+
+CSV_OUTPUT_DIR = os.environ.get("SIMULATION_CSV_OUTPUT_DIR", "").strip()
+CSV_RUN_ID = os.environ.get("SIMULATION_CSV_RUN_ID", "").strip() or datetime.now().strftime("%Y%m%d_%H%M%S")
+
+if CSV_OUTPUT_DIR:
+    os.makedirs(CSV_OUTPUT_DIR, exist_ok=True)
+    CSV_OUTPUT_PATH = os.path.join(CSV_OUTPUT_DIR, f"{CSV_RUN_ID}-autophagy-state-log.csv")
+else:
+    fallback_path = os.environ.get("SIM_STATE_CSV_PATH", "").strip()
+    if fallback_path:
+        CSV_OUTPUT_PATH = fallback_path
+        parent = os.path.dirname(os.path.abspath(CSV_OUTPUT_PATH))
+        if parent:
+            os.makedirs(parent, exist_ok=True)
+    else:
+        CSV_OUTPUT_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "autophagy_state_log.csv")
+
+CSV_METADATA_PATH = os.path.splitext(CSV_OUTPUT_PATH)[0] + ".metadata.json"
+
+CSV_FIELDNAMES = [
+    "csv_run_id", "csv_elapsed_seconds", "simulation_time", "frame",
+    "row_type", "object_id", "object_kind",
+    "round_index", "paused", "help_visible",
+    "ai_enabled", "ai_mode", "ai_last_mode", "ai_mode_timer", "ai_override_until",
+    "ai_stagnant_time", "ai_completion_active", "ai_loop_rounds",
+    "active_organelle_count", "free_organelle_count", "marked_organelle_count",
+    "wrapped_organelle_count", "dissolving_organelle_count", "recycled_organelle_count",
+    "particle_count", "enzyme_particle_count", "recycle_particle_count",
+    "autophagosome_state", "autophagosome_active", "autophagosome_target_id",
+    "autophagosome_radius", "autophagosome_closure", "autophagosome_fuse_timer",
+    "lysosome_orbit_mode",
+    "name", "kind", "state", "id", "target_id",
+    "x", "y", "z", "vx", "vy", "vz",
+    "radius", "damage", "age", "mark_strength", "dissolve_amount",
+    "opacity", "life", "captured",
+    "center_x", "center_y", "center_z",
+    "lysosome_x", "lysosome_y", "lysosome_z", "distance_to_lysosome",
+]
+
+_csv_file = open(CSV_OUTPUT_PATH, "w", newline="")
+_csv_writer = csv.DictWriter(_csv_file, fieldnames=CSV_FIELDNAMES, extrasaction="ignore")
+_csv_writer.writeheader()
+_csv_file.flush()
+
+
+def _v_components(v, prefix=""):
+    return {
+        f"{prefix}x": float(v.x),
+        f"{prefix}y": float(v.y),
+        f"{prefix}z": float(v.z),
+    }
+
+
+def _csv_scene_state():
+    organelles = getattr(sim, "organelles", [])
+    particles = getattr(sim, "particles", [])
+    autophagosome = getattr(sim, "autophagosome", None)
+    lysosome = getattr(sim, "lysosome", None)
+    ai = getattr(sim, "ai", None)
+
+    active = [o for o in organelles if o.state != "recycled"]
+    free = [o for o in organelles if o.state == "free"]
+    marked = [o for o in organelles if o.state == "marked"]
+    wrapped = [o for o in organelles if o.state == "wrapped"]
+    dissolving = [o for o in organelles if o.state == "dissolving"]
+    recycled = [o for o in organelles if o.state == "recycled"]
+    enzyme_particles = [p for p in particles if p.kind == "enzyme"]
+    recycle_particles = [p for p in particles if p.kind == "recycle"]
+
+    target_id = ""
+    if autophagosome is not None and autophagosome.target is not None:
+        target_id = autophagosome.target.id
+
+    return {
+        "round_index": getattr(sim, "round_index", ""),
+        "paused": getattr(sim, "paused", ""),
+        "help_visible": getattr(sim, "show_help", ""),
+        "ai_enabled": getattr(ai, "enabled", ""),
+        "ai_mode": getattr(ai, "mode", ""),
+        "ai_last_mode": getattr(ai, "last_mode", ""),
+        "ai_mode_timer": getattr(ai, "mode_timer", ""),
+        "ai_override_until": getattr(ai, "override_until", ""),
+        "ai_stagnant_time": getattr(ai, "stagnant_time", ""),
+        "ai_completion_active": getattr(ai, "completion_time", None) is not None if ai is not None else "",
+        "ai_loop_rounds": getattr(ai, "loop_rounds", ""),
+        "active_organelle_count": len(active),
+        "free_organelle_count": len(free),
+        "marked_organelle_count": len(marked),
+        "wrapped_organelle_count": len(wrapped),
+        "dissolving_organelle_count": len(dissolving),
+        "recycled_organelle_count": len(recycled),
+        "particle_count": len(particles),
+        "enzyme_particle_count": len(enzyme_particles),
+        "recycle_particle_count": len(recycle_particles),
+        "autophagosome_state": getattr(autophagosome, "state", ""),
+        "autophagosome_active": getattr(autophagosome, "active", ""),
+        "autophagosome_target_id": target_id,
+        "autophagosome_radius": getattr(autophagosome, "radius", ""),
+        "autophagosome_closure": getattr(autophagosome, "closure", ""),
+        "autophagosome_fuse_timer": getattr(autophagosome, "fuse_timer", ""),
+        "lysosome_orbit_mode": getattr(lysosome, "mode_orbit", ""),
+    }
+
+
+def _csv_base_row(csv_elapsed_seconds, frame, row_type, object_id="", object_kind=""):
+    row = {
+        "csv_run_id": CSV_RUN_ID,
+        "csv_elapsed_seconds": round(csv_elapsed_seconds, 4),
+        "simulation_time": round(getattr(sim, "t", 0.0), 4),
+        "frame": frame,
+        "row_type": row_type,
+        "object_id": object_id,
+        "object_kind": object_kind,
+    }
+    row.update(_csv_scene_state())
+    return row
+
+
+def write_csv_snapshot(csv_elapsed_seconds, frame):
+    _csv_writer.writerow(_csv_base_row(csv_elapsed_seconds, frame, "summary", "autophagy", "summary"))
+
+    lysosome = getattr(sim, "lysosome", None)
+    if lysosome is not None:
+        row = _csv_base_row(csv_elapsed_seconds, frame, "lysosome", "lysosome", "lysosome")
+        row.update({
+            "name": "lysosome",
+            "kind": "recycling_center",
+            "state": "orbiting" if lysosome.mode_orbit else "stationary",
+            "radius": lysosome.radius,
+        })
+        row.update(_v_components(lysosome.pos, ""))
+        _csv_writer.writerow(row)
+
+    autophagosome = getattr(sim, "autophagosome", None)
+    if autophagosome is not None:
+        row = _csv_base_row(csv_elapsed_seconds, frame, "autophagosome", "autophagosome", "autophagosome")
+        target_id = autophagosome.target.id if autophagosome.target is not None else ""
+        row.update({
+            "name": "autophagosome",
+            "state": autophagosome.state,
+            "target_id": target_id,
+            "radius": autophagosome.radius,
+            "autophagosome_radius": autophagosome.radius,
+            "autophagosome_closure": autophagosome.closure,
+            "autophagosome_fuse_timer": autophagosome.fuse_timer,
+        })
+        row.update(_v_components(autophagosome.center, "center_"))
+        row.update(_v_components(autophagosome.vel, "v"))
+        if lysosome is not None:
+            row.update(_v_components(lysosome.pos, "lysosome_"))
+            row["distance_to_lysosome"] = mag(autophagosome.center - lysosome.pos)
+        _csv_writer.writerow(row)
+
+    for i, organelle in enumerate(getattr(sim, "organelles", [])):
+        row = _csv_base_row(csv_elapsed_seconds, frame, "organelle", f"organelle_{organelle.id}", "damaged_organelle")
+        row.update({
+            "id": organelle.id,
+            "kind": "damaged_organelle",
+            "state": organelle.state,
+            "radius": organelle.radius,
+            "damage": organelle.damage,
+            "age": organelle.age,
+            "mark_strength": organelle.mark_strength,
+            "dissolve_amount": organelle.dissolve_amount,
+            "opacity": getattr(organelle.body, "opacity", ""),
+            "target_id": organelle.attached_to.target.id if getattr(organelle, "attached_to", None) is not None and getattr(organelle.attached_to, "target", None) is not None else "",
+        })
+        row.update(_v_components(organelle.pos, ""))
+        row.update(_v_components(organelle.vel, "v"))
+        if lysosome is not None:
+            row.update(_v_components(lysosome.pos, "lysosome_"))
+            row["distance_to_lysosome"] = mag(organelle.pos - lysosome.pos)
+        _csv_writer.writerow(row)
+
+    for i, particle in enumerate(getattr(sim, "particles", [])):
+        row = _csv_base_row(csv_elapsed_seconds, frame, "particle", f"particle_{i}", "recycle_particle")
+        row.update({
+            "kind": particle.kind,
+            "state": "captured" if particle.captured else "free",
+            "age": particle.age,
+            "life": particle.life,
+            "captured": particle.captured,
+            "radius": getattr(particle.body, "radius", ""),
+            "opacity": getattr(particle.body, "opacity", ""),
+        })
+        row.update(_v_components(particle.pos, ""))
+        row.update(_v_components(particle.vel, "v"))
+        if lysosome is not None:
+            row.update(_v_components(lysosome.pos, "lysosome_"))
+            row["distance_to_lysosome"] = mag(particle.pos - lysosome.pos)
+        _csv_writer.writerow(row)
+
+    _csv_file.flush()
+
+
+def write_csv_metadata():
+    metadata = {
+        "csv_run_id": CSV_RUN_ID,
+        "csv_output_path": CSV_OUTPUT_PATH,
+        "csv_metadata_path": CSV_METADATA_PATH,
+        "simulation_name": "Cellular Autophagy: Recycling Damaged Parts",
+        "script_type": "full_vpython_csv_logger",
+        "run_seconds": CSV_RUN_SECONDS,
+        "sample_hz": CSV_SAMPLE_HZ,
+        "sample_interval": CSV_SAMPLE_INTERVAL,
+        "created_at": datetime.now().isoformat(timespec="seconds"),
+        "row_types": ["summary", "lysosome", "autophagosome", "organelle", "particle"],
+        "environment_variables": {
+            "SIMULATION_CSV_OUTPUT_DIR": CSV_OUTPUT_DIR,
+            "SIMULATION_CSV_RUN_ID": CSV_RUN_ID,
+            "SIMULATION_CSV_RUN_SECONDS": CSV_RUN_SECONDS,
+            "SIMULATION_CSV_SAMPLE_HZ": CSV_SAMPLE_HZ,
+            "SIM_STATE_CSV_PATH": os.environ.get("SIM_STATE_CSV_PATH", ""),
+        },
+    }
+    with open(CSV_METADATA_PATH, "w") as f:
+        json.dump(metadata, f, indent=2)
+
+
+write_csv_metadata()
 
 
 def clamp(x, lo, hi):
@@ -1244,6 +1483,28 @@ def on_keydown(evt):
 
 scene.bind("keydown", on_keydown)
 
-while True:
-    rate(60)
-    sim.update(DT)
+# -----------------------------
+# Main loop with CSV logging
+# -----------------------------
+csv_elapsed_seconds = 0.0
+csv_sample_timer = CSV_SAMPLE_INTERVAL
+csv_frame = 0
+
+try:
+    while csv_elapsed_seconds < CSV_RUN_SECONDS:
+        rate(60)
+        csv_frame += 1
+        csv_elapsed_seconds += DT
+        csv_sample_timer += DT
+
+        sim.update(DT)
+
+        if csv_sample_timer >= CSV_SAMPLE_INTERVAL:
+            csv_sample_timer = 0.0
+            write_csv_snapshot(csv_elapsed_seconds, csv_frame)
+
+    write_csv_snapshot(csv_elapsed_seconds, csv_frame)
+    sim.status.text = f"CSV recording complete: {CSV_RUN_SECONDS:0.0f}s saved to {os.path.basename(CSV_OUTPUT_PATH)}"
+finally:
+    _csv_file.flush()
+    _csv_file.close()
