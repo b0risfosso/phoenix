@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Combine Stories and Scripts</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+<header class="site-header">
+  <div>
+    <h1>Combine Stories and Scripts</h1>
+    <p>Manual combined story and manual combined script entry.</p>
+  </div>
+  <nav>
+    <a href="/">Story tree</a>
+    <a href="/api/data-location" target="_blank">Data location</a>
+  </nav>
+</header>
+
+<main class="combine-layout">
+  <section class="panel">
+    <h2>Selected source stories</h2>
+    <div id="selectedStories" class="cards"></div>
+
+    <hr>
+
+    <h2>Manual combined entry</h2>
+
+    <label for="combinedTitle">Combined story title optional</label>
+    <input id="combinedTitle" type="text" placeholder="Combined cell behavior">
+
+    <label for="combinedStory">Combined story</label>
+    <textarea id="combinedStory" rows="8" placeholder="Enter the combined story manually."></textarea>
+
+    <label for="scriptFilename">Combined script filename optional</label>
+    <input id="scriptFilename" type="text" placeholder="combined-story-script.py">
+
+    <label for="scriptNote">Script note optional</label>
+    <textarea id="scriptNote" rows="3"></textarea>
+
+    <label for="combinedScript">Combined Python script</label>
+    <textarea id="combinedScript" class="code-editor" spellcheck="false" placeholder="from vpython import *&#10;&#10;# combined simulation script..."></textarea>
+
+    <button id="saveCombineBtn">Save combined story and script</button>
+    <p id="saveStatus" class="status"></p>
+    <div id="saveResult"></div>
+  </section>
+
+  <aside class="panel side-panel">
+    <h2>Source scripts</h2>
+    <p class="small">Open source scripts for reference. The combined script entry is manual.</p>
+    <div id="sourceScripts" class="cards"></div>
+  </aside>
+</main>
+
+<script>
+const selectedNodeIds = {{ node_ids|tojson }};
+</script>
+<script src="/static/combine.js"></script>
+</body>
+</html>

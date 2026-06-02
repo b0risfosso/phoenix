@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Run Combined Script</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+<header class="site-header">
+  <div>
+    <h1>Run Script</h1>
+    <p>{{ filename }}</p>
+  </div>
+  <nav>
+    <a href="/">Story tree</a>
+    <a href="/script/{{ filename }}">Edit script</a>
+    <a href="/outputs/scripts/{{ filename }}">Download script</a>
+  </nav>
+</header>
+
+<main class="single">
+  <section class="panel run-card">
+    <h2>Run options</h2>
+    <p class="small">CSV-compatible scripts should read <code>SIMULATION_CSV_OUTPUT_DIR</code>, <code>SIMULATION_CSV_RUN_ID</code>, and <code>SIMULATION_CSV_RUN_SECONDS</code>.</p>
+
+    <label class="checkline">
+      <input id="saveCsvCheck" type="checkbox" checked>
+      Save CSV output for this run
+    </label>
+
+    <label for="runSeconds">Run seconds</label>
+    <input id="runSeconds" type="number" min="1" value="60">
+
+    <button id="runBtn">Run script</button>
+    <p id="runStatus" class="status"></p>
+
+    <h2>Started run</h2>
+    <div id="runResult"></div>
+
+    <hr>
+
+    <h2>Recent runs</h2>
+    <div id="recentRuns" class="cards"></div>
+  </section>
+</main>
+
+<script>
+const filename = {{ filename|tojson }};
+</script>
+<script src="/static/run.js"></script>
+</body>
+</html>

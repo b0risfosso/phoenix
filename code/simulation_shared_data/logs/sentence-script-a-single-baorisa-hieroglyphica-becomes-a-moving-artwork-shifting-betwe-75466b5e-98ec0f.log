@@ -1,0 +1,5 @@
+Running: /Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-a-single-baorisa-hieroglyphica-becomes-a-moving-artwork-shifting-betwe-75466b5e.py
+Started: 2026-05-31T21:22:28
+
+/Users/b/phoenix/code/core_sentence_branch_script_web_app/.venv/lib/python3.12/site-packages/vpython/__init__.py:1: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import get_distribution, DistributionNotFound

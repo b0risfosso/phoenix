@@ -1,0 +1,21 @@
+Running: /Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-the-viewer-is-attached-to-the-side-of-a-solid-rocket-booster-watching-9b1fe938.py
+Started: 2026-06-01T13:00:00
+
+/Users/b/phoenix/code/core_sentence_branch_script_web_app/.venv/lib/python3.12/site-packages/vpython/__init__.py:1: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import get_distribution, DistributionNotFound
+Traceback (most recent call last):
+  File "/Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-the-viewer-is-attached-to-the-side-of-a-solid-rocket-booster-watching-9b1fe938.py", line 87, in <module>
+    stack = compound([])  # placeholder overwritten below
+            ^^^^^^^^^^^^
+  File "/Users/b/phoenix/code/core_sentence_branch_script_web_app/.venv/lib/python3.12/site-packages/vpython/vpython.py", line 1568, in __init__
+    cvs = objList[0].canvas
+          ~~~~~~~^^^
+IndexError: list index out of range
+Exception ignored in: <function standardAttributes.__del__ at 0x10738c220>
+Traceback (most recent call last):
+  File "/Users/b/phoenix/code/core_sentence_branch_script_web_app/.venv/lib/python3.12/site-packages/vpython/vpython.py", line 1176, in __del__
+    super(standardAttributes, self).__del__()
+  File "/Users/b/phoenix/code/core_sentence_branch_script_web_app/.venv/lib/python3.12/site-packages/vpython/vpython.py", line 348, in __del__
+    cmd = {"cmd": "delete", "idx": self.idx}
+                                   ^^^^^^^^
+AttributeError: 'compound' object has no attribute 'idx'

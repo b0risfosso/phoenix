@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Story Script Combiner</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+<header class="site-header">
+  <div>
+    <h1>Story Script Combiner</h1>
+    <p>Select two or more stories, then manually enter a combined story and combined script.</p>
+  </div>
+  <nav>
+    <a href="/">Story tree</a>
+    <a href="/api/data-location" target="_blank">Data location</a>
+    <a href="/api/story-tree" target="_blank">Tree JSON</a>
+  </nav>
+</header>
+
+<main class="layout">
+  <aside class="panel">
+    <h2>Selection</h2>
+    <p id="selectionCount" class="meta">0 selected</p>
+    <button id="combineBtn" disabled>Combine selected stories</button>
+
+    <hr>
+
+    <h2>Controls</h2>
+    <label for="searchBox">Search story/script</label>
+    <input id="searchBox" type="text" placeholder="cell, orbit, bacteria">
+
+    <label class="checkline">
+      <input id="scriptedOnlyCheck" type="checkbox">
+      Only show branches with scripts
+    </label>
+
+    <div class="actions vertical-actions">
+      <button id="refreshBtn" class="secondary">Refresh</button>
+      <button id="expandAllBtn" class="secondary">Expand all</button>
+      <button id="collapseAllBtn" class="secondary">Collapse all</button>
+      <button id="clearSelectionBtn" class="secondary">Clear selection</button>
+    </div>
+
+    <hr>
+
+    <h2>Selected story preview</h2>
+    <p id="selectedStoryPreview" class="meta">Select story nodes in the tree.</p>
+  </aside>
+
+  <section class="panel wide">
+    <div class="result-header">
+      <h2>Story tree</h2>
+      <p id="countLabel" class="meta"></p>
+    </div>
+    <div id="storyTree" class="story-tree"></div>
+  </section>
+</main>
+
+<script src="/static/index.js"></script>
+</body>
+</html>

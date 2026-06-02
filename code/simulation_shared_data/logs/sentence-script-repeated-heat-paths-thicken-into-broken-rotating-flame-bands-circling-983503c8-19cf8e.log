@@ -1,0 +1,6 @@
+Running: /Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-repeated-heat-paths-thicken-into-broken-rotating-flame-bands-circling-983503c8.py
+Started: 2026-05-29T11:00:29
+
+  File "/Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-repeated-heat-paths-thicken-into-broken-rotating-flame-bands-circling-983503c8.py", line 407
+    flame_band_memory = 0.0
+IndentationError: unexpected indent

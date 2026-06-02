@@ -1,0 +1,13 @@
+Running: /Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-the-x-59-s-long-nose-and-shaped-body-split-one-explosive-boom-into-man-1971fc2e.py
+Started: 2026-05-31T22:13:05
+
+/Users/b/phoenix/code/core_sentence_branch_script_web_app/.venv/lib/python3.12/site-packages/vpython/__init__.py:1: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import get_distribution, DistributionNotFound
+Task exception was never retrieved
+future: <Task finished name='Task-2567' coro=<WSserver.onMessage() done, defined at /Users/b/phoenix/code/core_sentence_branch_script_web_app/.venv/lib/python3.12/site-packages/vpython/no_notebook.py:197> exception=Disconnected('Attempt to send on a closed protocol')>
+Traceback (most recent call last):
+  File "/Users/b/phoenix/code/core_sentence_branch_script_web_app/.venv/lib/python3.12/site-packages/vpython/no_notebook.py", line 220, in onMessage
+    self.sendMessage(jdata, isBinary=False)
+  File "/Users/b/phoenix/code/core_sentence_branch_script_web_app/.venv/lib/python3.12/site-packages/autobahn/websocket/protocol.py", line 2555, in sendMessage
+    raise Disconnected("Attempt to send on a closed protocol")
+autobahn.exception.Disconnected: Attempt to send on a closed protocol

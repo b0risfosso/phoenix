@@ -1,0 +1,4 @@
+flask>=3.0.0
+vpython>=7.6.0
+setuptools<81
+wheel>=0.43.0

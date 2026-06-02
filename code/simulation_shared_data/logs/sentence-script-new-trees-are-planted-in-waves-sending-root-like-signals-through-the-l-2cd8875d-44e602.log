@@ -1,0 +1,24 @@
+Running: /Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-new-trees-are-planted-in-waves-sending-root-like-signals-through-the-l-2cd8875d.py
+Started: 2026-05-31T21:06:59
+
+/Users/b/phoenix/code/core_sentence_branch_script_web_app/.venv/lib/python3.12/site-packages/vpython/__init__.py:1: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import get_distribution, DistributionNotFound
+Traceback (most recent call last):
+  File "/Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-new-trees-are-planted-in-waves-sending-root-like-signals-through-the-l-2cd8875d.py", line 629, in <module>
+    reset_simulation()
+  File "/Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-new-trees-are-planted-in-waves-sending-root-like-signals-through-the-l-2cd8875d.py", line 553, in reset_simulation
+    trigger_wave(vector(0, 0, -1))
+  File "/Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-new-trees-are-planted-in-waves-sending-root-like-signals-through-the-l-2cd8875d.py", line 503, in trigger_wave
+    pulses.append(RootPulse(origin, isl.center, strength=1.0))
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-new-trees-are-planted-in-waves-sending-root-like-signals-through-the-l-2cd8875d.py", line 380, in __init__
+    self.body = add_obj(curve(pos=[], radius=0.035 * strength, color=PULSE, opacity=0.72, emissive=True))
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/b/phoenix/code/core_sentence_branch_script_web_app/.venv/lib/python3.12/site-packages/vpython/vpython.py", line 2073, in __init__
+    self.append(tpos)
+  File "/Users/b/phoenix/code/core_sentence_branch_script_web_app/.venv/lib/python3.12/site-packages/vpython/vpython.py", line 1929, in append
+    pts, cps = self.process_args(*args1, **args)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/b/phoenix/code/core_sentence_branch_script_web_app/.venv/lib/python3.12/site-packages/vpython/vpython.py", line 1871, in process_args
+    raise AttributeError("To add a point to a curve or points object, specify pos information.")
+AttributeError: To add a point to a curve or points object, specify pos information.

@@ -1,0 +1,13 @@
+Running: /Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-vacuum-bloom-reactor-empty-space-flowers-into-pulses-of-usable-energy-8f282a72.py
+Started: 2026-05-30T05:42:26
+
+/Users/b/phoenix/code/core_sentence_branch_script_web_app/.venv/lib/python3.12/site-packages/vpython/__init__.py:1: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import get_distribution, DistributionNotFound
+Traceback (most recent call last):
+  File "/Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-vacuum-bloom-reactor-empty-space-flowers-into-pulses-of-usable-energy-8f282a72.py", line 406, in <module>
+    done = b.update(dt)
+           ^^^^^^^^^^^^
+  File "/Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-vacuum-bloom-reactor-empty-space-flowers-into-pulses-of-usable-energy-8f282a72.py", line 271, in update
+    self.radius = max(0.06, (1.1 + 0.55 * self.seed_strength) * (1 - t) ** 1.5)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: '>' not supported between instances of 'complex' and 'float'

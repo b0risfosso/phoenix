@@ -1,0 +1,13 @@
+Running: /Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-spore-bearing-universe-a-universe-expands-like-a-living-membrane-growi-85bce617.py
+Started: 2026-05-30T16:20:51
+
+/Users/b/phoenix/code/core_sentence_branch_script_web_app/.venv/lib/python3.12/site-packages/vpython/__init__.py:1: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import get_distribution, DistributionNotFound
+Traceback (most recent call last):
+  File "/Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-spore-bearing-universe-a-universe-expands-like-a-living-membrane-growi-85bce617.py", line 362, in <module>
+    if spore.update(t):
+       ^^^^^^^^^^^^^^^
+  File "/Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-spore-bearing-universe-a-universe-expands-like-a-living-membrane-growi-85bce617.py", line 254, in update
+    if len(self.trail.points) < 18:
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'curve' object has no attribute 'points'. Did you mean: 'npoints'?

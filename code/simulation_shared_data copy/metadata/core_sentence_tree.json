@@ -1,0 +1,4400 @@
+{
+  "version": 1,
+  "created_at": "2026-05-22T22:17:39",
+  "updated_at": "2026-05-27T23:41:54",
+  "root_id": "root",
+  "nodes": {
+    "root": {
+      "id": "root",
+      "kind": "core_sentence",
+      "sentence": "Create a core sentence to begin the simulation story tree.",
+      "title": "Root core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-22T22:17:39",
+      "updated_at": "2026-05-22T22:17:39"
+    },
+    "effdff35ce84": {
+      "id": "effdff35ce84",
+      "kind": "core_sentence",
+      "sentence": "A large transparent sphere acts as a cell membrane with colored “ion channel” cylinders that open and close, letting small charged spheres drift through, bounce, and leave trails while a simple meter shows inside vs. outside ion counts.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [
+        "3f7ae7809716",
+        "40d962894a0a",
+        "c8f1053a3c3f",
+        "a899445ca352",
+        "bcd9c43740c2",
+        "1e2a91472e3b",
+        "26dd29a74bc1",
+        "c21274fa4c5c",
+        "f29f2e87c510",
+        "76ab31a7afdb",
+        "72bf00c4bd9c",
+        "e8f6743f5bb6",
+        "28ac42239526",
+        "a743ddf6055d",
+        "88e9713cb172"
+      ],
+      "scripts": [
+        {
+          "id": "b74186c4c0",
+          "filename": "sentence-script-a-transparent-3d-cell-membrane-contains-moving-ion-channels-that-open-f50b1cda.py",
+          "note": "",
+          "created_at": "2026-05-22T22:19:16",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-22T22:18:20",
+      "updated_at": "2026-05-25T12:16:55"
+    },
+    "3f7ae7809716": {
+      "id": "3f7ae7809716",
+      "kind": "core_sentence",
+      "sentence": "The AI controller monitors ion concentration on both sides of the membrane and changes channel behavior to restore balance.",
+      "title": "Next sentence branch",
+      "parent_id": "effdff35ce84",
+      "children": [],
+      "scripts": [
+        {
+          "id": "25b1c00d19",
+          "filename": "sentence-script-the-ai-controller-monitors-ion-concentration-on-both-sides-of-the-memb-d1ef8b10.py",
+          "note": "",
+          "created_at": "2026-05-22T22:28:13",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-22T22:22:10",
+      "updated_at": "2026-05-22T22:28:13"
+    },
+    "40d962894a0a": {
+      "id": "40d962894a0a",
+      "kind": "core_sentence",
+      "sentence": "Sodium, potassium, calcium, and chloride ions are color-coded and leave fading trails as they move through the cell environment.",
+      "title": "Next sentence branch",
+      "parent_id": "effdff35ce84",
+      "children": [],
+      "scripts": [
+        {
+          "id": "b41c13f55f",
+          "filename": "sentence-script-sodium-potassium-calcium-and-chloride-ions-are-color-coded-and-leave-f-fd31342a.py",
+          "note": "",
+          "created_at": "2026-05-22T22:33:27",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-22T22:22:18",
+      "updated_at": "2026-05-22T22:33:27"
+    },
+    "c8f1053a3c3f": {
+      "id": "c8f1053a3c3f",
+      "kind": "core_sentence",
+      "sentence": "Some channels act like gates, some act like pumps, and others attract ions into orbit before releasing them across the membrane.",
+      "title": "Next sentence branch",
+      "parent_id": "effdff35ce84",
+      "children": [],
+      "scripts": [
+        {
+          "id": "985b0af97f",
+          "filename": "sentence-script-some-channels-act-like-gates-some-act-like-pumps-and-others-attract-io-6eaf744f.py",
+          "note": "",
+          "created_at": "2026-05-22T22:38:21",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-22T22:22:27",
+      "updated_at": "2026-05-22T22:38:21"
+    },
+    "a899445ca352": {
+      "id": "a899445ca352",
+      "kind": "core_sentence",
+      "sentence": "When the system enters chaos mode, channels flicker rapidly and ions scatter in unpredictable bursts around the membrane.",
+      "title": "Next sentence branch",
+      "parent_id": "effdff35ce84",
+      "children": [],
+      "scripts": [
+        {
+          "id": "418c8b3533",
+          "filename": "sentence-script-when-the-system-enters-chaos-mode-channels-flicker-rapidly-and-ions-sc-1d4c6d0a.py",
+          "note": "",
+          "created_at": "2026-05-23T00:41:52",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-22T22:22:36",
+      "updated_at": "2026-05-23T00:41:52"
+    },
+    "bcd9c43740c2": {
+      "id": "bcd9c43740c2",
+      "kind": "core_sentence",
+      "sentence": "In balancing mode, the simulation shows ions crossing until the inside and outside concentrations become nearly equal.",
+      "title": "Next sentence branch",
+      "parent_id": "effdff35ce84",
+      "children": [],
+      "scripts": [
+        {
+          "id": "386acea1d6",
+          "filename": "sentence-script-in-balancing-mode-the-simulation-shows-ions-crossing-until-the-inside-691aedd4.py",
+          "note": "",
+          "created_at": "2026-05-23T00:47:10",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-22T22:22:53",
+      "updated_at": "2026-05-23T00:47:10"
+    },
+    "1e2a91472e3b": {
+      "id": "1e2a91472e3b",
+      "kind": "core_sentence",
+      "sentence": "In pumping mode, selected channels force ions against the concentration gradient while glowing brighter with each transfer.",
+      "title": "Next sentence branch",
+      "parent_id": "effdff35ce84",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-22T22:23:01",
+      "updated_at": "2026-05-22T22:23:01"
+    },
+    "26dd29a74bc1": {
+      "id": "26dd29a74bc1",
+      "kind": "core_sentence",
+      "sentence": "In mixing mode, the AI opens many channels at once, causing clouds of ions to swirl and blend across the membrane boundary",
+      "title": "Next sentence branch",
+      "parent_id": "effdff35ce84",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-22T22:23:15",
+      "updated_at": "2026-05-22T22:23:15"
+    },
+    "c21274fa4c5c": {
+      "id": "c21274fa4c5c",
+      "kind": "core_sentence",
+      "sentence": "In orbiting mode, charged ions curve around active channels before either crossing the membrane or being repelled back outward.",
+      "title": "Next sentence branch",
+      "parent_id": "effdff35ce84",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-22T22:23:24",
+      "updated_at": "2026-05-22T22:23:24"
+    },
+    "f29f2e87c510": {
+      "id": "f29f2e87c510",
+      "kind": "core_sentence",
+      "sentence": "Collisions between ions create small sparks, direction changes, and brief ripples across the transparent membrane surface.",
+      "title": "Next sentence branch",
+      "parent_id": "effdff35ce84",
+      "children": [],
+      "scripts": [
+        {
+          "id": "fce5414023",
+          "filename": "sentence-script-collisions-between-ions-create-small-sparks-direction-changes-and-brie-0bb55667.py",
+          "note": "",
+          "created_at": "2026-05-23T00:54:10",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-22T22:23:31",
+      "updated_at": "2026-05-23T00:54:10"
+    },
+    "76ab31a7afdb": {
+      "id": "76ab31a7afdb",
+      "kind": "core_sentence",
+      "sentence": "Attached ions temporarily stick to channel openings before being pulled through, released, or knocked away by nearby particles.",
+      "title": "Next sentence branch",
+      "parent_id": "effdff35ce84",
+      "children": [],
+      "scripts": [
+        {
+          "id": "a617384090",
+          "filename": "sentence-script-attached-ions-temporarily-stick-to-channel-openings-before-being-pulle-f8cc8397.py",
+          "note": "",
+          "created_at": "2026-05-23T00:59:35",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-22T22:23:41",
+      "updated_at": "2026-05-23T00:59:35"
+    },
+    "72bf00c4bd9c": {
+      "id": "72bf00c4bd9c",
+      "kind": "core_sentence",
+      "sentence": "The membrane flexes slightly when many ions cross at once, making transport activity visible as waves across the cell surface.",
+      "title": "Next sentence branch",
+      "parent_id": "effdff35ce84",
+      "children": [],
+      "scripts": [
+        {
+          "id": "2e6eedd1be",
+          "filename": "sentence-script-the-membrane-flexes-slightly-when-many-ions-cross-at-once-making-trans-82bb5df9.py",
+          "note": "",
+          "created_at": "2026-05-23T01:06:33",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-22T22:23:51",
+      "updated_at": "2026-05-23T01:06:33"
+    },
+    "e8f6743f5bb6": {
+      "id": "e8f6743f5bb6",
+      "kind": "core_sentence",
+      "sentence": "A status panel displays the current AI mode, ion counts, membrane voltage, channel openness, and transport direction",
+      "title": "Next sentence branch",
+      "parent_id": "effdff35ce84",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-22T22:24:00",
+      "updated_at": "2026-05-22T22:24:00"
+    },
+    "28ac42239526": {
+      "id": "28ac42239526",
+      "kind": "core_sentence",
+      "sentence": "The ai can select individual channels, move them around the membrane, and watch how local ion traffic changes.",
+      "title": "Next sentence branch",
+      "parent_id": "effdff35ce84",
+      "children": [],
+      "scripts": [
+        {
+          "id": "71bdb9ae19",
+          "filename": "sentence-script-the-ai-can-select-individual-channels-move-them-around-the-membrane-an-1d7f1e89.py",
+          "note": "",
+          "created_at": "2026-05-23T01:12:52",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-22T22:24:09",
+      "updated_at": "2026-05-23T01:12:52"
+    },
+    "a743ddf6055d": {
+      "id": "a743ddf6055d",
+      "kind": "core_sentence",
+      "sentence": "Over time, the AI attempts to create stable gradients, then deliberately disrupts them to show how transport systems recover.",
+      "title": "Next sentence branch",
+      "parent_id": "effdff35ce84",
+      "children": [],
+      "scripts": [
+        {
+          "id": "2591070e2e",
+          "filename": "sentence-script-over-time-the-ai-attempts-to-create-stable-gradients-then-deliberately-bb7bedb7.py",
+          "note": "",
+          "created_at": "2026-05-23T01:21:54",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-22T22:24:18",
+      "updated_at": "2026-05-23T01:21:54"
+    },
+    "88e9713cb172": {
+      "id": "88e9713cb172",
+      "kind": "core_sentence",
+      "sentence": "The simulation becomes a living ion-traffic system where gates, particles, trails, and membrane voltage constantly reorganize each other.",
+      "title": "Next sentence branch",
+      "parent_id": "effdff35ce84",
+      "children": [],
+      "scripts": [
+        {
+          "id": "30447d4661",
+          "filename": "sentence-script-the-simulation-becomes-a-living-ion-traffic-system-where-gates-particl-472474ac.py",
+          "note": "",
+          "created_at": "2026-05-23T01:26:23",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-22T22:24:25",
+      "updated_at": "2026-05-23T01:26:23"
+    },
+    "93b30b0f7d3c": {
+      "id": "93b30b0f7d3c",
+      "kind": "core_sentence",
+      "sentence": "A single cell sphere with a central duplicated chromosome cluster stretches, forms spindle fibers (thin rods) that pull chromosome spheres apart, and the whole cell pinches into two daughter cells that detach and drift slightly apart.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [
+        "80d700c2c567",
+        "b81d0866f202",
+        "b485f03ee6bd",
+        "b9d55978ae85",
+        "ac0b4d16238a",
+        "3a8b5546c598",
+        "f0b51502634c",
+        "887b1fc9856a",
+        "accd6aeb9070",
+        "889063cb8ab2",
+        "341da137487c",
+        "e14099a22acd",
+        "9d897e681d0d",
+        "30fe3b0f7b17",
+        "318247fc6d22"
+      ],
+      "scripts": [
+        {
+          "id": "4894f07473",
+          "filename": "sentence-script-a-transparent-3d-cell-undergoing-mitosis-as-chromosomes-condense-align-3ee01453.py",
+          "note": "",
+          "created_at": "2026-05-23T01:51:12",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T01:44:41",
+      "updated_at": "2026-05-25T12:16:25"
+    },
+    "80d700c2c567": {
+      "id": "80d700c2c567",
+      "kind": "core_sentence",
+      "sentence": "Spindle fibers attach unevenly at first, forcing the cell to correct mistakes before separation can continue.",
+      "title": "Next sentence branch",
+      "parent_id": "93b30b0f7d3c",
+      "children": [
+        "329a0ffacf18",
+        "1a829ccb427a",
+        "f00c61888b53",
+        "521d3172cc55",
+        "af00f969c610",
+        "82366d94cdad",
+        "53a66c5e1dca",
+        "85c89fe4521a",
+        "af7d1e56dddb",
+        "b9f6ea15a1c7",
+        "8e1b299b613b",
+        "3dabbb4d3a0d",
+        "98d52e9d3806",
+        "f1ba3f5e2db5",
+        "12c8101fa143",
+        "2357eab75265",
+        "fbe030cbfa8c",
+        "428a5b0caeb6",
+        "728e1d5d66eb",
+        "8bad36242bd6"
+      ],
+      "scripts": [
+        {
+          "id": "199dfeea6e",
+          "filename": "sentence-script-spindle-fibers-attach-unevenly-at-first-forcing-the-cell-to-correct-mi-47fd0eca.py",
+          "note": "",
+          "created_at": "2026-05-23T02:15:29",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T01:47:42",
+      "updated_at": "2026-05-23T11:32:43"
+    },
+    "b81d0866f202": {
+      "id": "b81d0866f202",
+      "kind": "core_sentence",
+      "sentence": "A glowing checkpoint pauses division until every chromosome is properly connected.",
+      "title": "Next sentence branch",
+      "parent_id": "93b30b0f7d3c",
+      "children": [
+        "e1a6e4faee6a",
+        "e4b9d61804b3",
+        "6fea59727601",
+        "aab0971bd3cb",
+        "3d286a5e6f5a",
+        "1ea44ada872f",
+        "637e89c4b385",
+        "85b4cc4ee493",
+        "25037c4d0a72",
+        "90bb65c2b7fd",
+        "30567b856627",
+        "b9bf5f793238",
+        "81d8416c2213",
+        "399533e0a66b",
+        "57e145fbb839",
+        "bff7571326a1",
+        "cc1823dd5e3b",
+        "e0f75e5f022a",
+        "384091fd4afb",
+        "58898136b030"
+      ],
+      "scripts": [
+        {
+          "id": "66fee1a719",
+          "filename": "sentence-script-a-glowing-checkpoint-pauses-division-until-every-chromosome-is-properl-89632494.py",
+          "note": "",
+          "created_at": "2026-05-23T07:28:02",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T01:47:54",
+      "updated_at": "2026-05-23T11:42:38"
+    },
+    "b485f03ee6bd": {
+      "id": "b485f03ee6bd",
+      "kind": "core_sentence",
+      "sentence": "The nuclear envelope dissolves into fragments that drift outward before later rebuilding around each new chromosome group.",
+      "title": "Next sentence branch",
+      "parent_id": "93b30b0f7d3c",
+      "children": [
+        "6be440297a6e",
+        "beefeccfb9c5",
+        "78b393a14287",
+        "97833ebf0fb8",
+        "429ddcdf3987",
+        "2ebbafeb2429",
+        "2d6f7668c7d5",
+        "ab66c99fb832",
+        "8e91bf5a2fce",
+        "59ea69dc4982",
+        "3d0c0501ea9f",
+        "cb13d4e651c7",
+        "e85cf04f3f42",
+        "9a7cadbca396",
+        "42ec1b70ac7f",
+        "09f3cca2449a",
+        "7b384a5554a2",
+        "44f467b11a3c",
+        "8a8189b5ce41",
+        "e1da046fe08a"
+      ],
+      "scripts": [
+        {
+          "id": "c32ab83994",
+          "filename": "sentence-script-the-nuclear-envelope-dissolves-into-fragments-that-drift-outward-befor-0d2e9ecd.py",
+          "note": "",
+          "created_at": "2026-05-23T07:47:05",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T01:48:05",
+      "updated_at": "2026-05-23T11:49:19"
+    },
+    "b9d55978ae85": {
+      "id": "b9d55978ae85",
+      "kind": "core_sentence",
+      "sentence": "Microtubules grow, shrink, search, and reconnect as they pull chromosomes into a precise central line.",
+      "title": "Next sentence branch",
+      "parent_id": "93b30b0f7d3c",
+      "children": [
+        "311ee40f54b7",
+        "390853a9201e",
+        "4baee8f20aca",
+        "2d281a24ad03",
+        "ed2aa7bcfe45",
+        "0c880e376565",
+        "01649086f856",
+        "56118190b86a",
+        "b918b8ff4ede",
+        "c46218d01168",
+        "014cf4a2d4f0",
+        "6192ba2218ce",
+        "b5cee0f53665",
+        "eb9731347576",
+        "24e54cd5b522",
+        "72e7a3cd37e4",
+        "45967ff86d2b",
+        "e34d0d9f99b0",
+        "0c3801e3ce40",
+        "33f6eb14c87c"
+      ],
+      "scripts": [
+        {
+          "id": "9b6cd08f77",
+          "filename": "sentence-script-microtubules-grow-shrink-search-and-reconnect-as-they-pull-chromosomes-df4d17f7.py",
+          "note": "",
+          "created_at": "2026-05-23T07:51:44",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T01:48:15",
+      "updated_at": "2026-05-23T12:02:55"
+    },
+    "ac0b4d16238a": {
+      "id": "ac0b4d16238a",
+      "kind": "core_sentence",
+      "sentence": "Some chromosomes lag behind, creating tension as the cell attempts to recover them before division finishes.",
+      "title": "Next sentence branch",
+      "parent_id": "93b30b0f7d3c",
+      "children": [],
+      "scripts": [
+        {
+          "id": "6de87de3b9",
+          "filename": "sentence-script-some-chromosomes-lag-behind-creating-tension-as-the-cell-attempts-to-r-eb796fa1.py",
+          "note": "",
+          "created_at": "2026-05-23T07:56:03",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T01:48:23",
+      "updated_at": "2026-05-23T07:56:03"
+    },
+    "3a8b5546c598": {
+      "id": "3a8b5546c598",
+      "kind": "core_sentence",
+      "sentence": "The cell membrane begins to tighten at the center, forming a visible cleavage furrow that slowly deepens.",
+      "title": "Next sentence branch",
+      "parent_id": "93b30b0f7d3c",
+      "children": [],
+      "scripts": [
+        {
+          "id": "803afa736a",
+          "filename": "sentence-script-the-cell-membrane-begins-to-tighten-at-the-center-forming-a-visible-cl-ada557fb.py",
+          "note": "",
+          "created_at": "2026-05-23T08:15:53",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T01:48:35",
+      "updated_at": "2026-05-23T08:15:53"
+    },
+    "f0b51502634c": {
+      "id": "f0b51502634c",
+      "kind": "core_sentence",
+      "sentence": "Cytoplasm, organelles, and small vesicles redistribute between the two emerging daughter cells.",
+      "title": "Next sentence branch",
+      "parent_id": "93b30b0f7d3c",
+      "children": [],
+      "scripts": [
+        {
+          "id": "90e8230431",
+          "filename": "sentence-script-cytoplasm-organelles-and-small-vesicles-redistribute-between-the-two-e-e5e0a43c.py",
+          "note": "",
+          "created_at": "2026-05-23T08:19:36",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T01:48:43",
+      "updated_at": "2026-05-23T08:19:36"
+    },
+    "887b1fc9856a": {
+      "id": "887b1fc9856a",
+      "kind": "core_sentence",
+      "sentence": "The two daughter cells briefly remain connected by a narrow bridge before finally separating.",
+      "title": "Next sentence branch",
+      "parent_id": "93b30b0f7d3c",
+      "children": [],
+      "scripts": [
+        {
+          "id": "db2fa16aa8",
+          "filename": "sentence-script-the-two-daughter-cells-briefly-remain-connected-by-a-narrow-bridge-bef-6392441e.py",
+          "note": "",
+          "created_at": "2026-05-23T08:27:12",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T01:48:51",
+      "updated_at": "2026-05-23T08:27:12"
+    },
+    "accd6aeb9070": {
+      "id": "accd6aeb9070",
+      "kind": "core_sentence",
+      "sentence": "A repair system scans for misplaced or damaged chromosomes before the new nuclei fully form.",
+      "title": "Next sentence branch",
+      "parent_id": "93b30b0f7d3c",
+      "children": [],
+      "scripts": [
+        {
+          "id": "6b82a414da",
+          "filename": "sentence-script-a-repair-system-scans-for-misplaced-or-damaged-chromosomes-before-the-72f62aaa.py",
+          "note": "",
+          "created_at": "2026-05-23T08:30:15",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T01:49:03",
+      "updated_at": "2026-05-23T08:30:15"
+    },
+    "889063cb8ab2": {
+      "id": "889063cb8ab2",
+      "kind": "core_sentence",
+      "sentence": "The chromosomes pulse with color as tension increases between opposite spindle poles.",
+      "title": "Next sentence branch",
+      "parent_id": "93b30b0f7d3c",
+      "children": [],
+      "scripts": [
+        {
+          "id": "77a7d2ce1a",
+          "filename": "sentence-script-the-chromosomes-pulse-with-color-as-tension-increases-between-opposite-e8f66d12.py",
+          "note": "",
+          "created_at": "2026-05-23T08:34:04",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T01:49:11",
+      "updated_at": "2026-05-23T08:34:04"
+    },
+    "341da137487c": {
+      "id": "341da137487c",
+      "kind": "core_sentence",
+      "sentence": "The division process becomes unstable when one spindle pole pulls harder than the other.",
+      "title": "Next sentence branch",
+      "parent_id": "93b30b0f7d3c",
+      "children": [],
+      "scripts": [
+        {
+          "id": "654e75225d",
+          "filename": "sentence-script-the-division-process-becomes-unstable-when-one-spindle-pole-pulls-hard-db870d8f.py",
+          "note": "",
+          "created_at": "2026-05-23T08:38:28",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T01:49:20",
+      "updated_at": "2026-05-23T08:38:28"
+    },
+    "e14099a22acd": {
+      "id": "e14099a22acd",
+      "kind": "core_sentence",
+      "sentence": "The cell responds to internal stress by slowing, pausing, or reversing parts of the division process.",
+      "title": "Next sentence branch",
+      "parent_id": "93b30b0f7d3c",
+      "children": [],
+      "scripts": [
+        {
+          "id": "cd4a39a396",
+          "filename": "sentence-script-the-cell-responds-to-internal-stress-by-slowing-pausing-or-reversing-p-6653369a.py",
+          "note": "",
+          "created_at": "2026-05-23T08:41:28",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T01:49:29",
+      "updated_at": "2026-05-23T08:41:28"
+    },
+    "9d897e681d0d": {
+      "id": "9d897e681d0d",
+      "kind": "core_sentence",
+      "sentence": "A wave of membrane contraction travels around the cell surface as cytokinesis begins.",
+      "title": "Next sentence branch",
+      "parent_id": "93b30b0f7d3c",
+      "children": [],
+      "scripts": [
+        {
+          "id": "fd65769873",
+          "filename": "sentence-script-a-wave-of-membrane-contraction-travels-around-the-cell-surface-as-cyto-82c40330.py",
+          "note": "",
+          "created_at": "2026-05-23T08:46:27",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T01:49:39",
+      "updated_at": "2026-05-23T08:46:27"
+    },
+    "30fe3b0f7b17": {
+      "id": "30fe3b0f7b17",
+      "kind": "core_sentence",
+      "sentence": "The surrounding environment applies pressure, changing the shape and symmetry of the dividing cell.",
+      "title": "Next sentence branch",
+      "parent_id": "93b30b0f7d3c",
+      "children": [],
+      "scripts": [
+        {
+          "id": "d5383b78ea",
+          "filename": "sentence-script-the-surrounding-environment-applies-pressure-changing-the-shape-and-sy-48cdb7b6.py",
+          "note": "",
+          "created_at": "2026-05-23T08:50:25",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T01:49:48",
+      "updated_at": "2026-05-23T08:50:25"
+    },
+    "318247fc6d22": {
+      "id": "318247fc6d22",
+      "kind": "core_sentence",
+      "sentence": "After division, the daughter cells begin to drift apart, grow, and prepare for another cycle.",
+      "title": "Next sentence branch",
+      "parent_id": "93b30b0f7d3c",
+      "children": [],
+      "scripts": [
+        {
+          "id": "87ab65017b",
+          "filename": "sentence-script-after-division-the-daughter-cells-begin-to-drift-apart-grow-and-prepar-3c681ccd.py",
+          "note": "",
+          "created_at": "2026-05-23T08:54:08",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T01:49:55",
+      "updated_at": "2026-05-23T08:54:08"
+    },
+    "fa4153264bf2": {
+      "id": "fa4153264bf2",
+      "kind": "core_sentence",
+      "sentence": "A semi-transparent cell sphere contains a nucleus, mitochondria, vesicles, and ribosomes, where vesicles float along curved paths, gently collide and bounce off organelles, and leave faint trails while labels hover over each structure.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [
+        "388e1912e4da",
+        "3edf5a491ae2",
+        "2280535c34d6",
+        "cd84b7782599",
+        "060501c4831f",
+        "07ac4ad90e1a",
+        "c0683f799a17",
+        "4865ae497038",
+        "811ac2df9878",
+        "3576802823f1",
+        "61cf1a6de0cf",
+        "1a8ebaa42287",
+        "aaa4baec6d11",
+        "675cd878ceb8",
+        "b5221e771024"
+      ],
+      "scripts": [
+        {
+          "id": "e7b3599a82",
+          "filename": "sentence-script-a-semi-transparent-cell-sphere-contains-a-nucleus-mitochondria-vesicle-4b3b63c5.py",
+          "note": "",
+          "created_at": "2026-05-23T11:22:47",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T11:21:00",
+      "updated_at": "2026-05-25T12:22:05"
+    },
+    "388e1912e4da": {
+      "id": "388e1912e4da",
+      "kind": "core_sentence",
+      "sentence": "Some vesicles begin carrying colored cargo between organelles, changing brightness as they load and unload material.",
+      "title": "Next sentence branch",
+      "parent_id": "fa4153264bf2",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:22:57",
+      "updated_at": "2026-05-23T11:22:57"
+    },
+    "3edf5a491ae2": {
+      "id": "3edf5a491ae2",
+      "kind": "core_sentence",
+      "sentence": "The nucleus releases pulsing signals that attract certain particles while repelling others.",
+      "title": "Next sentence branch",
+      "parent_id": "fa4153264bf2",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:23:07",
+      "updated_at": "2026-05-23T11:23:07"
+    },
+    "2280535c34d6": {
+      "id": "2280535c34d6",
+      "kind": "core_sentence",
+      "sentence": "Mitochondria glow more strongly when nearby traffic increases, then dim when activity slows.",
+      "title": "Next sentence branch",
+      "parent_id": "fa4153264bf2",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:23:16",
+      "updated_at": "2026-05-23T11:23:16"
+    },
+    "cd84b7782599": {
+      "id": "cd84b7782599",
+      "kind": "core_sentence",
+      "sentence": "Ribosomes cluster around messenger strands and produce small protein beads that drift into the cell interior.",
+      "title": "Next sentence branch",
+      "parent_id": "fa4153264bf2",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:23:29",
+      "updated_at": "2026-05-23T11:23:29"
+    },
+    "060501c4831f": {
+      "id": "060501c4831f",
+      "kind": "core_sentence",
+      "sentence": "A transport network gradually appears, with invisible paths becoming visible only after enough objects travel along them.",
+      "title": "Next sentence branch",
+      "parent_id": "fa4153264bf2",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:23:38",
+      "updated_at": "2026-05-23T11:23:38"
+    },
+    "07ac4ad90e1a": {
+      "id": "07ac4ad90e1a",
+      "kind": "core_sentence",
+      "sentence": "Damaged organelles emit faint distress signals that nearby vesicles follow to deliver repair material.",
+      "title": "Next sentence branch",
+      "parent_id": "fa4153264bf2",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:24:01",
+      "updated_at": "2026-05-23T11:24:01"
+    },
+    "c0683f799a17": {
+      "id": "c0683f799a17",
+      "kind": "core_sentence",
+      "sentence": "The cell becomes crowded, forcing objects to reroute, slow down, or form temporary traffic jams.",
+      "title": "Next sentence branch",
+      "parent_id": "fa4153264bf2",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:24:11",
+      "updated_at": "2026-05-23T11:24:11"
+    },
+    "4865ae497038": {
+      "id": "4865ae497038",
+      "kind": "core_sentence",
+      "sentence": "Some vesicles merge together, split apart, or exchange cargo after collision.",
+      "title": "Next sentence branch",
+      "parent_id": "fa4153264bf2",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:24:20",
+      "updated_at": "2026-05-23T11:24:20"
+    },
+    "811ac2df9878": {
+      "id": "811ac2df9878",
+      "kind": "core_sentence",
+      "sentence": "The membrane occasionally flexes inward, pushing nearby objects and creating waves through the interior.",
+      "title": "Next sentence branch",
+      "parent_id": "fa4153264bf2",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:24:28",
+      "updated_at": "2026-05-23T11:24:28"
+    },
+    "3576802823f1": {
+      "id": "3576802823f1",
+      "kind": "core_sentence",
+      "sentence": "Energy particles flow outward from mitochondria and briefly accelerate nearby movement.",
+      "title": "Next sentence branch",
+      "parent_id": "fa4153264bf2",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:24:37",
+      "updated_at": "2026-05-23T11:24:37"
+    },
+    "61cf1a6de0cf": {
+      "id": "61cf1a6de0cf",
+      "kind": "core_sentence",
+      "sentence": "A waste-collection system forms as old particles are gathered, packed, and moved toward the boundary.",
+      "title": "Next sentence branch",
+      "parent_id": "fa4153264bf2",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:24:51",
+      "updated_at": "2026-05-23T11:24:51"
+    },
+    "1a8ebaa42287": {
+      "id": "1a8ebaa42287",
+      "kind": "core_sentence",
+      "sentence": "The cell enters different activity states, shifting between calm maintenance, rapid transport, repair, growth, and stress response.",
+      "title": "Next sentence branch",
+      "parent_id": "fa4153264bf2",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:25:02",
+      "updated_at": "2026-05-23T11:25:02"
+    },
+    "aaa4baec6d11": {
+      "id": "aaa4baec6d11",
+      "kind": "core_sentence",
+      "sentence": "Cargo that reaches the wrong destination changes color and must be redirected by nearby carriers.",
+      "title": "Next sentence branch",
+      "parent_id": "fa4153264bf2",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:25:12",
+      "updated_at": "2026-05-23T11:25:12"
+    },
+    "675cd878ceb8": {
+      "id": "675cd878ceb8",
+      "kind": "core_sentence",
+      "sentence": "The interior develops regions of higher and lower concentration, causing motion to become more organized over time.",
+      "title": "Next sentence branch",
+      "parent_id": "fa4153264bf2",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:25:22",
+      "updated_at": "2026-05-23T11:25:22"
+    },
+    "b5221e771024": {
+      "id": "b5221e771024",
+      "kind": "core_sentence",
+      "sentence": "During stress, organelles move closer together while vesicles speed up and trails become brighter.",
+      "title": "Next sentence branch",
+      "parent_id": "fa4153264bf2",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:25:30",
+      "updated_at": "2026-05-23T11:25:30"
+    },
+    "329a0ffacf18": {
+      "id": "329a0ffacf18",
+      "kind": "core_sentence",
+      "sentence": "The chromosomes pause at the center until every attachment point shows balanced tension.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:27:31",
+      "updated_at": "2026-05-23T11:27:31"
+    },
+    "1a829ccb427a": {
+      "id": "1a829ccb427a",
+      "kind": "core_sentence",
+      "sentence": "Misaligned chromosomes glow briefly, detach, and search for new spindle connections.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:27:39",
+      "updated_at": "2026-05-23T11:27:39"
+    },
+    "f00c61888b53": {
+      "id": "f00c61888b53",
+      "kind": "core_sentence",
+      "sentence": "A checkpoint signal spreads through the cell whenever one chromosome lags behind the others.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:27:52",
+      "updated_at": "2026-05-23T11:27:52"
+    },
+    "521d3172cc55": {
+      "id": "521d3172cc55",
+      "kind": "core_sentence",
+      "sentence": "The spindle poles pull with changing strength, causing the chromosome line to wobble before stabilizing.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:27:59",
+      "updated_at": "2026-05-23T11:27:59"
+    },
+    "af00f969c610": {
+      "id": "af00f969c610",
+      "kind": "core_sentence",
+      "sentence": "Repair particles move along the spindle fibers to reinforce weak or incorrect attachments.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:28:07",
+      "updated_at": "2026-05-23T11:28:07"
+    },
+    "82366d94cdad": {
+      "id": "82366d94cdad",
+      "kind": "core_sentence",
+      "sentence": "The cell membrane begins to stretch slightly as the internal pulling forces increase.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:28:18",
+      "updated_at": "2026-05-23T11:28:18"
+    },
+    "53a66c5e1dca": {
+      "id": "53a66c5e1dca",
+      "kind": "core_sentence",
+      "sentence": "Some chromosomes resist movement, forcing neighboring fibers to adjust their angles.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:28:25",
+      "updated_at": "2026-05-23T11:28:25"
+    },
+    "85c89fe4521a": {
+      "id": "85c89fe4521a",
+      "kind": "core_sentence",
+      "sentence": "A tension map appears across the cell, showing which fibers are pulling too hard or too weakly.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:28:36",
+      "updated_at": "2026-05-23T11:28:36"
+    },
+    "af7d1e56dddb": {
+      "id": "af7d1e56dddb",
+      "kind": "core_sentence",
+      "sentence": "The nucleus dissolves into a faint mist, leaving behind fragments that drift toward each forming daughter cell.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:29:07",
+      "updated_at": "2026-05-23T11:29:07"
+    },
+    "b9f6ea15a1c7": {
+      "id": "b9f6ea15a1c7",
+      "kind": "core_sentence",
+      "sentence": "The chromosomes pulse brighter as separation becomes irreversible.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:29:16",
+      "updated_at": "2026-05-23T11:29:16"
+    },
+    "8e1b299b613b": {
+      "id": "8e1b299b613b",
+      "kind": "core_sentence",
+      "sentence": "A damaged chromosome delays the process while repair bodies surround and inspect it.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:29:24",
+      "updated_at": "2026-05-23T11:29:24"
+    },
+    "3dabbb4d3a0d": {
+      "id": "3dabbb4d3a0d",
+      "kind": "core_sentence",
+      "sentence": "The two spindle poles compete unevenly, temporarily dragging the chromosome cluster off-center.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:29:38",
+      "updated_at": "2026-05-23T11:29:38"
+    },
+    "98d52e9d3806": {
+      "id": "98d52e9d3806",
+      "kind": "core_sentence",
+      "sentence": "The cell corrects its shape by shifting organelles away from the division plane.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:29:49",
+      "updated_at": "2026-05-23T11:29:49"
+    },
+    "f1ba3f5e2db5": {
+      "id": "f1ba3f5e2db5",
+      "kind": "core_sentence",
+      "sentence": "Cytokinesis begins as a tightening ring forms around the middle and slowly pinches inward.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:30:00",
+      "updated_at": "2026-05-23T11:30:00"
+    },
+    "12c8101fa143": {
+      "id": "12c8101fa143",
+      "kind": "core_sentence",
+      "sentence": "The daughter cells remain connected by a thin bridge while leftover spindle fibers fade and retract.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:30:14",
+      "updated_at": "2026-05-23T11:30:14"
+    },
+    "2357eab75265": {
+      "id": "2357eab75265",
+      "kind": "core_sentence",
+      "sentence": "After division, each daughter cell rebuilds a nucleus around its separated chromosome group.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:30:25",
+      "updated_at": "2026-05-23T11:30:25"
+    },
+    "fbe030cbfa8c": {
+      "id": "fbe030cbfa8c",
+      "kind": "core_sentence",
+      "sentence": "The surrounding environment presses against one side, making the split asymmetric.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:30:33",
+      "updated_at": "2026-05-23T11:30:33"
+    },
+    "428a5b0caeb6": {
+      "id": "428a5b0caeb6",
+      "kind": "core_sentence",
+      "sentence": "Extra chromosomes are caught in the middle and pulled back before the membrane closes.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:30:42",
+      "updated_at": "2026-05-23T11:30:42"
+    },
+    "728e1d5d66eb": {
+      "id": "728e1d5d66eb",
+      "kind": "core_sentence",
+      "sentence": "The cell enters a stress state where separation slows, reverses slightly, and tries again.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:30:51",
+      "updated_at": "2026-05-23T11:30:51"
+    },
+    "8bad36242bd6": {
+      "id": "8bad36242bd6",
+      "kind": "core_sentence",
+      "sentence": "Once both new nuclei stabilize, the daughter cells drift apart and begin preparing for another cycle.",
+      "title": "Next sentence branch",
+      "parent_id": "80d700c2c567",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:32:43",
+      "updated_at": "2026-05-23T11:32:43"
+    },
+    "e1a6e4faee6a": {
+      "id": "e1a6e4faee6a",
+      "kind": "core_sentence",
+      "sentence": "Incorrectly attached chromosomes glow red, detach, and search for new spindle fibers.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:37:58",
+      "updated_at": "2026-05-23T11:37:58"
+    },
+    "e4b9d61804b3": {
+      "id": "e4b9d61804b3",
+      "kind": "core_sentence",
+      "sentence": "The checkpoint signal weakens only when tension becomes balanced across every chromosome pair.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:38:51",
+      "updated_at": "2026-05-23T11:38:51"
+    },
+    "6fea59727601": {
+      "id": "6fea59727601",
+      "kind": "core_sentence",
+      "sentence": "Repair particles travel along spindle fibers and reinforce unstable attachment points.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:38:59",
+      "updated_at": "2026-05-23T11:38:59"
+    },
+    "aab0971bd3cb": {
+      "id": "aab0971bd3cb",
+      "kind": "core_sentence",
+      "sentence": "A single lagging chromosome keeps the entire cell frozen while nearby fibers rearrange around it.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:39:18",
+      "updated_at": "2026-05-23T11:39:18"
+    },
+    "3d286a5e6f5a": {
+      "id": "3d286a5e6f5a",
+      "kind": "core_sentence",
+      "sentence": "The spindle poles pulse with alternating force, testing whether each chromosome can resist being pulled apart too early.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:39:29",
+      "updated_at": "2026-05-23T11:39:29"
+    },
+    "1ea44ada872f": {
+      "id": "1ea44ada872f",
+      "kind": "core_sentence",
+      "sentence": "Chromosomes that pass inspection turn brighter and lock into place along the center line.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:39:36",
+      "updated_at": "2026-05-23T11:39:36"
+    },
+    "637e89c4b385": {
+      "id": "637e89c4b385",
+      "kind": "core_sentence",
+      "sentence": "The cell enters a warning state when one pole pulls harder than the other, shifting the chromosome cluster off-center.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:39:45",
+      "updated_at": "2026-05-23T11:39:45"
+    },
+    "85b4cc4ee493": {
+      "id": "85b4cc4ee493",
+      "kind": "core_sentence",
+      "sentence": "Tiny molecular markers gather around each chromosome, counting how many stable connections have formed.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:40:17",
+      "updated_at": "2026-05-23T11:40:17"
+    },
+    "25037c4d0a72": {
+      "id": "25037c4d0a72",
+      "kind": "core_sentence",
+      "sentence": "The division plane appears only after the checkpoint fades and the chromosome line becomes symmetrical.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:40:30",
+      "updated_at": "2026-05-23T11:40:30"
+    },
+    "90bb65c2b7fd": {
+      "id": "90bb65c2b7fd",
+      "kind": "core_sentence",
+      "sentence": "If a chromosome disconnects during alignment, the checkpoint reignites and pulls the process backward.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:40:44",
+      "updated_at": "2026-05-23T11:40:44"
+    },
+    "30567b856627": {
+      "id": "30567b856627",
+      "kind": "core_sentence",
+      "sentence": "The membrane trembles softly as internal tension builds during the paused state.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:40:52",
+      "updated_at": "2026-05-23T11:40:52"
+    },
+    "b9bf5f793238": {
+      "id": "b9bf5f793238",
+      "kind": "core_sentence",
+      "sentence": "Spindle fibers shorten, lengthen, and change angles until every chromosome sits under equal pull.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:41:01",
+      "updated_at": "2026-05-23T11:41:01"
+    },
+    "81d8416c2213": {
+      "id": "81d8416c2213",
+      "kind": "core_sentence",
+      "sentence": "A damaged chromosome attracts repair bodies that wrap around it before allowing separation to resume.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:41:16",
+      "updated_at": "2026-05-23T11:41:16"
+    },
+    "399533e0a66b": {
+      "id": "399533e0a66b",
+      "kind": "core_sentence",
+      "sentence": "The cell cycles through inspection, correction, and release until the interior reaches a stable pattern.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:41:27",
+      "updated_at": "2026-05-23T11:41:27"
+    },
+    "57e145fbb839": {
+      "id": "57e145fbb839",
+      "kind": "core_sentence",
+      "sentence": "Once the checkpoint turns off, all chromosomes separate in a coordinated wave toward opposite poles.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:41:34",
+      "updated_at": "2026-05-23T11:41:34"
+    },
+    "bff7571326a1": {
+      "id": "bff7571326a1",
+      "kind": "core_sentence",
+      "sentence": "Leftover incorrect fibers dissolve into particles while correct fibers become thicker and brighter.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:41:49",
+      "updated_at": "2026-05-23T11:41:49"
+    },
+    "cc1823dd5e3b": {
+      "id": "cc1823dd5e3b",
+      "kind": "core_sentence",
+      "sentence": "The daughter nuclei begin forming only around chromosome groups that pass the final inspection.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:42:08",
+      "updated_at": "2026-05-23T11:42:08"
+    },
+    "e0f75e5f022a": {
+      "id": "e0f75e5f022a",
+      "kind": "core_sentence",
+      "sentence": "Stress in the surrounding environment causes the checkpoint to stay active longer and makes the division uneven.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:42:19",
+      "updated_at": "2026-05-23T11:42:19"
+    },
+    "384091fd4afb": {
+      "id": "384091fd4afb",
+      "kind": "core_sentence",
+      "sentence": "A faint timer appears as the cell decides whether to continue, pause, or restart alignment.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:42:28",
+      "updated_at": "2026-05-23T11:42:28"
+    },
+    "58898136b030": {
+      "id": "58898136b030",
+      "kind": "core_sentence",
+      "sentence": "After successful separation, the checkpoint signal becomes a fading memory trail between the two new cells.",
+      "title": "Next sentence branch",
+      "parent_id": "b81d0866f202",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:42:38",
+      "updated_at": "2026-05-23T11:42:38"
+    },
+    "6be440297a6e": {
+      "id": "6be440297a6e",
+      "kind": "core_sentence",
+      "sentence": "The drifting envelope fragments glow faintly as they search for the nearest chromosome cluster.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:43:35",
+      "updated_at": "2026-05-23T11:43:35"
+    },
+    "beefeccfb9c5": {
+      "id": "beefeccfb9c5",
+      "kind": "core_sentence",
+      "sentence": "Some fragments attach too early, forcing the cell to dissolve them again before separation finishes.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:43:43",
+      "updated_at": "2026-05-23T11:43:43"
+    },
+    "78b393a14287": {
+      "id": "78b393a14287",
+      "kind": "core_sentence",
+      "sentence": "The fragments form temporary rings around each chromosome group, then tighten into smooth new boundaries.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:44:22",
+      "updated_at": "2026-05-23T11:44:22"
+    },
+    "97833ebf0fb8": {
+      "id": "97833ebf0fb8",
+      "kind": "core_sentence",
+      "sentence": "Leftover nuclear debris is swept aside by spindle fibers and pushed toward the cell edges.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:44:34",
+      "updated_at": "2026-05-23T11:44:34"
+    },
+    "429ddcdf3987": {
+      "id": "429ddcdf3987",
+      "kind": "core_sentence",
+      "sentence": "A repair signal marks missing gaps in each rebuilding envelope until the nuclei become sealed.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:44:46",
+      "updated_at": "2026-05-23T11:44:46"
+    },
+    "2ebbafeb2429": {
+      "id": "2ebbafeb2429",
+      "kind": "core_sentence",
+      "sentence": "The envelope fragments carry different colors, showing which pieces belong to each daughter nucleus.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:45:04",
+      "updated_at": "2026-05-23T11:45:04"
+    },
+    "2d6f7668c7d5": {
+      "id": "2d6f7668c7d5",
+      "kind": "core_sentence",
+      "sentence": "Misplaced fragments drift between the two forming nuclei and must be redirected before the cell can finish dividing.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:45:22",
+      "updated_at": "2026-05-23T11:45:22"
+    },
+    "ab66c99fb832": {
+      "id": "ab66c99fb832",
+      "kind": "core_sentence",
+      "sentence": "The rebuilding nuclei pulse brighter whenever chromosomes settle into stable positions.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:45:44",
+      "updated_at": "2026-05-23T11:45:44"
+    },
+    "8e91bf5a2fce": {
+      "id": "8e91bf5a2fce",
+      "kind": "core_sentence",
+      "sentence": "As the envelopes reform, chromosomes gradually loosen and expand back into softer genetic clouds.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:45:53",
+      "updated_at": "2026-05-23T11:45:53"
+    },
+    "59ea69dc4982": {
+      "id": "59ea69dc4982",
+      "kind": "core_sentence",
+      "sentence": "The spindle fibers retract only after each new nucleus becomes fully enclosed.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:46:01",
+      "updated_at": "2026-05-23T11:46:01"
+    },
+    "3d0c0501ea9f": {
+      "id": "3d0c0501ea9f",
+      "kind": "core_sentence",
+      "sentence": "A wave of membrane contraction begins once both nuclear envelopes reach equal size.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:46:14",
+      "updated_at": "2026-05-23T11:46:14"
+    },
+    "cb13d4e651c7": {
+      "id": "cb13d4e651c7",
+      "kind": "core_sentence",
+      "sentence": "The cell delays final separation if one nucleus rebuilds faster than the other.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:46:40",
+      "updated_at": "2026-05-23T11:46:40"
+    },
+    "e85cf04f3f42": {
+      "id": "e85cf04f3f42",
+      "kind": "core_sentence",
+      "sentence": "Tiny pores appear across the new nuclear surfaces, opening and closing as signals pass through.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:46:51",
+      "updated_at": "2026-05-23T11:46:51"
+    },
+    "9a7cadbca396": {
+      "id": "9a7cadbca396",
+      "kind": "core_sentence",
+      "sentence": "Some envelope fragments fuse into vesicle-like bubbles before flattening into the new nuclear boundary.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:47:37",
+      "updated_at": "2026-05-23T11:47:37"
+    },
+    "42ec1b70ac7f": {
+      "id": "42ec1b70ac7f",
+      "kind": "core_sentence",
+      "sentence": "The cytoplasm reorganizes around the two nuclei, sending mitochondria and ribosomes toward each side.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:48:05",
+      "updated_at": "2026-05-23T11:48:05"
+    },
+    "09f3cca2449a": {
+      "id": "09f3cca2449a",
+      "kind": "core_sentence",
+      "sentence": "If the chromosome groups drift too far from their forming envelopes, the fragments stretch into unstable shapes.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:48:18",
+      "updated_at": "2026-05-23T11:48:18"
+    },
+    "7b384a5554a2": {
+      "id": "7b384a5554a2",
+      "kind": "core_sentence",
+      "sentence": "The new nuclei begin exchanging faint signals before the daughter cells fully pull apart.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:48:27",
+      "updated_at": "2026-05-23T11:48:27"
+    },
+    "44f467b11a3c": {
+      "id": "44f467b11a3c",
+      "kind": "core_sentence",
+      "sentence": "A quality-control system scans each rebuilt envelope for holes, leaks, or trapped spindle fibers.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:48:46",
+      "updated_at": "2026-05-23T11:48:46"
+    },
+    "8a8189b5ce41": {
+      "id": "8a8189b5ce41",
+      "kind": "core_sentence",
+      "sentence": "The two forming nuclei rotate slightly as envelope fragments wrap around them from different directions.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:49:07",
+      "updated_at": "2026-05-23T11:49:07"
+    },
+    "e1da046fe08a": {
+      "id": "e1da046fe08a",
+      "kind": "core_sentence",
+      "sentence": "Once both envelopes close, the chromosomes dim, the spindle fades, and the daughter cells begin to grow separately.",
+      "title": "Next sentence branch",
+      "parent_id": "b485f03ee6bd",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:49:19",
+      "updated_at": "2026-05-23T11:49:19"
+    },
+    "311ee40f54b7": {
+      "id": "311ee40f54b7",
+      "kind": "core_sentence",
+      "sentence": "Unstable connections flicker and detach until each chromosome feels equal pull from opposite sides.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:56:44",
+      "updated_at": "2026-05-23T11:56:44"
+    },
+    "390853a9201e": {
+      "id": "390853a9201e",
+      "kind": "core_sentence",
+      "sentence": "The central line becomes brighter as more chromosomes lock into balanced positions.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:56:54",
+      "updated_at": "2026-05-23T11:56:54"
+    },
+    "4baee8f20aca": {
+      "id": "4baee8f20aca",
+      "kind": "core_sentence",
+      "sentence": "Some microtubules miss their targets and dissolve into drifting particles before regrowing in a new direction.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:57:02",
+      "updated_at": "2026-05-23T11:57:02"
+    },
+    "2d281a24ad03": {
+      "id": "2d281a24ad03",
+      "kind": "core_sentence",
+      "sentence": "A tension signal travels from each chromosome to the poles, showing which attachments are strong enough to keep.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:57:23",
+      "updated_at": "2026-05-23T11:57:23"
+    },
+    "ed2aa7bcfe45": {
+      "id": "ed2aa7bcfe45",
+      "kind": "core_sentence",
+      "sentence": "The spindle poles shift slightly to correct an uneven pull before separation begins.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:57:33",
+      "updated_at": "2026-05-23T11:57:33"
+    },
+    "0c880e376565": {
+      "id": "0c880e376565",
+      "kind": "core_sentence",
+      "sentence": "A single lagging chromosome causes the entire system to pause and reorganize around it.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:57:42",
+      "updated_at": "2026-05-23T11:57:42"
+    },
+    "01649086f856": {
+      "id": "01649086f856",
+      "kind": "core_sentence",
+      "sentence": "Microtubules that attach correctly become thicker, while weak fibers thin out and disappear.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:57:52",
+      "updated_at": "2026-05-23T11:57:52"
+    },
+    "56118190b86a": {
+      "id": "56118190b86a",
+      "kind": "core_sentence",
+      "sentence": "Chromosomes rotate slowly as fibers tug from different angles and search for symmetry.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:58:56",
+      "updated_at": "2026-05-23T11:58:56"
+    },
+    "b918b8ff4ede": {
+      "id": "b918b8ff4ede",
+      "kind": "core_sentence",
+      "sentence": "A checkpoint glow spreads across the center whenever one chromosome is not aligned.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:59:05",
+      "updated_at": "2026-05-23T11:59:05"
+    },
+    "c46218d01168": {
+      "id": "c46218d01168",
+      "kind": "core_sentence",
+      "sentence": "The cell interior becomes filled with crossing fiber paths, but only the stable ones remain visible.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:59:12",
+      "updated_at": "2026-05-23T11:59:12"
+    },
+    "014cf4a2d4f0": {
+      "id": "014cf4a2d4f0",
+      "kind": "core_sentence",
+      "sentence": "Motor proteins appear as small moving beads that crawl along the fibers and pull chromosomes into place.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T11:59:47",
+      "updated_at": "2026-05-23T11:59:47"
+    },
+    "6192ba2218ce": {
+      "id": "6192ba2218ce",
+      "kind": "core_sentence",
+      "sentence": "When the line becomes stable, the fibers shorten together and draw chromosome halves toward opposite poles.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T12:00:09",
+      "updated_at": "2026-05-23T12:00:09"
+    },
+    "b5cee0f53665": {
+      "id": "b5cee0f53665",
+      "kind": "core_sentence",
+      "sentence": "The membrane stretches in response to the growing spindle, making the cell elongate before division.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T12:00:40",
+      "updated_at": "2026-05-23T12:00:40"
+    },
+    "eb9731347576": {
+      "id": "eb9731347576",
+      "kind": "core_sentence",
+      "sentence": "Broken fibers leave faint trails that show failed attempts before new connections form.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T12:00:45",
+      "updated_at": "2026-05-23T12:00:45"
+    },
+    "24e54cd5b522": {
+      "id": "24e54cd5b522",
+      "kind": "core_sentence",
+      "sentence": "The poles pulse with alternating growth and retraction, turning alignment into a repeated search pattern.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T12:01:48",
+      "updated_at": "2026-05-23T12:01:48"
+    },
+    "72e7a3cd37e4": {
+      "id": "72e7a3cd37e4",
+      "kind": "core_sentence",
+      "sentence": "Nearby organelles drift away from the spindle zone to clear space for chromosome movement.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T12:02:20",
+      "updated_at": "2026-05-23T12:02:20"
+    },
+    "45967ff86d2b": {
+      "id": "45967ff86d2b",
+      "kind": "core_sentence",
+      "sentence": "If a chromosome overshoots the center, opposing fibers pull it back into position.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T12:02:31",
+      "updated_at": "2026-05-23T12:02:31"
+    },
+    "e34d0d9f99b0": {
+      "id": "e34d0d9f99b0",
+      "kind": "core_sentence",
+      "sentence": "A stress signal slows fiber growth, making the search process more cautious and deliberate.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T12:02:40",
+      "updated_at": "2026-05-23T12:02:40"
+    },
+    "0c3801e3ce40": {
+      "id": "0c3801e3ce40",
+      "kind": "core_sentence",
+      "sentence": "The spindle begins to twist slightly, forcing the chromosomes to align in a rotating plane.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T12:02:47",
+      "updated_at": "2026-05-23T12:02:47"
+    },
+    "33f6eb14c87c": {
+      "id": "33f6eb14c87c",
+      "kind": "core_sentence",
+      "sentence": "Once alignment succeeds, the central line splits into two mirrored streams moving away from each other.",
+      "title": "Next sentence branch",
+      "parent_id": "b9d55978ae85",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T12:02:55",
+      "updated_at": "2026-05-23T12:02:55"
+    },
+    "e185d7c16f08": {
+      "id": "e185d7c16f08",
+      "kind": "core_sentence",
+      "sentence": "Multiple branching neuron-like structures whose axons and dendrites grow, connect, and detach while glowing particles pulse along synapses, with labels for each neuron and a meter showing overall network activity.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [
+        "6f256516d7c5",
+        "96f0bd875d80",
+        "12a96d428a68",
+        "de130e8f61bd",
+        "fcb35ab370de",
+        "d2a51c12a25f",
+        "0bd36a904e79",
+        "781c14f13adb",
+        "9ceb7b29c7dc",
+        "acb6ca8bec55",
+        "d15b2545764d",
+        "2892d6c12887",
+        "b1e3453abeaa",
+        "387023e07f41",
+        "92311902affe",
+        "8da5f1cb58c3",
+        "b05518d89cea",
+        "0863c1d267a5",
+        "e2be971c7ee9",
+        "ec5b64dc7a34"
+      ],
+      "scripts": [
+        {
+          "id": "3e031e2a2d",
+          "filename": "sentence-script-multiple-branching-neuron-like-structures-whose-axons-and-dendrites-gr-d42aee8a.py",
+          "note": "",
+          "created_at": "2026-05-23T12:11:18",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T12:10:58",
+      "updated_at": "2026-05-26T04:04:34"
+    },
+    "3b78036bd507": {
+      "id": "3b78036bd507",
+      "kind": "core_sentence",
+      "sentence": "Rod-shaped bacteria that replicate, slide, and cluster on a light-colored plane, leaving faint trails of secreted “slime,” forming expanding biofilm patches with color changes indicating nutrient-rich vs. depleted regions.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [
+        "7cf52b92dc80",
+        "83f8dbb8c35a",
+        "50e3b2118cfa",
+        "04065c6e6e6d",
+        "8275402652fd",
+        "19f038cf6e8e",
+        "12931983fcea",
+        "b602d8ab0ed3",
+        "fe3336c95bbb",
+        "1f914b93b2b7",
+        "3d258e698ba8",
+        "79155f9c5aa1",
+        "ab2a16ddcf69",
+        "750842d53d4b",
+        "0bae0c817015",
+        "185765ef67c6",
+        "e7d2c4115887",
+        "b738b8393d75",
+        "2fab1cc6f8dc",
+        "853d9111ab5e"
+      ],
+      "scripts": [
+        {
+          "id": "0a98f84655",
+          "filename": "sentence-script-rod-shaped-bacteria-that-replicate-slide-and-cluster-on-a-light-colore-98161493.py",
+          "note": "",
+          "created_at": "2026-05-23T12:13:12",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T12:12:53",
+      "updated_at": "2026-05-24T17:42:57"
+    },
+    "24dea88571ed": {
+      "id": "24dea88571ed",
+      "kind": "core_sentence",
+      "sentence": "A school of small fish spheres that align, turn, and avoid collisions while larger predators object chases them, with coral-like stationary obstacles, escape paths leaving short trails, and color shifts when prey are “caught.”",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [
+        "0f775fc9a2f8",
+        "a81d26507fc1",
+        "4123838cb852",
+        "f30b0b2cda6b",
+        "2f0745e0f895",
+        "df0a4d41e313",
+        "a8b40f6edc9c",
+        "01b366e3726c",
+        "afad174a1023",
+        "ac93c97f0e08",
+        "d0b7d92735ce",
+        "3fcbc2f92385",
+        "a284110558a1",
+        "133c229b416e",
+        "c152123e28d6",
+        "0bd0b8603797",
+        "1fab852ecfd4",
+        "d14b1510ae73",
+        "37a2fb36d59e",
+        "6bbd1bb25965"
+      ],
+      "scripts": [
+        {
+          "id": "e7a92d292d",
+          "filename": "sentence-script-a-school-of-small-fish-spheres-that-align-turn-and-avoid-collisions-wh-f0a7b714.py",
+          "note": "",
+          "created_at": "2026-05-23T12:15:43",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T12:15:15",
+      "updated_at": "2026-05-23T16:03:33"
+    },
+    "0f775fc9a2f8": {
+      "id": "0f775fc9a2f8",
+      "kind": "core_sentence",
+      "sentence": "The group splits into smaller clusters when danger gets too close, then reforms when the threat passes.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [
+        "2a5896e9fc9e"
+      ],
+      "scripts": [
+        {
+          "id": "e98f85d813",
+          "filename": "sentence-script-the-group-splits-into-smaller-clusters-when-danger-gets-too-close-then-567731f9.py",
+          "note": "",
+          "created_at": "2026-05-23T16:11:43",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T15:50:59",
+      "updated_at": "2026-05-23T16:22:23"
+    },
+    "a81d26507fc1": {
+      "id": "a81d26507fc1",
+      "kind": "core_sentence",
+      "sentence": "Some individuals panic and break formation, creating confusion that spreads through nearby swimmers.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [
+        {
+          "id": "b305324cef",
+          "filename": "sentence-script-some-individuals-panic-and-break-formation-creating-confusion-that-spr-ceba5cb6.py",
+          "note": "",
+          "created_at": "2026-05-23T16:24:23",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T15:58:57",
+      "updated_at": "2026-05-23T16:24:23"
+    },
+    "4123838cb852": {
+      "id": "4123838cb852",
+      "kind": "core_sentence",
+      "sentence": "Safe zones appear behind obstacles, causing the group to weave through narrow gaps and hidden corridors",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [
+        {
+          "id": "b0858c3416",
+          "filename": "sentence-script-safe-zones-appear-behind-obstacles-causing-the-group-to-weave-through-41aadbc9.py",
+          "note": "",
+          "created_at": "2026-05-23T16:32:40",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T15:59:13",
+      "updated_at": "2026-05-23T16:32:40"
+    },
+    "f30b0b2cda6b": {
+      "id": "f30b0b2cda6b",
+      "kind": "core_sentence",
+      "sentence": "The predator learns which escape paths are most common and begins cutting off predictable routes.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [
+        {
+          "id": "153344cb2b",
+          "filename": "sentence-script-the-predator-learns-which-escape-paths-are-most-common-and-begins-cutt-c978ac40.py",
+          "note": "",
+          "created_at": "2026-05-23T16:41:51",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T15:59:22",
+      "updated_at": "2026-05-23T16:41:51"
+    },
+    "2f0745e0f895": {
+      "id": "2f0745e0f895",
+      "kind": "core_sentence",
+      "sentence": "A few faster swimmers act as scouts, flashing warnings that redirect the rest of the group.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [
+        {
+          "id": "bb210efa54",
+          "filename": "sentence-script-a-few-faster-swimmers-act-as-scouts-flashing-warnings-that-redirect-th-d83750f7.py",
+          "note": "",
+          "created_at": "2026-05-23T17:10:17",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T15:59:33",
+      "updated_at": "2026-05-23T17:10:17"
+    },
+    "df0a4d41e313": {
+      "id": "df0a4d41e313",
+      "kind": "core_sentence",
+      "sentence": "Currents push everyone sideways, forcing the chase to bend around drifting flow fields.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [
+        {
+          "id": "5862bfbb4d",
+          "filename": "sentence-script-currents-push-everyone-sideways-forcing-the-chase-to-bend-around-drift-693bdf8a.py",
+          "note": "",
+          "created_at": "2026-05-23T17:30:07",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T15:59:44",
+      "updated_at": "2026-05-23T17:30:07"
+    },
+    "a8b40f6edc9c": {
+      "id": "a8b40f6edc9c",
+      "kind": "core_sentence",
+      "sentence": "When attacked, the group forms a dense rotating ball that makes individual targets harder to isolate.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [
+        {
+          "id": "1a95778988",
+          "filename": "sentence-script-when-cornered-the-group-forms-a-dense-rotating-ball-that-makes-individ-740578f4.py",
+          "note": "",
+          "created_at": "2026-05-23T17:34:13",
+          "manual_entry": true
+        },
+        {
+          "id": "98d0130ba9",
+          "filename": "sentence-script-when-attacked-the-group-forms-a-dense-rotating-ball-that-makes-individ-671303df.py",
+          "note": "",
+          "created_at": "2026-05-23T17:39:07",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T15:59:53",
+      "updated_at": "2026-05-23T17:39:07"
+    },
+    "01b366e3726c": {
+      "id": "01b366e3726c",
+      "kind": "core_sentence",
+      "sentence": "Obstacles create shadows and blind spots where movement becomes slower but safer.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T16:00:02",
+      "updated_at": "2026-05-23T16:00:02"
+    },
+    "afad174a1023": {
+      "id": "afad174a1023",
+      "kind": "core_sentence",
+      "sentence": "Predators occasionally lung forward in bursts, overshooting if the group turns sharply enough.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T16:00:46",
+      "updated_at": "2026-05-23T16:00:46"
+    },
+    "ac93c97f0e08": {
+      "id": "ac93c97f0e08",
+      "kind": "core_sentence",
+      "sentence": "Captured prey fade into ghost trails that briefly confuse predators’ targeting.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T16:01:03",
+      "updated_at": "2026-05-23T16:01:03"
+    },
+    "d0b7d92735ce": {
+      "id": "d0b7d92735ce",
+      "kind": "core_sentence",
+      "sentence": "The school develops memory, avoiding regions where captures happened recently.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T16:01:51",
+      "updated_at": "2026-05-23T16:01:51"
+    },
+    "3fcbc2f92385": {
+      "id": "3fcbc2f92385",
+      "kind": "core_sentence",
+      "sentence": "Some swimmers become decoys, flashing brighter and leading the predator away from the main group.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T16:01:53",
+      "updated_at": "2026-05-23T16:01:53"
+    },
+    "a284110558a1": {
+      "id": "a284110558a1",
+      "kind": "core_sentence",
+      "sentence": "The environment changes over time as coral passages open, close, or shift with the current.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T16:02:03",
+      "updated_at": "2026-05-23T16:02:03"
+    },
+    "133c229b416e": {
+      "id": "133c229b416e",
+      "kind": "core_sentence",
+      "sentence": "A hunger meter makes the predator grow more aggressive after long periods without a catch.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T16:02:12",
+      "updated_at": "2026-05-23T16:02:12"
+    },
+    "c152123e28d6": {
+      "id": "c152123e28d6",
+      "kind": "core_sentence",
+      "sentence": "The group’s color becomes more synchronized when alignment is strong and more scattered during panic.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T16:02:22",
+      "updated_at": "2026-05-23T16:02:22"
+    },
+    "0bd0b8603797": {
+      "id": "0bd0b8603797",
+      "kind": "core_sentence",
+      "sentence": "If the predator enters a maze-like region, the group uses obstacles to trap it in slow turning loops.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T16:02:36",
+      "updated_at": "2026-05-23T16:02:36"
+    },
+    "1fab852ecfd4": {
+      "id": "1fab852ecfd4",
+      "kind": "core_sentence",
+      "sentence": "New prey spawn near protected areas, then gradually learn to match the movement of nearby swimmers.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T16:02:50",
+      "updated_at": "2026-05-23T16:02:50"
+    },
+    "d14b1510ae73": {
+      "id": "d14b1510ae73",
+      "kind": "core_sentence",
+      "sentence": "The chase alternates between calm schooling, sudden scattering, hiding, regrouping, and counter-misdirection.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T16:03:01",
+      "updated_at": "2026-05-23T16:03:01"
+    },
+    "37a2fb36d59e": {
+      "id": "37a2fb36d59e",
+      "kind": "core_sentence",
+      "sentence": "Trails reveal repeated escape routes, turning the environment into a visible map of past decisions.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T16:03:14",
+      "updated_at": "2026-05-23T16:03:14"
+    },
+    "6bbd1bb25965": {
+      "id": "6bbd1bb25965",
+      "kind": "core_sentence",
+      "sentence": "When the group survives long enough, predators changes strategy from direct pursuit to ambush.",
+      "title": "Next sentence branch",
+      "parent_id": "24dea88571ed",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T16:03:33",
+      "updated_at": "2026-05-23T16:03:33"
+    },
+    "2a5896e9fc9e": {
+      "id": "2a5896e9fc9e",
+      "kind": "core_sentence",
+      "sentence": "Some individuals panic and break formation, creating confusion that spreads through nearby swimmers.",
+      "title": "Next sentence branch",
+      "parent_id": "0f775fc9a2f8",
+      "children": [],
+      "scripts": [
+        {
+          "id": "644fc0a097",
+          "filename": "sentence-script-some-individuals-panic-and-break-formation-creating-confusion-that-spr-b371d3fd.py",
+          "note": "",
+          "created_at": "2026-05-23T16:25:28",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T16:22:23",
+      "updated_at": "2026-05-23T16:25:28"
+    },
+    "6f256516d7c5": {
+      "id": "6f256516d7c5",
+      "kind": "core_sentence",
+      "sentence": "Stronger pathways brighten as repeated pulses travel through them, while unused branches slowly fade.",
+      "title": "Next sentence branch",
+      "parent_id": "e185d7c16f08",
+      "children": [],
+      "scripts": [
+        {
+          "id": "caea754fc9",
+          "filename": "sentence-script-stronger-pathways-brighten-as-repeated-pulses-travel-through-them-whil-3c488291.py",
+          "note": "",
+          "created_at": "2026-05-23T23:21:32",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T23:06:42",
+      "updated_at": "2026-05-23T23:21:32"
+    },
+    "96f0bd875d80": {
+      "id": "96f0bd875d80",
+      "kind": "core_sentence",
+      "sentence": "Some signals split at junctions, sending smaller pulses down multiple paths at different speeds.",
+      "title": "Next sentence branch",
+      "parent_id": "e185d7c16f08",
+      "children": [],
+      "scripts": [
+        {
+          "id": "8277110610",
+          "filename": "sentence-script-some-signals-split-at-junctions-sending-smaller-pulses-down-multiple-p-8adf1673.py",
+          "note": "",
+          "created_at": "2026-05-23T23:24:43",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T23:06:54",
+      "updated_at": "2026-05-23T23:24:43"
+    },
+    "12a96d428a68": {
+      "id": "12a96d428a68",
+      "kind": "core_sentence",
+      "sentence": "Nearby branches compete for connections, pruning weaker links as stronger circuits emerge.",
+      "title": "Next sentence branch",
+      "parent_id": "e185d7c16f08",
+      "children": [],
+      "scripts": [
+        {
+          "id": "c845d3eb91",
+          "filename": "sentence-script-nearby-branches-compete-for-connections-pruning-weaker-links-as-strong-06154429.py",
+          "note": "",
+          "created_at": "2026-05-23T23:30:43",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T23:07:10",
+      "updated_at": "2026-05-23T23:30:43"
+    },
+    "de130e8f61bd": {
+      "id": "de130e8f61bd",
+      "kind": "core_sentence",
+      "sentence": "Electrical storms occasionally spread across the network, triggering rapid bursts of synchronized firing.",
+      "title": "Next sentence branch",
+      "parent_id": "e185d7c16f08",
+      "children": [],
+      "scripts": [
+        {
+          "id": "5dacf86e46",
+          "filename": "sentence-script-electrical-storms-occasionally-spread-across-the-network-triggering-ra-6c748407.py",
+          "note": "",
+          "created_at": "2026-05-23T23:35:26",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-23T23:07:33",
+      "updated_at": "2026-05-23T23:35:26"
+    },
+    "fcb35ab370de": {
+      "id": "fcb35ab370de",
+      "kind": "core_sentence",
+      "sentence": "New growth cones explore empty space, turning toward regions with the most signal activity.",
+      "title": "Next sentence branch",
+      "parent_id": "e185d7c16f08",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T23:07:45",
+      "updated_at": "2026-05-23T23:07:45"
+    },
+    "d2a51c12a25f": {
+      "id": "d2a51c12a25f",
+      "kind": "core_sentence",
+      "sentence": "Damaged branches retract into glowing fragments before regrowing in a new direction.",
+      "title": "Next sentence branch",
+      "parent_id": "e185d7c16f08",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T23:09:59",
+      "updated_at": "2026-05-23T23:09:59"
+    },
+    "0bd36a904e79": {
+      "id": "0bd36a904e79",
+      "kind": "core_sentence",
+      "sentence": "Synapses change color based on signal strength, delay, and recent activity.",
+      "title": "Next sentence branch",
+      "parent_id": "e185d7c16f08",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T23:10:06",
+      "updated_at": "2026-05-23T23:10:06"
+    },
+    "781c14f13adb": {
+      "id": "781c14f13adb",
+      "kind": "core_sentence",
+      "sentence": "A learning pattern forms as repeated inputs carve stable routes through the branching network.",
+      "title": "Next sentence branch",
+      "parent_id": "e185d7c16f08",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T23:10:13",
+      "updated_at": "2026-05-23T23:10:13"
+    },
+    "9ceb7b29c7dc": {
+      "id": "9ceb7b29c7dc",
+      "kind": "core_sentence",
+      "sentence": "Inhibitory nodes appear and briefly block pulses from spreading too far.",
+      "title": "Next sentence branch",
+      "parent_id": "e185d7c16f08",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T23:10:20",
+      "updated_at": "2026-05-23T23:10:20"
+    },
+    "acb6ca8bec55": {
+      "id": "acb6ca8bec55",
+      "kind": "core_sentence",
+      "sentence": "Some connections become one-way gates, allowing signals to pass forward but not return.",
+      "title": "Next sentence branch",
+      "parent_id": "e185d7c16f08",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T23:10:27",
+      "updated_at": "2026-05-23T23:10:27"
+    },
+    "d15b2545764d": {
+      "id": "d15b2545764d",
+      "kind": "core_sentence",
+      "sentence": "Slow chemical waves drift through the environment, encouraging some branches to grow and others to detach.",
+      "title": "Next sentence branch",
+      "parent_id": "e185d7c16f08",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T23:13:32",
+      "updated_at": "2026-05-23T23:13:32"
+    },
+    "2892d6c12887": {
+      "id": "2892d6c12887",
+      "kind": "core_sentence",
+      "sentence": "Overcrowded regions reorganize as branches repel one another to create clearer pathways.",
+      "title": "Next sentence branch",
+      "parent_id": "e185d7c16f08",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T23:13:42",
+      "updated_at": "2026-05-23T23:13:42"
+    },
+    "b1e3453abeaa": {
+      "id": "b1e3453abeaa",
+      "kind": "core_sentence",
+      "sentence": "Memory traces appear as faint trails along frequently used routes.",
+      "title": "Next sentence branch",
+      "parent_id": "e185d7c16f08",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T23:13:48",
+      "updated_at": "2026-05-23T23:13:48"
+    },
+    "387023e07f41": {
+      "id": "387023e07f41",
+      "kind": "core_sentence",
+      "sentence": "When two pulses meet, they either merge into a brighter wave or cancel each other out.",
+      "title": "Next sentence branch",
+      "parent_id": "e185d7c16f08",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T23:13:54",
+      "updated_at": "2026-05-23T23:13:54"
+    },
+    "92311902affe": {
+      "id": "92311902affe",
+      "kind": "core_sentence",
+      "sentence": "The network alternates between quiet resting phases and sudden cascades of activity.",
+      "title": "Next sentence branch",
+      "parent_id": "e185d7c16f08",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T23:14:20",
+      "updated_at": "2026-05-23T23:14:20"
+    },
+    "8da5f1cb58c3": {
+      "id": "8da5f1cb58c3",
+      "kind": "core_sentence",
+      "sentence": "Support cells appear around active branches, insulating them and making pulses travel faster.",
+      "title": "Next sentence branch",
+      "parent_id": "e185d7c16f08",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T23:14:26",
+      "updated_at": "2026-05-23T23:14:26"
+    },
+    "b05518d89cea": {
+      "id": "b05518d89cea",
+      "kind": "core_sentence",
+      "sentence": "Random sparks create new temporary links, some of which stabilize into lasting circuits.",
+      "title": "Next sentence branch",
+      "parent_id": "e185d7c16f08",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T23:14:32",
+      "updated_at": "2026-05-23T23:14:32"
+    },
+    "0863c1d267a5": {
+      "id": "0863c1d267a5",
+      "kind": "core_sentence",
+      "sentence": "A central rhythm node begins pulsing at regular intervals, coordinating distant branches.",
+      "title": "Next sentence branch",
+      "parent_id": "e185d7c16f08",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T23:14:37",
+      "updated_at": "2026-05-23T23:14:37"
+    },
+    "e2be971c7ee9": {
+      "id": "e2be971c7ee9",
+      "kind": "core_sentence",
+      "sentence": "Stress causes signals to misfire, detach connections, and force the network to rebuild around damaged zones.",
+      "title": "Next sentence branch",
+      "parent_id": "e185d7c16f08",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T23:14:46",
+      "updated_at": "2026-05-23T23:14:46"
+    },
+    "ec5b64dc7a34": {
+      "id": "ec5b64dc7a34",
+      "kind": "core_sentence",
+      "sentence": "Over time, the structure develops specialized regions for sensing, relaying, storing, and amplifying signals.",
+      "title": "Next sentence branch",
+      "parent_id": "e185d7c16f08",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-23T23:14:51",
+      "updated_at": "2026-05-23T23:14:51"
+    },
+    "7cf52b92dc80": {
+      "id": "7cf52b92dc80",
+      "kind": "core_sentence",
+      "sentence": "Nutrient particles diffuse across the surface, drawing clusters toward brighter regions and leaving depleted halos behind them.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [
+        {
+          "id": "3a5c3164de",
+          "filename": "sentence-script-nutrient-particles-diffuse-across-the-surface-drawing-clusters-toward-ba678a35.py",
+          "note": "",
+          "created_at": "2026-05-24T17:47:40",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-24T17:40:23",
+      "updated_at": "2026-05-24T17:47:40"
+    },
+    "83f8dbb8c35a": {
+      "id": "83f8dbb8c35a",
+      "kind": "core_sentence",
+      "sentence": "Some individuals become trapped in thickening slime, while others ride along the edge of the growing patch.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [
+        {
+          "id": "c758fc1684",
+          "filename": "sentence-script-some-individuals-become-trapped-in-thickening-slime-while-others-ride-b419986d.py",
+          "note": "",
+          "created_at": "2026-05-24T17:52:45",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-24T17:40:29",
+      "updated_at": "2026-05-24T17:52:45"
+    },
+    "50e3b2118cfa": {
+      "id": "50e3b2118cfa",
+      "kind": "core_sentence",
+      "sentence": "The colony develops branching fronts where fast-moving cells explore outward before the slower mass follows.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [
+        {
+          "id": "62eaaa120a",
+          "filename": "sentence-script-the-colony-develops-branching-fronts-where-fast-moving-cells-explore-o-6c3acf5e.py",
+          "note": "",
+          "created_at": "2026-05-24T17:59:45",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-24T17:40:39",
+      "updated_at": "2026-05-24T17:59:45"
+    },
+    "04065c6e6e6d": {
+      "id": "04065c6e6e6d",
+      "kind": "core_sentence",
+      "sentence": "Crowded regions rise into layered towers as cells stack on top of one another.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [
+        {
+          "id": "a9f2212ecf",
+          "filename": "sentence-script-crowded-regions-rise-into-layered-towers-as-cells-stack-on-top-of-one-7678912e.py",
+          "note": "",
+          "created_at": "2026-05-24T18:14:23",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-24T17:40:44",
+      "updated_at": "2026-05-24T18:14:23"
+    },
+    "8275402652fd": {
+      "id": "8275402652fd",
+      "kind": "core_sentence",
+      "sentence": "Slime trails merge into sticky highways that guide later movement and reinforce repeated paths.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [
+        {
+          "id": "d7b4b00c0a",
+          "filename": "sentence-script-slime-trails-merge-into-sticky-highways-that-guide-later-movement-and-3b153f10.py",
+          "note": "",
+          "created_at": "2026-05-24T18:18:25",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-24T17:40:51",
+      "updated_at": "2026-05-24T18:18:25"
+    },
+    "19f038cf6e8e": {
+      "id": "19f038cf6e8e",
+      "kind": "core_sentence",
+      "sentence": "Depleted zones force the colony to split into streams that search for fresh territory.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [
+        {
+          "id": "ded3523a08",
+          "filename": "sentence-script-depleted-zones-force-the-colony-to-split-into-streams-that-search-for-c602a575.py",
+          "note": "",
+          "created_at": "2026-05-24T18:24:44",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-24T17:40:56",
+      "updated_at": "2026-05-24T18:24:44"
+    },
+    "12931983fcea": {
+      "id": "12931983fcea",
+      "kind": "core_sentence",
+      "sentence": "A chemical signal spreads through the patch, causing nearby cells to slow down, cluster, or disperse.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [
+        {
+          "id": "7d653fbbfc",
+          "filename": "sentence-script-a-chemical-signal-spreads-through-the-patch-causing-nearby-cells-to-sl-e90d37b5.py",
+          "note": "",
+          "created_at": "2026-05-24T20:51:06",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-24T17:41:09",
+      "updated_at": "2026-05-24T20:51:06"
+    },
+    "b602d8ab0ed3": {
+      "id": "b602d8ab0ed3",
+      "kind": "core_sentence",
+      "sentence": "Some cells switch into a resistant state, changing color and becoming harder to move.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [
+        {
+          "id": "19edfdfd87",
+          "filename": "sentence-script-some-cells-switch-into-a-resistant-state-changing-color-and-becoming-h-98b7bf57.py",
+          "note": "",
+          "created_at": "2026-05-24T21:01:41",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-24T17:41:15",
+      "updated_at": "2026-05-24T21:01:41"
+    },
+    "fe3336c95bbb": {
+      "id": "fe3336c95bbb",
+      "kind": "core_sentence",
+      "sentence": "The outer edge becomes more active than the center as growth shifts toward nutrient-rich boundaries.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-24T17:41:20",
+      "updated_at": "2026-05-24T17:41:20"
+    },
+    "1f914b93b2b7": {
+      "id": "1f914b93b2b7",
+      "kind": "core_sentence",
+      "sentence": "Collisions rotate cells into alignment, creating flowing lanes through dense regions.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-24T17:41:25",
+      "updated_at": "2026-05-24T17:41:25"
+    },
+    "3d258e698ba8": {
+      "id": "3d258e698ba8",
+      "kind": "core_sentence",
+      "sentence": "Periodic pulses of fresh nutrients create expanding waves of movement and division.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-24T17:41:30",
+      "updated_at": "2026-05-24T17:41:30"
+    },
+    "79155f9c5aa1": {
+      "id": "79155f9c5aa1",
+      "kind": "core_sentence",
+      "sentence": "Waste buildup darkens old regions and pushes new growth outward.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-24T17:41:38",
+      "updated_at": "2026-05-24T17:41:38"
+    },
+    "ab2a16ddcf69": {
+      "id": "ab2a16ddcf69",
+      "kind": "core_sentence",
+      "sentence": "Small gaps open inside dense patches, forming channels that let particles and cells flow through.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-24T17:41:45",
+      "updated_at": "2026-05-24T17:41:45"
+    },
+    "750842d53d4b": {
+      "id": "750842d53d4b",
+      "kind": "core_sentence",
+      "sentence": "A competing colony appears nearby, and both patches reshape as they meet, repel, or merge.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-24T17:42:01",
+      "updated_at": "2026-05-24T17:42:01"
+    },
+    "0bae0c817015": {
+      "id": "0bae0c817015",
+      "kind": "core_sentence",
+      "sentence": "Environmental stress causes parts of the colony to detach and drift away as traveling clusters.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-24T17:42:08",
+      "updated_at": "2026-05-24T17:42:08"
+    },
+    "185765ef67c6": {
+      "id": "185765ef67c6",
+      "kind": "core_sentence",
+      "sentence": "Some cells sacrifice movement to produce thicker slime that protects nearby neighbors.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-24T17:42:23",
+      "updated_at": "2026-05-24T17:42:23"
+    },
+    "e7d2c4115887": {
+      "id": "e7d2c4115887",
+      "kind": "core_sentence",
+      "sentence": "The colony remembers previous paths as older slime trails remain faintly visible beneath new growth.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-24T17:42:33",
+      "updated_at": "2026-05-24T17:42:33"
+    },
+    "b738b8393d75": {
+      "id": "b738b8393d75",
+      "kind": "core_sentence",
+      "sentence": "Random mutations create faster, stickier, or more nutrient-efficient lineages that spread differently.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-24T17:42:38",
+      "updated_at": "2026-05-24T17:42:38"
+    },
+    "2fab1cc6f8dc": {
+      "id": "2fab1cc6f8dc",
+      "kind": "core_sentence",
+      "sentence": "A cleaning wave crosses the surface, scraping away weakly attached cells while dense regions resist.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-24T17:42:47",
+      "updated_at": "2026-05-24T17:42:47"
+    },
+    "853d9111ab5e": {
+      "id": "853d9111ab5e",
+      "kind": "core_sentence",
+      "sentence": "Over time, the patch becomes a living map of motion, hunger, crowding, protection, and expansion.",
+      "title": "Next sentence branch",
+      "parent_id": "3b78036bd507",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-24T17:42:57",
+      "updated_at": "2026-05-24T17:42:57"
+    },
+    "58b5c274bdf4": {
+      "id": "58b5c274bdf4",
+      "kind": "core_sentence",
+      "sentence": "Long microtubule “tracks” radiate from a central centrosome, with small vesicle spheres “walking” along them via stepwise motion, sometimes detaching, switching tracks, and fusing with a target membrane sphere that changes color where fusion occurs.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "2d9bf1d6e7",
+          "filename": "sentence-script-long-microtubule-tracks-radiate-from-a-central-centrosome-with-small-v-c450fc67.py",
+          "note": "",
+          "created_at": "2026-05-25T12:08:54",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:05:19",
+      "updated_at": "2026-05-25T12:08:54"
+    },
+    "6e44530c542b": {
+      "id": "6e44530c542b",
+      "kind": "core_sentence",
+      "sentence": "A cell sphere with many small external particles shows membrane regions curving in to wrap and pinch off endocytic vesicles, while internal vesicles move outward and merge with the membrane to release particles that scatter and slowly diffuse away.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "f35cc87939",
+          "filename": "sentence-script-a-cell-sphere-with-many-small-external-particles-shows-membrane-region-3445be84.py",
+          "note": "",
+          "created_at": "2026-05-25T12:09:45",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:05:33",
+      "updated_at": "2026-05-25T12:09:45"
+    },
+    "8c49516bae46": {
+      "id": "8c49516bae46",
+      "kind": "core_sentence",
+      "sentence": "Multiple elongated mitochondria shapes inside a cell gently move, split, and merge, with glowing particles streaming into them and dimmer particles emitted, while their brightness fluctuates to show changing activity and a label shows “ATP level.”",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "0bb270ac8f",
+          "filename": "sentence-script-multiple-elongated-mitochondria-shapes-inside-a-cell-gently-move-split-a6bd24f6.py",
+          "note": "",
+          "created_at": "2026-05-25T12:10:39",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:05:40",
+      "updated_at": "2026-05-25T12:10:39"
+    },
+    "27b24aabc760": {
+      "id": "27b24aabc760",
+      "kind": "core_sentence",
+      "sentence": "A deformable immune cell blob slowly moves toward a smaller bacterium capsule, extending and retracting pseudopod-like protrusions; upon collision it wraps around and engulfs the bacterium, which fades as digestion particles swirl inside.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "32b0374d0b",
+          "filename": "sentence-script-a-deformable-immune-cell-blob-slowly-moves-toward-a-smaller-bacterium-b8bbb500.py",
+          "note": "",
+          "created_at": "2026-05-25T12:11:13",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:05:47",
+      "updated_at": "2026-05-25T12:11:13"
+    },
+    "0e7689d7ee2a": {
+      "id": "0e7689d7ee2a",
+      "kind": "core_sentence",
+      "sentence": "A network of thin internal compartments (ER-like tubes) inside a cell lights up with a traveling calcium wave: small bright particles rapidly spread, bounce at boundaries, then are reabsorbed into pumps, as a color bar tracks local calcium concentration over time.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "efcd1ca7d1",
+          "filename": "sentence-script-a-network-of-thin-internal-compartments-er-like-tubes-inside-a-cell-li-a4a4809d.py",
+          "note": "",
+          "created_at": "2026-05-25T12:12:10",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:05:52",
+      "updated_at": "2026-05-25T12:12:10"
+    },
+    "53ef774bb1e8": {
+      "id": "53ef774bb1e8",
+      "kind": "core_sentence",
+      "sentence": "A single cell sphere gradually grows in size and changes color as it progresses through labeled phases (G1, S, G2, M) on a circular “clock” ring beside it; during S phase tiny DNA dots duplicate, and during M phase the cell splits into two smaller spheres.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "20ee82672c",
+          "filename": "sentence-script-a-single-cell-sphere-gradually-grows-in-size-and-changes-color-as-it-p-b198e966.py",
+          "note": "",
+          "created_at": "2026-05-25T12:13:16",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:05:58",
+      "updated_at": "2026-05-25T12:13:16"
+    },
+    "b251b98b86c0": {
+      "id": "b251b98b86c0",
+      "kind": "core_sentence",
+      "sentence": "Dozens of small cells float and gently jostle in a transparent box, emitting and absorbing colored signal particles; when one cell receives above-threshold signals, it glows brighter and triggers neighboring cells to light up in a spreading wave.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "2ec55f676a",
+          "filename": "sentence-script-dozens-of-small-cells-float-and-gently-jostle-in-a-transparent-box-emi-95bfea02.py",
+          "note": "",
+          "created_at": "2026-05-25T12:13:46",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:06:06",
+      "updated_at": "2026-05-25T12:13:46"
+    },
+    "4b7f806b8819": {
+      "id": "4b7f806b8819",
+      "kind": "core_sentence",
+      "sentence": "A cell is represented as a soft sphere made of many connected small beads that can stretch and compress as it squeezes through a narrow channel, with internal particles shifting and colliding as the membrane deforms and then relaxes.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "0787c263c5",
+          "filename": "sentence-script-a-cell-is-represented-as-a-soft-sphere-made-of-many-connected-small-be-9d5fb491.py",
+          "note": "",
+          "created_at": "2026-05-25T12:14:57",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:06:19",
+      "updated_at": "2026-05-25T12:14:57"
+    },
+    "abf605bfbf9e": {
+      "id": "abf605bfbf9e",
+      "kind": "core_sentence",
+      "sentence": "Fluorescent cargo vesicles containing colored particles move randomly until they collide with larger acidic lysosome spheres, which they fuse with; inside, cargo particles slowly shrink and disappear while the lysosome briefly glows brighter.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "218c29b24a",
+          "filename": "sentence-script-fluorescent-cargo-vesicles-containing-colored-particles-move-randomly-af0b16d9.py",
+          "note": "",
+          "created_at": "2026-05-25T12:56:58",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:06:27",
+      "updated_at": "2026-05-25T12:56:58"
+    },
+    "112d0bcbc455": {
+      "id": "112d0bcbc455",
+      "kind": "core_sentence",
+      "sentence": "Stacked, curved Golgi cisternae are shown as layered translucent plates, with vesicles attaching to the cis side, moving from one cisterna to the next, changing color as they “mature,” then detaching and shooting off toward the membrane.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "0e4bf76ddb",
+          "filename": "sentence-script-stacked-curved-golgi-cisternae-are-shown-as-layered-translucent-plates-af0cfcfa.py",
+          "note": "",
+          "created_at": "2026-05-25T12:57:24",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:06:33",
+      "updated_at": "2026-05-25T12:57:24"
+    },
+    "c410f902dd35": {
+      "id": "c410f902dd35",
+      "kind": "core_sentence",
+      "sentence": "A stylized cell shows mitochondria, ribosomes, and nucleus as factory stations connected by glowing “energy” streams; raw material particles enter from the membrane, travel along paths, collide with stations, and emerge as “product” particles that exit the cell.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "867d77f0b0",
+          "filename": "sentence-script-a-stylized-cell-shows-mitochondria-ribosomes-and-nucleus-as-factory-st-936c2296.py",
+          "note": "",
+          "created_at": "2026-05-25T12:58:07",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:06:39",
+      "updated_at": "2026-05-25T12:58:07"
+    },
+    "68463db6db3e": {
+      "id": "68463db6db3e",
+      "kind": "core_sentence",
+      "sentence": "A cell sphere is filled with dynamic actin filaments represented by flexible rods that grow, shrink, and branch; as filaments elongate at one side and disassemble at another, the overall cell shape bulges, retracts, and slowly crawls across the floor.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "e052bd1c9c",
+          "filename": "sentence-script-a-cell-sphere-is-filled-with-dynamic-actin-filaments-represented-by-fl-bc3eb56d.py",
+          "note": "",
+          "created_at": "2026-05-25T12:58:26",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:06:44",
+      "updated_at": "2026-05-25T12:58:26"
+    },
+    "8ae6b382924d": {
+      "id": "8ae6b382924d",
+      "kind": "core_sentence",
+      "sentence": "Several cells rest on a flat surface plane, tethered by short “adhesion” springs that can attach and break; as external flow (gentle directional push) acts, some cells slide, roll, or detach and drift away, with adhesion springs stretching and snapping.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "7c033dfa6d",
+          "filename": "sentence-script-several-cells-rest-on-a-flat-surface-plane-tethered-by-short-adhesion-80b96ef2.py",
+          "note": "",
+          "created_at": "2026-05-25T12:58:51",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:06:50",
+      "updated_at": "2026-05-25T12:58:51"
+    },
+    "7ab18a04768a": {
+      "id": "7ab18a04768a",
+      "kind": "core_sentence",
+      "sentence": "A cluster of identical pale cells slowly changes as some receive “signals” (colored particles) and transition into distinct types with new colors and shapes; neighboring cells are more likely to differentiate when close to an already changed cell, creating branching patterns.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "57d856090e",
+          "filename": "sentence-script-a-cluster-of-identical-pale-cells-slowly-changes-as-some-receive-signa-215b8832.py",
+          "note": "",
+          "created_at": "2026-05-25T12:59:23",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:06:57",
+      "updated_at": "2026-05-25T12:59:23"
+    },
+    "315acc32fe43": {
+      "id": "315acc32fe43",
+      "kind": "core_sentence",
+      "sentence": "Virus particles with spiky shells drift toward a larger cell, bind to specific receptor spots on its membrane, then either inject a glowing “genome” filament that spreads inside or are endocytosed into vesicles that move toward the center and release contents.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "59d4cbe652",
+          "filename": "sentence-script-virus-particles-with-spiky-shells-drift-toward-a-larger-cell-bind-to-s-bf978eef.py",
+          "note": "",
+          "created_at": "2026-05-25T13:00:26",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:07:03",
+      "updated_at": "2026-05-25T13:00:26"
+    },
+    "d35440a234eb": {
+      "id": "d35440a234eb",
+      "kind": "core_sentence",
+      "sentence": "A cell sphere in a box with many water particles outside and fewer inside shows water particles crossing the semi-permeable membrane; as flows change, the cell slowly swells or shrinks, with a radial grid and numeric label tracking cell volume.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "bb52b9da56",
+          "filename": "sentence-script-a-cell-sphere-in-a-box-with-many-water-particles-outside-and-fewer-ins-b7bf1294.py",
+          "note": "",
+          "created_at": "2026-05-25T13:00:51",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:07:09",
+      "updated_at": "2026-05-25T13:00:51"
+    },
+    "348841d11b31": {
+      "id": "348841d11b31",
+      "kind": "core_sentence",
+      "sentence": "A central cell body sphere sprouts branching cylindrical dendrites and a long axon; signal particles start at synapse spheres, travel along dendrites toward the cell body, then trigger a bright pulse that races along the axon, leaving a fading trail.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "3196f4f9bb",
+          "filename": "sentence-script-a-central-cell-body-sphere-sprouts-branching-cylindrical-dendrites-and-3f218154.py",
+          "note": "",
+          "created_at": "2026-05-25T13:01:16",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:07:15",
+      "updated_at": "2026-05-25T13:01:16"
+    },
+    "c98d0d22a003": {
+      "id": "c98d0d22a003",
+      "kind": "core_sentence",
+      "sentence": "Damaged organelles marked by flickering colors float inside a cell until a double-membrane “autophagosome” shell grows around them, wraps and closes, then moves to fuse with a lysosome, where the contents dissolve into smaller recyclable particles.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "cb2a92a36e",
+          "filename": "sentence-script-damaged-organelles-marked-by-flickering-colors-float-inside-a-cell-unt-8950c26f.py",
+          "note": "",
+          "created_at": "2026-05-25T13:01:55",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:07:20",
+      "updated_at": "2026-05-25T13:01:55"
+    },
+    "6e01cce8bb20": {
+      "id": "6e01cce8bb20",
+      "kind": "core_sentence",
+      "sentence": "Starting from a single cell on a flat surface, cells periodically replicate into two that gently push, collide, and rearrange, forming an expanding dome-shaped colony whose overall boundary is highlighted and whose inner cells become more tightly packed over time.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "00c62867dd",
+          "filename": "sentence-script-starting-from-a-single-cell-on-a-flat-surface-cells-periodically-repli-7bdca685.py",
+          "note": "",
+          "created_at": "2026-05-25T13:02:18",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:07:25",
+      "updated_at": "2026-05-25T13:02:18"
+    },
+    "d06a66ee7401": {
+      "id": "d06a66ee7401",
+      "kind": "core_sentence",
+      "sentence": "A cell is visualized like a small city with a central “city hall” nucleus, power plant mitochondria, and road-like cytoskeletal tracks; different colored vehicles (vesicles) follow these tracks, stop at “stations,” transfer cargo, and occasionally collide and reroute.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "f84190f450",
+          "filename": "sentence-script-a-cell-is-visualized-like-a-small-city-with-a-central-city-hall-nucleu-79257ef5.py",
+          "note": "",
+          "created_at": "2026-05-25T13:02:35",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:07:31",
+      "updated_at": "2026-05-25T13:02:35"
+    },
+    "bee2b267be28": {
+      "id": "bee2b267be28",
+      "kind": "core_sentence",
+      "sentence": "A healthy cell sphere gradually shrinks, its membrane blebs into small bubbles, and internal structures condense; the cell breaks into many apoptotic bodies that drift away until neighboring scavenger cells engulf and clear them.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "fa7f758316",
+          "filename": "sentence-script-a-healthy-cell-sphere-gradually-shrinks-its-membrane-blebs-into-small-ddec6dea.py",
+          "note": "",
+          "created_at": "2026-05-25T13:06:31",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:07:37",
+      "updated_at": "2026-05-25T13:06:31"
+    },
+    "eced8a63419a": {
+      "id": "eced8a63419a",
+      "kind": "core_sentence",
+      "sentence": "Numerous receptor rods embedded in the cell membrane tilt, rotate, and randomly “scan” the outside; when specific ligand particles collide and attach, the receptor changes shape and triggers a chain of glowing particles moving inward toward the nucleus.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "892b86e24e",
+          "filename": "sentence-script-numerous-receptor-rods-embedded-in-the-cell-membrane-tilt-rotate-and-r-281ecc4c.py",
+          "note": "",
+          "created_at": "2026-05-25T13:07:22",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-25T12:07:45",
+      "updated_at": "2026-05-25T13:07:22"
+    },
+    "4c614df075a0": {
+      "id": "4c614df075a0",
+      "kind": "core_sentence",
+      "sentence": "A transparent spherical cell with a semi-permeable membrane where colored particle “molecules” bounce, pass through channels, and get wrapped into vesicles that bud, move along filament “microtubules,” and fuse with organelles.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "dec953b61d",
+          "filename": "sentence-script-a-transparent-spherical-cell-with-a-semi-permeable-membrane-where-colo-79945e6f.py",
+          "note": "",
+          "created_at": "2026-05-26T04:01:24",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-26T04:01:02",
+      "updated_at": "2026-05-26T04:01:24"
+    },
+    "33663ec9158e": {
+      "id": "33663ec9158e",
+      "kind": "core_sentence",
+      "sentence": "A central root cylinder that grows downward and branches in 3D through semi-transparent soil layers, wrapping around rocks, seeking glowing water pockets that shrink as absorbed and cause localized root thickening.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [
+        "c6d6429497f3",
+        "28d72ccac706",
+        "deb921912fd9",
+        "64e4c6ab0be2",
+        "7c466e09d872",
+        "269fd34e2e7a",
+        "254aa658eb59",
+        "b8bff3b17496",
+        "fdd8571c8fc4",
+        "84ea8ed6a8e9",
+        "0a18206bfaa0",
+        "c1e0dea57146",
+        "692e3e3b6146",
+        "f704788524b8",
+        "9c5b3f490a77",
+        "ba1da613e1c4",
+        "2f4c91457773",
+        "677e4598816a",
+        "62526c0a905c",
+        "4e6b4f179d4e"
+      ],
+      "scripts": [
+        {
+          "id": "261c73e4a2",
+          "filename": "sentence-script-a-central-root-cylinder-that-grows-downward-and-branches-in-3d-through-d21fdbb2.py",
+          "note": "",
+          "created_at": "2026-05-27T22:36:17",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-27T22:32:55",
+      "updated_at": "2026-05-27T22:52:30"
+    },
+    "86ff01536158": {
+      "id": "86ff01536158",
+      "kind": "core_sentence",
+      "sentence": "A cluster of semi-transparent alveolar sacs where red and blue particles (O₂ and CO₂) diffuse across thin membranes into and out of branching blood capillary tubes, with changing color gradients showing oxygen saturation.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [],
+      "scripts": [
+        {
+          "id": "5cecbd7afe",
+          "filename": "sentence-script-a-cluster-of-semi-transparent-alveolar-sacs-where-red-and-blue-particl-33f4ab53.py",
+          "note": "",
+          "created_at": "2026-05-27T22:38:26",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-27T22:33:13",
+      "updated_at": "2026-05-27T22:38:26"
+    },
+    "7963ce698c56": {
+      "id": "7963ce698c56",
+      "kind": "core_sentence",
+      "sentence": "A large, flexible amoeboid immune cell that crawls and deforms as it chases a smaller bacterium, leaving a faint chemotactic gradient trail, then engulfs it, with internal particles “digesting” and fading it out.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [
+        "1ed644f80954",
+        "9bef71223e6c",
+        "3b149e3828a4",
+        "9d5638edb467",
+        "c047bd446ff6",
+        "8c517b2de32d",
+        "46b32fca4f0a",
+        "773b1908a0e1",
+        "ef9da116d3f4",
+        "55fff5b8d450",
+        "9f9576ba333c",
+        "e32965840774",
+        "8f882b4add74",
+        "946457c8d7fc",
+        "434e55d063dd",
+        "ce2671bc311e",
+        "c55ec48cceab",
+        "ee64b100aace",
+        "c18c9bd79bc0",
+        "a8d11f65d796"
+      ],
+      "scripts": [
+        {
+          "id": "b404f62118",
+          "filename": "sentence-script-a-large-flexible-amoeboid-immune-cell-that-crawls-and-deforms-as-it-ch-d2c9d4ca.py",
+          "note": "",
+          "created_at": "2026-05-27T22:40:23",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-27T22:33:38",
+      "updated_at": "2026-05-27T23:13:45"
+    },
+    "1ca24dc5da71": {
+      "id": "1ca24dc5da71",
+      "kind": "core_sentence",
+      "sentence": "A coiled chromosome fiber that slowly unravels into a double helix, with replication forks moving in opposite directions, attaching and detaching enzyme “machines” that copy strands and spawn new glowing daughter helices.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [
+        "c649f41a7952",
+        "1bb92688ab76",
+        "d737ec811eb5",
+        "47e613f613fb",
+        "9b5d6e1193e3",
+        "0bfe056736d2",
+        "ad7700013b6d",
+        "a88367d55bcd",
+        "888fb7a0a8bf",
+        "e60705689db5",
+        "54f3f9a561d8",
+        "d6b60de525ff",
+        "b487056849a2",
+        "f1bac195c065",
+        "61196702e78a",
+        "32d88ace649a",
+        "87f5495c208e",
+        "618ec2c9aedb",
+        "254e83fe9e1d",
+        "cb58a62cea20"
+      ],
+      "scripts": [
+        {
+          "id": "ca767e1885",
+          "filename": "sentence-script-a-coiled-chromosome-fiber-that-slowly-unravels-into-a-double-helix-wit-d8c28b34.py",
+          "note": "",
+          "created_at": "2026-05-27T22:42:15",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-27T22:34:27",
+      "updated_at": "2026-05-27T23:20:18"
+    },
+    "4e228a322333": {
+      "id": "4e228a322333",
+      "kind": "core_sentence",
+      "sentence": "A single cell sphere with visible chromosomes that condense, align along a central plane with spindle fibers pulling them apart, then the cell membrane pinches in to split into two labeled daughter cells.",
+      "title": "Core sentence",
+      "parent_id": null,
+      "children": [
+        "e73cdcb72a9e",
+        "71ddc95d7c57",
+        "940d041572b7",
+        "566db4ab8ae4",
+        "e083cb2949bd",
+        "03339e94dc8b",
+        "beac015c3575",
+        "752465aa30da",
+        "bb9f11759384",
+        "bc6166ed760e",
+        "43748e893c0b",
+        "34c17341cf4f",
+        "6835d9695715",
+        "bfe2d9c5da3a",
+        "3287907c878d",
+        "17cbac99b94d",
+        "5a82f7bca4d6",
+        "2fe2092491fb",
+        "dfa5e56c1334",
+        "e5c4a01d7506"
+      ],
+      "scripts": [
+        {
+          "id": "639c9a0201",
+          "filename": "sentence-script-a-single-cell-sphere-with-visible-chromosomes-that-condense-align-alon-3e9a2f43.py",
+          "note": "",
+          "created_at": "2026-05-27T22:44:07",
+          "manual_entry": true
+        }
+      ],
+      "created_at": "2026-05-27T22:34:53",
+      "updated_at": "2026-05-27T22:57:31"
+    },
+    "c6d6429497f3": {
+      "id": "c6d6429497f3",
+      "kind": "core_sentence",
+      "sentence": "Fine hair-like fibers emerge near wet regions, increasing absorption before fading in drier zones.",
+      "title": "Next sentence branch",
+      "parent_id": "33663ec9158e",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:47:55",
+      "updated_at": "2026-05-27T22:47:55"
+    },
+    "28d72ccac706": {
+      "id": "28d72ccac706",
+      "kind": "core_sentence",
+      "sentence": "Rocks redirect growth, forcing branches to curve, split, or flatten as they search for open passages.",
+      "title": "Next sentence branch",
+      "parent_id": "33663ec9158e",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:48:06",
+      "updated_at": "2026-05-27T22:48:06"
+    },
+    "deb921912fd9": {
+      "id": "deb921912fd9",
+      "kind": "core_sentence",
+      "sentence": "Dry soil layers slow expansion, causing tips to pause, thicken, and probe in multiple directions.",
+      "title": "Next sentence branch",
+      "parent_id": "33663ec9158e",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:48:13",
+      "updated_at": "2026-05-27T22:48:13"
+    },
+    "64e4c6ab0be2": {
+      "id": "64e4c6ab0be2",
+      "kind": "core_sentence",
+      "sentence": "Water-rich pockets send faint gradients through the soil, pulling nearby tips toward them.",
+      "title": "Next sentence branch",
+      "parent_id": "33663ec9158e",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:48:22",
+      "updated_at": "2026-05-27T22:48:22"
+    },
+    "7c466e09d872": {
+      "id": "7c466e09d872",
+      "kind": "core_sentence",
+      "sentence": "Older branches darken and stiffen while younger tips remain pale, flexible, and exploratory.",
+      "title": "Next sentence branch",
+      "parent_id": "33663ec9158e",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:48:31",
+      "updated_at": "2026-05-27T22:48:31"
+    },
+    "269fd34e2e7a": {
+      "id": "269fd34e2e7a",
+      "kind": "core_sentence",
+      "sentence": "Some branches compete for the same water source, with the fastest one thickening while weaker ones shrink back.",
+      "title": "Next sentence branch",
+      "parent_id": "33663ec9158e",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:48:41",
+      "updated_at": "2026-05-27T22:48:41"
+    },
+    "254aa658eb59": {
+      "id": "254aa658eb59",
+      "kind": "core_sentence",
+      "sentence": "Nutrient crystals appear in scattered clusters, causing roots to balance between water-seeking and mineral-seeking behavior.",
+      "title": "Next sentence branch",
+      "parent_id": "33663ec9158e",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:48:48",
+      "updated_at": "2026-05-27T22:48:48"
+    },
+    "b8bff3b17496": {
+      "id": "b8bff3b17496",
+      "kind": "core_sentence",
+      "sentence": "The surrounding soil compresses around thicker roots, leaving visible tunnels behind them.",
+      "title": "Next sentence branch",
+      "parent_id": "33663ec9158e",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:49:16",
+      "updated_at": "2026-05-27T22:49:16"
+    },
+    "fdd8571c8fc4": {
+      "id": "fdd8571c8fc4",
+      "kind": "core_sentence",
+      "sentence": "When a pocket is drained, nearby growth slows and redirects toward the next strongest signal.",
+      "title": "Next sentence branch",
+      "parent_id": "33663ec9158e",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:49:48",
+      "updated_at": "2026-05-27T22:49:48"
+    },
+    "84ea8ed6a8e9": {
+      "id": "84ea8ed6a8e9",
+      "kind": "core_sentence",
+      "sentence": "Branches occasionally fuse with neighboring branches, forming loops that stabilize the underground network.",
+      "title": "Next sentence branch",
+      "parent_id": "33663ec9158e",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:49:59",
+      "updated_at": "2026-05-27T22:49:59"
+    },
+    "0a18206bfaa0": {
+      "id": "0a18206bfaa0",
+      "kind": "core_sentence",
+      "sentence": "Small fungal threads appear and connect to root tips, trading nutrients for water access.",
+      "title": "Next sentence branch",
+      "parent_id": "33663ec9158e",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:50:06",
+      "updated_at": "2026-05-27T22:50:06"
+    },
+    "c1e0dea57146": {
+      "id": "c1e0dea57146",
+      "kind": "core_sentence",
+      "sentence": "Heavy stones create shadow zones where growth avoids pressure and follows softer soil.",
+      "title": "Next sentence branch",
+      "parent_id": "33663ec9158e",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:50:15",
+      "updated_at": "2026-05-27T22:50:15"
+    },
+    "692e3e3b6146": {
+      "id": "692e3e3b6146",
+      "kind": "core_sentence",
+      "sentence": "Seasonal pulses change the soil moisture, causing dormant branches to reactivate after long pauses.",
+      "title": "Next sentence branch",
+      "parent_id": "33663ec9158e",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:50:28",
+      "updated_at": "2026-05-27T22:50:28"
+    },
+    "f704788524b8": {
+      "id": "f704788524b8",
+      "kind": "core_sentence",
+      "sentence": "Some tips fail to find water and seal themselves off, leaving behind dry, faded root paths.",
+      "title": "Next sentence branch",
+      "parent_id": "33663ec9158e",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:50:41",
+      "updated_at": "2026-05-27T22:50:41"
+    },
+    "9c5b3f490a77": {
+      "id": "9c5b3f490a77",
+      "kind": "core_sentence",
+      "sentence": "The deepest branch becomes dominant, pulling more resources downward while side branches search horizontally.",
+      "title": "Next sentence branch",
+      "parent_id": "33663ec9158e",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:51:09",
+      "updated_at": "2026-05-27T22:51:09"
+    },
+    "ba1da613e1c4": {
+      "id": "ba1da613e1c4",
+      "kind": "core_sentence",
+      "sentence": "A stress signal travels upward whenever too many tips enter dry regions at once.",
+      "title": "Next sentence branch",
+      "parent_id": "33663ec9158e",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:51:35",
+      "updated_at": "2026-05-27T22:51:35"
+    },
+    "2f4c91457773": {
+      "id": "2f4c91457773",
+      "kind": "core_sentence",
+      "sentence": "Soil layers shift slightly over time, opening cracks that become preferred routes for new growth.",
+      "title": "Next sentence branch",
+      "parent_id": "33663ec9158e",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:51:49",
+      "updated_at": "2026-05-27T22:51:49"
+    },
+    "677e4598816a": {
+      "id": "677e4598816a",
+      "kind": "core_sentence",
+      "sentence": "Absorbed water moves upward as glowing pulses through the main structure.",
+      "title": "Next sentence branch",
+      "parent_id": "33663ec9158e",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:52:04",
+      "updated_at": "2026-05-27T22:52:04"
+    },
+    "62526c0a905c": {
+      "id": "62526c0a905c",
+      "kind": "core_sentence",
+      "sentence": "Local thickening creates anchor points that help the whole network resist shifting ground.",
+      "title": "Next sentence branch",
+      "parent_id": "33663ec9158e",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:52:19",
+      "updated_at": "2026-05-27T22:52:19"
+    },
+    "4e6b4f179d4e": {
+      "id": "4e6b4f179d4e",
+      "kind": "core_sentence",
+      "sentence": "Over time, the hidden structure becomes a map of pressure, moisture, memory, and survival.",
+      "title": "Next sentence branch",
+      "parent_id": "33663ec9158e",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:52:30",
+      "updated_at": "2026-05-27T22:52:30"
+    },
+    "e73cdcb72a9e": {
+      "id": "e73cdcb72a9e",
+      "kind": "core_sentence",
+      "sentence": "A glowing checkpoint pauses the process until every chromosome is properly attached.",
+      "title": "Next sentence branch",
+      "parent_id": "4e228a322333",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:54:12",
+      "updated_at": "2026-05-27T22:54:12"
+    },
+    "71ddc95d7c57": {
+      "id": "71ddc95d7c57",
+      "kind": "core_sentence",
+      "sentence": "Spindle fibers attach unevenly at first, forcing repeated correction before separation continues.",
+      "title": "Next sentence branch",
+      "parent_id": "4e228a322333",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:54:33",
+      "updated_at": "2026-05-27T22:54:33"
+    },
+    "940d041572b7": {
+      "id": "940d041572b7",
+      "kind": "core_sentence",
+      "sentence": "The nuclear envelope dissolves into fragments that later rebuild around each chromosome group.",
+      "title": "Next sentence branch",
+      "parent_id": "4e228a322333",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:54:42",
+      "updated_at": "2026-05-27T22:54:42"
+    },
+    "566db4ab8ae4": {
+      "id": "566db4ab8ae4",
+      "kind": "core_sentence",
+      "sentence": "Microtubules grow, shrink, search, and reconnect as they pull chromosomes into a precise line.",
+      "title": "Next sentence branch",
+      "parent_id": "4e228a322333",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:54:52",
+      "updated_at": "2026-05-27T22:54:52"
+    },
+    "e083cb2949bd": {
+      "id": "e083cb2949bd",
+      "kind": "core_sentence",
+      "sentence": "The chromosomes pulse brighter as tension increases between opposite poles.",
+      "title": "Next sentence branch",
+      "parent_id": "4e228a322333",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:55:02",
+      "updated_at": "2026-05-27T22:55:02"
+    },
+    "03339e94dc8b": {
+      "id": "03339e94dc8b",
+      "kind": "core_sentence",
+      "sentence": "One chromosome lags behind, delaying division while nearby fibers pull it back into position.",
+      "title": "Next sentence branch",
+      "parent_id": "4e228a322333",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:55:15",
+      "updated_at": "2026-05-27T22:55:15"
+    },
+    "beac015c3575": {
+      "id": "beac015c3575",
+      "kind": "core_sentence",
+      "sentence": "The cell stretches into an oval shape as the pulling forces increase.",
+      "title": "Next sentence branch",
+      "parent_id": "4e228a322333",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:55:24",
+      "updated_at": "2026-05-27T22:55:24"
+    },
+    "752465aa30da": {
+      "id": "752465aa30da",
+      "kind": "core_sentence",
+      "sentence": "A tightening ring forms around the middle and gradually deepens the division groove.",
+      "title": "Next sentence branch",
+      "parent_id": "4e228a322333",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:55:33",
+      "updated_at": "2026-05-27T22:55:33"
+    },
+    "bb9f11759384": {
+      "id": "bb9f11759384",
+      "kind": "core_sentence",
+      "sentence": "Organelles drift toward opposite sides so each new cell receives a balanced set.",
+      "title": "Next sentence branch",
+      "parent_id": "4e228a322333",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:55:41",
+      "updated_at": "2026-05-27T22:55:41"
+    },
+    "bc6166ed760e": {
+      "id": "bc6166ed760e",
+      "kind": "core_sentence",
+      "sentence": "The daughter cells remain connected by a thin bridge before finally separating.",
+      "title": "Next sentence branch",
+      "parent_id": "4e228a322333",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:55:51",
+      "updated_at": "2026-05-27T22:55:51"
+    },
+    "43748e893c0b": {
+      "id": "43748e893c0b",
+      "kind": "core_sentence",
+      "sentence": "If the membrane closes too early, trapped chromosomes trigger a reversal and repair phase.",
+      "title": "Next sentence branch",
+      "parent_id": "4e228a322333",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:56:00",
+      "updated_at": "2026-05-27T22:56:00"
+    },
+    "34c17341cf4f": {
+      "id": "34c17341cf4f",
+      "kind": "core_sentence",
+      "sentence": "The spindle poles shift slightly to correct an off-center division plane.",
+      "title": "Next sentence branch",
+      "parent_id": "4e228a322333",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:56:08",
+      "updated_at": "2026-05-27T22:56:08"
+    },
+    "6835d9695715": {
+      "id": "6835d9695715",
+      "kind": "core_sentence",
+      "sentence": "A repair system scans the chromosome groups before the new nuclei fully form.",
+      "title": "Next sentence branch",
+      "parent_id": "4e228a322333",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:56:17",
+      "updated_at": "2026-05-27T22:56:17"
+    },
+    "bfe2d9c5da3a": {
+      "id": "bfe2d9c5da3a",
+      "kind": "core_sentence",
+      "sentence": "The surrounding environment presses on one side, creating an uneven split.",
+      "title": "Next sentence branch",
+      "parent_id": "4e228a322333",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:56:26",
+      "updated_at": "2026-05-27T22:56:26"
+    },
+    "3287907c878d": {
+      "id": "3287907c878d",
+      "kind": "core_sentence",
+      "sentence": "The separated chromosome groups begin loosening back into soft genetic clouds.",
+      "title": "Next sentence branch",
+      "parent_id": "4e228a322333",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:56:33",
+      "updated_at": "2026-05-27T22:56:33"
+    },
+    "17cbac99b94d": {
+      "id": "17cbac99b94d",
+      "kind": "core_sentence",
+      "sentence": "The new nuclei glow faintly as they seal around each daughter cell’s chromosomes.",
+      "title": "Next sentence branch",
+      "parent_id": "4e228a322333",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:56:42",
+      "updated_at": "2026-05-27T22:56:42"
+    },
+    "5a82f7bca4d6": {
+      "id": "5a82f7bca4d6",
+      "kind": "core_sentence",
+      "sentence": "Leftover spindle fibers fade into particles and drift toward the cell boundary.",
+      "title": "Next sentence branch",
+      "parent_id": "4e228a322333",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:56:51",
+      "updated_at": "2026-05-27T22:56:51"
+    },
+    "2fe2092491fb": {
+      "id": "2fe2092491fb",
+      "kind": "core_sentence",
+      "sentence": "The daughter cells grow slowly, drift apart, and prepare for another cycle.",
+      "title": "Next sentence branch",
+      "parent_id": "4e228a322333",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:57:12",
+      "updated_at": "2026-05-27T22:57:12"
+    },
+    "dfa5e56c1334": {
+      "id": "dfa5e56c1334",
+      "kind": "core_sentence",
+      "sentence": "A stress signal slows the entire sequence when alignment becomes unstable.",
+      "title": "Next sentence branch",
+      "parent_id": "4e228a322333",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:57:20",
+      "updated_at": "2026-05-27T22:57:20"
+    },
+    "e5c4a01d7506": {
+      "id": "e5c4a01d7506",
+      "kind": "core_sentence",
+      "sentence": "The final split leaves a fading trail where the original cell boundary pinched inward.",
+      "title": "Next sentence branch",
+      "parent_id": "4e228a322333",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T22:57:31",
+      "updated_at": "2026-05-27T22:57:31"
+    },
+    "1ed644f80954": {
+      "id": "1ed644f80954",
+      "kind": "core_sentence",
+      "sentence": "The immune cell begins to secrete signaling molecules that attract other immune cells, creating a coordinated swarm.",
+      "title": "Generated next sentence 1",
+      "parent_id": "7963ce698c56",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:13:45",
+      "updated_at": "2026-05-27T23:13:45",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "4f360147b8",
+      "generation_index": 1
+    },
+    "9bef71223e6c": {
+      "id": "9bef71223e6c",
+      "kind": "core_sentence",
+      "sentence": "The engulfed bacterium sporadically releases toxins that temporarily slow the immune cell's movement.",
+      "title": "Generated next sentence 2",
+      "parent_id": "7963ce698c56",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:13:45",
+      "updated_at": "2026-05-27T23:13:45",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "4f360147b8",
+      "generation_index": 2
+    },
+    "3b149e3828a4": {
+      "id": "3b149e3828a4",
+      "kind": "core_sentence",
+      "sentence": "Nutrient particles diffuse from the digested bacterium, enhancing the immune cell's growth and motility.",
+      "title": "Generated next sentence 3",
+      "parent_id": "7963ce698c56",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:13:45",
+      "updated_at": "2026-05-27T23:13:45",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "4f360147b8",
+      "generation_index": 3
+    },
+    "9d5638edb467": {
+      "id": "9d5638edb467",
+      "kind": "core_sentence",
+      "sentence": "The immune cell starts extending fine pseudopods that probe the environment for additional bacteria.",
+      "title": "Generated next sentence 4",
+      "parent_id": "7963ce698c56",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:13:45",
+      "updated_at": "2026-05-27T23:13:45",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "4f360147b8",
+      "generation_index": 4
+    },
+    "c047bd446ff6": {
+      "id": "c047bd446ff6",
+      "kind": "core_sentence",
+      "sentence": "The chemical gradient trail gradually dissolves, allowing other cells to follow but with decreasing accuracy over time.",
+      "title": "Generated next sentence 5",
+      "parent_id": "7963ce698c56",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:13:45",
+      "updated_at": "2026-05-27T23:13:45",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "4f360147b8",
+      "generation_index": 5
+    },
+    "8c517b2de32d": {
+      "id": "8c517b2de32d",
+      "kind": "core_sentence",
+      "sentence": "Nearby bacterium detect the immune cell's presence and form biofilm clusters to resist engulfment.",
+      "title": "Generated next sentence 6",
+      "parent_id": "7963ce698c56",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:13:45",
+      "updated_at": "2026-05-27T23:13:45",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "4f360147b8",
+      "generation_index": 6
+    },
+    "46b32fca4f0a": {
+      "id": "46b32fca4f0a",
+      "kind": "core_sentence",
+      "sentence": "Internalized particles rearrange to form a nutrient storage compartment, increasing the cell's resilience.",
+      "title": "Generated next sentence 7",
+      "parent_id": "7963ce698c56",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:13:45",
+      "updated_at": "2026-05-27T23:13:45",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "4f360147b8",
+      "generation_index": 7
+    },
+    "773b1908a0e1": {
+      "id": "773b1908a0e1",
+      "kind": "core_sentence",
+      "sentence": "The amoeboid cell's surface texture changes, becoming rougher to enhance adhesion on uneven substrates.",
+      "title": "Generated next sentence 8",
+      "parent_id": "7963ce698c56",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:13:45",
+      "updated_at": "2026-05-27T23:13:45",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "4f360147b8",
+      "generation_index": 8
+    },
+    "ef9da116d3f4": {
+      "id": "ef9da116d3f4",
+      "kind": "core_sentence",
+      "sentence": "Damaged areas on the cell membrane trigger localized repair mechanisms involving rapid polymerization.",
+      "title": "Generated next sentence 9",
+      "parent_id": "7963ce698c56",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:13:45",
+      "updated_at": "2026-05-27T23:13:45",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "4f360147b8",
+      "generation_index": 9
+    },
+    "55fff5b8d450": {
+      "id": "55fff5b8d450",
+      "kind": "core_sentence",
+      "sentence": "The bacterium emits a pulsing light signal that disrupts the immune cell’s chemotactic sensing.",
+      "title": "Generated next sentence 10",
+      "parent_id": "7963ce698c56",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:13:45",
+      "updated_at": "2026-05-27T23:13:45",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "4f360147b8",
+      "generation_index": 10
+    },
+    "9f9576ba333c": {
+      "id": "9f9576ba333c",
+      "kind": "core_sentence",
+      "sentence": "The immune cell initiates a cyclical contraction-expansion rhythm, propelling it faster toward bacterial hotspots.",
+      "title": "Generated next sentence 11",
+      "parent_id": "7963ce698c56",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:13:45",
+      "updated_at": "2026-05-27T23:13:45",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "4f360147b8",
+      "generation_index": 11
+    },
+    "e32965840774": {
+      "id": "e32965840774",
+      "kind": "core_sentence",
+      "sentence": "Environmental pH shifts cause the immune cell to alter its deformation dynamics and movement patterns.",
+      "title": "Generated next sentence 12",
+      "parent_id": "7963ce698c56",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:13:45",
+      "updated_at": "2026-05-27T23:13:45",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "4f360147b8",
+      "generation_index": 12
+    },
+    "8f882b4add74": {
+      "id": "8f882b4add74",
+      "kind": "core_sentence",
+      "sentence": "The internal digesting particles emit faint fluorescent signals to indicate active breakdown zones.",
+      "title": "Generated next sentence 13",
+      "parent_id": "7963ce698c56",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:13:45",
+      "updated_at": "2026-05-27T23:13:45",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "4f360147b8",
+      "generation_index": 13
+    },
+    "946457c8d7fc": {
+      "id": "946457c8d7fc",
+      "kind": "core_sentence",
+      "sentence": "The immune cell splits into two smaller cells upon reaching a nutrient threshold, increasing population.",
+      "title": "Generated next sentence 14",
+      "parent_id": "7963ce698c56",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:13:45",
+      "updated_at": "2026-05-27T23:13:45",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "4f360147b8",
+      "generation_index": 14
+    },
+    "434e55d063dd": {
+      "id": "434e55d063dd",
+      "kind": "core_sentence",
+      "sentence": "The bacterium’s remnants accumulate in the environment, providing resources for opportunistic organisms.",
+      "title": "Generated next sentence 15",
+      "parent_id": "7963ce698c56",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:13:45",
+      "updated_at": "2026-05-27T23:13:45",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "4f360147b8",
+      "generation_index": 15
+    },
+    "ce2671bc311e": {
+      "id": "ce2671bc311e",
+      "kind": "core_sentence",
+      "sentence": "The cell’s gradient trail becomes more complex, encoding information about encountered pathogens’ types.",
+      "title": "Generated next sentence 16",
+      "parent_id": "7963ce698c56",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:13:45",
+      "updated_at": "2026-05-27T23:13:45",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "4f360147b8",
+      "generation_index": 16
+    },
+    "c55ec48cceab": {
+      "id": "c55ec48cceab",
+      "kind": "core_sentence",
+      "sentence": "The immune cell temporarily pauses movement to consolidate energy from recent ingestion before resuming chase.",
+      "title": "Generated next sentence 17",
+      "parent_id": "7963ce698c56",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:13:45",
+      "updated_at": "2026-05-27T23:13:45",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "4f360147b8",
+      "generation_index": 17
+    },
+    "ee64b100aace": {
+      "id": "ee64b100aace",
+      "kind": "core_sentence",
+      "sentence": "Toxic byproducts from digestion leak into the environment, repelling nearby bacteria through chemical signaling.",
+      "title": "Generated next sentence 18",
+      "parent_id": "7963ce698c56",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:13:45",
+      "updated_at": "2026-05-27T23:13:45",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "4f360147b8",
+      "generation_index": 18
+    },
+    "c18c9bd79bc0": {
+      "id": "c18c9bd79bc0",
+      "kind": "core_sentence",
+      "sentence": "The bacterium’s surface proteins trigger an immune cell receptor cascade, enhancing phagocytosis efficiency.",
+      "title": "Generated next sentence 19",
+      "parent_id": "7963ce698c56",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:13:45",
+      "updated_at": "2026-05-27T23:13:45",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "4f360147b8",
+      "generation_index": 19
+    },
+    "a8d11f65d796": {
+      "id": "a8d11f65d796",
+      "kind": "core_sentence",
+      "sentence": "The immune cell gradually develops thicker cortical layers, reducing flexibility but increasing mechanical strength.",
+      "title": "Generated next sentence 20",
+      "parent_id": "7963ce698c56",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:13:45",
+      "updated_at": "2026-05-27T23:13:45",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "4f360147b8",
+      "generation_index": 20
+    },
+    "c649f41a7952": {
+      "id": "c649f41a7952",
+      "kind": "core_sentence",
+      "sentence": "Sections of the DNA begin to exhibit looping interactions, temporarily bringing distant parts into close proximity and enabling complex regulatory feedback.",
+      "title": "Generated next sentence 1",
+      "parent_id": "1ca24dc5da71",
+      "children": [],
+      "scripts": [
+        {
+          "id": "593aefb083",
+          "filename": "sentence-script-a-coiled-chromosome-fiber-that-slowly-unravels-into-a-double-helix-wit-d8c-81d9b8.py",
+          "note": "Automated modification of sentence-script-a-coiled-chromosome-fiber-that-slowly-unravels-into-a-double-helix-wit-d8c28b34.py",
+          "created_at": "2026-05-27T23:32:50",
+          "manual_entry": false,
+          "generated_from": "automated_script_modification",
+          "source_filename": "sentence-script-a-coiled-chromosome-fiber-that-slowly-unravels-into-a-double-helix-wit-d8c28b34.py",
+          "modifier_sentence": "Sections of the DNA begin to exhibit looping interactions, temporarily bringing distant parts into close proximity and enabling complex regulatory feedback."
+        }
+      ],
+      "created_at": "2026-05-27T23:20:18",
+      "updated_at": "2026-05-27T23:32:50",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "16c0a1b277",
+      "generation_index": 1
+    },
+    "1bb92688ab76": {
+      "id": "1bb92688ab76",
+      "kind": "core_sentence",
+      "sentence": "Replication forks encounter localized stress points, causing intermittent pauses and triggering repair enzyme recruitment to maintain fidelity.",
+      "title": "Generated next sentence 2",
+      "parent_id": "1ca24dc5da71",
+      "children": [],
+      "scripts": [
+        {
+          "id": "89779d4a3f",
+          "filename": "sentence-script-a-coiled-chromosome-fiber-that-slowly-unravels-into-a-double-helix-wit-d8c-19dc21.py",
+          "note": "Automated modification of sentence-script-a-coiled-chromosome-fiber-that-slowly-unravels-into-a-double-helix-wit-d8c28b34.py",
+          "created_at": "2026-05-27T23:27:37",
+          "manual_entry": false,
+          "generated_from": "automated_script_modification",
+          "source_filename": "sentence-script-a-coiled-chromosome-fiber-that-slowly-unravels-into-a-double-helix-wit-d8c28b34.py",
+          "modifier_sentence": "Replication forks encounter localized stress points, causing intermittent pauses and triggering repair enzyme recruitment to maintain fidelity."
+        }
+      ],
+      "created_at": "2026-05-27T23:20:18",
+      "updated_at": "2026-05-27T23:27:37",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "16c0a1b277",
+      "generation_index": 2
+    },
+    "d737ec811eb5": {
+      "id": "d737ec811eb5",
+      "kind": "core_sentence",
+      "sentence": "Daughter helices start to branch and overlap, creating a dense mesh of intertwined genetic material that dynamically shifts shape.",
+      "title": "Generated next sentence 3",
+      "parent_id": "1ca24dc5da71",
+      "children": [],
+      "scripts": [
+        {
+          "id": "b0b140a2f1",
+          "filename": "sentence-script-a-coiled-chromosome-fiber-that-slowly-unravels-into-a-double-helix-wit-d8c-b8ba74.py",
+          "note": "Automated modification of sentence-script-a-coiled-chromosome-fiber-that-slowly-unravels-into-a-double-helix-wit-d8c28b34.py",
+          "created_at": "2026-05-27T23:41:54",
+          "manual_entry": false,
+          "generated_from": "automated_script_modification",
+          "source_filename": "sentence-script-a-coiled-chromosome-fiber-that-slowly-unravels-into-a-double-helix-wit-d8c28b34.py",
+          "modifier_sentence": "Daughter helices start to branch and overlap, creating a dense mesh of intertwined genetic material that dynamically shifts shape."
+        }
+      ],
+      "created_at": "2026-05-27T23:20:18",
+      "updated_at": "2026-05-27T23:41:54",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "16c0a1b277",
+      "generation_index": 3
+    },
+    "47e613f613fb": {
+      "id": "47e613f613fb",
+      "kind": "core_sentence",
+      "sentence": "Enzyme “machines” begin leaving glowing trails marking previously copied regions, visually mapping the replication progress over time.",
+      "title": "Generated next sentence 4",
+      "parent_id": "1ca24dc5da71",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:20:18",
+      "updated_at": "2026-05-27T23:20:18",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "16c0a1b277",
+      "generation_index": 4
+    },
+    "9b5d6e1193e3": {
+      "id": "9b5d6e1193e3",
+      "kind": "core_sentence",
+      "sentence": "Some enzyme complexes mutate slightly, resulting in varying replication speeds and error rates among different forks.",
+      "title": "Generated next sentence 5",
+      "parent_id": "1ca24dc5da71",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:20:18",
+      "updated_at": "2026-05-27T23:20:18",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "16c0a1b277",
+      "generation_index": 5
+    },
+    "0bfe056736d2": {
+      "id": "0bfe056736d2",
+      "kind": "core_sentence",
+      "sentence": "The system introduces local chemical gradients that attract enzymes to specific regions, enhancing replication efficiency in targeted zones.",
+      "title": "Generated next sentence 6",
+      "parent_id": "1ca24dc5da71",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:20:18",
+      "updated_at": "2026-05-27T23:20:18",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "16c0a1b277",
+      "generation_index": 6
+    },
+    "ad7700013b6d": {
+      "id": "ad7700013b6d",
+      "kind": "core_sentence",
+      "sentence": "Over time, segments of the fiber undergo structural compaction, reversing unraveling and creating dynamic zones of accessibility.",
+      "title": "Generated next sentence 7",
+      "parent_id": "1ca24dc5da71",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:20:18",
+      "updated_at": "2026-05-27T23:20:18",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "16c0a1b277",
+      "generation_index": 7
+    },
+    "a88367d55bcd": {
+      "id": "a88367d55bcd",
+      "kind": "core_sentence",
+      "sentence": "Forks encountering each other initiate merging protocols, seamlessly joining daughter helices into longer continuous strands.",
+      "title": "Generated next sentence 8",
+      "parent_id": "1ca24dc5da71",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:20:18",
+      "updated_at": "2026-05-27T23:20:18",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "16c0a1b277",
+      "generation_index": 8
+    },
+    "888fb7a0a8bf": {
+      "id": "888fb7a0a8bf",
+      "kind": "core_sentence",
+      "sentence": "Damaged fiber regions trigger recruitment of specialized enzymes that digest faulty segments, causing localized fiber decay.",
+      "title": "Generated next sentence 9",
+      "parent_id": "1ca24dc5da71",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:20:18",
+      "updated_at": "2026-05-27T23:20:18",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "16c0a1b277",
+      "generation_index": 9
+    },
+    "e60705689db5": {
+      "id": "e60705689db5",
+      "kind": "core_sentence",
+      "sentence": "The fiber begins to twist and coil in response to mechanical tension, influencing the spatial distribution of replication forks.",
+      "title": "Generated next sentence 10",
+      "parent_id": "1ca24dc5da71",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:20:18",
+      "updated_at": "2026-05-27T23:20:18",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "16c0a1b277",
+      "generation_index": 10
+    },
+    "54f3f9a561d8": {
+      "id": "54f3f9a561d8",
+      "kind": "core_sentence",
+      "sentence": "Daughter helices spontaneously bifurcate under certain conditions, leading to branching replication pathways and increased complexity.",
+      "title": "Generated next sentence 11",
+      "parent_id": "1ca24dc5da71",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:20:18",
+      "updated_at": "2026-05-27T23:20:18",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "16c0a1b277",
+      "generation_index": 11
+    },
+    "d6b60de525ff": {
+      "id": "d6b60de525ff",
+      "kind": "core_sentence",
+      "sentence": "Enzymes competing for binding sites exhibit repulsion behavior, generating rhythmic patterns of attachment and detachment waves.",
+      "title": "Generated next sentence 12",
+      "parent_id": "1ca24dc5da71",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:20:18",
+      "updated_at": "2026-05-27T23:20:18",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "16c0a1b277",
+      "generation_index": 12
+    },
+    "b487056849a2": {
+      "id": "b487056849a2",
+      "kind": "core_sentence",
+      "sentence": "A feedback loop emerges where replicated sections emit signals attracting more enzyme complexes, accelerating overall replication pace.",
+      "title": "Generated next sentence 13",
+      "parent_id": "1ca24dc5da71",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:20:18",
+      "updated_at": "2026-05-27T23:20:18",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "16c0a1b277",
+      "generation_index": 13
+    },
+    "f1bac195c065": {
+      "id": "f1bac195c065",
+      "kind": "core_sentence",
+      "sentence": "Some daughter helices start to fluoresce with different intensities, visually encoding variations in replication fidelity or structural integrity.",
+      "title": "Generated next sentence 14",
+      "parent_id": "1ca24dc5da71",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:20:18",
+      "updated_at": "2026-05-27T23:20:18",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "16c0a1b277",
+      "generation_index": 14
+    },
+    "61196702e78a": {
+      "id": "61196702e78a",
+      "kind": "core_sentence",
+      "sentence": "Energy consumption metrics influence enzyme movement, causing them to periodically retreat and recharge before resuming activity.",
+      "title": "Generated next sentence 15",
+      "parent_id": "1ca24dc5da71",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:20:18",
+      "updated_at": "2026-05-27T23:20:18",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "16c0a1b277",
+      "generation_index": 15
+    },
+    "32d88ace649a": {
+      "id": "32d88ace649a",
+      "kind": "core_sentence",
+      "sentence": "Occasional strand breaks cause segments to split off and diffuse away, reducing fiber length and altering replication landscape.",
+      "title": "Generated next sentence 16",
+      "parent_id": "1ca24dc5da71",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:20:18",
+      "updated_at": "2026-05-27T23:20:18",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "16c0a1b277",
+      "generation_index": 16
+    },
+    "87f5495c208e": {
+      "id": "87f5495c208e",
+      "kind": "core_sentence",
+      "sentence": "The fiber’s surface texture changes dynamically, switching between smooth and rough states to modulate enzyme adhesion probabilities.",
+      "title": "Generated next sentence 17",
+      "parent_id": "1ca24dc5da71",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:20:18",
+      "updated_at": "2026-05-27T23:20:18",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "16c0a1b277",
+      "generation_index": 17
+    },
+    "618ec2c9aedb": {
+      "id": "618ec2c9aedb",
+      "kind": "core_sentence",
+      "sentence": "Enzymes learn to optimize their paths by avoiding congested areas, improving coordination and minimizing replication conflicts.",
+      "title": "Generated next sentence 18",
+      "parent_id": "1ca24dc5da71",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:20:18",
+      "updated_at": "2026-05-27T23:20:18",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "16c0a1b277",
+      "generation_index": 18
+    },
+    "254e83fe9e1d": {
+      "id": "254e83fe9e1d",
+      "kind": "core_sentence",
+      "sentence": "Nutrient resource flow becomes limited, leading to increased competition among enzymes and slowed replication rates.",
+      "title": "Generated next sentence 19",
+      "parent_id": "1ca24dc5da71",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:20:18",
+      "updated_at": "2026-05-27T23:20:18",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "16c0a1b277",
+      "generation_index": 19
+    },
+    "cb58a62cea20": {
+      "id": "cb58a62cea20",
+      "kind": "core_sentence",
+      "sentence": "Environmental stress induces selective enzyme deactivation, causing uneven replication and localized fiber fragility.",
+      "title": "Generated next sentence 20",
+      "parent_id": "1ca24dc5da71",
+      "children": [],
+      "scripts": [],
+      "created_at": "2026-05-27T23:20:18",
+      "updated_at": "2026-05-27T23:20:18",
+      "generated_from": "automated_next_sentence_branching_web_app",
+      "generation_batch_id": "16c0a1b277",
+      "generation_index": 20
+    }
+  }
+}

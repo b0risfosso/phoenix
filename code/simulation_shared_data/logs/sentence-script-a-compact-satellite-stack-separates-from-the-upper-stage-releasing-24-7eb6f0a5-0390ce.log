@@ -1,0 +1,12 @@
+Running: /Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-a-compact-satellite-stack-separates-from-the-upper-stage-releasing-24-7eb6f0a5.py
+Started: 2026-05-31T01:42:13
+
+/Users/b/phoenix/code/core_sentence_branch_script_web_app/.venv/lib/python3.12/site-packages/vpython/__init__.py:1: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import get_distribution, DistributionNotFound
+Traceback (most recent call last):
+  File "/Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-a-compact-satellite-stack-separates-from-the-upper-stage-releasing-24-7eb6f0a5.py", line 410, in <module>
+    update_trail(sat, pos, True)
+  File "/Users/b/phoenix/code/simulation_shared_data/scripts/sentence-script-a-compact-satellite-stack-separates-from-the-upper-stage-releasing-24-7eb6f0a5.py", line 328, in update_trail
+    if len(tr.points) > 35:
+           ^^^^^^^^^
+AttributeError: 'curve' object has no attribute 'points'. Did you mean: 'npoints'?
